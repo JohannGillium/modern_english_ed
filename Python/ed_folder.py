@@ -29,7 +29,7 @@ class ed:
 def start_ed(book):
     processed_file = ed(book)
     ed_repository = 'ed'
-    cufolder = os.path.dirname(os.path.abspath(__file__))
+    cufolder ='/home/jgillium/Bureau/Ed_modern_english/Output'
     processed_file.make(cufolder)
     repository_population = processed_file.ed_structure(cufolder,ed_repository)
 

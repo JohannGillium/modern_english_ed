@@ -29,7 +29,7 @@
         <xsl:text>&#xa;</xsl:text>
         <xsl:choose>
             <xsl:when test="//head">
-                <text>toc:&#xa;</text>
+                <text>toc: </text>
                 <xsl:for-each select="//head">
                     <xsl:text>- </xsl:text>
                     <xsl:value-of select="normalize-space(current())"/>
