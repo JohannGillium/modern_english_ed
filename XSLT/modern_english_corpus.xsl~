@@ -19,17 +19,17 @@
     <xsl:template match="teiHeader"> </xsl:template>
 
     <xsl:template name="YAML">
-        <xsl:text>layout: </xsl:text>
+        <xsl:text>layout: </xsl:text><xsl:choose><xsl:when test="//div1[@type='play']">drama</xsl:when><xsl:when test="//div1[@type='poem']">poem</xsl:when><xsl:otherwise><xsl:text>narrative</xsl:text></xsl:otherwise></xsl:choose>
         <xsl:text>&#xa;</xsl:text>
         <xsl:text>author: </xsl:text>
         <xsl:value-of select="/descendant::sourceDesc/descendant::author/text()"/>
         <xsl:text>&#xa;</xsl:text>
-        <xsl:text>title: </xsl:text>
-        <xsl:value-of select="/descendant::sourceDesc/descendant::title[@type = 'main']/text()"/>
+        <xsl:text>title: >&#xa;    </xsl:text>
+        <xsl:value-of select="normalize-space(/descendant::sourceDesc/descendant::title[@type = 'main']/text())"/>
         <xsl:text>&#xa;</xsl:text>
-        <xsl:choose>
+      <!--  <xsl:choose>
             <xsl:when test="//head">
-                <text>toc: </text>
+                <text>toc:&#xa;</text>
                 <xsl:for-each select="//head">
                     <xsl:text>- </xsl:text>
                     <xsl:value-of select="normalize-space(current())"/>
@@ -37,7 +37,7 @@
                 </xsl:for-each>
             </xsl:when>
             <xsl:otherwise/>
-        </xsl:choose>
+        </xsl:choose> -->
         <xsl:text>source: </xsl:text>
         <xsl:text>&#xa;</xsl:text>
     </xsl:template>
@@ -80,7 +80,7 @@
 
     <!--Below, template for the headers-->
     <xsl:template match="head">
-        <xsl:text>##</xsl:text>
+        <xsl:text>## </xsl:text>
         <xsl:apply-templates/>
         <xsl:text>&#xa;</xsl:text>
         <xsl:text>&#xa;</xsl:text>
@@ -94,9 +94,45 @@
         <xsl:text>&#xa;</xsl:text>
     </xsl:template>
 
+
     <xsl:template match="text()">
         <xsl:value-of select="normalize-space(.)"/>
     </xsl:template>
+    
+    
+    <!--For the play, we must deal with numerous particular features-->
+    
+<xsl:template match="list">
+
+<xsl:apply-templates></xsl:apply-templates>
+</xsl:template>
+
+<xsl:template match="item">
+<xsl:text>- </xsl:text><xsl:apply-templates></xsl:apply-templates><xsl:text>&#xa;</xsl:text>
+</xsl:template>
+    
+<xsl:template match="sp">
+<xsl:apply-templates></xsl:apply-templates></xsl:template>
 
 
+<xsl:template match="speaker"><xsl:value-of select="."></xsl:value-of><xsl:text>: </xsl:text></xsl:template>
+
+<xsl:template match="lb"><xsl:text>&#xa;</xsl:text></xsl:template>
+
+<xsl:template match="stage"><xsl:text>*</xsl:text><xsl:apply-templates></xsl:apply-templates><xsl:text>*</xsl:text></xsl:template>
+
+    
+    <!--END TEMPLATE FOR THE PLAY-->
+<!--
+
+<xsl:template match="text()">
+
+<xsl:analyze-string select="." regex="">
+
+<xsl:matching-substring></xsl:matching-substring>
+<xsl:non-matching-substring></xsl:non-matching-substring>
+
+</xsl:analyze-string>
+
+</xsl:template> -->
 </xsl:stylesheet>
