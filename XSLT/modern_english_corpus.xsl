@@ -107,6 +107,37 @@
         <xsl:value-of select="normalize-space(.)"/>
     </xsl:template>
     
+<!--FOOTNOTES-->
+
+<!--Maybe a template for the element seg-->
+
+
+
+<xsl:template match="ref">
+<xsl:text>[^</xsl:text><xsl:value-of select="./@target"></xsl:value-of><xsl:text>]</xsl:text>
+</xsl:template>
+
+<xsl:template match="note">
+<xsl:text>[^</xsl:text><xsl:value-of select="./@id"></xsl:value-of><xsl:text>]:</xsl:text><xsl:apply-templates></xsl:apply-templates>
+</xsl:template>
+
+<xsl:template match="seg[@type='note-symbol']">
+
+<xsl:choose>
+<xsl:when test="matches(./child::text(),[abcdefghijklmnopq])"><xsl:apply-templates></xsl:apply-templates></xsl:when>
+<xsl:otherwise></xsl:otherwise>
+
+</xsl:choose>
+
+</xsl:template>
+
+<xsl:template match="@type='notes'">
+<xsl:text>&#xa;</xsl:text>
+<xsl:apply-templates></xsl:apply-templates>
+</xsl:template>
+
+<!--END OF THE FOOTNOTES -->
+    
     
     <!--For the play, we must deal with numerous particular features-->
     
