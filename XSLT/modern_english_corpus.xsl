@@ -47,9 +47,6 @@
 
     <xsl:template match="lg">
         <xsl:apply-templates/>
-        <xsl:text>
-           
-        </xsl:text>
     </xsl:template>
 
     <xsl:template match="l">
@@ -78,15 +75,26 @@
 
     </xsl:template>
 
-    <!--Below, template for the headers-->
+    <!--Below, template for the headers
     <xsl:template match="head">
         <xsl:text>## </xsl:text>
         <xsl:apply-templates/>
         <xsl:text>&#xa;</xsl:text>
         <xsl:text>&#xa;</xsl:text>
     </xsl:template>
+-->
 
-
+<xsl:template match="head">
+<xsl:choose>
+<xsl:when test="parent::div1">
+<xsl:text># </xsl:text><xsl:apply-templates/><xsl:text>&#xa;</xsl:text><xsl:text>&#xa;</xsl:text>
+</xsl:when>
+<xsl:when test="parent::div2"><xsl:text>## </xsl:text><xsl:apply-templates/><xsl:text>&#xa;</xsl:text><xsl:text>&#xa;</xsl:text></xsl:when>
+<xsl:when test="parent::div3"><xsl:text>### </xsl:text><xsl:apply-templates/><xsl:text>&#xa;</xsl:text><xsl:text>&#xa;</xsl:text></xsl:when>
+<xsl:when test="parent::lg"><xsl:text>## </xsl:text><xsl:apply-templates/><xsl:text>&#xa;</xsl:text><xsl:text>&#xa;</xsl:text></xsl:when>
+<xsl:otherwise></xsl:otherwise> 
+</xsl:choose>
+</xsl:template>
 
     <xsl:template match="p">
         <xsl:apply-templates/>
