@@ -124,14 +124,14 @@
 <xsl:template match="seg[@type='note-symbol']">
 
 <xsl:choose>
-<xsl:when test="matches(./child::text(),[abcdefghijklmnopq])"><xsl:apply-templates></xsl:apply-templates></xsl:when>
+<xsl:when test="current()/child::text()[matches(.,'[a-z]')]"><xsl:apply-templates></xsl:apply-templates></xsl:when>
 <xsl:otherwise></xsl:otherwise>
 
 </xsl:choose>
 
 </xsl:template>
 
-<xsl:template match="@type='notes'">
+<xsl:template match="*[@type='notes']">
 <xsl:text>&#xa;</xsl:text>
 <xsl:apply-templates></xsl:apply-templates>
 </xsl:template>
