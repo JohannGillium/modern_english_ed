@@ -2,10 +2,12 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xs="http://www.w3.org/2001/XMLSchema" exclude-result-prefixes="xs" version="2.0">
 
-    <xsl:output method="text" omit-xml-declaration="yes" use-character-maps="mdash" encoding="UTF-8"/>
+    <xsl:output method="text" omit-xml-declaration="yes" use-character-maps="a" encoding="UTF-8"/>
     
-  <xsl:character-map name="mdash">
-    <xsl:output-character character="&#x2014;" string="&amp;mdash;" />
+  <xsl:character-map name="a">
+     <xsl:output-character character="&#x2014;" string="&amp;mdash;" />
+     <xsl:output-character character="&#x201d;" string="&amp;rdquo;"/>
+     <xsl:output-character character="&#x201c;" string="&amp;ldquo"/>
   </xsl:character-map>
 
   <xsl:strip-space elements="*"/>
