@@ -2,9 +2,13 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xs="http://www.w3.org/2001/XMLSchema" exclude-result-prefixes="xs" version="2.0">
 
-    <xsl:output method="text" omit-xml-declaration="yes" encoding="UTF-8"/>
+    <xsl:output method="text" omit-xml-declaration="yes" use-character-maps="mdash" encoding="UTF-8"/>
+    
+  <xsl:character-map name="mdash">
+    <xsl:output-character character="&#x2014;" string="&amp;mdash;" />
+  </xsl:character-map>
 
-    <xsl:strip-space elements="*"/>
+  <xsl:strip-space elements="*"/>
 
     <!--YAML FRONT-MATTER-->
 
@@ -102,9 +106,15 @@
         <xsl:text>&#xa;</xsl:text>
     </xsl:template>
 
-
+<!-- The normalize-space function used thereafter causes an issue, by removing leading and trailing whitespace, something we do not want
     <xsl:template match="text()">
         <xsl:value-of select="normalize-space(.)"/>
+    </xsl:template>
+    
+    -->
+    
+    <xsl:template match="text()">
+        <xsl:value-of select="translate(., '&#xA;', ' ')"/>
     </xsl:template>
     
 <!--FOOTNOTES-->
@@ -120,7 +130,7 @@
 <xsl:template match="note">
 <xsl:text>[^</xsl:text><xsl:value-of select="./@id"></xsl:value-of><xsl:text>]:</xsl:text><xsl:apply-templates></xsl:apply-templates>
 </xsl:template>
-
+<!--
 <xsl:template match="seg[@type='note-symbol']">
 
 <xsl:choose>
@@ -129,7 +139,7 @@
 
 </xsl:choose>
 
-</xsl:template>
+</xsl:template> -->
 
 <xsl:template match="*[@type='notes']">
 <xsl:text>&#xa;</xsl:text>

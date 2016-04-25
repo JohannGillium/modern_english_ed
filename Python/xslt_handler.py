@@ -9,9 +9,11 @@ class xslt:
         self.xslt_path = xslt_path
         self.path_output = path_output
     def transform(self):
-        parser = etree.XMLParser(recover=True)
+  #      parser = etree.XMLParser(recover=True)
+  #      doc = etree.parse(self.xml_path, parser)
+        parser = etree.XMLParser(no_network=False)
         doc = etree.parse(self.xml_path, parser)
-        parser.error_log  
+  #      parser.error_log  
         xslt_root = etree.fromstring(open(self.xslt_path).read())
         transform = etree.XSLT(xslt_root)
         result_tree = transform(doc)
