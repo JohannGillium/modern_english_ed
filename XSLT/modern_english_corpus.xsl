@@ -128,15 +128,11 @@
 <xsl:template match="ref">
 <xsl:text>[^</xsl:text><xsl:value-of select="./@target"></xsl:value-of><xsl:text>]</xsl:text>
 </xsl:template>
-
+<!--
 <xsl:template match="note">
-<xsl:text>[^</xsl:text><xsl:value-of select="./@id"></xsl:value-of><xsl:text>]:</xsl:text><xsl:choose><xsl:when test="child::seg/child::text()[matches(.,'[a-z]')]"><xsl:apply-templates/></xsl:when><xsl:when test="not(child::seg)"><xsl:apply-templates/></xsl:when><xsl:otherwise><xsl:apply-templates select="current()/node()[not(self::seg)]"/></xsl:otherwise></xsl:choose>
-</xsl:template>
+<xsl:text>[^</xsl:text><xsl:value-of select="./@id"></xsl:value-of><xsl:text>]:</xsl:text><xsl:choose><xsl:when test="child::seg/child::text()[matches(.,'[a-z]')]"><xsl:apply-templates/></xsl:when><xsl:when test="not(child::seg)"><xsl:apply-templates/></xsl:when><xsl:otherwise><xsl:apply-templates/></xsl:otherwise></xsl:choose>
+</xsl:template> -->
 
-<xsl:template name="note">
-<xsl:param>
-
-<xsl:template>
 <!--
 <xsl:template match="seg[@type='note-symbol']">
 
