@@ -8,7 +8,7 @@ import lxml.etree as etree
 counter = 0
 
 for i in os.listdir('/home/jgillium/Bureau/Corpus_modern_english/modern_english/uvaGenText/tei'):
-    if counter < 100:
+    if counter < 300:
         xslt_path = '/home/jgillium/Bureau/Ed_modern_english/XSLT/modern_english_corpus.xsl'
         folder_path = '/home/jgillium/Bureau/Corpus_modern_english/modern_english/uvaGenText/tei' 
         name_file_without_extension = os.path.splitext(i)[0]

@@ -10,7 +10,7 @@
      <xsl:output-character character="&#x201c;" string="&amp;ldquo"/>
   </xsl:character-map>
 
-  <xsl:strip-space elements="*"/>
+<!--  <xsl:strip-space elements="*"/> -->
 
     <!--YAML FRONT-MATTER-->
 
@@ -128,25 +128,26 @@
 <xsl:template match="ref">
 <xsl:text>[^</xsl:text><xsl:value-of select="./@target"></xsl:value-of><xsl:text>]</xsl:text>
 </xsl:template>
-<!--
+
 <xsl:template match="note">
-<xsl:text>[^</xsl:text><xsl:value-of select="./@id"></xsl:value-of><xsl:text>]:</xsl:text><xsl:choose><xsl:when test="child::seg/child::text()[matches(.,'[a-z]')]"><xsl:apply-templates/></xsl:when><xsl:when test="not(child::seg)"><xsl:apply-templates/></xsl:when><xsl:otherwise><xsl:apply-templates/></xsl:otherwise></xsl:choose>
-</xsl:template> -->
+<xsl:text>[^</xsl:text><xsl:value-of select="./@id"></xsl:value-of><xsl:text>]: </xsl:text><xsl:apply-templates select="node()"/>
+</xsl:template>
 
-<!--
+
 <xsl:template match="seg[@type='note-symbol']">
-
+ <xsl:variable name="alpha" 
+              select="'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'"/>
 <xsl:choose>
-<xsl:when test="current()/child::text()[matches(.,'[a-z]')]"><xsl:apply-templates></xsl:apply-templates></xsl:when>
+<xsl:when test="not(string-length(translate(current()/child::text(), $alpha, ''))=string-length(current()/child::text()))"><xsl:apply-templates></xsl:apply-templates></xsl:when>
 <xsl:otherwise></xsl:otherwise>
 
 </xsl:choose>
 
-</xsl:template> -->
+</xsl:template> 
 
 <xsl:template match="*[@type='notes']">
+<xsl:apply-templates select="node()"></xsl:apply-templates>
 <xsl:text>&#xa;</xsl:text>
-<xsl:apply-templates></xsl:apply-templates>
 </xsl:template>
 
 <!--END OF THE FOOTNOTES -->
