@@ -1,0 +1,415 @@
+---
+layout: narrative
+
+title: >
+    Additional Texts - Yuchi
+source: 
+---
+
+     
+# Additional Texts - Yuchi
+
+  
+## Note About the Editor
+
+ Barbara Cox is a descendent of James Roane Gregory. These texts are of two types, histories and correspondence. The histories follow the pattern of those published above.
+
+ The correspondence includes letters Gregory sent to two prominent Indian Territory figures, Emmet Starr and Pleasant Porter. It is included because of the light it sheds on Gregory's concepts of American Indian history and culture.
+
+ Starr was a native of the Cherokee Nation who graduated from the Cherokee Male Seminary before attending Barnes Medical College in St. Louis. He practiced medicine for five years in the Nation, but gave up that profession to take up his monumental work on Cherokee genealogy and history.
+
+ After serving in the Confederate Creek Regiment during the Civil War, Porter reorganized the Creek school system and was a delegate to Washington. He served his people in various ways before becoming Principal Chief in 1899, a post he held until his death in 1907.
+
+   
+## Correspondence
+
+  
+### Inola, Indian Territory - August 29, 1898
+
+  August 29, 1898 
+
+  Doctor Emmett Starr 
+
+  Cherokee Historian 
+
+  Claremore, Cherokee Nation 
+
+  Indian Territory 
+
+  Sir: 
+
+ I am informed by Doctor W. R. Harper of Inola that you are engaged in writing A History of the Cherokee Tribe. I was employed by Chief Isparhechar of this Nation (Creek) to translate from the Muskogee Language to English for the purpose of giving an account of the first treaty of peace between the Cherokees and Muskogees, which is contained in the tradition of "The Small Circle of Beads or (Ko-nau-wau) and the Northern Cloud." Chief Isparhechar had this translation made, as I understood, to present to Daniel Red Bird, and David Muskrat, of the "Ketowah" Society for the Cherokee Indians who had forgotten the tradition but still held the emblems. It is a graphic picture of the ancient customs and modes, yet it is so enshrined with the old Indian superstitions as to prevent me from attempting an outline sketch of same for the Old Chief was strict in having every word to correspond exactly to the original story as he claimed any omissions or additions would portent an evil omen. It is full of old history including Customs and modes of Council, Honor of Official rank, etc. peculiar to the ancient Cherokee. You can obtain this story, I think, from Honorable Daniel Red Bird of the Cherokee Council.
+
+ The Cherokees were members of the Great International Councils by the Great Lakes with the Mingoes, Miamies, Wyandottes, Shawnees , Ottowas, etc. And it was on the occasion of meeting a delegation of Cherokees proceeding to one of these Grand Councils that Logan, the Mingoe Orator of History, was killed. He was intoxicated and rushed at the Cherokee Band of Councilors with uplifted tomahawk. When he refused to be restrained, He was shot by his own nephew and killed. He was aroused by the memory of a Great War that had been fought between the Huron Iroquois aided by their Algonquin allies. And the Cherokees who had the assist once of the Creeks as allies. The Creeks also aided the Cherokees in their wars with the white settlers of East Tennessee when they fought Col. Sevier and his mountaineer, wild, white hunters.
+
+ An Indian Union existed once a long time ago. Some kind of Intertribal Union under the prestige of the Yamasees of South Carolina which included the Cherokees, Catawbas, and the Creeks, who assisted the Carolina Colonists to defeat and expel the Tuscororas. And after this occurrence by object lessons therefrom, the Yamasees organized a war upon the Colonists with a great war party of Yamasees, Cherokees, Catawbas, and Creeks. Upon their defeat on account of lacking firearms and ammunition, occurred the greatest suicide of all the world's History. Unknown to the white-people, the Yamasee Nation claiming to foresee the final extinction of the American Indians, they deliberately committed suicide, at a Great Dance dressed in their best personal ornaments, and singing their happiest songs. Men, women, and children danced out into the deep waters with weights attached to their bodies and were all drowned by their own will. (I will refer you to Chief Isparhechar, Ya-teh-Kah-Hacho, and other old Creeks for this tradition.). With the exception of a few families of the Clan of the Beaver, who were not responsible for the war. These went to the Applachees of Florida, who in turn were afterwards defeated in a war with the Seminoles with Great Slaughter. And if any Yamasees (or Yo-mau-sou) escaped this slaughter they are in the Seminole nation with the small remnant of Appalachees that were adopted by the Seminoles as prisoners of war. With the death of the Yamasees, ended this Union of tribes which included the Cherokees at one time.
+
+ A Remarkable Cherokee by the name of Jess Chisholm lived on the Canadian River near an old Cherokee town where Captain Dutch lived before the Cherokee Nation occupied their present country. Jess Chisholm roamed the great plains among the Hostile wild tribes then inhabiting that region during the 30's, 40's, 50's, and 60's of the present century. He was well known to the frontier traders from the Rocky Mountains to St. Louis . He spoke all the Indian languages of this region and was the only man on the plains that did not fear to meet a Comanchee war party alone for he knew all their secret signals and they never molested him.
+
+ He was instrumental in liberating many Mexican captives held by the Comanchees. The Chisholm Cattle Trail was named for him, for it followed one of his old trading trails from the Southwest to Kansas City .
+
+ During the War of 1812-14, a band of 800 Creeks and 32 Cherokees commenced hostilities against the Americans by capturing Fort Mims which held seven murderers of Wetherford's wife and four children. Who Major Beasley commandant refused to surrender to Civil Law. This being right on the heels of Tecumsehs visit to the Creeks but which Major Hawkins, Creek Agent, reported as being quieted down. Started a war which failed to draw out the entire Nation into hostilities.
+
+ The Cherokee Nation and the Creek Nation furnished a Battalion of Brave warriors each, who done effective service for the American troops. Timpochee Barnett, Cowacochee-Matha, and Chowe-matha, of the Creek portion of the Battalions were awarded Medals of Honor by Congress on recommendations of General Andy Jackson for Great Bravery in Battle and read "The Bravest of the Brave." Those of the Cherokees were also awarded. I do not remember the names. The Red Stick Hostilities were finally very near exterminated before they would surrender. My mother's uncles (Creeks) were with Jackson for which Mother, during the 50's drew two land warrants as bounty pay to her uncles.
+
+ If you desire I can tell you more. For History must corroborate the facts.
+
+ 
+
+  Respectfully, 
+
+  J. R. Gregory 
+
+ Document found in J. R. Gregory's, personal file, Creek Archives, Oklahoma Historical Society Library, Oklahoma City . Transcribed by Barbara Cox.
+
+ 
+ 
+   
+### Inola, Indian Territory - December 30, 1899
+
+ December 30, 1899
+
+ Mr. Emmett Starr
+
+ Claremore, Cherokee Nation
+
+ Indian Territory 
+
+ My Dear Sir and Friend:
+
+ I am going to be at home for some time. I have brought home three books that I had loaned to the Dawes Commission at Muskogee when you were here before. These books contain Very authentic Indian History. They contain Cherokee history that may be of value to your work on Cherokee History. The book I sent you entitled "The Creek War" I consider rather limited information, while it seems to be fair and impartial, by evidence I have before me, the Editors wished to be correct, but their source of information in many instances were Very incorrect.
+
+ I also would like to see you in regard to the future of the Indian Interests. I am convinced that there is no political Salvation in prospect anywhere on the lines we had all hoped for as late as one month ago. I would like to compare the philology of the Creek and Cherokee languages with you. I am convinced much good can be accomplished by an Indian Union to create a prestige to be respected in whatever condition. Some half-breeds think they can shield themselves behind their white blood. Of course they will generate a contempt all around against them, that they will be welcome to all the gratification they will gain. Our proper course is to be Indians. In fact, whatsoever may be the results. And the more power we can demonstrate, the greater our respect will stand. It is in our power to preserve ourselves. And it is in our power to destroy ourselves. The outside world are mere spectators to these issues.
+
+ I wish you come and spend a few days with me as I am home. Rheumatic, and occupying my old arm chair, wishing to talk on these subjects above mentioned. I would be very glad to see you.
+
+  Respectfully, 
+
+  "Your Friend," 
+
+  J. R. Gregory 
+
+ (Document found in J. R. Gregory, personal file, Creek Indian Archives, Oklahoma Historical Society Library, Oklahoma City. Transcribed by Barbara Cox)
+
+ 
+ 
+   
+### Inola, Indian Territory - February 16, 1900
+
+  February 16, 1900 
+
+  Mr. Emmett Starr 
+
+  My Dear Sir and Friend: 
+
+ After the proper efforts due to my people has failed on all sides to be understood as I had wished, I do not give any to despair. I am ready always to meet Emergencies. Just as I find them.
+
+ I have for years foreseen the present conditions of our common interests, but I had totally failed to appreciate the mesmeric toils that have developed against our common Brotherhood. The true facts of cause and affect of these conditions have been clearly explained time and again. So that even the lisping babes of all these nations know them as the first words they ever learned. Yet, here comes over three hundred full blood Creeks in Convention assembled last summer and nominates that foul monster, L. C. Perryman, for Chief. Endorsed by Chief Isparhechar and the well wishes of some of the Cherokee Ke-toa-wah (Ca-toh-wau-Ko-ne). Extended to this foul monster whose former Chieftaincy laid the disrupting Schemes that has finally destroyed the Creek Nation.
+
+ I have Wyandotte , Cherokee, Choctaw Indian blood in my veins, as well as Creek. It would be beneath my duty to wish Evil against the Creek people. I have been with them all my life. There is not a song, word, or tradition of the Mus-ko-kee that I do not Know. It is also true, the only Enemies I have on all God's Green Earth are some of these Creek Indians. I am not the man to punish my best friends. Along with person that choose to Challenge my eminence. I will save an enemy before I will destroy a friend, why may be embrace or implicating the two.
+
+ When L. C. Perryman succeeded to the Chieftaincy, efforts were made towards my injury. I compelled them to resist their attempts. I compelled them to acknowledge my right and Supreme Manhood Among Men. I compelled Chief L. C. Perryman to acknowledge to the Secretary of the Interior my right here and his acknowledgment of my vindication. And I have drank deep the Cup of Vengence and breathed deep the Joy of Victory. I am vastly Superior to them and time will prove it too.
+
+ Isparhechar tried to reform the government, which was commendable as far as his time permitted. At the end of his administration, the Ensuing Campaign, the people were torn into fractions. They really did not know what to do. They are not going to accomplish even what Isparhechar had prepared for their possibilities to do. His treaty with the Dawes Commission was a good treaty. It will be amended by Congress into a death warrant because they know how the political trend is with us today. Unless we will have relief gained by our own efforts.
+
+ I do not expect anything better of the Cherokee treaty short of another Death Warrant. The Great Masses of non-land holders (white and negro State Comers) are organized into Secret Societies for the purpose of taxing, by governmental authority, The Indian land holders out of their lands. To Tax Excessive taxes, and compel Sheriff Sales of real estate for taxes until their desighns are accomplished and then relieve themselves of that tax. The Negro Citizens are organixes into Similar Secret Societies with the non-citiizen organizations of Negroes. Who intend to cash all their interests and emigrate to Africa . The Indians are the blindfolded tools to their own disfranchisement and disinheritance. Now is the time to Secure Proper legislation towards protecting them. The United States government is willing to do right but we have failed to present, a proper defense, while our worst enemies, "Boomer," have had everything their own way and gained lots. Against us.
+
+ Among us are fractions who expect to obviate these Evils by emigrating to Mexico . This scheme has failed to defend our Interests here to complete efforts when the people are so divided on questions of proper methods. (I am) Not begging for office, but striving to have that done for the public good. Time will show what I mean. I have tried for Years to keep a clear record for the Indian before the U. S. Government, in order to give us the advantage of un-convicted right to plead our own cause and then dictate the conditions of allotments and percentage of State Taxation and other necessary laws for the assured Existence of the future. Voiceless Existence of a minority of landholders governed by the majority.
+
+ The books I referred to in my former letter are Egglestons, "Life of Red Eagle," G. B. Grinell's "Story of the Indian," F.A. Ober, "In the Everglades." "Quotations of an Old Sailor Named Romans," written over one hundred years ago of the Creeks, Seminoles, Choctaws, and Cherokees. Come down any time and read them. I told Mr. Yancy about my letting you have the book, "Creek War." He said he was glad I had done so. The book is yours now. You are to keep it.
+
+ I saw a funny letter of old Ko-wes-Kowi John Ross to Seminoles 1837 about elder brothers, etc. The Creeks call the white men their Youngest brother because he came here last. They call the Cherokees Elder brothers because the Cherokees lived on the lower Chattahoochee River before the Creeks did.
+
+  Ko-naw-la 
+
+  J. R. Gregory 
+
+ (Document found in the personal file of J. R. Gregory, Creek Indian Archives, Oklahoma Historical Society Library, Oklahoma City. Transcribed by Barbara Cox.)
+
+ 
+ 
+   
+### Inola, Indian Territory - May 21, 1900
+
+  May 21, 1900 
+
+  Emmett Starr, M.D. 
+
+  My Sir and Friend: 
+
+ I enclose a rough sketch of a map of the traditional route traveled by the Creeks in their Emigration from the South West to the old nation in the East. You will see by the circle marked " Tallahassee " which was the first capitol Council Ground of the Creeks in the East and now Capital of the State of Florida , was the Center from which the old Creek Empire expanded from. While in the East, Tallahassee means in Creek "The oldest town that has been worn out and passed its glory," is expressed in it.
+
+ From aboriginal names, we can easily find the older countries these people came from. That their traditions mentions, "Jalisco" (10 fires) is evidently where the Cherokees came from, on the Pacific coast in Mexico . Both traditions agree that the Cherokees came to the East land before the Creeks came there. The Creeks evidently came from the region marked Colina in Mexico . It (Colina) being a Creek word. That is south east of where the Cherokees came from. The Creeks have an oracle that when the Great Spirit deems proper, they are to return to the old Country of "Colina" is why the notion of going to Mexico obliterates all other means of meeting the present crisis.
+
+ My purpose in the sketch is to try to show you that it is -- was possible for (Cherokees) then to come by a North East route from South west by dry land from Jalisco, Mexico to Chota on the little Tennessee River. Easy enough, While the Creeks coming from Colina , Mexico to Tallahassee in Florida by dry land, would have had to go north first and deflect to the south east. Or would have had to cross the Gulf of Mexico .
+
+ Get a Good Map and you will understand me better. Creek tradition says in going north they came to the black grass land and there they became involved in war with an enemy and they left the old folks, children, and people that did not care to follow the enemy any distance; leaving them at the black grass land. The best warriors and the flower of the young people followed this enemy in the pleasure of war until they came a long ways to the old nation at Tullahassee. And that they have never seen or heard of the people left at the black grass land ever since. We do not know where this black grass land is. (Probably here where we are now.) There are people in British Columbia on the headwaters of Fraser River and on west to the sea coast that evidently speaks the Creek Language. They may be the same people who have gone there from the black grass or the Creeks may have gone there before turning East.
+
+  J. R. Gregory 
+
+ 
+
+ (Document found in J. R. Gregory, personal file, Creek Indian Archives, Oklahoma Historical Society Library, Oklahoma City. Transcribed by Barbara Cox.
+
+ 
+ 
+   
+### Inola, Indian Territory - August 20, 1900
+
+  August 20, 1900 
+
+  Doctor Emmett Starr 
+
+  My Dear Sir and Friend: 
+
+ You presented me a copy of "Magazine of American History,: date May 1884; which contains an article by Cyrus Thomas, Ph.D. who attempts to prove that the Cherokees are the ancient mound builders, etc. The Cherokees did build towns and town houses. Just the Same as the other Southern tribes did. A thing peculiar with the Cherokees was that they used a deal of Shells in ornamenting their town houses with which the other towns of Southern Indians did not; except the Coweta town of the Creek Nation. The Shells of the Coweta town mentioned above was held by them as trophies of war. They having captured them from a Cherokee town house.
+
+ Another thing peculiar to both the Cherokees and Creeks was that they renewed the Furniture of the town houses once every year (excepting trophies of war). A thing more peculiar to the Cherokees was that all of this town house furniture such as seats, mats, dance rattles, drums and sticks, medicine blow-canes, etc, were burned with the old fire in use and this old fire thrown away and extinguished. And a new fire kindled by friction and new furniture provided in place of the old furniture destroyed by fire by the fire priests, known as the a-cha-la-tagheh (medicine men). The Shells, earthen vessels, and clay floor were broken and swept to outer verge of the Sacred Limits of the town house yard once a year. (Just before the Green Corn dance). Thus accumulating a narrow ridge of two Semi-circles above the yard of the town house never exceeding 4-5 feet high and most generally 2-3 feet high. In these semi-circle ridges can be found the Shells and broken crockery mentioned and wherever found are known as Cherokee shell mounds. They extend from the Kanawha River, Virginia down to Cape Florida . This Custom of destroying public utensils once a year by fire, prevailing among these Ke-to-waa-Kee band (Since known as Cherokees) gave them the name of Au-Cha-land-Kee, or Fire Towns . Hence the name Cherokee.
+
+ The Creeks built the same kind of Semi-ridges by sweeping the town house each year with broken Earthenware, the remains of medicine vessels, hence the name Muskogee (named after their medicine). They did not burn any furniture. They threw away the old fire, and renewed a new fire annually.
+
+ Thus the Creek Semi-circle ridges contained no Shells or Clay flooring and were not quite as high as the Cherokee Shell Mounds. And in either case, after the lapse of a few Score years would become very near obliterated by the Elements; excepting the larger ones.
+
+ Beyond the above mentioned Shell Mounds, I am thoroughly Convinced that the Cherokees are not the Mound builders Cyrus Thomas refers to. Those large Mounds Mr. Thomas speaks of extend down to remote antiquity by Creek and Cherokee Traditions with Corroborating evidence within the Structure of these mounds themselves. That Mr. Thomas' theory is but a lost speck in an ocean of facts. First: these large mounds are so vast in Extent, with all possible conditions considered, is positive proof of Slave labor fully as much as does the Pyramids of Egupt prove Slave labor. They used Copper metal, quarried mica, wove cloth, cultivated great quantities of Corn. The Skulls of the Skeletons buried in these mounds indicate a race vastly inferior in energetic manhood to the North American Indian. They were the Antochthonous race of the American Continent. The Indian was an intrusive race vastly superior to the Mound Builders. The skulls of the mound builders indicate a low type of humanity who could hardly have been capable of deep passions, good or bad, and were fit Subjects of tyranny and Slavery who could have been easily imposed upon and destroyed by a more turbulent cruel, treacherous people.
+
+ The Skull of the North American Indian is a total reverse being of a very high order of persistent manhood. They are totally above and beyond being made Slaves of. The Wild North American Indian has developed mental powers far superior to the semi-civilized Toltecs of Mexico and Central America, Far Superior to the Peruvian Incas of South America; The Equal of the Free and Great Romans.
+
+ The Indian skull is typic of Scipio, of Julius Caesar, of the British Veteran. Square skulled with the Corners rounded. Known in Science as the Brachycephali skull. Some of the best types are found among the Algonquin, Iroquois, Cherokees, Aztecs, Natchez , Creeks, Seminoles, Osages, and Northern Dacotah tribes. None of them would entertain for one moment, digging and carrying wet clay by thousands of tons by hand and building firm clay mounds a hundred feet high, 400 feet long by sixty feet wide, time and again in different styles and types to be found all over the United States, British America, down into South America. The Evident use of which was funeral sepulcher for their best and ruling types at which they offered human sacrifices. No Sir! No North American tribe has done these things. Creek traditions tell that they Slew an Evil People whose practices and presence was abominable. Who were witches, with whom no man could have pleasure, who had heads like frogs, and were called the frog people, who covered the Earth in multitudes and delighted to build.
+
+ 
+ 
+   
+### Muskogee Nation - September 14, 1901
+
+  September 14, 1901 
+
+  Honorable P. Porter, 
+
+  Principal Chief, Muskogee Nation 
+
+ I submit this as my annual report of the conditions of the Creek Schools during my term of office as Superintendent of Public Instruction for the Muskogee Nation.
+
+ Financial reports of the expenditures of school expenses have been rendered to your office quarterly during the year; you have them.
+
+ The condition of the schools during my incumbency of office has been fairly well with the exception of the prevalence of small pox which has been severe at Coweta, Wealaka, and Euchee National Boarding Schools . Also at a number of the Creek neighborhood schools. Pneumonia and malarial fever have been prevalent at the Eufaula High School , seemingly on account of the bad water supply and also to the limited spaces of the bed rooms of the pupils causing a too crowded condition in those sleeping apartments, antagonistic to the good health of the school. The same condition exists at the Euchee National Boarding School , although the Euchee school has been more exempt from the fevers mentioned. The Creek Orphan Home with the comfortable and commodious design of the building, under the charge of the most excellent fatherly superintendent of that institution, an institution budding from the deepest fountains of the hearts of every Muskogee Indian, an institution baptized with the tears and dying prayers of loving parents of youths of misfortune, an institution not of charity, but that of the inheritance of the Muskogee Indian children residing there; demands every comfort we would extend to our own children at home. Shady groves should surround the building where the wild birds would blend heaven endowed songs of comfort to them that have sorrowed. Tributes of flowery beauty should adorn the paths that would lead them onward to happier days than the bitter hours they have passed through. It should be a home in every sense of the term from the cold drink of pure water to the pillow where pleasant dreams should linger with them during their darkest hours. Many minor necessities of this home require attention to be perfect. The available water supply is unreliable being cisterns which fail during dry season. I am informed that the well water possibilities are not good. The land is fertile and capable of producing excellent agricultural supplies for the home. There is no timber or shade trees on the grounds of this orphan home. The usual appropriations are too limited, too inadequate to do this in one season.
+
+ Industrial training of the pupils may largely accomplish these necessary results if the prairie sod was broken and fenced for them. This proposition will apply to all the other national boarding schools more or less. Broad acres then would yield much to the support of these schools that is being purchased with cash out of the school funds. Fruit, vegetables and other luxuries may even be produced over and beyond the needs of the schools which could be sold and the proceeds placed to the credit of the school producing same. I would recommend that consideration be made to this end by the Creek Council. I would further recommend that a kit of blacksmith's tools and one of carpenter's tools with necessary agricultural implements be allowed each one of the nation boarding schools and one text book on the use of the mechanic's tools be furnished with each kit of tools, and an act of Council direction the instruction of the school boys in the use of these tools be enacted. This would result in the saving of much expenditure for the cruder portions of such work and would better advance the pupils of these schools to better meet the world after attaining majority than they would without such industrial training. I would further recommend that a system of teaching the Indian children the English language by direct tuition be adopted for the classes of the Creek schools. The intense patriotism of the Euchees of this Nation causes them to still cling to the language of their fore-fathers, their language seems to them to be a part of their very lives. Unfortunately there has never been an English and Euchee pronouncing dictionary constructed. The lesson in their case would have to be oral. A majority of the Euchees do not speak the Muskogee language. The Alabamas , Natchez , Quasadas, and Hitchitas, tribes originally of different languages from the Muskogee , now all speak the Muskogee language fluently, and are really more of an English speaking people than the Muskogees and the Euchees are. Rev. R. M. Loughridge who was long a missionary among the Creeks and is yet remembered by the oldest of the present generation of Creeks, compiled an excellent dictionary, pronouncing in the English and Muskogee Languages. That work reveals the fact of the immense volume of the variations of the verb in the Muskogee language. Vastly more than any known language found. Its descriptive powers renders it an open and overflowing revelation of mind thought on the tip of the Muskogee Indian tongue. It is the reason why the Muskogees are so persistent in speaking their own native language. There are a few volumes of Mr. Loughridge's dictionaries in existence yet, but I believe them to be out of print. In such case it may be necessary under such conditions to teach such lessons orally unless a volume of Mr. Loughridge's dictionary can be furnished to each Creek Indian School .
+
+ I am indebted to Mr. Charles Gibson for many valuable suggestions in the direction of teaching Indian children the English language. He shows to the public by his recent sarticles in the public press his observations of the Indian student being taught words by sound without comprehending the meaning of the word rendering it a burden without any realized benefit. In that language alone will our opportunities depend. It is most important that a special study of the language be devised for the use of our schools. It has been deemed advisable by the United States Supervisor of Schools for the Creek people that the advanced students of the Indian schools be assigned to higher grade classes at the Eufaula High School and primary grades to the other national Creek schools for Indians. I have concurred with such advice for I am impressed that such was the intention at the original institution of the Eufaula High School and would prove an advantage of more rapid progress to the advanced students of our schools.
+
+ Some repairing has been done on buildings of the National Boarding Schools during vacation months on roofs that were leaky and flues, furnaces, and other apparatus that endangered the buildings to fire and for protection from the weather. This work has been done at Tullahassee and Pecan Creek National Boarding Schools by the superintendents who had saved a large surplus of the appropriations by last Council for said schools. I would recommend that Council by act make such surplus appropriations available or that portion of them that may be needed for such special repairs mentioned above. Repairs are badly needed at Eufaula High School , the southwest porch being now a veritable death trap and all the other three porches are dangerous to the occupants. Much repairing is needed on doors and windows to make the building comfortable during cold weather. The surplus of the appropriations were too small to attempt any repairs and the superintendency of the school having been a matter of contention for some time. Nothing had been done towards the repairs needed. The boys dormitory buildings at the Colored Orphan Home was burned last spring and no appropriation being in sight to have the dormitory rebuilt by the new regulations and modifications as per treaty by the Secretary of the Interior received at Mr. J. D. Benedict's office September 3, 1901; Architects will have to be sent to estimate specifications, plans, and costs before the contracts for repairing and building can be let. Therefore I would recommend that a proper amount should be appropriated by act of the Council to defray the expenses of architect's fees as above mentioned, including repairs on the Nuyaka National Boarding School, as Mr. Robe the superintendent there states repairs are needed there too as the building will have to be repaired or the school suspended on account of the condition of the buildings there. If an arrangement could be made to have a sufficient amount appropriated to do the repairing and building after the architect's estimates were made, such work could be proceeded with, without delay. The lives of the occupants of some of these school buildings are at dangerous risk until the buildings are rendered secure requires prompt action.
+
+ The barn at the Orphan Home was burned last summer. Mr. J. E. Tiger had over $900.00 saved out of the appropriation last year. He obtained permission of the School Board to rebuild the barn right away as the Orphan Home stock and hay required a barn badly. Therefore I would recommend that Council by act allow the settlement of the repairs done on Tullahassee National Boarding School and the rebuilding of the barn at the Creek Orphan Home which has been done before the Secretary of the Interior forwards his rules and regulations as per treaty. I further recommend that Council by act make available by appropriation necessary for architect's fees on specifications, plans and estimates, and for repairs on the Nuyaka National Boarding School building and for rebuilding the boy's dormitory building that was burned last spring at the Colored Orphan Home. The repairs above mentioned at Tullahassee, Pecan Creek and Orphan Home national boarding schools will cost less than the surplus the superintendents have saved over and bills, if approved will be due settlement at the end of the first scholastic quarter, Nov. 16th next, the bills to be presented by the superintendents with their reports of school expenditures at that date. Inspection of the work is to be made prior to the settlement of the accounts by the Supervision and the office before settlement and pay is allowed. If necessary an architect will be employed to assist in the inspection.
+
+ You are aware that our school system as now instituted is yet new, being but a few years ago when the present extensive up-building of the extraordinary fine system of schools were build with the newly acquired school fund by the Oklahoma sale a few years ago. Before that time the school fund of the Nation was insufficient to accomplish much with. Those that received advanced education in those small schools are now mostly in other employment. Therefore we have very few of our educated people in the school work; a host of new students of this new system preparing to teach and aid in the schools of their fellow men.
+
+ Arguments have been used against the Creek people that their vast school system has failed to develop graduated students not accounting for the short period of the existence of these schools. This accusation amounts to a very galic belch from professors who are most profoundly interested in saying that very thing without noting records. I must say that I am highly encouraged with the prospective good results of the great interest the Creek people are taking in their schools. The pupils of Indian blood excel in penmanship, spelling, and reading. They are apt and quick mathematicians, they are fond of history and geography. They have superlative strong nerve and steady hand for the finer arts. They have strong passions and supreme resisting wills that they are not easily discouraged with their tasks.
+
+ Full classes of the primary rudiments of music should receive more attention than is being done. As I said before, the English language should be specially taught to all Indian pupils who do not understand that language or speak it imperfectly. Industrial training in the trades should be taught the boys. Housekeeping and cooking might prove a merry romp each day for the future housekeepers among the Creek people if the school girls could only be given a chance to show the folks what they could do in that time.
+
+ I would recommend that the superintendents of each of the national boarding schools be authorized by act of the National Council to take measures to take allotments of forty acres each for their respective schools as provided by the recent treaty. These school superintendents each being the business head of their respective schools, they alone have the information of evidence required at the land office as to the occupation of the lands describing the bounds and location and the previous holding of their own personal knowledge during the term of their service and transfers from preceding superintendents. These questions will have to be answered of their own personal knowledge and not by hearsay evidence renders these superintendents the only competent qualified officers to comply with the rules of filing for the national schools as such school lands. A sufficient fund should be appropriated by act of the National Council to aid in defending these school allotments from persons who have or may presume to file on or contest these filings as in the case at the Eufaula High School where filings have been made on the school farm and show inclination to contest the allotment on the cultivated land of the school farm. The certificates of these school lands, deeds, and etc., should be help by the superintendents of these schools for each school.
+
+ Upon my entrance to this office I found that a good supply of school books had been secured for the schools with the exception of a few editions which were short. On the 6th instant an order was on Mr. J. B. Bleser of Wichita , Kansas for:
+
+  250 Baldwin 's Primers 
+
+  100 Baldwin 's First Readers 
+
+  300 Baldwin 's Second Readers 
+
+  100 Baldwin 's Third Readers 
+
+  200 Milne's Elementary Arithmetics 
+
+  150 Redway & Hinman Natural Elementary Geography 
+
+  250 Small Slates 
+
+  250 Medium Slates 
+
+  2500 Slate Pencils 
+
+  10 Gross Steel pens for copy book use 
+
+  500 Lead Pencils 
+
+  50 Black Board Erasers 
+
+ Up to this writing, nothing has been heard from them yet.
+
+ Find appended as Exhibit copies of the statistics of the Creek schools furnished this Office by Miss Alice Robertson, Supervisor of Schools in the Creek Nation.
+
+ Near all the teachers' reports have been made to that Office. The original records are deposited in Miss Robertson's charge and through her kindness, I obtained of that office the appended statistic sheets.
+
+ The costs of the National Board Schools are more correctly $50,470.40, the appropriations are $57,500.00. The expenditures for the neighborhood schools are $12,366.92. The Nuyaka Boarding School contract $5,600.00. I would recommend that $9,000 each be appropriated for Eufaula High School , Wetumka National Boarding School and Tullahassee Colored Boarding School . That $7,200 be appropriated for the Euchee Naitonal Boarding School . That $6,666.66 be appropriated for the Creek Orphan Home. I would recommend that the sum of $5,600.00 be appropriated on the contract for the Nuyaka Boarding School . I would recommend the sums of $4,500 for the Wealaka, Coweta, and Pecan Creek (Colored) National Boarding Schools each. I would recommend that the sum of $3,333.33 be appropriated for the Colored Orphan Home and $12,500 for neighborhood schools of the Creek Nation.
+
+ I respectfully ask that you submit the several recommendations herein stated to the National Council of the Muskogee Nation for the above specified considerations and appropriations.
+
+  Respectfully 
+
+  Your Humble Servant, 
+
+  James R. Gregory 
+
+  Superintendent of Public Instruction for the Muskogee Nation 
+
+ (Document # 38800, J. R. Gregory file, Creek Indian Files, Indian Archives of the Oklahoma Historical Society Library, Oklahoma City . Transcribed by Barbara Cox.)
+
+ 
+ 
+   
+### Inola, Indian Territory - August 23, 1902
+
+  August 23, 1902 
+
+  Doctor Emmett Starr 
+
+  Claremore, Creek Nation 
+
+  Indian Territory 
+
+  Sir: 
+
+ I have been trying to write the Emigration Story of the Creeks for you for some time. I find I cannot do so Without betraying the confidence of the persons that told me the Story, as they regard the methods of transmission with Superstition.
+
+ If You can come to my place to get the Subject matter properly, or if You can go out to Okmulgee with me next October, we can possibly get it from Chief Isparhechar as has proper authority to transmit same and You, as a Cherokee Indian have the Privilege of learning this Sacred tradition. But the trouble is, that if You should publish the Story, the proper Custodians would have to attest that the Subject was rendered word for word strictly accurate, and what puzzles me is that your authority to publish the tradition should be conceded by the Elders who are deemed authorized Custodians of Same under the laws of our Old Customs. And that no works were added or taken away from the Story anymore that the days of life can be Justly Changed.
+
+  Respectfully, 
+
+  James R. Gregory 
+
+ (Document found in J. R. Gregory, personal file, Creek Archives, Oklahoma Historical Society Library, Oklahoma City . Transcribed by Barbara Cox.)
+
+ Being for Verbal Transmission Only, The Author's name is unsigned and unknown on these pages and can be found by a friend only.
+
+ In the days and time before men became evil, The Earth was White, Sacred and Clean. There was received from the author of life an admonishment to not Spill human blood on the Earth, for the ground was Created Holy and Clean. There were more people on Earth then Than there has ever been Since men became Evil. In that day the language of the people was musical, polite, and graceful. All Speech was filled with Exclamations of adoration with Compliments of truth and trust. Temples were built of Stone and Cedar timbers, where the Wise Men taught the people a System of Civil perpetuation of this innocent life. The ground upon which these temples Stood were termed Holy Grounds. These Holy Grounds were devoted to religious exercises and festivals of peace and goodwill.
+
+ On an Evil day, two twin brothers were born; they were both noble and beautiful, but one excelled the other in merit. This caused a Jealousy in the heart of the least favored one and he slew his most favored brother. It was then that the ground was first fouled with innocent blood and became dark and trembled with horror.
+
+ The Sky became dark and cold. The hearts of men became distrustful of their brothers. Before this, all men were known as Ustee (people). After this first murder, different groups of men were designated by different names. There, old graceful speech became Silent. Their Speech became evasive and filled with the Strategy of mistrust. Three wise men still held fast to the good life of former days and still spoke the good old language of truth and trust filled with exclamations of adoration.
+
+ The people and the Earth became very evil. There was only one object in the universe that retained its Holy, bright purity, and that was the Sun. These three wise men reasoned that as the Sun daily came from the East, there might possibly be a country as holy and clean in the distant East where they might possibly regain their former innocent and Holy life. These three wise men resolved to take their kindred to the East and endeavor to find the Holy place whence the Sun came from.
+
+ Each one collected their respective kindred into three groups and prepared to Emigrate to the East. These three groups were camped in a triangle and were to Start at Sunrise the next day. Poles were set to get the true course to the Sunrise by which they were to travel by the route indicated by these poles in line with distant mountains to the true Sunrise .
+
+ When the morning came, the Groups to the left front of the triangle, being on higher ground, exclaimed in the manner of their good old Speech: Chee-Ki-Hus-Su (See the Sun). And the group became known as the Chickasaw group. The group to the right front of the groups, inquired by the manner of their good old Speech: Ko-hus-se-ta (Where is the sun). This group became known as the Coh-Seeh-ta group by that inquiry. They were also installed as the great peace group for their inquiries was in the interest of peace and goodwill to all men. As the two front groups started off on their Journey, the group to the rear of the Triangle also followed the two front groups. They were designated as the Ko-ow-e-ta Group (They that follow us). This expression was also in the manner of their former good old Speech. As they Journeyed on, these three groups became Separated by Several days Journey from each other. The advance of the Coh-Seeh-ta group came to a large River which they crossed over to the East side of this great river. On the East bank of this River, they built a great temple of Earth in the manner of a mound with a door way in the top by which they could enter the great chamber of the Temple which was built, thus for the purpose of sacred rites and also for defense against enemies that began to appear in this Strange country. The main body of the warriors of this Coh-Seeh-ta group went out to subdue these strange people in order to clear a way for their non-combatants to pass Safely through the country. They left their non-combatants at this fortress mound. While the Coh-Seeh-ta warriors were absent, the rear group which hand now became known as the Co-we-ta group came up on the west bank of this Great River, opposite the Temple mound built by the Coh-Seeh-ta group. The Coh-Seeh-ta non-combatants, at their newly improvised mound, seemed strange to the Co-we-ta people and as they had fought several battles with the Strange people of the Country, they supposed the people of the Temple mound to be of the Strange people of the Country. They made hostile demonstrations against the Coh-Seeh-ta people. The army of the Coh-Seeh-ta warriors were informed of this, upon which they returned to the defense of their Temple Mound . When they came to the Co-we-ta group, they whipped them with switches cut from the forest, but did not strike any of them with a weapon of war. The Coh-Seeh-ta warriors then rebuked the Co-we-tas for their conduct and then placed them in charge of the Mound Temple as they took their non-combatants along with them and proceeded on their Journey to the Sunrise . By the whipping with Switches, the Coh-Seeh-ta and Co-we-ta groups have been antagonists in the great national game of ball games.
+
+ While the Co-we-tas remained in charge of the Temple mound and one day while the great mass of the Co-we-tas warriors were in the Great Champber of the Mound, purifying their bodies by Scared rites, the Encampment of the Co-we-ta non-combatants was attacked by the Cherokees who were the true descendants of the twin brother that had killed his brother. The Cherokees did not know that the Temple Mound was occupied by a Strong force of warriors. The Co-we-ta warriors came up out of the door in the top of the Mound Temple and fought the Cherokees and defeated them with great slaughter. As the Cherokees had been deemed strong and expert fighters, this valorous deed of the Co-we-tas gave them the title of the Great War town. After the Chickasaw group had crossed the great River, Several days Journey above where the two other groups had crossed the Great River, they proceeded no further, but stopped and built towns in the Center of Small prairies that were there and upon which grew an abundance of Strawberries, and there was an abundance of good water which could be had by digging an elbow's length beneath the surface of these prairies. The Coh-Seeh-ta group continued on towards the Sunrise , followed by the Co-we-tas. They proceeded onwards until they came to a country where lived a people who were naked and wore no clothes and were very wild. These naked wild people held no intercourse with them but fled and hid in a great fog or mist that lay to the East.
+
+ These two groups of Coh-Seeh-tas and Co-we-tas followed these naked people into this Great mist. On passing through the mist, they found that the mist was cast up from a great Sea of water that was white with foam crested waves. And that the Sun arose up out of this white-water was the reason why the Sun remained pure and bright. They furthermore became convinced that all Earth had become dark and unholy and that only the Sea and the Sun remained pure in the Sight of the Great Author of Life.
+
+ They then resolved to occupy the country from the Sea coast back the way they had came as far as the country extended to the boundaries of the country occupied by the Chickasaws, which is the land from Mobile Bay and around by the Sea Coast to the mouth of the Savannah River. They built holy mounds and wrote upon the rocks of the Chat-ta-hoo-chee River in Commemoration of these events.
+
+ The Coh-Seeh-ta and Co-we-ta names are the oldest band names of the Muskogee Nation and they are the two principal towns of the Creek Nation to this day. With the Chickasaws are the oldest designation of names in the Muskogee language to distinguish groups of people in the old and beloved language when the perfection and purity was lost to mankind by the Spilling of blood.
+
+ (Document found in J.R. Gregory file, Creek Archives, Oklahoma Historical Society Library, Oklahoma City . Transcribed by Barbara Cox.)
+
+ 
+ 
+   
+### Inola, Indian Territory - January 31, 1910
+
+  January 31, 1910 
+
+  Doctor Emmett Starr 
+
+  Claremore , Oklahoma  
+
+ 
+
+  My Dear Sir and Friend: 
+
+ Yours of recent date noted and in reply will say that the Osage band that occupied Claremore Mound as a resident village were known to the white traders as Big Hill Town of the Great Osage Nation. The Little Osage Nation resided on the Osage River, now in the State of Missouri . The Indian name of the Town was Pah-Sug-Gee (Town on the Big Hill). The Osage Village Pah-Sug-Gee contained a large family of Very Large people. Many of the men being near seven feet tall, were well formed and of great physical endurance and were great warriors, being invincible in hand-to-hand conflicts with enemies of their Surroundings in those days of the long ago.
+
+ The family name of this Great family was Pah-Son-na, a name then feared and respected from the Missouri River of the north to the Red River of the South. Wherever they went, they always proclaimed themselves Pah-Son-na in preference to Pah-Sug-Gee or Wa-sa-see because they were deemed to be Greater than all other Osages. Thus it became a habit to term the Village on the Big Hill to be the home of the Pah-Son-na men. Although there were members of the Pah-Sug-Gee Village that were not blood relatives of the Pah-Son-na family and who remained Silent when their Village was termed Pah-Son-na; but whenever their village was termed Pah-Sug-Gee, they then responded "How How."
+
+ Chief Cleremont, who was killed by the Cherokees at the Battle of Claremore Mound, belonged to the Pah-Son-na family and was then the first and foremost man of that family because his Indian name was Pah-Son-na. The French of St. Louis gave him the name of Cleremont, pronounced Klam-mo, as the name is peculiar French spelling that carries Silent letters.
+
+  Respectfully, 
+
+  Your Obedient Servant, 
+
+  James R. Gregory 
+
+ (Document found in J. R. Gregory personal file, Creek Indian Archives, Oklahoma Historical Society Library, Oklahoma City. Transcribed by Barbara Cox.)
+
+ 
+ 
+    
+## Histories
+
+  
+### General History of James Roane Gregory
+
+ Barbara Cox is a descendent of James Roane Gregory. These texts are of two types, histories and correspondence. The histories follow the pattern of those published above.
+
+ The correspondence includes letters Gregory sent to two prominent Indian Territory figures, Emmet Starr and Pleasant Porter. It is included because of the light it sheds on Gregory's concepts of American Indian history and culture.
+
+ Starr was a native of the Cherokee Nation who graduated from the Cherokee Male Seminary before attending Barnes Medical College in St. Louis . He practiced medicine for five years in the Nation, but gave up that profession to take up his monumental work on Cherokee genealogy and history.
+
+ After serving in the Confederate Creek Regiment during the Civil War, Porter reorganized the Creek school system and was a delegate to Washington . He served his people in various ways before becoming Principal Chief in 1899, a post he held until his death in 1907.
+
+ 
+ 
+   
+### Euchees of the Creeks
+
+  The Euchee tribe of the Creek Indian is a distinct family of Indians from all the other eastern tribes. They differ in habits, language and appearance from all their surrounding neighbors, with a possible slight exception in the manner of saying "no," "none," and the single guttural sound of "eauh" for "yes." All evidence point to the Pacific coast to locate the cousins and tribal families of the Euchees, among the Tin-nay nations, who are composed of the Apache, Navajo, and Hupi tribes of the southwest part of the United States . Extending northward on the Pacific coast and mountains are the Kotenay, Nehane, Sekane and Tututenay tribes, who, with some other tribes, are classified as the Athabascan tribes. Mr. Mooney, and also Grinnell, describes these western tribes so well in their histories that anyone acquainted with the Euchees can recognize the western origination of these people, as they themselves prove by distinguishing individuals as the Te-nay in common with the Athabascan tribes of the west.
+
+ The Euchees are a brave, war-like tribe. Physically they are moderately well developed being more of a lank sinewy structure than any of their neighbors, excepting possibly the mountain Cherokees. We have been told by the old folks who knew the Euchees when they were wild, savage Indians, that it was a common thing for a Euchee to start in the morning on the track of a deer, his only weapon being a knife, and would run down the deer and kill it with his knife before evening. The tribe was once strong and a powerful nation on the Savanna, Chattahoochee , Tennessee and Suwannee rivers of the southeast. They had no allies. They fought every tribe within reach of them, and braver men than they never lived. They were unconquerable. They are the only tribe that ever got the best of the Chickasaws in battle. They were the warriors that drove the Sioux from their eastern home. Then finally the semi-civilized Muskogees (or Creeks, as they were afterwards called), came from the west along the Gulf coast, fighting all opposition to their progress, when the greatest war the Euchees ever engaged in ensued. After a protracted struggle for several years' duration the Euchees lost so heavily they retired from before these new enemies. Yet for four generations they continued desultory warfare, until at a great council of the Muskogee or Creek tribe the question of exterminating the entire Euchee tribe was considered by the council and recommended by two of the three Espokokee towns of the Creek nation. The third Espokokee town, known as the Cussehtah town, interceded for the lives of the remnant of the Euchees. This being done in regular order and according to the laws and customs of the Creek nation, it was granted by the council, as the Cussehtah town was the Espokokee peace town of the nation. This town had legal authority to command the peace, even with the enemy.
+
+ The Euchees were formally notified of this action by the Creek council and were taken by the hand of peace and friendship and led to the entrance of the boundary mounds of the Cussehtah sacred ground of the town square, thus becoming full-fledged citizens of the Great Cussehtah Town of the Creek nation. They were requested in common with all other members of the town, by poll tax labor to keep the Cussehtan Temple of the Sacred Fire in repair. This tax was required of all young male members of the town, including those of other bands who were intermarried, unless exempted by special privileges known only to the town Tus-ke-he-ne-ha. Hence, thus was the story started by ignoramuses about the Euchees once having been the slaves of the Creeks. This labor meant, at most, only about two days in the year, with plenty to eat and entertainment, dances, and ball plays, a plug of chewing tobacco, with a black junk bottle of whisky and with a ki-yi-whoop, homeward he would go, the little pessel-tail pony carrying the drunk and happy rider, with an extra haversack full of bear steak and big bean dumplings, home to the little shaved head Euchee, who, that morning, made faces and grimaces at the great Cussehtah king who rode by the split log cabin. Yes, and they shot blunt arrows at the lazy sofky dog that was following the pony heels of his majestic master. The boys whooped "kella hun-no-wah, ko see-ya" as the king rode on, paying no attention to trifles below the dignity of a king and his sofky dog.
+
+ It is a pity every Indian, white man and Negro in the Territory are not as free and happy today as those people were in that day. No, the Euchees were never slaves of the Creeks. They never asked quarter of the Creeks and probably would have gone down fighting to the last, if the Creek council had decided to exterminate them. Among them we find some of the able men of the Creek nation of today. It was a Euchee chief by the name of Timpoochee Bairnard [sic] that received the gold medal from the Congress of the United States , through recommendation of General Jackson being the "bravest of the brave" during the British war of 1812-14.
+
+ There were 590 Euchees in the Creek nation at the last Creek census, they having in the last few years decreased rapidly. This decrease seems to be largely due to a new habit they have learned of drinking Jamaica ginger, which is prepared principally of wood alcohol, and which is destroying a great many lives in this Territory.
+
+ The Euchees, like the Osages, strongly adhere to their old customs. They are like wild quails, hard to domesticate. The Euchee is by nature a hunter and a great lover of the wild mountains and forests. Their language is very limited. The Euchee is not a man of words but a man of deeds.
+
+ Published in the Indian Journal, Eufaula, I.T., April 26, 1901
+
+ 
+ 
+   
+### Creek Indian Migration Record
+
+ Ispahihtca,[^n1] a former chief of the Creek Nation, of the Kasihta town, told the following version of the Creek Indian Migration Legend to James Roane Gregory. Mr. Gregory repeated the legend to John R. Swanton in May of 1912. Mr. Swanton included the legend in his "42nd Annual Report" to the Secretary of the Smithsonian Institute, entitled "Social Organization and Social Usages of Creek Indians," pages 53-55, 1924-1925. A copy was found in the "Bureau of American Ethnology, Bulletin 73" in the Oklahoma Historical Library, Oklahoma City .
+
+ Some people anciently lived together in the West. In course of time they became so evil that they could find nothing pure in the world except the sun, and they determined to travel eastward to find the place from whence it came. On the way they became separated into three bodies. The first of these were called Chickasaw because on the morning when they were to set out they were the first to see the sun rise and said Tcika ha'sa (hitcika hasa), "See the sun!" The second body said to the first Kohasita, ("Ko" is not the usual word meaning "where?" but is probably an exclamatory particle.) 'Where is the sun?' from which circumstance they received the name Kasihta. The Chickasaw moved first, the Kashihta following them, but the third body of people had some difficulty in passing around a brier thicket and were left a long distance behind, so that the parties in advance began to call them Ko-aoita, 'Those that are following us,' whence the Coweta.
+
+ During their travels these tribes came to a great river which they crossed, and presently the Chickasaw entered upon a beautiful country whre ther were small prairies abundantly supplied with strawberries and other wild fruits and having deep pools of water. Then the Chickasaw did not want to go any farther and said that they did not care where the sun came from So they settled in that country, while the remaining bands held on their course. By and by the Kasihta, who were still in advance, crossed a river smaller than the first. On the other side they raised a mound, leaving a great chamber in the center in which to fast and purify their bodies. They left their women, children, and other noncombatants there and went on toward the east.
+
+ Afterward, the Coweta arrived on the opposite side of the river and sent word over that they intended to cross and kill everyone in the place because the Kasihta warriors had not waited to have them join in the expedition. But among the Kasihta women was one who had a magic white stone or pebble, the mate to which was in the keeping of her husband among the warriors. By means of this stone she informed him of the serious state of affairs, and the Kasihta warriors immediately retraced their steps, cut switches, and, passing over to the Coweta warriors, whipped them severely. But they did not strike them with a weapon of war. They then told the Coweta to take charge of the mound, and, gathering together their own noncombatants, they went eastward once more.
+
+ After the Kasihta had left, the Coweta made medicine and went inside of the great mound in order to purify them selves, but while they were there a Cherokee war party attacked the camp. Great was their surprise, however, when the Coweta warriors poured up from the bowels of the earth, and the Cherokees were defeated with great slaughter. From this circumstance the Coweta town became the Great War town of the Creek Nation. Then the Kasihta sent back for the Coweta but, without waiting for them to catch up, continued in the same direction as before. Presently they reached a country populated by naked people who would attack them and then run off. The naked people did this repeatedly until they at length ran into a dense fog. The Kasihta followed them, and emerging on the other side, found them selves on the shore of the ocean from which the fog had arisen. Unable to go farther they camped where they were, and in the morning saw the sun rise out of the sea. They concluded that was why it was bright and pure. By and by the Coweta came up, and the two peoples agreed that the country from which they had started was so far off that they would not return to it. So they remained where they were, fought with the inhabitants of the land, and brought them under their own system of laws.
+
+ In curse of time no people were left willing to resist them, and they longed for someone with whom to fight. Hereupon Coweta challenged Kasihta to a game of ball in order to obtain revenge for having been beaten with switches by the latter. The custom of having ball contests originated at this time and in this manner and has continued to the present day. Now arose the division between the war towns and the peace towns. The war towns have separated from the Coweta and the peace towns from the Kasihta, except in the cases of towns which have been brought in from outside. These have usually been brought in by the peace towns, and hence are generally white.
+
+ [^n1]:  Ispahihtca, the name spelled in the Swanton report, is more typically found spelled Isparhechar.
+
+ (Transcribed by Barbara Cox.)
+
+ 
+ 
+   
+### Early Creek History
+
+ The meaning of the name Is-te-cm-us-suk-c-kee, abbreviated to Mus-ko-kee, or Muskogee, means the "People of the Holly Leaf Confederacy," referring to a shrub found in the Southern States near the Gulf coast known as the "Gulf Holly." The old-time Creeks had considerable knowledge of the medicinal virtues of the various plants and herbs of the "Old Nation" in the East -- Georgia, Alabama , and Florida . This medicinal science covered the entire scope of their existence for healing the sick, for counteracting evil omens and for purifying their bodies during their council deliberations, on their hunting expeditions and war campaigns of invasion within an enemy's territory. The holly leaf was a medicine used by them to purify their bodies during religious ceremonies of the feasts, fasts, and festivals of the first fruits, sometimes called "The Green Corn Dance." "Usseh" is what they termed this medicine, hence it is said Osceola derived his name by being a great drinker of this "Usseh."
+
+ "Em-us-suk-c-kee" is of the same character of construction as the name Uh-chay-la-o-kee, which, abbreviated is rendered Cha-lo-kee, hence is derived the name of "Cherokee" -- the people of the five confederacies being of two distinct national names of one linguistic construction.
+
+ A great many names have been lost to the Mus-ko-gee language by their emigration to a colder climate than is that of their former homes east of the Mississippi . Many changes were made in their customs and old-time usages after their removal west. Very few Muskogess live who know that If-too-mic-coo was their name for the magnolia tree, which means "king of trees." Very few remember the legends of the Su-wa-nee fairires, who, with shouts of derisive laughter, mocked the lost and bewildered victims of their rude sports, whom they had led astray by the Su-wa-nee River to the trembling morasses of the great O-kee-fin-o-kee wilderness. Hence, the name of the Su-wa-nee ("Echo') River, and the Okefinokee ('shaking water") Swamp.
+
+ It is a long time since we old Creeks, as small children, watched the snow-white locks of the octogenarian as he placed his right hand behind his ear so as to enable him to listen to the Eolian harps away off to the Eastern twilight shades, as evening's dark mantle was gently thrown over Earth. We listened in childish awe while he told the story of the "Tul-lee-has-see" over again -- the story of the Deserted Village . And then the wild songs and moans told him of the suicide of the whole Ya-mo-see Nation in the Pasguella bay. They had exhausted every means in their power to save their nation from an unhappy extinction until at last all hopes vanished and they knew that they were powerless. 'Twas then that they determined to die bravely, and together. Arrayed in their brightest -- hued dance costumes, and singing their happiest songs, they danced out into the deep waters, surrendering the free liberty of their lives to the Great Spirit, and were every one drowned. It is said after darkness comes each evening, for all time, the messenger of the Great Spirit sing in response to the songs of the Ya-ma-sees- the sweetest, strangest music ever heard by mortal man. This is heard on Pasguella bay, any evening, for a short while just at dusk.
+
+ When the Mus-ko-gees, or Creek Indians were first found by the European explorers and historians they were the most powerful Nation of Indians in the Southeast of the main continent of America, and were among the most advanced tribes in civilization. This high state of civilization can be accounted for by their having had an excellent code of moral laws which protected their social conditions. They had laws of marriage and divorce. Any infringement upon these laws was punished by cutting off the ears of the first offense, cutting off the nose for the second and death for the third offense. A grown man who did not do his share of work in the corn field was denied the right to family relations.
+
+ The Creeks' art in engraving wood was remarkable. They understood the art of weaving cloth, for which they used a species of silk-weed bark fiber. They kept historic and religious records by strands of beads which by their variety were arranged so as to convey information. This art was not generally taught, but was entrusted to a class of professors who were bound by the laws of the Nation to reveal the truth, for if they should add to or take away any part of the subject of this bead history they would suffer the penalty of death.
+
+ Yet, alas, they failed to understand the true extent of their power and civilization. They were fleet of foot and as strong as the old Roman warriors. Their arrows pierced the armor of the Spanish invaders. Yet, with all this, their ancient glory is gone forever, and a new world has opened up for them. Kind reader, will you bear with us the faith that the Creek Indians will meet the present and the future with that glorious courage that is their inheritance from the Past which they have survived.
+
+ (Published in Sturm's Statehood Magazine, pages 86-87, 1905; Oklahoma Historical Society. Transcribed by Barbara Cox)
+
+ 
+ 
+      

@@ -1,0 +1,164 @@
+---
+layout: narrative
+
+title: >
+    The Wife of his Youth
+source: 
+---
+
+        
+# 1
+
+ MR. RYDER was going to give a ball.  There were several reasons why this was an opportune time for such an event.
+
+ Mr. Ryder might aptly be called the dean of the Blue Veins.  The original Blue Veins were a little society of colored persons organized in a certain Northern city shortly after the war.  Its purpose was to establish and maintain correct social standards among a people whose social condition presented almost unlimited room  for improvement.  By accident, combined perhaps with some natural affinity, the society consisted of individuals who were, generally speaking, more white than black.  Some envious outsider made the suggestion that no one was eligible for membership who was not white enough to show blue veins. The suggestion was readily adopted by those who were not of the favored few, and since that time the society, though possessing a longer and more pretentious name, had been known far and wide as the "Blue Vein Society," and its members as the "Blue Veins."
+
+ The Blue Veins did not allow that any such requirement existed for admission to their circle, but, on the contrary, declared that  character and culture were the only things considered; and that if most of their members were light-colored, it was because such persons, as a rule, had had better opportunities to qualify themselves for membership.  Opinions differed, too, as to the usefulness of the society.  There  were those who had been known to assail it violently as a glaring example of the very prejudice from which the colored race had suffered most; and later, when such critics had succeeded in getting on the inside, they had been heard to maintain with zeal and earnestness that the society was a life-boat, an anchor, a bulwark and a shield, a pillar of cloud by day and of fire by night, to guide their people through the social wilderness. Another alleged prerequisite for Blue Vein membership was that of free birth; and while there was really no such requirement,  it is doubtless true that very few of the members would have been unable to meet it if there had been.  If there were one or two of the older members who had come up from the South and from slavery, their history presented enough romantic circumstances to rob their servile origin of its grosser aspects. While there were no such tests of eligibility, it is true that the Blue Veins had their notions on these subjects, and that not all of them were equally liberal in regard to the things they collectively disclaimed.  Mr. Ryder was one of the most conservative.  Though he had not been among the founders of the society, but had come in some years later, his genius for social leadership was such that he had speedily become its recognized adviser and head, the custodian of its standards, and the preserver of its traditions.  He shaped its social policy, was active in providing for its entertainment, and when the interest fell off, as it sometimes did, he fanned the embers until they burst again into a cheerful flame.     There were still other reasons for his popularity.  While he was not as white as some of the Blue Veins, his appearance was such as to confer distinction upon them.  His features were of a refined type, his hair was almost straight; he was always neatly dressed; his manners were irreproachable, and his morals above suspicion.  He had come to Groveland a young man, and obtaining employment in the office of a railroad company as messenger had in time worked himself   up to the position of stationery clerk, having charge of the distribution of the office supplies for the whole company.  Although the lack of early training had hindered the orderly development of a naturally fine mind, it had not prevented him from doing a great deal of reading or from forming decidedly literary tastes.  Poetry was his passion.  He could repeat whole pages of the great English poets ; and if his pronunciation was sometimes faulty, his eye, his voice, his gestures, would respond to the changing sentiment with a precision that revealed a poetic soul, and disarm criticism.  He was economical, and had saved money; he owned and occupied a very comfortable house on a respectable street.  His residence was handsomely furnished, containing among other things a good library, especially rich in poetry, a piano, and some choice engravings.  He generally shared his house with some young couple, who looked after his wants and were company for him; for Mr. Ryder was a single man.  In the early days of his connection with the Blue Veins he had been regarded as quite a catch, and ladies and their mothers had manoeuvred with much ingenuity to capture him.  Not, however, until Mrs. Molly Dixon visited Groveland had any woman ever made him wish to change his condition to that of a married man.
+
+ Mrs. Dixon had come to Groveland from Washington in the spring, and before the summer was over she had won Mr. Ryder's heart. She possessed many attractive qualities.  She was much younger than he; in  fact, he was old enough to have been her father, though no one knew exactly how old he was.  She was whiter than he, and better educated. She had moved in the best colored society of the country, at Washington, and had taught in the schools of that city.  Such a superior person had been eagerly welcomed to the Blue Vein Society, and had taken a leading part in its activities.  Mr. Ryder had at first been attracted by her charms of person, for she was very good looking and not over twenty-five; then by her refined manners and by the vivacity of her wit.  Her husband had been a government clerk, and at his death had left a considerable life insurance.  She was visiting friends in Groveland, and, finding the town and the people to her liking, had prolonged her stay indefinitely.  She had not seemed displeased at Mr. Ryder's attentions, but on the contrary had given him every proper encouragement; indeed, a younger and less cautious man would long since have spoken.  But he had made up his mind, and had only to determine the time when he would ask her to be his wife.  He decided to give a ball in her honor, and at some time during the evening of the ball to offer her his heart and hand.  He had no special fears about the outcotme, but, with a little touch of romance, he wanted the surroundings to be in harmony with his own feelings when he should have received the answer he expected.
+
+ Mr. Ryder resolved that this ball should mark an epoch in the social history of Groveland.  He knew, of course, — no one could know better, — the entertainments that had taken place in past years, and what must be done to surpass them.  His ball must be worthy of the lady in whose honor it was to be given, and must, by the quality of its guests, set an example for the future.  He had observed of late a growing liberality, almost a laxity, in social matters, even among members of his own set, and had several times been forced to meet in a social way persons whose complexions and callings in life were hardly up to the standard which he considered proper for the society to maintain.  He had a theory of his own.
+
+ "I have no race prejudice," he would say, "but we people of mixed blood are ground between the upper and the nether millstone.  Our fate lies between absorption by the white race and extinction   in the black.  The one doesn't want us yet, but may take us in time. The other would welcome us, but it would be for us a backward step. 'With malice towards none, with charity for all,' we must do the best we can for ourselves and those who are to follow us.  Self-preservation is the first law of nature."
+
+ His ball would serve by its exclusiveness to counteract leveling tendencies, and his marriage with Mrs. Dixon would help to further the upward process of absorption he had been wishing and waiting for. 
+
+    
+# 2
+
+ The ball was to take place on Friday night.  The house had been put in order, the carpets covered with canvas, the halls and stairs decorated with palms and potted plants; and in the afternoon Mr. Ryder sat on his front porch, which the shade of a vine running up over a wire netting made a cool and pleasant lounging-place.  He expected to respond to the toast "The Ladies," at the supper, and from a volume of Tennyson — his favorite poet — was fortifying himself with apt quotations.  The volume was open at A Dream of Fair Women.  His eyes fell on these lines, and he read them aloud to judge better of their effect:—  "At length I saw a lady within call.    Stiller than chisell'd marble, standing there; A daughter of the gods, divinely tall,    And most divinely fair."  He marked the verse, and turning the page read the stanza beginning,— 
+
+ - "O sweet pale Margaret,
+ -  O rare pale Margaret." 
+  He weighed the passage a moment, and decided that it would not do. Mrs. Dixon was the palest lady he expected at the ball, and she was of a rather ruddy complexion, and of lively disposition and buxom build.  So he ran over the leaves until his eye rested on the description of Queen Guinevere:— 
+
+  -    "She seem'd a part of joyous Spring:
+ - A gown of grass-green silk she wore,
+ - Buckled with golden clasps before;
+ - A light-green tuft of plumes she bore
+ -    Closed in a golden ring.
+ - .   .   .   .   .   .   .   .   .   .
+ - "She look'd so lovely, as she sway'd
+ -    The rein with dainty finger-tips,
+ - A man had given all other bliss,
+ - And all his worldly worth for this,
+ - To waste his whole heart in one kiss
+ -    Upon her perfect lips." 
+  As Mr. Ryder murmured these words audibly, with an appreciative thrill, he heard the latch of his gate click, and a light footfall sounding on the steps.  He turned his head, and saw a woman standing before the door.
+
+ She was a little woman, not five feet tall, and proportioned to her height.  Although she stood erect, and looked around her with very bright and restless eyes, she seemed quite old; for her face was crossed and recrossed with a hundred wrinkles, and around the edges of her bonnet could be seen protruding here and there a tuft of short gray wool. She wore a blue calico gown of ancient cut, a little red shawl fastened around her shoulders with an old-fashioned brass brooch, and a large bonnet profusely ornamented with faded red and yellow artificial flowers.  And she was very black — so black that her toothless gums, revealed when she opened her mouth to speak, were not red, but blue. She looked like a bit of the old plantation life, summoned up from the past by the wave of a magician's wand, as the poet's fancy had called into being the gracious shapes of which Mr. Ryder had just been reading.
+
+ He rose from his chair and came over to where she stood.
+
+ "Good-afternoon, madam," he said.
+
+ "Good-evenin', suh," she answered, ducking suddenly with a quaint curtsy.  Her voice was shrill and piping, but softened somewhat by age.  "Is dis yere whar Mistuh Ryduh lib, suh?" she asked, looking around her doubtfully,   and glancing into the open windows, through which some of the preparations for the evening were visible.
+
+ "Yes," he replied, with an air of kindly patronage, unconsciously flattered by her manner, "I am Mr. Ryder.  Did you want to see me?"
+
+ "Yas, suh, ef I ain't 'sturbin' of you too much."
+
+ "Not at all.  Have a seat over here behind the vine, where it is cool.  What can I do for you?"
+
+ "'Scuse me, suh," she continued, when she had sat down on the edge of a chair, "'scuse me, suh, I's lookin' for my husban'.  I heerd you wuz a big man an' had libbed heah a long time, an' I 'lowed you wouldn't min' ef I'd come roun' an' ax you ef you'd eber heerd of a merlatter man by de name er Sam Taylor 'quirin' roun' in de chu'ches ermongs' de people fer his wife 'Liza Jane?"
+
+ Mr. Ryder seemed to think for a moment.
+
+ "There used to be many such cases right after the war," he said, "but it has been so long that I have forgotten them.  There are very few now.  But tell me your story, and it may refresh my memory."
+
+ She sat back farther in her chair so as to be more comfortable, and folded her withered hands in her lap.
+
+ "My name's 'Liza," she began, "'Liza Jane.  Wen I wuz young I us'ter b'long ter Marse Bob Smif, down in old Missourn.  I wuz bawn down dere.  W'en I wuz a gal I wuz married ter a man named Jim.  But Jim died, an' after dat I married a merlatter man named Sam Taylor. Sam wuz free-bawn, but his mammy and daddy died, an' de w'ite folks 'prenticed him ter my marster fer ter work fer 'im 'tel he wuz growed up.  Sam worked in de fiel', an' I wuz de cook.  One day Ma'y Ann, ole miss's maid, come rushin' out ter de kitchen, an' says she, ''Liza Jane, ole marse gwine sell yo' Sam down de ribber.'
+
+ "'Go way f'm yere,' says I; 'my husban's free!'
+
+ "'Don' make no diff'ence.  I heerd ole marse tell ole miss he wuz gwine take yo' Sam 'way wid 'im ter-morrow, fer he needed money, an' he knowed whar he could git a t'ousan' dollars fer Sam an' no questions axed.'
+
+ "W'en Sam come home f'm de fiel', dat night, I tole him 'bout ole marse gwine steal 'im, an' Sam run erway.  His time wuz mos' up, an' he swo' dat w'en he wuz twenty-one he would come back an' he'p me run erway, er else save up de money ter buy my freedom.  An' I know he'd 'a' done it, fer he thought a heap er me, Sam did.  But w'en he come back he didn' fin' me, fer I wuzn' dere.  Ole marse had heerd dat I warned Sam, so he had me whip' an' sol' down de ribber.
+
+ "Den de wah broke out, an' w'en it wuz ober de cullud folks wuz scattered.  I went back ter de ole home; but Sam wuzn' dere, an' I couldn' l'arn nuffin' 'bout 'im.  But I knowed he'd be'n dere to look fer me an' hadn' foun' me, an' had gone erway ter hunt fer me.
+
+ "I's be'n lookin' fer 'im eber sence," she added simply, as though twenty-five years were but a couple of weeks, "an' I knows he's be'n lookin' fer me.  Fer he sot a heap er sto' by me, Sam did, an' I know he's be'n huntin' fer me all dese years,—'less'n he's be'n sick er sump'n, so he couldn' work, er out'n his head, so he couldn' 'member his promise.  I went back down de ribber, fer I 'lowed he'd gone down dere lookin' fer me.  I's be'n ter Noo Orleens, an' Atlanty, an' Charleston, an' Richmon'; an' w'en I'd be'n all ober de Souf I come ter de Norf. Fer I knows I'll fin' 'im some er dese days," she added softly, "er he'll fin' me, an' den we'll bofe be as happy in freedom as we wuz in de ole days befo' de wah."  A smile stole over her withered countenance as she paused a moment, and her bright eyes softened into a far-away look. 
+
+   This was the substance of the old woman's story.  She had wandered a little here and there.  Mr. Ryder was looking at her curiously when she finished.
+
+ "How have you lived all these years?" he asked.
+
+ "Cookin', suh.  I's a good cook.  Does you know anybody w'at needs a good cook, suh?  I's stoppin' wid a cullud fam'ly roun' de corner yonder 'tel I kin fin' a place."
+
+ "Do you really expect to find your husband?  He may be dead long ago."
+
+ She shook her head emphatically.  "Oh no, he ain' dead.  De signs an' de tokens tells me.  I dremp three nights runnin' on'y dis las' week dat I foun' him."
+
+ "He may have married another woman.  Your slave marriage would not have prevented him, for you never lived with him after the war, and without that your marriage doesn't count."
+
+ "Wouldn' make no diff'ence wid Sam.  He wouldn' marry no yuther 'ooman 'tel he foun' out 'bout me.  I knows it," she added. "Sump'n's be'n tellin' me all dese years dat I's gwine fin' Sam 'fo I dies."
+
+ "Perhaps he's outgrown you, and climbed up in the world where he wouldn't care to have you find him."
+
+ "No, indeed, suh," she replied, "Sam ain' dat kin' er man.  He wuz good ter me, Sam wuz, but he wuzn' much good ter nobody e'se, fer he wuz one er de triflin'es' han's on de plantation.  I 'spec's ter haf ter suppo't 'im w'en I fin' 'im, fer he nebber would work 'less'n he had ter.  But den he wuz free, an' he didn' git no pay fer his work, an' I don' blame 'im much.  Mebbe he's done better sence he run erway, but I ain' 'spectin' much."
+
+ "You may have passed him on the street a hundred times during the twenty-five years, and not have known him; time works great changes."
+
+ She smiled incredulously.  "I'd know 'im 'mongs' a hund'ed men. Fer dey wuzn' no yuther merlatter man like my man Sam, an' I couldn' be mistook.  I's toted his picture roun' wid me twenty-five years."
+
+  "May I see it?" asked Mr. Ryder.  "It might help me to remember whether I have seen the original."
+
+ As she drew a small parcel from her bosom, he saw that it was fastened to a string that went around her neck.  Removing several wrappers, she brought to light an old-fashioned daguerreotype in a black case.  He looked long and intently at the portrait.  It was faded with time, but the features were still distinct, and it was easy to see what manner of man it had represented.
+
+ He closed the case, and with a slow movement handed it back to her.
+
+ "I don't know of any man in town who goes by that name," he said, "nor have I heard of any one making such inquiries.  But if you will leave me your address, I will give the matter some attention, and if I find out anything I will let you know."
+
+ She gave him the number of a house in the neighborhood, and went away, after thanking him warmly.
+
+ He wrote down the address on the flyleaf of the volume of Tennyson, and, when she had gone, rose to his feet and stood looking after her curiously.  As she walked down the street with mincing step, he saw several persons whom she passed turn and look back at her with a smile of kindly amusement.  When she had turned the corner, he went upstairs to his bedroom, and stood for a long time before the mirror of his dressing-case, gazing thoughtfully at the reflection of his own face. 
+
+   
+# 3
+
+  At eight o'clock the ballroom was a blaze of light and the guests had begun to assemble; for there was a literary programme and some routine business   of the society to be gone through with before the dancing.  A black servant in evening dress waited at the door and directed the guests to the dressing-rooms.
+
+ The occasion was long memorable among the colored people of the city; not alone for the dress and display, but for the high average of intelligence and culture that distinguished the gathering as a whole. There were a number of school-teachers, several young doctors, three or four lawyers, some professional singers, an editor, a lieutenant in the United States army spending his furlough in the city, and others in various polite callings; these were colored, though most of them would not have attracted even a casual glance because of any marked difference from white people.  Most of the ladies were in evening costume, and dress coats and dancing-pumps were the rule among the men.  A band of string music, stationed in an alcove behind a row of palms, played popular airs while the guests were gathering.
+
+ The dancing began at half past nine.  At eleven o'clock supper was served.  Mr. Ryder had left the ballroom some little time before the intermission, but reappeared at the supper-table.  The spread was worthy of the occasion, and the guests did full justice to it.  When the coffee had been served, the toastmaster, Mr. Solomon Sadler, rapped for order. He made a brief introductory speech, complimenting host and guests, and then presented in their order the toasts of the evening.  They were responded to with a very fair display of after-dinner wit.
+
+ "The last toast," said the toast-master, when he reached the end of the list, "is one which must appeal to us all.  There is no one of us of the sterner sex who is not at some time dependent upon woman,—in infancy for protection, in manhood for companionship, in old age for care and comforting.  Our good host has been trying to live alone, but the fair faces I see around me to-night prove that he too is largely dependent upon the gentler sex for most that makes life worth living,—the society and love of friends,—and rumor is at fault if he does not soon yield entire subjection to one of them.  Mr. Ryder will now respond to the toast,—The Ladies."
+
+ There was a pensive look in Mr. Ryder's eyes as he took the floor and adjusted his eyeglasses.  He began by speaking of woman as the gift of Heaven to man, and after some general observations on the relations of the sexes he said: "But perhaps the quality which most distinguishes woman is her fidelity and devotion to those she loves.  History is full of examples, but has recorded none more striking than one which only to-day came under my notice."
+
+ He then related, simply but effectively, the story told by his visitor of the afternoon.  He told it in the same soft dialect, which came readily to his lips, while the company listened attentively and sympathetically. For the story had awakened a responsive thrill in many hearts.  There were some present who had seen, and others who had heard their fathers and grandfathers tell, the wrongs and sufferings of this past generation, and all of them still felt, in their darker moments, the shadow hanging over them.  Mr. Ryder went on:—
+
+ "Such devotion and such confidence are rare even among women. There are many who would have searched a year, some who would have waited five years, a few who might have hoped ten years; but for twenty-five years this woman has retained her affection for and her faith in a man she has not seen or heard of in all that time.
+
+ "She came to me to-day in the hope that I might be able to help her find this long-lost husband.  And when she was gone I gave my fancy rein, and imagined a case I will put to you.
+
+ "Suppose that this husband, soon after his escape, had learned that his wife   had been sold away, and that such inquiries as he could make brought no information of her whereabouts.  Suppose that he was young, and she much older than he; that he was light, and she was black; that their marriage was a slave marriage, and legally binding only if they chose to make it so after the war.  Suppose, too, that he made his way to the North, as some of us have done, and there, where he had larger opportunities, had improved them, and had in the course of all these years grown to be as different from the ignorant boy who ran away from fear of slavery as the day is from the night.  Suppose, even, that he had qualified himself, by industry, by thrift, and by study, to win the friendship and be considered worthy the society of such people as these I see around me to-night, gracing my board and filling my heart with gladness; for I am old enough to remember the day when such a gathering would not have been possible in this land.  Suppose, too, that, as the years went by, this man's memory of the past grew more and more indistinct, until at last it was rarely, except in his dreams, that any image of this bygone period rose before his mind.  And then suppose that accident should bring to his knowledge the fact that the wife of his youth, the wife he had left behind him,—not one who had walked by his side and kept pace with him in his upward struggle, but one upon whom advancing years and a laborious life had set their mark,—was alive and seeking him, but that he was absolutely safe from recognition or discovery, unless he chose to reveal himself.  My friends, what would the man do?  I will suppose that he was one who loved honor, and tried to deal justly with all men.  I will even carry the case further, and suppose that perhaps he had set his heart upon another, whom he had hoped to call his own.  What would he do, or rather what ought he to do, in such a crisis of a lifetime?
+
+ "It seemed to me that he might hesitate, and I imagined that I was an old friend, a near friend, and that he had come to me for advice; and I argued the case with him.  I tried to discuss it impartially.  After we had looked upon the matter from every point of view, I said to him, in words that we all know: 
+
+ 'This above all: to thine own self be true,
+
+  And it must follow, as the night the day,
+
+  Thou canst not then be false to any man.' 
+
+ Then, finally, I put the question to him, 'Shall you acknowledge her?'
+
+ "And now, ladies and gentlemen, friends and companions, I ask you, what should he have done?"
+
+ There was something in Mr. Ryder's voice that stirred the hearts of those who sat around him.  It suggested more than mere sympathy with an imaginary situation; it seemed rather in the nature of a personal appeal.  It was observed, too, that his look rested more especially upon Mrs. lDixon, with a mingled expression of renunciation and inquiry.
+
+ She had listened, with parted lips and streaming eyes.  She was the first to speak: "He should have acknowledged her."
+
+ "Yes," they all echoed, "he should have acknowledged her."
+
+  "My friends and companions," responded Mr. Ryder, "I thank you, one and all.  It is the answer I expected, for I knew your hearts."
+
+ He turned and walked toward the closed door of an adjoining room, while every eye followed him in wondering curiosity.  He came back in a moment, leading by the hand his visitor of the afternoon, who stood startled and trembling at the sudden plunge into this scene of brilliant gayety.  She was neatly dressed in gray, and wore the white cap of an elderly woman.
+
+ "Ladies and gentlemen," he said, "this is the woman, and I am the man, whose story I have told you.  Permit me to introduce to you the wife of my youth." 
+
+                                    *Charles W. Chesnutt*
+
+       

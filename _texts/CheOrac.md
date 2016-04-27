@@ -1,0 +1,247 @@
+---
+layout: narrative
+
+title: >
+    The Great Detective Stories
+source: 
+---
+
+  	      
+# THE ORACLE OF THE DOG 
+ BY G. K. CHESTERTON
+
+   "YES," said Father Brown, "I always like a dog, so long as he isn't spelt backwards." 
+
+Those who are quick in talking are not always quick in listening. Sometimes even their brilliancy produces a sort of stupidity. Father Brown's friend and companion was a young man with a stream of ideas and stories, an enthusiastic young man named Fiennes, with eager blue eyes and blond hair that seemed to be brushed back, not merely with a hair-brush but with the wind of the world as he rushed through it. But he stopped in the torrent of his talk in a momentary bewilderment before he saw the priest's very simple meaning. 
+
+"You mean that people make too much of them?" he said. "Well, I don't know. They're marvelous creatures. Sometimes I think they know a lot more than we do." 
+
+Father Brown said nothing; but continued to stroke the head of the big retriever in a half-abstracted but apparently soothing fashion. 
+
+"Why," said Fiennes, warming again to his monologue, "there was a dog in the case I've come to see you about; what they call the 'Invisible Murder Case,' you know. It's a strange story, but from my point of view the dog is about the strangest thing in it. Of course, there's the mystery of the crime itself, and how old Druce can have been killed by somebody else when he was all alone in the summer-house—" 
+
+The hand stroking of the dog stopped for a moment in its rhythmic movement; and Father Brown said calmly, "Oh, it was a summer-house, was it? " 
+
+"I thought you'd read all about it in the papers," answered Fiennes. " Stop a minute; I believe I've got a cutting that will give you all the particulars." He produced a strip of newspaper from his pocket and handed it to the priest, who began to read it, holding it close to his blinking eyes with one hand while the  other continued its half-conscious caresses of the dog. It looked like the parable of a man not letting his right hand know what his left hand did. 
+
+"Many mystery stories, about men murdered behind locked doors and windows, and murderers escaping without means of entrance and exit, have come true in the course of the extraordinary events at Cranston on the coast of Yorkshire, where Colonel Druce was found stabbed from behind by a dagger that has entirely disappeared from the scene, and apparently even from the neighborhood. 
+
+"The summer-house in which he died was indeed accessible at one entrance, the ordinary doorway which looked down the central walk of the garden towards the house. But by a combination of events almost to be called a coincidence, it appears that both the path and the entrance were watched during the crucial time, and there is a chain of witnesses who confirm each other. The summer-house stands at the extreme end of the garden, where there is no exit or entrance of any kind. The central garden path is a lane between two ranks of tall delphiniums, planted so close that any stray step off the path would leave its traces; and both path and plants run right up to the very mouth of the summer-house, so that no straying from that straight path could fail to be observed, and no other mode of entrance can be imagined. 
+
+"Patrick Floyd, secretary of the murdered man, testified that he had been in a position to overlook the whole garden from the time when Colonel Druce last appeared alive in the doorway to the time when he was found dead; as he, Floyd, had been on the top of a step-ladder clipping the garden hedge. Janet Druce, the dead man's daughter, confirmed this, saying that she had sat on the terrace of the house throughout that time and had seen Floyd at his work. Touching some part of the time, this is again supported by. Donald Druce, her brother, who overlooked the garden standing at his bedroom window in his dressing-gown, for he had risen late. Lastly the account is consistent with that given by Dr. Valentine, a neighbor, who called for a time to talk with Miss Druce on the terrace, and by the Colonel's solicitor, Mr. Aubrey Traill, who was apparently the last to see the murdered man alive—presumably with the exception of the murderer. 
+
+"All are agreed that the course of events was as follows:  about half-past three in the afternoon, Miss Druce went down the path to ask her father when he would like tea; but he said he did not want any and was waiting to see Traill, his lawyer, who was to be sent to him in the summer-house. The girl then came away and met Traill coming down the path; she directed to her father and he went in as directed. About half an hour afterwards he came out again, the Colonel coming with him to the door and showing himself to all appearance in health and even high spirits. He had been somewhat annoyed earlier in the day by his son's irregular hours, but seemed to recover his temper in a perfectly normal fashion, and had been rather markedly genial in receiving other visitors, including two of his nephews who came over for the day. But as these were out walking during the whole period of the tragedy, they had no evidence to give. It is said, indeed, that the Colonel was not on very good terms with Dr. Valentine, but that gentleman only had a brief interview with the daughter of the house, to whom he ;s supposed to be paying serious attentions. 
+
+"Traill, the solicitor, says he left the Colonel entirely alone in the summer-house, and this is confirmed by Floyd's bird's-eye view of the garden, which showed nobody else passing the only entrance. Ten minutes later Miss Druce again went down the garden and had not reached the end of the path, when she saw her father, who was conspicuous by his white linen coat, lying in a heap on the floor. She uttered a scream which brought others to the spot, and on entering the place they found the Colonel lying dead beside his basket-chair, which was also upset. Dr. Valentine, who was still in the immediate neighborhood, testified that the wound was made by some sort of stiletto, entering under the shoulder-blade and piercing the heart. The police have searched the neighborhood for such a weapon, but no trace of it can be found." 
+
+"So Colonel Druce wore a white coat, did he?" said Father Brown as he put down the paper. 
+
+"Trick he learnt in the tropics," replied Fiennes with some wonder. "He'd had some queer adventures there, by his own account; and I fancy his dislike of Valentine was connected with the doctor coming from the tropics, too. But it's all an infernal puzzle. The account there is pretty accurate; I didn't see the tragedy, in the sense of the discovery; I was out walking  with the young nephews and the dog—the dog I wanted to tell you about. But I saw the stage set for it as described: the straight lane between the blue flowers right up to the dark entrance, and the lawyer going down it in his blacks and his silk hat, and the red head of the secretary showing high above the green hedge as he worked on it with his shears. Nobody could have mistaken that red head at any distance; and if people say they saw it there all the time, you may be sure they did. This red-haired secretary Floyd is quite a character; a breathless, bounding sort of fellow, always doing everybody's work as he was doing the gardener's. I think he is an American; he's certainly got the American view of life; what they call the viewpoint, bless 'em." 
+
+"What about the lawyer?" asked Father Brown. 
+
+There was a silence and then Fiennes spoke quite slowly for him. "Traill struck me as a singular man. In his fine black clothes he was almost foppish, yet you can hardly call him fashionable. For he wore a pair of long, luxuriant black whiskers such as haven't been seen since Victorian times. He had rather a fine grave face and a fine grave manner, but every now and then he seemed to remember to smile. And when he showed his white teeth he seemed to lose a little of his dignity and there was something faintly fawning about him. It may have been only embarrassment, for he would also fidget with his cravat and his tie-pin, which were at once handsome and unusual, like himself. If I could think of anybody—but what's the good, when the whole thing's impossible? Nobody knows who did it. Nobody knows how it could be done. At least there's only one exception I'd make, and that's why I really mentioned the whole thing. The dog knows." 
+
+Father Brown sighed and then said absently: "You were there as a friend of young Donald, weren't you? He didn't go on your walk with you?" 
+
+"No," replied Fiennes smiling. "The young scoundrel had gone to bed that morning and got up that afternoon. I went with his cousins, two young officers from India, and our conversation was trivial enough. I remember the elder, whose name I think is Herbert Druce and who is an authority on horse-breeding, talked about nothing but a mare he had bought and the moral character of the man who sold her-while his brother Harry seemed to be brooding on his bad luck at Monte Carlo. I only mention it to show you, in the light of what happened on  our walk, that there was nothing psychic about us. The dog was the only mystic in our company." 
+
+"What sort of a dog was he?" asked the priest. 
+
+"Same breed as that one," answered Fiennes. "That's what started me off on the story, your saying you didn't believe in believing in a dog. He's a big black retriever named Nox, and a suggestive name too; for I think what he did a darker mystery than the murder. You know Druce's house and garden are by the sea; we walked about a mile from it along the sands and then turned back, going the other way. We passed a rather curious rock called the Rock of Fortune, famous in the neighborhood because it's one of those examples of one stone barely balanced on another, so that a touch would knock it over. It is not really very high, but the hanging outline of it makes it look a little wild and sinister; at least it made it look so to me, for I don't imagine my jolly young companions were afflicted with the picturesque. But it may be that I was beginning to feel an atmosphere; for just then the question arose of whether it was time to go back to tea, and even then I think I had a premonition that time counted for a good deal in the business. Neither Herbert Druce nor I had a watch, so we called out to his brother, who was some paces behind, having stopped to light his pipe under the hedge. Hence it happened that he shouted out the hour, which was twenty past four, in his big voice through the growing twilight; and somehow the loudness of it made it sound like the proclamation of something tremendous. His unconsciousness seemed to make it all the more so; but that was always the way with omens; and particular ticks of the clock were really very ominous things that afternoon. According to Dr. Valentine's testimony, poor Druce had actually died just about half-past four. 
+
+"Well, they said we needn't go home for ten minutes, and we walked a little farther along the sands, doing nothing in particular— throwing stones for the dog and throwing sticks into the sea for him to swim after. But to me the twilight seemed to grow oddly oppressive and the very shadow of the top-heavy Rock of Fortune lay on me like a load. And then the curious thing happened. Nox had just brought back Herbert's walking-stick out of the sea and his brother had thrown his in also. The dog swam out again, but just about what must have been the stroke of the half-hour, he stopped swimming. He came back again on to the shore ana stood in front of us. Then he suddenly  threw up his head and sent up a howl or wail of woe, if ever I heard one in the world. 
+
+"'What the devil's the matter with the dog?' asked Herbert; but none of us could answer. There was a long silence after the brute's wailing and whining died away on the desolate shore; and then the silence was broken. As I live, it was broken by a faint and far-off shriek, like the shriek of a woman from beyond the hedges inland. We didn't know what it was then; but we knew afterwards. It was the cry the girl gave when she first saw the body of her father." 
+
+"You went back, I suppose," said Father Brown patiently. "What happened then?" 
+
+"I'll tell you what happened then," said Fiennes with a grim emphasis. "When we got back into that garden the first thing we saw was Traill the lawyer; I can see him now with his black hat and black whiskers relieved against the perspective of the blue flowers stretching down to the summer-house, with the sunset and the strange outline of the Rock of Fortune in the distance. His face and figure were in shadow against the sunset; but I swear the white teeth were showing in his head and he was smiling. 
+
+"The moment Nox saw that man, the dog dashed forward and stood in the middle of the path barking at him madly, murderously, volleying out curses that were almost verbal in their dreadful distinctness of hatred. And the man doubled up and fled along the path between the flowers." 
+
+Father Brown sprang to his feet with a startling impatience. 
+
+"So the dog denounced him, did he?" he cried. "The oracle of the dog condemned him. Did you see what birds were flying, and are you sure whether they were on the right hand or the left? Did you consult the augurs about the sacrifices? Surely you didn't omit to cut open the dog and examine his entrails. That is the sort of scientific test you heathen humanitarians seem to trust when you are thinking of taking away the life and honor of a man." 
+
+Fiennes sat gaping for an instant before he found breath to say, "Why, what's the matter with you? What have I done now?" 
+
+A sort of anxiety came back into the priest's eyes—the anxiety of a man who has run against a post in the dark and wonders for a moment whether he has hurt it.  
+
+"I'm most awfully sorry," he said with sincere distress. "I beg your pardon for being so rude; pray forgive me." 
+
+Fiennes looked at him curiously. "I sometimes think you are more of a mystery than any of the mysteries," he said. "But anyhow, if you don't believe in the mystery of the dog, at least you can't get over the mystery of the man. You can't deny that at the very moment when the beast came back from the sea and bellowed, his master's soul was driven out of his body by the blow of some unseen power that no mortal man can trace or even imagine. And as for the lawyer, I don't go only by the dog; there are other curious details too. He struck me as a smooth, smiling, equivocal sort of person; and one of his tricks seemed like a sort of hint. You know the doctor and the police were on the spot very quickly; Valentine was brought back when walking away from the house, and he telephoned instantly. That, with the secluded house, small numbers, and enclosed space, made it pretty possible to search everybody who could have been near; and everybody was thoroughly searched—for a weapon. The whole house, garden, and shore were combed for a weapon. The disappearance of the dagger is almost as crazy as the disappearance of the man." 
+
+"The disappearance of the dagger," said Father Brown, nodding. He seemed to have become suddenly attentive. 
+
+"Well," continued Fiennes, "I told you that man Traill had a trick of fidgeting with his tie and tie-pin—especially his tie-pin. His pin, like himself, was at once showy and old-fashioned. It had one of those stones with concentric colored rings that look like an eye; and his own concentration on it got on my nerves, as if he had been a Cyclops with one eye in the middle of his body. But the pin was not only large but long; and it occurred to me that his anxiety about its adjustment was because it was even longer than it looked; as long as a stiletto in fact." 
+
+Father Brown nodded thoughtfully. "Was any other instrument ever suggested?" he asked. 
+
+"There was another suggestion," answered Fiennes, "from one of the young Druces—the cousins, I mean. Neither Herbert nor Harry Druce would have struck one at first as likely to be of assistance in scientific detection; but while Herbert was really the traditional type of heavy Dragoon, caring for nothing but horses and being an ornament to the Horse Guards, his younger brother Harry had been in the Indian Police and knew something about such things. Indeed in his own way he was quite  clever; and I rather fancy he had been too clever; I mean he had left the police through breaking some red-tape regulations and taking some sort of risk and responsibility of his own. Anyhow, he was in some sense a detective out of work, and threw himself into this business with more than the ardor of an amateur. And it was with him that I had an argument about the weapon— an argument that led to something new. It began by his countering my description of the dog barking at Traill; and he said that a dog at his worst didn't bark, but growled." 
+
+"He was quite right there," observed the priest. 
+
+"This young fellow went on to say that, if it came to that, he'd heard Nox growling at other people before then; and among others at Floyd the secretary. I retorted that his own argument answered itself; for the crime couldn't be brought home to two or three people, and least of all to Floyd, who was as innocent as a harum-scarum schoolboy, and had been seen by everybody all the time perched above the garden hedge with his fan of red hair as conspicuous as a scarlet cuckatoo. 'I know there's difficulties anyhow,' said my colleague, 'but I wish you'd come with me down the garden a minute. I want to show you something I don't think anyone else has seen.' This was on the very day of the discovery, and the garden was just as it had been: the step-ladder was still standing by the hedge, and just under the hedge my guide stooped and disentangled something from the deep grass. It was the shears used for clipping the hedge, and on the point of one of them was a smear of blood." 
+
+There was a short silence, and then Father Brown said suddenly, "What was the lawyer there for?" 
+
+"He told us the Colonel sent for him to alter his will," answered Fiennes. "And, by the way, there was another thing about the business of the will that I ought to mention. You see, the will wasn't actually signed in the summer-house that afternoon." 
+
+"I suppose not," said Father Brown; "there would have to be two witnesses." 
+
+"The lawyer actually came down the day before and it was signed then; but he was sent for again next day because the old man had a doubt about one of the witnesses and had to be reassured." 
+
+"Who were the witnesses?" asked Father Brown. 
+
+"That's just the point," replied his informant eagerly, "the witnesses were Floyd the secretary and this Dr. Valentine, the  foreign sort of surgeon or whatever he is; and the two have a quarrel. Now I'm bound to say that the secretary is something of a busybody. He's one of those hot and headlong people whose warmth of temperament has unfortunately turned mostly to pugnacity and bristling suspicion; to distrusting people instead of to trusting them. That sort of red-haired red-hot fellow is always either universally credulous or universally incredulous; and sometimes both. He was not only a Jack of all trades, but he knew better than all tradesmen. He not only knew everything, but he warned everybody against everybody. All that must be taken into account in his suspicions about Valentine; but in that particular case there seems to have been something behind it. He said the name of Valentine was not really Valentine. He said he had seen him elsewhere known by the name of De Villon. He said it would invalidate the will; of course he was kind enough to explain to the lawyer what the law was on that point. They were both in a frightful wax." 
+
+Father Brown laughed. "People often are when they are to witness a will," he said, "for one thing, it means that they can't have any legacy under it. But what did Dr. Valentine say? No doubt the universal secretary knew more about the doctor's name than the doctor did. But even the doctor might have some information about his own name." 
+
+Fiennes paused a moment before he replied. 
+
+"Dr. Valentine took it in a curious way. Dr. Valentine is a curious man. His appearance is rather striking but very foreign. He is young but wears a beard cut square; and his face is very pale, dreadfully pale and dreadfully serious. His eyes have a sort of ache in them, as if he ought to wear glasses or had given himself a headache with thinking; but he is quite handsome and always very formally dressed, with a top hat and a dark coat and a little red rosette. His manner is rather cold and haughty, and he has a way of staring at you which is very disconcerting. When thus charged with having changed his name, he merely stared like a sphinx and then said with a little laugh that he supposed Americans had no names to change. At that I think the Colonel also got into a fuss and said all sorts of angry things to the doctor; all the more angry because of the doctor's pretensions to a future place in his family. But I shouldn't have thought much of that but for a few words that I happened to hear later, early in the afternoon of the tragedy. I don't want to make a lot of them, for they weren't the sort of  words on which one, would like, in the ordinary way, to play the eavesdropper. As I was passing out towards the front gate with my two companions and the dog, I heard voices which told me that Dr. Valentine and Miss Druce had withdrawn for a moment into the shadow of the house, in an angle behind a row of flowering plants, and were talking to each other in passionate whisperings—sometimes almost like hissings; for it was something of a lovers' quarrel as well as a lovers' tryst. Nobody repeats the sort of things they said for the most part; but in an unfortunate business like this I'm bound to say that there was repeated more than once a phrase about killing somebody. In fact, the girl seemed to be begging him not to kill somebody, or saying that no provocation could justify killing anybody; which seems an unusual sort of talk to address to a gentleman who has dropped in to tea." 
+
+"Do you know," asked the priest, ''whether Dr. Valentine seemed to be very angry after the scene with the secretary and the Colonel—I mean about witnessing the will?" 
+
+"By all accounts," replied the other, "he wasn't half so angry as the secretary was. It was the secretary who went away raging after witnessing the will." 
+
+"And now," said Father Brown, "what about the will itself?" 
+
+"The Colonel was a very wealthy man, and his will was important. Traill wouldn't tell us the alteration at that stage, but I have since heard, only this morning in fact, that most of the money was transferred from the son to the daughter. I told you that Druce was wild with my friend Donald over his dissipated hours." 
+
+"The question of motive, has been rather over-shadowed by the question of method," observed Father Brown thoughtfully. "At that moment, apparently, Miss Druce was the immediate gainer by the death." 
+
+"Good Cod! What a cold-blooded way of talking," cried Fiennes, staring at him. "You don't really mean to hint that she " 
+
+"Is she going to marry that Dr. Valentine?" asked the other. 
+
+"Some people are against it," answered his friend. "But he is liked and respected in the place and is a skilled and devoted surgeon." 
+
+"So devoted a surgeon," said Father Brown, "that he had  surgical instruments with him when he went to call on the young lady at tea-time. For he must have used a lancet or something, and he never seems to have gone home." 
+
+Fiennes sprang to his feet and looked at him in a heat of inquiry. "You suggest he might have used the very same lancet—" 
+
+Father Brown shook his head. "All these suggestions are fancies just now," he said. "The problem is not who did it or what did it, but how it was done. We might find many men and even many tools—pins and shears and lancets. But how did a man get into the room? How did even a pin get into it?" 
+
+He was staring reflectively at the ceiling as he, spoke, but as he said the last words his eye cocked in an alert fashion as if he had suddenly seen a curious fly on the ceiling. 
+
+"Well, what would you do about it?" asked the young man. "You have a lot of experience, what would you advise now?" 
+
+"I'm afraid I'm not much use," said Father Brown with a sigh. "I can't suggest very much without having ever been near the place or the people. For the moment you can only go on with local inquiries. I gather that your friend from the Indian Police is more or less in charge of your inquiry down there. I should run down and see how he is getting on. See what he's been doing in the way of amateur detection. There may be news already." 
+
+As his guests, the biped and the quadruped, disappeared, Father Brown took up his pen and went back to his interrupted occupation of planning a course of lectures on the Encyclical Rerum Novarum. The subject was a large one and he had to re-cast it more than once, so that he was somewhat similarly employed some two days later when the big black dog again came bounding into the room and sprawled all over him with enthusiasm and excitement. The master who followed the dog shared the excitement if not the enthusiasm. He had been excited in a less pleasant fashion, for his blue eyes seemed to start from his head and his eager face was even a little pale. 
+
+"You told me," he said abruptly and without preface, "to find out what Harry Druce was doing. Do you know what he's done?" 
+
+The priest did not reply, and the young man went on in jerky tones: 
+
+"I'll tell you what he's done. He's killed himself."  
+
+Father Brown's lips moved only faintly, and there was nothing practical about what he was saying—nothing that had anything to do with this story or this world. 
+
+"You give me the creeps sometimes," said Fiennes. "Did you—did you expect this?" 
+
+"I thought it possible," said Father Brown; "that was why I asked you to go and see what he was doing. I hoped you might not be too late." 
+
+"It was I who found him," said Fiennes rather huskily. "It was the ugliest and most uncanny thing I ever knew. I went down that old garden again and I knew there was something new and unnatural about it besides the murder. The flowers still tossed about in blue masses on each side of the black entrance into the old gray summer-house; but to me the blue flowers looked like blue devils dancing before some dark cavern of the underworld. I looked all around; everything seemed to be in its ordinary place. But the queer notion grew on me that there was something wrong with the very shape of the sky. And then I saw what it was. The Rock of Fortune always rose in the background beyond the garden hedge and against the sea. And the Rock of Fortune was gone." 
+
+Father Brown had lifted his head and was listening intently. 
+
+"It was as if a mountain had walked away out of a landscape or a moon fallen from the sky; though I knew, of course, that a touch at any time would have tipped the thing over. Something possessed me and I rushed down that garden path like the wind and went crashing through that hedge as if it were a spider's web. It was a thin hedge really, though its undisturbed trimness had made it serve all the purposes of a wall. On the, shore I found the loose rock fallen from its pedestal; and poor Harry Druce lay like a wreck underneath it. One arm was thrown round it in a sort of embrace as if he had pulled it down on himself; and on the broad brown sands beside it, in large crazy lettering, he had scrawled the words, "The Rock of Fortune falls on the Fool." 
+
+"It was the Colonel's will that did that," observed Father Brown. "The young man had staked everything on profiting himself by Donald's disgrace, especially when his uncle sent for him on the same day as the lawyer, and welcomed him with so much warmth. Otherwise he was done; he'd lost his police job; he was beggared at Monte Carlo. And he killed himself when he found he'd killed his kinsman for nothing."  
+
+"Here, stop a minute!" cried the staring Fiennes. "You're going too fast for me." 
+
+"Talking about the will, by the way," continued Father Brown calmly, "before I forget it, or we go on to bigger things, there was a simple explanation, I think, of all that business about the doctor's name. I rather fancy I have heard both names before somewhere. The doctor is really a French nobleman with the title of the Marquis de Villon. But he is also an ardent Republican and has abandoned his title and fallen back on the forgotten family surname. 'With your Citizen Riquetti you have puzzled Europe for ten days.'" 
+
+"What is that?" asked the young man blankly. 
+
+"Never mind," said the priest. "Nine times out of ten it is a rascally thing to change one's name; but this was a piece of fine fanaticism. That's the point of his sarcasm about Americans having no names—that is, no titles. Now in England the Marquis of Hartington is never called Mr. Hartington; but in France the Marquis de Villon is called M. de Villon. So it might well look like a change of name. As for the talk about killing, I fancy that also was a point of French etiquette. The, doctor was talking about challenging Floyd to a duel, and the girl was trying to dissuade him." 
+
+"Oh, I see," cried Fiennes slowly. "Now I understand what she meant." 
+
+"And what is that about?" asked his companion, smiling. 
+
+"Well," said the young man, "it was something that happened to me just before I found that poor fellow's body; only the catastrophe drove it out of my head. I suppose it's hard to remember a little romantic idyll when you've just come on top of a tragedy. But as I went down the lanes leading to the Colonel's old place, I met his daughter walking with Dr. Valentine. She was in mourning of course, and he always wore black as if he were going to a funeral; but I can't say that their faces were very funereal. Never have I seen two people looking in their own way more respectably radiant and cheerful. They stopped and saluted me and then she told me they were married and living in a little house on the outskirts of the town, where the doctor was continuing his practise. This rather surprised me, because I knew that her old father's will had left her his property; and I hinted at it delicately by saying I was going along to her father's old place and had half expected to meet her there. But she only laughed and said, "Oh, we've given up all that. My  husband doesn't like heiresses." And I discovered with some astonishment they really had insisted on restoring the property to poor Donald; so I hope he's had a healthy shock and will treat it sensibly. There was never much really the matter with him; he was very young and his father was not very wise. But it was in connection with that that she said something I didn't understand at the time; but now I'm sure it must be as you say. She said with a sort of sudden and splendid arrogance that was entirely altruistic: 
+
+"'I hope it'll stop that red-haired fool from fussing any more about the will. Does he think my husband, who has given up a crest and a coronet as old as the Crusades for his principles, would kill an old man in a summer-house for a legacy like that?' Then she laughed again and said, 'My husband isn't killing anybody except in the way of business. Why, he didn't even ask his friends to call on the secretary.' Now, of course, I see what she meant." 
+
+"I see part of what she meant, of course," said Father Brown. "What did she mean exactly by the secretary fussing about the will?" 
+
+Fiennes smiled as he answered. "I wish you knew the secretary, Father Brown. It would be a joy to you to watch him make things hum, as he calls it. He made the house of mourning hum. He filled the funeral with all the snap and zip of the brightest sporting event. There was no holding him, after something had really happened. I've told you how he used to oversee the gardener as he did the garden, and how he instructed the lawyer in the law. Needless to say, he also instructed the surgeon in the practise of surgery; and as the surgeon was Dr. Valentine, you may be sure it ended in accusing him of something worse than bad surgery. The secretary got it fixed in his red head that the doctor had committed the crime; and when the police arrived he was perfectly sublime. Need I say that he became on the spot the greatest of all amateur detectives? Sherlock Holmes never towered over Scotland Yard with more Titanic intellectual pride and scorn than Colonel Druce's private secretary over the police investigating Colonel Druce's death. I tell you it was a joy to see him. He strode about with an abstracted air, tossing his scarlet crest of hair and giving curt impatient replies. Of course it was his demeanor during these days that made Druce's daughter so wild with him. Of course he had a theory. It's just the sort of  theory a man would have in a book; and Floyd is the sort of man who ought to be in a book. He'd be better fun and less bother in a book." 
+
+"What was his theory?" asked the other. 
+
+"Oh, it was full of pep," replied Fiennes gloomily. "It would have been glorious copy if it could have held together for ten minutes longer. He said the Colonel was still alive when they found him in the summer-house and the doctor killed him with the surgical instrument on pretense of cutting the clothes." 
+
+"I see," said the priest. "I suppose he was lying flat on his face on the mud floor as a form of siesta." 
+
+"It's wonderful what hustle will do," continued his informant. "I believe Floyd would have got his great theory into the papers at any rate, and perhaps had the doctor arrested, when all these things were blown sky high as if by dynamite by the discovery of that dead body lying under the Rock of Fortune. And that's what we come back to after all. I suppose the suicide is almost a confession. But nobody will ever know the whole story." 
+
+There was a silence, and then the priest said modestly, "I rather think I know the whole story." 
+
+Fiennes stared. "But look here," he cried, "how do you come to know the whole story, or to be sure it's the true story? You've been sitting here a hundred miles away writing a sermon; do you mean to tell me you really know what happened already? If you've really come to the end, where in the world do you begin? What started you off with your own story?" 
+
+Father Brown jumped up with a very unusual excitement and his first exclamation was like an explosion. 
+
+"The dog!" he cried. "The dog, of course! You had the whole story in your hands in the business of the dog on the beach, if you'd only noticed the dog properly." 
+
+Fiennes stared still more. "But you told me before that my feelings about the dog were all nonsense, and the dog had nothing to do with it." 
+
+"The dog had everything to do with it," said Father Brown, "as you'd have found out if you'd only treated the dog as a dog and not as God Almighty judging the souls of men." 
+
+He paused in an embarrassed way for a moment, and then said, with a rather pathetic air of apology: 
+
+"The truth is, I happen to be awfully fond of dogs. And it seemed to me that in all this lurid halo of dog superstitions  nobody was really thinking about the poor dog at all. To begin with a small point, about his barking at the lawyer or growling at the secretary. You asked how I could guess things a hundred miles away; but honestly it's mostly to your credit, for you described people so well that I know the types. A man like Traill who frowns usually and smiles suddenly, a man who fiddles with things, especially at his throat, is a nervous, easily embarrassed man. I shouldn't wonder if Floyd, the efficient secretary, is nervy and jumpy too; those Yankee hustlers often are. Otherwise he wouldn't have cut his fingers on the shears and dropped them when he heard Janet Druce scream. 
+
+"Now dogs hate nervous people. I don't know whether they make the dog nervous too; or whether, being after all a brute, he is a bit of bully; or whether his canine vanity (which is colossal) is simply offended at not being liked. But anyhow there was nothing in poor Nox protesting against those people, except that he disliked them for being afraid of him. Now I know you're awfully clever, and nobody of sense sneers at cleverness. But I sometimes fancy, for instance, that you are too clever to understand animals. Sometimes you are too clever to understand men, especially when they act almost as simply as animals. Animals are very literal; they live in a world of truisms. Take this case; a dog barks at a man and a man runs away from a dog. Now you do not seem to be quite simple enough to see the fact; that the dog barked because he disliked the man and the man fled because he was frightened of the dog. They had no other motives and they needed none. But you must read psychological mysteries into it and suppose the dog had super-normal vision, and was a mysterious mouthpiece of doom. You must suppose the man was running away, not from the dog but from the hangman. And yet, if you come to think of it, all this deeper psychology is exceedingly improbable. If the dog really could completely and consciously realize the murderer of his master, he wouldn't stand yapping as he might at a curate at a tea-party; he's much more likely to fly at his throat. And on the other hand, do you really think a man who had hardened his heart to murder an old friend and then walk about smiling at the old friend's family, under the eyes of his old friend's daughter and postmortem doctor—do you think a man like that would be doubled up by mere remorse because a dog barked? He might feel the tragic irony of it; it might shake his soul, like any other tragic trifle. But he wouldn't  rush madly the length of a garden to escape from the only witness whom he knew to be unable to talk. People have a panic like that when they are frightened, not of tragic ironies, but of teeth. The whole thing is simpler than you can understand. 
+
+"But when we come to that business by the seashore, things are much more interesting. As you stated then, they were much more puzzling. I didn't understand that tale of the dog going in and out of the water; it didn't seem to me a doggy thing to do. If Nox had been very much upset about something else, he might possibly have refused to go after the stick at all. He'd probably go off nosing in whatever direction he suspected the mischief. But when once a dog is actually chasing a thing, a stone or a stick or a rabbit, my experience is that he won't stop for anything but the most peremptory command, and not always for that. That he should turn around because his mood changed seems to me unthinkable." 
+
+"But he did turn around," insisted Fiennes, "and came back without the stick." 
+
+"He came back without the stick for the best reason in the world," replied the priest. "He came back because he couldn't find it. He whined because he couldn't find it. That's the sort of thing a dog really does whine about. A dog is a devil of a ritualist. He is as particular about the precise routine of a game as a child about the precise repetition of a fairy-tale. In this case something had gone wrong with the game. He came back to complain seriously of the conduct of the stick. Never had such a thing happened before. Never had an eminent and distinguished dog been so treated by a rotten old walking-stick." 
+
+"Why, what had the walking-stick done?" inquired the young man. 
+
+"It had sunk," said Father Brown. 
+
+Fiennes said nothing, but continued to stare, and it was the priest who continued: 
+
+"It had sunk because it was not really a stick, but a rod of steel with a very thin shell of cane and a sharp point. In other words, it was a sword-stick. I suppose a murderer never got rid of a bloody weapon so oddly and yet so naturally as by throwing it into the sea for a retriever." 
+
+"I begin to see what you mean," admitted Fiennes; "but even if a sword-stick was used, I have no guess of how it was used."  
+
+"I had a sort of guess," said Father Brown, "right at the beginning when you said the word summer-house. And another when you said that Druce wore a white coat. As long as everybody was looking for a short dagger, nobody thought of it; but if we admit a rather long blade like a rapier, it's not so impossible." 
+
+He was leaning back, looking at the ceiling, and began like one going back to his own first thoughts and fundamentals. 
+
+"All that discussion about detective stories like the Yellow Room, about a man found dead in sealed chambers which no one could enter, does not apply to the present case, because it is a summer-house. When we talk of a Yellow Room, or any room, we imply walls that are really homogeneous and impenetrable. But a summer-house is not made like that; it is often made, as it was in this case, of closely interlaced but still separate boughs and strips of wood, in which there are chinks here and there. There was one of them just behind Druce's back as he sat in his chair up against the wall. But just as the room was a summer-house, so the chair was a basket-chair. That also was a lattice of loopholes. Lastly, the summer-house was close up under the hedge; and you have just told me that it was really a thin hedge. A man standing outside it could easily see, amid a network of twigs and branches and canes, one white spot of the Colonel's coat as plain as the white of a target. 
+
+"Now, you left the geography a little vague; but it was possible to put two and two together. You said the Rock of Fortune was not really high; but you also said it could be seen dominating the garden like a mountain-peak. In other words, it was very near the end of the garden, though your walk had taken you a long way round to it. Also, it isn't likely the young lady really howled so as to be heard half a mile. She gave an ordinary involuntary cry, and yet you heard it on the shore. And among other interesting things that you told me, may I remind you that you said Harry Druce had fallen behind to light his pipe under a hedge." 
+
+Fiennes shuddered slightly. "You mean he drew his blade there and sent it through the hedge at the white spot. But surely it was a very odd chance and a very sudden choice. Besides, he couldn't be certain the old man's money had passed to him, and as a fact it hadn't." 
+
+Father Brown's face became animated. 
+
+"You misunderstand the man's character," he said, as if he  himself had known the man all his life. "A curious but not unknown type of character. If he had really known the money would come to him, I seriously believe he wouldn't have done it. He would have seen it as the dirty thing it was." 
+
+"Isn't that rather paradoxical?" asked the other. 
+
+"This man was a gambler," said the priest, "and a man in disgrace for having taken risks and anticipated orders. It was probably for something pretty unscrupulous, for every imperial police is more like a Russian secret police than we like to think. But he had gone beyond the line and failed. Now, the temptation of that type of man is to do a mad thing precisely because the risk will be wonderful in retrospect. He wants to say, 'Nobody but I could have seized that chance or seen that it was then or never. What a wild and wonderful guess it was, when I put all those things together; Donald in disgrace; and the lawyer being sent for; and Herbert and I sent for at the same time—and then nothing more but the way the old man grinned at me and shook hands. Anybody would say I was mad to risk it; but that is how fortunes are made, by the man mad enough to have a little foresight.' In short, it is the vanity of guessing. It is the megalomania of the gambler. The more incongruous the coincidence, the more instantaneous the decision, the more likely he is to snatch the chance. The accident, the very triviality, of the white speck and the hole in the hedge intoxicated him like a vision of the world's desire. Nobody clever enough to see such a combination of accidents could be cowardly enough not to use them! That is how the devil talks to the gambler. But the devil himself would hardly have induced that unhappy man to go down in a dull, deliberate way and kill an old uncle from whom he'd always had expectations. It would be too respectable." 
+
+He paused a moment; and then went on with a certain quiet emphasis. 
+
+"And now try to call up the scene, even as you saw it yourself. As he stood there, dizzy with his diabolical opportunity, he looked up and saw that strange outline that might have been the image of his own tottering soul; the one great crag poised perilously on the other like a pyramid on its point and remembered that it was called the Rock of Fortune. Can you guess how such a man at such a moment would read such a signal? I think it strung him up to action and even to vigilance. He who would be a tower must not fear to be a toppling  tower. Anyhow, he acted; his next difficulty was to cover his tracks. To be found with a sword-stick, let alone a blood-stained sword-stick, would be fatal in the search that was certain to follow. If he left it anywhere, it would be found and probably traced. Even if he threw it into the sea the action might be noticed, and thought noticeable—unless indeed he could think of some more natural way of covering the action. As you know, he did think of one, and a very good one. Being the only one of you with a watch, he told you it was not yet time to return, strolled a little farther and started the game of throwing in sticks for the retriever. But how his eyes must have rolled darkly over all that desolate seashore before they alighted on the dog!" 
+
+Fiennes nodded, gazing thoughtfully into space. His mind seemed to have drifted back to a less practical part of the narrative. 
+
+"It's queer," he said, "that the dog really was in the story after all." 
+
+"The dog could almost have told you the story, if he could talk," said the priest. "All I complain of is that because he couldn't talk, you made up his story for him, and made him talk with the tongues of men and angels. It's part of something I've noticed more and more in the modern world, appearing in all sorts of newspaper rumors and conversational catch-words; something that's arbitrary without being authoritative. People readily swallow the untested claims of this, that, or the other. It's drowning all your old rationalism and scepticism, it's coming in like a sea; and the name of it is superstition." He stood up abruptly, his face heavy with a sort of frown, and went on talking almost as if he were alone. "It's the first effect of not believing in God that you lose your common sense, and can't see things as they are. Anything that anybody talks about, and says there's a good deal in it, extends itself indefinitely like a, vista in a nightmare. And a dog is an omen and a cat is a mystery and a pig is a mascot and a beetle is a scarab, calling up all the menagerie of polytheism from Egypt and old India; Dog Anubis and great green-eyed Pasht and all the holy howling Bulls of Bashan; reeling back to the bestial gods of the beginning, escaping into elephants and snakes and crocodiles; and all because you are frightened of four words: 'He was made Man."' 
+
+The young man got up with a little embarrassment, almost as  if he had overheard a soliloquy. He called to the dog and left the room with vague but breezy farewells. But he had to call the dog twice, for the dog had remained behind quite motionless for a moment, looking up steadily at Father Brown as the wolf looked at St. Francis. 
+
+     

@@ -1,0 +1,312 @@
+---
+layout: narrative
+
+title: >
+    Mère Giraud's Little Daughter
+source: 
+---
+
+         
+#  MERE GIRAUD'S LITTLE DAUGHTER.
+ by Frances Hodgson Burnett
+ SCRIBNER'S MONTHLY
+ VOL. XIII.
+           NOVEMBER, 1876.
+              NO. 1.
+ pp. 108-115
+
+  "Prut!" said Annot, her sabots clattering loudly on the brick floor as she moved more rapidly in her wrath.  "Prut!  Madame Giraud, indeed!  There was a time, and it was but two years ago, that she was but plain Mere Giraud, and no better than the rest of us; and it seems to me, neighbors, that it is not well to show pride because one has the luck to be favored by fortune. Where, forsooth, would our `Madame' Giraud stand if luck had not given her a daughter pretty enough to win a rich husband?" 
+
+"True, indeed!" echoed two of the gossips who were her admiring listeners, "True, beyond doubt.  Where, indeed?" 
+
+But the third, a comely, fresh-skinned matron, who leaned against the door, and knitted a stout gray stocking with fast-clashing needles, did not acquiesce so readily. 
+
+"Well, well, neighbors," she said, "for my part, I do not see so much to complain of.  Mere Giraud—she is still Mere Giraud to me—is as honest and kindly a soul as ever.  It is not she who has called herself Madame Giraud; it is others who are foolish enough to fancy that good luck must change one's old ways.  If she had had the wish to be a grand personage, would she not have left our village before this and have joined Madame Legrand in Paris.  On the contrary, however, she remains in her cottage, and is as good a neighbor as ever, even though she is fond of talking of the carriages and jewels of Madame Legrand and her establishment on the Boulevard Malesherbes.  In fact, I ask you, who of us would not rejoice also to be the mother of a daughter whose fortune had been so good?" 
+
+"That also is true," commented the amiable couple, nodding their white-capped heads with a sagacious air.  "True, without doubt." 
+
+But Annot replied, with a contemptuous shrug of her shoulders: 
+
+"Wait until Madame Giraud is invited to visit the Boulevard Malesherbes," she said.  "We have not heard that this has happened yet." 
+
+She would not go if she were, at least not to remain.  Her heart has grown to the old place she bore her children in, and she has herself said to me most sensibly:  `Laure is young, and will learn easily the ways of the great world; I am old, and cannot; I am better at home among my neighbors.' Doubtless, however, in course of time she will pay Madame Legrand a visit at her home in Paris, or at the Chateau which Monsieur Legrand of course possesses, as the rich and aristocratic always do."     "Doubtless!" said Annot, grimly; "doubtless " 
+
+Honest Jeanne Tallot passed the sneer by, and went on with stout gravity of demeanor: 
+
+"There is only one thing for which I somewhat blamed Mere Giraud, and that is that I think she has scarcely done her duty toward Valentin.  He disappointed her by being an ugly lad instead of a pretty girl, and she had not patience with him.  Laure was the favorite.  Whatever Laure did was right, and it was not so with the other, though I myself know that Valentin was a good lad, and tender-hearted." 
+
+"Once," put in a white cap, "I saw her beat him severely because he fell with the little girl in his arms and scratched her cheek, and it was not his fault.  His foot slipped upon a stone.  He was carrying the child carefully and tenderly enough.  You are right in calling him a good lad, neighbor Tallot.  He was a good lad,—Valentin Giraud,—and fond of his mother, notwithstanding that she was not fond of him." 
+
+"Yes," added her companion; "but it is a truth that he was a great contrast to the girl.  * Mon dieu!* his long limbs and awkward body, his great sad eyes and ugly face!  While Laure,—was she not tall and slender and white, like a lily in a garden?  And her voice was like the ringing of silver, and her eyes so soft and large.  As an infant, she reminded one of the little Jesu as one sees him in the churches.  No wonder that Mere Giraud fretted at the difference between the two.  And Valentin was her first, and what mother does not look for great things in her first?  We cannot help feeling that something must come of one's own charms if one has any, and Mere Giraud was a handsome bride.  An ugly bantling seems to offer one a sort of insult, particularly at first, when one is young and vain." 
+
+"There was no more beautiful young girl than Laure Giraud at sixteen," said Jeanne Tallot. 
+
+"And none more useless," said Annot  loudly.  "Give me a young girl who is industrious and honest.  My Margot is better provided for than Laure Giraud was before her marriage; but her hands are not white, nor is her waist but a span around.  She has too much work to do. She is not a tall, white, swaying creature who is too good to churn and tend the creatures who give her food.  I have heard it said that Laure would have worked if her mother had permitted it, but I don't believe it. She had not a working look.  Mademoiselle Laure was too good for the labor of humble people; she must go to Paris and learn a fine, delicate trade." 
+
+"But good came of it," put in Jeanne Tallot.  "It proved all the better for her." 
+
+"Let her mother thank the Virgin, then," cried Annot, contemptuously. "It might not have proved the better; it might have proved the worse; evil might have come of it instead of good.  Who among us has not heard of such things?  Did not Marie Gautier go to Paris too?" 
+
+"Ah, poor little one, indeed!" sighed the white caps. 
+
+"And in two years," added Annot, *" her* mother died of a broken heart." 
+
+"But," said cheerful Jeanne, somewhat dryly, "Laure's mother is not dead yet, so let us congratulate ourselves that to go to Paris has brought luck to one of our number at least, and let us deal charitably with Mere Giraud, who certainly means well, and is only naturally proud of her daughter's grandeur.  For my part, I can afford to rejoice with her." 
+
+She rolled up her stout stocking into a ball, and stuck her needles through it, nodding at the three women. 
+
+"I promised I would drop in and spend a few minutes with her this morning," she said; "so I will bid you good-day," and she stepped across the threshold and trudged off in the sunshine, her wooden shoes sounding bravely upon the path. 
+
+It was only a little place,—St. Croix, as we will call it for want of a better name,—a little village of one street, and of many vines, and roses, and orchards, and of much gossip.  Simple people inhabited it,—simple, ignorant folk, who knew one another, and discussed one another's faults and grape-crops with equal frankness, worked hard, lived frugally, confessed regularly and slept well.  Devout people, and ignorant, who believed that the little shrines they erected in their vineyards brought blessings upon their grapes, and who knew nothing of the great world beyond, and spoke of Paris with awe, and even a shade of doubt.  Living the same lives generation after generation, tilling the same crops, and praying before the same stone altar in the small, quaint church, it is not to be wondered at that when a change occurred to any one of their number, it was regarded as a sort of social era. There were those in St. Croix who had known Mere Giraud's grandfather, a slow-spoken, kindly old peasant, who had drunk his * vin ordinaire*, and smoked his pipe with the poorest; and there was not one who did not well know Mere Giraud herself, and who had not watched the growth of the little Laure, who had bloomed into a beauty not unlike the beauty of the white Provence roses which climbed over and around her mother's cottage door. "Mere Giraud's little daughter," she had been called, even after she grew into the wonderfully tall and wonderfully fair creature she became before she left the village, accompanying her brother Valentin to Paris. 
+
+*" Ma foi!"* said the men, "but she is truly a beauty, Mere Giraud's little daughter!" 
+
+"She should be well looked to," said the wiseacres,—"Mere Giraud's little daughter." 
+
+"There is one we must always give way before," said the best-natured among the girls, "and that one is Mere Giraud's little daughter." 
+
+The old * Cure* of the parish took interest in her, and gave her lessons, and, as Mere Giraud would have held her strictly to them, even if she had not been tractable and studious by nature, she was better educated and more gently trained than her companions.  The fact was, however, that she had not many companions.  Some element in her grace and beauty seemed to separate her from the rest of her class.  Village sports and festivities had little attraction for her, and, upon the whole, she seemed out of place among them. Her stature, her fair, still face, and her slow, quiet movements, suggested rather embarrassingly to the humble feasters the presence of some young princess far above them. 
+
+*" Pouf!"* said a sharp-tongued belle one day, "I have no patience with her.  She is so tall, this Laure, that one must be forever looking up to her, and I, for one, do not care to be forever looking up." 
+
+The hint of refined pride in her demeanor was Mere Giraud's greatest glory. 
+
+"She is not like the rest, my Laure," she would say to her son.  "One can see it in the way in which she holds her head.  She  has the quiet, grave air of a great personage." 
+
+There were many who wondered that Valentin showed no jealousy or distaste at hearing his sister's praises sounded so frequently to his own detriment.  There was no praise for him.  The poor fond mother's heart was too full of Laure.  Her son had been a bitter disappointment to her, and, to her mind, was fitted for nothing but to make himself an adoring slave to his sister's beauty; and this the gentle, generous fellow certainly was.  He was always ready to serve her; always affectionate; always faithful; and Mere Giraud, who was blind to, or careless of, all his loving, constant labor for her own comfort, deigned to see that he did his duty toward Laure. 
+
+"He has at least the sense to appreciate her as far as he is able," she said. 
+
+So when Valentin, who had a curious talent for engraving, was discovered by some one who understood his genius, and could make use of it, and was offered a place in the great, gay city, Mere Giraud formed an ambitious plan.  He should take Laure and find her a position also; she had the fingers of a fair magician, and could embroider marvelously. So she trusted Laure to him, and the two bade farewell to St. Croix and departed together.  A month passed, and then there came a letter containing good news. Valentin was doing well, and Laure also.  She had found a place in a great family where she was to embroider and wait upon a young lady. They were rich people, and were kind, and paid her well, and she was happy. 
+
+"When they first saw her, they were astonished," wrote the simple, tender Valentin.  "I went with her to present herself.  My employer had recommended her.  There is a son who is past his youth, and who has evidently seen the world.  He is aristocratic and fair, and slightly bald, but extremely handsome still.  He sat holding a newspaper in his long, white fingers, and when we entered, he raised his eyes above it and looked at Laure, and I heard him exclaim under his breath, `* Mon Dieu!*' as if her beauty fairly startled him." 
+
+When the * Cure*, to whom the proud mother showed the letter, read this part, he did not seem as rejoiced as Mere Giraud had expected.  On the contrary, he looked a little grave, and rubbed his forehead. 
+
+"Ah! ah!" he said; "there lies the danger." 
+
+"Danger!" exclaimed Mere Giraud, starting. 
+
+He turned, and regarded her with a rather hesitant air, as if he were at once puzzled and fearful,—puzzled by her simplicity, and fearful of grieving her unnecessarily. 
+
+"Valentin is a good lad," he said.  "Valentin will be watchful,—though perhaps he is too good to suspect evil." 
+
+Mere Giraud put her hand to her heart. 
+
+"You are not afraid?" she said, quite proudly, beginning at last to comprehend.  "You are not afraid of evil to Laure?" 
+
+"No, no, no," he answered; "surely not." 
+
+He said no more then, but he always asked to see the letters, and read them with great care, sometimes over and over again.  They came very regularly for six or seven months, and then there was a gap of a few weeks, and then came a strange, almost incomprehensible, letter from Valentin, containing news which almost caused Mere Giraud's heart to burst with joy and gratitude. Laure was married, and had made such a marriage as could scarcely have been dreamed of.  A rich aristocrat, who had visited her employers, had fallen in love with her, and married her.  He had no family to restrain him, and her beauty had won him completely from the first hour.  He had carried her away with him to make a prolonged tour.  The family with whom she had lived had been lavish in their gifts and kindness, but they had left, Paris also and were voyaging.  The name of Laure's bridegroom was Legrand, and there came messages from Laure, and inclosed was a handsome present of money. 
+
+Mere Giraud was overwhelmed with joy.  Before three hours had passed, all St. Croix knew the marvelous news.  She went from house to house showing the letter and the money, and it was not until night that she cooled down sufficiently to labor through a long epistle to Valentin. 
+
+It was a year before Laure returned to Paris, and during that time she wrote but seldom; but Valentin wrote often, and answered all his mother's questions, though not as fluently, nor with so many words as she often wished. Laure was rich, and beautiful as ever; her husband adored her, and showered gifts and luxuries upon her; she had equipages and jewels; she wore velvet and satin and lace every day; she was a great lady, and had a house like a palace. Laure herself did not say so much.  In her secret heart, Mere Giraud often longed for more, but she was a discreet and far-seeing woman. 
+
+"What would you?" she said.  "She  must drive out in her equipage, and she must dress and receive great people, and I am not so blind a mother as not to see that she will have many things to learn.  She has not time to write long letters,—and see how she cares for me,—money, see you, by every letter, and a silk dress and lace cap she herself has chosen in the Boulevard Capucines.  And I must care for myself, and furnish the cottage prettily, and keep a servant.  Her wealth and great fortune have not rendered her undutiful,—my Laure." 
+
+So she talked of Madame Legrand, and so all St. Croix talked of Madame Legrand, and some, of course, were envious and prophesied that the end had not come yet, and Mere Giraud would find herself forgotten some fine day; and others rejoiced with her, and congratulated themselves that they knew so aristocratic a person as Madame Legrand. 
+
+Jeanne Tallot was of those who sympathized with her in all warm-heartedness and candor.  With her knitting in her hand ready for action, and with friendly unceremoniousness, she presented herself at the cottage door one morning, nodding and speaking before she had crossed the threshold. 
+
+"Good-day, neighbor Giraud.  Any letters from Laure this morning?" 
+
+Mere Giraud, who sat before the window under the swinging cage of her bird, looked up with an air a little more serious than usual. 
+
+"Ah!" she said, "I am glad it is you, Jeanne.  I have been wishing to see you."  Jeanne seated herself, smiling.     "Then," said she, "it is well I came." 
+
+But immediately she noticed the absent look of her friend, and commented upon it. 
+
+"You do not look at your best this morning," she said. "How does it occur?" 
+
+"I am thinking," said Mere Giraud with some importance of manner; "I am thinking of going to Paris."     "To Paris!" 
+
+"I am anxious," shaking her head seriously.  "I had last night a bad dream.  I wish to see Laure." 
+
+Then she turned and looked at Jeanne almost wistfully. 
+
+"It is a long time since I have seen her," she said. 
+
+"Yes," answered Jeanne in a little doubt; "but Paris is a long way off." 
+
+"Yes," said Mere Giraud; "but it appears that all at once I realize how long it is since I have seen my child.  I am getting old, you see.  I was not very young when she was born, and, as one grows older, one becomes more uneasy and obstinate in one's fancies.  This morning I feel that I must see my Laure. My heart yearns for her, and"—hastily—"she will undoubtedly be rejoiced to see me.  She has often said that she wished she might lay her head upon my breast again." 
+
+It seemed that she was resolved upon the journey.  She was in a singular, uneasy mood, and restless beyond measure.  She who had never been twenty miles from St. Croix had made up her mind to leave it at once and confront all the terrors of a journey to Paris,—for there were terrors in such a journey to the mind of a simple peasant who had so far traveled but in one groove.  She would not even wait to consult * Monsieur le Cure*, who was unfortunately absent.  Jeanne discovered to her astonishment that she had already made her small preparations, had packed her best garments in a little wooden box, laying the silk gown and lace cap at the top that they might be in readiness. 
+
+"I will not interfere at all, and I shall not remain long," she said. "Only long enough to see my Laure, and spend a few days with her quietly.  It is not Paris I care for, or the great sights; it is that I must see my child." 
+
+St. Croix was fairly bewildered at the news it heard the next day. Mere Giraud had gone to Paris to visit Madame Legrand—had actually gone, sending her little servant home, and shutting up her small trim cottage. 
+
+"Let us hope that Madame Legrand will receive her as she expects to be received," said Annot.  "For my part I should have preferred to remain in St. Croix.  Only yesterday Jeanne Tallot told us that she had no intention of going." 
+
+"She will see wonderful things," said the more simple and amiable.  "It is possible that she may be invited to the Tuileries, and without doubt she will drive to the Bois de Boulogne in Madame Legrand's carriage, with servants in livery to attend her.  My uncle's sister's son, who is a * valet de place* in a great family, tells us that the aristocracy drive up and down the Champs Elysees every afternoon, and the sight is magnificent." 
+
+But Mere Giraud did not look forward to such splendors as these.  "I shall see my Laure as a great lady," she said to herself.  "I shall hold her white hands and kiss her cheeks."   
+
+The roar of vehicles, and the rush and crowd and bustle bewildered her; the brightness and the rolling wheels dazzled her old eyes, but she held herself bravely.  People to whom she spoke smiled at her * patois* and her innocent questions, but she did not care. 
+
+She found a * fiacre* which took her to her destination; and when, after she had paid the driver, he left her, she entered the wide doors with a beating heart, the blood rising on her cheek, and glowing through the withered skin. 
+
+"Madame Legrand," she said a little proudly to the * concierge*, and the woman stared at her as she led her up the staircase.  She was so eager that she scarcely saw the beauty around her,—the thick soft carpets, the carved balustrades, the superb lamps. But when they stopped before a door she touched the * concierge* upon the arm. 
+
+"Do not say my name," she said.  "I am her mother." 
+
+The woman stared at her more than ever. 
+
+"It is not my place to announce you," she said.  "I only came up because I thought you would not find the way." 
+
+She could not have told why it was or how it happened, but when at last she was ushered into the * salon* a strange sense of oppression fell upon her.  The room was long and lofty, and so shadowed by the heavy curtains falling across the windows that it was almost dark. 
+
+For a few seconds she saw nobody, and then all at once some one rose from a reclining chair at the farther end of the apartment and advanced a few steps toward her—a tall and stately figure, moving slowly. 
+
+"Who—?" she heard a cold soft voice say, and then came a sharp cry, and Laure's white hands were thrown out in a strange, desperate gesture, and she stopped and stood like a statue of stone. "Mother—mother—mother!" she repeated again and again, as if some indescribable pain shook her. 
+
+If she had been beautiful before, now she was more beautiful still. She was even taller than ever,—she was like a queen.  Her long robe was of delicate gray velvet, and her hair and throat and wrists were bound with pearls and gold.  She was so lovely and so stately that for a moment Mere Giraud was half awed, but the next it was as if her strong mother heart broke loose. 
+
+"My Laure!" she cried out.  "Yes, it is I, my child—it is I, Laure;" and she almost fell upon her knees as she embraced her, trembling for very ecstasy. 
+
+But Laure scarcely spoke.  She was white and cold, and at last she gasped forth three words.     "Where is Valentin?" 
+
+But Mere Giraud did not know.  It was not Valentin she cared to see. Valentin could wait, since she had her Laure.  She sat down beside her in one of the velvet chairs, and she held the fair hand in her own.  It was covered with jewels, but she did not notice them; her affection only told her that it was cold and tremulous. 
+
+"You are not well, Laure?" she said.  "It was well that my dream warned me to come.  Something is wrong." 
+
+"I am quite well," said Laure.  "I do not suffer at all." 
+
+She was so silent that if Mere Giraud had not had so much to say she would have been troubled; as it was, however, she was content to pour forth her affectionate speeches one after another without waiting to be answered. 
+
+"Where is Monsieur Legrand?" she ventured at last. 
+
+"He is," said Laure, in a strange hesitant voice,—"he is in Normandy." 
+
+"Shall I not see him?" asked Mere Giraud. 
+
+"I am afraid not, unless your visit is a long one.  He will be absent for some months." 
+
+She did not speak with any warmth.  It was as if she did not care to speak of him at all,—as if the mention of him even embarrassed her a little.     Mere Giraud felt a secret misgiving. 
+
+"I shall not stay long," she said; "but I could not remain away.  I wished so eagerly to see you, and know that you were happy.  You are happy, my Laure?" 
+
+Laure turned toward her and gave her long look—a look which seemed unconsciously to ask her a question. 
+
+"Happy!" she answered slowly and deliberately, "I suppose so.—Yes." 
+
+Mere Giraud caressed her hand again and again.  "Yes," she said, "it must be so.  The good are always happy; and you, my Laure, have always been dutiful and virtuous, and consequently you are rewarded.  You have never caused me a grief, and now, thank the good God! you are prosperous."  She looked at her almost adoringly, and at last touched the soft thick gray velvet of her drapery with reverence.  "Do you wear such things as this every day?" she asked.       "Yes," Laure answered, "every day." 
+
+"Ah!" sighed the happy mother, "How Monsieur Legrand must adore you!" 
+
+At length she found time to ask a few questions concerning Valentin. 
+
+"I know that he is well and as prosperous as one could expect him to be; but I hope"—bridling a little with great seriousness—"I hope he conducts himself in such a manner as to cause you no embarrassment, though naturally you do not see him often." 
+
+"No," was the answer,—they did not see him often. 
+
+"Well, well," began Mere Giraud, becoming lenient in her great happiness, "he is not a bad lad—Valentin.  He means well—" 
+
+But here she stopped,—Laure checked her with a swift, impassioned movement. 
+
+"He is what we cannot understand," she said in a hushed strained voice. "He is a saint.  He has no thought for himself.  His whole life is a sacrifice.  It is not I you should adore—it is Valentin."     "Valentin!" echoed Mere Giraud. 
+
+It quite bewildered her, the mere thought of adoring Valentin. 
+
+"My child," she said when she recovered herself, "it is your good heart which says this." 
+
+The same night Valentin came.  Laure went out into the antechamber to meet him, and each stood and looked at the other with pale face and anguished eyes.  Valentin's eyes were hollow and sunken as if with some great sorrow, and his large awkward frame seemed wasted.  But there was no reproach mingled with the indescribable sadness of his gaze. 
+
+"Your note came to me," he said.  "Our mother—" 
+
+"She is in there," said Laure in a low, hurried, shaken voice, and she pointed to the * salon*.  "She has come to embrace me, to make sure that I am happy.  Ah, my God!" and she covered her deathly face with her hands. 
+
+Valentin did not approach her.  He could only stand still and look on. One thought filled his mind. 
+
+"We have no time to weep, Laure," he said gently.  "We must go on as we have begun.  Give me your hand." 
+
+This was all, and then the two went in together, Laure's hand upon her brother's arm. 
+
+It was a marvelous life Mere Giraud lived during the next few days. Certainly she could not complain that she was not treated with deference and affection.  She wore the silk dress every day; she sat at the wonderful table, and a liveried servant stood behind her chair; she drove here and there in a luxurious carriage; she herself, in fact, lived the life of an aristocrat and a great lady.  Better than all the rest, she found her Laure as gracious and dutiful as her fond heart could have wished.  She spent every hour with her; she showed her all her grandeurs of jewelry and * toilette*; she was not ashamed of her mother, untutored and simple as she might be. 
+
+"Only she is very pale and quiet," she remarked to Valentin once; "even paler and more quiet than I should have expected.  But then we know that the rich and aristocratic are always somewhat reserved.  It is only the peasantry and provincials who are talkative and florid.  It is natural that Laure should have gained the manner of the great world." 
+
+But her happiness, poor soul, did not last long, and yet the blow God sent was a kindly one. 
+
+One morning as they went out to their carriage, Laure stopped to speak to a woman who crouched upon the edge of the pavement with a child in her arms.  She bent down and touched the little one with her hand, and Mere Giraud, looking on, thought of pictures she had seen of the Blessed Virgin, and of lovely saints healing the sick. 
+
+"What is the matter?" asked Laure. 
+
+The woman looked down at the child and shivered. 
+
+"I do not know," she answered hoarsely.  "Only we are ill, and God has forsaken us.  We have not tasted food for two days." 
+
+Laure took something from her purse and laid it silently in the child's small, fevered hand.  The woman burst into tears. 
+
+"Madame," she said, "it is a twenty-franc piece." 
+
+"Yes," said Laure gently.  "When it is spent come to me again," and she went to her carriage. 
+
+"My child," said Mere Giraud, "it is you who are a saint. The good God did wisely in showering blessings upon you." 
+
+A few days longer she was happy, and then she awakened from her sleep one night and found Laure standing at her bedside looking down at her and shuddering.  She started up with an exclamation of terror. 
+
+*" Mon Dieu!"* she said.  "What is it?" 
+
+She was answered in a voice she had never heard before,—Laure's, but hoarse and VOL. XIII.—8.  shaken.  Laure had fallen upon her knees, and grasped the bedclothes, hiding her face in the folds. 
+
+"I am ill," she answered in this strange, changed tone. "I am—I am cold and burning—I am—dying." 
+
+In an instant Mere Giraud stood upon the floor holding her already insensible form in her arms.  She was obliged to lay her upon the floor while she rang the bell to alarm the servants.  She sent for Valentin and a doctor. The doctor, arriving, regarded the beautiful face with manifest surprise and alarm.  It was no longer pale, but darkly flushed, and the stamp of terrible pain was upon it. 
+
+"She has been exposed to infection," he said.  "This is surely the case.  It is a malignant fever." 
+
+Then Mere Giraud thought of the poor mother and child. 
+
+"O my God!" she prayed, "do not let her die a martyr." 
+
+But the next day there was not a servant left in the house; but Valentin was there, and there had come a Sister of Mercy.  When she came, Valentin met her, and led her into the * salon*.  They remained together for half an hour, and then came out and went to the sick-room, and there were traces of tears upon the Sister's face.  She was a patient, tender creature, who did her work well, and she listened with untiring gentleness to Mere Giraud's passionate plaints. 
+
+"So beautiful, so young, so beloved," cried the poor mother; "and Monsieur absent in Normandy, though it is impossible to say where!  And if death should come before his return, who could confront him with the truth? So beautiful, so happy, so adored!" 
+
+And Laure lay upon the bed, sometimes wildly delirious. sometimes a dreadful statue of stone,—unhearing, unseeing, unmoving,—death without death's rest,—life in death's bonds of iron. 
+
+But while Mere Giraud wept, Valentin had no tears.  He was faithful, untiring, but silent even at the worst. 
+
+"One would think he had no heart," said Mere Giraud; "but men are often so,—ready to work, but cold and dumb.  Ah! it is only a mother who bears the deepest grief." 
+
+She fought passionately enough for a hope at first, but it was forced from her grasp in the end.  Death had entered the house and spoken to her in the changed voice which had summoned her from her sleep. 
+
+"Madame," said the doctor one evening as they stood over the bed while the sun went down, "I have done all that is possible.  She will not see the sun set again.  She may not see it rise." 
+
+Mere Giraud fell upon her knees beside the bed, crossing herself and weeping. 
+
+"She will die," she said, "a blessed martyr.  She will die the death of a saint." 
+
+That very night—only a few hours later—there came to them a friend,— one they had not for one moment even hoped to see,—a gentle, grave old man, in a thin, well-worn black robe,—the * Cure* of St. Croix. 
+
+Him Valentin met also, and when the two saw each other, there were barriers that fell away in their first interchange of looks. 
+
+"My son," said the old man, holding out his hands, "tell me the truth." 
+
+Then Valentin fell into a chair and hid his face. 
+
+"She is dying," he said, "and I cannot ask that she should live." 
+
+"What was my life—" he cried passionately, speaking again—"What was my life to me that I should not have given it to have her,—to save her to her beauty and honor, and her mother's love!  I would have given it cheerfully,—a thousand times,—a thousand times again and again.  But it was not to be; and, in spite of my prayers, I lost her Oh, my God!" with a sob of agony, "if to-night she were in St. Croix and I could hear the neighbors call her again as they used, `Mere Giraud's little daughter!'" 
+
+The eyes of the * Cure* had tears in them also. 
+
+"Yesterday I returned to St. Croix and found your mother absent," he said.  "I have had terrible fears for months, and when I found her house closed, they caused me to set out upon my journey at once." 
+
+He did not ask any questions.  He remembered too well the man of whom Valentin had written; the son who was "past his youth, and had evidently seen the world;" the pale aristocrat, who had exclaimed *" Mon Dieu!* at the sight of Laure's wondrous beauty. 
+
+"When the worst came to the worst," said Valentin, "I vowed myself to the labor of sparing our mother.  I have worked early and late to sustain myself in the part I played.  It was not from Laure the money came.  My God! Do you think I would have permitted my mother's hand to have touched a gift of hers?  She wrote the letters, but the money I had earned honestly.   Heaven will justify me for my falsehood since I have suffered so much." 
+
+"Yes," responded the * Cure*, looking at his bent form with gentle, pitying eyes; "Heaven will justify you, my son." 
+
+They watched by Laure until the morning, but she did not see them; she saw nothing; tonight it was the statue of marble which lay before them.  But in the early morning, when the sky was dappled with pink and gold, and the air was fresh and cool, and a silence, even more complete than that of the night, seemed to reign, there came a change.  The eyes they had seen closed for so many hours were opened, and the soft voice broke in upon the perfect stillness of the room: 
+
+"The lilies in the garden are in bloom to-day.  The were never so tall, and white, and fair before.  I will gather them—for the altar—to give to the Virgin—at my confession.  * Mea culpa—Mea*—" and all was over, and Mere Giraud fell upon her knees again, crying, as she had cried before, amid a passion of sobs and tears: 
+
+"She has died, my child, the death of a blessed martyr."  
+
+It was rather strange, the villagers said, that Madame Legrand should have been buried in the little grave-yard at St. Croix instead of in some fine tomb at * Pere la Chaise*; but—it was terribly sad!—her husband was away, they knew not where, and it was Valentin's wish, and Mere Giraud's heart yearned so over her beloved one.  So she was laid there, and a marble cross was placed at her head—a tall, beautiful cross—by Monsieur Legrand, of course.  Only it was singular that he never came, though perhaps that is the way of the great—not to mourn long or deeply even for those who have been most lovely, and whom they have most tenderly loved.  
+
+    
