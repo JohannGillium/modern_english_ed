@@ -1,0 +1,310 @@
+---
+layout: narrative
+
+title: >
+    The Genius of Sequoyah
+source: 
+---
+
+          
+# The Genius of Sequoyah
+
+  By Jim Parins  Sequoyah, the much-honored creator of the Cherokee syllabary, the means by which  anyone speaking the Cherokee language could become literate, was an unlettered  man himself until he finished his system. Nonetheless, the Cherokee historian  Dr. Emmett Starr reported, written language held a particular fascination for  him. Seeing the written page used by white people, Sequoyah at first thought  that each letter stood for a word. Upon closer examination, however, he  concluded that this could not be true, and that a better explanation was that  each letter represented a sound. This idea, which came to him around 1809, was  the seed from which the Cherokee syllabary grew.
+
+  Sequoyah, Starr reported in his 1905 biographical article published in the *Cherokee Advocate*, was born about 1760. The historian  describes him as a man who was below medium height and slightly lame from a  childhood affliction. Sequoyah adhered to the ancient beliefs of the Cherokees  and wore the traditional shirt, leggings, moccasins, and turban. According to  Starr, he never acquired any knowledge of the English language.
+
+  Earlier employed as both a blacksmith and silversmith, Sequoyah turned his full  attention to developing his syllabary around 1809, much to the chagrin of his  wife, who considered his work a useless effort. Sequoyah started with the idea  that letters stood for sounds, then tested it. With his knife, he scratched a  character resembling the Roman letter G and called it "wa," a syllable in the  Cherokee language, then scratching next to it the letter E, which he called  "ku." The letters represented, then, "wa-ku," the Cherokee word for cow, thus  affirming that he was on the right track. His task, then, was to represent all  the syllables used in the Cherokee language with a symbol. In 1821,when he  finished, he had created eighty-five characters.
+
+  Sequoyah's system was not automatically embraced once he revealed it. At one  point, Starr reports, his wife gathered up all the pieces of bark upon which he  had penned a character, a couple of armfuls, and threw them into the fire.  Luckily, Sequoyah by this time had consigned the syllabary to memory, so he  could reproduce it without much difficulty. Others thought he was wasting his  time, too, some even saying that he had come under the spell of witchcraft or  was insane. In spite of this criticism, he pressed on knowing full well that he  would make a fool of himself if he failed.
+
+  But of course he did not fail, completing this important linguistic work while  living in a remote cabin in Arkansas Territory in the early 1820s. Once he had  shown the Cherokees living there what he had done, he traveled back to the  Cherokee Nation in present-day Georgia to share his work with the main body of  the tribe. Here he was met with skepticism at first, but once he had taught the  system to some Cherokee youths, who were able to learn it quickly and easily,  tribal leaders became enthusiastic. Sequoyah was hired as a teacher to help  spread the syllabary's use, and in a short time, any Cherokee speaker who  desired could read the language. Missionaries were enthusiastic, seeing a new  way to help spread their message. With their help, the Cherokees were able to  procure a set of type and set up their own printing operation. This led to the  establishment of the *Cherokee Phoenix*, the first  newspaper published by American Indians, which greeted its first readers in both  Cherokee and English in 1828. The Cherokee press also published Biblical  passages, hymnals, and other tracts.
+
+  Sequoyah moved back west, settling in eastern Indian Territory where the  so-called "Old Settler" Cherokees had taken land after leaving Arkansas. After  the Trail of Tears, the tribe's main body removed to the area as well. Sequoyah  was active among his people, taking part in deliberations concerning several  treaties and in the formulation of the Cherokee Constitution of 1839. In 1842,  he accompanied his son Teesce to Texas, at the time an independent republic.  Starr reports that he died there in August of 1843, but his burial site is unknown.
+
+  The creation of the syllabary has been universally hailed as a monumental work.  It is noteworthy, as Starr points out, in that it is the only alphabet created  by one man. It is remarkable in its completeness, too, since everyone who  understands Cherokee, once learning which syllables the eighty-five characters  represent, can read and write the language. No additions to or deletions from  the original syllabary have ever been found to be necessary.
+
+  Once his people learned the syllabary, Sequoyah was hailed as a genius. The  Cherokee Nation presented him with a medal for his achievement, but the  accolades did not stop there. His people named one of the political districts in  the Cherokee Nation west of the Mississippi after him, which designation  survives as Sequoyah County in present-day Oklahoma. The soaring Sequoia redwood  trees in California were named for him, and his statue sits in the National  Capitol. In 1805, representatives of the Five Civilized Tribes met in Muskogee  to write a constitution and propose statehood for their region. The Indians'  choice for a name for their new state was Sequoyah. Through the years, several  Native American writers and orators have saluted him in their works. We have  included some of these tributes below.
+
+      
+# David J. Brown (Cherokee)
+
+  David J. Brown was born sometime around 1856 in the Cherokee Nation to John  Lowrey and Ann E. Schrimscher Brown. He composed the majority of his poetry  while he attended the Cherokee Male Seminary from which he graduated in  1878. Most of his poems dealt with Cherokee subjects while reflecting the  background in classical literature he received from the seminary. Brown, who  was described as "one of the most promising young men of the country," came  to a tragic end as he was shot in the streets of Muskogee, Creek Nation, in  February 1879. In his poem, Brown compares Sequoyah to Cadmus of Thebes, the  mythological inventor of the Greek alphabet. Brown's poem first appeared in  the Cherokee Advocate on February 26, 1879.
+
+      
+# Sequoyah
+
+    - Thou Cadmus of thy race!
+  - Thou giant of thy age!
+  - In every heart a place,
+  - In history a living page;
+  - The juggernaut chariot time,
+  - May crush as she doth give;
+  - But a noble name like thine,
+  - Shall ever with Kee-too-whah live.
+    
+    - Orion-like thou dost stand,
+  - In any age and clime,
+  - With intellect as grand,
+  - As ever shown by time,
+  - 'Twas thy hand lit the spark
+  - That heavenward flashed its ray
+  - Revealing the shining mark
+  - The straight and narrow way.
+    
+    - Ignorance and superstitious awe
+  - From high pedestals toppled o'er
+  - When as the ancient giver of law,
+  - Smiting, thou mad'st the waters pour;
+  - Stand thou didst on Pisgah's height,
+  - And gazed into the future deep.
+  - But day was ne'er unclasped from night
+  - E'er thy spirit silently fell asleep.
+        
+# DeWitt Clinton Duncan (Cherokee)
+
+  DeWitt Clinton Duncan was born in 1829 in the Cherokee Nation at Dahlonega,  Georgia to John Duncan and Elizabeth Abercrombie Duncan. Duncan's education  began in missions and Cherokee national schools and then expanded to  Dartmouth College, from which he graduated in 1861. After his collegiate  years, Duncan did not return to his home because of the Civil War, so he  traveled to New Hampshire, Wisconsin, and Illinois while teaching school.  After the war, Duncan remained for a time in Charles City, Iowa, where he  continued to teach school, started a law practice, and served as mayor for  one year. By 1880, Duncan made his way back to the Cherokee Nation where he  continued his diverse careers: legal counsel, teacher and principal of the  Cherokee Male Seminary, and political writer and poet. This opportunity to  work as a writer allowed him time to contribute many works to Cherokee and  U.S. publications while writing under his English name or Too-qua-stee. In  November 1909, he died in Vinita, Oklahoma. Too-qua-stee's poem first  appeared June 2, 1904, in the Vinita Daily Chieftain.
+
+      
+# Sequoyah
+
+    - Great man? Or wondrous, should I say?
+  - For, like a comet bursting into sight,
+  - Launched unexpected on its artic way,
+  - Through boundless fields of rayless polar night,
+  - Eclipsing constellations in its flight--
+  - A flaming orb thou wert, and unforetold,
+  - Whose distance, altitude, and awful size
+  - No man, no kalendar however old,
+  - Could tell; and sweeping through the frigid skies,
+  - In its own distance fades from human eyes.
+    
+    - So, thou Sequoyah, from thy Maker's hand,
+  - Wast hurled prodigious through the skies of time,
+  - Untaught, original, and strangely grand,
+  - Thy mighty genius rose and shone sublime,
+  - The wonder of all eyes, in every clime.
+  - 'Twas meet that, when thy day was spent, the ground
+  - Should fall to give thy sacred ashes room;
+  - No low-built grave for thee shall e'er be found
+  - Beneath the sky: 'tis needless to inhume
+  - A Sun gone out - the universe its tomb.
+        
+# Alexander Lawrence Posey (Muscogee)
+
+  Alexander Lawrence Posey was born near Eufaula, Creek Nation, on August 3,  1873, the son of Louis H. Posey and Nancy Phillips. The elder Posey was a  Scot who had been born in Indian Territory. The writer's mother was the  full-blood daughter of Pohos Harjo.The young Posey preferred to speak  Muscogee until his teachers at the Creek Nation public schools in Eufaula  insisted on his using English.
+
+  He attended the Indian University at Muskogee (later Bacone University) and  graduated with honors in 1895. That year, he was elected to the House of  Warriors, the lower house of the Muscogee Nation legislature, and in the  next year was appointed superintendent of the Creek National Orphan Asylum  at Okmulgee.
+
+  In 1896, he married Minnie Harris of Fayetteville, Arkansas, a matron at the  Asylum. He held several posts in education including superintendent of  Public Instruction of the Creek Nation, principal of the Creek National High  School, and high school principal at Wetumpka. He edited the weekly Indian  Journal in Eufaula, a newspaper in which he published some of his most  successful works. Later, he assisted in editing the Muskogee Times. For a  time, Posey helped enroll Muscogees with the Dawes Commission. In 1905, he  served as secretary of the Constitutional Convention for the proposed state  of Sequoyah.
+
+  A prolific writer, he wrote poetry under the name of Chinnubbie Harjo and  political satire as Fus Fixico. He drowned on May 27, 1908. Posey's poem  appeared in Twin Territories magazine in April 1899. His address on Sequoyah  was printed in the Cherokee Advocate of July 22, 1893.
+
+      
+# Ode to Sequoyah
+
+    - The names of Waitie and Boudinot -
+  - The valiant warrior and gifted sage ---
+  - And other Cherokees, may be forgot,
+  - But thy name shall descend to every age;
+  - The mysteries enshrouding Cadmus' name
+  - Cannot obscure thy claim to fame.
+    
+    - The people's language cannot perish - nay!
+  - When from the face of this great continent
+  - Inevitable doom hath swept away
+  - The last memorial - the last fragment
+  - Of tribes, some scholar learned shall pore
+  - Upon thy letters, seeking ancient lore.
+    
+    - Some bard shall lift a voice in praise of thee,
+  - In moving numbers tell the world how men
+  - Scoffed thee, hissed thee, charged with lunacy?
+  - And who could not give 'nough honor when
+  - At length, in spite of jeers, of want and need,
+  - Thy genius shaped a dream into a deed.
+    
+    - By cloud-capped summits in the boundless west,
+  - Or mighty river rolling to the sea,
+  - Where'er thy footsteps led thee on that quest,
+  - Unknown, rest thee, illustrious Cherokee?
+        
+# Sequoyah
+
+  Among the great names in the history of invention, of men who have added  momentum to the progress of their race, the name of Sequoyah, the  illustrious Indian, deserves to be remembered. The triumph of his genius, in  the invention of the Cherokee alphabet, is a victory that must associate his  name with the apostles of science and civilization, and with the benefactors  of mankind. No other in the history of his race has won a higher regard from  posterity. The deeds of Pocahontas are noble, the heroism of King Phillip,  Tecumseh, and other Indians are commendable, and these will live in the  memory of the people, but the most enduring remembrance is due to this inventor.
+
+  It matters not in what region of the earth the seed of genius is cast-remote  or conspicuous--it will germinate and bear its fruit. This truth is verified  in the nativity of Sequoyah, as of Shakespeare, of Washington, and of the  majority of the most eminent characters of history. The birth-place of men  whose lives are destined to be given to the amelioration of humanity, is not  confined to some one favorite spot alone. The flower of the desert may shed  a sweeter fragrance than the one that has grown in the garden of luxury.  Somewhere-no one knows precisely-in that beautiful country once owned by the  Cherokees, Sequoyah was born. Though denied the advantages of education, he  had access to the teachings of nature-an ear ever opened to the voice of  reason. His textbooks were the mountains, the rivers, the forest, and the  heaven. His soul was the soul of a philosopher, that thirst for mental gain  and ceases never to investigate. He walked amid the winds contemplating  natural laws and the secrets of cause and effect, while his countrymen  gloried over the trophies of the chase and war. This high aspiration, by the  proper use of the knowledge gained, resulted in the invention of the  alphabet in which the rich language of the Cherokees is written.
+
+  A mind thus tutored in the university of nature, and achieving such a  beneficent deed for humanity, is worth a myriad of others, however learned,  that bring nothing to pass. Self-reliance and self-instruction are necessary  in moulding grand characters. These were the characteristics of Sequoyah.
+
+  When he conceived the possibility of his invention, it was his misfortune to  share the fate of most discoverers. His project was scoffed at and ridiculed  by unappreciating ignorance, which conferred upon him the title of lunatic.  No friend had the nobleness and generosity of heart to encourage him in his  toil. But all this served only to animate his faith in the plan which a  reason had submitted to his hands for execution. When his task was  finished-when the subject of his dreams was realized, his fellows looked  upon him as one inspired and worthy of his country's approbation.
+
+  Sequoyah was not, however, without his faults. The one blemish of his life  was intemperance; an evil that has displayed itself in the lives of some of  our greatest men. He would, no doubt, have sunk into oblivion, in  consequence of this infamous habit, had he not possessed the will, the  courage, and the strength of character to break and thrust aside its bonds.  Thus, Sequoyah rescued his name from infamy, his genius from ruin. A man  addicted to strong drink seldom reforms. But he knew that he could not  fulfill the sublime mission of his life and be a slave to inebriety. He knew  that he could not devote his time to the execution of his plans and be a  drunkard. He knew that such a course of life would do injustice to his  fellowmen by tempting the young to follow in his footsteps. Had he been  other than a lover of humanity, of science, of civilization; had he been  other than an industrious man, a lover of toil, one who finds something  always to employ his time, he would have perished in his delirium, for such  is the fate of multitudes who come to ruin in consequence of having nothing  to do. This was the noblest victory of his life.
+
+  But monuments and words of praise can never express the worth of Sequoyah to  his people. Though he fell by the wayside of neglect, though distant stars  and the flowers of a foreign clime smile above his grave, the work of his  hands helped to make his people happy and prosperous!
+
+      
+# Ruth Muskrat Bronson (Cherokee)
+
+  Ruth Muskrat was born in Indian Territory about 1897. As a young woman, she  was active in the Y. W. C. A. and was a representative of the North American  Indians at the International Student Volunteer Conference in Peking, China,  in 1922. She attended Carlisle Indian School in Pennsylvania for a time  before entering the University of Oklahoma and later Mount Holyoke College.  Upon graduation from Mount Holyoke, she worked for the Bureau of Indian  Affairs in several positions, including Guidance and Placement Officer. She  was also active in Indian affairs, serving as executive secretary of the  National Congress of American Indians. She wrote and published poetry and  articles on the American Indian as well as a book, Indians Are People, Too,  in 1947.
+
+      
+# Excerpt from "Miss Muskrat's Address on the North American Indian"
+ in  *The American Indian*, February, 1927
+
+  Another kind of hero, but no less a great one, is Sequoyah who dared to  accomplish the task of he set for himself in spite of the jeers of the very  people who should have been the first to encourage him.
+
+  He was a comparatively young man when he first conceived his dream of a  Cherokee alphabet. He had been a very skillful warrior and a very popular  youth among his tribesmen. But when he left off these lesser things to  follow the path of his great dream he lost his popularity. Oftentimes that  is the price a dreamer has to pay if he would make his dreams come true.
+
+  Sequoyah's friends jeered at him and called him a fool. Even his wife  declared him to be crazy or possessed by a devil. Then in day, at the end of  those ten years, his wife in a rage of impatience with this husband whom she  could not understand, burned all of his manuscripts and his records, the  fruits of ten hard years of patient labor. In the face of even this  devastating calamity, Sequoyah did not give up.
+
+  He started all over again, and this time with such earnestness that at the  end of three years he had his alphabet completed much more perfectly than it  had ever been before. It is said that no alphabet in all the history of  mankind is more perfect than this invented by one Indian man, and that any  Cherokee who speaks this language may learn to read and write it in four or  five hours of hard study.
+
+  Sequoyah's struggles were not ended with the completion of his alphabet. The  first thing he did was to teach his little daughter to read; and then the  whole tribe began to cry out that he had bewitched his own child and that  both of them must be burned at the stake. There was a long trial by the  member of the council, and at last it was decided to call in some of the  younger warriors from a neighboring town to sit in judgement of this man who  had just offered such a priceless gift to his people. "For," said the old  chief, "it may be that the is inspired by the Great Spirit and not by the  evil ones."
+
+  The young men sat in judgement. They proposed as a test that Sequoyah should  teach his jurors to read and write his alphabet. He had only a few hours  allowed him for this great task but he succeeded, and in this way the  Cherokee alphabet was given to the world. What a heritage of perseverance  his life is for all of us Indians who belong to this generation! What a  vision for us to follow! What an example of patience and courage.
+
+      
+# Houston Benge Tehee (Cherokee)
+
+  Houston Benge Tehee was born on October 14, 1874, in Sequoyah District,  Cherokee Nation, the son of Stephen and Rhoda Benge Tehee. He attended  Cherokee common schools and the Male Seminary and went one term to Fort  Worth University. Tehee served as clerk of Tahlequah District for ten years  and in 1906 became cashier of a bank. Meanwhile, he studied law,  specializing in oil and gas matters. In 1910, he served as mayor of  Tahlequah and was elected to the Oklahoma state legislature in 1910 and  1912. From 1914 to 1919 he served as Register of the United States Treasury,  and in 1926-27 as Assistant Attorney General. He was vice-president,  treasurer, and general manager of Continental Asphalt and Petroleum Company  of Oklahoma City. Tehee died on November 19, 1938. His address was given  July 16, 1917, at the dedication of Sequoyah's statue in the national capitol.
+
+      
+# Address by Hon. H. B. Tehee
+
+  Mr. Chairman, ladies, and gentlemen: It is with a feeling of genuine  pleasure, not unmixed with a pride common to the citizenship of Oklahoma and  a joy peculiar to those through whose veins course the blood not of a dying  race but of an amalgamated people, that I respond on this occasion for and  on behalf of the State of Oklahoma to present to the Government of the  United States the statue of Sequoyah and to join in paying tribute to this  illustrious character.
+
+  When these proceedings shall have been disseminated through the medium of the  press and have been brought to the notice of the Indian of America, he, too,  will be thrilled with a peculiar pride and will join us in according to a  member of his race a rightful place in the history of his country. This day,  indeed, will be an eventful one to the original American, and doubly so to  the noble Cherokee.
+
+  It is insignificant that that State, intended to have been the great  mobilization camp and home of the red man, should have chosen as one of her  sons for this signal honor one who had made it possible for that element of  her citizenship, considered as semisavage or barbarian less than a century  ago, to join the Caucasion [sic] element to maintain and, increase the  brilliancy of her star ever since the morning of the 16th day of November,  1907, when it flashed in meteoric splendor across the emblazonry of our  Union. From that day to this good and eventful hour this representative  people has contributed, by both brain and brawn, to keep the forty-sixth  star in the ascendancy and ever increasing ' in luster until its soft light,  with the light of the others of the constellation of States, now radiates  over the entire American Nation, lighting the path of her citizens and  enabling them to progress with complete security of life and liberty, in  continued enjoyment of freedom and happiness, and in the assured stability  of her cherished institutions and ideals. In the pride of the history of our  country, interwoven with the lives of our foremost men and women, with its  beautiful legends and rhythmic names of towns, cities, rivers, valleys,  mountains, and States which form a part of the warp and woof of our annals,  the red man vies with the white man and yields to none.
+
+  The man whom we this day honor had the good fortune to have lived in the days  when our forefathers, amid shot and shell, laid the foundation of the  American Republic, that to-day stands as the champion of freedom and  liberty--the common heritage of mankind.
+
+  From the story of his life we learn anew the lessons of self-reliance and  obedience and the inspiring power of nature. It was the principle of  self-dependence, made a part of his nature through the patient and insistent  instruction of his mother, fortified by a mother's love that was idolatrous,  that formed the basis upon which was builded [sic] his illustrious career.
+
+  Being without the elementary training of the schoolroom, he necessarily  became sagaciously observant of the things with which he came into contact.  The application of this rule naturally inculcated in him an ambition to  excel in whatever he engaged, whether it was in the chase of the wild fox or  sleek antelope, the sports of the day, the pursuit of artisanship, or the  grim game of war, which seems to have been popular in his day, and is not  without its popularity in this enlightened age in which we live. Everything  he saw and heard furnished a challenge to his untrained mind to evolve a  scheme by which his people, when that inevitable day came, were enabled to  claim and receive the privileges and assume the burdens and responsibilities  of full-fledged American citizenship.
+
+  Sequoyah ranks as one of the benefactors of the human family. The immediate  effect of his invention of the Cherokee alphabet was amazing. The Cherokee  abandoned the chase and the warpath and literally "beat their tomahawks into  plowshares and their scalping knives into pruning hooks." The hunting trail  and the warpath were turned into avenues of peaceful pursuits. The zeal and  excitement of the chase and strife were supplanted by enthusiasm and a  thirst for knowledge. Letters and learning flourished notwithstanding the  difficulties that beset the Cherokee on all sides by the encroachment of the  ever-aggressive Anglo-Saxon, who ever sought to wrest from him his happy  hunting grounds, then being made to blossom like the rose. Schools and  churches sprung up as it were out of the earth at the touch of the magic  wand. The government of the Cherokee took the form of a republican  government, patterned after that of the neighboring States, and was, indeed,  "a government of the people, by the people, and for the people." Before many  moons had passed their manner of living had covered the whole range from  that of everyday custom to the highest conventionalities that a capricious  fashion forces into the more extravagant forms of social life.
+
+  Sequoyah preceded the first general migration of his people toward the  setting sun, whence a part had gone 20 years before. He saw his people there  in what was the old Indian Territory set up anew the government they had  abandoned in the East and continue the pursuit of the arts and industries of  peace, though not without untold hardships and privations, and there, with  other kindred tribes, lay the foundations of what was destined to become one  of the greatest States of the Union, a full realization of which it has been  our pleasure to behold, and which to-day pays him homage. Noting the  wonderful progress his people had made in the arts of civilized life by his  invention, this mastermind conceived the idea of inventing a common alphabet  for all the tribes of the Indian race of America. He undertook the execution  of this laudable task in the old oxcart of bygone days--the vehicle that was  hitched to the "star of empire" that westward wended its way and brought to  the western plains the germ of civilization--and for two years this master  mind journeyed from tribe to tribe until that fate common to us all befell  him and left his task to be finished by the processes of time.
+
+  Sequoyah was indeed a child of the forest, with the great outdoors as his  playground and storehouse of his inspiration. In the words of his  biographer, Foster:
+
+  The first music that greeted this Indian child was the sighing of the forest,  the musical rustle of leaves, and the song of nature, which he loved through  life, which seems to have been the inspiration of his genius and the key to  his grand achievement.
+
+  The inspiring power of nature has been made manifest frequently, even from  the beginning of the world's history, for the God of Nature "moves in  mysterious ways His wonders to perform." It was amid the thunderings and  lightnings on the summit of Mount Sinai where Moses was inspired by the God  of Nations to give voice to the Ten Commandments and other laws of upright  conduct and honesty in human relationship that have formed the bases of all  human law from that inspiring day to this eventful age in which we live. It  was on the summit of Mount Horeb, amid the roaring storm and the tremors of  the earthquake, where the Prophet Elijah implicitly obeyed the "still small  voice" to the end that the judgments of the Great Jehovah should be proven  to be more enduring than the everlasting hills. It was on the summit of  Mount Olivet, amid the glory of all the kingdoms of the world, where the  Father of all inspiration, through the voice of the lowly Nazarene, gave  utterance to the beatitudes of literature which have furnished themes for  thought of poet, of statesman, of philosopher, and of orator, with a message  ever increasing in hope and cheer, courage, and faith to mankind, enabling  men to walk toward the mark of high calling with complete confidence and  security of a sure reward in the eternal beyond, whence no traveler has returned.
+
+  So, too, it was on the summit of the blue mountains of Georgia, amid all the  matchless scenes of nature's artist, where this untutored Indian, Sequoyah,  was inspired to invent the instrumentality through which the Cherokee were  enabled to read in their own language the wonderful story of Christ and Him  crucified, and gain a clearer conception of the Great Spirit in whom they  believed. And, like the great Lawgiver, Sequoyah was led into the mountains  of the Great Western Divide and saw all around him the lands of his kindred  tribes, to whom he had gone to find the missing link in the common language,  bathed in the gorgeous colorings of the setting sun, and there, enraptured  with these scenes of fadeless tints, he fell asleep and found his  sepulcher--the place of which to this day no man knoweth, and no man in all  America like unto him has since arisen. But somewhere on the southwestern  plains, unburied by the hands of man, commingling with the dust of mother  earth, lie the bones of him whom we this day commemorate. With each  recurring year methinks the shades of his race wend their way through the  trackless air to do homage to this patron saint of the Cherokee, and there  at that sacred spot with spirit hands lay their laurel wreaths of memory and  sing the praises of the American Cadmus.
+
+  Heretofore when the red man, accompanied by his pale-faced brother, entered  this marble home of our Nation he would note over the east dome hall  entrance a sculptural representation of the landing of the Pilgrims--the Old  World coming to the New. One of the Pilgrims stepping ashore meets an  Indian, who extends to his stranger visitor an ear of corn, symbolic of  succor to the needy. Indeed a happy welcome, extended in that simplicity of  Indian character and received by a grateful company of Pilgrims. Over the  north entrance he would note a representation of William Penn in the act of  making his treaty with the Indians, whereunder land was ceded to William  Penn and his followers for such articles of commerce then having value in  the Indian eye, though in fact of no intrinsic worth, and with felicitations  and security of peace as additional compensation.
+
+  Doubtless there was no red tape to unwind or roll up in those days that in  later years and still in the memory of man attended subsequent transactions,  in which there was wanting the element of felicitation, this having been  displaced by the, substitution of autonomy as long as "grass grows and water  runs." Over the west entrance he would note the representation of  Pocahontas, the Indian maiden, saving the life of Capt. John Smith at the  risk of her own. A beautiful nature picture of the Indian's simple and  instinctive belief in and knowledge of that eternal truth that "whosoever  shall lose his life shall save it." This act sacrificial at once brought  into notice this maiden of the forest, which resulted in a tie of human  relationship that should have immediately bridged the Atlantic Ocean. It  should have forever secured the Indian fortune, but evidently, in the light  of subsequent history, it did not fully serve as efficacious a purpose in  the field of conservation as the Indian of that day had anticipated, but  happily it was a link in the golden chain that now binds the descendants of  that union in standing shoulder to shoulder battling for the common cause of  mankind. And over the south entrance the red man would note a representation  of Daniel Boone, of historic fame, coming into deadly conflict with two  Indians, portrayal perhaps of the subjugation of the virgin forest and the  boundless prairie to the spirit of civilization. These representations, the  red man would think, too sadly tell the story of the effort of the Indian to  live on his native soil. He would think they too correctly interpret and  define the policy pursued by the Federal Government in its dealings with the  Indian, which has been the subject of caustic criticism.
+
+  But thenceforth when the red man sees in this historic Hall of Fame a figure  of his race, standing erect as of yore and touching elbow with elbow with  the most noted of the pale face, with poet and patriot, orator and  philosopher, statesman and soldier, he will forget these artistic  decorations and rising to his full stature, in exultant joy, exclaim to his  pale-faced brother "At last my people are no longer strangers to their  native soil, 'the land of the free, the home of the brave."' He will clasp  the hand of his companion and in firm, solemn, and sincere tones say, "I  join you in unmeasured love of our country, in unreserved devotion to her  fundamental principles, in complete consecration to her lofty ideals, and  will lay my life by the side of yours upon the altar in maintaining these  attributes of American character whereon hang all the laws of freedom and liberty."
+
+  In the name of the Hon. Robert L. Williams, Governor of the State of  Oklahoma, and on behalf of that State, I present to the Government of the  United States of America the statue of Sequoyah, the American Cadmus.
+
+      
+# Robert Latham Owen (Cherokee)
+
+  Born at Lynchburg, Virginia, on February 2, 1856, Robert Owen was the son of  Robert Latham and Narcissa Chisholm Owen. At age ten, he was enrolled in  Merillat Institute near Baltimore. He later attended Washington and Lee from  which received an M. A. degree. In the 1870s, the widowed Mrs. Owen returned  with her sons to the Cherokee Nation, where Owen taught at the Cherokee  Orphan Asylum, practiced law, and served as secretary to the Board of  Education. In 1884, he became owner and editor of the Vinita Indian  Chieftain. From 1885 to 1889, Owen was union agent for the Five Civilized  Tribes. In 1890, he organized the First National Bank of Muskogee. From 1907  to 1925, he was U. S. Senator from Oklahoma. Upon retirement, he kept a law  office for a number of years in Washington, D. C. Owen died on July 19,  1947. His address was given July 16, 1917, at the dedication of Sequoyah's  statue in the national capitol.
+
+      
+# Address by Senator Owen
+
+  Ladies and gentlemen: In this National Statuary Hall, containing the statues  of the great men and women of the various States of the Union, Oklahoma  presents to the United States this heroic statue of one of her most honored  sons, Sequoyah, a native American--a Cherokee Indian--who was every inch a  man and worthy to represent Oklahoma in the Capitol of the Nation.
+
+  Sequoyah had courage, generosity, perseverance, great industry, a wonderful  intelligence, and, best of all, a strong desire to serve his fellow men. No  man ever rendered a nobler or a better service to his people than did  Sequoyah, who, out of a heaven-born genius, was able to invent a syllabic  alphabet of 86 characters with which a Cherokee child might learn to read  and write the Cherokee language within a day.
+
+  The 86 symbols of this alphabet were each a syllable, except the letter "S,"  and with these symbols every Cherokee word could be written.
+
+  Sequoyah spelled his name Se-quo-yah, with three syllabic symbols.
+
+  It was impossible to misspell words with this alphabet, and a Cherokee had  but to know the alphabet in order to read anything written in Cherokee or to  write anything in Cherokee.
+
+  This alphabet opened up to the Cherokee people the doors of knowledge without  requiring them to go through the painful process of learning a foreign language.
+
+  The Cherokees, with elaborate ceremonies, did notable honor to Sequoyah as an  expression of their appreciation of his masterful work. They presented him  with a great silver medal in token of the esteem with which he was held by  the Cherokee people, and passed resolutions in his honor.
+
+  The Cherokee Nation established a printing press, had type made, and printed  the news of the day in the Phoenix and in the Cherokee National Advocate  with Sequoyah's letters. They printed the laws in this language. They  printed the Gospels and the New Testament and many other books useful and  interesting to the Cherokee people, and in this way the Cherokee people made  rapid advance in knowledge and in civilization.
+
+  Sequoyah could not read English. He used the letters of the English alphabet  and of the Greek alphabet, and invented other letters of his own, to each  one of which he gave a syllabic meaning. The framing of this alphabet showed  a talent of the first magnitude.
+
+  It is a strange thing that no alphabet in all the world reaches the dignity,  the simplicity, and the value of the Cherokee alphabet as invented by  Sequoyah. The European alphabet goes too far in providing analysis of sound  and permits such large variations in spelling that it is a task of years to  learn how to spell correctly in any of the European languages. With the  Sequoyah alphabet a Cherokee could learn to spell in one day.
+
+  Thus the labor of years was saved to the student. So great an intellectual  accomplishment was this that Canon Kingsley named the great red cedars of  California, which towered as high as 400 feet into the air and which were 25  feet through at the base, "Sequoias" because they were typical of the  greatest native North American Indian.
+
+  It must not be imagined that Sequoyah was able to frame his alphabet in a few  days or a few weeks. Sequoyah was a natural mechanic. He loved to build. He  loved to draw and paint. He made himself, with the crudest appliances, the  best silversmith in all the regions around, and he made himself a die  representing his name in English which he printed on all the silverware made  with his hands.
+
+  He finally determined to undertake the alphabet, and it was a continuous  labor for over two years before he finally completed it and demonstrated its  value by teaching the young people of his tribe to write and to read. It  required, therefore, the most persistent, determined purpose, that would not  consent to any denial, an inflexible resolution, patient thought, day after  day and week after week; but his triumph was complete, a triumph of courage,  determined purpose, continued intense thought.
+
+  When the State of Oklahoma came to choose the first statue to be presented to  the Government from Oklahoma it chose Sequoyah almost without a dissenting  voice, because of the heroic qualities of the man as a human soul,  surrounded with difficulties, but overcoming every obstacle and rendering  the most signal service any human being could render to his fellow men by  opening the fields of all knowledge to his people through the invention of a  perfect alphabet.
+
+  Oklahoma, when it determined to present the statue of Sequoyah, chose as the  artist a woman greatly beloved in Oklahoma, Mrs. Vinnie Ream Hoxie, the wife  of Gen. Richard Leveridge Hoxie, of Washington City. Vinnie Ream's people  were closely identified with Oklahoma through Robert Ream, her brother, who  lived in eastern Oklahoma, near McAlester. Her house in Washington was a  rendezvous for many years for the best talent representing Oklahoma in  Washington, but it was not her charm of manner, her great social talent,  which led Oklahoma to place this commission in her hands. It was her  magnificent ability as a sculptor of the first rank. After receiving the  commission from Oklahoma to execute this work, failing health compelled her  to seek the assistance of another artist, and as one great genius is able  best to perceive the talent of another so she selected Mr. George Julian  Zolnay, the eminent sculptor of Washington, trained in Vienna and Paris, and  well known in New York, Chicago, and St. Louis, to take over and complete  this labor, which, with Vinnie Ream, was a labor of love, for she always  loved the Cherokees and the Indian people.
+
+  As to the splendid manner in which this work has been finally completed by  Mr. Zolnay on the model outlined by Vinnie Ream, I think no one can raise a  question. The nobility of the pose, its grace, its strength, the firm  characteristic Cherokee Indian face, all show the highest form of human art.
+
+  Sequoyah is entitled to rank as the ablest intelligence produced among the  American Indians, and Oklahoma takes pride in presenting to the Capitol of  the United States this statue of Sequoyah in memory of an honored son of  Oklahoma, a native American of the first rank, a man distinguished by the  chief of all virtues--an earnest desire to serve his fellow men.
+
+  Without great opportunities, he made wonderful use of the small opportunities  he had. In character, in nobility, in spiritual and mental worth he well  deserves a place in the glorious company of Statuary Hall in the Capitol  Building of the greatest Republic of the ages.
+
+  On behalf of Oklahoma and in the name of Hon. Robert L. Williams, governor of  Oklahoma, acting for the State, I present this statue of Sequoyah to the  Government of the United States and to Statuary Hall.
+
+      
+# William Wirt Hastings (Cherokee)
+
+  William Wirt Hastings was the son of William Archibald Yell and Louisa J.  (Stover) Lynch Hastings, a member of the Cherokee tribe. Born in Arkansas on  December 31, 1866, Hastings was reared on Beatties Prairie, Cherokee Nation  and attended Cherokee common schools. He later attended the Cherokee Male  Seminary, from which he graduated in 1884. After teaching in Cherokee  schools for a year, Hastings entered Vanderbilt University, receiving a law  degree in 1889. He formed a partnership with E. C. Boudinot and served as  attorney for the Cherokee Nation. After Oklahoma statehood, he served in the  U. S. Congress for eighteen years. He married Lula Starr. Hastings died on  April 8, 1938. His address was given July 16, 1917, at the dedication of  Sequoyah's statue in the national capitol.
+
+      
+# Address by Representative Hastings
+
+  Mr. Chairman, ladies, and gentlemen: Oklahoma was admitted to statehood on  November 16, 1907, less than 10 years ago. At the time of admission the  State had greater resources than any sister State when admitted. It has  developed wonderfully since that time, and now has a population of about two  and one-half million, with a healthful climate, splendid railroad  facilities, immense agricultural possibilities, and inexhaustible supplies  of minerals, including zinc, lead, coal, oil, and gas. Her citizenship was  drawn from every State in the Union, her constitution and laws are the most  progressive, and her educational system is unexcelled. Her cities and towns  have had a remarkable growth and are modern in every respect. However, it is  not of her resources that I want to speak. They are already well known  throughout the length and breadth of this Nation. It is to one of her  distinguished sons that I invite attention at this time.
+
+  Oklahoma when admitted to statehood had the Five Civilized Tribes in the  eastern part; Cherokees, Choctaws, Chickasaws, Creeks, and Seminoles, each  occupying separate and distinct areas and each with their own tribal  government, with a constitution and laws modeled in part after that of the  United States and the surrounding States. Each nation, however, was unique  in that the lands occupied were held in common, no individual member having  a title to the same, but only had a right to occupy, improve, and use his  pro rata part of the surface. A number of other tribes had lands throughout  the State, including the Osages and the Quapaw Reservation.
+
+  In 1911 the legislature of the State provided that a statue of Sequoyah  should be placed in Statuary Hall as one of Oklahoma's distinguished sons,  in recognition of his services and genius in inventing the Cherokee alphabet.
+
+  Sequoyah was born about the year 1770, of a full-blood Cherokee Indian woman  and a white trader named Gist, who abandoned his mother before the birth of  her distinguished son. His English name was George Guess, a corruption of  Gist, and Sequoyah means in Cherokee "Guessed it." In order to fully  appreciate and properly estimate Sequoyah it must be remembered that he was  born prior to the Revolutionary War; that the tribe of which his mother was  a member had no schools or churches, and that but few, if any, Cherokees  could read or write the English language. Sequoyah was born in a tent, grew  up without educational advantages, and never learned to read or write the  English language. His attention was invited to the fact that white people  communicated with each other by letters, which he called "talking leaves."  He accepted the challenge to accomplish the same in his own language. This  great work was begun about the year 1809 and it was not until 1821 that it  was completed.
+
+  In his younger days Sequoyah was one of the most active, progressive, and  spirited members of his tribe. He was regarded as a splendid companion, an  entertaining storyteller, a leader in all sports, a good shot, and shrewd  trader. He accumulated considerable property, cleared up and placed a farm  in cultivation, built a modern home, and became a fine silversmith, which  trade enabled him to make numerous articles for sale and barter. He was not  only active in these pursuits, but he was looked upon as a leader of his  tribe, a man of great intellect, a deep thinker, and a philosopher.
+
+  During the 12 years he was engaged in forming the Cherokee alphabet he  withdrew from active pursuits and participation in public affairs. When his  great work was accomplished it was looked upon with suspicion and  reluctantly accepted. It was with difficulty that he convinced the members  of his tribe of the genuineness of his invention and its great usefulness to  them. He conquered all obstacles and set about to teach it to them. Within  two years the Cherokee Council recognized his genius and great worth, voting  him a medal and passing resolutions expressive of the deep appreciation of  the members of the tribe.
+
+  In the meantime Sequoyah, with some of the other members of his tribe, had  gone West, first to the Territory of Arkansas and later to the Indian  Territory, now a part of 0klahoma. He came to Washington as a representative  of the Cherokee west in 1828, where his services were recognized by Congress  and an appropriation was made in his behalf. Money was furnished by the  Government of the United States to establish a printing plant, upon which  the first newspaper ever published in any Indian language, The Phoenix, was  printed at New Echota, Ga., February 21, 1828. The civilizing effect of this  alphabet resulting in a printed language, not only upon the members of the  tribe of which Sequoyah was a member, but upon all the surrounding tribes,  can never be estimated.
+
+  Prior to that time there were no schools or churches, and the missionaries  among the Indians had accomplished but little. From that press, not only the  newspaper containing useful and valuable information of every kind was  printed, but parts of the New Testament, tracts, hymns, and books, resulting  in a great awakening in educational work, the establishment of schools, the  adoption of a written constitution and laws, and a government modeled after  the government of the surrounding States.
+
+  The newspaper was discontinued about 1835. The Cherokee Advocate was  established in its place in the Indian Territory in 1845, [1844, ed.] but  discontinued during the Civil War. It was reestablished in 1870, and  published until 1905, [1906, ed.] at which time the Government of the United  States, under prior legislation, practically assumed control of the affairs  of the Cherokee Indians.
+
+  Sequoyah was a representative of the western branch of Indians when the act  of union between the Eastern and Western Cherokees was signed in 1838,  cementing the Cherokees, east and west, into one body in the Indian  Territory, now Oklahoma. He was also a member of the constitutional  convention which framed and adopted the constitution in 1839, providing a  form of government regarded as a model for a body of people holding their  lands in common, with all the protection and personal safeguards contained  in the constitutions of the several States.
+
+  More fully appreciating the work of Sequoyah, the Cherokee Nation, after  moving west in 1843, voted him a literary pension, the only act of the kind  ever passed by the legislative body of the tribe. Upon his death this  pension was continued to his widow.
+
+  While in Washington City as a representative of the tribe Sequoyah met many  Indians of other tribes. In the early forties be started on a trip west with  the double purpose of searching out the members of the Cherokee Tribe who,  according to tradition, had moved to the far Southwest and visiting other  tribes to become acquainted with their customs and usages. He wished to  compile the same in a book and invent an alphabet by means of which all  Indian tribes could communicate with each other in a common language.  However, he suffered much with rheumatism, which sapped his vitality and  left him unable to endure the hardships encountered in his western journey  across the Rocky Mountains and through the valleys of New Mexico in an  oxcart with a lone companion. Tradition has it that somewhere near the sweep  of the great Colorado River he was seized with a fever, and in an unknown  cave, watched over by his attendant, this philosopher, teacher, inventor,  genius, and dreamer fell asleep about the year 1844.
+
+  Congress had recognized his services and the Cherokee Council had done  likewise in commendatory resolutions. He was rewarded with a pension by his  tribe, and his name was given to the district in which he resided, which  name was continued for that county by the convention which framed the  constitution for the State of Oklahoma.
+
+  The log house in which he lived still stands in the hills of Sequoyah County  in the district represented by me. Considering the time of his birth, the  manner in which he grew up, his environment, his rearing by a widowed  mother, his not being able to read or write the English language, his  invention was marvelous. I am glad to be able to take part in these  exercises to-day.
+
+  Eighty-nine years ago the man whose memory we seek to honor to-day came here  as a representative of his tribe. Almost a century afterwards the great  State of Oklahoma further recognizes his services to mankind and honors his  memory by directing that his statue be placed here among the statues of our  most distinguished men. No man exhibited a greater genius, and no man's work  had a more immediate and lasting influence upon the people among which he  lived. He richly deserves the honor which we show him to-day and which the  State of Oklahoma confers upon him.
+
+  Only a few centuries ago the American Indians were the sole inhabitants of  the Western Hemisphere. How appropriate that we should place in the Nation's  Capitol, as a gift from Oklahoma, which means the home of the red man,  formed by a union of vast areas of land occupied by Indian tribes, making  them citizens of the State, combining the seals of the several tribes into  one representing the State, indicating that it was a friendly assimilation  and not a destruction of them, the statue of one representative not only of  our great State but the Nation and Indian race as well, and that from among  them was selected one representing the forward thought of his time--the  Cadmus of his race.
+
+      
+# Charles D. Carter (Chickasaw)
+
+  Charles D. Carter was the son of B. W. Carter, a Cherokee, and Serena Guy  Carter, a Chickasaw. Born at Boggy Depot, Choctaw Nation, in August 1869, he  attended the Chickasaw national schools, Harley Institute of Tishomingo, and  Austin College at Sherman, Texas. Carter worked as a cowboy and a store  clerk until 1892, when he became auditor of the Chickasaw Nation. In 1894,  he was appointed superintendent of schools for the nation and in 1897 was  elected to the legislature. At the same time, he was a director of the City  National Bank of Ardmore. After Oklahoma statehood, Carter was elected the  state's first Member of Congress from the third district. He had a long  career in the House, part of which time he served as chairman of the House  Committee on Indian Affairs. Carter died at Ardmore in April 1929. His  address was given July 16, 1917, at the dedication of Sequoyah's statue in  the national capitol.
+
+      
+# Address by Representative Carter
+
+  In the frontier log cabin in which my early youth was spent, a corner over my  father's writing table was set aside for the pictures of notables. Among  those I recall now the faces of Washington, Napoleon, Lee, and others.  These, I was told, were among the greatest statesmen and warriors the world  had produced. The faces of Shakespeare, Hugo, Cooper, and others were  pointed out to me as some of the greatest writers, but the picture that  engaged my youthful attention most was that of a long-haired, angular-faced  frontiersman, clad in hunting shirt and buck-skin leggings, bedecked with a  long bow-stemmed pipe, and a sort of turban on his head. I was given to  understand that this was a picture of Sequoyah--George Guess--the only  American who had ever invented an alphabet, and it seemed to me in my  childhood fancies that he was the greatest of them all.
+
+  Statecraft, it is true, has been a most potential factor in bringing society  to its present high state of civilization, while the arts of war have in the  past, perhaps, been a necessary adjunct and evil to our development. But who  can say that the man who gave us letters, the man who provided us  instrumentalities by which we might record our thoughts and acts and  transmit them to living friends and generations yet to come, is not at least  on an equal plane in his contribution to society with the greatest  statesmen, authors, or warriors, either living or dead.
+
+  Sequoyah was the first resident of that section of the country now known as  Oklahoma to prominently and permanently engage the attention of the public.  An untutored, unlettered, non-English-speaking Indian, yet his genius  invented one of the greatest alphabets that the world has ever known. A  phonetic alphabet, with a character representing every sound in the tongue  of his tribe. The genius of this primitive man gave to an uncivilized and  benighted people the means of conveying thought by letters, which  contributed so largely toward bringing them from beclouded ignorance and  superstition, until within a remarkably short time after the official  acceptance of his alphabet almost every member of the tribe--man, woman, and  child--was able to read and write.
+
+  Oklahoma has abundant reason to feel proud of her contribution to Statuary  Hall, not only on account of the appropriate choice of the great character  which represents her here, but for the further reason that this wonderful  piece of art was conceived in the brain of one who loved our young State and  always delighted to claim it as her home--the lovable and talented Vinnie  Ream Hoxie.
+
+  The statue of this aboriginal American in the Hall of this Capitol typifies  and symbolizes the magnanimous spirit of the white citizens of Oklahoma, who  have always granted to the American Indian more rights, more liberties, more  privileges, and more honors than any other State in this great Republic.
+
+        

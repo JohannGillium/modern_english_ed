@@ -1,0 +1,144 @@
+---
+layout: narrative
+
+title: >
+    April Showers
+source: 
+---
+
+            
+# Wharton, Edith.  "April Showers."  * The Youth's Companion*  74,  18 Jan. 1900: 25-26. 
+
+          "BUT Guy's heart slept under the violets on Muriel's  grave."
+
+       It was a beautiful ending; Theodora had seen girls cry over  last chapters that weren't half as pathetic.  She laid her pen  aside and read the words over, letting her voice linger on the  fall  of the sentence; then, drawing a deep breath, she wrote across  the  foot of the page the name by which she had decided to become  known  in literature—Gladys Glyn.
+
+       Down-stairs the library clock struck two.  Its muffled thump  sounded like an admonitory knock against her bedroom floor.  Two  o'clock! and she had promised her mother to be up early enough to  see that the buttons were sewn on Johnny's reefer, and that Kate  had her cod-liver oil before starting for school!
+
+       Lingeringly, tenderly she gathered up the pages of her  novel,—there were five hundred of them,—and tied them with the  blue satin ribbon that her Aunt Julia had given her.  She had  meant  to wear the ribbon with her new dotted muslin on Sundays, but  this  was putting it to a nobler use.  She bound it round her  manuscript,  tying the ends in a pretty bow.  Theodora was clever at making  bows, and could have trimmed hats beautifully, had not all her  spare moments been given to literature.  Then, with a last look  at  the precious pages, she sealed and addressed the package.  She  meant to send it off next morning to the * Home Circle*.   She knew  it would be hard to obtain access to a paper which numbered so  many  popular authors among its contributors, but she had been  encouraged  to make the venture by something her Uncle James had said the  last  time he had come down from Boston.
+
+       He had been telling his brother, Doctor Dace, about his new  house out at Brookline.  Uncle James was prosperous, and was  always  moving into new houses with more "modern improvements."  Hygiene  was his passion, and he migrated in the wake of sanitary  plumbing.
+
+       "The bath-rooms alone are worth the money," he was saying,  cheerfully, "although it * is* a big rent.  But then, when a  man's  got no children to save up for—" he glanced compassionately  round  Doctor Dace's crowded table—"and it * is* something to be  in a  neighborhood where the drainage is A 1.  That's what I was  telling  our neighbor.  Who do you suppose she is, by the way?"  He smiled  at Theodora.  "I rather think that young lady knows all about  her.   Ever hear of Kathleen Kyd?"
+
+       Kathleen Kyd!  The famous "society novelist," the creator of  more "favorite heroines" than all her predecessors put together  had  ever turned out; the author of "Fashion and Passion," "An  American  Duchess," "Rhona's Revolt."  Was there any intelligent girl from  Maine to California whose heart would not have beat faster at the  mention of that name?
+
+       "Why, yes," Uncle James was saying, "Kathleen Kyd lives next  door.  Frances G. Wollop is her real name, and her husband's a  dentist.  She's a very pleasant, sociable kind of woman; you'd  never think she was a writer.  Ever hear how she began to write?   She told me the whole story.  It seems she was saleswoman in a  store, working on starvation wages, with a mother and a  consumptive  sister to support.  Well, she wrote a story one day, just for  fun,  and sent it to the * Home Circle*.  They'd never heard of  her, of  course, and she never expected to hear from them.  She did,  though.   They took the story and passed their plate for more.  She became  a  regular contributor and eventually was known all over the  country.   Now she tells me her books bring her in about ten thousand a  year.   Rather more than you and I can boast of, eh, John?  Well, I hope  *  this* household doesn't contribute to her support."  He  glanced  sharply at Theodora.  "I don't believe in feeding youngsters on  sentimental trash; it's like sewer-gas—doesn't smell bad, and  infects the system without your knowing it."
+
+       Theodora listened breathlessly.  Kathleen Kyd's first story  had been accepted by the * Home Circle*, and they had asked  for  more!  Why should Gladys Glyn be less fortunate?  Theodora had  done  a great deal of novel-reading,—far more than her parents were  aware of,—and felt herself competent to pronounce upon the  quality  of her own work.  She was almost sure that "April Showers" was a  remarkable book.  If it lacked Kathleen Kyd's lightness of touch,  it had an emotional intensity never achieved by that brilliant  writer.  Theodora did not care to amuse her readers; she left  that  to more frivolous talents.  Her aim was to stir the depths of  human  nature, and she felt she had succeeded.  It was a great thing for  a girl to be able to feel that about her first novel.  Theodora  was  only seventeen; and she remembered, with a touch of retrospective  compassion, that George Eliot had not become famous till she was  nearly forty.
+
+       No, there was no doubt about the merit of "April Showers."   But would not an inferior work have had a better chance of  success?   Theodora recalled the early struggles of famous authors, the  notorious antagonism of publishers and editors to any new writer  of  exceptional promise.  Would it not be wiser to write the book  down  to the average reader's level, reserving for some later work the  great "effects" into which she had thrown all the fervor of her  imagination?  The thought was sacrilege!  Never would she lay  hands  on the sacred structure she had reared; never would she resort to  the inartistic expedient of modifying her work to suit the  popular  taste.  Better obscure failure than a vulgar triumph.  The great  authors never stooped to such concessions, and Theodora felt  herself included in their ranks by the firmness with which she  rejected all thought of conciliating an unappreciative public.   The  manuscript should be sent as it was.
+
+       She woke with a start and a heavy sense of apprehension.   The  * Home Circle* had refused "April Showers!"  No, that  couldn't be  it; there lay the precious manuscript, waiting to be posted.   What  was it, then?  Ah, that ominous thump below stairs—nine o'clock  striking!  It was Johnny's buttons!
+
+       She sprang out of bed in dismay.  She had been so determined  not to disappoint her mother about Johnny's buttons!  Mrs. Dace,  helpless from chronic rheumatism, had to entrust the care of the  household to her eldest daughter; and Theodora honestly meant to  see that Johnny had his full complement of buttons, and that Kate  and Bertha went to school tidy.  Unfortunately, the writing of a  great novel leaves little time or memory for the lesser  obligations  of life, and Theodora usually found that her good intentions  matured too late for practical results.
+
+       Her contrition was softened by the thought that literary  success would enable her to make up for all the little  negligences  of which she was guilty.  She meant to spend all her money on her  family; and already she had visions of a wheeled chair for her  mother, a fresh wallpaper for the doctor's shabby office,  bicycles  for the girls, and Johnny's establishment at a boarding-school  where sewing on his buttons would be included in the curriculum.   If her parents could have guessed her intentions, they would not  have found fault with her as they did: and Doctor Dace, on this  particular morning, would not have looked up to say, with his  fagged, ironical air:
+
+       "I suppose you didn't get home from the ball till  morning."
+
+       Theodora's sense of being in the right enabled her to take  the  thrust with a dignity that would have awed the unfeeling parent  of  fiction.
+
+       "I'm sorry to be late, father," she said.
+
+       Doctor Dace, who could never be counted on to behave like a  father in a book, shrugged his shoulders impatiently.
+
+       "Your sentiments do you credit, but they haven't kept your  mother's breakfast warm."
+
+       "Hasn't mother's tray gone up yet?"
+
+       "Who was to take it, I should like to know?  The girls came  down so late that I had to hustle them off before they'd finished  breakfast, and Johnny's hands were so dirty that I sent him back  to  his room to make himself decent.  It's a pretty thing for the  doctor's children to be the dirtiest little savages in  Norton!"
+
+       Theodora had hastily prepared her mother's tray, leaving her  own breakfast untouched.  As she entered the room up-stairs, Mrs.  Dace's patient face turned to her with a smile much harder to  bear  than her father's reproaches.
+
+       "Mother, I'm * so* sorry—"
+
+       "No matter, dear.  I suppose Johnny's buttons kept you.  I  can't think what that boy does to his clothes!"
+
+       Theodora set the tray down without speaking.  It was  impossible to own to having forgotten Johnny's buttons without  revealing the cause of her forgetfulness.  For a few weeks longer  she must bear to be misunderstood; then—ah, then if her novel  were  accepted, how gladly would she forget and forgive!  But what if  it  were refused?  She turned aside to hide the dismay that flushed  her  face.  Well, then she would admit the truth—she would ask her  parents' pardon, and settle down without a murmur to an obscure  existence of mending and combing.
+
+       She had said to herself that after the manuscript had been  sent, she would have time to look after the children and catch up  with the mending; but she had reckoned without the postman.  He  came three times a day; and for an hour before each ring she was  too excited to do anything but wonder if he would bring an answer  this time, and for an hour afterward she moved about in a leaden  stupor of disappointment.  The children had never been so trying.    They seemed to be always coming to pieces, like cheap furniture;    one would have supposed they had been put  together with bad  glue.  Mrs. Dace worried herself ill over Johnny's tatters,  Bertha's bad marks at school, and Kate's open abstention from  cod-liver oil; and Doctor Dace, coming back late from a long round of  visits to a fireless office with a smoky lamp, called out  furiously  to know if Theodora would kindly come down and remove the "East,  West, home's best" that hung above the empty grate.
+
+       In the midst of it all, Miss Sophy Brill called.  It was  very  kind of her to come, for she was the busiest woman in Norton.   She  made it her duty to look after other people's affairs, and there  was not a house in town but had the benefit of her personal  supervision.  She generally came when things were going wrong,  and  the sight of her bonnet on the door-step was a surer sign of  calamity than a crape bow on the bell.  After she left, Mrs. Dace  looked very sad, and the doctor punished Johnny for warbling down  the entry:  
+
+                      "Miss Sophy Brill
+
+                       Is a bitter pill!"    while Theodora, locking herself in her room, resolved with tears  that she would never write another novel.
+
+       The week was a long nightmare.  Theodora could neither eat  nor  sleep.  She was up early enough, but instead of looking after the  children and seeing that breakfast was ready, she wandered down  the  road to meet the postman, and came back wan and empty-handed,  oblivious of her morning duties.  She had no idea how long the  suspense would last; but she didn't see how authors could live if  they were kept waiting more than a week.
+
+       Then suddenly, one afternoon—she never quite knew how or  when  it happened—she found herself with a * Home Circle*  envelope in  her hands, and her dazzled eyes flashing over a wild dance of  words  that wouldn't settle down and make sense.
+
+       "Dear Madam:"  [They called her * Madam!*  And then;  yes, the  words were beginning to fall into line now.]  "Your novel, 'April  Showers,' has been received, and we are glad to accept it on the  usual terms.  A serial on which we were counting for immediate  publication has been delayed by the author's illness, and the  first  chapters of 'April Showers' will therefore appear in our  midsummer  number.  Thanking you for favoring us with your manuscript, we  remain," and so forth.
+
+       Theodora found herself in the wood beyond the schoolhouse.   She was kneeling on the ground, brushing aside the dead leaves  and  pressing her lips to the little bursting green things that pushed  up eager tips through last year's decay.  It was spring—spring!   Everything was crowding toward the light, and in her own heart  hundreds of germinating hopes had burst into sudden leaf.  She  wondered if the thrust of those little green fingers hurt the  surface of the earth as her springing raptures hurt—yes,  actually  hurt!—her hot, constricted breast!  She looked up through  interlacing boughs at a tender, opaque blue sky full of the  coming  of a milky moon.  She seemed enveloped in an atmosphere of loving  comprehension.  The brown earth throbbed with her joy, the tree-tops trembled with it, and a sudden star broke through the  branches  like an audible "I know!"
+
+       Theodora, on the whole, behaved very well.  Her mother  cried,  her father whistled and said he supposed he must put up with  grounds in his coffee now, and be thankful if he ever got a hot  meal again; while the children took the most deafening and  harassing advantage of what seemed a sudden suspension of the  laws  of nature.
+
+       Within a week everybody in Norton knew that Theodora had  written a novel, and that it was coming out in the * Home  Circle*.   On Sundays, when she walked up the aisle, her friends dropped  their  prayer-books and the soprano sang false in her excitement.  Girls  with more pin-money than Theodora had ever dreamed of copied her  hats and imitated her way of speaking.  The local paper asked her  for a poem; her old school-teachers stopped to shake hands and  grew  shy over their congratulations; and Miss Sophy Brill came to  call.   She had put on her Sunday bonnet, and her manner was almost  abject.   She ventured, very timidly, to ask her young friend how she  wrote,  whether it "just came to her," and if she had found that the kind  of pen she used made any difference; and wound up by begging  Theodora to write a sentiment in her album.
+
+       Even Uncle James came down from Boston to talk the wonder  over.  He called Theodora a "sly baggage," and proposed that she  should give him her earnings to invest in a new patent  grease-trap  company.  From what Kathleen Kyd had told him, he thought  Theodora  would probably get a thousand dollars for her story.  He  concluded  by suggesting that she should base her next romance on the  subject  of sanitation, making the heroine nearly die of sewer-gas  poisoning  because her parents won't listen to the handsome young doctor  next  door, when he warns them that their plumbing is out of order.   That  was a subject that would interest everybody, and do a lot more  good  than the sentimental trash most women wrote.
+
+       At last the great day came.  Theodora had left an order with  the bookseller for the midsummer number of the * Home  Circle*, and  before the shop was open she was waiting on the sidewalk.  She  clutched the precious paper and ran home without opening it.  Her  excitement was almost more than she could bear.  Not heeding her  father's call to breakfast, she rushed up-stairs and locked  herself  in her room.  Her hands trembled so that she could hardly turn  the  pages.  At last—yes, there it was: "April Showers."
+
+       The paper dropped from her hands.  What name had she read  beneath the title?  Had her emotion blinded her?
+
+       "April Showers, by * Kathleen Kyd*."
+
+       Kathleen Kyd!  Oh, cruel misprint!  Oh, dastardly  typographer!   Through tears of rage and disappointment Theodora looked again:  yes, there was no mistaking the hateful name.  Her glance ran on.    She found herself reading a first paragraph that she had never  seen  before.  She read farther.  All was strange.  The horrible truth  burst upon her: * It was not her story!*  
+
+                               —  
+
+       She never knew how she got back to the station.  She  struggled  through the crowd on the platform, and a gold-banded arm pushed  her  into the train just starting for Norton.  It would be dark when  she  reached home; but that didn't matter—nothing mattered now.  She  sank into her seat, closing her eyes in the vain attempt to shut  out the vision of the last few hours; but minute by minute memory  forced her to relive it; she felt like a rebellious school child  dragged forth to repeat the same detested "piece."
+
+       Although she did not know Boston well, she had made her way  easily enough to the * Home Circle* building; at least, she  supposed she had, since she remembered nothing till she found  herself ascending the editorial stairs as easily as one does  incredible things in dreams.  She must have walked very fast, for  her heart was beating furiously, and she had barely breath to  whisper the editor's name to a young man who looked out at her  from  a glass case, like a zoological specimen.  The young man led her  past other glass cases containing similar specimens to an inner  enclosure which seemed filled by an enormous presence.  Theodora  felt herself enveloped in the presence, submerged by it, gasping  for air as she sank under its rising surges.
+
+       Gradually fragments of speech floated to the surface.   "'April  Showers?'  Mrs. Kyd's new serial?  * Your* manuscript, you  say?   You have a letter from me?  The name, please?  Evidently some  unfortunate misunderstanding.  One moment."  And then a bell  ringing, a zoological specimen ordered to unlock a safe, her name  asked for again, the manuscript, her own precious manuscript,  tied  with Aunt Julia's ribbon, laid on the table before her, and her  outcries, her protests, her interrogations, drowned in a flood of  bland apology: "An unfortunate accident—Mrs. Kyd's manuscript  received the same day—extraordinary coincidence in the choice of  a title—duplicate answers sent by mistake—Miss Dace's novel  hardly suited to their purpose—should of course have been  returned—regrettable oversight—accidents would happen—sure she  understood."
+
+       The voice went on, like the steady pressure of a surgeon's  hand on a shrieking nerve.  When it stopped she was in the  street.   A cab nearly ran her down, and a car-bell jangled furiously in  her  ears.  She clutched her manuscript, carrying it tenderly through  the crowd, like a live thing that had been hurt.  She could not  bear to look at its soiled edges and the ink-stain on Aunt  Julia's  ribbon.
+
+       The train stopped with a jerk, and she opened her eyes.  It  was dark, and by the windy flare of gas on the platform she saw  the  Norton passengers getting out.  She stood up stiffly and followed  them.  A warm wind blew into her face the fragrance of the summer  woods, and she remembered how, two months earlier, she had knelt  among the dead leaves, pressing her lips to the first shoots of  green.  Then for the first time she thought of home.  She had  fled  away in the morning without a word, and her heart sank at the  thought of her mother's fears.  And her father—how angry he  would  be!  She bent her head under the coming storm of his  derision.
+
+       The night was cloudy, and as she stepped into the darkness  beyond the station a hand was slipped in hers.  She stood still,  too weary to feel frightened, and a voice said, quietly:
+
+       "Don't walk so fast, child.  You look tired."
+
+       "Father!"  Her hand dropped from his, but he recaptured it  and  drew it through his arm.  When she found voice, it was to  whisper,  "You were at the station?"
+
+       "It's such a good night I thought I'd stroll down and meet  you."
+
+       Her arm trembled against his.  She could not see his face in  the dimness, but the light of his cigar looked down on her like a  friendly eye, and she took courage to falter out: "Then you  knew—"
+
+       "That you'd gone to Boston?  Well, I rather thought you  had."
+
+       They walked on slowly, and presently he added, "You see, you  left the * Home Circle* lying in your room."
+
+       How she blessed the darkness and the muffled sky!  She could  not have borne the scrutiny of the tiniest star.
+
+       "Then mother wasn't very much frightened?"
+
+       "Why, no, she didn't appear to be.  She's been busy all day  over some toggery of Bertha's."
+
+       Theodora choked.  "Father, I'll—"  She groped for words,  but  they eluded her.  "I'll do things—differently; I haven't  meant—"   Suddenly she heard herself bursting out: "It was all a mistake,  you  know—about my story.  They didn't want it; they won't have it!"  and she shrank back involuntarily from his impending  mirth.
+
+       She felt the pressure of his arm, but he didn't speak, and  she  figured his mute hilarity.  They moved on in silence.  Presently  he  said:
+
+       "It hurts a bit just at first, doesn't it?"
+
+       "O father!"
+
+       He stood still, and the gleam of his cigar showed a face of  unexpected participation.
+
+       "You see I've been through it myself."
+
+       "You, father?  You?"
+
+       "Why, yes.  Didn't I ever tell you?  I wrote a novel once.   I  was just out of college, and I didn't want to be a doctor.  No; I  wanted to be a genius.  So I wrote a novel."
+
+       The doctor paused, and Theodora clung to him in a mute  passion  of commiseration.  It was as if a drowning creature caught a live  hand through the murderous fury of the waves.
+
+       "Father—O father!"
+
+       "It took me a year—a whole year's hard work; and when I'd  finished it the publishers wouldn't have it, either; not at any  price.  And that's why I came down to meet you, because I  remembered my walk home."  
+
+            

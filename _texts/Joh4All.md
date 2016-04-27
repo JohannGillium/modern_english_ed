@@ -1,0 +1,2789 @@
+---
+layout: narrative
+
+title: >
+    The Works of Samuel Johnson Literary Club Edition from the type in Sixteen Volumes Vol. IV
+source: 
+---
+
+          THE WORKS
+ OF
+ SAMUEL JOHNSON
+ LITERARY CLUB EDITION FROM THE TYPE
+ IN SIXTEEN VOLUMES
+ VOLUME IV   THE RAMBLER       BY SAMUEL JOHNSON       PAFRAETS BOOK COMPANY
+ TROY NEW YORK
+   *Of this Literary Club Edition of the Works of Samuel Johnson Seven Hundred and Seventy-four Sets have been printed from the type on Special Water Marked Paper, of which this Copy is No __  Pafraets Press Troy, New York 1903*       
+# CONTENTS 
+
+    - 55 The gay widow's impatience of the growth of her daughter. The  history of Miss May-pole                                       1 
+  - 56 The necessity of complaisance. The Rambler's grief for offending  his correspondents                                             7 
+  - 57 Sententious rules of frugality                              14 
+  - 58 The desire of wealth moderated by philosophy                20 
+  - 59 An account of Suspirius, the human screech owl              26 
+  - 60 The dignity and usefulness of biography                     31 
+  - 61 A Londoner's visit to the country                           37 
+  - 62 A young lady's impatience to see London                     45 
+  - 63 Inconstancy not always a weakness                           51 
+  - 64 The requisites to true friendship                           57 
+  - 65 Obidah and the hermit; an eastern story                     63 
+  - 66 Passion not to be eradicated. The views of women ill directed69 
+  - 67 The garden of Hope; a dream                                 74 
+  - 68 Every man chiefly happy or miserable at home. The opinion of  servants not to be despised                                   80 
+  - 69 The miseries and prejudice of old age                       86 
+  - 70 Different men virtuous in different degrees. The vicious not al  ways abandoned                                                91 
+  - 71 No man believes that his own life will be short             97 
+  - 72 The necessity of good humour                               102 
+  - 73 The lingering expectation of an heir                       108 
+  - 74 Peevishness equally wretched and offensive. The character of  Tetrica                                                      114 
+  - 75 The world never known but by a change of fortune. The history  of Melissa                                                   120 
+  - 76 The arts by which bad men are reconciled to themselves     127 
+  - 77 The learned seldom despised but when they deserve contempt 132 
+  - 78 The power of novelty. Mortality too familiar to raise  apprehensions                                                139 
+  - 79 A suspicious man justly suspected                          145 
+  - 80 Variety necessary to happiness; a winter scene             151 
+  - 81 The great rule of action. Debts of justice to be distinguished  from debts of charity                                        156 
+     - 82 The virtuoso's account of his rarities. . . . . . . . . . .161 
+  - 83 The virtuoso's curiosity justified. . . . . . . . . . . . .168 
+  - 84 A young lady's impatience of controul . . . . . . . . . . .175 
+  - 8S The mischiefs of total idleness                            182 
+  - 86 The danger of succeeding a great author: an introduction to  a criticism on Milton's versification                        188 
+  - 87 The reasons why advice is generally ineffectual            195 
+  - 88 A criticism on Milton's versification. Elisions dangerous in English poetry                                                201 
+  - 89 The luxury of vain imagination                             207 
+  - 90 The pauses in English poetry adjusted                      213 
+  - 91 The conduct of Patronage; an allegory                      219 
+  - 92 The accommodation of sound to the sense, often chimerical  225 
+  - 93 The prejudices and caprices of criticism                   234 
+  - 94 An inquiry how far Milton has accommodated the sound to the sense                                                     240 
+  - 95 The history of Pertinax the sceptick                       248 
+  - 96 Truth, Falsehood, and Fiction; an allegory                 254 
+  - 97 Advice to unmarried ladies                                 260 
+  - 98 The necessity of cultivating politeness                    268 
+  - 99 The pleasures of private friendship. The necessity of similar dispositions                                                  274 
+  - 100 Modish pleasures                                          279 
+  - 101 A proper audience necessary to a wit                      285 
+  - 102 The voyage of life                                        291 
+  - 103 The prevalence of curiosity. The character of Nugaeulus   298 
+  - 104 The original of flattery. The meanness of venal praise    304 
+  - 105 The universal register; a dream                           310 
+  - 106 The vanity of an author's expectations.-Reasons why good authors are sometimes neglected                               316 
+  - 107 Properantia's hopes of a year of confusion. The misery of prostitutes                                                   322 
+  - 108 Life sufficient to all purposes if well employed          329 
+  - 109 The education of a fop                                    334 
+  - 110 Repentance stated and explained. Retirement and abstinence useful to repentance                                          342 
+  - 111 Youth made unfortunate by its haste and eagerness         348 
+  - 112 Too much nicety not to be indulged. The character of Eriphile354 
+         
+# LIST OF ILLUSTRATIONS
+ VOLUME II 
+
+    - PORTRAIT OF SIR JOSHUA REYNOLDS. . . . . . . . . . . FRONTISPIECE *From a painting by himself* 
+  - GARRICK BETWEEN TRAGEDY AND COMEDY . . . . *Facing page* 96 *From a painting by* SIR JOSHUA REYNOLDS 
+  - R. B. SHERIDAN . . . . . . . . . . . . . . *Facing page* 224 *From a painting by* SIR JOSHUA REYNOLDS 
+           
+# THE RAMBLER 
+
+   
+## No. 55. TUESDAY, SEPTEMBER 25, 1750
+
+        - OBMaturo propior desine funeri
+ -  Inter ludere virgines,
+ -      Et stellis nebulam spargere candidis.
+ -  Non sequid Pholœn satis,
+ -     Et te, Chlori, decet. 
+ HOR. Lib. iii. Ode xv. 4.     -  Now near to death that comes but slow,
+ -  Now thou art stepping down below;
+ -  Sport not amongst the blooming maids,
+ -  But think on ghosts and empty shades:
+ -  What suits with Pholoe in her bloom,
+ -  Grey Chloris, will not thee become;
+ -  A bed is different from a tomb. 
+ CREECH.       TO THE RAMBLER
+  SIR,      I HAVE been but a little time conversant in the world, yet I have already had frequent opportunities of observing the little efficacy of remonstrance and complaint, which, however extorted by oppression, or supported by reason, are detested by one part of the world as rebellion, censured by another as peevishness, by some heard with an appearance of compassion, only to betray any of those sallies of vehemence and resentment, which are apt to break out upon encouragement, and by others passed over with indifference and neglect, as matters in which they have no concern, and which if they should endeavour to examine or regulate, they might draw mischief upon themselves. 
+
+  Yet since it is no less natural for those who think themselves injured to complain, than for others to neglect their complaints, I shall venture to lay my    case before you, in hopes that you will enforce my opinion, if you think it just, or endeavour to rectify my sentiments, if I am mistaken.  I expect at least, that you will divest yourself of partiality, and that whatever your age or solemnity may be, you will not, with the dotard's insolence, pronounce me ignorant and foolish, perverse and refractory, only because you perceive that I am young. 
+
+   My father dying when I was but ten years old, left me, and a brother two years younger than myself, to the care of my mother, a woman of birth and education, whose prudence or virtue he had no reason to distrust.  She felt, for some time, all the sorrow which nature calls forth, upon the final separation of persons dear to one another; and as her grief was exhausted by its own violence, it subsided into tenderness for me and my brother, and the year of mourning was spent in caresses, consolations, and instruction, in celebration of my father's virtues, in professions of perpetual regard to his memory, and hourly instances of such fondness as gratitude will not easily suffer me to forget. 
+
+  But when the term of this mournful felicity was expired, and my mother appeared again without the ensigns of sorrow, the ladies of her acquaintance began to tell her, upon whatever motives, that it was time to live like the rest of the world; a powerful argument, which is seldom used to a woman without effect.  Lady Giddy was incessantly relating the occurrences of the town, and Mrs. Gravely told her privately, with great tenderness, that it began    to be publickly observed how much she overacted her part, and that most of her acquaintance suspected her hope of procuring another husband to be the true ground of all that appearance of tenderness and piety. 
+
+  All the officiousness of kindness and folly was busied to change her conduct.  She was at one time alarmed with censure, and at another fired with praise.  She was told of balls, where others shone only because she was absent; of new comedies, to which all the town was crowding; and of many ingenious ironies, by which domestick diligence was made contemptible. 
+
+  It is difficult for virtue to stand alone against fear on one side, and pleasure on the other; especially when no actual crime is proposed, and prudence itself can suggest many reasons for relaxation and indulgence.  My mamma was at last persuaded to accompany Miss Giddy to a play.  She was received with a boundless profusion of compliments, and attended home by a very fine gentleman.  Next day she was with less difficulty prevailed on to play at Mrs. Gravely's, and came home gay and lively; for the distinctions that had been paid her awakened her vanity, and good luck had kept her principles of frugality from giving her disturbance.  She now made her second entrance into the world, and her friends were sufficiently industrious to prevent any return to her former life; every morning brought messages of invitation, and every evening was passed in places of diversion, from which she for    some time complained that she had rather be absent.  In a short time she began to feel the happiness of acting without controul, of being unaccountable for her hours, her expenses, and her company; and learned by degrees to drop an expression of contempt, or pity, at the mention of ladies whose husbands were suspected of restraining their pleasures, or their play, and confessed that she loved to go and come as she pleased. 
+
+  I was still favoured with some incidental precepts and transient endearments, and was now and then fondly kissed for smiling like my papa: but most part of her morning was spent in comparing the opinion of her maid and milliner, contriving some variation in her dress, visiting shops, and sending compliments; and the rest of the day was too short for visits, cards, plays, and concerts. 
+
+  She now began to discover that it was impossible to educate children properly at home.  Parents could not have them always in their sight; the society of servants was contagious; company produced boldness and spirit; emulation excited industry; and a large school was naturally the first step into the open world.  A thousand other reasons she alleged, some of little force in themselves, but so well seconded by pleasure, vanity, and idleness, that they soon overcame all the remaining principles of kindness and piety, and both I and my brother were despatched to boarding schools. 
+
+  How my mamma spent her time when she was thus disburthened I am not able to inform you,    but I have reason to believe that trifles and amusements took still faster hold of her heart.  At first, she visited me at school, and afterwards wrote to me; but in a short time, both her visits and her letters were at an end, and no other notice was taken of me than to remit money for my support. 
+
+  When I came home at the vacation, I found myself coldly received, with an observation, "that this girl will presently be a woman."  I was, after the usual stay, sent to school again, and overheard my mother say, as I was a-going, "Well, now I shall recover." 
+
+  In six months more I came again, and, with the usual childish alacrity, was running to my mother's embrace, when she stopt me with exclamations at the suddenness and enormity of my growth, having, she said, never seen any body shoot up so much at my age.  She was sure no other girls spread at that rate, and she hated to have children look like women before their time.  I was disconcerted, and retired without hearing any thing more than "Nay, if you are hungry, Madam Steeple, you may walk off." 
+
+  When once the forms of civility are violated, there remains little hope of return to kindness or decency.  My mamma made this appearance of resentment a reason for continuing her malignity; and poor Miss Maypole, for that was my appellation, was never mentioned or spoken to but with some expression of anger or dislike. 
+
+  She had yet the pleasure of dressing me like a    child, and I know not when I should have been thought fit to change my habit, had I not been rescued by a maiden sister of my father, who could not bear to see women in hanging-sleeves, and therefore presented me with brocade for a gown, for which I should have thought myself under great obligations, had she not accompanied her favour with some hints that my mamma might now consider her age, and give me her ear-rings, which she had shewn long enough in publick places. 
+
+  I now left the school, and came to live with my mamma, who considered me as an usurper that had seized the rights of a woman before they were due, and was pushing her down the precipice of age, that I might reign without a superior.  While I am thus beheld with jealousy and suspicion, you will readily believe that it is difficult to please.  Every word and look is an offence.  I never speak, but I pretend to some qualities and excellencies which it is criminal to possess; if I am gay, she thinks it early enough to coquette; if I am grave, she hates a prude in bibs; if I venture into company, I am in haste for a husband; if I retire to my chamber, such matron-like ladies are lovers of contemplation.  I am on one pretence or other generally excluded from her assemblies, nor am I ever suffered to visit at the same place with my mamma.  Every one wonders why she does not bring Miss more into the world, and when she comes home in vapours I am certain that she has heard either of my beauty or my wit, and    expect nothing for the ensuing week but taunts and menaces, contradiction and reproaches. 
+
+  Thus I live in a state of continual persecution, only because I was born ten years too soon, and cannot stop the course of nature or of time, but am unhappily a woman before my mother can willingly mocease to be a girl.  I believe you would contribute to the happiness of many families, if, by any arguments or persuasions, you could make mothers ashamed of rivalling their children; if you could shew them, that though they may refuse to grow wise, they must inevitably grow old; and that the proper solaces of age are not musick and compliments, but wisdom and devotion; that those who are so unwilling to quit the world will soon be driven from it; and that it is therefore their interest to retire while there yet remain a few hours for nobler employments.  
+
+  I am, &c.      
+## No. 56. SATURDAY, SEPTEMBER 29, 1750
+
+      -  —Valeat res ludicra, si me
+ -  Palma negata macrum, donata reducit opimum. 
+ HOR. Lib. ii. Ep. i. 108.       - Farewell the stage; for humbly I disclaim
+ - Such fond pursuits of pleasure, or of fame,
+ - If I must sink in shame, or swell with pride,
+ - As the gay palm is granted or denied. 
+ FRANCIS.       NOTHING is more unpleasing than to find that offence has been received when none was intended, and that pain has been given to those who were not guilty of any provocation.  As the great    end of society is mutual beneficence, a good man is always uneasy when he finds himself acting in opposition to the purposes of life; because, though his conscience may easily acquit him of *malice prepense*, of settled hatred or contrivances of mischief, yet he seldom can be certain, that he has not failed by negligence, or indolence; that he has not been hindered from consulting the common interest by too much regard to his own ease, or too much indifference to the happiness of others. 
+
+  Nor is it necessary, that, to feel this uneasiness, the mind should be extended to any great diffusion of generosity, or melted by uncommon warmth of benevolence; for that prudence which the world teaches, and a quick sensibility of private interest, will direct us to shun needless enmities; since there is no man whose kindness we may not some time want, or by whose malice we may not some time suffer. 
+
+  I have therefore frequently looked with wonder, and now and then with pity, at the thoughtlessness with which some alienate from themselves the affections of all whom chance, business, or inclination, brings in their way.  When we see a man pursuing some darling interest, without much regard to the opinion of the world, we justly consider him as corrupt and dangerous, but are not long in discovering his motives; we see him actuated by passions which are hard to be resisted, and deluded by appearances which have dazzled stronger eyes.  But the greater part of those who set mankind at de-   fiance by hourly irritation, and who live but to infuse malignity, and multiply enemies, have no hopes to foster, no designs to promote, nor any expectations of attaining power by insolence, or of climbing to greatness by trampling on others. They give up all the sweets of kindness, for the sake of peevishness, petulance, or gloom; and alienate the world by neglect of the common forms of civility, and breach of the established laws of conversation. 
+
+  Every one must, in the walks of life, have met with men of whom all speak with censure, though they are not chargeable with any crime, and whom none can be persuaded to love, though a reason can scarcely be assigned why they should be hated; and who, if their good qualities and actions sometimes force a commendation, have their panegyrick always concluded with confessions of disgust; "he is a good man, but I cannot like him."  Surely such persons have sold the esteem of the world at too low a price, since they have lost one of the rewards of virtue, without gaining the profits of wickedness. 
+
+  This ill economy of fame is sometimes the effect of stupidity.  Men whose perceptions are languid and sluggish, who lament nothing but loss of money, and feel nothing but a blow, are often at a difficulty to guess why they are encompassed with enemies, though they neglect all those arts by which men are endeared to one another.  They comfort themselves that they have lived irreproachably; that none can charge them with having endangered his life,    or diminished his possessions; and therefore conclude that they suffer by some invincible fatality, or impute the malice of their neighbours to ignorance or envy.  They wrap themselves up in their innocence, and enjoy the congratulations of their own hearts, without knowing or suspecting that they are every day deservedly incurring resentments, by withholding from those with whom they converse, that regard, or appearance of regard, to which every one is entitled by the customs of the world. 
+
+  There are many injuries which almost every man feels, though he does not complain, and which, upon those whom virtue, elegance, or vanity, have made delicate and tender, fix deep and lasting impressions; as there are many arts of graciousness and conciliation, which are to be practised without expense, and by which those may be made our friends, who have never received from us any real benefit.  Such arts, when they include neither guilt nor meanness, it is surely reasonable to learn, for who would want that love which is so easily to be gained?  And such injuries are to be avoided; for who would be hated without profit? 
+
+  Some, indeed, there are, for whom the excuse of ignorance or negligence cannot be alleged, because it is apparent that they are not only careless of pleasing, but studious to offend; that they contrive to make all approaches to them difficult and vexatious, and imagine that they aggrandize themselves by wasting the time of others in useless attendance,    by mortifying them with slights, and teazing them with affronts. 
+
+  Men of this kind are generally to be found among those that have not mingled much in general conversation, but spent their lives amidst the obsequiousness of dependents, and the flattery of parasites; and by long consulting only their own inclination, have forgotten that others have claim to the same deference. 
+
+  Tyranny thus avowed, is indeed an exuberance of pride, by which all mankind is so much enraged, that it is never quietly endured, except in those who can reward the patience which they exact; and insolence is generally surrounded only by such whose baseness inclines them to think nothing insupportable that produces gain, and who can laugh at scurrility and rudeness with a luxurious table and an open purse. 
+
+  But though all wanton provocations and contemptuous insolence are to be diligently avoided, there is no less danger in timid compliance and tame resignation.  It is common for soft and fearful tempers to give themselves up implicitly to the direction of the bold, the turbulent, and the overbearing; of those whom they do not believe wiser or better than themselves; to recede from the best designs where opposition must be encountered, and to fall off from virtue for fear of censure. 
+
+  Some firmness and resolution is necessary to the discharge of duty; but it is a very unhappy state of life in which the necessity of such struggles    frequently occurs; for no man is defeated without some resentment, which will be continued with obstinacy while he believes himself in the right, and exerted with bitterness, if even to his own conviction he is detected in the wrong. 
+
+  Even though no regard be had to the external consequences of contrariety and dispute, it must be painful to a worthy mind to put others in pain, and there will be danger lest the kindest nature may be vitiated by too long a custom of debate and contest. 
+
+  I am afraid that I may be taxed with insensibility by many of my correspondents, who believe their contributions unjustly neglected.  And, indeed, when I sit before a pile of papers, of which each is the production of laborious study, and the offspring of a fond parent, I, who know the passions of an author, cannot remember how long they have lain in my boxes unregarded, without imagining to myself the various changes of sorrow, impatience, and resentment, which the writers must have felt in this tedious interval. 
+
+  These reflections are still more awakened, when, upon perusal, I find some of them calling for a place in the next paper, a place which they have never yet obtained: others writing in a style of superiority and haughtiness, as secure of deference, and above fear of criticism; others humbly offering their weak assistance with softness and submission, which they believe impossible to be resisted; some introducing their compositions with a menace of    the contempt which he that refuses them will incur; others applying privately to the booksellers for their interest and solicitation; every one by different ways endeavouring to secure the bliss of publication.  I cannot but consider myself as placed in a very incommodious situation, where I am forced to repress confidence, which it is pleasing to indulge, to repay civilities with appearances of neglect, and so frequently to offend those by whom I never was offended. 
+
+  I know well how rarely an author, fired with the beauties of his new composition, contains his raptures in his own bosom, and how naturally he imparts to his friends his expectations of renown; and as I can easily conceive the eagerness with which a new paper is snatched up, by one who expects to find it filled with his own production, and perhaps has called his companions to share the pleasure of a second perusal, I grieve for the disappointment which he is to feel at the fatal inspection.  His hopes, however, do not yet forsake him; he is certain of giving lustre the next day.  The next day comes, and again he pants with expectation, and having dreamed of laurels and Parnassus, casts his eyes upon the barren page, with which he is doomed never more to be delighted. 
+
+  For such cruelty what atonement can be made? For such calamities what alleviation can be found? I am afraid that the mischief already done must be without reparation, and all that deserves my care is prevention for the future.  Let therefore the next    friendly contributor, whoever he be, observe the cautions of Swift, and write secretly in his own chamber, without communicating his design to his nearest friend, for the nearest friend will be pleased with an opportunity of laughing.  Let him carry it to the post himself, and wait in silence for the event.  If it is published and praised, he may then declare himself the author; if it be suppressed, he may wonder in private without much vexation; and if it be censured, he may join in the cry, and lament the dulness of the writing generation. 
+
+    
+## No. 57. TUESDAY, OCTOBER 2, 1750
+
+      - Non intelligunt homines quam magnum vectigal sit parsimonia. 
+ Cicero, PARADOXA, VI.3, par.49.      The world has not yet learned the riches of frugality. 
+
+    TO THE RAMBLER
+  SIR,      I AM always pleased when I see literature made useful, and scholars descending from that elevation, which, as it raises them above common life, must likewise hinder them from beholding the ways of men otherwise than in a cloud of bustle and confusion.  Having lived a life of business, and remarked how seldom any occurrences emerge for which great qualities are required, I have learned the necessity of regarding little things; and though I do not pretend to give laws to the legislators of mankind, or to limit the range of those powerful minds that carry light and heat through all the regions of knowledge, yet    I have long thought, that the greatest part of those who lose themselves in studies by which I have not found that they grow much wiser, might, with more advantage both to the publick and themselves, apply their understandings to domestick arts, and store their minds with axioms of humble prudence, and private economy. 
+
+  Your late paper on frugality was very elegant and pleasing, but, in my opinion, not sufficiently adapted to common readers, who pay little regard to the musick of periods, the artifice of connection, or the arrangement of the flowers of rhetorick; but require a few plain and cogent instructions, which may sink into the mind by their own weight. 
+
+  Frugality is so necessary to the happiness of the world, so beneficial in its various forms to every rank of men, from the highest of human potentates, to the lowest labourer or artificer; and the miseries which the neglect of it produces are so numerous and so grievous, that it ought to be recommended with every variation of address, and adapted to every class of understanding. 
+
+  Whether those who treat morals as a science will allow frugality to be numbered among the virtues, I have not thought it necessary to inquire.  For I, who draw my opinions from a careful observation of the world, am satisfied with knowing what is abundantly sufficient for practice; that if it be not a virtue, it is, at least, a quality which can seldom exist without some virtues, and without which few virtues can exist.  Frugality may be termed the    daughter of prudence, the sister of temperance, and the parent of liberty.  He that is extravagant will quickly become poor, and poverty will enforce dependence, and invite corruption; it will almost always produce a passive compliance with the wickedness of others; and there are few who do not learn by degrees to practice those crimes which they cease to censure. 
+
+  If there are any who do not dread poverty as dangerous to virtue, yet mankind seem unanimous enough in abhorring it as destructive to happiness; and all to whom want is terrible, upon whatever principle, ought to think themselves obliged to learn the sage maxims of our parsimonious ancestors, and attain the salutary arts of contracting expense; for without frugality none can be rich, and with it very few would be poor. 
+
+  To most other acts of virtue or exertions of wisdom, a concurrence of many circumstances is necessary, some previous knowledge must be attained, some uncommon gifts of nature possessed, or some opportunity produced by an extraordinary combination of things; but the mere power of saving what is already in our hands, must be easy of acquisition to every mind; and as the example of Bacon may shew, that the highest intellect cannot safely neglect it, a thousand instances will every day prove, that the meanest may practise it with success. 
+
+  Riches cannot be within the reach of great numbers, because to be rich is to possess more than is commonly placed in a single hand; and, if many    could obtain the sum which now makes a man wealthy, the name of wealth must then be transferred to still greater accumulation.  But I am not certain that it is equally impossible to exempt the lower classes of mankind from poverty; because, though whatever be the wealth of the community, some will always have least, and he that has less than any other is comparatively poor; yet I do not see any co-active necessity that many should be without the indispensable conveniences of life; but am sometimes inclined to imagine, that, casual calamities excepted, there might, by universal prudence, be procured an universal exemption from want; and that he who should happen to have least, might notwithstanding have enough. 
+
+  But without entering too far into speculations which I do not remember that any political calculator has attempted, and in which the most perspicacious reasoner may be easily bewildered, it is evident that they to whom Providence has allotted no other care but of their own fortune and their own virtue, which make far the greater part of mankind, have sufficient incitements to personal frugality, since, whatever might be its general effect upon provinces or nations, by which it is never likely to be tried, we know with certainty, that there is scarcely any individual entering the world, who, by prudent parsimony, may not reasonably promise himself a cheerful competence in the decline of life. 
+
+  The prospect of penury in age is so gloomy and    terrifying, that every man who looks before him must resolve to avoid it; and it must be avoided generally by the science of sparing.  For, though in every age there are some, who by bold adventures, or by favourable accidents, rise suddenly to riches, yet it is dangerous to indulge hopes of such rare events: and the bulk of mankind must owe their affluence to small and gradual profits, below which their expense must be resolutely reduced. 
+
+  You must not therefore think me sinking below the dignity of a practical philosopher, when I recommend to the consideration of your readers, from the statesmen to the apprentice, a position replete with mercantile wisdom, *A penny saved is two-pence got*; which may, I think, be accommodated to all conditions, by observing not only that they who pursue any lucrative employment will save time when they forbear expense, and that the time may be employed to the increase of profit; but that they who are above such minute considerations will find, by every victory over appetite or passion, new strength added to the mind, will gain the power of refusing those solicitations by which the young and vivacious are hourly assaulted, and in time set themselves above the reach of extravagance and folly. 
+
+  It may, perhaps, be inquired by those who are willing rather to cavil than to learn, what is the just measure of frugality? and when expense, not absolutely necessary, degenerates into profusion?  To    such questions no general answer can be returned; since the liberty of spending, or necessity of parsimony, may be varied without end by different circumstances. It may, however, be laid down as a rule never to be broken, that a *man's voluntary expense should not exceed his revenue*.  A maxim so obvious and incontrovertible, that the civil law ranks the prodigal with the madman[^JohRamb.1], and debars them equally from the conduct of their own affairs.  Another precept arising from the former, and indeed included in it, is yet necessary to be distinctly impressed upon the warm, the fanciful, and the brave; *Let no man anticipate uncertain profits*.  Let no man presume to spend upon hopes, to trust his own abilities for means of deliverance from penury, to give a loose to his present desires, and leave the reckoning to fortune or to virtue. 
+
+  To these cautions, which, I suppose, are, at least among the graver part of mankind, undisputed, I will add another, *Let no man squander against his inclination*.  With this precept it may be, perhaps, imagined easy to comply; yet if those whom profusion has buried in prisons, or driven into banishment, were examined, it would be found that very few were ruined by their own choice, or purchased pleasure with the loss of their estates; but that they suffered themselves to be borne away by the violence of those with whom they conversed, and yielded reluctantly to a thousand prodigalities, either from a trivial emulation of wealth and spirit,    or a mean fear of contempt and ridicule; an emulation for the prize of folly, or the dread of the laugh of fools. 
+
+  I am, Sir,
+  Your humble servant,
+ SOPHRON.  [^JohRamb.1]: [p]  Institut. i. 23. 3. De furiosis prodigis. 
+
+      
+## No. 58. SATURDAY, OCTOBER 6, 1750 
+
+      - —Improbæ
+ -  Crescunt divitiœ tamen
+ -  Curtœ nescio guid semper abest rei. 
+ HOR. Lib. iii. Ode xxiv. 62.        -  But, while in heaps his wicked wealth ascends,
+ - He is not of his wish possess'd;
+ - There's something wanting still to make him bless'd. 
+ FRANCIS.        AS the love of money has been, in all ages, one of the passions that have given great disturbance to the tranquillity of the world, there is no topick more copiously treated by the ancient moralists than the folly of devoting the heart to the accumulation of riches.  They who are acquainted with these authors need not be told how riches excite pity, contempt, or reproach, whenever they are mentioned; with what numbers of examples the danger of large possessions is illustrated; and how all the powers of reason and eloquence have been exhausted in endeavours to eradicate a desire, which seems to have intrenched itself too strongly in the mind to be driven out, and which, perhaps, had not lost its power, even over those who declaimed against it, but would have broken out in the poet or the sage, if it has been excited by     opportunity, and invigorated by the approximation of its proper object. 
+
+  Their arguments have been, indeed, so unsuccessful, that I know not whether it can be shewn, that by all the wit and reason which this favourite cause has called forth, a single convert was ever made; that even one man has refused to be rich, when to be rich was in his power, from the conviction of the greater happiness of a narrow fortune; or disburthened himself of wealth when he had tried its inquietudes, merely to enjoy the peace and leisure and security of a mean and unenvied state. 
+
+  It is true, indeed, that many have neglected opportunities of raising themselves to honours and to wealth, and rejected the kindest offers of fortune: but however their moderation may be boasted by themselves, or admired by such as only view them at a distance, it will be, perhaps, seldom found that they value riches less, but that they dread labour or danger more, than others; they are unable to rouse themselves to action, to strain in the race of competition, or to stand the shock of contest; but though they, therefore, decline the toil of climbing, they nevertheless wish themselves aloft, and would willingly enjoy what they dare not seize. 
+
+  Others have retired from high stations, and voluntarily condemned themselves to privacy and obscurity.  But even these will not afford many occasions of triumph to the philosopher; for they have commonly either quitted that only which    they thought themselves unable to hold, and prevented disgrace by resignation; or they have been induced to try new measures by general inconstancy, which always dreams of happiness in novelty, or by a gloomy disposition, which is disgusted in the same degree with every state, and wishes every scene of life to change as soon as it is beheld. Such men found high and low stations equally unable to satisfy the wishes of a distempered mind, and were unable to shelter themselves in the closest retreat from disappointment, solicitude, and misery. 
+
+  Yet though these admonitions have been thus neglected by those who either enjoyed riches, or were able to procure them, it is not rashly to be determined that they are altogether without use; for since far the greatest part of mankind must be confined to conditions comparatively mean, and placed in situations from which they naturally look up with envy to the eminences before them, those writers cannot be thought ill employed that have administered remedies to discontent almost universal, by shewing, that what we cannot reach may very well be forborne; that the inequality of distribution, at which we murmur, is for the most part less than it seems, and that the greatness, which we admire at a distance, has much fewer advantages, and much less splendour, when we are suffered to approach it. 
+
+  It is the business of moralists to detect the frauds of fortune, and to shew that she imposes upon the careless eye, by a quick succession of shadows, which    will shrink to nothing in the gripe; that she disguises life in extrinsick ornaments, which serve only for shew, and are laid aside in the hours of solitude, and of pleasure; and that when greatness aspires either to felicity or to wisdom, it shakes off those distinctions which dazzle the gazer, and awe the supplicant. 
+
+  It maybe remarked, that they whose condition has not afforded them the light of moral or religious instruction, and who collect all their ideas by their own eyes, and digest them by their own understandings, seem to consider those who are placed in ranks of remote superiority, as almost another and higher species of beings.  As themselves have known little other misery than the consequences of want, they are with difficulty persuaded that where there is wealth there can be sorrow, or that those who glitter in dignity, and glide along in affluence, can be acquainted with pains and cares like those which lie heavy upon the rest of mankind. 
+
+  This prejudice is, indeed, confined to the lowest meanness, and the darkest ignorance; but it is so confined only because others have been shewn its folly, and its falsehood, because it has been opposed in its progress by history and philosophy, and hindered from spreading its infection by powerful preservatives. 
+
+  The doctrine of the contempt of wealth, though it has not been able to extinguish avarice or ambition, or suppress that reluctance with which a man passes his days in a state of inferiority, must, at    least, have made the lower conditions less grating and wearisome, and has consequently contributed to the general security of life, by hindering that fraud and violence, rapine and circumvention, which must have been produced by an unbounded eagerness of wealth, arising from an unshaken conviction that to be rich is to be happy. 
+
+  Whoever finds himself incited, by some violent impulse of passion, to pursue riches as the chief end of being, must surely be so much alarmed by the successive admonitions of those whose experience and sagacity have recommended them as the guides of mankind, as to stop and consider whether he is about to engage in an undertaking that will reward his toil, and to examine, before he rushes to wealth, through right and wrong, what it will confer when he has acquired it; and this examination will seldom fail to repress his ardour, and retard his violence. 
+
+  Wealth is nothing in itself, it is not useful but when it departs from us; its value is found only in that which it can purchase, which, if we suppose it put to its best use by those that possess it, seems not much to deserve the desire or envy of a wise man.  It is certain that, with regard to corporal enjoyment, money can neither open new avenues to pleasure, nor block up the passages of anguish.  Disease and infirmity still continue to torture and enfeeble, perhaps exasperated by luxury, or promoted by softness.  With respect to the mind, it has rarely been observed, that wealth contributes much to quicken the discernment, enlarge the capacity, or    elevate the imagination; but may, by hiring flattery, or laying diligence asleep, confirm errour, and harden stupidity. 
+
+  Wealth cannot confer greatness, for nothing can make that great, which the decree of nature has ordained to be little.  The bramble may be placed in a hot-bed, but can never become an oak.  Even royalty itself is not able to give that dignity which it happens not to find, but oppresses feeble minds, though it may elevate the strong.  The world has been governed in the name of kings, whose existence has scarcely been perceived by any real effects beyond their own palaces. 
+
+  When therefore the desire of wealth is taking hold of the heart, let us look round and see how it operates upon those whose industry or fortune has obtained it.  When we find them oppressed with their own abundance, luxurious without pleasure, idle without ease, impatient and querulous in themselves, and despised or hated by the rest of mankind, we shall soon be convinced, that if the real wants of our condition are satisfied, there remains little to be sought with solicitude, or desired with eagerness. 
+
+     
+## No. 59. Tuesday, 9 October 1750
+
+     - Est aliquid fatale malum per verba levare,
+ - Hoc querulam Prognen Halcyonenque facit.
+ - Hoc erat in gelido quare Pæantius antro
+ - Voce fatigaret Lemnia saxa sua
+ - Strangulat inclusus dolor, atque exæstuat intus,
+ - Cogitur et vires multiplicare suas. 
+ OVID. Trist. iv. 59.      - Complaining oft gives respite to our grief;
+ - From hence the wretched Progne sought relief,
+ - Hence the Pæantian chief his fate deplores,
+ - And vents his sorrow to the Lemnian shores:
+ - In vain by secrecy we would assuage
+ - Our cares; conceal'd they gather tenfold rage. 
+ F. LEWIS.     IT is common to distinguish men by the names of animals which they are supposed to resemble. Thus a hero is frequently termed a lion, and a statesman a fox, an extortioner gains the appellation of vulture, and a fop the title of monkey.  There is also among the various anomalies of character, which a survey of the world exhibits, a species of beings in human form, which may be properly marked out as the screech-owls of mankind. 
+
+  These screech-owls seem to be settled in an opinion that the great business of life is to complain, and that they were born for no other purpose than to disturb the happiness of others, to lessen the little comforts, and shorten the short pleasures of our condition, by painful remembrances of the past, or melancholy prognosticks of the future; their only care is to crush the rising hope, to damp the kindling transport, and allay the golden hours of gaiety with the hateful dross of grief and suspicion.    
+
+  To those whose weakness of spirits, or timidity of temper, subjects them to impressions from others, and who are apt to suffer by fascination, and catch the contagion of misery, it is extremely unhappy to live within the compass of a screech-owl's voice; for it will often fill their ears in the hour of dejection, terrify them with apprehensions, which their own thoughts would never have produced, and sadden, by intruded sorrows, the day which might have been passed in amusements or in business; it will burthen the heart with unnecessary discontents, and weaken for a time that love of life which is necessary to the vigorous prosecution of any undertaking. 
+
+  Though I have, like the rest of mankind, many failings and weaknesses, I have not yet, by either friends or enemies, been charged with superstition; I never count the company which I enter, and I look at the new moon indifferently over either shoulder.  I have, like most other philosophers, often heard the cuckoo without money in my pocket, and have been sometimes reproached as fool-hardy for not turning down my eyes when a raven flew over my head.  I never go home abruptly because a snake crosses my way, nor have any particular dread of a climacterical year; yet I confess that, with all my scorn of old women, and their tales, I consider it as an unhappy day when I happen to be greeted, in the morning, by Suspirius the screech-owl. 
+
+  I have now known Suspirius fifty-eight years and    four months, and have never yet passed an hour with him in which he has not made some attack upon my quiet.  When we were first acquainted, his great topick was the misery of youth without riches; and whenever we walked out together he solaced me with a long enumeration of pleasures, which, as they were beyond the reach of my fortune, were without the verge of my desires, and which I should never have considered as the objects of a wish, had not his unseasonable representations placed them in my sight. 
+
+  Another of his topicks is the neglect of merit, with which he never fails to amuse every man whom he sees not eminently fortunate.  If he meets with a young officer, he always informs him of gentlemen whose personal courage is unquestioned, and whose military skill qualifies them to command armies, that have, notwithstanding all their merit, grown old with subaltern commissions.  For a genius in the church, he is always provided with a curacy for life. The lawyer he informs of many men of great parts and deep study, who have never had an opportunity to speak in the courts: and meeting Serenus the physician, "Ah, doctor," says he, "what a-foot still, when so many block-heads are rattling in their chariots? I told you seven years ago that you would never meet with encouragement, and I hope you will now take more notice, when I tell you that your Greek, and your diligence, and your honesty, will never enable you to live like yonder apothecary, who prescribes to his own shop, and laughs at the physician."    
+
+  Suspirius has, in his time, intercepted fifteen authors in their way to the stage; persuaded nine and thirty merchants to retire from a prosperous trade for fear of bankruptcy, broke off an hundred and thirteen matches by prognostications of unhappiness, and enabled the small-pox to kill nineteen ladies, by perpetual alarms of the loss of beauty. 
+
+  Whenever my evil stars bring us together, he never fails to represent to me the folly of my pursuits, and informs me that we are much older than when we began our acquaintance, that the infirmities of decrepitude are coming fast upon me, that whatever I now get, I shall enjoy but a little time, that fame is to a man tottering on the edge of the grave of very little importance, and that the time is at hand when I ought to look for no other pleasures than a good dinner and an easy chair. 
+
+  Thus he goes on in his unharmonious strain, displaying present miseries, and foreboding more, every syllable is loaded with misfortune, and death is always brought nearer to the view.  Yet, what always raises my resentment and indignation, I do not perceive that his mournful meditations have much effect upon hirmself.  He talks and has long talked of calamities, without discovering otherwise than by the tone of his voice, that he feels any of the evils which he bewails or threatens, but has the same habit of uttering lamentations, as others of telling stories, and falls into expressions of condolence for past, or apprehension of future mischiefs, as all men studious of their ease    have recourse to those subjects upon which they can most fluently or copiously discourse[^JohRamb.2].   [^JohRamb.2]: [q] Suspirius, the screech-owl, is presumed by some to have suggested the character of Croaker to Goldsmith, in his Comedy of the Good-natured Man. 
+
+  
+
+  It is reported of the Sybarites, that they destroyed all their cocks, that they might dream out their morning dreams without disturbance.  Though I would not so far promote effeminacy as to propose the Sybarites for an example, yet since there is no man so corrupt or foolish, but something useful may be learned from him, I could wish that, in imitation of a people not often to be copied, some regulations might be made to exclude screech-owls from all company, as the enemies of mankind, and confine them to some proper receptacle, where they may mingle sighs at leisure, and thicken the gloom of one another. 
+
+  *Thou profit of evil*, says Homer's Agamemnon, *thou never foretellest me good, but thejJoy of thy heart is to predict misfortunes*.  Whoever is of the same temper, might there find the means of indulging his thoughts, and improving his vein of denunciation, and the flock of screech-owls might hoot together without injury to the rest of the world. 
+
+  Yet, though I have so little kindness for this dark generation, I am very far from intending to debar the soft and tender mind from the privilege of complaining, when the sigh arises from the desire not of giving pain, but of gaining ease.  To hear complaints with patience, even when complaints are    vain, is one of the duties of friendship; and though it must be allowed that he suders most like a hero that hides his grief in silence,   Spem vultu simulat, premit altum corde dolorem; 
+ Aeneid, I.209.   His outward smiles conceal'd his inward smart;  DRYDEN.    yet it cannot be denied, that he who complains acts like a man, like a social being, who looks for help from his fellow-creatures.  Pity is to many of the unhappy a source of comfort in hopeless distresses, as it contributes to recommend them to themselves, by proving that they have not lost the regard of others; and heaven seems to indicate the duty even of barren compassion, by inclining us to weep for evils which we cannot remedy. 
+
+     
+## No. 60. SATURDAY, OCTOBER 13, 1750 
+
+      - Quid sit pulchrum, quid turpe, quid utile, quid non,
+ - Plenius ac melius Chrysippo et Crantore dicit.  
+ HOR. Lib. i. Epist. ii. 3.        - Whose works the beautiful and base contain;
+ - Of vice and virtue more instructive rules,
+ - Than all the sober sages of the schools. 
+ FRANCIS.     ALL joy or sorrow for the happiness or calamities of others is produced by an act of the imagination, that realizes the event however fictitious, or approximates it however remote, by placing us, for a time, in the condition of him whose fortune we contemplate; so that we feel, while the deception lasts, whatever motions would be excited by the same good or evil happening to ourselves.    
+
+  Our passions are therefore more strongly moved, in proportion as we can more readily adopt the pains or pleasure proposed to our minds, by recognising them as once our own, or considering them as naturally incident to our state of life.  It is not easy for the most artful writer to give us an interest in happiness or misery, which we think ourselves never likely to feel, and with which we have never yet been made acquainted.  Histories of the downfal of kingdoms, and revolutions of empires, are read with great tranquillity; the imperial tragedy pleases common auditors only by its pomp of ornament, and grandeur of ideas; and the man whose faculties have been engrossed by business, and whose heart never fluttered but at the rise or fall of the stocks, wonders how the attention can be seized, or the affection agitated, by a tale of love. 
+
+  Those parallel circumstances and kindred images, to which we readily conform our minds, are, above all other writings, to be found in narratives of the lives of particular persons; and therefore no species of writing seems more worthy of cultivation than biography, since none can be more delightful or more useful, none can more certainly enchain the heart by irresistible interest, or more widely diffuse instruction to every diversity of condition. 
+
+  The general and rapid narratives of history, which involve a thousand fortunes in the business a day, and complicate innumerable incidents in one great transaction, afford few lessons applicable to private life, which derives its comforts and its wretchedness    from the right or wrong management of things, which nothing but their frequency makes considerable, *Parva si non fiant quotidie*, says Pliny, and which can have no place in those relations which never descend below the consultation of senates, the motions of armies, and the schemes of conspirators. 
+
+  I have often thought that there has rarely passed a life of which a judicious and faithful narrative would not be useful.  For, not only every man has, in the mighty mass of the world, great numbers in the same condition with himself, to whom his mistakes and miscarriages, escapes and expedients, would be of immediate and apparent use; but there is such an uniformity in the state of man, considered apart from adventitious and separable decorations and disguises, that there is scarce any possibility of good or ill, but is common to human kind.  A great part of the time of those who are placed at the greatest distance by fortune, or by temper, must unavoidably pass in the same manner; and though,when the claims of nature are satisfied, caprice, and vanity, and accident, begin to produce discriminations and peculiarities, yet the eye is not very heedful or quick, which cannot discover the same causes still terminating their influence in the same effects, though sometimes accelerated, sometimes retarded, or perplexed by multiplied combinations.  We are all prompted by the same motives, all deceived by the same fallacies, all animated by hope, obstructed by danger, entangled by desire, and seduced by pleasure. 
+
+  It is frequently objected to relations of particular    lives, that they are not distinguished by any striking or wonderful vicissitudes.  The scholar who passed his life among his books, the merchant who conducted only his own affairs, the priest, whose sphere of action was not extended beyond that of his duty, are considered as no proper objects of publick regard, however they might have excelled in their several stations, whatever might have been their learning, integrity, and piety.  But this notion arises from false measures of excellence and dignity, and must be eradicated by considering, that in the esteem of uncorrupted reason, what is of most use is of most value. 
+
+  It is, indeed, not improper to take honest advantages of prejudice, and to gain attention by a celebrated name; but the business of a biographer is often to pass slightly over those performances and incidents, which produce vulgar greatness, to lead the thoughts into domestick privacies, and display the minute details of daily life, where exterior appendages are cast aside, and men excel each other only by prudence and by virtue.  The account of Thuanus is, with great propriety, said by its author to have been written, that it might lay open to posterity the private and familiar character of that man,  *cujus ingenium et candorem, ex ipsius scriptis sunt olim semper miraturi*, whose candour and genius will to the end of time be by his writings preserved in admiration. 
+
+  There are many invisible circumstances which, whether we read as inquirers after natural and moral    knowledge, whether we intend to enlarge our science, or increase our virtue, are more important than publick occurrences.  Thus Sallust, the great master of nature, has not forgot, in his account of Cataline, to remark that *his walk was now quick, and again slow*, as an indication of a mind revolving something with violent commotion.  Thus the story of Melancthon affords a striking lecture on the value of time, by informing us, that when he made an appointment, he expected not only the hour, but the minute to be fixed, that the day might not run out in the idleness of suspense: and all the plans and enterprizes of De Witt are now of less importance to the world, than that part of his personal character, which represents him as *careful of his health, and negligent of his life*. 
+
+  But biography has often been allotted to writers who seem very little acquainted with the nature of their task, or very negligent about the performance. 
+
+  They rarely afford any other account than might be collected from publick papers, but imagine themselves writing a life when they exhibit a chronological series of actions or preferments; and so little regard the manners or behaviour of their heroes, that more knowledge may be gained of a man's real character, by a short conversation with one of his servants, than from a formal and studied narrative, begun with his pedigree, and ended with his funeral. 
+
+  If now and then they condescend to inform the world of particular facts, they are not always so happy as to select the most important.  I know not    well what advantage posterity can receive from the only circumstance by which Tickell has distinguished Addison from the rest of mankind, *the irregularity of his pulse*: nor can I think myself overpaid for the time spent in reading the life of Malherb by being enabled to relate after the learned biographer, that Malherb had two predominant opinions; one, that the looseness of a single woman might destroy all her boast of ancient descent; the other, that the French beggars made use very improperly and barbarously of the phrase *noble Gentleman*, because either word included the sense to both. 
+
+  There are, indeed, some natural reasons why these narratives are often written by such as were not likely to give much instruction or delight, and why most accounts of particular persons are barren and useless.  If a life be delayed till interest and envy are at an end, we may hope for impartiality, but must expect little intelligence; for the incidents which give excellence to biography are of a volatile and evanescent kind, such as soon escape the memory, and are rarely transmitted by tradition.  We know how few can pourtray a living acquaintance, except by his most prominent and observable particularities, and the grosser features of his mind; and it may be easily imagined how much of this little knowledge may be lost in imparting it, and how soon a succession of copies will lose all resemblance of the original. 
+
+  If the biographer writes from personal knowledge, and makes haste to gratify the public curiosity,    there is danger lest his interest, his fear his gratitude, or his tenderness, overpower his fidelity, and tempt him to conceal, if not to invent.  There are many who think it an act of piety to hide the faults or failings of their friends, even when they can no longer suffer by their detection; we therefore see whole ranks of characters adorned with uniform panegyrick, and not to be known from one another, but by extrinsick and casual circumstances.  "Let me remember," says Hale, "when I find myself inclined to pity a criminal, that there is likewise a pity due to the country."  If we owe regard to the memory of the dead, there is yet more respect to be paid to knowledge, to virtue, and to truth. 
+
+     
+## No. 61. TUESDAY, OCTOBER 16,1750 
+
+      - Falsus honor juvat, et mendax infamia terret,
+ - Quem, nisi mendosum et mendacem? 
+ HOR. Lib. i. Ep. xvi. 39.        - False praise can charm, unreal shame controul,
+ - Whom but a vicious or a sickly soul? 
+ FRANCIS.        TO THE RAMBLER
+ SIR,    IT is extremely vexatious to a man of eager and thirsty curiosity to be placed at a great distance from the fountain of intelligence, and not only never to receive the current of report till it has satiated the greatest part of the nation, but at last to find it mudded in its course, and corrupted with taints or mixtures from every channel through which it flowed.     
+
+  One of the chief pleasures of my life is to hear what passes in the world; to know what are the schemes of the politick, the aims of the busy, and the hopes of the ambitious; what changes of publick measures are approaching; who is likely to be crushed in the collision of parties; who is climbing to the top of power, and who is tottering on the precipice of disgrace.  But as it is very common for us to desire most what we are least qualified to obtain, I have suffered this appetite of news to outgrow all the gratifications which my present situation can afford it; for being placed in a remote country, I am condemned always to confound the future with the past, to form prognostications of events no longer doubtful, and to consider the expediency of schemes already executed or defeated. I am perplexed with a perpetual deception in my prospects, like a man pointing his telescope at a remote star, which before the light reaches his eye has forsaken the place from which it was emitted. 
+
+  The mortification of being thus always behind the active world in my reflections and discoveries, is exceedingly aggravated by the petulance of those whose health, or business, or pleasure, brings them hither from London.  For, without considering the insuperable disadvantages of my condition, and the unavoidable ignorance which absence must produce, they often treat me with the utmost superciliousness of contempt, for not knowing what no human sagacity can discover; and sometimes seem to consider me as a wretch scarcely worthy of human    converse, when I happen to talk of the fortune of a bankrupt, or propose the healths of the dead, when I warn them of mischiefs already incurred, or wish for measures that have been lately taken.  They seem to attribute to the superiority of their intellects what they only owe to the accident of their condition, and think themselves indisputably entitled to airs of insolence and authority, when they find another ignorant of facts, which, because they echoed in the streets of London, they suppose equally publick in all other places, and known where they could neither be seen, related, nor conjectured. 
+
+  To this haughtiness they are indeed too much encouraged by the respect which they receive amongst us, for no other reason than that they come from London.  For no sooner is the arrival of one of these disseminators of knowledge known in the country, than we crowd about him from every quarter, and by innumerable inquiries flatter him into an opinion of his own importance.  He sees himself surrounded by multitudes, who propose their doubts, and refer their controversies, to him, as to a being descended from some nobler region, and he grows on a sudden oraculous and infallible, solves all difficulties, and sets all objections at defiance. 
+
+  There is, in my opinion, great reason for suspecting, that they sometimes take advantage of this reverential modesty, and impose upon rustick understandings, with a false show of universal intelligence; for I do not find that they are willing to    own themselves ignorant of any thing, or that they dismiss any inquirer with a positive and decisive answer.  The court, the city, the park, and exchange, are to those men of unbounded observation equally familiar, and they are alike ready to tell the hour at which stocks will rise, or the ministry be changed. 
+
+  A short residence at London entitles a man to knowledge, to wit, to politeness, and to a despotick and dictatorial power of prescribing to the rude multitude, whom he condescends to honour with a biennial visit; yet, I know not well upon what motives, I have lately found myself inclined to cavil at this prescription, and to doubt whether it be not, on some occasions, proper to withhold our veneration, till we are more authentically convinced of the merits of the claimant. 
+
+  It is well remembered here, that about seven years ago, one Frolick, a tall boy, with lank hair, remarkable for stealing eggs, and sucking them, was taken from the school in this parish, and sent up to London to study the law.  As he had given amongst us no proofs of a genius designed by nature for extraordinary performances, he was, from the time of his departure, totally forgotten, nor was there any talk of his vices or virtues, his good or his ill fortune, till last summer a report burst upon us, that Mr. Frolick was come down in the first post-chaise which this village had seen, having travelled with such rapidity that one of his postillions had broke his leg, and another narrowly escaped suffocation in a quicksand; but that Mr.    Frolick seemed totally unconcerned, for such things were never heeded at London. 
+
+  Mr. Frolick next day appeared among the gentlemen at their weekly meeting on the bowling-green, and now were seen the effects of a London education.  His dress, his language, his ideas, were all new, and he did not much endeavour to conceal his comtempt of every thing that differed from the opinions, or practice, of the modish world.  He showed us the deformity of our skirts and sleeves, informed us where hats of the proper size were to be sold, and recommended to us the reformation of a thousand absurdities in our clothes, our cookery, and our conversation.  When any of his phrases were unintelligible, he could not suppress the joy of confessed superiority, but frequently delayed the explanation, that he might enjoy his triumph over our barbarity. 
+
+  When he is pleased to entertain us with a story, he takes care to crowd into it names of streets, squares, and buildings, with which he knows we are unacquainted.  The favourite topicks of his discourse are the pranks of drunkards, and the tricks put upon country gentlemen by porters and link-boys.  When he is with ladies, he tells them of the innumerable pleasures to which he can introduce them; but never fails to hint how much they will be deficient, at their first arrival, in the knowledge of the town.  What it is *to know the town*, he has not indeed hitherto informed us, though there is no phrase so frequent in his mouth, nor any science which he appears    to think of so great a value, or so difficult attainment. 
+
+  But my curiosity has been most engaged by the recital of his own adventures and achievements.  I have heard of the union of various characters in single persons, but never met with such a constellation of great qualities as this man's narrative affords. 
+
+  Whatever has distinguished the hero; whatever has elevated the wit; whatever has endeared the the lover, are all concentered in Mr. Frolick, whose life has, for seven years, been a regular interchange of intrigues, dangers, and waggeries, and who has distinguished himself in every character that can be feared, envied, or admired. 
+
+  I question whether all the officers of the royal navy can bring together, from all their journals, a collection of so many wonderful escapes as this man has known upon the Thames, on which he has been a thousand and a thousand times on the point of perishing, sometimes by the terrours of foolish women in the same boat, sometimes by his own acknowledged imprudence in passing the river in the dark, and sometimes by shooting the bridge under which he has rencountered mountainous waves, and dreadful cataracts. 
+
+  Nor less has been his temerity by land, nor fewer his hazards.  He has reeled with giddiness on the top of the monument; he has crossed the street amidst the rush of coaches; he has been surrounded by robbers without numbers; he has headed parties at the playhouse; he has scaled the windows of every    toast, of whatever condition; he has been hunted for whole winters by his rivals; he has slept upon bulks, he has cut chairs, he has bilked coachmen; he has rescued his friends from the bailiffs, has knocked down the constable, has bullied the justice, and performed many other exploits, that have filled the town with wonder and with merriment. 
+
+  But yet greater is the fame of his understanding than his bravery; for he informs us, that he is, at London, the established arbitrator of all points of honour, and the decisive judge of all performances of genius; that no musical performer is in reputation till the opinion of Frolick has ratified his pretensions; that the theatres suspend their sentence till he begins the clap or hiss, in which all are proud to concur; that no publick entertainment has failed or succeeded, but because he opposed or favoured it; that all controversies at the gaming-table are referred to his determination; that he adjusts the ceremonial at every assembly, and prescribes every fashion of pleasure or of dress. 
+
+  With every man whose name occurs in the papers of the day, he is intimately acquainted; and there are very few posts either in the state or army, of which he has not more or less influenced the disposal. 
+
+  He has been very frequently consulted both upon war and peace; but the time is not yet come when the nation shall know how much it is indebted to the genius of Frolick. 
+
+  Yet, notwithstanding all these declarations, I cannot hitherto persuade myself to see Mr. Frolick has    more wit, or knowledge, or courage, than the rest of mankind, or that any uncommon enlargement of his faculties has happened in the time of his absence. 
+
+  For when he talks on subjects known to the rest of the company, he has no advantage over us, but by catches of interruption, briskness of interrogation, and pertness of contempt; and therefore if he has stunned the world with his name, and gained a place in the first ranks of humanity, I cannot but conclude, that either a little understanding confers eminence at London, or that Mr. Frolick thinks us unworthy of the exertion of his powers, or that his faculties are benumbed by rural stupidity, as the magnetic needle loses its animation in the polar climes. 
+
+  I would not, however, like many hasty philosophers, search after the cause till I am certain of the effect; and therefore I desire to be informed, whether you have yet heard the great name of Mr. Frolick.  If he is celebrated by other tongues than his own, I shall willingly propagate his praise; but if he has swelled among us with empty boasts, and honours conferred only by himself, I shall treat him with rustick sincerity, and drive him as an impostor from this part of the kingdom to some region of more credulity. 
+
+  I am, &c.
+ RURICOLA.        
+## No. 62 Saturday, 20 October 1750
+
+      - Nunc ego Triptolemi cuperem conscendere currus,
+ - Misit in ignotam qui rude semen humum:
+ - Nunc ego Medeae vellem fraenare dracones,
+ - Quos habuit fugiens arva, Corinthe, tua;
+ - Nunc ego jactandas optarem sumere pennas,
+ - Sive tuas, Perseu; Daedale, sic tuas. 
+ OVID.  Trist.  iii.  8.1.      - NOW would I mount his car, whose bounteous hand
+ - First sow'd with teeming seed the furrow'd land:
+ - Now to MedEea's dragons fix my reins,
+ - That swiftly bore her from Corinthian plains;
+ - Now on Daedalian waxen pinions stray,
+ - Or those which wafted Perseus on his way. 
+ F.  Lewis.        TO THE RAMBLER. SIR,    I AM a young woman of very large fortune, which, if my parents would have been persuaded to comply with the rules and customs of the polite part of mankind, might long since have raised me to the highest honours of the female world; but so strangely have they hitherto contrived to waste my life, that I am now on the borders of twenty, without having ever danced but at our monthly assembly, or been toasted but among a few gentlemen of the neighbourhood, or seen in any company in which it was worth a wish to be distinguished. 
+
+  My father having impaired his patrimony in soliciting a place at court, at last grew wise enough to cease his pursuit; and to repair the consequences of expensive attendance and negligence of his affairs, married a lady much older than himself, who had lived in the fashionable world till she was considered    as an incumbrance upon parties of pleasure, and as I can collect from incidental informations, retired from gay assemblies just time enough to escape the mortifications of universal neglect. 
+
+  She was, however, still rich, and not yet wrinkled; my father was too distressfully embarrassed to think much on any thing but the means of extrication, and though it is not likely that he wanted the delicacy which polite conversation will always produce in understandings not remarkably defective, yet he was contented with a match, by which he might be set free from inconveniences, that would have destroyed all the pleasures of imagination, and taken from softness and beauty the power of delighting. 
+
+  As they were both somewhat disgusted with their treatment in the world, and married, though without any dislike of each other, yet principally for the sake of setting themselves free from dependence on caprice or fashion, they soon retired into the country, and devoted their lives to rural business and diversions. 
+
+  They had not much reason to regret the change of their situation; for their vanity, which had so long been tormented by neglect and disappointment, was here gratified with every honour that could be paid them.  Their long familiarity with publick life made them the oracles of all those who aspired to intelligence, or politeness.  My father dictated politicks, my mother prescribed the mode, and it was sufficient to entitle my family to some    consideration, that they were known to visit at Mrs. Courtly's. 
+
+  In this state they were, to speak in the style of novelists, made happy by the birth of your correspondent. My parents had no other child, I was therefore not brow-beaten by a saucy brother, or lost in a multitude of coheiresses, whose fortunes being equal, would probably have conferred equal merit, and procured equal regard; and as my mother was now old, my understanding and my person had fair play, my inquiries were not checked, my advances towards importance were not repressed, and I was soon suffered to tell my own opinions, and early accustomed to hear my own praises. 
+
+  By these accidental advantages I was much exalted above the young ladies with whom I conversed, and was treated by them with great deference.  I saw none who did not seem to confess my superiority, and to be held in awe by the splendour of my appearance; for the fondness of my father made him pleased to see me dressed, and my mother had no vanity nor expenses to hinder her from concurring with his inclination. 
+
+  Thus, Mr. Rambler, I lived without much desire after any thing beyond the circle of our visits; and here I should have quietly continued to portion out my time among my books, and my needle, and my company, had not my curiosity been every moment excited by the conversation of my parents, who, whenever they sit down to familiar prattle, and endeavour the entertainment of each other, immedi-   ately transport themselves to London, and relate some adventure in a hackney-coach, some frolick at a masquerade, some conversation in the park, or some quarrel at an assembly, display the magnificence of a birth-night, relate the conquests of maids of honour, or give a history of diversions, shows, and entertainments, which I had never known but from their accounts. 
+
+  I am so well versed in the history of the gay world, that I can relate, with great punctuality, the lives of all the last race of wits and beauties; can enumerate with exact chronology, the whole succession of celebrated singers, musicians, tragedians, comedians, and harlequins; can tell to the last twenty years all the changes of fashions; and am, indeed, a complete antiquary with respect to head-dresses, dances, and operas. 
+
+  You will easily imagine, Mr. Rambler, that I could not hear these narratives, for sixteen years together, without suffering some impression, and wishing myself nearer to those places where every hour brings some new pleasure, and life is diversified with an unexhausted succession of felicity. 
+
+  I indeed often asked my mother why she left a place which she recollected with so much delight, and why she did not visit London once a year, like some other ladies, and initiate me in the world by showing me its amusements, its grandeur, and its variety. 
+
+  But she always told me that the days which she had seen were such as will never come again; that all diversion is now degenerated, that the conver-   sation of the present age is insipid, that their fashions are unbecoming, their customs absurd, and their morals corrupt; that there is no ray left of the genius which enlightened the times that she remembers; that no one who had seen, or heard, the ancient performers, would be able to bear the bunglers of this despicable age: and that there is now neither politeness, nor pleasure, nor virtue, in the world.  She therefore assures me that she consults my happiness by keeping me at home, for I should now find nothing but vexation and disgust, and she should be ashamed to see me pleased with such fopperies and trifles, as take up the thoughts of the present set of young people. 
+
+  With this answer I was kept quiet for several years, and thought it no great inconvenience to be confined to the country, till last summer a young gentleman and his sister came down to pass a few months with one of our neighbours.  They had generally no great regard for the country ladies, but distinguished me by a particular complaisance, and, as we grew intimate, gave me such a detail of the elegance, the splendour, the mirth, the happiness of the town, that I am resolved to be no longer buried in ignorance and obscurity, but to share with other wits the joy of being admired, and divide with other beauties the empire of the world. 
+
+  I do not find, Mr. Rambler, upon a deliberate and impartial comparison, that I am excelled by Belinda in beauty, in wit, in judgment, in knowledge, or in any thing, but a kind of gay, lively familiarity, by    which she mingles with strangers as with persons long acquainted, and which enables her to display her powers without any obstruction, hesitation, or confusion.  Yet she can relate a thousand civilities paid to her in publick, can produce, from a hundred lovers, letters filled with praises, protestations, ecstacies, and despair; has been handed by dukes to her chair; has been the occasion of innumerable quarrels; has paid twenty visits in an afternoon; been invited to six balls in an evening, and been forced to retire to lodgings in the country from the importunity of courtship, and the fatigue of pleasure. 
+
+  I tell you, Mr. Rambler, I will stay here no longer.  I have at last prevailed upon my mother to send me to town, and shall set out in three weeks on the grand expedition.  I intend to live in publick, and to crowd into the winter every pleasure which money can purchase, and every honour which beauty can obtain. 
+
+  But this tedious interval how shall I endure? Cannot you alleviate the misery of delay by some pleasing description of the entertainments of the town? I can read, I can talk, I can think of nothing else; and if you will not sooth my impatience, heighten my ideas, and animate my hopes, you may write for those who have more leisure, but are not to expect any longer the honour of being read by those eyes which are now intent only on conquest and destruction. 
+
+   RHODOCLIA.          
+## No. 63. TUESDAY, OCTOBER 23, 1750 
+
+     - —Habebat saepe ducentos,
+ - Saepe decem servos; modò reges atque tetrarchas,
+ - Omnia magna loquens: modò, sit mihi mensa tripes, et
+ - Concha salis puri, et toga, quae defendere frigus,
+ - Quamvis crassa, queat. 
+   Horace, Satires, 1.3.11-15       - Now with two hundred slaves he crowds his train—
+ - Now walks with ten.  In high and haughty strain
+ - At morn, of kings and governors he prates;
+ - At night—"A frugal table, O ye fates,
+ - "A little shell the sacred salt to hold,
+ - "And clothes, tho' coarse, to keep me from the cold." 
+ FRANCIS.       IT has been remarked, perhaps, by every writer who has left behind him observations upon life, that no man is pleased with his present state; which proves equally unsatisfactory, says Horace, whether fallen upon by chance, or chosen with deliberation; we are always disgusted with some circumstance or other of our situation, and imagine the condition of others more abundant in blessings, or less exposed to calamities. 
+
+  This universal discontent has been generally mentioned with great severity of censure, as unreasonable in itself, since of two, equally envious of each other, both cannot have the larger share of happiness, and as tending to darken life with unnecessary gloom, by withdrawing our minds from the contemplation and enjoyment of that happiness which our state affords us, and fixing our attention upon foreign objects, which we only behold to depress ourselves, and increase our misery by injurious comparisons.    
+
+  When this opinion of the felicity of others predominates in the heart, so as to excite resolutions of obtaining, at whatever price, the condition to which such transcendent privileges are supposed to be annexed; when it bursts into action, and produces fraud, violence, and injustice, it is to be pursued with all the rigour of legal punishments.  But while operating only upon the thoughts it disturbs none but him who has happened to admit it, and, however it may interrupt content, makes no attack on piety or virtue, I cannot think it so far criminal or ridiculous, but that it may deserve some pity, and admit some excuse. 
+
+  That all are equally happy, or miserable, I suppose none is sufficiently enthusiastical to maintain; because though we cannot judge of the condition of others, yet every man has found frequent vicissitudes in his own state, and must therefore be convinced that life is susceptible of more or less felicity. What then shall forbid us to endeavour the alteration of that which is capable of being improved, and to grasp at augmentations of good, when we know it possible to be increased, and believe that any particular change of situation will increase it? 
+
+  If he that finds himself uneasy may reasonably make efforts to rid himself from vexation, all mankind have a sufficient plea for some degree of restlessness, and the fault seems to be little more than too much temerity of conclusion, in favour of something not yet experienced, and too much readiness to believe, that the misery which our own passions    and appetites produce, is brought upon us by accidental causes, and external efficients. 
+
+  It is, indeed, frequently discovered by us, that we complained too hastily of peculiar hardships, and imagined ourselves distinguished by embarrassments, in which other classes of men are equally entangled. We often change a lighter for a greater evil, and wish ourselves restored again to the state from which we thought it desirable to be delivered. But this knowledge, though it is easily gained by the trial, is not always attainable any other way; and that errour cannot justly be reproached, which reason could not obviate, nor prudence avoid. 
+
+  To take a view at once distinct and comprehensive of human life, with all its intricacies of combination, and varieties of connexion, is beyond the power of mortal intelligences.  Of the state with which practice has not acquainted us we snatch a glimpse, we discern a point, and regulate the rest by passion, and by fancy.  In this inquiry every favourite prejudice, every innate desire, is busy to deceive us. We are unhappy, at least less happy than our nature seems to admit; we necessarily desire the melioration of our lot; what we desire we very reasonably seek, and what we seek we are naturally eager to believe that we have found.  Our confidence is often disappointed, but our reason is not convinced, and there is no man who does not hope for something which he has not, though perhaps his wishes lie unactive, because he foresees the difficulty of attainment.  As among the numerous students of Her-   metick philosophy, not one appears to have desisted from the task of transmutation, from conviction of its impossibility, but from weariness of toil, or impatience of delay, a broken body, or exhausted fortune. 
+
+  Irresolution and mutability are often the faults of men, whose views are wide, and whose imagination is vigorous and excursive, because they cannot confine their thoughts within their own boundaries of action, but are continually ranging over all the scenes of human existence, and consequently are often apt to conceive that they fall upon new regions of pleasure, and start new possibilities of happiness.  Thus they are busied with a perpetual succession of schemes, and pass their lives in alternate elation and sorrow, for want of that calm and immovable acquiescence in their condition, by which men of slower understandings are fixed for ever to a certain point, or led on in the plain beaten track, which their fathers and grandsires have trod before them. 
+
+  Of two conditions of life equally inviting to the prospect, that will always have the disadvantage which we have already tried; because the evils which we have felt we cannot extenuate; and though we have, perhaps from nature, the power as well of aggravating the calamity which we fear, as of heightening the blessing we expect, yet in those meditations which we indulge by choice, and which are not forced upon the mind by necessity, we have always the art of fixing our regard upon the more pleasing    images, and suffer hope to dispose the lights by which we look upon futurity. 
+
+  The good and ill of different modes of life are sometimes so equally opposed, that perhaps no man ever yet made his choice between them upon a full conviction, and adequate knowledge; and therefore fluctuation of will is not more wonderful, when they are proposed to the election, than oscillations of a beam charged with equal weights.  The mind no sooner imagines itself determined by some prevalent advantage, than some convenience of equal weight is discovered on the other side, and the resolutions, which are suggested by the nicest examination, are often repented as soon as they are taken. 
+
+  Eumenes, a young man of great abilities, inherited a large estate from a father, long eminent in conspicuous employments.  His father, harassed with competitions, and perplexed with multiplicity of business, recommended the quiet of a private station with so much force, that Eumenes for some years resisted every motion of ambitious wishes; but being once provoked by the sight of oppression, which he could not redress, he began to think it the duty of an honest man to enable himself to protect others, and gradually felt a desire of greatness, excited by a thousand projects of advantage to his country.  His fortune placed him in the senate, his knowledge and eloquence advanced him at court, and he possessed that authority and influence which he had resolved to exert for the happiness of mankind.    
+
+  He now became acquainted with greatness, and was in a short time convinced, that in proportion as the power of doing well is enlarged, the temptations to do ill are multiplied and enforced.  He felt himself every moment in danger of being either seduced or driven from his honest purposes.  Sometimes a friend was to be gratified, and sometimes a rival to be crushed, by means which his conscience could not approve.  Sometimes he was forced to comply with the prejudices of the publick, and sometimes with the schemes of the ministry.  He was by degrees wearied with perpetual struggles to unite policy and virtue, and went back to retirement as the shelter of innocence, persuaded that he could only hope to benefit mankind by a blameless example of private virtue.  Here he spent some years in tranquillity and beneficence; but finding that corruption increased, and false opinions in government prevailed, he thought himself again summoned to posts of publick trust, from which new evidence of his own weakness again determined him to retire. 
+
+  Thus men may be made inconstant by virtue and by vice, by too much or too little thought; yet inconstancy, however dignified by its motives, is always to be avoided, because life allows us but a small time for inquiry and experiment, and he that steadily endeavours at excellence, in whatever employment, will more benefit mankind than he that hesitates in chusing his part till he is called to the performance.  The traveller that resolutely follows a rough and winding path, will sooner reach the    end of his journey, than he that is always changing his direction, and wastes the hours of day-light in looking for smoother ground and shorter passages.  
+
+     
+## No. 64.  SATURDAY, OCTOBER 27, 1750 
+
+    *Idem velle, et idem nolle, ea demum firma amicitia est* 
+
+  SALL. Bell. Cat. 20.   To live in friendship is to have the same desires and the same aversions. 
+
+    WHEN Socrates was building himself a house at Athens, being asked by one that observed the littleness of the design, why a man so eminent would not have an abode more suitable to his dignity? he replied, that he should think himself sufficiently accommodated, if he could see that narrow habitation filled with real friends[^JohRamb.3].  Such was the opinion of this great master of human life, concerning the infrequency of such an union of minds as might deserve the name of friendship, that among the multitudes whom vanity or curiosity, civilty or veneration, crowded about him, he did not expect, that very spacious apartments would be necessary to contain all that should regard him with sincere kindness, or adhere to him with steady fidelity. 
+
+  [^JohRamb.3]: [r] This passage is almost a literal translation from Phædrus, lib. iii.  9.
+
+*Vulgare amici nomen, sed rara est fides.  Quum parvas ædes sibi fundasset Socrates (Cujus non fugio mortem, si famam adsequar, Et cedo invidiæ, dum modo absolvar cinis.)  E populo sic, nescio quis, ut fieri solet:  Quæso tam angustam, talis vir, ponis domum?  Utinam, inquit, veris hanc amicis impleam.  *
+
+    So many qualities are indeed requisite to the possibility of friendship, and so many accidents must concur to its rise and continuance, that the greatest part of mankind content themselves without it, and supply its place as they can, with interest and dependance. 
+
+  Multitudes are unqualified for a constant and warm reciprocation of benevolence, as they are incapacitated for any other elevated excellence, by perpetual attention to their interest, and unresisting subjection to their passions.  Long habits may superinduce inability to deny any desire, or repress, by superior motives, the importunities of any immediate gratification, and an inveterate selfishness will imagine all advantages diminished in proportion as they are communicated. 
+
+  But not only this hateful and confirmed corruption, but many varieties of disposition, not inconsistent with common degrees of virtue, may exclude friendship from the heart.  Some ardent enough in their benevolence, and defective neither in officiousness nor liberality, are mutable and uncertain, soon attracted by new objects, disgusted without offence, and alienated without enmity.  Others are soft and flexible, easily influenced by reports or whispers, ready to catch alarms from every dubious circumstance, and to listen to every suspicion which envy and flattery shall suggest, to follow the opinion of every confident adviser, and move by the impulse of the last breath.  Some are impatient of contradiction, more willing to go wrong by their own judg-   ment, than to be indebted for a better or a safer way to the sagacity of another, inclined to consider counsel as insult, and inquiry as want of confidence, and to confer their regard on no other terms than unreserved submission, and implicit compliance. Some are dark and involved, equally careful to conceal good and bad purposes; and pleased with producing effects by invisible means, and shewing their design only in its execution.  Others are universally communicative, alike open to every eye, and equally profuse of their own secrets and those of others, without the necessary vigilance of caution, or the honest arts of prudent integrity, ready to accuse without malice, and to betray without treachery. Any of these may be useful to the community, and pass through the world with the reputation of good purposes and uncorrupted morals, but they are unfit for close and tender intimacies.  He cannot properly be chosen for a friend, whose kindness is exhaled by its own warmth, or frozen by the first blast of slander; he cannot be a useful counsellor who will hear no opinion but his own; he will not much invite confidence whose principal maxim is to suspect; nor can the candour and frankness of that man be much esteemed, who spreads his arms to humankind, and makes every man, without distinction, a denizen of his bosom. 
+
+  That friendship may be at once fond and lasting, there must not only be equal virtue on each part, but virtue of the same kind; not only the same end must be proposed, but the same means must be ap-   proved by both.  We are often, by superficial accomplishments and accidental endearments, induced to love those whom we cannot esteem; we are sometimes, by great abilities, and incontestable evidences of virtue, compelled to esteem those whom we cannot love.  But friendship, compounded of esteem and love, derives from one its tenderness, and its permanence from the other; and therefore requires not only that its candidates should gain the judgment, but that they should attract the affections; that they should not only be firm in the day of distress, but gay in the hour of jollity; not only useful in exigencies, but pleasing in familiar life; their presence should give cheerfulness as well as courage, ana dispel alike the gloom of fear and of melancholy. 
+
+  To this mutual complacency is generally requisite an uniformity of opinions, at least of those active and conspicuous principles which discriminate parties in government, and sects in religion, and which every day operate more or less on the common business of life.  For though great tenderness has, perhaps, been sometimes known to continue between men eminent in contrary factions; yet such friends are to be shewn rather as prodigies than examples, and it is no more proper to regulate our conduct by such instances, than to leap a precipice, because some have fallen from it and escaped with life. 
+
+  It cannot but be extremely difficult to preserve private kindness in the midst of publick opposition,    in which will necessarily be involved a thousand incidents, extending their influence to conversation and privacy.  Men engaged, by moral or religious motives, in contrary parties, will generally look with different eyes upon every man, and decide almost every question upon different principles. When such occasions of dispute happen, to comply is to betray our cause, and to maintain friendship by ceasing to deserve it; to be silent is to lose the happiness and dignity of independence, to live in perpetual constraint, and to desert, if not to betray: and who shall determine which of two friends shall yield, where neither believes himself mistaken, and both confess the importance of the question? What then remains but contradiction and debate? and from those what can be expected, but acrimony and vehemence, the insolence of triumph, the vexation of defeat, and, in time, a weariness of contest, and an extinction of benevolence? Exchange of endearments and intercourse of civility may continue, indeed, as boughs may for a while be verdant, when the root is wounded; but the poision of discord is infused, and though the countenance may preserve its smile, the heart is hardening and contracting. 
+
+  That man will not be long agreeable, whom we see only in times of seriousness and severity; and therefore to maintain the softness and serenity of benevolence, it is necessary that friends partake each other's pleasures as well as cares, and be led to the same diversions by similitude of taste.  This is, however, not to be considered as equally indispensable    with conformity of principles, because any man may honestly, according to the precepts of Horace, resign the gratifications of taste to the humour of another, and friendship may well deserve the sacrifice of pleasure, though not of conscience. 
+
+  It was once confessed to me, by a painter, that no professor of his art ever loved another.  This declaration is so far justified by the knowledge of life, as to damp the hopes of warm and constant friendship, between men whom their studies have made competitors, and whom every favourer and every censurer are hourly inciting against each other. The utmost expectation that experience can warrant, is, that they should forbear open hostilities and secret machinations, and when the whole fraternity is attacked, be able to unite against a common foe.  Some, however, though few, may perhaps be found, in whom emulation has not been able to overpower generosity, who are distinguished from lower beings by nobler motives than the love of fame, and can preserve the sacred flame of friendship from the gusts of pride, and the rubbish of interest. 
+
+  Friendship is seldon lasting but between equals, or where the superiority on one side is reduced by some equivalent advantage on the other.  Benefits which cannot be repaid, and obligations which cannot be discharged, are not commonly found to increase afFection; they excite gratitude indeed, and heighten veneration; but commonly take away that easy freedom and familiarity of intercourse, with-   out which, though there may be fidelity, and zeal, and admiration, there cannot be friendship.  Thus imperfect are all earthly blessings; the great effect of friendship is beneficence, yet by the first act of uncommon kindness it is endangered, like plants that bear their fruit and die.  Yet this consideration ought not to restrain bounty, or repress compassion; for duty is to be preferred before convenience, and he that loses part of the pleasures of friendship by his generosity, gains in its place the gratulation of his conscience. 
+
+     
+## No. 65.  TUESDAY, OCTOBER 30, 1750 
+
+      - —Garrit aniles
+ - Ex re fabellas.— 
+ HOR. Lib. i. Sat. vi. 77.        - The cheerful sage, when solemn dictates fail,
+ - Conceals the moral counsel in a tale. 
+      O BIDAH, the son of Abensina, left the caravansera early in the morning, and pursued his journey through the plains of Indostan.  He was fresh and vigorous with rest; he was animated with hope; he was incited by desire; he walked swiftly forward over the valleys, and saw the hills gradually rising before him.  As he passed along, his ears were delighted with the morning song of the bird of paradise, he was fanned by the last flutters of the sinking breeze, and sprinkled with dew by groves of spices; he sometimes contemplated the towering height of the oak, monarch of the hills; and sometimes caught the gentle fragrance of the prim-   rose, eldest daughter of the spring; all his senses were gratified, and all care was banished from his heart. 
+
+  Thus he went on till the sun approached his meridian, and the increasing heat preyed upon his strength; he then looked round about him for some more commodious path.  He saw, on his right hand, a grove that seemed to wave its shades as a sign of invitation; he entered it, and found the coolness and verdure irresistibly pleasant.  He did not, however, forget whither he was travelling, but found a narrow way bordered with flowers, which appeard to have the same direction with the main road, and was pleased that, by this happy experiment, he had found means to unite pleasure with business, and to gain the rewards of diligence without suffering its fatigues.  He, therefore, still continued to walk for a time, without the least remission of his ardour, except that he was sometimes tempted to stop by the musick of the birds whom the heat had assembled in the shade; and sometimes amused himself with plucking the flowers that covered the banks on either side, or the fruits that hung upon the branches.  At last the green path began to decline from its first tendency, and to wind among hills and thickets, cooled with fountains and murmuring with waterfalls.  Here Obidah paused for a time, and began to consider whether it were longer safe to forsake the known and common track; but remembering that the heat was now in its greatest violence, and that the plain was dusty and uneven,    he resolved to pursue the new path, which he supposed only to make a few meanders, in compliance with the varieties of the ground, and to end at last in the common road. 
+
+  Having thus calmed his solicitude, he renewed his pace, though he suspected that he was not gaining ground.  This uneasiness of his mind inclined him to lay hold on every new object, and give way to every sensation that might sooth or divert him.  He listened to every echo, he mounted every hill for a fresh prospect, he turned aside to every cascade, and pleased himself with tracing the course of a gentle river that rolled among the trees, and watered a large region with innumerable circumvolutions.  In these amusements the hours passed away uncounted, his deviations had perplexed his memory, and he knew not towards what point to travel.  He stood pensive and confused, afraid to go forward lest he should go wrong, yet conscious that the time of loitering was now past.  While he was thus tortured with uncertainty, the sky was overspread with clouds, the day vanished from before him, and a sudden tempest gathered round his head.  He was now roused by his danger to a quick and painful remembrance of his folly; he now saw how happiness is lost when ease is consulted; he lamented the unmanly impatience that prompted him to seek shelter in the grove, and despised the petty curiosity that led him on from trifle to trifle While he was thus reflecting, the air grew blacker; and a clap of thunder broke his meditation    
+
+  He now resolved to do what remained yet in his power, to tread back the ground which he had passed, and try to find some issue where the wood might open into the plain.  He prostrated himself on the ground, and commended his life to the Lord of nature.  He rose with confidence and tranquillity, and pressed on with his sabre in his hand, for the beasts of the desert were in motion, and on every hand were heard the mingled howls of rage and fear, and ravage and expiration; all the horrours of darkness and solitude surrounded him; the winds roared in the woods, and the torrents tumbled from the hills,    — — Χεi̓υαu̓u̓οι ποταυοι κατ u̓ρεσu̓ι u̓e̓οντες
+ Ες μισγa̓γκειαν συμβa̓λλ ετον o̓βριμον u̓δωρ,
+ Τu̓νε τε τηλo̓σε δοu̓πον u̓ν οu̓ρεσιν u̓κλυε ποιμu̓ν.
+ Iliad, IV. 452-53, 455   - Work'd into sudden rage by wintry show'rs,
+- Down the steep hill the roaring torrent pours;
+- The mountain shepherd hears the distant noise.
+
+
+  Thus forlorn and distressed, he wandered through the wild, without knowing whither he was going, or whether he was every moment drawing nearer to safety or to destruction.  At length not fear but labour began to overcome him; his breath grew short, and his knees trembled, he was on the point of lying down in resignation to his fate, when he beheld through the brambles the glimmer of a taper. He advanced towards the light, and finding that it proceeded from the cottage of a hermit, he called humbly at the door, and obtained admission.  The old man set before him such provisions as he had    collected for himself, on which Obidah fed with eagerness and gratitude. 
+
+  When the repast was over, "Tell me," said the hermit, "by what chance thou hast been brought hither; I have been now twenty years an inhabitant of the wilderness, in which I never saw a man before.  "Obidah then related the occurences of his journey, without any concealment or palliation. 
+
+  "Son," said the hermit, "let the errours and follies, the dangers and escape of this day, sink deep into thy heart.  Remember, my son, that human life is the journey of a day.  We rise in the morning of youth, full of vigour and full of expectation; we set forward with spirit and hope, with gaiety and with diligence, and travel on a while in the straight road of piety towards the mansions of rest.  In a short time we remit our fervour, and endeavour to find some mitigation of our duty, and some more easy means of obtaining the same end.  We then relax our vigour, and resolve no longer to be terrified with crimes at a distance, but rely upon our own constancy, and venture to approach what we resolve never to touch.  We thus enter the bowers of ease, and repose in the shades of security.  Here the heart softens and vigilance subsides; we are then willing to inquire whether another advance cannot be made, and whether we may not, at least, turn our eyes upon the gardens of pleasure.  We approach them with scruple and hesitation; we enter them, but enter timorous and trembling, and always hope to pass through them without losing the road of virtue,    which we, for a while, keep in our sight, and to which we propose to return.  But temptation succeeds temptation, and one compliance prepares us for another; we in time lose the happiness of innocence, and solace our disquiet with sensual gratifications. By degrees we let fall the remembrance of our original intention, and quit the only adequate object of rational desire.  We entangle ourselves in business, immerge ourselves in luxury, and rove through the labyrinths of inconstancy, till the darkness of old age begins to invade us, and disease and anxiety obstruct our way.  We then look back upon our lives with horrour, with sorrow, with repentance; and wish, but too often vainly wish, that we had not forsaken the ways of virtue.  Happy are they, my son, who shall learn from thy example not to despair, but shall remember, that though the day is past, and their strength is wasted, there yet remains one effort to be made; that reformation is never hopeless, nor sincere endeavours ever unassisted; that the wanderer may at length return after all his errours, and that he who implores strength and courage from above, shall find danger and difficulty give way before him.  Go now, my son, to thy repose, commit thyself to the care of Omnipotence, and when the morning calls again to toil, begin anew thy journey and thy life." 
+
+        
+## No.  66. SATURDAY, NOVEMBER 3, 1750 
+
+      - Pauci dignoscere possunt
+ - Vera bona, atque illis multim diversa, remotâ
+ - Errois nebulâ 
+  Juvenal, X.2-4.       -  — — — How few
+ -  Know their own good; or, knowing it, pursue!
+ -  How void of reason are our hopes and fears! 
+   DRYDEN.       THE folly of human wishes and pursuits has always been a standing subject of mirth and declamation, and has been ridiculed and lamented from age to age; till perhaps the fruitless repetition of complaints and censures, may be justly numbered among the subjects of censure and complaint. 
+
+  Some of these instructors of mankind have not contented themselves with checking the overflows of passion, and lopping the exuberance of desire, but have attempted to destroy the root as well as the branches; and not only to confine the mind within bounds, but to smooth it for ever by a dead calm.  They have employed their reason and eloquence to persuade us, that nothing is worth the wish of a wise man, have represented all earthly good and evil as indifferent, and counted among vulgar errours the dread of pain, and the love of life. 
+
+  It is almost always the unhappiness of a victorious disputant, to destroy his own authority by claiming too many consequences, or diffusing his proposition to an indefensible extent.  When we have heated our zeal in a cause, and elated our confidence with success, we are naturally inclined to    pursue the same train of reasoning, to establish some collateral truth, to remove some adjacent difficulty, and to take in the whole comprehension of our system. As a prince, in the ardour of acquisition, is willing to secure his first conquest by the addition of another, add fortress to fortress, and city to city, till despair and opportunity turn his enemies upon him, and he loses in a moment the glory of a reign. 
+
+  The philosophers having found an easy victory over those desires which we produce in ourselves, and which terminate in some imaginary state of happiness unknown and unattainable, proceeded to make further inroads upon the heart, and attacked at last our senses and our instincts.  They continued to war upon nature with arms, by which only folly could be conquered; they therefore lost the trophies of their former combats, and were considered no longer with reverence or regard. 
+
+  Yet it cannot be with justice denied, that these men have been very useful monitors, and have left many proofs of strong reason, deep penetration, and accurate attention to the affairs of life, which it is now our business to separate from the foam of a boiling imagination, and to apply judiciously to our own use.  They have shewn that most of the conditions of life, which raise the envy of the timorous, and rouse the ambition of the daring, are empty shows of felicity,which, when they become familiar, lose their power of delighting; and that the most prosperous and exalted have very few advantages over a meaner and more obscure fortune, when    their dangers and solicitudes are balanced against their equipage, their banquets, and their palaces. 
+
+  It is natural for every man uninstructed to murmur at his condition, because, in the general infelicity of life, he feels his own miseries, without knowing that they are common to all the rest of the species; and therefore, though he will not be less sensible of pain by being told that others are equally tormented, he will at least be freed from the temptation of seeking, by perpetual changes, that ease which is no where to be found; and though his disease still continues, he escapes the hazard of exasperating it by remedies. 
+
+  The gratifications which affluence of wealth, extent of power, and eminence of reputation confer must be always, by their own nature, confined to a very small number; and the life of the greater part of mankind must be lost in empty wishes and painful comparisons, were not the balm of philosophy shed upon us, and our discontent at the appearances of an unequal distribution soothed and appeased. 
+
+  It seemed, perhaps, below the dignity of the great masters of moral learning, to descend to familiar life, and caution mankind against that petty ambition which is known among us by the name of Vanity; which yet had been an undertaking not unworthy of the longest beard, and most solemn austerity. For though the passions of little minds, acting in low stations, do not fill the world with bloodshed and devastations, or mark, by great    events, the periods of time, yet they torture the breast on which they seize, infest those that are placed within the reach of their influence, destroy private quiet and private virtue, and undermine insensibly the happiness of the world. 
+
+  The desire of excellence is laudable, but is very frequently ill directed.  We fall, by chance, into some class of mankind, and, without consulting nature or wisdom, resolve to gain their regard by those qualities which they happen to esteem.  I once knew a man remarkably dimsighted, who, by conversing much with country gentlemen, found himself irresistibly determined to sylvan honours.  His great ambition was to shoot flying, and he therefore spent whole days in the woods pursuing game; which, before he was near enough to see them, his approach frighted away. 
+
+  When it happens that the desire tends to objects which produce no competition, it may be overlooked with some indulgence, because, however fruitless or absurd, it cannot have ill effects upon the morals. But most of our enjoyments owe their value to the peculiarity of possession, and when they are rated at too high a value, give occasion to stratagems of malignity, and incite opposition, hatred, and defamation. The contest of two rural beauties for preference and distinction, is often sufficiently keen and rancorous to fill their breasts with all those passions, which are generally thought the curse only of senates, of armies, and of courts; and the rival dancers of an obscure assembly have their partizans and abet-   tors, often not less exasperated against each other, than those who are promoting the interests of rival monarchs. 
+
+  It is common to consider those whom we find infected with an unreasonable regard for trifling accomplishments, as chargeable with all the consequences of their folly, and as the authors of their own unhappiness: but, perhaps, those whom we thus scorn or detest, have more claim to tenderness than has been yet allowed them.  Before we permit our severity to break loose upon any fault or errour, we ought surely to consider how much we have countenanced or promoted it.  We see multitudes busy in the pursuit of riches, at the expense of wisdom and of virtue; but we see the rest of mankind approving their conduct, and inciting their eagerness, by paying that regard and deference to wealth, which wisdom and virtue only can deserve.  We see women universally jealous of the reputation of their beauty, and frequently look with contempt on the care with which they study their complexions, endeavour to preserve or to supply the bloom of youth, regulate every ornament, twist their hair into curls, and shade their faces from the weather.  We recommend the care of their nobler part, and tell them how little addition is made by all their arts to the graces of the mind.  But when was it known that female goodness or knowledge was able to attract that officiousness, or inspire that ardour, which beauty produces whenever it appears? And with what hope can we endeavour to persuade the ladies, that the    time spent at the toilet is lost in vanity, when they have every moment some new conviction, that their interest is more effectually promoted by a riband well disposed, than by the brightest act of heroick virtue? 
+
+  In every instance of vanity it will be found that the blame ought to be shared among more than it generally reaches; all who exalt trifles by immoderate praise, or instigate needless emulation by invidious incitements, are to be considered as perverters of reason, and corrupters of the world: and since every man is obliged to promote happiness and virtue, he should be careful not to mislead unwary minds, by appearing to set too high a value upon things by which no real excellence is conferred. 
+
+     
+## No. 67.  TUESDAY, NOVEMBER 6, 1750. 
+
+     Αu̓ δu̓ u̓λπi̓δες βo̓σκουσι u̓υγa̓δας, u̓ς λo̓γος,
+ Καλu̓ς βλu̓πουσιν u̓μμασι, μu̓λλουσι δu̓.
+ Euripides, *Phoenissae*, ll.396-397.
+
+    - Exiles, the proverb says, subsist on hope,
+ - Delusive hope still points to distant good,
+ - To good that mocks approach. 
+      THERE is no temper so generally indulged as hope: other passions operate by starts on particular occasions, or in certain parts of life; but hope begins with the first power of comparing our actual with our possible state, and attends us through every stage and period, always urging us forward to new acquisitions, and holding out some distant blessing to our view, promising us either relief from pain, or increase of happiness.    
+
+  Hope is necessary in every condition.  The miseries of poverty, of sickness, of captivity, would, without this comfort, be insupportable; nor does it appear that the happiest lot of terrestrial existence can set us above the want of this general blessing; or that life, when the gifts of nature and of fortune are accumulated upon it, would not still be wretched, were it not elevated and delighted by the expectation of some new possession, of some enjoyment yet behind, by which the wish shall be at last satisfied, and the heart filled up to its utmost extent. 
+
+  Hope, is indeed, very fallacious, and promises what it seldom gives; but its promises are more valuable than the gifts of fortune, and it seldom frustrates us without assuring us of recompensing the delay by a greater bounty. 
+
+  I was musing on this strange inclination which every man feels to deceive himself, and considering the advantages and dangers proceeding from this gay prospect of futurity, when, falling asleep, on a sudden I found myself placed in a garden, of which my sight could descry no limits.  Every scene above me was gay and gladsome, light with sunshine, and fragrant with perfumes; the ground was painted with all the variety of spring, and all the choir of nature was singing in the groves.  When I had recovered from the first raptures, with which the confusion of pleasure had for a time entranced me, I began to take a particular and deliberate view of this delightful region.  I then perceived that I had yet higher gratifications to expect, and that, at a    small distance from me, there were brighter flowers, clearer fountains, and more lofty groves, where the birds, which I yet heard but faintly, were exerting all the power of melody.  The trees about me were beautiful with verdure, and fragrant with blossoms; but I was tempted to leave them by the sight of ripe fruits, which seemed to hang only to be plucked. I therefore walked hastily forwards, but found, as I proceeded, that the colours of the field faded at my approach, the fruit fell before I reached it, the birds flew still singing before me, and though I pressed onward with great celerity, I was still in sight of pleasure of which I could not yet gain the possession, and which seemed to mock my diligence, and to retire as I advanced. 
+
+  Though I was confounded with so many alternations of joy and grief, I yet persisted to go forward, in hopes that these fugitive delights would in time be overtaken.  At length I saw an innumerable multitude of every age and sex, who seemed all to partake of some general felicity; for every cheek was flushed with confidence, and every eye sparkled with eagerness: yet each appeared to have some particular and secret pleasure, and very few were willing to communicate their intentions, or extend their concern beyond themselves.  Most of them seemed, by the rapidity of their motion, too busy to gratify the curiosity of a stranger, and therefore I was content for a while to gaze upon them, without interrupting them with troublesome inquiries. At last I observed one man worn with time, and    unable to struggle in the crowd; and, therefore, supposing him more at leisure, I began to accost him: but he turned from me with anger, and told me he must not be disturbed, for the great hour of projection was now come when Mercury should lose his wings, and slavery should no longer dig the mine for gold. 
+
+  I left him, and attempted another, whose softness of mien, and easy movement, gave me reason to hope for a more agreeable reception; but he told me, with a low bow, that nothing would make him more happy than an opportunity of serving me, which he could not now want, for a place which he had been twenty years soliciting would be soon vacant.  From him I had recourse to the next, who was departing in haste to take possession of the estate of an uncle, who by the course of nature could not live long.  He that followed was preparing to dive for treasure in a new-invented bell; and another was on the point of discovering the longitude. 
+
+  Being thus rejected wheresoever I applied myself for information, I began to imagine it best to desist from inquiry, and try what my own observation would discover: but seeing a young man, gay and thoughtless, I resolved upon one more experiment, and was informed that I was in the garden of Hope, and daughter of Desire, and that all those whom I saw thus tumultuously hustling round me were incited by the promises of Hope, and hastening to seize the gifts which she held in her hand. 
+
+  I turned my sight upward, and saw a goddess in    the bloom of youth sitting on a throne: around her lay all the gifts of fortune, and all the blessings of life were spread abroad to view; she had a perpetual gaiety of aspect, and every one imagined that her smile, which was impartial and general, was directed to himself, and triumphed in his own superiority to others, who had conceived the same confidence from the same mistake. 
+
+  I then mounted an eminence, from which I had a more extensive view of the whole place, and could with less perplexity consider the different conduct of the crowds that filled it.  From this station I observed, that the entrance into the garden of Hope was by two gates, one of which was kept by Reason, and the other by Fancy.  Reason was surly and scrupulous, and seldom turned the key without many interrogatories, and long hesitation; but Fancy was a kind and gentle portress, she held her gate wide open, and welcomed all equally to the district under her superintendency; so that the passage was crowded by all those who either feared the examination of Reason, or had been rejected by her. 
+
+  From the gate of Reason there was a way to the throne of Hope, by a craggy, slippery and winding path, called the *Streight of Difficulty*, which those who entered with the permission of the guard endeavoured to climb.  But though they surveyed the way very carefully before they began to rise, and marked out the several stages of their progress, they commonly found unexpected obstacles, and were obliged frequently to stop on the sudden,    where they imagined the way plain and even.  A thousand intricacies embarassed them, a thousand slips threw them back, and a thousand pitfalls impeded their advance.  So formidable were the dangers, and so frequent the miscarriages, that many returned from the first attempt, and many fainted in the midst of the way, and only a very small number were led up to the summit of Hope, by the hand of Fortitude.  Of these few the greater part, when they had obtained the gift which Hope had promised them, regretted the labour which it cost, and felt in their success the regret of disapointment; the rest retired with their prize, and were led by Wisdom to the bowers of Content. 
+
+  Turning then towards the gate of Fancy, I could find no way to the seat of Hope; but though she sat full in view, and held out her gifts with an air of invitation, which filled every heart with rapture, the mountain was, on that side, inaccessibly steep, but so channelled and shaded, that none perceived the impossibility of ascending it, but each imagined himself to have discovered a way to which the rest were strangers.  Many expedients were indeed tried by this industrious tribe, of whom some were making themselves wings, which others were contriving to actuate by the perpetual motion.  But with all their labour, and all their artifices, they never rose above the ground, or quickly fell back, nor ever approached the throne of Hope, but continued still to gaze at a distance, and laugh at the slow progress of those whom they saw toiling in the *Streight of Difficulty*.    
+
+  Part of the favourites of Fancy, when they had entered the garden, without making, like the rest, an attempt to climb the mountain, turned immediately to the vale of Idleness, a calm and undisturbed retirement, from whence they could always have Hope in prospect, and to which they pleased themselves with believing that she intended speedily to descend.  These were indeed scorned by all the rest; but they seemed very little affected by contempt, advice, or reproof, but were resolved to expect at ease the favour of the goddess. 
+
+  Among this gay race I was wandering, and found them ready to answer all my questions, and willing to communicate their mirth; but turning round, I saw two dreadful monsters entering the vale, one of whom I knew to be Age, and the other Want. Sport and revelling were now at an end, and an universal shriek of affright and distress burst out and awaked me. 
+
+     
+## No.  68.  SATURDAY, NOVEMBER 10,1750 
+
+      - Vivendum rectè, cum propter plurima,i tiunc his
+ - Praecipue causis, ut linguas mancipiorum
+ - Contemnas; nam lingua mali pars pessima servi. 
+  Juv.  ix.  118.       - Let us live well: were it alone for this
+ - The baneful tongues of servants to despise
+ - Slander, that worst of poisons, ever finds
+ - An easy entrance to ignoble minds. 
+  HERVEY.       THE younger Pliny has very justly observed, that of actions that deserve our attention, the most splendid are not always the greatest.  Fame, and wonder, and applause, are not excited but by    external and adventitious circumstances, often distinct and separate from virtue and heroism.  Eminence of station, greatness of effect, and all the favours of fortune, must concur to place excellence in publick view; but fortitude, diligence, and patience, divested of their show, glide unobserved through the crowd of life, and suffer and act, though with the same vigour and constancy, yet without pity and without praise. 
+
+  This remark may be extended to all parts of life.  Nothing is to be estimated by its effect upon common eyes and common ears.  A thousand miseries make silent and invisible inroads on mankind, and the heart feels innumerable throbs, which never break into complaint.  Perhaps, likewise, our pleasures are for the most part equally secret, and most are borne up by some private satisfaction, some internal consciousness, some latent hope, some peculiar prospect, which they never communicate, but reserve for solitary hours, and clandestine meditation. 
+
+  The main of life is, indeed, composed of small incidents and petty occurences; of wishes for objects not remote, and grief for dissapointments of no fatal consequence; of insect vexations which sting us and fly away, impertinences which buzz awhile about us, and are heard no more; of meteorous pleasures which dance before us and are dissipated; of compliments which glide off the soul like other musick, and are forgotten by him that gave, and him that received them. 
+
+  Such is the general heap out of which every man    is to cull his own condition: for, as the chemists tell us, that all bodies are resolvable into the same elements, and that the boundless variety of things arises from the different proportions of very few ingredients; so a few pains and a few pleasures are all the materials of human life, and of these the proportions are partly allotted by Providence, and partly left to the arrangement of reason and of choice. 
+
+  As these are well or ill disposed, man is for the most part happy or miserable.  For very few are involved in great events, or have their thread of life entwisted with the chain of causes on which armies or nations are suspended; and even those who seem wholly busied in publick affairs, and elevated above low cares, or trivial pleasures, pass the chief part of their time in familiar and domestick scenes; from these they came into publick life, to these they are every hour recalled by passions not to be suppressed; in these they have the reward of their toils, and to these at last they retire. 
+
+  The great end of prudence is to give cheerfulness to those hours, which splendour cannot gild, and acclamation cannot exhilarate; those soft intervals of unbended amusement, in which a man shrinks to his natural dimensions, and throws aside the ornaments or disguises, which he feels in privacy to be useless incumbrances, and to lose all effect when they became familiar.  To be happy at home is the ultimate result of all ambition, the end to which every enterprise and labour tends, and of which every desire prompts the prosecution.    
+
+  It is, indeed, at home that every man must be known by those who would make a just estimate either of his virtue or felicity; for smiles and embroidery are alike occasional, and the mind is often dressed for show in painted honour and fictitious benevolence. 
+
+  Every man must have found some whose lives, in every house but their own, was a continual series of hypocrisy, and who concealed under fair appearances bad qualities, which, whenever they thought themselves out of the reach of censure, broke out from their restraint, like winds imprisoned in their caverns, and whom every one had reason to love, but they whose love a wise man is chiefly solicitous to procure.  And there are others who, without any show of general goodness, and without the attractions by which popularity is conciliated, are received among their own families as bestowers of happiness, and reverenced as instructors, guardians, and benefactors. 
+
+  The most authentick writnessess of any man's character are those who know him in his own family, and see him without any restraint or rule of conduct, but such as he voluntarily prescribes to himself. If a man carries virtue with him into his private apartments, and takes no advantage of unlimited power or probable secrecy; if we trace him through the round of his time, and find that his character with those allowances which mortal frailty must always want, is uniform and regular, we have all the evidence of his sincerity that one man can have with    regard to another: and, indeed, as hypocrisy cannot be its own reward, we may, without hesitation, determine that his heart is pure. 
+
+  The highest panegyrick, therefore, that private virtue can receive, is the praise of servants.  For, however vanity or insolence may look down with contempt on the suffrage of men undignified by wealth, and unenlightened by education, it very seldom happens that they commend or blame without justice.  Vice and virtue are easily distinguished. Oppression, according to Harrington's aphorism, will be felt by those that cannot see it; and, perhaps, it falls out very often that, in moral questions, the philosophers in the gown, and in the livery, differ not so much in their sentiments, as in their language, and have equal power of discerning right, though they cannot point it out to others with equal address. 
+
+  There are very few faults to be committed in solitude, or without some agents, partners, confederates, or witnesses; and, therefore, the servant must commonly know the secrets of a master, who has any secrets to entrust; and failings, merely personal, are so frequently exposed by that security which pride and folly generally produce, and so inquisitively watched by that desire of reducing the inequalities of condition, which the lower orders of the world will always feel, that the testimony of a menial domestick can seldom be considered as defective for want of knowledge.  And though its impartiality may be sometimes suspected, it is at least as credi-   ble as that of equals, where rivalry instigates censure, or friendship dictates palliations. 
+
+  The danger of betraying our weakness to our servants, and the impossibility of concealing it from them, may be justly considered as one motive to a regular and irreproachable life.  For no condition is more hateful or despicable, than his who has put himself in the power of his servant; in the power of him whom, perhaps, he has first corrupted by making him subservient to his vices, and whose fidelity he therefore cannot enforce by any precepts of honesty or reason.  It is seldom known that authority thus acquired, is possessed without insolence, or that the master is not forced to confess by his tameness or forbearance, that he has enslaved himself by some foolish confidence.  And his crime is equally punished, whatever part he takes of the choice to which he is reduced; and he is from that fatal hour, in which he sacrifices his dignity to his passions, in perpetual dread of insolence or defamation; of a controuler at home, or an accuser abroad.  He is condemned to purchase, by continual bribes, that secrecy which bribes never secured, and which, after a long course of submission, promises, and anxieties, he will find violated in a fit of rage, or in a frolick of drunkenness. 
+
+  To dread no eye, and to suspect no tongue, is the great prerogative of innocence; an exemption granted only to invariable virtue.  But guilt has always its horrours and solicitudes; and to make it yet more shameful and detestable, it is doomed    often to stand in awe of those, to whom nothing could give influence or weight, but their power of betraying. 
+
+     
+## No.  69.  TUESDAY, NOVEMBER 13, 1750 
+
+      - Flet quoque, ut in speculo rugas adspexit aniles,
+ - Tyndaris; et secum, cur sit bis rapta, requirit.
+ - Tempus edax rerum, tuque invidiosa vetustas
+ - Omnia destruitis: vitiataque dentibus aevi
+ - Paulatim lentâ consumitis omnia morte. 
+  OVID.  Met.  xv.  232.       - The dreadful wrinkles when poor Helen spy'd,
+ - Ah! why this second rape? with tears she cry'd,
+ - Time, thou devourer, and thou, envious age,
+ - Who all destroy with keen corroding rage,
+ - Beneath your jaws, whate'er have pleas'd or please,
+ - Must sink, consum'd by swift or slow degrees. 
+  ELPHINSTON.       AN old Greek epigrammatist, intending to shew the miseries that attend the last stage of man, imprecates upon those who are so foolish as to wish for long life, the calamity of continuing to grow old from century to century.  He thought that no adventitious or foreign pain was requisite; that decrepitude itself was an epitome of whatever is dreadful; and nothing could be added to the curse of age, but that it should be extended beyond its natural limits. 
+
+  The most indifferent or negligent spectator can indeed scarcely retire without heaviness of heart, from a view of the last scenes of the tragedy of life, in which he finds those who, in the former parts of the drama, were distinguished by opposition of conduct, contrariety of designs, and dissimilitude of personal qualities, all involved in one common dis-   tress, and all struggling with affliction which they cannot hope to overcome. 
+
+  The other miseries, which way-lay our passage through the world, wisdom may escape, and fortitude may conquer: by caution and circumspection we may steal along with very little to obstruct or incommode us; by spirit and vigour we may force a way, and reward the vexation of contest by the pleasures of victory.  But a time must come when our policy and bravery shall be equally useless; when we shall all sink into helplessness and sadness, without any power of receiving solace from the pleasures that have formerly delighted us, or any prospect of emerging into a second possession of the blessings that we have lost. 
+
+  The industry of man has, indeed, not been wanting in endeavours to procure comforts for these hours of dejection and melancholy, and to gild the dreadful gloom with artificial light.  The most usual support of old age is wealth.  He whose possessions are large, and whose chests are full, imagines himself always fortified against invasions of his authority, If he has lost all other means of government, if his strength and his reason fail him, he can at last alter his will; and therefore all that have hopes must likewise have fears, and he may still continue to give laws to such as have not ceased to regard their own interest. 
+
+  This is, indeed, too frequently the citadel of the dotard, the last fortress to which age retires, and in which he makes the stand against the upstart race    that seizes his domains, disputes his commands, and cancels his prescriptions.  But here, though there may be safety, there is no pleasure; and what remains is but a proof that more was once possessed. 
+
+  Nothing seems to have been more universally dreaded by the ancients than orbity, or want of children; and, indeed, to a man who has survived all the companions of his youth, all who have participated his pleasures and his cares, have been engaged in the same events, and filled their minds with the same conceptions, this full-peopled world is a dismal solitude.  He stands forlorn and silent, neglected or insulted, in the midst of multitudes, animated with hopes which he cannot share, and employed in business which he is no longer able to forward or retard; nor can he find any to whom his life or his death are of importance, unless he has secured some domestick gratifications, some tender employments, and endeared himself to some whose interest and gratitude may unite them to him. 
+
+  So different are the colours of life as we look forward to the future, or backward to the past; and so different the opinions and sentiments which this contrariety of appearance naturally produces, that the conversation of the old and young ends generally with contempt or pity on either side.  To a young man entering the world with fulness of hope, and ardour of pursuit, nothing is so unpleasing as the cold caution, the faint expectations, the scrupulous diffidence, which experience and disappointments certainly infuse; and the old man wonders in his    turn that the world never can grow wiser, that neither precepts, nor testimonies, can cure boys of their credulity and sufficiency; and that not one can be convinced that snares are laid for him, till he finds himself entangled. 
+
+  Thus one generation is always the scorn and wonder of the other; and the notions of the old and young are like liquors of different gravity and texture, which never can unite.  The spirits of youth sublimed by health, and volatilized by passion, soon leave behind them the phlegmatick sediment of weariness and deliberation, and burst out in temerity and enterprise.  The tenderness, therefore, which nature infuses, and which long habits of beneficence confirm, is necessary to reconcile such opposition; and an old man must be a father to bear with patience those follies and absurdities which he will perpetually imagine himself to find in the schemes and expectations, the pleasures and the sorrows, of those who have not yet been hardened by time, and chilled by frustration. 
+
+  Yet it may be doubted, whether the pleasure of seeing children ripening into strength, be not over-balanced by the pain of seeing some fall in the blossom, and others blasted in their growth; some shaken down with storms, some tainted with cankers, and some shrivelled in the shade; and whether he that extends his care beyond himself, does not multiply his anxieties more than his pleasures, and weary himself to no purpose, by superintending what he cannot regulate.    
+
+  But though age be to every order of human beings sufficiently terrible, it is particularly to be dreaded by fine ladies, who have had no other end or ambition than to fill up the day and the night with dress, diversions, and flattery, and who, having made no acquaintance with knowledge, or with business, have constantly caught all their ideas from the current prattle of the hour, and been indebted for all their happiness to compliments and treats. With these ladies, age begins early, and very often lasts long; it begins when their beauty fades, when their mirth loses its sprightliness, and their motion its ease.  From that time all which gave them joy vanishes from about them; they hear the praises bestowed on others, which used to swell their bosoms with exultation.  They visit the seats of felicity, and endeavour to continue the habit of being delighted. But pleasure is only received when we believe that we give it in return.  Neglect and petulance inform them that their power and their value are past; and what then remains but a tedious and comfortless uniformity of time, without any motion of the heart, or exercise of the reason? 
+
+  Yet, however age may discourage us by its appearance from considering it in prospect, we shall all by degrees certainly be old; and therefore we ought to inquire what provision can be made against that time of distress? what happiness can be stored up against the winter of life? and how we may pass our latter years with serenity and cheerfulness? 
+
+  If it has been found by the experience of man-   kind, that not even the best seasons of life are able to supply sufficient gratifications, without anticipating uncertain felicities, it cannot surely be supposed that old age, worn with labours, harassed with anxieties, and tortured with diseases, should have any gladness of its own, or feel any satisfaction from the contemplation of the present.  All the comfort that can now be expected must be recalled from the past, or borrowed from the future; the past is very soon exhausted, all the events or actions which the memory can afford pleasure are quickly recollected; and the future lies beyond the grave, where it can be reached only by virtue and devotion. 
+
+  Piety is the only proper and adequate relief of decaying man.  He that grows old without religious hopes, as he declines into imbecility, and feels pains and sorrows incessantly crowding upon him, falls into a gulph of bottomless misery, in which every reflection must plunge him deeper, and where he finds only new gradations of anguish, and precipices of horrour.  
+
+     
+## No.  70.  SATURDAY, NOVEMBER 17, 1750 
+
+      -  —Argentea proles*,
+ -  Auro deterior, fulvo pretiosior aere. 
+  OVID, Met.  i.  114.       - Succeeding times a silver age behold,
+ - Excelling brass, but more excell'd by gold. 
+  DRYDEN.         HESIOD, in his celebrated distribution of mankind, divides them into three orders of intellect. "The first place," says he, "belongs to him that can by his own powers discern what is right and fit,    and penetrate to the remoter motives of action. The second is claimed by him that is willing to hear instruction, and can perceive right and wrong when they are shewn him by another; but he that has neither acuteness nor docility, who can neither find the way by himself, nor will be led by others, is a wretch without use or value." 
+
+  If we survey the moral world, it will be found, that the same division may be made of men, with regard to their virtue.  There are some whose principles are so firmly fixed, whose conviction is so constantly present to their minds, and who have raised in themselves such ardent wishes for the approbation of God, and the happiness with which he has promised to reward obedience and perseverance, that they rise above all other cares and considerations, and uniformly examine every action and desire, by comparing it with the divine commands. There are others in a kind of equipoise between good and ill; who are moved on the one part by riches or pleasure, by the gratifications of passion and the delights of sense; and, on the other, by laws of which they own the obligation, and rewards of which they believe the reality, and whom a very small addition of weight turns either way.  The third class consists of beings immersed in pleasure, or abandoned to passion, without any desire of higher good, or any effort to extend their thoughts beyond immediate and gross satisfactions. 
+
+  The second class is so much the most numerous, that it may be considered as comprising the whole    body of mankind.  Those of the last are not very many, and those of the first are very few; and neither the one nor the other fall much under the consideration of the moralists, whose precepts are intended chiefly for those who are endeavouring to go forward up the steeps of virtue, not for those who have already reached the summit, or those who are resolved to stay for ever in their present situation. 
+
+  To a man not versed in the living world, but accustomed to judge only by speculative reason, it is scarcely credible that any one should be in this state of indifference, or stand undetermined and unengaged, ready to follow the first call to either side. It seems certain, that either a man must believe that virtue will make him happy, and resolve therefore to be virtuous, or think that he may be happy without virtue, and therefore cast off all care but for his present interest.  It seems impossible that conviction should be on one side, and practice on the other; and that he who has seen the right way should voluntarily shut his eyes, that he may quit it with more tranquillity.  Yet all these absurdities are every hour to be found; the wisest and best men deviate from known and acknowledged duties, by inadvertency or surprise; and most are good no longer than while temptation is away, than while their passions are without excitements, and their opinions are free from the counteraction of any other motive. 
+
+  Among the sentiments which almost every man    changes as he advances into years, is the expectation of uniformity of character.  He that without acquaintance with the power of desire, the cogency of distress, the complications of affairs, or the force of partial influence, has filled his mind with the excellence of virtue, and, having never tried his resolution in any encounters with hope or fear, believes it able to stand firm whatever shall oppose it, will be always clamorous against the smallest failure, ready to exact the utmost punctualities of right, and to consider every man that fails in any part of his duty, as without conscience and without merit; unworthy of trust or love, of pity or regard; as an enemy whom all should join to drive out of society, as a pest which all should avoid, or as a weed which all should trample. 
+
+  It is not but by experience, that we are taught the possibility of retaining some virtues, and rejecting others, or of being good or bad to a particular degree.  For it is very easy to the solitary reasoner, to prove that the same arguments by which the mind is fortified against one crime are of equal force against all, and the consequence very naturally follows, that he whom they fail to move on any occasion, has either never considered them, or has by some fallacy taught himself to evade their validity; and that, therefore, when a man is known to be guilty of one crime, no farther evidence is needful of his depravity and corruption. 
+
+  Yet such is the state of all mortal virtue, that it is always uncertain and variable, sometimes extend-   ing to the whole compass of duty, and sometimes shrinking into a narrow space, and fortifying only a few avenues of the heart, while all the rest is left open to the incursions of appetite, or given up to the dominion of wickedness.  Nothing therefore is more unjust than to judge of man by too short an acquaintance, and too slight inspection; for it often happens, that in the loose, and thoughtless, and dissipated, there is a secret radical worth, which may shoot out by proper cultivation; that the spark of heaven, though dimmed and obstructed, is yet not extinguished, but may, by the breath of counsel and exhortation, be kindled into flame. 
+
+  To imagine that every one who is not completely good is irrecoverably abandoned, is to suppose that all are capable of the same degree of excellence; it is indeed to exact from all that perfection which none ever can attain.  And since the purest virtue is consistent with some vice, and the virtue of the greatest number with almost an equal proportion of contrary qualities, let none too hastily conclude, that all goodness is lost, though it may for a time be clouded and overwhelmed; for most minds are the slaves of external circumstances, and conform to any hand that undertakes to mould them, roll down any torrent of custom in which they happen to be caught, or bend to any importunity that bears hard against them. 
+
+  It may be particularly observed of women, that they are for the most part good or bad, as they fall among those who practise vice or virtue; and that    neither education nor reason gives them much security against the influence of example.  Whether it be that they have less courage to stand against opposition, or that their desire of admiration makes them sacrifice their principles to the poor pleasure of worthless praise, it is certain, whatever be the cause, that female goodness seldom keeps its ground against laughter, flattery, or fashion. 
+
+  For this reason, every one should consider himself as entrusted, not only with his own conduct, but with that of others; and as accountable, not only for the duties which he neglects, or the crimes that he commits, but for that negligence and irregularity which he may encourage or inculcate.  Every man, in whatever station, has, or endeavours to have, his followers, admirers, and imitators, and has therefore the influence of his example to watch with care; he ought to avoid not only crimes, but the appearance of crimes, and not only to practise virtue, but to applaud, countenance, and support it.  For it is possible that for want of attention, we may teach others faults from which ourselves are free, or by a cowardly desertion of a cause which we ourselves approve, may pervert those who fix their eyes upon us, and having no rule of their own to guide their course, are easily misled by the aberrations of that example which they choose for their direction. 
+
+      
+## No. 71.  TUESDAY, NOVEMBER 20, 1750 
+
+      - Vivere quod propero pauper, nee inutilis annul;
+ - Da veniazn: Sproperat vivere ne1no sa~.  
+   MART.  Lib.  ii.  Ep.  xc.  4.      - True, sir, to live I haste, your pardon give,
+ - For tell me, who makes haste enough to live? 
+  F. LEWIS.       MANY words and sentences are so frequently heard in the mouths of men, that a superficial observer is inclined to believe, that they must contain some primary principle, some great rule of action, which it is proper always to have present to the attention, and by which the use of every hour is to be adjusted.  Yet, if we consider the conduct of those sententious philosophers, it will often be found, that they repeat these aphorisms, merely because they have somewhere heard them, because they have nothing else to say, or because they think veneration gained by such appearances of wisdom, but that no ideas are annexed to the words, and that, according to the old blunder of the followers of Aristotle, their souls are mere pipes or organs, which transmit sounds, but do not understand them. 
+
+  Of this kind is the well-known and well-attested position, that *life is short*, which may be heard among mankind by an attentive auditor, many times a day, but which never yet within my reach of observation left any impression upon the mind; and perhaps, if my readers will turn their thoughts back upon their old friends, they will find it difficult to call a single man to remembrance, who appeared    to know that life was short till he was about to lose it. 
+
+  It is observable that Horace, in his account of the characters of men, as they are diversified by the various influence of time, remarks, that the old man is *dilator, spe longus*, given to procrastination, and inclined to extend his hopes to a great distance.  So far are we generally from thinking what we often say of the shortness of life, that at the time when it is necessarily shortest, we form projects which we delay to execute, indulge such expectations as nothing but a long train of events can gratify, and suffer those passions to gain upon us, which are only excusable in the prime of life. 
+
+  These reflections were lately excited in my mind, by an evening's conversation with my friend Prospero, who, at the age of fifty-five, has bought an estate, and is now contriving to dispose and cultivate it with uncommon elegance.  His great pleasure is to walk among stately trees, and lie musing in the heat of noon under their shade; he is therefore maturely considering how he shall dispose his walks and his groves, and has at last determined to send for the best plans from Italy, and forbear planting till the next season. 
+
+  Thus is life trifled away in preparations to do what never can be done, if it be left unattempted till all the requisites which imagination can suggest are gathered together.  Where our design terminates only in our own satisfaction, the mistake is of no great importance; for the pleasure of expecting    enjoyment is often greater than that of obtaining it, and the completion of almost every wish is found a disappointment; but when many others are interested in an undertaking, when any design is formed, in which the improvement or security of mankind is involved, nothing is more unworthy either of wisdom or benevolence, than to delay it from time to time, or to forget how much every day that passes over us takes away from our power, and how soon an idle purpose to do an action, sinks into a mournful wish that it had once been done. 
+
+  We are frequently importuned, by the bacchanalian writers, to lay hold on the present hour, to catch the pleasures within our reach, and remember that futurity is not at our command. 
+
+   - Τo̓ u̓o̓δον a̓κμa̓ζει βαιo̓ν χρo̓νον e̓ν δu̓ παρu̓λθu̓,
+ - Ζητu̓ν εu̓ρu̓σεις οu̓ u̓o̓δον, a̓λλa̓ βa̓τον.
+    - Soon fades the rose; once past the fragrant hour
+ - The loiterer finds a bramble for a flow'r. 
+    But surely these exhortations may, with equal propriety, be applied to better purposes; it may be at least inculcated that pleasures are more safely postponed than virtues, and that greater loss is suffered by missing an opportunity of doing good, than an hour of giddy frolick and noisy merriment. 
+
+  When Baxter had lost a thousand pounds, which he had laid up for the erection of a school, he used frequently to mention the misfortune as an incitement to be charitable while God gives the power of bestowing, and considered himself as culpable in    some degree for having left a good action in the hands of chance, and suffered his benevolence to be defeated for want of quickness and diligence. 
+
+  It is lamented by Hearne, the learned antiquary of Oxford, that this general forgetfulness of the fragility of life, has remarkably infected the students of monuments and records; as their employment consists first in collecting, and afterwards in arranging or abstracting what libraries afford them, they ought to amass no more than they can digest; but when they have undertaken a work, they go on searching and transcribing. call for new supplies, when they are already overburthened, and at last leave their work unfinished. *It is, says he, the business of a good antiquary, as of a good man, to have mortality always before him*. 
+
+  Thus, not only in the slumber of sloth, but in the dissipation of ill-directed industry, is the shortness of life generally forgotten.  As some men lose their hours in laziness, because they suppose, that there is time enough for the reparation of neglect; others busy themselves in providing that no length of life may want employment; and it often happens, that sluggishness and activity are equally surprised by the last summons, and perish not more differently from each other, than the fowl that received the shot in her flight, from her that is killed upon the bush. 
+
+  Among the many improvments made by the last centuries in human knowledge, may be numbered the exact calculations of the value of life; but whatever may be their use in traffick, they seem very    little to have advanced morality.  They have hitherto been rather applied to the acquisition of money, than of wisdom; the computer refers none of his calculations to his own tenure, but persists, in contempt of probability, to foretel old age to himself, and believes that he is marked out to reach the utmost verge of human existence, and see thousands and ten thousands fall into the grave. 
+
+  So deeply is this fallacy rooted in the heart, and so strongly guarded by hope and fear against the approach of reason, that neither science nor experience can shake it, and we act as if life were without end, though we see and confess its uncertainty and shortness. 
+
+  Divines have, with great strength and ardour, shewn the absurdity of delaying reformation and repentance; a degree of folly, indeed, which sets eternity to hazard.  It is the same weakness, in proportion to the importance of the neglect, to transfer any care, which now claims our attention, to a future time; we subject ourselves to needless dangers from accidents which early diligence would have obviated, or perplex our minds by vain precautions, and make provision for the execution of designs, of which the opportunity once missed never will return. 
+
+  As he that lives longest lives but a little while, every man may be certain that he has no time to waste.  The duties of life are commensurate to its duration, and every day brings its task, which if neglected is doubled on the morrow.  But he that has already trifled away those months and years, in    which he should have laboured, must remember that he has now only a part of that of which the whole is little; and that since the few moments remaining are to be considered as the last trust of heaven, not one is to be lost. 
+
+     
+## No. 72.  SATURDAY, NOVEMBER 24, 1750 
+
+      - Omnis Aristippum decuit status, et color, et res,
+ - Sectantem majora fere; presntibus aequum. 
+  HOR.  Lib.  i.  Ep.  xvii.  23.       - Yet Aristippus ev'ry dress became,
+ - In ev'ry various change of life the same;
+ - And though he aim'd at things of higher kind,
+ - Yet to the present held an equal mind. 
+  FRANCIS.       TO THE RAMBLER.
+  SIR,     THOSE who exalt themselves into the chair of instruction, without inquiring whether any will submit to their authority, have not sufficiently considered how much of human life passes in little incidents, cursory conversation, slight business, and casual amusements; and therefore they have endeavoured only to inculcate the more awful virtues, without condescending to regard those petty qualities, which grow important only by their frequency, and which, though they produce no single acts of heroism, nor astonish us by great events, yet are every moment exerting their influence upon us, and make the draught of life sweet or bitter by imperceptible instillations.  They operate unseen and unregarded, as change of air makes us sick or healthy, though we breathe it without attention, and only know the    particles that impregnate it by their salutary or malignant effects. 
+
+  You have shewn yourself not ignorant of the value of those subaltern endowments, yet have hitherto neglected to recommend good-humour to the world, though a little reflection will shew you that it is the *balm of being*, the quality to which all that adorns or elevates mankind must owe its power of pleasing. Without good-humour, learning and bravery can only confer that superiority which swells the heart of the lion in the desert, where he roars without reply, and ravages without resistance.  Without good-humour, virtue may awe by its dignity, and amaze by its brightness; but must always be viewed at a distance, and will scarcely gain a friend or attract an imitator. 
+
+  Good-humour may be defined a habit of being pleased; a constant and perennial softness of manner, easiness of approach, and suavity of disposition; like that which every man perceives in himself, when the first transports of new felicity have subsided, and his thoughts are only kept in motion by a slow succession of soft impulses.  Good humour is a state between gaiety and unconcern; the act or emanation of a mind at leisure to regard the gratification of another. 
+
+  It is imagined by many, that whenever they aspire to please, they are required to be merry, and to shew the gladness of their souls by flights of pleasantry, and bursts of laughter.  But though these men may be for a time heard with applause and    admiration, they seldom delight us long.  We enjoy them a little, and then retire to easiness and good-humour, as the eye gazes awhile on eminences glittering with the sun, but soon turns aching away to verdure and to flowers. 
+
+  Gaiety is to good-humour as animal perfumes to vegetable fragrance; the one overpowers weak spirits, and the other recreates and revives them.  Gaiety seldom fails to give some pain; the hearers either strain their faculties to accompany its towerings, or are left behind in envy and despair.  Good-humour boasts no faculties which every one does not believe in his own power, and pleases principally by not offending. 
+
+  It is well known that the most certain way to give any man pleasure, is to persuade him that you receive pleasure from him, to encourage him to freedom and confidence, and to avoid any such appearance of superiority as may overbear and depress him.  We see many that by this art only spend their days in the midst of caresses, invitations, and civilities; and without any extraordinary qualities or attainments, are the universal favourites of both sexes, and certainly find a friend in every place.  The darlings of the world will, indeed, be generally found such as excite neither jealousy nor fear, and are not considered as candidates for any eminent degree of reputation, but content themselves with common accomplishments, and endeavour rather to solicit kindness than to raise esteem; therefore in assemblies and places of resort it seldom fails to happen,    that though at the entrance of some particular person every face brightens with gladness, and every hand is extended in salutation, yet if you pursue him beyond the first exchange of civilities, you will find him of very small importance, and only welcome to the company, as one by whom all conceive themselves admired, and with whom any one is at liberty to amuse himself when he can find no other auditor or companion; as one with whom all are at ease, who will hear a jest without criticism, and a narrative without contradiction, who laughs with every wit, and yields to every disputer. 
+
+  There are many whose vanity always inclines them to associate with those from whom they have no reason to fear mortification; and there are times in which the wise and the knowing are willing to receive praise without the labour of deserving it, in which the most elevated mind is willing to descend, and the most active to be at rest.  All therefore are at some hour or another fond of companions whom they can entertain upon easy terms, and who will relieve them from solitude, without condemning them to vigilance and caution.  We are most inclined to love when we have nothing to fear, and he that encourages us to please ourselves, will not be long without preference in our affection to those whose learning holds us at the distance of pupils, or whose wit calls all attention from us, and leaves us without importance, and without regard. 
+
+  It is remarked by prince Henry, when he sees Falstaff lying on the ground, that *he could have    better spared a better man*.  He was well acquainted with the vices and follies of him whom he lamented, but while his conviction compelled him to do justice to superior qualities, his tenderness still broke out at the remembrance of Falstaff, of the cheerful companion, the loud buffoon, with whom he had passed his time in all the luxury of idleness, who had gladded him with unenvied merriment, and whom he could at once enjoy and despise. 
+
+  You may perhaps think this account of those who are distinguished for their good-humour, not very consistent with the praises which I have bestowed upon it.  But surely nothing can more evidently shew the value of this quality, than that it recommends those who are destitute of all other excellencies, and procures regard to the trifling, friendship to the worthless, and affection to the dull. 
+
+  Good-humour is indeed generally degraded by the characters in which it is found; for, being considered as a cheap and vulgar quality, we find it often neglected by those that, having excellencies of higher reputation and brighter splendour, perhaps imagine that they have some right to gratify themselves at the expense of others, and are to demand compliance, rather than to practise it.  It is by some unfortunate mistake that almost all those who have any claim to esteem or love, press their pretensions with too little consideration of others.  This mistake, my own interest, as well as my zeal for general happiness, makes me desirous to rectify; for I have a friend, who, because he knows his own fidelity    and usefulness, is never willing to sink into a companion: I have a wife whose beauty first subdued me, and whose wit confirmed her conquest, but whose beauty now serves no other purpose than to entitle her to tyranny, and whose wit is only used to justify perverseness. 
+
+  Surely nothing can be more unreasonable than to lose the will to please, when we are conscious of the power, or show more cruelty than to chuse any kind of influence before that of kindness.  He that regards the welfare of others, should make his virtue approachable, that it may be loved and copied; and he that considers the wants which every man feels, or will feel, of external assistance, must rather wish to be surrounded by those that love him, than by those that admire his excellencies, or solicit his favours; for admiration ceases with novelty, and interest gains its end and retires.  A man whose great qualities want the ornament of superficial attractions, is like a naked mountain with mines of gold, which will be frequented only till the treasure is exhausted.  
+
+  I am, &c.
+  PHILOMIDES.             
+## No. 73.  TUESDAY, NOVEMBER 27,1750 
+
+      - Stulte quid heu votis frustra puerilibus optas
+ - Quae non ulla tulit,fertve, fertve dies. 
+  OVID, Trist.  Lib.  iii.  El.viii.  11.       - Why thinks the fool with childish hope to see
+ - What neither is, nor was, nor e'er shall be! 
+  ELPHINSTON.       TO THE RAMBLER.
+  SIR,     IF you feel any of that compassion which you recommend to others, you will not disregard a case which I have reason from observation to believe very common, and which I know by experience to be very miserable.  And though the querulous are seldom received with great ardour of kindness, I hope to escape the mortification of finding that my lamentations spread the contagion of impatience, and produce anger rather than tenderness.  I write not merely to vent the swelling of my heart, but to inquire by what means I may recover my tranquillity; and shall endeavour at brevity in my narrative, having long known that complaint quickly tires, however elegant, or however just. 
+
+  I was born in a remote county, of a family that boasts alliances with the greatest names in English history, and extends its claims of affinity to the Tudors and Plantagenets.  My ancestors, by little and little, wasted their patrimony, till my father had not enough left for the support of a family, without descending to the cultivation of his own grounds, being condemned to pay three sisters the fortunes    allotted them by my grandfather, who is suspected to have made his will when he was incapable of adjusting properly the claims of his children, and who, perhaps without design, enriched his daughters by beggaring his son.  My aunts being, at the death of their father, neither young nor beautiful, nor very eminent for softness of behaviour, were suffered to live unsolicited, and by accumulating the interest of their portions grew every day richer and prouder.  My father pleased himself with foreseeing that the possessions of those ladies must revert at last to the hereditary estate, and that his family might lose none of its dignity, resolved to keep me untainted with a lucrative employment; whenever therefore I discovered any inclination to the improvement of my condition, my mother never failed to put me in mind of my birth, and charged me to do nothing with which I might be reproached when I should come to my aunts' estate. 
+
+  In all the perplexities or vexations which want of money brought upon us, it was our constant practice to have recourse to futurity.  If any of our neighbours surpassed us in appearance, we went home and contrived an equipage, with which the death of my aunts was to supply us.  If any purse-proud upstart was deficient in respect, vengeance was referred to the time in which our estate was to be repaired. We registered every act of civility and rudeness, inquired the number of dishes at every feast, and minuted the furniture of every house, that we might, when the hour of affluence should come, be able    to eclipse all their splendour, and surpass all their magnificence. 
+
+  Upon plans of elegance and schemes of pleasure the day rose and set, and the year went round unregarded, while we were busied in laying out plantations on ground not yet our own, and deliberating whether the manor-house should be rebuilt or repaired. This was the amusement of our leisure, and the solace of our exigencies; we met together only to contrive how our approaching fortune should be enjoyed; for in this our conversation always ended, on whatever subject it began.  We had none of the collateral interests which diversify the life of others with joys and hopes, but had turned our whole attention on one event, which we could neither hasten nor retard, and had no other object of curiosity than the health or sickness of my aunts, of which we were careful to procure very exact and early intelligence. 
+
+  This visionary opulence for a while soothed our imagination, but afterwards fired our wishes, and exasperated our necessities, and my father could not always restrain himself from exclaiming, that *no creature had so many lives as a cat and an old maid*.  At last, upon the recovery of his sister from an ague, which she was supposed to have caught by sparing fire, he began to lose his stomach, and four months afterwards sunk into his grave. 
+
+  My mother, who loved her husband, survived him but a little while, and left me the sole heir of their lands, their schemes, and their wishes.  As I    had not enlarged my conceptions either by books or conversation, I differed only from my father by the freshness of my cheeks, and the vigour of my step; and, like him, gave way to no thoughts but of enjoying the wealth which my aunts were hoarding. 
+
+  At length the eldest fell ill.  I paid the civilities and compliments which sickness requires with the utmost punctuality.  I dreamed every night of escutcheons and white gloves, and inquired every morning at an early hour, whether there were any news of my dear aunt.  At last a messenger was sent to inform me that I must come to her without the delay of a moment.  I went and heard her last advice, but opening her will, found that she had left her fortune to her second sister. 
+
+  I hung my head; the youngest sister threatened to be married, and every thing was disappointment and discontent.  I was in danger of losing irreparably one third of my hopes, and was condemned still to wait for the rest.  Of part of my terror I was soon eased; for the youth whom his relations would have compelled to marry the old lady, after innumerable stipulations, articles, and settlements, ran away with the daughter of his father's groom; and my aunt, upon this conviction of the perfidy of man, resolved never to listen more to amorous addresses. 
+
+  Ten years longer I dragged the shackles of expectation, without ever suffering a day to pass, in which I did not compute how much my chance was improved of being rich to-morrow.  At last the second lady died, after a short illness, which yet    was long enough to afford her time for the disposal of her estate, which she gave to me after the death of her sister. 
+
+  I was now relieved from part of my misery; a larger fortune, though not in my power, was certain and unalienable; nor was there now any danger, that I might at last be frustrated of my hopes by a fret of dotage, the flatteries of a chambermaid, the whispers of a tale-bearer, or the officiousness of a nurse.  But my wealth was yet in reversion, my aunt was to be buried before I could emerge to grandeur and pleasure; and there were yet, according to my father's observation, nine lives between me and happiness. 
+
+  I however lived on, without any clamours of discontent, and comforted myself with considering, that all are mortal, and they who are continually decaying must at last be destroyed. 
+
+  But let no man from this time suffer his felicity to depend on the death of his aunt.  The good gentlewoman was very regular in her hours, and simple in her diet, and in walking or sitting still, walking or sleeping, had always in view the preservation of her health.  She was subject to no disorder but hypochondriac dejection; by which, without intention, she increased my miseries, for whenever the weather was cloudy, she would take her bed and send me notice that her time was come.  I went with all the haste of eagerness, and sometimes received passionate injunctions to be kind to her maid, and directions how the last offices should be performed; but    if before my arrival the sun happened to break out, or the wind to change, I met her at the door, or found her in the garden, bustling and vigilant, with all the tokens of long life. 
+
+  Sometimes, however, she fell into distempers, and was thrice given over by the doctor, yet she found means of slipping through the gripe of death, and after having tortured me three months at each time with violent alternations of hope and fear, came out of her chamber without any other hurt than the loss of flesh, which in a few weeks she recovered by broths and jellies. 
+
+  As most have sagacity sufficient to guess at the desires of an heir, it was the constant practice of those who were hoping at second hand, and endeavoured to secure my favour against the time when I should be rich, to pay their court, by informing me that my aunt began to droop, that she had lately a bad night, that she coughed feebly, and that she could never climb May-hill; or, at least, that the autumn would carry her off.  Thus was I flattered in the winter with the piercing winds of March, and in summer, with the fogs of September. But she lived through spring and fall, and set heat and cold at defiance, till, after near half a century, I buried her on the fourteenth of last June, aged ninety-three years, five months, and six days. 
+
+  For two months after her death I was rich, and was pleased with that obsequiousness and reverence which wealth instantaneously procures.  But this joy is now past, and I have returned again to my old    habit of wishing.  Being accustomed to give the future full power over my mind, and to start away from the scene before me to some expected enjoyment, I deliver up myself to the tyranny of every desire which fancy suggests, and long for a thousand things which I am unable to procure.  Money has much less power than is ascribed to it by those that want it.  I had formed schemes which I cannot execute, I had supposed events which do not come to pass, and the rest of my life must pass in craving solicitude, unless you can find some remedy for a mind, corrupted with an inveterate disease of wishing, and unable to think on any thing but wants, which reason tells me will never be supplied. 
+
+  I am, &c.
+  CUPIDUS.        
+## No. 74. SATURDAY, DECEMBER 1, 1750 
+
+    Rixatur de lanâ sœpe caprina. 
+
+  HOR.  Lib. i. Ep. xvii. 15.   For nought tormented, she for nought torments. 
+
+  ELPHINSTON.     MEN seldom give pleasure, where they are not pleased themselves; it is necessary, therefore, to cultivate an habitual alacrity and cheerfulness, that in whatever state we may be placed by Providence, whether we are appointed to confer or receive benefits, to implore or to afford protection, we may secure the love of those with whom we transact.  For though it is generally imagined, that he who grants favours, may spare any attention to his behaviour, and that usefulness will always pro-   cure friends; yet it has been found, that there is an art of granting requests, an art very difficult of attainment; that officiousness and liberality may be so adulterated, as to lose the greater part of their effect; that compliance may provoke, relief may harass, and liberality distress. 
+
+  No disease of the mind can more fatally disable it from benevolence, the chief duty of social beings, than ill-humour or peevishness; for though it breaks not out in paroxysms of outrage, nor bursts into clamour, turbulence, and bloodshed, it wears out happiness by slow corrosion, and small injuries incessantly repeated.  It may be considered as the canker of life, that destroys its vigour, and checks its improvement, that creeps on with hourly depredations, and taints and vitiates what it cannot consume. 
+
+  Peevishness, when it has been so far indulged, as to outrun the motions of the will, and discover itself without premeditation, is a species of depravity in the highest degree disgusting and offensive, because no rectitude of intention, nor softness of address, can ensure a moment's exemption from affront and indignity.  While we are courting the favour of a peevish man, and exerting ourselves in the most diligent civility, an unlucky syllable displeases, an unheeded circumstance ruffles and exasperates; and in the moment when we congratulate ourselves upon having gained a friend, our endeavours are frustrated at once, and all our assiduity forgotten, in the casual tumult of some trifling irritation.    
+
+  This troublesome impatience is sometimes nothing more than the symptom of some deeper malady. He that is angry without daring to confess his resentment, or sorrowful without the liberty of telling his grief; is too frequently inclined to give vent to the fermentations of his mind at the first passages that are opened, and to let his passions boil over upon those whom accident throws in his way. A painful and tedious course of sickness frequently produces such an alarming apprehension of the least increase of uneasiness, as keeps the soul perpetually on the watch, such a restless and incessant solicitude, as no care or tenderness can appease, and can only be pacified by the cure of the distemper, and the removal of that pain by which it is excited. 
+
+  Nearly approaching to this weakness, is the captiousness of old age.  When the strength is crushed, the senses dulled, and the common pleasures of life become insipid by repetition, we are willing to impute our uneasiness to causes not wholly out of our power, and please ourselves with fancying that we suffer by neglect, unkindness, or any evil which admits a remedy, rather than by the decays of nature, which cannot be prevented or repaired.  We therefore revenge our pains upon those on whom we resolve to charge them; and too often drive mankind away at the time we have the greatest need of tenderness and assistance. 
+
+  But though peevishness may sometimes claim our compassion, as the consequence or concomitant of misery, it is very often found, where nothing can    justify or excuse its admission.  It is frequently one of the attendants on the prosperous, and is employed by insolence in exacting homage, or by tyranny in harassing subjection.  It is the offspring of idleness or pride; of idleness anxious for trifles; or pride unwilling to endure the least obstruction of her wishes.  Those who have long lived in solitude indeed naturally contract this unsocial quality, because, having long had only themselves to please, they do not readily depart from their own inclinations; their singularities therefore are only blameable, when they have imprudently or morosely withdrawn themselves from the world; but there are others, who have, without any necessity, nursed up this habit in their minds, by making implicit submissiveness the condition of their favour, and suffering none to approach them, but those who never speak but to applaud, or move but to obey. 
+
+  He that gives himself up to his own fancy, and converses with none but such as he hires to lull him on the down of absolute authority, to sooth him with obsequiousness, and regale him with flattery, soon grows too slothful for the labour of contest, too tender for the asperity of contradiction, and too delicate for the coarseness of truth; a little opposition offends, a little restraint enrages, and a little difficulty perplexes him; having been accustomed to see every thing give way to his humour, he soon forgets his own littleness, and expects to find the world rolling at his beck, and all mankind employed to accommodate and delight him.    
+
+  Tetrica had a large fortune bequeathed to her by an aunt, which made her very early independent, and placed her in a state of superiority to all about her.  Having no superfluity of understanding, she was soon intoxicated by the flatteries of her maid, who informed her that ladies, such as she, had nothing to do but take pleasure their own way; that she wanted nothing from others, and had therefore no reason to value their opinion; that money was every thing and that they who thought themselves ill-treated, should look for better usage among their equals. 
+
+  Warm with these generous sentiments, Tetrica came forth into the world, in which she endeavoured to force respect by haughtiness of mien and vehemence of language; but having neither birth, beauty, nor wit, in any uncommon degree, she suffered such mortifications from those who thought themselves at liberty to return her insults, as reduced her turbulence to cooler malignity, and taught her to practise her arts of vexation only where she might hope to tyrannize without resistance. She continued from her twentieth to her fifty-fifth year to torment all her inferiors with so much diligence, that she has formed a principle of disapprobation, and finds in every place something to grate her mind, and disturb her quiet. 
+
+  If she takes the air, she is offended with the heat or cold, the glare of the sun, or the gloom of the clouds; if she makes a visit, the room in which she is to be received is too light, or too dark, or furnished    with something which she cannot see without aversion. Her tea is never of the right sort; the figures on the China give her disgust.  Where there are children, she hates the gabble of brats; where there are none, she cannot bear a place without some cheerfulness and rattle.  If many servants are kept in a house, she never fails to tell how lord Lavish was ruined by a numerous retinue; if few, she relates the story of a miser that made his company wait on themselves.  She quarrelled with one family, because she had an unpleasant view from their windows; with another, because the squirrel leaped within two yards of her; and with a third, because she could not bear the noise of the parrot. 
+
+  Of milliners and mantua-makers she is the proverbial torment.  She compels them to alter their work, then to unmake it, and contrive it after another fashion; then changes her mind, and likes it better as it was at first; then will have a small improvement. Thus she proceeds till no profit can recompense the vexation; they at last leave the clothes at her house, and refuse to serve her.  Her maid, the only being who can endure her tyranny, professes to take her own course, and hear her mistress talk.  Such is the consequence of peevishness; it can be borne only when it is despised. 
+
+  It sometimes happens that too close an attention to minute exactness, or a too rigorous habit of examining every thing by the standard of perfection, vitiates the temper, rather than improves the understanding, and teaches the mind to discern faults    with unhapyy{sic} penetration.  It is incident likewise to men of vigorous imagination to please themselves too much with futurities, and to fret because those expectations are disappointed, which should never have been formed.  Knowledge and genius are often enemies to quiet, by suggesting ideas of excellence, which men and the performances of men cannot attain.  But let no man rashly determine, that his unwillingness to be pleased is a proof of understanding, unless his superiority appears from less doubtful evidence; for though peevishness may sometimes justly boast its descent from learning or from wit, it is much oftener of a base extraction, the child of vanity and nursling of ignorance. 
+
+     
+## No. 75. TUESDAY, DECEMBER 4, 1750 
+
+      - Diligitur nemo, nisi cui Fortuna secunda est.
+ - Quæ, simul intonuit, proxima quæque fugat. 
+ OVID. Ex Ponto. Lib. ii. Ep. iii. 23.        - When smiling Fortune spreads her golden ray,
+ - All crowd around to flatter and obey:
+ - But when she thunders from an angry sky,
+ - Our friends, our flatterers, our lovers fly.
+ - Miss A.  W.[^JohRamb.4] 
+       [^JohRamb.4]: [s] Anna Williams, of whom an account is given in the Life of Dr. Johnson, prefixed to this edition. 
+
+  TO THE RAMBLER.
+ SIR,
+
+   THE diligence with which you endeavour to cultivate the knowledge of nature, manners, and life, will perhaps incline you to pay some regard to the observations of one who has been taught to know mankind by unwelcome information, and    whose opinions are the result, not of solitary conjectures, but of practice and experience. 
+
+  I was born to a large fortune, and bred to the knowledge of those arts which are supposed to accomplish the mind, and adorn the person of a woman.  To these attainments, which custom and education almost forced upon me, I added some voluntary acquisitions by the use of books, and the conversation of that species of men whom the ladies generally mention with terrour and aversion under the name of scholars, but whom I have found a harmless and inoffensive order of beings, not so much wiser than ourselves, but that they may receive as well as communicate knowledge, and more inclined to degrade their own character by cowardly submission, than to overbear or oppress us with their learning or their wit. 
+
+  From these men, however, if they are by kind treatment encouraged to talk, something may be gained, which, embellished with elegancy, and softened by modesty, will always add dignity and value to female conversation; and from my acquaintance with the bookish part of the world I derived many principles of judgment and maxims of prudence, by which I was enabled to draw upon myself the general regard in every place of concourse or pleasure. My opinion was the great rule of approbation, my remarks were remembered by those who desired the second degree of fame, my mien was studied, my dress was imitated, my letters were handed from one family to another, and read by those who copied    them as sent to themselves; my visits were solicited as honours, and multitudes boasted of an intimacy with Melissa, who had only seen me by accident, and whose familiarity had never proceeded beyond the exchange of a compliment, or return of a courtesy. 
+
+  I shall make no scruple of confessing that I was pleased with this universal veneration, because I always considered it as paid to my intrinsick qualities and inseparable merit, and very easily persuaded myself that fortune had no part in my superiority. When I looked upon my glass, I saw youth and beauty, with health that might give me reason to hope their continuance; when I examined my mind, I found some strength of judgment, and fertility of fancy; and was told that every action was grace, and that every accent was persuasion. 
+
+  In this manner my life passed like a continual triumph amidst acclamations, and envy, and courtship, and caresses: to please Melissa was the general ambition, and every stratagem of artful flattery was practised upon me.  To be flattered is grateful, even when we know that our praises are not believed by those who pronounce them; for they prove, at least, our power, and shew that our favour is valued, since it is purchased by the meanness of falsehood. But, perhaps, the flatterer is not often detected, for an honest mind is not apt to suspect, and no one exerts the power of discernment with much vigour when self-love favours the deceit. 
+
+  The number of adorers, and the perpetual dis-   traction of my thoughts by new schemes of pleasure, prevented me from listening to any of those who crowd in multitudes to give girls advice, and keep me unmarried and unengaged to my twenty-seventh year, when, as I was towering in all the pride of uncontested excellency, with a face yet little impaired, and a mind hourly improving, the failure of a fund, in which my money was placed, reduced me to a frugal competency, which allowed little beyond neatness and independence. 
+
+  I bore the diminution of my riches without any outrages of sorrow, or pusillanimity of dejection. Indeed I did not know how much I had lost, for; having always heard and thought more of my wit and beauty, than of my fortune, it did not suddenly enter my imagination, that Melissa could sink beneath her established rank, while her form and her mind continued the same; that she could cease to raise admiration but by ceasing to deserve it, or feel any stroke but from the hand of time. 
+
+  It was in my power to have concealed the loss, and to have married, by continuing the same appearance, with all the credit of my original fortune; but I was not so far sunk in my own esteem, as to submit to the baseness of fraud, or to desire any other recommendation than sense and virtue.  I therefore dismissed my equipage, sold those ornaments which were become unsuitable to my new condition, and appeared among those with whom I used to converse with less glitter, but with equal spirit. 
+
+  I found myself received at every visit, with sor-   row beyond what is naturally felt for calamities in which we have no part, and was entertained with condolence and consolation so frequently repeated, that my friends plainly consulted rather their own gratification, than my relief. Some from that time refused my acquaintance, and forbore, without any provocation, to repay my visits; some visited me, but after a longer interval than usual, and every return was still with more delay, nor did any of my female acquaintances fail to introduce the mention of my misfortunes, to compare my present and former condition, to tell me how much it must trouble me to want the splendour which I became so well, to look at pleasures which I had formerly enjoyed, and to sink to a level with those by whom I had been considered as moving in a higher sphere, and who had hitherto approached me with reverence and submission, which I was now no longer to expect. 
+
+  Observations like these, are commonly nothing better than covert insults, which serve to give vent to the flatulence of pride, but they are now and then imprudently uttered by honesty and benevolence, and inflict pain where kindness is intended, I will, therefore, so far maintain my antiquated claim to politeness, as to venture the establishment of this rule, that no one ought to remind another of misfortunes of which the sufferer does not complain, and which there are no means proposed of alleviating.  You have no right to excite thoughts which necessarily give pain whenever they return,    and which perhaps might not have revived but by absurd and unseasonable compassion. 
+
+  My endless train of lovers immediately withdrew, without raising any emotions.  The greater part had indeed always professed to court, as it is termed, upon the square, had inquired my fortune, and offered settlements; these had undoubtedly a right to retire without censure, since they had openly treated for money, as necessary to their happiness, and who can tell how little they wanted any other portion? I have always thought the clamours of women unreasonable, who imagine themselves injured because the men who followed them upon the supposition of a greater fortune, reject them when they are discovered to have less.  I have never known any lady, who did not think wealth a title to some stipulations in her favour; and surely what is claimed by the possession of money is justly forfeited by its loss.  She that has once demanded a settlement has allowed the importance of fortune: and when she cannot shew pecuniary merit, why should she think her cheapener obliged to purchase? 
+
+  My lovers were not all contented with silent desertion.  Some of them revenged the neglect which they had formerly endured by wanton and superfluous insults, and endeavoured to mortify me, by paying, in my presence, those civilities to other ladies, which were once devoted only to me.  But, as it had been my rule to treat men according to the rank of their intellect, I had never suffered any one to waste his life in suspense, who could have em-   ployed it to better purpose, and had therefore no enemies but coxcombs, whose resentment and respect were equally below my consideration. 
+
+  The only pain which I have felt from degradation, is the loss of that influence which I had always exerted on the side of virtue, in the defence of innocence, and the assertion of truth.  I now find my opinions slighted, my sentiments criticised, and my arguments opposed by those that used to listen to me without reply, and struggle to be first in expressing their conviction. 
+
+  The female disputants have wholly thrown off my authority; and if I endeavour to enforce my reasons by an appeal to the scholars that happen to present, the wretches are certain to pay their court by sacrificing me and my system to a finer gown, and I am every hour insulted with contradiction by cowards, who could never find till lately that Melissa was liable to errour. 
+
+  There are two persons only whom I cannot charge with having changed their conduct with my change of fortune.  One is an old curate that has passed his life in the duties of his profession, with great reputation for his knowledge and piety; the other is a lieutenant of dragoons.  The parson made no difflculty in the height of my elevation to check me when I was pert, and instruct me when I blundered; and if there is any alteration, he is now more timorous, lest his freedom should be thought rudeness. The soldier never paid me any particular addresses, but very rigidly observed all the rules of politeness,    which he is now so far from relaxing, that whenever he serves the tea, he obstinately carries me the first dish, in defiance of the frowns and whispers of the table. 
+
+  This, Mr. Rambler, is to *see the world*.  It is impossible for those that have only known affluence and prosperity, to judge of themselves or others. The rich and the powerful live in a perpetual masquerade, in which all about them wear borrowed characters; and we only discover in what estimation we are held, when we can no longer give hopes or fears. 
+
+  I am, &c.
+ MELISSA.       
+## No. 76. SATURDAY, DECEMBER 8, 1780 
+
+      - — Silvis, ubi passim
+ - Palantes error certo de tramite pellit
+ - Ille sinistrorsum, hic dextroanum abit; unus utrique
+ - Error, sed variis illudit partibus. 
+  HOR. Lib. ii. Sat. iii. 48.        - While mazy error draws mankind astray
+ - From truth's sure path, each takes his devious way
+ - One to the right, one to the left recedes,
+ - Alike deluded, as each fancy leads. 
+ ELPHINSTON.        IT is easy for every man, whatever be his character with others, to find reasons for esteeming himself, and therefore censure, contempt, or conviction of crimes, seldom deprive him of his own favour.  Those, indeed, who can see only external facts, may look upon him with abhorrence? but when he calls himself to his own tribunal, he finds every fault, if not absolutely effaced, yet so much palliated by the goodness of his intention, and the    cogency of the motive, that very little guilt or turpitude remains; and when he takes a survey of the whole complication of his character, he discovers so many latent excellencies, so many virtues that want but an opportunity to exert themselves in act, and so many kind wishes for universal happiness, that he looks on himself as suffering unjustly under the infamy of single failings, while the general temper of his mind is unknown or unregarded. 
+
+  It is natural to mean well, when only abstracted ideas of virtue are proposed to the mind, and no particular passion turns us aside from rectitude; and so willing is every man to flatter himself, that the difference between approving laws, and obeying them, is frequently forgotten; he that acknowledges the obligations of morality, and pleases his vanity with enforcing them to others, concludes himself zealous in the cause of virtue, though he has no longer any regard to her precepts, than they conform to his own desire; and counts himself among her warmest lovers, because he praises her beauty, though every rival steals away his heart. 
+
+  There are, however, great numbers who have little recourse to the refinements of speculation, but who yet live at peace with themselves, by means which require less understanding, or less attention. When their hearts are burthened with the consciousness of a crime, instead of seeking for some remedy within themselves, they look round upon the rest of mankind, to finds others tainted with the same guilt: they please themselves with observ-   ing, that they have numbers on their side; and that, though they are hunted out from the society of good men, they are not likely to be condemned to solitude. 
+
+  It may be observed, perhaps without exception, that none are so industrious to detect wickedness, or so ready to impute it, as they whose crimes are apparent and confessed.  They envy an unblemished reputation, and what they envy they are busy to destroy; they are unwilling to suppose themselves meaner and more corrupt than others, and therefore willingly pull down from their elevations those with whom they cannot rise to an equality.  No man yet was ever wicked without secret discontent, and according to the different degrees of remaining virtue, or unextinguished reason, he either endeavours to reform himself, or corrupt others; either to regain the station which he has quitted, or prevail on others to imitate his defection. 
+
+  It has always been considered as an alleviation of misery not to suffer alone, even when union and society can contribute nothing to resistance or escape; some comfort of the same kind seems to incite wickedness to seek associates, though indeed another reason may be given, for as guilt is propagated the power of reproach is diminished, and among numbers equally detestable every individual may be sheltered from shame, though not from conscience. 
+
+  Another lenitive by which the throbs of the breast are assuaged, is, the contemplation, not of the same but of different crimes.  He that cannot justify himself by his resemblance to others, is ready to try    some other expedient, and to inquire what will rise to his advantage from opposition and dissimilitude. He easily finds some faults in every human being, which he weighs against his own, and easily makes them preponderate while he keeps the balance in his own hand, and throws in or takes out at his pleasure circumstances that makes them heavier or lighter.  He then triumphs in his comparative purity, and sets himself at ease, not because he can refute the charges advanced against him, but because he can censure his accusers with equal justice, and no longer fears the arrows of reproach, when he has stored his magazine of malice with weapons equally sharp and equally envenomed. 
+
+  This practice, though never just, is yet specious and artful, when the censure is directed against deviations to the contrary extreme.  The man who is branded with cowardice, may, with some appearance of propriety, turn all his force of argument against a stupid contempt of life, and rash precipitation into unnecessary danger.  Every recession from temerity is an approach towards cowardice, and though it be confessed that bravery, like other virtues, stands between faults on either hand, yet the place of the middle point may always be disputed; he may therefore often impose upon careless understandings, by turning the attention wholly from himself, and keeping it fixed invariably on the opposite fault; and by shewing how many evils are avoided by his behavior, he may conceal for a time those which are incurred.    
+
+  But vice has not always opportunities or address for such artful subterfuges; men often extenuate their own guilt, only by vague and general charges upon others, or endeavour to gain rest to themselves, by pointing some other prey to the pursuit of censure. 
+
+  Every whisper of infamy is industriously circulated, every hint of suspicion eagerly improved, and every failure of conduct joyfully published, by those whose interest it is, that the eye and voice of the publick should be employed on any rather than on themselves. 
+
+  All these artifices, and a thousand others equally vain and equally despicable, are incited by that conviction of the deformity of wickedness, from which none can set himself free, and by an absurd desire to separate the cause from the effects, and to enjoy the profit of crimes without suffering the shame. Men are willing to try all methods of reconciling guilt and quiet, and when their understandings are stubborn and uncomplying, raise their passions against them, and hope to overpower their own knowledge. 
+
+  It is generally not so much the desire of men, sunk into depravity, to deceive the world as themselves, for when no particular circumstances make them dependent on others, infamy disturbs them little, but as it revives their remorse, and is echoed to them from their own hearts.  The sentence most dreaded is that of reason and conscience, which they would engage on their side at any price but the    labours of duty, and the sorrows of repentance. For this purpose every seducement and fallacy is sought, the hopes still rest upon some new experiment till life is at an end; and the last hour steals on unperceived, while the faculties are engaged in resisting reason, and repressing the sense of the Divine disapprobation. 
+
+     
+## No.  77.  TUESDAY, DECEMBER 11, 1750 
+
+      - Os dignum aeterno nitidum quod fulgeat auro,
+ - Si mjalet laudare Deum, cui sordida monstra
+ - Praetulit, et liquidam temeravit crimine vocem. 
+  PRUDENT.       - A golden statue such a wit might claim
+ - Had God and virtue rais'd the noble flame;
+ - But ah! how lewd a subject has he sung,
+ - What vile obscenity profanes his tongue. 
+  F. LEWIS.       AMONG those, whose hopes of distinction, or riches, arise from an opinion of their intellectual attainments, it has been, from age to age, an established custom to complain of the ingratitude of mankind to their instructors, and the discouragement which men of genius and study suffer from avarice and ignorance, from the prevalence of false taste, and the encroachment of barbarity. 
+
+  Men are most powerfully affected by those evils which themselves feel, or which appear before their own eyes; and as there has never been a time of such general felicity, but that many have failed to obtain the rewards to which they had, in their own judgment, a just claim, some offended writer has always declaimed, in the rage of disappointment,    against his age or nation; nor is there one who has not fallen upon times more unfavourable to learning than any former century, or who does not wish, that he had been reserved in the insensibility of non-existence to some happier hour, when literary merit shall no longer be despised, and the gifts and caresses of mankind shall recompense the toils of study, and add lustre to the charms of wit. 
+
+  Many of these clamours are undoubtedly to be considered only as the bursts of pride never to be satisfied, as the prattle of affectation, mimicking distresses unfelt, or as the common places of vanity solicitous for splendour of sentences, and acuteness of remark.  Yet it cannot be denied that frequent discontent must proceed from frequent hardships, and though it is evident, that not more than one age or people can deserve the censure of being more averse from learning than any other, yet at all times knowledge must have encountered impediments, and wit been mortified with contempt, or harassed with persecution. 
+
+  It is not necessary, however, to join immediately in the outcry, or to condemn mankind as pleased with ignorance, or always envious of superior abilities. The miseries of the learned have been related by themselves, and since they have not been found exempt from that partiality with which men look upon their own actions and sufferings, we may conclude that they have not forgotten to deck their cause with the brightest ornaments, and strongest colours.  The logician collected all his subtilties    when they were to be employed in his own defence; and the master of rhetorick exerted against his adversary all the arts by which hatred is embittered, and indignation inflamed. 
+
+  To believe no man in his own cause, is the standing and perpetual rule of distributive justice.  Since therefore, in the controversy between the learned and their enemies, we have only the pleas of one party, of the party more able to delude our understandings, and engage our passions, we must determine our opinion by facts uncontested, and evidences on each side allowed to be genuine. 
+
+  By this procedure, I know not whether the students will find their cause promoted, or the compassion which they expect much increased.  Let their conduct be impartially surveyed; let them be allowed no longer to direct attention at their pleasure, by expatiating on their own deserts; let neither the dignity of knowledge overawe the judgment, nor the graces of elegance seduce it.  It will then, perhaps, be found, that they were not able to produce claims to kinder treatment, but provoked the calamities which they suffered, and seldom wanted friends, but when they wanted virtue. 
+
+  That few men, celebrated for theoretick wisdom, live with conformity to their precepts, must be readily confessed; and we cannot wonder that the indignation of mankind rises with great vehemence against those, who neglect the duties which they appear to know with so strong conviction the necessity of performing.  Yet since no man has power of    acting equal to that of thinking, I know not whether the speculatist may not sometimes incur censures too severe, and by those who form ideas of his life from their knowledge of his books, be considered as worse than others, only because he was expected to be better. 
+
+  He, by whose writings the heart is rectified, the appetites counteracted, and the passions repressed, may be considered as not unprofitable to the great republick of humanity, even though his behaviour should not always exemplify his rules.  His instructions may diffuse their influence to regions, in which it will not be inquired, whether the author be *albus an ater*, good or bad; to times, when all his faults and all his follies shall be lost in forgetfulness, among things of no concern or importance to the world; and he may kindle in thousands and ten thousands that flame which burnt but dimly in himself, through the fumes of passion, or the damps of cowardice. The vicious moralist may be considered as a taper, by which we are lighted through the labyrinth of complicated passions: he extends his radiance further than his heat, and guides all that are within view, but burns only those who make too near approaches. 
+
+  Yet since good or harm must be received for the most part from those to whom we are familiarly known, he whose vices overpower his virtues, in the compass to which his vices can extend, has no reason to complain that he meets not with affection or veneration, when those with whom he passes his    life are more corrupted by his practice than enlightened by his ideas.  Admiration begins where acquaintance ceases; and his favourers are distant, but his enemies at hand. 
+
+  Yet many have dared to boast of neglected merit, and to challenge their age for cruelty and folly, of whom it cannot be alledged that they have endeavoured to increase the wisdom or virtue of their readers.  They have been at once profligate in their lives, and licentious in their compositions; have not only forsaken the paths of virtue, but attempted to lure others after them.  They have smoothed the road of perdition, covered with flowers the thorns of guilt, and taught temptation sweeter notes, softer blandishments, and stronger allurements. 
+
+  It has been apparently the settled purpose of some writers, whose powers and acquisitions place them high in the rank of literature, to set fashion on the side of wickedness; to recommend debauchery and lewdness, by associating them with qualities most likely to dazzle the discernment, and attract the affections; and to shew innocence and goodness with such attendant weaknesses as necessarily expose them to contempt and derision. 
+
+  Such naturally found intimates among the corrupt, the thoughtless, and the intemperate; passed their lives amidst the levities of sportive idleness, or the warm professions of drunken friendship; and fed their hopes with the promises of wretches, whom their precepts had taught to scoff at truth.  But when fools had laughed away their sprightliness,    and the languors of excess could no longer be relieved, they saw their protectors hourly drop away, and wondered and stormed to find themselves abandoned.  Whether their companions persisted in wickedness, or returned to virtue, they were left equally without assistance; for debauchery is selfish and negligent, and from virtue the virtuous only can expect regard. 
+
+  It is said by Florus of Catiline, who died in the midst of slaughtered enemies, that *his death had been illustrious, had it been suffered for his country*.  Of the wits who have languished away life under the pressures of poverty, or in the restlessness of suspense, caressed and rejected, flattered and despised, as they were of more or less use to those who styled themselves their patrons, it might be observed, that their miseries would enforce compassion, had they been brought upon them by honesty and religion. 
+
+  The wickedness of a loose or profane author is more atrocious than that of the giddy libertine, or drunken ravisher, not only because it extends its effects wider, as a pestilence that taints the air is more destructive than poison infused in a draught, but because it is committed with cool deliberation. By the instantaneous violence of desire, a good man may sometimes be surprised before reflection can come to his rescue; when the appetites have strengthened their influence by habit, they are not easily resisted or suppressed; but for the frigid villainy of studious lewdness, for the calm malignity of laboured impiety, what apology can be invented?    What punishment can be adequate to the crime of him who retires to solitudes for the refinement of debauchery; who tortures his fancy, and ramsacks his memory, only that he may leave the world less virtuous than he found it; that he may intercept the hopes of the rising generation; and spread snares for the soul with more dexterity? 
+
+  What were their motives, or what their excuses, is below the dignity of reason to examine.  If having extinguished in themselves the distinction of right and wrong, they were insensible of the mischief which they promoted, they deserved to be hunted down by the general compact, as no longer partaking of social nature; if influenced by the corruption of patrons, or readers, they sacrificed their own convictions to vanity or interest, they were to be abhorred with more acrimony than he that murders for pay; since they committed greater crimes without greater temptations. 
+
+  *Of him, to whom much is given, much shall be required*. Those, whom God has favoured with superior faculties, and made eminent for quickness of intuition, and accuracy of distinctions, will certainly be regarded as culpable in his eye, for defects and deviations which, in souls less enlightened, may be guiltless.  But, surely, none can think without horrour on that man's condition, who has been more wicked in proportion as he had more means of excelling in virtue, and used the light imparted from heaven only to embellish folly, and shed lustre upon crimes. 
+
+         
+## No. 78.  SATURDAY, DECEMBER 13, 1750 
+
+      - —Mors sola fatetuxr,
+ - Quantula sint homintbm corpuscula. 
+ JUV. SAT. X. 179.        - Death only this mysterious truth unfolds,
+ - The mighty soul how small a body holds. 
+  DRYDEN.       CORPORAL sensation is known to depend so much upon novelty, that custom takes away from many things their power of giving pleasure or pain.  Thus a new dress becomes easy by wearing it, and the palate is reconciled by degrees to dishes which at first disgusted it.  That by long habit of carrying a burden, we loose, in great part, our sensibility of its weight, any man may be convinced by putting on for an hour the armour of our ancestors; for he will scarcely believe that men would have had much inclination to marches and battles, encumbered and oppressed, as he will find himself, with the ancient panoply.  Yet the heroes that overran regions, and stormed towns in iron accoutrements, he knows not to have been bigger, and has no reason to imagine them stronger, than the present race of men; he therefore must conclude, that their peculiar powers were conferred only by peculiar habits, and that their familiarity with the dress of war enabled them to move in it with ease, vigour, and agility. 
+
+  Yet it seems to be the condition of our present state, that pain should be more fixed and permanent than pleasure.  Uneasiness gives way by slow degrees, and is long before it quits its possession of    the sensory; but all our gratifications are volatile, vagrant, and easily dissipated.  The fragrance of the jessamine bower is lost after the enjoyment of a few moments, and the Indian wanders among his native spices without any sense of their exhalations.  It is, indeed, not necessary to shew by many instances what all mankind confess, by an incessant call for variety, and restless pursuit of enjoyments, which they value only because unpossessed. 
+
+  Something similar, or analogous, may be observed in effects produced immediately upon the mind; nothing can strongly strike or affect us, but what is rare or sudden.  The most important events, when they become familiar, are no longer considered with wonder or solicitude, and that which at first filled up our whole attention, and left no place for any other thought, is soon thrust aside into some remote repository of the mind, and lies among other lumber of the memory, overlooked and neglected.  Thus far the mind resembles the body, but here the similitude is at an end. 
+
+  The manner in which external force acts upon the body is very little subject to the regulation of the will; no man can at pleasure obtund or invigorate his senses, prolong the agency of any impulse, or continue the presence of any image traced upon the eye, or any sound infused into the ear.  But our ideas are more subjected to choice; we can call them before us, and command their stay, we can facilitate and promote their recurrence, we can either repress their intrusion, or hasten their retreat.    It is therefore the business of wisdom and virtue, to select among numberless objects striving for our notice, such as may enable us to exalt our reason, extend our views, and secure our happiness.  But this choice is to be made with very little regard to rareness or frequency; for nothing is valuable merely because it is either rare or common, but because it is adapted to some useful purpose, and enables us to supply some deficiency of our nature. 
+
+  Milton has judiciously represented the father of mankind, as seized with horrour and astonishment at the sight of death, exhibited to him on the mount of vision.  For surely, nothing can so much disturb the passions, or perplex the intellects of man, as the disruption of his union with visible nature; a separation from all that has hitherto delighted or engaged him; a change not only of the place, but the manner of his being; an entrance into a state not simply which he knows not, but which perhaps he has not faculties to know; an immediate and perceptible communication with the supreme Being, and, what is above all distressful and alarming, the final sentence, and unalterable allotment. 
+
+  Yet we to whom the shortness of life has given frequent occasions of contemplating mortality, can, without emotion, see generations of men pass away, and are at leisure to establish modes of sorrow, and adjust the ceremonial of death.  We can look upon funeral pomp as a common spectacle in which we have no concern, and turn away from it to trifles    and amusements, without dejection of look, or inquietude of heart. 
+
+  It is, indeed, apparent, from the constitution of the world, that there must be a time for other thoughts; and a perpetual meditation upon the last hour, however it may become the solitude of a monastery, is inconsistent with many duties of common life.  But surely the remembrance of death ought to predominate in our minds, as an habitual and settled principle, always operating, though not always perceived; and our attention should seldom wander so far from our own condition, as not to be recalled and fixed by sight of an event, which must soon, we know not how soon, happen likewise to ourselves, and of which, though we cannot appoint the time, we may secure the consequence. 
+
+  Every instance of death may justly awaken our fears and quicken our vigilance; but its frequency so much weakens its effect, that we are seldom alarmed unless some close connexion is broken, some scheme frustrated, or some hope defeated. Many therefore seem to pass on from youth to decrepitude without any reflection on the end of life, because there are wholly involved within themselves, and look on others only as inhabitants of the common earth, without any expectation of receiving good, or intention of bestowing it. 
+
+  Events, of which we confess the importance, excite little sensibility, unless they affect us more nearly than as sharers in the common interest of mankind; that desire which every man feels of being    remembered and lamented, is often mortified when we remark how little concern is caused by the eternal departure even of those who have passed their lives with publick honours, and been distinguished by extraordinary performances.  It is not possible to be regarded with tenderness except by a few.  That merit which gives greatness and renown, diffuses its influence to a wide compass, but acts weakly on every single breast; it is placed at a distance from common spectators, and shines like one of the remote stars, of which the light reaches us, but not the heat.  The wit, the hero, the philosopher, whom their tempers or their fortunes have hindered from intimate relations, die, without any other effect than that of adding a new topic to the conversation of the day.  They impress none with any fresh conviction of the fragility of our nature, because none had any particular interest in their lives, or was united to them by a reciprocation of benefits and endearments. 
+
+  Thus it oftens happens, that those who in their lives were applauded and admired, are laid at last in the ground without the common honour of a stone; because by those excellencies with which many were delighted, none had been obliged, and though they had many to celebrate, they had none to love them. 
+
+  Custom so far regulates the sentiments, at least of common minds, that I believe men may be generally observed to grow less tender as they advance in age.  He, who, when life was new, melted at the    loss of every companion, can look in time, without concern, upon the grave into which his last friend was thrown, and into which himself is ready to fall; not that he is more willing to die than formerly, but that he is more familiar to the death of others, and therefore is not alarmed so far as to consider how much nearer he approaches to his end.  But this is to submit tamely to the tyranny of accident, and to suffer our reason to lie useless.  Every funeral may justly be considered as a summons to prepare for that state, into which it shews us that we must some time enter; and the summons is more loud and piercing, as the event of which it warns us is at less distance.  To neglect at any time preparation for death, is to sleep on our post at a siege; but to omit it in old age, is to sleep at an attack. 
+
+  It has always appeared to me one of the most striking passages in the Visions of Quevedo, which stigmatises those as fools who complain that they failed of happiness by sudden death.  "How," says he, "can death be sudden to a being who always knew that he must die, and that the time of his death was uncertain?" 
+
+  Since business and gaiety are always drawing our attention away from a future state, some admonition is frequently necessary to recall it to our minds; and what can more properly renew the impression than the examples of mortality which every day supplies? The great incentive to virtue is the reflection that we must die; it will therefore be useful to accustom ourselves, whenever we see a funeral,    to consider how soon we may be added to the number of those whose probation is past, and whose happiness or misery shall endure for ever[^JohRamb.5]. 
+
+  [^JohRamb.5]: [t] Death in itself is nothing; but we fear
+ To be we know not what, we know not where.
+
+Aurung-Zebe, act. iv. sc. 1.  
+
+See also Claudio's speech in Shakspeare's "Measure for Measure."
+
+      
+## No. 79. TUESDAY, DECEMBER 18, 1750 
+
+      - Tam saepe nostrum decipi Fabullum, quid
+ - Miraris, Aule? Semper bonus homo tiro est. 
+  MART. Lib. xii. Ep. 51.       - You wonder I've so little wit,
+ - Friend John, so often to be bit—
+ - None better guard against a cheat
+ - Than he who is a knave complete. 
+  F. LEWIS.       SUSPICION, however necessary it may be to our safe passage through ways beset on all sides by fraud and malice, has been always considered, when it exceeds the common measures, as a token of depravity and corruption; and a Greek writer of sentences has laid down as a standing maxim, that *he who believes not another on his oath, knows himself to be perjured*. 
+
+  We can form our opinions of that which we know not, only by placing it in comparison with something that we know; whoever, therefore, is over-run with suspicion, and detects artifice and stratagem in every proposal, must either have learned by experience or observation the wickedness of mankind, and been taught to avoid fraud by having often suffered or seen treachery, or he    must derive his judgment from the consciousness of his own disposition, and impute to others the same inclinations, which he feels predominant in himself. 
+
+  To learn caution by turning our eyes upon life, and observing the arts by which negligence is surprized, timidity overborne, and credulity amused, requires either great latitude of converse and long acquaintance with business, or uncommon activity of vigilance, and acuteness of penetration.  When, therefore, a young man, not distinguished by vigour of intellect, comes into the world full of scruples and diffidence; makes a bargain with many provisional limitations; hesitates in his answer to a common question, lest more should be intended than he can immediately discover; has a long reach in detecting the projects of his acquaintance; considers every caress as an act of hypocrisy, and feels neither gratitude nor affection from the tenderness of his friends, because he believes no one to have any real tenderness but for himself; whatever expectations this early sagacity may raise of his future eminence or riches, I can seldom forbear to consider him as a wretch incapable of generosity or benevolence; as a villain early completed beyond the need of common opportunities and gradual temptations. 
+
+  Upon men of this class instruction and admonition are generally thrown away, because they consider artifice and deceit as proofs of understanding, they are misled at the same time by the two great seducers of the world, vanity and interest, and not    only look upon those who act with openness and confidence, as condemned by their principles to obscurity and want, but as contemptible for narrowness of comprehension, shortness of views, and slowness of contrivance. 
+
+  The world has been long amused with the mention of policy in publick transactions, and of art in private affairs; they have been considered as the effects of great qualities, and as unattainable by men of the common level: yet I have not found many performances either of art or policy, that required such stupendous efforts of intellect, or might not have been effected by falsehood and impudence, without the assistance of any other powers.  To profess what he does not mean, to promise what he cannot perform, to flatter ambition with prospects of promotion, and misery with hopes of relief, to sooth pride with appearances of submission, and appease enmity by blandishments and bribes, can surely imply nothing more or greater than a mind devoted wholly to its own purposes, a face that cannot blush, and a heart that cannot feel. 
+
+  These practices are so mean and base, that he who finds in himself no tendency to use them, cannot easily believe that they are considered by others with less detestation; he therefore suffers himself to slumber in false security, and becomes a prey to those who applaud their own subtilty, because they know how to steal upon his sleep, and exult in the success which they could never have obtained, had they not attempted a man better than themselves,    who was hindered from obviating their stratagems, not by folly, but by innocence. 
+
+  Suspicion is, indeed, a temper so uneasy and restless, that it is very justly appointed the concomitant of guilt.  It is said, that no torture is equal to the inhibition of sleep long continued; a pain, to which the state of that man bears a very exact analogy, who dares never give rest to his vigilance and circumspection, but considers himself as surrounded by secret foes, and fears to entrust his children, or his friend, with the secret that throbs in his breast, and the anxieties that break into his face.  To avoid, at this expense, those evils to which easiness and friendship might have exposed him, is surely to buy safety at too dear a rate, and, in the language of the Roman satirist, to save life by losing all for which a wise man would live[^JohRamb.6] 
+
+  [^JohRamb.6]: [u] Propter vitam vivendi perdere causas.
+
+   When in the diet of the German empire, as Camararius relates, the princes were once displaying their felicity, and each boasting the advantages of his own dominions, one who possessed a country not remarkable for the grandeur of its cities, or the fertility of its soil, rose to speak, and the rest listened between pity and contempt, till he declared, in honour of his territories, that he could travel through them without a guard, and if he was weary, sleep in safety upon the lap of the first man whom he should meet; a commendation which would have been ill exchanged for the boast of palaces, pastures, or streams.    
+
+  Suspicion is not less an enemy to virtue than to happiness; he that is already corrupt is naturally suspicious, and he that becomes suspicious will quickly be corrupt.  It is too common for us to learn the frauds by which ourselves have suffered; men who are once persuaded that deceit will be employed against them, sometimes think the same arts justified by the necessity of defence.  Even they whose virtue is too well established to give way to example, or be shaken by sophistry, must yet feel their love of mankind diminished with their esteem, and grow less zealous for the happiness of those by whom they imagine their own happiness endangered. 
+
+  Thus we find old age, upon which suspicion has been strongly impressed, by long intercourse with the world, inflexible and severe, not easily softened by submission, melted by complaint, or subdued by supplication.  Frequent experience of counterfeited miseries, and dissembled virtue, in time overcomes that disposition to tenderness and sympathy, which is so powerful in our younger years; and they that happen to petition the old for compassion or assistance, are doomed to languish without regard, and suffer for the crimes of men who have formerly been found undeserving or ungrateful. 
+
+  Historians are certainly chargeable with the depravation of mankind, when they relate without censure those stratagems of war by which the virtues of an enemy are engaged to his destruction.  A ship comes before a port, weather beaten and shattered, and the crew implore the liberty of repairing their    breaches, supplying themselves with necessaries, or burying their dead.  The humanity of the inhabitants inclines them to consent; the strangers enter the town with weapons concealed, fall suddenly upon their benefactors, destroy those that make resistance, and become masters of the place; they return home rich with plunder, and their success is recorded to encourage imitation. 
+
+  But surely war has its laws, and ought to be conducted with some regard to the universal interest of man.  Those may justly be pursued as enemies to the community of nature, who suffer hostility to vacate the unalterable laws of right, and pursue their private advantage by means, which, if once established, must destroy kindness, cut off from every man all hopes of assistance from another, and fill the world with perpetual suspicion and implacable malevolence.  Whatever is thus gained ought to be restored, and those who have conquered by such treachery may be justly denied the protection of their native country. 
+
+  Whoever commits a fraud is guilty not only of the particular injury to him whom he deceives, but of the diminution of that confidence which constitutes not only the ease but the existence of society. He that suffers by imposture has too often his virtue more impaired than his fortune.  But as it is necessary not to invite robbery by supineness, so it is our duty not to suppress tenderness by suspicion; it is better to suffer wrong than to do it, and happier to be sometimes cheated than not to trust. 
+
+        
+## No. 80. SATURDAY, DECEMBER 22, 1750 
+
+      - Vides, ut alta stet nive candidum
+ - Soracte, nece jam sustineant onus
+ - silvae laborantes— 
+  HOR. LIB. i. ODE ix. 1.       - Behold yon mountain's hoary height
+ - Made higher with new mounts of snow
+ - Again behold the winter's weight
+ - Oppress the lab'ring woods below. 
+  DRYDEN.       AS Providence has made the human soul an active being, always impatient for novelty, and struggling for something yet unenjoyed with unwearied progression, the world seems to have been eminently adapted to this disposition of the mind; it is formed to raise expectations by constant vicissitudes, and to obviate satiety by perpetual change. 
+
+  Wherever we turn our eyes, we find something to revive our curiosity, and engage our attention. In the dusk of the morning we watch the rising of the sun, and see the day diversify the clouds, and open new prospects in its gradual advance.  After a few hours, we see the shades lengthen, and the light decline, till the sky is resigned to a multitude of shining orbs different from each other in magnitude and splendour.  The earth varies its appearance as we move upon it; the woods offer their shades, and the fields their harvests; the hill flatters with an extensive view, and the valley invites with shelter, fragrance, and flowers. 
+
+  The poets have numbered among the felicities of the golden age, an exemption from the change of seasons, and a perpetuity of spring; but I am not    certain that in this state of imaginary happiness they have made sufficient provision for that insatiable demand of new gratifications, which seem particularly to characterize the nature of man.  Our sense of delight is in a great measure comparative, and arises at once from the sensations, which we feel, and those which we remember.  Thus ease after torment is pleasure for a time, and we are very agreeably recreated, when the body, chilled with the weather, is gradually recovering its natural tepidity; but the joy ceases when we have forgot the cold: we must fall below ease again, if we desire to rise above it, and purchase new felicity by voluntary pain.  It is therefore not unlikely, that however the fancy may be amused with the description of regions in which no wind is heard but the gentle zephyr, and no scenes are displayed but valleys enamelled with unfading flowers, and woods waving their perennial verdure, we should soon grow weary of uniformity, find our thoughts languish for want of other subjects, call on heaven for our wonted round of seasons, and think ourselves liberally recompensed for the inconveniences of summer and winter, by new perceptions of the calmness and mildness of the intermediate variations. 
+
+  Every season has its particular power of striking the mind.  The nakedness and asperity of the wintry world always fill the beholder with pensive and profound astonishment; as the variety of the scene is lessened, its grandeur is increased; and the mind is swelled at once by the mingled ideas of the present    and the past, of the beauties which have vanished from the eyes, and the waste and desolation that are now before them. 
+
+  It is observed by Milton, that he who neglects to visit the country in spring, and rejects the pleasures that are then in their first bloom and fragrance, is guilty of *sullenness against nature*  If we allot different duties to different seasons, he may be charged with equal disobedience to the voice of nature, who looks on the bleak hills and leafless woods, without seriousness and awe.  Spring is the season of gaiety, and winter of terrour; in spring the heart of tranquillity dances to the melody of the groves, and the eye of benevolence sparkles at the sight of happiness and plenty.  In the winter, compassion melts at universal calamity, and the tear of softness starts at the wailings of hunger, and the cries of the creation in distress. 
+
+  Few minds have much inclination to indulge heaviness and sorrow, nor do I recommend them beyond the degree necessary to maintain in its full vigour that habitual sympathy and tenderness, which, in a world of so much misery, is necessary to the ready discharge of our most important duties. The winter, therefore, is generally celebrated as the proper season for domestick merriment and gaiety. We are seldom invited by the votaries of pleasure to look abroad for any other purpose, than that we may shrink back with more satisfaction to our coverts, and when we have heard the howl of the tempest, and felt the gripe of the frost, congratulate    each other with more gladness upon a close room, an easy chair, a large fire, and a smoking dinner. 
+
+  Winter brings natural inducements to jollity and conversation.  Differences, we know, are never so effectually laid asleep, as by some common calamity. An enemy unites all to whom he threatens danger. The rigour of winter brings generally to the same fire-side, those, who, by the opposition of inclinations, or difference of employment, move in various directions through the other parts of the year; and when they have met, and find it their mutual interest to remain together, they endear each other by mutual compliances, and often wish for the continuance of the social season, with all its bleakness, and all its severities. 
+
+  To the men of study and imagination the winter is generally the chief time of labour.  Gloom and silence produce composure of mind, and concentration of ideas; and the privation of external pleasure naturally causes an effort to find entertainment within.  This is the time in which those whom literature enables to find amusements for themselves, have more than common convictions of their own happiness.  When they are condemned by the elements to retirement, and debarred from most of the diversions which are called in to assist the flight of time, they can find new subjects of inquiry, and preserve themselves from that weariness which hangs always flagging upon the vacant mind. 
+
+  It cannot indeed be expected of all to be poets and philosophers; it is necessary that the greater    part of mankind should be employed in the minute business of common life; minute, indeed, not if we consider its influence upon our happiness, but if we respect the abilities requisite to conduct it.  These must necessarily be more dependent on accident for the means of spending agreeably those hours which their occupations leave unengaged, or nature obliges them to allow to relaxation.  Yet even on these I would willingly impress such a sense of the value of time, as may incline them to find out for their careless hours amusements of more use and dignity than the common games, which not only weary the mind without improving it, but strengthen the passions of envy and avarice, and often lead to fraud and to profusion, to corruption and to ruin.  It is unworthy of a reasonable being to spend any of the little time allotted us, without some tendency, either direct or oblique, to the end of our existence.  And though every moment cannot be laid out on the formal and regular improvement of our knowledge, or in the stated practice of a moral or religious duty, yet none should be so spent as to exclude wisdom or virtue, or pass without possibility of qualifying us more or less for the better employment of those which are to come. 
+
+  It is scarcely possible to pass an hour in honest conversation, without being able, when we rise from it, to please ourselves with having given or received some advantages; but a man may shuffle cards, or rattle dice, from noon to midnight, without tracing any new idea in his mind, or being able to recollect    the day by any other token than his gain or loss, and a confused remembrance of agitated passions, and clamorous altercations. 
+
+  However, as experience is of more weight than precept, any of my readers, who are contriving how to spend the dreary months before them, may consider which of their past amusements fills them now with the greatest satisfaction, and resolve to repeat those gratifications of which the pleasure is most durable. 
+
+     
+## No. 81. TUESDAY, DECEMBER 25, 1750 
+
+    *Discite Justitiam moniti.* 
+
+  VIRG. Æn. vi. 620.   Hear, and be just. 
+
+    AMONG questions which have been discussed, without any approach to decision, may be numbered the precedency or superior excellence of one virtue to another, which has long furnished a subject of dispute to men whose leisure sent them out into the intellectual world in search of employment, and who have, perhaps, been sometimes withheld from the practice of their favourite duty, by zeal for its advancement, and diligence in its celebration. 
+
+  The intricacy of this dispute may be alleged as a proof of that tenderness for mankind which Providence has, I think, universally displayed, by making attainments easy in proportion as they are necessary.  That all the duties of morality ought to be practised, is without difficulty discoverable, because ignorance or uncertainty would immediately    involve the world in confusion and distress; but which duty ought to be most esteemed, we may continue to debate without inconvenience, so all be diligently performed as there is opportunity or need; for upon practice, not upon opinion, depends the happiness of mankind; and controversies, merely speculative, are of small importance in themselves, however they may have sometimes heated a disputant, or provoked a faction. 
+
+  Of the Divine Author of our religion it is impossible to peruse the evangelical histories, without observing how little he favoured the vanity of inquisitiveness; how much more rarely he condescended to satisfy curiosity, than to relieve distress; and how much he desired that his followers should rather excel in goodness than in knowledge.  His precepts tend immediately to the rectification of the moral principles, and the direction of daily conduct, without ostentation, without art, at once irrefragable and plain, such as well-meaning simplicity may readily conceive, and of which we cannot mistake the meaning, but when we are afraid to find it. 
+
+  The measure of justice prescribed to us, in our transactions with others, is remarkably clear and comprehensive: *Whatsoever ye would that men should do unto you, even so do unto them*.  A law by which every claim of right may be immediately adjusted as far as the private conscience requires to be informed; a law, of which every man may find the exposition in his own breast, and which may always    be observed without any other qualifications than honesty of intention, and purity of will. 
+
+  Over this law, indeed, some sons of sophistry have been subtle enough to throw mists,which have darkened their own eyes.  To perplex this universal principle, they have inquired whether a man, conscious to himself of unreasonable wishes, be bound to gratify them in another.  But surely there needed no long deliberation to conclude, that the desires, which are to be considered by us as the measure of right, must be such as we approve, and that we ought to pay no regard to those expectations in others which we condemn in ourselves, and which, however they may intrude upon our imagination, we know it our duty to resist and suppress. 
+
+  One of the most celebrated cases which have been produced as requiring some skill in the direction of conscience to adapt them to this great rule, is that of a criminal asking mercy of his judge, who cannot but know, that if he was in the state of the supplicant, he should desire that pardon which he now denies.  The difficulty of this sophism will vanish, if we remember that the parties are, in reality, on one side the criminal, and on the other the community, of which the magistrate is only the minister, and by which he is intrusted with the publick safety.  The magistrate, therefore, in pardoning a man unworthy of pardon, betrays the trust with which he is invested, gives away what is not his own, and, apparently, does to others what he would not that others should do to him.  Even the community,    whose right is still greater to arbitrary grants of mercy, is bound by those laws which regard the great republick of mankind, and cannot justify such forbearance as may promote wickedness, and lessen the general confidence and security in which all have an equal interest, and which all are therefore bound to maintain.  For this reason the state has not a right to erect a general sanctuary for fugitives, or give protection to such as have forfeited their lives by crimes against the laws of common morality equally acknowledged by all nations, because no people can, without infraction of the universal league of social beings, incite, by prospects of impunity and safety, those practices in another dominion, which they would themselves punish in their own. 
+
+  One occasion of uncertainty and hesitation, in those by whom this great rule has been commented and dilated, is the confusion of what the exacter casuists are careful to distinguish, *debts of justice*, and *debts of charity*.  The immediate and primary intention of this precept, is to establish a rule of justice; and I know not whether invention, or sophistry, can start a single difficulty to retard its application, when it is thus expressed and explained, *let every man allow the claim of right in another, which he shogld think himself entitled to make in the like circumstances*. 
+
+  The discharge of the *debts of charity*, or duties which we owe to others, not merely as required by justice, but as dictated by benevolence, admits in its own nature greater complication of circum-   stances, and greater latitude of choice.  Justice is indispensably and universally necessary, and what is necessary must always be limited, uniform, and distinct.  But beneficence, though in general equally enjoined by our religion, and equally needful to the conciliation of the Divine favour, is yet, for the most part, with regard to its single acts, elective and voluntary.  We may certainly, without injury to our fellow-beings, allow in the distribution of kindness something to our affections, and change the measure of our liberality, according to our opinions and prospects, our hopes and fears.  This rule therefore is not equally determinate and absolute, with respect to offices of kindness, and acts of liberality, because liberality and kindness, absolutely determined, would lose their nature; for how could we be called tender, or charitable, for giving that which we are positively forbidden to withhold? 
+
+  Yet, even in adjusting the extent of our beneficence, no other measure can be taken than this precept affords us, for we can only know what others suffer for want, by considering how we should be affected in the same state; nor can we proportion our assistance by any other rule than that of doing what we should then expect from others.  It indeed generally happens that the giver and receiver differ in their opinions of generosity; the same partiality to his own interest inclines one to large expectations, and the other to sparing distributions.  Perhaps the infirmity of human nature will scarcely suffer a man groaning under the pressure of distress,    to judge rightly of the kindness of his friends, or think they have done enough till his deliverance is completed; not therefore what we might wish, but what we could demand from others, we are obliged to grant, since, though we can easily know how much we might claim, it is impossible to determine what we should hope. 
+
+  But in all inquiries concerning the practice of voluntary and occasional virtues, it is safest for minds not oppressed with superstitious fears to determine against their own inclinations, and secure themselves from deficiency, by doing more than they believe strictly necessary.  For of this every man may be certain, that, if he were to exchange conditions with his dependent, he should expect more than, with the utmost exertion of his ardour, he now will prevail upon himself to perform; and when reason has no settled rule, and our passions are striving to mislead us, it is surely the part of a wise man to err on the side of safety. 
+
+     
+## No. 82. SATURDAY, DECEMBER 29, 1750 
+
+    Omnia Castor emit, sic fiet ut omnia vendat.
+  MART.  EP.  xcviii   
+
+   Who buys without discretion, buys to sell. 
+
+      TO THE RAMBLER.
+  SIR,     IT will not be necessary to solicit your good-will by any formal preface, when I have informed you, that I have long been known as the most laborious and zealous virtuoso that the present age has had    the honour of producing, and that inconveniences have been brought upon me by an unextinguishable ardour of curiosity, and an unshaken perseverance in the acquisition of the productions of art and nature. 
+
+  It was observed, from my entrance into the world, that I had something uncommon in my disposition, and that there appeared in me very early tokens of superior genius.  I was always an enemy to trifles; the playthings which my mother bestowed upon me I immediately broke, that I might discover the method of their structure, and the causes of their motions; of an the toys with which children are delighted I valued only my coral, and as soon as I could speak, asked, like Peiresc, innumerable questions which the maids about me could not resolve.  As I grew older I was more thoughtful and serious, and instead of amusing myself with puerile diversions, made collections of natural rarities, and never walked into the fields without bringing home stones of remarkable forms, or insects of some uncommon species.  I never entered an old house, from which I did not take away the painted glass, and often lamented that I was not one of that happy generation who demolished the convents and monasteries, and broke windows by law. 
+
+  Being thus early possessed by a taste for solid knowledge, I passed my youth with very little disturbance from passions and appetites; and having no pleasure in the company of boys and girls, who    talked of plays, politicks, fashions, or love, I carried on my inquiries with incessant diligence, and had amassed more stones, mosses, and shells, than are to be found in many celebrated collections, at an age in which the greatest part of young men are studying under tutors, or endeavoring to recommend themselves to notice by their dress, their air, and their levities. 
+
+  When I was two and twenty years old, I became, by the death of my father, possessed of a small estate in land, with a very large sum of money in the publick funds, and must confess that I did not much lament him, for he was a man of mean parts, bent rather upon growing rich than wise.  He once fretted at the expense of only ten shillings, which he happened to overhear me offering for the sting of a hornet, though it was a cold moist summer, in which very few hornets had been seen.  He often recommended to me the study of physick, in which, said he, you may at once gratify your curiosity after natural history.  and increase your fortune by benefiting mankind.  I heard him, Mr. Rambler, with pity, and as there was no prospect of elevating a mind formed to grovel, sufFered him to please himself with hoping that I should some time follow his advice.  For you know that there are men, with whom, when they have once settled a notion in their heads, is to very little purpose to dispute. 
+
+  Being now left wholly to my own inclinations, I very soon enlarged the bounds of my curiosity, and contented myself no longer with such rarities    as required only judgment and industry, and when once found might be had for nothing.  I now turned my thoughts to exoticks and antiques, and became so well known for my generous patronage of ingenious men, that my levee was crowded with visitants, some to see my museum, and others to increase its treasures, by selling me whatever they had brought from other countries. 
+
+  I had always a contempt for that narrowness of conception, which contents itself with cultivating some single corner of the field of science; I took the whole region into my view, and wished it of yet greater extent.  But no man's power can be equal to his will.  I was forced to proceed by slow degrees, and to purchase what chance or kindness happened to present.  I did not however proceed without some design, or imitate the indiscretion of those, who begin a thousand collections, and finish none.  Having been always a lover of geography, I determined to collect the maps drawn in the rude and barbarous times, before any regular surveys, or just observations; and have, at a great expense, brought together a volume, in which, perhaps, not a single country is laid down according to its true situation, and by which, he that desires to know the errours of the ancient geographers may be amply informed. 
+
+  But my ruling passion is patriotism: my chief care has been to procure the products of our own country; and as Alfred received the tribute of the Welsh in wolves' heads, I allowed my tenants to    pay their rents in butterflies, till I had exhausted the papilionaceous tribe.  I then directed them to the pursuit of other animals, and obtained, by this easy method, most of the grubs and insects, which land, air, or water, can supply.  I have three species of earth-worms not known to the naturalists, have discovered a new ephemera, and can shew four wasps that were taken torpid in their winter quarters.  I have, from my own ground, the longest blade of grass upon record, and once accepted, as a half year's rent for a field of wheat, an ear containing more grains than had been seen before upon a single stem. 
+
+  One of my tenants so much neglected his own interest, as to supply me, in a whole summer, with only two horse-flies, and those of little more than the common size; and I was upon the brink of seizing for arrears, when his good fortune threw a white mole in his way, for which he was not only forgiven, but rewarded. 
+
+  These, however, were petty acquisitions, and made at small expense; nor should I have ventured to rank myself among the virtuosi without better claims.  I have suffered nothing worthy the regard of a wise man to escape my notice.  I have ransacked the old and the new world, and been equally attentive to past ages and the present.  For the illustration of ancient history, I can shew a marble, of which the inscription, though it is not now legible, appears, from some broken remains of the letters, to have been Tuscan, and therefore probably engraved    before the foundation of Rome.  I have two pieces of prophyry found among the ruins of Ephesus, and three letters broken off by a learned traveller from the monuments of Persepolis; a piece of stone which paved the Areopagus of Athens, and a plate without figures or characters, which was found at Corinth, and which I therefore believe to be that metal which was once valued before gold.  I have sand gathered out of the Granicus; a fragment of Trajan's bridge over the Danube; some of the mortar which cemented the watercourse of Tarquin; a horseshoe broken on the Flaminian way; and a turf with five daisies dug from the field of Pharsalia. 
+
+  I do not wish to raise the envy of the unsuccessful collectors, by too pompous a display of my scientifick wealth, but cannot forbear to observe, that there are few regions of the globe which are not honoured with some memorial in my cabinets. The Persian monarchs are said to have boasted the greatness of their empire, by being served at their tables with drink from the Ganges and the Danube. I can shew one vial, of which the water was formerly an icicle on the crags of Caucasus, and another that contains what once was snow on the top of Atlas; in a third is dew brushed from a banana in the gardens of Ispahan; and, in another, brine that has rolled in the Pacifick ocean.  I flatter myself that I am writing to a man who will rejoice at the honour which my labours have procured to my country; and therefore I shall tell you that Britain can, by my care, boast of a snail that has crawled    upon the wall of China; a humming bird which an American princess wore in her ear; the tooth of an elephant who carried the queen of Siam; the skin of an ape that was kept in the palace of the great Mogul; a ribbon that adorned one of the maids of a Turkish sultana; and a seymitar once wielded by a soldier of Abas the Great. 
+
+  In collecting antiquities of every country, I have been careful to choose only by intrinsick worth, and real usefulness, without regard to party or opinions. I have therefore a lock of Cromwell's hair in a box turned from a piece of the royal oak; and keep in the same drawers, sand scraped from the coffin of king Richard, and a commission signed by Henry the Seventh. I have equal veneration for the ruff of Elizabeth and the shoe of Mary of Scotland: and should lose, with like regret, a tobacco-pipe of Raleigh, and a stirrup of king James.  I have paid the same price for a glove of Lewis, and a thimble of queen Mary; for a fur cap of the Czar, and a boot of Charles of Sweden. 
+
+  You will easily imagine that these accumulations were not made without some diminution of my fortune, for I was so well known to spare no cost, that at every sale some bid against me for hire, some for sport, and some for malice; and if I asked the price of any thing, it was sufficient to double the demand.  For curiosity, trafficking thus with avarice, the wealth of India had not been enough; and I, by little and little, transferred all my money from the funds to my closet: here I was inclined to    stop, and live upon my estate in literary leisure, but the sale of the Harleian collection shook my resolution: I mortgaged my land, and purchased thirty medals, which I could never find before.  I have at length bought till I can buy no longer, and the cruelty of my creditors has seized my repository; I am therefore condemned to disperse what the labour of an age will not re-assemble.  I submit to that which cannot be opposed, and shall, in a short time declare a sale.  I have, while it is yet in my power, sent you a pebble, picked up by Tavernier on the banks of the Ganges; for which I desire no other recompense than that you will recommend my catalogue to the publick. 
+
+  QUISQUILIUS.       
+## No. 83. TUESDAY, JANUARY 1, 1751 
+
+    *Nisi utile est, quod facimus, stulta est gloria.*  PHÆD. Lib. iii. Fab. xvii. 15.   
+
+   All useless science is an empty boast. 
+
+    THE publication of the letter in my last paper has naturally led me to the consideration of thirst after curiosities, which often draws contempt and ridicule upon itself, but which is perhaps no otherwise blameable, than as it wants those circumstantial recommendations which add lustre even to moral excellencies, and are absolutely necessary to the grace and beauty of indifferent actions. 
+
+  Learning confers so much superiority on those who possess it, that they might probably have escaped    all censure had they been able to agree among themselves; but as envy and competition have divided the republick of letters into factions, they have neglected the common interest; each has called in foreign aid, and endeavoured to strengthen his own cause by the frown of power, the hiss of ignorance, and the clamour of popularity.  They have all engaged in feuds, till by mutual hostilities they demolished those out-works which veneration had raised for their security, and exposed themselves to barbarians, by whom every region of science is equally laid waste. 
+
+  Between men of different studies and professions, may be observed a constant reciprocation of reproaches. The collector of shells and stones derides the folly of him who pastes leaves and flowers upon paper, pleases himself with colours that are perceptibly fading, and amasses with care what cannot be preserved.  The hunter of insects stands amazed that any man can waste his short time upon lifeless matter, while many tribes of animals yet want their history.  Every one is inclined not only to promote his own study, but to exclude all others from regard, and having heated his imagination with some favourite pursuit, wonders that the rest of mankind are not seized with the same passion. 
+
+  There are, indeed, many subjects of study which seem but remotely allied to useful knowledge, and of little importance to happiness or virtue; nor is it easy to forbear some sallies of merriment, or expressions of pity, when we see a man wrinkled with    attention, and emaciated with solicitude, in the investigation of questions, of which, without visible inconvenience, the world may expire in ignorance. Yet it is dangerous to discourage well-intended labours, or innocent curiosity; for he who is employed in searches, which by any deduction of consequences tend to the benefit of life, is surely laudable, in comparison of those who spend their time in counteracting happiness, and filling the world with wrong and danger, confusion and remorse. No man can perform so little as not to have reason to congratulate himself on his merits, when he beholds the multitudes that live in total idleness, and have never yet endeavoured to be useful. 
+
+  It is impossible to determine the limits of inquiry, or to foresee what consequences a new discovery may produce.  He who suffers not his faculties to lie torpid, has a chance, whatever be his employment, of doing good to his fellow creatures.  The man that first ranged the woods in search of medicinal springs, or climbed the mountains for salutary plants, has undoubtedly merited the gratitude of posterity, how much soever his frequent miscarriages might excite the scorn of his contemporaries.  If what appears little be universally despised, nothing greater can be attained, for all that is great was at first little, and rose to its present bulk by gradual accessions, and accumulated labours. 
+
+  Those who lay out time or money in assembling matter for contemplation, are doubtless entitled to some degree of respect, though in a flight of gaiety    it be easy to ridicule their treasure, or in a fit of sullenness to despise it.  A man who thinks only on the particular object before him, goes not away much illuminated by having enjoyed the privilege of handling the tooth of a shark, or the paw of a white bear; yet there is nothing more worthy of admiration to a philosophical eye than the structure of animals, by which they are qualified to support life in the elements or climates to which they are appropriated; and of all natural bodies it must be generally confessed, that they exhibit evidences of infinite wisdom, bear their testimony to the supreme reason, and excite in the mind new raptures of gratitude, and new incentives to piety. 
+
+  To collect the productions of art, and examples of mechanical science or manual ability, is unquestionably useful, even when the things themselves are of small importance, because it is always advantageous to know how far the human powers have proceeded, and how much experience has found to be within the reach of diligence.  Idleness and timidity often despair without being overcome, and forbear attempts for fear of being defeated; and we may promote the invigoration of faint endeavours, by shewing what has been already performed.  It may sometimes happen that the greatest efforts of ingenuity have been exerted in trifles; yet the same principles and expedients may be applied to more valuable purposes, and the movements, which put into action machines of no use but to raise the wonder of ignorance, may be employed to drain    fens, or manufacture metals, to assist the architect, or preserve the sailor. 
+
+  For the utensils, arms, or dresses of foreign nations, which make the greatest part of many collections, I have little regard when they are valued only because they are foreign, and can suggest no improvement of our own practice.  Yet they are not all equally useless, nor can it be always safely determined which should be rejected or retained; for they may sometimes unexpectedly contribute to the illustration of history, and to the knowledge of the natural commodities of the country, or of the genius and customs of its inhabitants. 
+
+  Rarities there are of yet a lower rank, which owe their worth merely to accident, and which can convey no information, nor satisfy any rational desire. Such are many fragments of antiquity, as urns and pieces of pavement; and things held in veneration only for having been once the property of some eminent person, as the armour of King Henry; or for having been used on some remarkable occasion, as the lantern of Guy Faux.  The loss or preservation of these seems to be a thing indifferent, nor can I perceive why the possession of them should be coveted.  Yet, perhaps, even this curiosity is implanted by nature; and when I find Tully confessing of himself, that he could not forbear at Athens to visit the walks and houses which the old philosophers had frequented or inhabited, and recollect the reverence which every nation, civil and barbarous, has paid to the ground where merit has been    buried[^JohRamb.7], I am afraid to declare against the general voice of mankind, and am inclined to believe, that this regard, which we involuntarily pay to the meanest relique of a man great and illustrious, is intended as an incitement to labour, and an encouragement to expect the same renown, if it be sought by the same virtues. 
+
+  [^JohRamb.7]: [x] See this sentiment illustrated by a most splendid passage in Dr. Johnson's "Journey to the Western Islands," when he was on the Island of Iona.
+
+  The virtuoso therefore cannot be said to be wholly useless; but perhaps he may be sometimes culpable for confining himself to business below his genius, and losing, in petty speculations, those hours by which, if he had spent them in nobler studies, he might have given new light to the intellectual world.  It is never without grief, that I find a man capable of ratiocination or invention enlisting himself in this secondary class of learning; for when he has once discovered a method of gratifying his desire of eminence by expense rather than by labour, and known the sweets of a life blest at once with the ease of idleness, and the reputation of knowledge, he will not easily be brought to undergo again the toil of thinking, or leave his toys and trinkets for arguments and principles, arguments which require circumspection and vigilance, and principles which cannot be obtained but by the drudgery of meditation. He will gladly shut himself up for ever with his shells and medals, like the companions of Ulysses, who, having tasted the fruit of Lotos,    would not, even by the hope of seeing their own country, be tempted again to the dangers of the sea. 
+
+   - u̓Αλλu̓ αu̓του βοu̓λοντο μετu̓ a̓νδρa̓σι Λωτοu̓a̓γοισι,
+ - Λωτo̓ν u̓ρεπτo̓μενοι μενe̓μεν, νοστo̓υ τε λa̓ΘεσΘαι.
+ Odyssey, IX. 96-97      - —Whoso tastes,
+ - Insatiate riots in the sweet repasts;
+ - Nor other home nor other care intends,
+ - But quits his house, his country, and his friends. 
+  POPE.     Collections of this kind are of use to the learned, as heaps of stones and piles of timber are necessary to the architect.  But to dig the quarry or to search the field, requires not much of any quality beyond stubborn perseverance; and though genius must often lie unactive without this humble assistance, yet this can claim little praise, because every man can afford it. 
+
+  To mean understandings, it is sufficient honour to be numbered amongst the lowest labourers of learning; but different abilities must find different tasks.  To hew stone, would have been unworthy of Palladio; and to have rambled in search of shells and flowers, had but ill suited with the capacity of Newton. 
+
+        
+## No. 84. SATURDAY, JANUARY 5, 1751 
+
+      - Cunarum fueras motor, Charideme, mearum,
+ - Et pueri custos, assiduusque comes.
+ - Jam mihi nigrescunt tonsa sudaria barba,—
+ - Sed tibi non crevi: te noster villicus horret:
+ - Te dispensator, te domus ipsa pavet.
+ - Corripis, observas, quereris, suspiria ducis,
+ - Et vix a ferulis abstinet ira manum. 
+  MART. Lib. xi. Ep. xxxix.       - You rock'd my cradle, were my guide,
+ - In youth still tending at my side:
+ - But now, dear sir, my beard is grown,
+ - Still I'm a child to thee alone.
+ - Our steward, butler, cook, and all,
+ - You fright, nay e'en the very wall;
+ - You pry, and frown, and growl, and chide,
+ - And scarce will lay the rod aside. 
+  F. LEWIS.       TO THE RAMBLER.
+  SIR,     You seem in all your papers to be an enemy to tyranny, and to look with impartiality upon the world; I shall therefore lay my case before you, and hope by your decision to be set free from unreasonable restraints, and enabled to justify myself against the accusations which spite and peevishness produce against me. 
+
+  At the age of five years I lost my mother; and my father, being not qualified to superintend the education of a girl, committed me to the care of his sister, who instructed me with the authority, and, not to deny her what she may justly claim, with the affection of a parent.  She had not very elevated sentiments, or extensive views, but her principles were good, and her intentions pure; and,    though some may practise more virtues, scarce any commit fewer faults. 
+
+  Under this good lady I learned all the common rules of decent behaviour, and standing maxims of domestick prudence; and might have grown up by degrees to a country gentlewoman, without any thoughts of ranging beyond the neighborhood, had not Flavia come down, last summer, to visit her relations in the next village.  I was taken, of course, to compliment the stranger, and was, at the first sight, surprised at the unconcern with which she saw herself gazed at by the company whom she had never known before; at the carelessness with which she received compliments, and the readiness with which she returned them.  I found she had something which I perceived myself to want, and could not but wish to be like her, at once easy and officious, attentive and unembarrassed.  I went home, and for four days could think and talk of nothing but Miss Flavia; though my aunt told me, that she was a forward slut, and thought herself wise before her time. 
+
+  In a little time she repaid my visit, and raised in my heart a new confusion of love and admiration. I soon saw her again, and still found new charms in her air, conversation, and behaviour.  You, who have perhaps seen the world, may have observed, that formality soon ceases between young persons.  I know not how others are affected on such occasions, but I found myself irresistibly allured to friendship and intimacy, by the familiar complai-   sance and airy gaiety of Flavia; so that in a few weeks I became her favourite, and all the time was passed with me, that she could gain from ceremony and visit. 
+
+  As she came often to me, she necessarily spent some hours with my aunt, to whom she paid great respect by low courtesies, submissive compliance, and soft acquiescence; but as I became gradually more accustomed to her manners, I discovered that her civility was general; that there was a certain degree of deference shewn by her to circumstances and appearances; that many went away flattered by her humility, whom she despised in her heart; that the influence of far the greatest part of those with whom she conversed ceased with their presence; and that sometimes she did not remember the names of them, whom, without any intentional insincerity or false commendation, her habitual civility had sent away with very high thoughts of their own importance. 
+
+  It was not long before I perceived that my aunt's opinion was not of much weight in Flavia's deliberations, and that she was looked upon by her as a woman of narrow sentiments, without knowledge of books, or observations on mankind.  I had hitherto considered my aunt as entitled, by her wisdom and experience, to the highest reverence; and could not forbear to wonder that any one so much younger should venture to suspect her of errour, or ignorance; but my surprise was without uneasiness, and being now accustomed to think Flavia always in the right,    I readily learned from her to trust my own reason, and to believe it possible, that they who had lived longer might be mistaken. 
+
+  Flavia had read much, and used so often to converse on subjects of learning, that she put all the men in the country to flight, except the old parson, who declared himself much delighted with her company, because she gave him opportunities to recollect the studies of his younger years, and, by some mention of ancient story, had made him rub the dust off his Homer, which had lain unregarded in his closet.  With Homer, and a thousand other names familiar to Flavia, I had no acquaintance, but began, by comparing her accomplishments with my own, to repine at my education, and wish that I had not been so long confined to the company of those from whom nothing but housewifery was to be learned.  I then set myself to peruse such books as Flavia recommended, and heard her opinion of their beauties and defects.  I saw new worlds hourly bursting upon my mind, and was enraptured at the prospect of diversifying life with endless entertainment. 
+
+  The old lady, finding that a large screen, which I had undertaken to adorn with turkey-work against winter, made very slow advances, and that I had added in two months but three leaves to a flowered apron then in the frame, took the alarm, and with all the zeal of honest folly exclaimed against my new acquaintance, who had filled me with idle notions, and turned my head with books.  But she had now lost her authority, for I began to find    innumerable mistakes in her opinions, and improprieties in her language; and therefore thought myself no longer bound to pay much regard to one who knew little beyond her needle and her dairy, and who professed to think that nothing more is required of a women than to see that the house is clean, and that the maids go to bed and rise at a certain hour. 
+
+  She seemed however to look upon Flavia as seducing me, and to imagine that when her influence was withdrawn, I should return to my allegiance; she therefore contented herself with remote hints, and gentle admonitions, intermixed with sage histories of the miscarriages of wit, and disappointments of pride.  But since she has found, that though Flavia is departed, I still persist in my new scheme, she has at length lost her patience, she snatches my book out of my hand, tears my paper if she finds me writing, burns Flavia's letters before my face when she can seize them, and threatens to lock me up, and to complain to my father of my perverseness. If women, she says, would but know their duty and their interest, they would be careful to acquaint themselves with family affairs, and many a penny might be saved; for while the mistress of the house is scribbling and reading, servants are junketing, and linen is wearing out.  She then takes me round the rooms, shews me the worked hangings, and chairs of tent-stitch, and asks whether all this was done with a pen and a book. 
+
+  I cannot deny that I sometimes laugh and some-   times am sullen; but she has not delicacy enough to be much moved either with my mirth or my gloom, if she did not think the interest of the family endangered by this change of my manners. She had for some years marked out young Mr. Surly, an heir in the neighbourhood, remarkable for his love of fighting-cocks, as an advantageous match; and was extremely pleased with the civilities which he used to pay me, till under Flavia's tuition I learned to talk of subjects which he could not understand.  This, she says, is the consequence of female study: girls grow too wise to be advised, and too stubborn to be commanded; but she is resolved to try who shall govern, and will thwart my humour till she breaks my spirit. 
+
+  These menaces, Mr. Rambler, sometimes make me quite angry; for I have been sixteen these ten weeks, and think myself exempted from the dominion of a governess, who has no pretensions to more sense or knowledge than myself.  I am resolved, since I am as tall and as wise as other women, to be no longer treated like a girl.  Miss Flavia has often told me, that ladies of my age go to assemblies and routs, without their mothers and their aunts; I shall therefore, from this time, leave asking advice, and refuse to give accounts.  I wish you would state the time at which young ladies may judge for themselves, which I am sure you cannot but think ought to begin before sixteen; if you are inclined to delay it longer, I shall have very little regard to your opinion.    
+
+  My aunt often tells me of the advantages of experience, and of the deference due to seniority; and both she and all the antiquated part of the world, talk of the unreserved obedience which they paid to the commands of their parents, and the undoubting confidence with which they listened to their precepts; of the terrors which they felt at a frown, and the humility with which they supplicated forgiveness whenever they had offended.  I cannot but fancy that this boast is too general to be true, and that the young and the old were always at variance. I have, however, told my aunt, that I will mend whatever she will prove to be wrong; but she replies that she has reasons of her own, and that she is sorry to live in an age when girls have the impudence to ask for proofs. 
+
+  I beg once again, Mr. Rambler, to know whether I am not as wise as my aunt, and whether, when she presumes to check me as a baby, I may not pluck up a spirit and return her insolence.  I shall not proceed to extremities without your advice, which is therefore impatiently expected by 
+
+  MYRTILLA. P. S. Remember I am past sixteen.       
+## No. 85. TUESDAY, JANUARY 8, 1751 
+
+      - Otia si tollas periere Cupidinis arcus
+ - Contemptaeque jacent, et sie luce faces. 
+  OVID. Rem. 139       - At busy hearts in vain Love's arrows fly;
+ - Dim'd, scorn'd, and impotent, his torches lie. 
+      MANY writers of eminence in physick have laid out their diligence upon the consideration of those distempers to which men are exposed by particular states of life, and very learned treatises have been produced upon the maladies of the camp, the sea, and the mines.  There are, indeed, few employments which a man accustomed to anatomical inquiries, and medical refinements, would not find reasons for declining as dangerous to health, did not his learning or experience inform him, that almost every occupation, however inconvenient or formidable, is happier and safer than a life of sloth. 
+
+  The necessity of action is not only demonstrable from the fabrick of the body, but evident from observation of the universal practice of mankind, who, for the preservation of health, in those whose rank or wealth exempts them from the necessity of lucrative labour, have invented sports and diversions, though not of equal use to the world with manual trades, yet of equal fatigue to those who practise them, and differing only from the drudgery of the husbandman or manufacturer, as they are acts of choice, and therefore performed without the painful sense of compulsion.  The huntsman rises early, pursues his game through all the dangers and    obstructions of the chace, swims rivers, and scales precipices, till he returns home no less harassed than the soldier, and has perhaps sometimes incurred as great hazard of wounds or death; yet he has no motive to incite his ardour; he is neither subject to the commands of a general, nor dreads any penalties for neglect and disobedience; he has neither profit nor honour to expect from his perils and his conquests, but toils without the hope of mural or civick garlands, and must content himself with the praise of his tenants and companions. 
+
+  But such is the constitution of man, that labour may be styled its own reward; nor will any external incitements be requisite, if it be considered how much happiness is gained, and how much misery escaped, by frequent and violent agitation of the body. 
+
+  Ease is the most that can be hoped from a sedentary and unactive habit; ease, a neutral state between pain and pleasure.  The dance of spirits, the bound of vigour, readiness of enterprize, and defiance of fatigue, are reserved for him that braces his nerves, and hardens his fibres, that keeps his limbs pliant with motion, and by frequent exposure fortifies his frame against the common accidents of cold and heat. 
+
+  With ease, however, if it could be secured, many would be content; but nothing terrestrial can be kept at a stand.  Ease, if it is not rising into pleasure, will be falling towards pain; and whatever hope the dreams of speculation may suggest of observing    the proportion between nutriment and labour, and keeping the body in a healthy state by supplies exactly equal to its waste, we know that, in effect, the vital powers unexcited by motion, grow gradually languid; that, as their vigour fails, obstructions are generated; and that from obstructions proceed most of those pains which wear us away slowly with periodical tortures, and which, though they sometimes suffer life to be long, condemn it to be useless, chain us down to the couch of misery, and mock us with the hopes of death. 
+
+  Exercise cannot secure us from that dissolution to which we are decreed; but while the soul and body continue united, it can make the association pleasing, and give probable hopes that they shall be disjoined by an easy separation.  It was a principle among the ancients, that acute diseases are from heaven, and chronical from ourselves: the dart of death indeed falls from heaven, but we poison it by our own misconduct: to die is the fate of man, but to die with lingering anguish is generally his folly[^JohRamb.8]. 
+
+  [^JohRamb.8]: [y] This passage was once strangely supposed by some readers to recommend suicide, instead of *exercise*, which is surely the more obvious meaning.  See, however, a letter from Dr. Johnson on the subject, in Boswell's Life.  vol. iv. p. 162.
+
+  It is necessary to that perfection of which our present state is capable, that the mind and body should both be kept in action; that neither the faculties of the one nor of the other be suffered to grow lax or torpid for want of use; that neither health be purchased by voluntary submission to ignorance,    nor knowledge cultivated at the expense of that health, which must enable it either to give pleasure to its possessor, or assistance to others.  It is too frequently the pride of students to despise those amusements and recreations, which give to the rest of mankind strength of limbs and cheerfulness of heart.  Solitude and contemplation are indeed seldom consistent with such skill in common exercises or sports as is necessary to make them practised with delight, and no man is willing to do that of which the necessity is not pressing and immediate, when he knows that his awkwardness must make him ridiculous. 
+
+   - Ludere qi nescit, campestribus abstinet armis,
+ - Indoctusqe pilae, discive,trochive quiescit,
+ - Ne spissae risum tolant impunè coronae. 
+HOR. ART. POET. 379.  - He that's unskilful will not toss a ball,
+- Nor run, nor wrestle, for he fears the fall;
+- He justly fears to meet deserv'd disgrace,
+- And that the ring will hiss the baffled ass.
+CREECH.  Thus the man of learning is often resigned, almost by his own consent, to languor and pain; and while in the prosecution of his studies he suffers the weariness of labour, is subject by his course of life to the maladies of idleness. 
+
+  It was, perhaps, from the observation of this mischievous omission in those who are employed about intellectual objects, that Locke has, in his "System of Education," urged the necessity of a trade to men of all ranks and professions, that when the mind is weary with its proper task, it may be re-   laxed by a slighter attention to some mechanical operation; and that while the vital functions are resuscitated and awakened by vigourous motion, the understanding may be restrained from that vagrance and dissipation by which it relieves itself after a long intenseness of thought, unless some allurement be presented that may engage application without anxiety. 
+
+  There is so little reason for expecting frequent conformity to Locke's precept, that it is not necessary to inquire whether the practice of mechanical arts might not give occasion to petty emulation, and degenerate ambition; and whether, if our divines and physicians were taught the lathe and the chisel, they would not think more of their tools than their books; as Nero neglected the care of his empire for his chariot and his fiddle.  It is certainly dangerous to be too much pleased with little things; but what is there which may not be perverted? Let us remember how much worse employment might have been found for those hours, which a manual occupation appears to engross; let us compute the profit with the loss, and when we reflect how often a genius is allured from his studies, consider likewise that perhaps by the same attraction he is sometimes withheld from debauchery, or recalled from malice, from ambition, from envy, and from lust. 
+
+  I have always admired the wisdom of those by whom our female education was instituted, for having contrived, that every woman, of whatever condition, should be taught some arts of manufacture,    by which the vacuities of recluse and domestick leisure may be filled up.  These arts are more necessary, as the weakness of their sex and the general system of life debar ladies from any employments which, by diversifying the circumstances of men, preserve them from being cankered by the rust of their own thoughts.  I know not how much of the virtue and happiness of the world may be the consequence of this judicious regulation.  Perhaps, the most powerful fancy might be unable to figure the confusion and slaughter that would be produced by so many piercing eyes and vivid understandings, turned loose at once upon mankind, with no other business than to sparkle and intrigue, to perplex and to destroy. 
+
+  For my part, whenever chance brings within my observation a knot of misses busy at their needles, I consider myself as in the school of virtue; and though I have no extraordinary skill in plain work or embroidery, look upon their operations with as much satisfaction as their governess, because I regard them as providing a security against the most dangerous ensnarers of the soul, by enabling themselves to exclude idleness from their solitary moments, and with idleness her attendant train of passions, fancies, and chimeras, fears, sorrows, and desires.  Ovid and Cervantes will inform them that love has no power but over those whom he catches unemployed; and Hector, in the Iliad, when he sees Andromache overwhelmed with terrours, sends her for consolation to the loom and the distaff.    
+
+  It is certain that any wild wish or vain imagination never takes such firm possession of the mind, as when it is found empty and unoccupied.  The old peripatetick principle, that *Nature abhors a vacuum*, may be properly applied to the intellect, which will embrace any thing, however absurd or criminal, rather than be wholly without an object.  Perhaps every man may date the predominance of those desires that disturb his life and contaminate his conscience, from some unhappy hour when too much leisure exposed him to their incursions; for he has lived with little observation either on himself or others, who does not know that to be idle is to be vicious. 
+
+     
+## No. 86. SATURDAY, JANUARY 12, 1751 
+
+    *Legitimumque sontbm digiti~ oallemu~ et aure.
+* Hon. De Ar. Poet. 274.  
+
+  By fingers, or by ear, we numbers scan. ELPHINSTON.  
+
+    ONE of the ancients has observed, that the burthen of government is increased upon princes by the virtues of their immediate predecessors.  It is, indeed, always dangerous to be placed in a state of unavoidable comparison with excellence, and the danger is still greater when that excellence is consecrated by death; when envy and interest cease to act against it, and those passions by which it was at first vilified and opposed, now stand in its defence, and turn their vehemence against honest emulation. 
+
+  He that succeeds a celebrated writer, has the same difficulties to encounter; he stands under the    shade of exalted merit, and is hindered from rising to his natural height, by the interception of those beams which should invigorate and quicken him. He applies to that attention which is already engaged, and unwilling to be drawn off from certain satisfaction; or perhaps to an attention already wearied, and not to be recalled to the same object. 
+
+  One of the old poets congratulates himself that he had the untrodden regions of Parnassus before him, and that his garland will be gathered from plantations which no writer had yet culled.  But the imitator treads a beaten walk, and with all his diligence can only hope to find a few flowers or branches untouched by his predecessor, the refuse of contempt, or the omissions of negligence.  The Macedonian conqueror, when he was once invited to hear a man that sung like a nightingale, replied with contempt, "that he had heard the nightingale herself;" and the same treatment must every man expect, whose praise is that he imitates another. 
+
+  Yet, in the midst of these discouraging reflections, I am about to offer to my reader some observations upon "Paradise Lost," and hope, that, however I may fall below the illustrious writer who has so long dictated to the commonwealth of learning, my attempt may not be wholly useless.  There are, in every age, new errours to be rectified, and new prejudices to be opposed.  False taste is always busy to mislead those that are entering upon the regions of learning; and the traveller, uncertain of his way, and forsaken by the    sun, will be pleased to see a fainter orb arise on the horizon, that may rescue him from total darkness, though with weak and borrowed lustre. 
+
+  Addison, though he has considered this poem under most of the general topicks of criticism has barely touched upon the versification; not probably because he thought the art of numbers unworthy of his notice, for he knew with what minute attention the ancient criticks considered the disposition of syllables, and had himself given hopes of some metrical observations upon the great Roman poet; but being the first who undertook to display the beauties, and point out the defects of Milton, he had many objects at once before him, and passed willingly over those which were most barren of ideas, and required labour, rather than genius. 
+
+  Yet versification, or the art of modulating his numbers, is indispensably necessary to a poet. Every other power by which the understanding is enlightened, or the imagination enchanted, may be exercised in prose.  But the poet has this peculiar superiority, that to all the powers which the perfection of every other composition can require, he adds the faculty of joining music with reason, and of acting at once upon the senses and the passions. I suppose there are few who do not feel themselves touched by poetical melody, and who will not confess that they are more or less moved by the same thoughts, as they are conveyed by different sounds, and more affected by the same words in one order than in another.  The perception of harmony    is indeed conferred upon men in degrees very unequal, but there are none who do not perceive it, or to whom a regular series of proportionate sounds cannot give delight. 
+
+  In treating on the versification of Milton, I am desirous to be generally understood, and shall therefore studiously decline the dialect of grammarians; though, indeed, it is always difficult, and sometimes scarcely possible, to deliver the precepts of an art, without the terms by which the peculiar ideas of that art are expressed, and which had not been invented but because the language already in use was insufficient.  If, therefore, I shall sometimes seem obscure, it may be imputed to this voluntary interdiction, and to a desire of avoiding that offence which is always given by unusual words. 
+
+  The heroick measure of the English language may be properly considered as pure or mixed.  It is pure when the accent rests upon every second syllable through the whole line.  
+
+   - Courage uncertain dangers may abate,
+- But whó can beár th' appróach of certain fate.
+DRYDEN.   - Here love his golden shafts employs, here lights
+- His cónstant lamp, and waves his púrple wings,
+- Reigns here and revels; not in the bought smile
+- Of hárlots, lóveless, jóyless, únendéar'd.
+MILTON.  The accent may be observed, in the second line of Dryden, and the second and fourth of Milton, to repose upon every second syllable. 
+
+  The repetition of this sound or percussion at equal times, is the most complete harmony of which    a single verse is capable, and should therefore be exactly kept in distichs, and generally in the last line of a paragraph, that the ear may rest without any sense of imperfection. 
+
+  But, to preserve the series of sounds untransposed in a long composition, is not only very difficult, but tiresome and disgusting; for we are soon wearied with the perpetual recurrence of the same cadence. Necessity has therefore enforced the mixed measure, in which some variation of the accents is allowed; this, though it always injures the harmony of the line, considered by itself, yet compensates the loss by relieving us from the continual tyranny of the same sound, and makes us more sensible of the harmony of the pure measure. 
+
+  Of these mixed numbers every poet affords us innumerable instances, and Milton seldom has two pure lines together, as will appear if any of his paragraphs be read with attention merely to the musick. 
+
+   -  Thus at their shady lodge arriv'd, both stood,
+ -  Both turn'd, and under open sky ador'd
+ -  The God that made both sky, air, earth, and heav'n,
+ -  Which they beheld; the moon's resplendent globe,
+ -  *And starry pole: thou also mad'st the night*,
+ -  Maker omnipotent! and thou the day,
+ -  Which we in our appointed work employ'd
+ -  Have finish'd, happy in our mutual help,
+ -  *And mutual love, the crown of all our bliss*,
+ -  Ordain'd by thee; and this delicious place,
+ -  For us too large; where thy abundance wants
+ -  Partakers, and uncrop'd falls to the ground;
+ -  But thou hast promis'd from us two a race
+ -  To fill the earth, who shall with us extol
+ -  Thy goodness infinite, both when we wake,
+ -  And when we seek, as now, thy gift of sleep. 
+      In this passage it will be at first observed, that all the lines are not equally harmonious, and upon a nearer examination it will be found that only the fifth and ninth lines are regular, and the rest are more or less licentious with respect to the accent. In some the accent is equally upon two syllables together, and in both strong.  As 
+
+   - Thus at their shady lodge arriv'd, *both stood*,
+ - *Both turn'd*, and under open sky ador'd
+ - The God that made both sky, *air, earth*, and heav'n. 
+  In others the accent is equally upon two syllables, but upon both weak.   - —A race
+ - To fill the earth, who shall with us extol
+ - Thy goodness *infinite*, both when we wake
+ - *And when* we seek, as now, thy gift of sleep. 
+  In the first pair of syllables the accent may deviate from the rigour of exactness, without any unpleasing diminution of harmony, as may be observed in the lines already cited, and more remarkably in this,     - —Thou also mad'st the night
+ - *Maker* omnipotent! and thou the day. 
+  
+
+  But, excepting in the first pair of syllables, which may be considered as arbitrary, a poet who, not having the invention or knowledge of Milton, has more need to allure his audience by musical cadences, should seldom suder more than one aberration from the rule in any single verse. 
+
+  There are two lines in this passage more remarkably unharmonious:   - —This delicious place,
+ - For us too large; *where thy* abundance wants
+ - Partakers, and uncrop'd *falls* to the ground. 
+      Here the third pair of syllables in the first, and fourth pair in the second verse, have their accents retrograde or inverted; the first syllable being strong or acute, and the second weak.  The detriment which the measure suffers by this inversion of the accents is sometimes less perceptible, when the verses are carried one into another, but is remarkably striking in this place, where the vicious verse concludes a period, and is yet more offensive in rhyme, when we regularly attend to the flow of every single line. This will appear by reading a couplet in which Cowley, an author not sufficiently studious of harmony, has committed the same fault.   - —His harmless life
+ - Does with substantial blessedness abound,
+ - And the soft wings of peace *cover* him round. 
+  In these the law of metre is very grossly violated by mingling combinations of sound directly opposite to each other, as Milton expresses in his sonnet, by *Committing short and long*, and setting one part of the measure at variance with the rest.  The ancients, who had a language more capable of variety than ours, had two kinds of verse, the Iambick, consisting of short and long syllables alternately, from which our heroick measure is derived, and Trochaick, consisting in a like alternation of long and short. These were considered as opposites, and conveyed the contrary images of speed and slowness; to confound them, therefore, as in these lines, is to deviate from the established practice.  But where the senses    are to judge, authority is not necessary, the ear is sufficient to detect dissonance, nor should I have sought auxiliaries on such an occasion against any name but that of Milton. 
+
+     
+## No. 87. TUESDAY, JANUARY 15, 1751 
+
+    - Invidius, iracundus, iners, vinosus, amator,
+ - Nemo adeo ferus est, ut non mitescere possit,
+ - Si modo culturae patientem commodet aurem. 
+  HOR. Lib. i. Ep. i. 38.       -  The slave to envy, anger, wine, or love,
+ -  The wretch of sloth, its excellence shall prove;
+ -  Fierceness itself shall hear its rage away,
+ -  When list'ning calmly to th' instructive lay. 
+  FRANCIS.     THAT few things are so liberally bestowed, or squandered with so little effect, as good advice, has been generally observed; and many sage positions have been advanced concerning the reasons of this complaint, and the means of removing it.  It is indeed an important and noble inquiry, for little would be wanting to the happiness of life, if every man could conform to the right as soon as he was shewn it. 
+
+  This perverse neglect of the most salutary precepts, and stubborn resistance of the most pathetick persuasion, is usually imputed to him by whom the counsel is received, and we often hear it mentioned as a sign of hopeless depravity, that though good advice was given, it has wrought no reformation. 
+
+  Others, who imagine themselves to have quicker sagacity and deeper penetration, have found out    that the inefficacy of advice is usually the fault of the counsellor, and rules have been laid down, by which this important duty may be successfully performed. We are directed by what tokens to discover the favourable moment at which the heart is disposed for the operation of truth and reason, with what address to administer, and with what vehicles to disguise *the catharticks of the soul*. 
+
+  But, notwithstanding this specious expedient, we find the world yet in the same state: advice is still given, but still received with disgust; nor has it appeared that the bitterness of the medicine has been yet abated, or its powers increased, by any methods of preparing it. 
+
+  If we consider the manner in which those who assume the office of directing the conduct of others execute their undertaking, it will not be wonderful that their labours, however zealous or affectionate, are frequently useless.  For what is the advice that is commonly given? A few general maxims, enforced with vehemence, and inculcated with importunity, but failing for want of particular reference and immediate application. 
+
+  It is not often that any man can have so much knowledge of another, as is necessary to make instruction useful.  We are sometimes not ourselves conscious of the original motives of our actions, and when we know them, our first care is to hide them from the sight of others, and often from those most diligently, whose superiority either of power or understanding may entitle them to inspect our    lives; it is therefore very probable that he who endeavours the cure of our intellectual maladies, mistakes their cause, and that his prescriptions avail nothing, because he knows not which of the passions or desires is vitiated. 
+
+  Advice, as it always gives a temporary appearance of superiority, can never be very grateful, even when it is most necessary or most judicious. But for the same reason every one is eager to instruct his neighbours.  To be wise or to be virtuous, is to buy dignity and importance at a high price; but when nothing is necessary to elevation but detection of the follies or the faults of others, no man is so insensible to the voice of fame as to linger on the ground. 
+
+  - —Tentanda via est, qua me quoque possim
+- Tollere humo, victorque virûm volitare per ora
+VIRG. Geor. iii. 8.  - New ways I must attempt, my groveling name
+- To raise aloft, and wing my flight to fame.
+DRYDEN.  Vanity is so frequently the apparent motive of advice, that we, for the most part, summon our powers to oppose it without any very accurate inquiry whether it is right.  It is sufficient that another is growing great in his own eyes at our expense, and assumes authority over us without our permission; for many would contentedly suffer the consequences of their own mistakes, rather than the insolence of him who triumphs as their deliverer. 
+
+  It is, indeed, seldom found that any advantages    are enjoyed with that moderation which the uncertainty of all human good so powerfully enforces; and therefore the adviser may justly suspect, that he has inflamed the opposition which he laments by arrogance and superciliousness.  He may suspect, but needs not hastily to condemn himself, for he can rarely be certain that the softest language or most humble diffidence would have escaped resentment; since scarcely any degree of circumspection can prevent or obviate the rage with which the slothful, the impotent, and the unsuccessful, vent their discontent upon those that excel them. Modesty itself, if it is praised, will be envied, and there are minds so impatient of inferiority, that their gratitude is a species of revenge, and they return benefits, not because recompense is a pleasure, but because obligation is a pain. 
+
+  The number of those whom the love of themselves has thus far corrupted, is perhaps not great; but there are few so free from vanity, as not to dictate to those who will hear their instructions with a visible sense of their own beneficence; and few to whom it is not unpleasing to receive documents, however tenderly and cautiously delivered, or who are not willing to raise themselves from pupillage, by disputing the propositions of their teacher. 
+
+  It was the maxim, I think, of Alphonsus of Arragon, that *dead counsellors are safest*.  The grave puts an end to flattery and artifice, and the information that we receive from books is pure from    interest, fear, or ambition.  Dead counsellors are likewise most instructive; because they are heard with patience and with reverence.  We are not unwilling to believe that man wiser than ourselves, from whose abilities we may receive advantage, without any danger of rivalry or opposition, and who affords us the light of his experience, without hurting our eyes by flashes of insolence. 
+
+  By the consultation of books, whether of dead or living authors, many temptations to petulance and opposition, which occur in oral conferences, are avoided.  An author cannot obtrude his service unasked, nor can be often suspected of any malignant intention to insult his readers with his knowledge or his wit.  Yet so prevalent is the habit of comparing ourselves with others, while they remain within the reach of our passions, that books are seldom read with complete impartiality, but by those from whom the writer is placed at such a distance that his life or death is indifferent. 
+
+  We see that volumes may be perused, and perused with attention, to little effect; and that maxims of prudence, or principles of virtue, may be treasured in the memory without influencing the conduct. Of the numbers that pass their lives among books, very few read to be made wiser or better, apply any general reproof of vice to themselves, or try their own manners by axioms of justice.  They purpose either to consume those hours for which they can find no other amusement, to gain or pre-   serve that respect which learning has always obtained; or to gratify their curiosity with knowledge, which, like treasures buried and forgotten, is of no use to others or themselves. 
+
+  "The preacher (says a French author) may spend an hour in explaining and enforcing a precept of religion, without feeling any impression from his own performance, because he may have no further design than to fill up his hour." A student may easily exhaust his life in comparing divines and moralists, without any practical regard to morality or religion; he may be learning not to live, but to reason; he may regard only the elegance of style, justness of argument, and accuracy of method; and may enable himself to criticise with judgment, and dispute with subtilty, while the chief use of his volumes is unthought of, his mind is unaffected, and his life is unreformed. 
+
+  But though truth and virtue are thus frequently defeated by pride, obstinacy, or folly, we are not allowed to desert them; for whoever can furnish arms which they hitherto have not employed, may enable them to gain some hearts which would have resisted any other method of attack.  Every man of genius has some arts of fixing the attention peculiar to himself, by which, honestly exerted, he may benefit mankind; for the arguments for purity of life fail of their due influence, not because they have been considered and confuted, but because they have been passed over without consideration. To the position of Tully, that if Virtue could be    seen, she must be loved, may be added, that if Truth could be heard, she must be obeyed. 
+
+     
+## No. 88. SATURDAY, JANUARY 19, 1751 
+
+      - Cum tabulis animum censoris sumet honesti,
+ - Audebit quaecunque minus splendoris habebunt,
+ - Aut sine pondere4 erunt, et honore indigna ferentr
+ - Verba movere loco, quamvis invita recedant
+ - Et versentur adhuc intra pnetralia Vestae. 
+  HON. Lib. ii. Ep. ii. 110.       -  But he that hath a curious piece designed,
+ -  When he begins must take a censor's mind,
+ -  Severe and honest; and what words appear
+ -  Too light and trivial, or too weak to bear
+ -  The weighty sense, nor worth the reader's care,
+ -  Shake off; though stubborn, they are loth to move,
+ -  And though we fancy, dearly though we love. 
+  CREECH.       "THERE is no reputation for genius," says Quintilian, to be gained by writing on things, which, however necessary, have little splendour to shew.  The height of a building attracts the eye, but the foundations lie without regard.  Yet since there is not any way to the top of science, but from the lowest parts, I shall think nothing unconnected with the art of oratory, which he that wants cannot be an orator." 
+
+  Confirmed and animated by this illustrious precedent, I shall continue my inquiries into Milton's art of versification.  Since, however minute the employment may appear, of analysing lines into syllables, and whatever ridicule may be incurred by a solemn deliberation upon accents and pauses, it is certain    that without this petty knowledge no man can be a poet; and that from the proper disposition of single sounds results that harmony that adds force to reason, and gives grace to sublimity; that shackles attention, and governs passions. 
+
+  That verse may be melodious and pleasing, it is necessary, not only that the words be so ranged as that the accent may fall on its proper place, but that the syllables themselves be so chosen as to flow smoothly into one another.  This is to be effected by a proportionate mixture of vowels and consonants, and by tempering the mute consonants with liquids and semivowels.  The Hebrew grammarians have observed, that it is impossible to pronounce two consonants without the intervention of a vowel, or without some emission of the breath between one and the other; this is longer and more perceptible, as the sounds of the consonants are less harmonically conjoined, and, by consequence, the flow of the verse is longer interrupted. 
+
+  It is pronounced by Dryden, that a line of monosyllables is almost always harsh.  This, with regard to our language, is evidently true, not because monosyllables cannot compose harmony, but because our monosyllables, being of Teutonick original, or formed by contraction, commonly begin and end with consonants, as,   - —Every lower faculty
+ - *Of sense, whereby they hear, see, smell, touch, taste*. 
+  
+
+  The difference of harmony arising principally from the collocation of vowels and consonants, will be    sufficiently conceived by attending to the following passages:   - Immortal *Amarant*—there grows
+ - And flow'rs aloft, shading the fount of life,
+ - And where the river of bliss through midst of heav'n
+ - *Rolls o'er Elysian flow'rs her amber stream*;
+ - With these that never fade, the spirits elect
+ - *Bind their resplendent locks inwreath'd with beams*. 
+  
+
+  The same comparison that I propose to be made between the fourth and sixth verses of this passage, may be repeated between the last lines of the following quotations:   - —Under foot the violet,
+ - Crocus, and hyacinth, with rich in-lay
+ - *Broider'd the ground, more colour'd than with stone*, and yet unspoil'd
+ - Suiana, whose great city *Gerion's* sons
+ - Call *El Dorado*.— 
+      - The moon—The *Tuscan* artist views
+ - At evening, from the top of *Fesole*
+ - Or in *Valdarno*, to descry new lands.— 
+  
+
+  He has indeed been more attentive to his syllables than to his accents, and does not often offend by collisions of consonants, or openings of vowels upon each other, at least not more often than other writers who have had less important or complicated subjects to take off their care from the cadence of their lines. 
+
+  The great peculiarity of Milton's versification compared with that of later poets, is the elision of one vowel before another, or the suppression of the last syllable of a word ending with a vowel, when a vowel begins the following word.  As   - —Knowledge
+ - Oppresses else with surfeit, and soon turns
+ - Wisdom to folly, as nourishment to wind. 
+  
+
+  This licence, though now disused in English poetry, was practised by our old writers, and is allowed in many other languages ancient and modern, and therefore the criticks on "Paradise Lost" have, without much deliberation, commended Milton for continuing it[^JohRamb.9].  But one language cannot communicate its rules to another.  We have already tried and rejected the hexometer of the ancients, the double close of the Italians, and the alexandrine of the French; and the elision of vowels, however graceful    it may seem to other nations, may be very unsuitable to the genius of the English tongue. 
+
+  [^JohRamb.9]: [z] Variation.  "This licence, though an innovation in English poetry, is yet allowed in many other languages ancient and modern; and therefore the criticks on Paradise Lost have, without much deliberation, commended Milton for introducing it." *First folio edition*.
+
+  There is reason to believe that we have negligently lost part of our vowels, and that the silent *e* which our ancestors added to most of our monosyllables, was once vocal.  By this detruncation of our syllables, our language is overstocked with consonants, and it is more necessary to add vowels to the beginning of words, than to cut them off from the end. 
+
+  Milton therefore seems to have somewhat mistaken the nature of our language, of which the chief defect is ruggedness and asperity, and has left our harsh cadences yet harsher.  But his elisions are not all equally to be censured; in some syllables they may be allowed, and perhaps in a few may be safely imitated.  The abscission of a vowel is undoubtedly vicious when it is strongly sounded, and makes, with its associate consonant, a full and audible syllable.   -  —What he gives,
+ -  Spiritual, may to purest spirits be found,
+ -  *No* ingrateful food, and food alike these pure
+ -  Intelligential substances require. 
+   -  Fruits,—Hesperian fables true
+ -  If true, here *only*, and of delicious taste. 
+   -  —Evening now approach'd,
+ -  For we have *also* our evening and our morn. 
+   -  Of guests he makes them slaves
+ -  Inhospit*ably*, and kills their infant males. 
+   -  And vital Vir*tue* infus'd, and vital warmth
+ -  Throughout the fluid mass.— 
+   -  God made *thee* of choice his own, and of his own
+ -  To serve him. 
+  
+
+      I believe every reader will agree, that in all those passages, though not equally in all, the musick is injured, and in some the meaning obscured. There are other lines in which the vowel is cut off, but it is so faintly pronounced in common speech, that the loss of it in poetry is scarcely perceived; and therefore such compliance with the measure may be allowed.   - —Nature breeds
+ - Perverse, all monstrous, all prodigious things,
+ - Abomina*ble*, inuttera*ble*; and worse
+ - Than fables yet have feigned. 
+   - —From the shore
+ - They view'd the vast immensura*ble* abyss.
+ - Impenetra*ble*, impal'd with circling fire.
+ - To none communica*ble* in earth or heav'n. 
+  
+
+  Yet even these contractions increase the roughness of a language too rough already; and though in long poems they may be sometimes suffered, it never can be faulty to forbear them. 
+
+  Milton frequently uses in his poems the hypermetrical or redundant line of eleven syllables.   - —Thus it shall befall
+ - Him who to worth in woman over-trust*ing*
+ - Lets her will rule.— 
+   - I also err'd in over much admir*ing*. 
+  
+
+  Verses of this kind occur almost in every page; but though they are not unpleasing or dissonant, they ought not to be admitted into heroick poetry, since the narrow limits of our language allow us no other distinction of epick and tragick measures, than is afforded by the liberty of changing at will    the terminations of the dramatick lines, and bringing them by that relaxation of metrical rigour nearer to prose. 
+
+     
+## No. 89. TUESDAY, JANUARY 22, 1751 
+
+    *Dulce est desipere in loco.
+* HOR. Lib. iv. Od. xii. 28.   
+
+  Wisdom at proper times is well forgot. 
+
+    LOCKE, whom there is no reason to suspect of being a favourer of idleness or libertinism, has advanced, that whoever hopes to employ any part of his time with efficacy and vigour, must allow some of it to pass in trifles.  It is beyond the powers of humanity to spend a whole life in profound study and intense meditation, and the most rigorous exacters of industry and seriousness have appointed hours for relaxation and amusement. 
+
+  It is certain, that, with or without our consent, many of the few moments allotted us will slide imperceptibly away, and that the mind will break, from confinement to its stated task, into sudden excursions.  Severe and connected attention is preserved but for a short time; and when a man shuts himself up in his closet, and bends his thoughts to the discussion of any abstruse question, he will find his faculties continually stealing away to more pleasing entertainments.  He often perceives himself transported, he knows not how, to distant tracts of thought, and returns to his first object as from a dream, without knowing when he forsook it, or how long he has been abstracted from it.    
+
+  It has been observed that the most studious are not always the most learned. There is, indeed, no great difficulty in discovering that this difference of proficiency may arise from the difference of intellectual powers, of the choice of books, or the convenience of information. But I believe it likewise frequently happens that the most recluse are not the most vigorous prosecutors of study. Many impose upon the world, and many upon themselves, by an appearance of severe and exemplary diligence, when they, in reality, give themselves up to the luxury of fancy, please their minds with regulating the past, or planning the future; place themselves at will in varied situations of happiness, and slumber away their days in voluntary visions. In the journey of life some are left behind, because they are naturally feeble and slow; some because they miss the way, and many because they leave it by choice, and instead of pressing onward with a steady pace, delight themselves with momentary deviations, turn aside to pluck every flower, and repose in every shade. 
+
+  There is nothing more fatal to a man whose business is to think, than to have learned the art of regaling his mind with those airy gratifications. Other vices or follies are restrained by fear, reformed by admonition, or rejected by the conviction which the comparison of our conduct with that of others may in time produce. But this invisible riot of the mind, this secret prodigality of being, is secure from detection, and fearless of reproach. The dreamer re-   tires to his apartments, shuts out the cares and interruptions of mankind, and abandons himself to his own fancy; new worlds rise up before him, one image is followed by another, and a long succession of delights dances round him. He is at last called back to life by nature, or by custom, and enters peevish into society, because he cannot model it to his own will. He returns from his idle excursions with the asperity, though not with the knowledge of a student, and hastens again to the same felicity with the eagerness of a man bent upon the advancement of some favourite science. The infatuation strengthens by degrees, and like the poison of opiates, weakens his powers, without any external symptoms of malignity. 
+
+  It happens, indeed, that these hypocrites of learning are in time detected, and convinced by disgrace and disappointment of the difference between the labour of thought, and the sport of musing. But this discovery is often not made till it is too late to recover the time that has been fooled away. A thousand accidents may, indeed, awaken drones to a more early sense of their danger and their shame. But they who are convinced of the necessity of breaking from this habitual drowsiness, too often relapse in spite of their resolution; for these ideal seducers are always near, and neither any particularity of time nor place is necessary to their influence; they invade the soul without warning, and have often charmed down resistance before their approach is perceived or suspected.    
+
+  This captivity, however, it is necessary for every man to break, who has any desire to be wise or useful, to pass his life with the esteem of others, or to look back with satisfaction from his old age upon his earlier years.  In order to regain liberty, he must find the means of flying from himself; he must, in opposition to the Stoick precept, teach his desires to fix upon external things; he must adopt the joys and the pains of others, and excite in his mind the want of social pleasures and amicable communication. 
+
+  It is, perhaps, not impossible to promote the cure of this mental malady, by close application to some new study, which may pour in fresh ideas, and keep curiosity in perpetual motion.  But study requires solitude, and solitude is a state dangerous to those who are too much accustomed to sink into themselves. Active employment or public pleasure is generally a necessary part of this intellectual regimen, without which, though some remission may be obtained, a complete cure will scarcely be effected. 
+
+  This is a formidable and obstinate disease of the intellect, of which, when it has once become radicated by time, the remedy is one of the hardest tasks of reason and of virtue.  Its slightest attacks, therefore, should be watchfully opposed; and he that finds the frigid and narcotick infection beginning to seize him, should turn his whole attention against it, and check it at the first discovery by proper counteraction.    
+
+  The great resolution to be formed, when happiness and virtue are thus formidably invaded, is, that no part of life be spent in a state of neutrality or indifference; but that some pleasure be found for every moment that is not devoted to labour; and that, whenever the necessary business of life grows irksome or disgusting, an immediate transition be made to diversion and gaiety. 
+
+  After the exercises which the health of the body requires, and which have themselves a natural tendency to actuate and invigorate the mind, the most eligible amusement of a rational being seems to be that interchange of thoughts which is practised in free and easy conversation; where suspicion is banished by experience, and emulation by benevolence; where every man speaks with no other restraint than unwillingness to offend, and hears with no other disposition than desire to be pleased. 
+
+  There must be a time in which every man trifles; and the only choice that nature offers us, is, to trifle in company or alone.  To join profit with pleasure, has been an old precept among men who have had very different conceptions of profit.  All have agreed that our amusements should not terminate wholly in the present moment, but contribute more or less to future advantage.  He that amuses himself among well-chosen companions, can scarcely fail to receive, from the most careless and obstreperous merriment which virtue can allow, some useful hints; nor can converse on the most familiar topicks without some casual information.  The loose sparkles of thoughtless    wit may give new light to the mind, and the gay contention for paradoxical positions rectify the opinions. 
+
+  This is the time in which those friendships that give happiness or consolation, relief or security, are generally formed.  A wise and good man is never so amiable as in his unbended and familiar intervals. Heroick generosity, or philosophical discoveries, may compel veneration and respect, but love always implies some kind of natural or voluntary equality, and is only to be excited by that levity and cheerfulness which disencumber all minds from awe and solicitude, invite the modest to freedom, and exalt the timorous to confidence.  This easy gaiety is certain to please, whatever be the character of him that exerts it; if our superiors descend from their elevation, we love them for lessening the distance at which we are placed below them; and inferiors, from whom we can receive no lasting advantage, will always keep our affections while their sprightliness and mirth contribute to our pleasure. 
+
+  Every man finds himself differently affected by the sight of fortresses of war, and palaces of pleasure; we look on the height and strength of the bulwarks with a kind of gloomy satisfaction, for we cannot think of defence without admitting images of danger, but we range delighted and jocund through the gay apartments of the palace, because nothing is impressed by them on the mind but joy and festivity.  Such is the difference between great and amiable characters; with protectors we are safe, with companions we are happy. 
+
+         
+## No. 90. SATURDAY, JANUARY 26, 1751 
+
+    *In tenui labor.
+* VIRG. Geor. iv. 6.  
+
+  What toil in slender things! 
+
+     IT is very difficult to write on the minuter parts of literature without failing either to please or instruct.  Too much nicety of detail disgusts the greatest part of readers, and to throw a multitude of particulars under general heads, and lay down rules of extensive comprehension, is to common understandings of little use.  They who undertake these subjects are therefore always in danger, as one or other inconvenience arises to their imagination, of frighting us with rugged science, or amusing us with empty sound. 
+
+  In criticising the work of Milton, there is, indeed, opportunity to intersperse passages that can hardly fail to relieve the languors of attention; and since, in examining the variety and choice of the pauses with which he has diversified his numbers, it will be necessary to exhibit the lines in which they are to be found, perhaps the remarks may be well compensated by the examples, and the irksomeness of grammatical disquisitions somewhat alleviated. 
+
+  Milton formed his scheme of versification by the poets of Greece and Rome, whom he proposed to himself for his models, so far as the difference of his language from theirs would permit the imitation. There are indeed many inconveniences inseparable from our heroick measure compared with that of Homer and Virgil; inconveniences, which it is no re-   proach to Milton not to have overcome,because they are in their own nature insuperable; but against which he has struggled with so much art and diligence, that he may at least be said to have deserved success. 
+
+  The hexameter of the ancients may be considered as consisting of fifteen syllables, so melodiously disposed, that, as every one knows who has examined the poetical authors, very pleasing and sonorous lyrick measures are formed from the fragments of the heroick.  It is, indeed, scarce possible to break them in such a manner but that *invenias etiam disjecti membra poetæ*, some harmony will still remain, and the due proportions of sound will always be discovered.  This measure therefore allowed great variety of pauses, and great liberties of connecting one verse with another, because wherever the line was interrupted, either part singly was musical. But the ancients seem to have confined this privilege to hexameters; for in their other measures, though longer than the English heroick, those who wrote after the refinements of versification, venture so seldom to change their pauses, that every variation may be supposed rather a compliance with necessity than the choice of judgment. 
+
+  Milton was constrained within the narrow limits of a measure not very harmonious in the utmost perfection; the single parts, therefore, into which it was to be sometimes broken by pauses, were in danger of losing the very form of verse.  This has, perhaps, notwithstanding all his care, sometimes happened{.}    
+
+  As harmony is the end of poetical measures, no part of a verse ought to be so separated from the rest as not to remain still more harmonious than prose, or to show, by the disposition of the tones, that it is part of a verse.  This rule in the old hexameter might be easily observed, but in English will very frequently be in danger of violation; for the order and regularity of accents cannot well be perceived in a succession of fewer than three syllables, which will confine the English poet to only five pauses; it being supposed, that when he connects one line with another, he should never make a full pause at less distance than that of three syllables from the beginning or end of a verse. 
+
+  That this rule should be universally and indispensably established, perhaps cannot be granted; something may be allowed to variety, and something to the adaptation of the numbers to the subject; but it will be found generally necessary, and the ear will seldom fail to suffer by its neglect. 
+
+  Thus when a single syllable is cut off from the rest, it must either be united to the line with which the sense connects it, or be sounded alone.  If it be united to the other line, it corrupts its harmony; if disjoined, it must stand alone, and with regard to musick be superfluous; for there is no harmony in a single sound, because it has no proportion to another.   - —Hypocrites austerely talk
+ - Defaming as impure what God declares
+ - *Pure*; and commands to some, leaves free to all. 
+  
+
+  When two syllables likewise are abscinded from      the rest, they evidently want some associate sounds to make them harmonious.   -  —Eyes—
+ -  —more wakeful than to drouze,
+ -  Charm'd with Arcadian pipe, the pastoral reed
+ -  Of Hermes, or his opiate rod. *Meanwhile*
+ -  To re-salute the world with sacred light
+ -  Leucothea wak'd. 
+   - He ended, and the sun gave signal high
+ - To the bright minister that watch'd: *he blew*;
+ - His trumpet. 
+   - First in the east his glorious lamp was seen,
+ -  Regent of day; and all th' horizon round
+ -  Invested with bright rays, jocund to run
+ -  His longitude through heav'n's high road; *the gray*
+ -  Dawn, and the Pleiades, before him danc'd,
+ -  Shedding sweet influence. 
+  
+
+  The same defect is perceived in the following line, where the pause is at the second syllable from the beginning.   - —The race
+ -  Of what wild rout that tore the Thracian bard
+ -  In Rhodope, where woods and rocks had ears
+ -  To rapture, 'till the savage clamour drown'd
+ -  Both harp and voice; nor could the muse defend
+ -  *Her son*.  So fail not thou, who thee implores. 
+  
+
+  When the pause falls upon the third syllable or the seventh, the harmony is the better preserved; but as the third and seventh are weak syllables, the period leaves the ear unsatisfied, and in expectation of the remaining part of the verse.   - —He, with his horrid crew,
+ -  Lay vanquish'd, rolling in the fiery gulph,
+ -  Confounded though immor*tal*.  But his doom
+ -  Reserv'd him to more wrath; for now the thought
+ -  Both of lost happiness and lasting pain
+ -  Torments *him*. 
+       - God,—with frequent intercourse,
+ -  Thither will send his winged messengers
+ -  On errands of supernal grace.  So sung
+ -  The glorious train ascending. 
+  
+
+  It may be, I think, established as a rule, that a pause which concludes a period should be made for the most part upon a strong syllable, as the fourth and sixth; but those pauses which only suspend the sense may be placed upon the weaker.  Thus the rest in the third line of the first passage satisfies the ear better than in the fourth, and the close of the second quotation better than of the third.   - —The evil soon
+ -  Drawn back, redounded (as a flood) on those
+ -  From whom it *sprung*; impossible to mix
+ -  With *blessedness*. 
+   -  —What we by day
+ -  Lop overgrown, or prune, or prop, or bind,
+ -  One night or two with wanton growth derides,
+ -  Tending to *wild*. 
+   - The paths and bow'rs doubt not but our joint hands
+ -  Will keep from wilderness with ease as wide
+ -  As we need walk, till younger hands ere long
+ -  Assist *us*. 
+  
+
+  The rest in the fifth place has the same inconvenience as in the seventh and third, that the syllable is weak.   -  Beast now with beast 'gan war, and fowl with fowl,
+ -  And fish with fish, to graze the herb all leaving,
+ -  Devour'd each *other*: Nor stood much in awe
+ -  Of man, but fled *him*, or with countenance grim,
+ -  Glar'd on him pass*ing*. 
+  
+
+  The noblest and most majestick pauses which our versification admits, are upon the fourth and    sixth syllables, which are both strongly sounded in a pure and regular verse, and at either of which the line is so divided, that both members participate of harmony.   -  But now at last the sacred influence
+ -  Of light *appears*, and from the walls of heav'n
+ -  Shoots far into the bosom of dim night
+ -  A glimmering *dawn*: here nature first begins
+ -  Her farthest verge, and chaos to retire. 
+  
+
+  But far above all others, if I can give any credit to my own ear, is the rest upon the sixth syllable, which, taking in a complete compass of sound, such as is sufficient to constitute one of our lyrick measures, makes a full and solemn close.  Some passages which conclude at this stop, I could never read without some strong emotions of delight or admiration.   -  Before the hills appear'd, or fountain flow'd,
+ -  Thou with the eternal wisdom didst converse,
+ -  Wisdom thy sister, and with her didst play
+ -  In presence of the almighty Father, pleas'd
+ -  With thy celestial *song*. 
+   -  Or other words they seem'd, or happy isles,
+ -  Like those Hesperian gardens fam'd of old,
+ -  Fortunate fields, and groves, and flowery vales,
+ -  Thrice happy isles! But who dwelt happy there,
+ -  He stayed not to in*quire*. 
+   -  —He blew
+ -  His trumpet, heard in Oreb since, perhaps
+ -  When God descended; and, perhaps, once more
+ -  To sound at general *doom*. 
+  
+
+  If the poetry of Milton be examined, with regard to the pauses and flow of his verses into each other, it will appear, that he has performed all that our    language would admit; and the comparison of his numbers with those who have cultivated the same manner of writing, will show that he excelled as lnuch in the lower as the higher parts of his art, and that his skill in harmony was not less than his invention or his learning. 
+
+     
+## No. 91. TUESDAY, JANUARY 29, 1751 
+
+      - Dulcis inexpertis cultura potentis amici,
+ - Expertus metuit. 
+ HOR. Lib. i. Ep. xviii. 86.      -  To court the great ones, and to sooth their pride
+ -  Seems a sweet task to those that never tried;
+ -  But those that have, know well that danger's near. 
+ CREECH.     THE Sciences having long seen their votaries labouring for the benefit of mankind without reward, put up their petition to Jupiter for a more equitable distribution of riches and honours.  Jupiter was moved at their complaints, and touched with the approaching miseries of men, whom the Sciences, wearied with perpetual ingratitude, were now threatening to forsake, and who would have been reduced by their departure to feed in dens upon the mast of trees, to hunt their prey in deserts, and to perish under the paws of animals stronger and fiercer than themselves. 
+
+  A synod of the celestials was therefore convened, in which it was resolved, that Patronage should descend to the assistance of the Sciences.  Patronage was the daughter of Astrea, by a mortal father, and had been educated in the school of Truth, by the Goddesses, whom she was now appointed to pro-   tect.  She had from her mother that dignity of aspect, which struck terrour into false merit, and from her mistress that reserve, which made her only accessible to those whom the Sciences brought into her presence. 
+
+  She came down, with the general acclamation of all the powers that favour learning.  Hope danced before her, and Liberality stood at her side, ready to scatter by her direction the gifts which Fortune, who followed her, was commanded to supply.  As she advanced towards Parnassus, the cloud which had long hung over it, was immediately dispelled. The shades, before withered with drought, spread their original verdure, and the flowers that had languished with chillness brightened their colours, and invigorated their scents; the Muses tuned their harps, and exerted their voices; and all the concert of nature welcomed her arrival. 
+
+  On Parnassus she fixed her residence, in a palace raised by the Sciences, and adorned with whatever could delight the eye, elevate the imagination, or enlarge the understanding.  Here she dispersed the gifts of Fortune with the impartiality of Justice, and the discernment of Truth.  Her gate stood always open, and Hope sat at the portal, inviting to entrance all whom the Sciences numbered in their train.  The court was therefore thronged with innumerable multitudes, of whom, though many returned disappointed, seldom any had confidence to complain; for Patronage was known to neglect few, but for want of the due claims to her regard.    Those, therefore, who had solicited her favour without success, generally withdrew from publick notice, and either diverted their attention to meaner employments, or endeavoured to supply their deficiencies by closer application. 
+
+  In time, however, the number of those who had miscarried in their pretensions grew so great, that they became less ashamed of their repulses; and instead of hiding their disgrace in retirement, began to besiege the gates of the palace, and obstruct the entrance of such as they thought likely to be more caressed.  The decisions of Patronage, who was but half a Goddess, had been sometimes erroneous; and though she always made haste to rectify her mistakes, a few instances of her fallibility encouraged every one to appeal from her judgment to his own and that of his companions, who are always ready to clamour in the common cause, and elate each other with reciprocal applause. 
+
+  Hope was a steady friend of the disappointed, and Impudence incited them to accept a second invitation, and lay their claim again before Patronage. They were again, for the most part, sent back with ignominy, but found Hope not alienated, and Impudence more resolutely zealous; they therefore contrived new expedients, and hoped at last to prevail by their multitudes, which were always increasing, and their perseverance, which Hope and Impudence forbad them to relax. 
+
+  Patronage having been long a stranger to the heavenly assemblies, began to degenerate towards    terrestrial nature, and forget the precepts of Justice and Truth.  Instead of confining her friendship to the Sciences, she suffered herself, by little and little, to contract an acquaintance with Pride, the son of Falsehood, by whose embraces she had two daughters, Flattery and Caprice.  Flattery was nursed by Liberality, and Caprice by Fortune, without any assistance from the lessons of the Sciences. 
+
+  Patronage began openly to adopt the sentiments and imitate the manners of her husband, by whose opinions she now directed her decisions with very little heed to the precepts of Truth; and as her daughters continually gained upon her affections, the Sciences lost their influence, till none found much reason to boast of their reception, but those whom Caprice or Flattery conducted to her throne. 
+
+  The throngs who had so long waited, and so often been dismissed for want of recommendation from the Sciences, were delighted to see the power of those rigourous Goddesses tending to its extinction. Their patronesses now renewed their encouragements. Hope smiled at the approach of Caprice, and Impudence was always at hand to introduce her clients to Flattery. 
+
+  Patronage had now learned to procure herself reverence by ceremonies and formalities, and, instead of admitting her petitioners to an immediate audience, ordered the ante-chamber to be erected, called among mortals, the *Hall of Expectation*. Into this hall the entrance was easy to those whom    Impudence had consigned to Flattery, and it was therefore crowded with a promiscuous throng, assembled from every corner of the earth, pressing forward with the utmost eagerness of desire, and agitated with all the anxieties of competition. 
+
+  They entered this general receptacle with ardour and alacrity, and made no doubt of speedy access, under the conduct of Flattery, to the presence of Patronage.  But it generally happened that they were here left to their destiny, for the inner doors were committed to Caprice, who opened and shut them, as it seemed, by chance, and rejected or admitted without any settled rule of distinction.  In the mean time, the miserable attendants were left to wear out their lives in alternate exultation and dejection, delivered up to the sport of Suspicion, who was always whispering into their ear designs against them which were never formed, and of Envy, who diligently pointed out the good fortune of one or other of their competitors.  Infamy flew round the hall, and scattered mildews from her wings, with which every one was stained; Reputation followed her with slower flight, and endeavoured to hide the blemishes with paint, which was immediately brushed away, or separated of itself, and left the stains more visible; nor were the spots of Infamy ever effaced, but with limpid water effused by the hand of Time from a well which sprung up beneath the throne of Truth. 
+
+  It frequently happened that Science, unwilling to lose the ancient prerogative of recommending to    Patronage, would lead her followers into the Hall of Expectation; but they were soon discouraged from attending, for not only Envy and Suspicion incessantly tormented them, but Impudence considered them as intruders, and incited Infamy to blacken them.  They therefore quickly retired, but seldom without some spots which they could scarcely wash away, and which shewed that they had once waited in the Hall of Expectation. 
+
+  The rest continued to expect the happy moment, at which Caprice should beckon them to approach; and endeavoured to propitiate her, not with Homerical harmony, the representation of great actions, or the recital of noble sentiments, but with soft and voluptuous melody, intermingled with the praises of Patronage and Pride, by whom they were heard at once with pleasure and contempt. 
+
+  Some were indeed admitted by Caprice, when they least expected it, and heaped by Patronage with the gifts of Fortune, but they were from that time chained to her footstool, and condemned to regulate their lives by her glances and her nods: they seemed proud of their manacles, and seldom complained of any drudgery, however servile, or any affront, however contemptuous; yet they were often, notwithstanding their obedience, seized on a sudden by Caprice, divested of their ornaments, and thrust back into the Hall of Expectation. 
+
+  Here they mingled again with the tumult, and all, except a few whom experience had taught to seek happiness in the regions of liberty, continued     {illust. caption = Painted by Sir Joshua Reynolds, P.R.A.  R. B. SHERIDAN}   to spend hours, and days, and years, courting the smile of Caprice by the arts of Flattery; till at length new crowds pressed in upon them, and drove them forth at different outlets into the habitations of Disease, and Shame, and Poverty, and Despair, where they passed the rest of their lives in narratives of promises and breaches of faith, of joys and sorrows, of hopes and disappointments. 
+
+  The Sciences, after a thousand indignities, retired from the palace of Patronage, and having long wandered over the world in grief and distress were led at last to the cottage of Independence, the daughter of Fortitude; where they were taught by Prudence and Parsimony to support themselves in dignity and quiet. 
+
+     
+## No. 92. SATURDAY, FEBRUARY 2, 1751 
+
+      - Jam nunc minaci murmure cornuum
+ - Pestringis aures, jam litui strepunt 
+ HOR. Lib. ii. Ode i. 17.       -  Lo! now the clarion's voice I hear,
+ -  Its threat'ning murmurs pierce mine ear,
+ -  And in thy lines with brazen breath
+ -  The trumpet sounds the charge of death. 
+ FRANCIS.      IT has been long observed, that the idea of beauty is vague and undefined, different in different minds, and diversified by time or place.  It has been a term hitherto used to signify that which pleases us we know not why, and in our approbation of which we can justify ourselves only by the concurrence of numbers, without much power of en-   forcing our opinion upon others by any argument but example and authority.  It is, indeed, so little subject to the examinations of reason, that Paschal supposes it to end where demonstration begins, and maintains, that without incongruity and absurdity we cannot speak of *geometrical beauty*. 
+
+  To trace all the sources of that various pleasure which we ascribe to the agency of beauty, or to disentangle all the perceptions involved in its idea, would, perhaps, require a very great part of the life of Aristotle or Plato.  It is, however, in many cases apparent, that this quality is merely relative and comparative; that we pronounce things beautiful because they have something which we agree, for whatever reason, to call beauty, in a greater degree than we have been accustomed to find it in other things of the same kind; and that we transfer the epithet as our knowledge increases, and appropriate it to higher excellence, when higher excellence comes within our view. 
+
+  Much of the beauty of writing is of this kind; and therefore Boileau justly remarks, that the books which have stood the test of time, and been admired through all the changes which the mind of man has suffered from the various revolutions of knowledge, and the prevalence of contrary customs, have a better claim to our regard than any modern can boast, because the long continuance of their reputation proves that they are adequate to our faculties, and agreeable to nature. 
+
+  It is, however, the task of criticism to establish    principles; to improve opinion into knowledge; and to distinguish those means of pleasing which depend upon known causes and rational deduction, from the nameless and inexplicable elegancies which appeal wholly to the fancy, from which we feel delight, but know not how they produce it, and which may well be termed the enchantresses of the soul. Criticism reduces those regions of literature under the dominion of science, which have hitherto known only the anarchy of ignorance, the caprices of fancy, and the tyranny of prescription. 
+
+  There is nothing in the art of versifying so much exposed to the power of imagination as the accommodation of the sound to the sense, or the representation of particular images, by the flow of the verse in which they are expressed.  Every student has innumerable passages, in which he, and perhaps he alone, discovers such resemblances; and since the attention of the present race of poetical readers seems particularly turned upon this species of elegance, I shall endeavour to examine how much these conformities have been observed by the poets, or directed by the criticks, how far they can be established upon nature and reason, and on what occasions they have been practised by Milton. 
+
+  Homer, the father of all poetical beauty, has been particularly celebrated by Dionysius of Halicarnassus, as "he that, of all the poets, exhibited the greatest variety of sound; for there are," says he, "innumerable passages, in which length of time, bulk of body, extremity of passion, and stillness of    repose; or, in which, on the contrary, brevity, speed, and eagerness, are evidently marked out by the sound of the syllables.  Thus the anguish and slow pace with which the blind *Polypheme* groped out with his hands the entrance of his cave, are perceived in the cadence of the verses which describe it."
+
+   - Κu̓κλωψ δe̓ στενa̓χων τε καu̓ u̓δi̓νων u̓δu̓νησι,
+ - Χερσu̓ ψηλοu̓o̓ων.—
+ Odyssey, IX.415-16.     -  Meantime the Cyclop raging with his wound,
+ -  Spreads his wide arms, and searches round and round. 
+ POPE.      The critick then proceeds to shew, that the efforts of Achilles struggling in his armour against the current of a river, sometimes resisting and sometimes yielding, may be perceived in the elisions of the syllables, the slow succession of the feet, and the strength of the consonants.
+
+   - Δεu̓νον δu̓ αμu̓u̓ Αχιλu̓α κυκu̓μενον u̓στατο κu̓μα.
+ - u̓ΩΘει δu̓ u̓ν σa̓κεΐ πi̓πτων u̓ροοςu̓ οu̓δe̓ πo̓δεσσιν
+ - Εσκε στηρi̓ξασθαι.
+ Iliad, XXI.240-42.      -  So oft the surge, in wat'ry mountains spread,
+ -  Beats on his back, or bursts upon his head,
+ -  Yet, dauntless still, the adverse flood he braves,
+ -  And still indignant bounds above the waves.
+ -  Tir'd by the tides, his knees relax with toil;
+ -  Wash'd from beneath him, slides the slimy soil. 
+ POPE.      When Homer describes the crush of men dashed against a rock, he collects the most unpleasing and harsh sounds.
+
+   - Σu̓ν δe̓ δu̓ω μa̓ρψας, u̓στε σκu̓λακας ποτu̓ γαi̓u̓
+ - Κo̓πτu̓u̓ u̓κ δu̓ u̓γκu̓u̓αλος χαμa̓δις u̓u̓ε, δεu̓ε δe̓ γαu̓αν.
+ Odyssey, IX.289-90.      -  —His bloody hand
+ -  Snatch'd two, unhappy! of my martial band,
+ -  And dash'd like dogs against the stony floor:
+ -  The pavement swims wlth brains and mingled gore. 
+ POPE.       And when he would place before the eyes something dreadful and astonishing, he makes choice of the strongest vowels, and the letters of most difficult utterance.
+
+   - Τu̓ δu̓ u̓πu̓ μe̓ν Γοργu̓ βλοσυρu̓πις u̓στεu̓a̓νωτο
+ - Δεινo̓ν δερκομu̓νη. περu̓ δe̓ Δεu̓μος τε u̓o̓βος τε.
+ Iliad, XI.36-37.      - Tremendous Gorgon frown'd upon its field,
+ -  And circling terrors fill'd th' expressive shield. 
+ POPE.     Many other examples Dionysius produces; but these will sufficiently shew, that either he was fanciful, or we have lost the genuine pronunciation; for I know not whether, in any one of these instances, such similitude can be discovered.  It seems, indeed, probable, that the veneration with which Homer was read, produced many suppositious beauties: for though it is certain, that the sound of many of his verses very justly corresponds with the things expressed, yet, when the force of his imagination, which gave him full possession of every object, is considered, together with the flexibility of his language, of which the syllables might be often contracted or dilated at pleasure, it will seem unlikely that such conformity should happen less frequently even without design. 
+
+  It is not however to be doubted, that Virgil, who wrote amidst the light of criticism, and who owed so much of his success to art and labour, endeavoured, among other excellencies, to exhibit this similitude; nor has he been less happy in this than in the other graces of versification.  This felicity of his numbers was, at the revival of learning, dis-   played with great elegance by Vida, in his Art of Poetry.   -  Haud satis est illis utcunque claudere versum.—
+ -  Omnia sed numeris vocum concordibus aptant,
+ -  Atque sono quaocunque canunt imitantur, et apta
+ -  Verborum facie, et quaesito carminis ore.
+ -  Nam diversa opus est veluti dare versibus ora,—
+ -  Hic melior motuque pedum, et pernicibus alis,
+ -  Molle Viam tacito lapsu per levia radit:
+ -  Ille autem membris, ac mole ignavius ingens
+ -  Incedit tardo molimine subsiden lo.
+ -  Ecce aliquis subit egregio pulcherrimus ore,
+ -  Cui laetum membris Venus omnibus afflat honorem.
+ -  Contra alius rudis, informes ostendit et artus,
+ -  Hirsutumque supercilium, ac caudam sinuosam,
+ -  Ingratus visu, sonitu illaetabilis ipso.—
+ -  Ergo ubi jam nautae spumas salis aere ruentes
+ -  Incubere mari, videas spumare reductis
+ -  Convulsum remis, rostrisque stridentibus aequor.
+ -  Tunc longe sale saxa sonant, tunc et freta ventis
+ -  Incipiunt agitata tumescere: littore fluctus
+ -  Illidunt rauco, atque refracta remurmurat unda
+ -  Ad scopulos, cumulo insequitur praeruptus aquae mons.—
+ -  Cum vero ex alto speculatus caerula Nereus
+ -  Leniit in morem stagni, placidaeque paludis,
+ -  Labitur uncta vadis abies, natat uncta carina.—
+ -  Verba etiam res exiguas angusta sequuntur,
+ -  Ingentesque juvant ingentia: cuncta gigantem
+ -  Vasta decent, vultus immanes, pectora lata,
+ -  Et magni membrorum artus, magna ossa, lacertique.
+ -  Atque adeo, siquid geritur molimine magno,
+ -  Adde moram, et pariter tecum quoque verba laborent
+ -  Segnia: seu quando vi multa gleba coactis
+ -  Æternum frangenda bidentibus, eequore seu cum
+ -  Cornua velatarum obvertimus antennarum.
+ -  At mora si fuerit damno, properare jubebo.
+ -  Si se forte cava extulerit mala vipera terra,
+ -  Tolle moras, cape saxa manu, cape robora, pastor:
+ -  Ferte citi flammas, date tela, repellite pestem.
+ -  Ipse etiam versus ruat, in praecepsque feratur,
+ -  Immenso cum praecipitans ruit Oceano nox,
+ -  Aut cum perculsus graviter procumbit humi bos. 
+       -  Cumque etiam requies rebus datur, ipsa quoque ultro
+ -  Carmina paulisper cursu cessare videbis
+ -  In medio interrupta: quierunt cum freta ponti,
+ -  Postquam aurae posuere, quiescere protinus; ipsum
+ -  Cernere erit, mediisque incoeptis sistere versum.
+ -  Quid dicam, senior cum telum imbelle sine ictu
+ -  Invalidus jacit, et defectis viribus aeger?
+ -  Num quoque tum versus segni pariter pede languet:
+ -  Sanguis hebet, frigent effcetee in corpore vires.
+ -  Fortem autem juvenem deceat prorumpere in arces,
+ -  Evertisse domos, praefractaque quadrupedantum
+ -  Pectora pectoribus perrumpere, sternere turres
+ -  Ingentes, totoque, ferum dare funera campo. 
+ LIB. iii. 365.    -  'Tis not enough his verses to complete,
+ -  In measure, number, or determin'd feet.
+ -  To all, proportion'd terms he must dispense,
+ -  And make the sound a picture of the sense;
+ -  The correspondent words exactly frame,
+ -  The look, the features, and the mien the same.
+ -  With rapid feet and wings, without delay,
+ -  This swiftly flies, and smoothly skims away:
+ -  This blooms with youth and beauty in his face,
+ -  And Venus breathes on ev'ry limb a grace;
+ -  That, of rude form, his uncouth members shows,
+ -  Looks horrible, and frowns with his rough brows;
+ -  His monstrous tail, in many a fold and wind,
+ -  Voluminous and vast, curls up behind;
+ -  At once the image and the lines appear,
+ -  Rude to the eye, and frightful to the ear.
+ -  Lo! when the sailors steer the pond'rous ships,
+ -  And plough, with brazen beaks, the foamy deeps,
+ -  Incumbent on the main that roars around,
+ -  Beneath the lab'ring oars the waves resound;
+ -  The prows wide echoing through the dark profound.
+ -  To the loud call each distant rock replies;
+ -  Tost by the storm the tow'ring surges rise;
+ -  While the hoarse ocean beats the sounding shore,
+ -  Dash'd from the strand, the flying waters roar,
+ -  Flash at the shock, and gathering in a heap,
+ -  The liquid mountains rise, and over-hang the deep.
+ -  But when blue Neptune from his car surveys,
+ -  And calms at one regard the raging seas,
+ -  Stretch'd like a peaceful lake the deep subsides, 
+      -  And the pitch'd vessel o'er the surface glides.
+ -  When things are small, the terms should still be so;
+ -  For low words please us when the theme is low.
+ -  But when some giant, horrible and grim,
+ -  Enormous in his gait, and vast in every limb,
+ -  Stalks tow'ring on; the swelling words must rise
+ -  In just proportion to the monster's size.
+ -  If some large weight his huge arms strive to shove,
+ -  The verse too labours; the throng'd words scarce move.
+ -  When each stiff clod beneath the pond'rous plough
+ -  Crumbles and breaks, th' encumber'd lines must flow.
+ -  Nor less, when pilots catch the friendly gales,
+ -  Unfurl their shrouds, and hoist the wide-stretch'd sails.
+ -  But if the poem suffers from delay,
+ -  Let the lines fly precipitate away,
+ -  And when the viper issues from the brake,
+ -  Be quick; with stones, and brands, and fire, attack
+ -  His rising crest, and drive the serpent back.
+ -  When night descends, or stunn'd by num'rous strokes,
+ -  And groaning, to the earth drops the vast ox;
+ -  The line too sinks with correspondent sound
+ -  Flat with the steer, and headlong to the ground.
+ -  When the wild waves subside, and tempests cease,
+ -  And hush the roarings of the sea to peace;
+ -  So oft we see the interrupted strain
+ -  Stopp'd in the midst—and with the silent main
+ -  Pause for a space—at last it glides again.
+ -  When Priam strains his aged arms, to throw
+ -  His unavailing jav'line at the foe;
+ -  (His blood congeal'd, and ev'ry nerve unstrung)
+ -  Then with the theme complies the artful song;
+ -  Like him, the solitary numbers flow,
+ -  Weak, trembling, melancholy, stiff, and slow.
+ -  Not so young Pyrrhus, who with rapid force
+ -  Beats down embattled armies in his course.
+ -  The raging youth on trembling Ilion falls,
+ -  Burns her strong gates, and shakes her lofty walls;
+ -  Provokes his flying courser to the speed,
+ -  In full career to charge the warlike steed:
+ -  He piles the field with mountains of the slain;
+ -  He pours, he storms, he thunders thro' the plain. 
+ —PITT. 
+
+  From the Italian gardens Pope seems to have      transplanted this flower, the growth of happier climates, into a soil less adapted to its nature, and less favourable to its increase.   -  Soft is the strain, when Zephyr gentle blows,
+ -  And the smooth stream in smoother numbers flows;
+ -  But when loud billows lash the sounding shore,
+ -  The hoarse rough verse should like the torrent roar.
+ -  When Ajax strives some rock's vast weight to throw,
+ -  The line too labours, and the words move slow
+ -  Nor so when swift Camilla scours the plain
+ -  Flies o'er th' unbending corn, and skims along the main. 
+  
+
+  From these lines, laboured with attention, and celebrated by a rival wit, may be judged what can be expected from the most diligent endeavours after this imagery of sound.  The verse intended to represent the whisper of the vernal breeze, must be confessed not much to excel in softness or volubility: and the smooth stream runs with a perpetual clash of jarring consonants.  The noise and turbulence of the torrent, is, indeed, distinctly imaged, for it requires very little skill to make our language rough: but in these lines, which mention the effort of Ajax, there is no particular heaviness, obstruction, or delay.  The swiftness of Camilla is rather contrasted than exemplified; why the verse should be lengthened to express speed, will not easily be discovered. In the dactyls used for that purpose by the ancients, two short syllables were pronounecd with such rapidity, as to be equal only to one long; they, therefore, naturally exhibit the act of passing through a long space in a short time.  But the Alexandrine, by its pause in the midst, is a tardy    and stately measure; and the word *unbending*, one of the most sluggish and slow which our language affords, cannot much accelerate its motion. 
+
+  These rules and these examples have taught our present criticks to inquire very studiously and minutely into sounds and cadences.  It is, therefore, useful to examine with what skill they have proceeded; what discoveries they have made; and whether any rules can be established which may guide us hereafter in such researches. 
+
+     
+## No.  93.  TUESDAY, FEBRUARY 1751 
+
+      - —Experiar quid con concedatur in illos
+ - Quorum Flaminiâ tegitur cinis atque Latinâ 
+ JUV.  Sat.  i.  170.       -  More safely truth to urge her claim presumes,
+ -  On names now found alone on books and tombs. 
+      THERE are few books on which more time is spent by young students, than on treatises which deliver the characters of authors; nor any which oftener deceive the expectation of the reader, or fill his mind with more opinions which the progress of his studies and the increase of his knowledge oblige him to resign. 
+
+  Baillet has introduced his collection of the decisions of the learned, by an enumeration of the prejudices which mislead the critick, and raise the passions in rebellion against the judgment.  His catalogue, though large, is imperfect; and who can hope to complete it? The beauties of writing have been observed to be often such as cannot in the    present state of human knowledge be evinced by evidence, or drawn out into demonstrations; they are therefore wholly subject to the imagination, and do not force their effects upon a mind pre-occupied by unfavourable sentiments, nor overcome the counteraction of a false principle or of stubborn partiality. 
+
+  To convince any man against his will is hard, but to please him against his will is justly pronounced by Dryden to be above the reach of human abilities.  Interest and passion will hold out long against the closest siege of diagrams and syllogisms, but they are absolutely impregnable to imagery and sentiment; and will for ever bid defiance to the most powerful strains of Virgil or Homer, though they may give way in time to the batteries of Euclid or Archimedes. 
+
+  In trusting therefore to the sentence of a critick, we are in danger not only from that vanity which exalts writers too often to the dignity of teaching what they are yet to learn, from that negligence which sometimes steals upon the most vigilant caution, and that fallibility to which the condition of nature has subjected every human understanding; but from a thousand extrinsick and accidental causes, from every thing which can excite kindness or malevolence, veneration or contempt. 
+
+  Many of those who have determined with great boldness upon the various degrees of literary merit, may be justly suspected of having passed sentence, as Seneca remarks of Claudius,   -  Una tantum parte audita,
+ -  Sape et nulla, 
+      without much knowledge of the cause before them: for it will not easily be imagined of Langbaine, Borrichius, or Rapin, that they had very accurately perused all the books which they praise or censure: or that, even if nature and learning had qualified them for judges, they could read for ever with the attention necessary to just criticism.  Such performances, however, are not wholly without their use; for they are commonly just echoes to the voice of fame, and transmit the general suffrage of mankind when they have no particular motives to suppress it. 
+
+  Criticks, like the rest of mankind, are very frequently misled by interest.  The bigotry with which editors regard the authors whom they illustrate or correct, has been generally remarked.  Dryden was known to have written most of his critical dissertations only to recommend the work upon which he then happened to be employed: and Addison is suspected to have denied the expediency of poetical justice, because his own Cato was condemned to perish in a good cause. 
+
+  There are prejudices which authors, not otherwise weak or corrupt, have indulged without scruple; and perhaps some of them are so complicated with our natural affections, that they cannot easily be disentangled from the heart.  Scarce any can hear with impartiality a comparison between the writers of his own and another country; and though it cannot, I think, be charged equally on all nations, that they are blinded with this literary patriotism, yet there are none that do not look upon their authors with    the fondness of affinity, and esteem them as well for the place of their birth, as for their knowledge or their wit.  There is, therefore, seldom much respect due to comparative criticism, when the competitors are of different countries, unless the judge is of a nation equally indifferent to both.  The Italians could not for a long time believe, that there was any learning beyond the mountains; and the French seem generally persuaded, that there are no wits or reasoners equal to their own.  I can scarcely conceive that if Scaliger had not considered himself as allied to Virgil, by being born in the same country, he would have found his works so much superior to those of Homer, or have thought the controversy worthy of so much zeal, vehemence, and acrimony. 
+
+  There is, indeed, one prejudice, and only one, by which it may be doubted whether it is any dishonour to be sometimes misguided.  Criticism has so often given occasion to the envious and ill-natured of gratifying their malignity, that some have thought it necessary to recommend the virtue of candour without restriction, and to preclude all future liberty of censure.  Writers possessed with this opinion are continually enforcing civility and decency, recommending to criticks the proper diffidence of themselves, and inculcating the veneration due to celebrated names. 
+
+  I am not of opinion that these professed enemies of arrogance and severity have much more benevolence or modesty than the rest of mankind; or that they feel in their own hearts, any other intention    than to distinguish themselves by their softness and delicacy.  Some are modest because they are timorous, and some are lavish of praise because they hope to be repaid. 
+
+  There is indeed some tenderness due to living writers, when they attack none of those truths which are of importance to the happiness of mankind, and have committed no other offence than that of betraying their own ignorance or dulness.  I should think it cruelty to crush an insect who had provoked me only by buzzing in my ear; and would not willingly interrupt the dream of harmless stupidity, or destroy the jest which makes its author laugh.  Yet I am far from thinking this tenderness universally necessary; for he that writes may be considered as a kind of general challenger, whom every one has a right to attack; since he quits the common rank of life, steps forward beyond the lists, and offers his merit to the publick judgment.  To commence author is to claim praise, and no man can justly aspire to honour, but at the hazard of disgrace. 
+
+  But whatever be decided concerning contemporaries, whom he that knows the treachery of the human heart, and considers how often we gratify our own pride or envy under the appearance of contending for elegance and propriety, will find himself not much inclined to disturb; there can surely be no exemptions pleaded to secure them from criticism, who can no longer suffer by reproach, and of whom nothing now remains but their writ-   ings and their names.  Upon these authors the critick is undoubtedly at full liberty to exercise the strictest severity, since he endangers only his own fame, and, like Æneas when he drew his sword in the infernal regions, encounters phantoms which cannot be wounded.  He may indeed pay some regard to established reputation; but he can by that shew of reverence consult only his own security, for all other motives are now at an end. 
+
+  The faults of a writer of acknowledged excellence are more dangerous, because the influence of his example is more extensive; and the interest of learning requires that they should be discovered and stigmatized, before they have the sanction of antiquity conferred upon them, and become precedents of indisputable authority. 
+
+  It has, indeed, been advanced by Addison, as one of the characteristicks of a true critick, that he points out beauties rather than faults.  But it is rather natural to a man of learning and genius to apply himself chiefly to the study of writers who have more beauties than faults to be displayed: for the duty of criticism is neither to depreciate, nor dignify by partial representations, but to hold out the light of reason, whatever it may discover; and to promulgate the determinations of truth, whatever she shall dictate.     
+
+     
+## No. 94. SATURDAY, FEBRUARY 9, 1751 
+
+      - —Bonus atque fidus
+ - Judex—per pobstantes catervas
+ - Explicuit sua victor arma. 
+ HOR. Lib. iv. Od. ix. 40.        -  Perpetual magistrate is he
+ - Who keeps strict justice full in sight;
+ -  Who bids the crowd at awful distance gaze,
+ -  And virtue's arms victoriously displays. 
+ FRANCIS.        THE resemblance of poetick numbers, to the subject which they mention or describe, may be considered as general or particular; as consisting in the flow and structure of a whole passage taken together, or as comprised in the sound of some emphatical and descriptive words, or in the cadence and harmony of single verses. 
+
+  The general resemblance of the sound to the sense is to be found in every language which admits of poetry, in every author whose force of fancy enables him to impress images strongly on his own mind, and whose choice and variety of language readily supply him with just representations.  To such a writer it is natural to change his measure with his subject, even without any effort of the understanding, or intervention of the judgment. To revolve jollity and mirth necessarily tunes the voice of a poet to gay and sprightly notes, as it fires his eye with vivacity; and reflection on gloomy situations and disastrous events, will sadden his numbers, as it will cloud his countenance.  But in such passages there is only the similitude of pleasure to pleasure, and of grief to grief, without any    immediate application to particular images.  The same flow of joyous versification will celebrate the jollity of marriage, and the exultation of triumph; and the same languor of melody will suit the complaints of an absent lover, as of a conquered king. 
+
+  It is scarcely to be doubted, that on many occasions we make the musick which we imagine ourselves to hear, that we modulate the poem by our own disposition, and ascribe to the numbers the effects of the sense.  We may observe in life, that it is not easy to deliver a pleasing message in an unpleasing manner, and that we readily associate beauty and deformity with those whom for any reason we love or hate.  Yet it would be too daring to declare that all the celebrated adaptations of harmony are chimerical; that Homer had no extraordinary attention to the melody of his verse when he described a nuptial festivity;
+
+   - Νu̓μu̓ας δu̓ u̓κ Θαλa̓μων, δαi̓δων u̓πο λαμπομενa̓ων,
+ - Ηγi̓νεον a̓νa̓ a̓στυ, πολu̓ς δu̓ u̓μu̓ναιος u̓ρu̓ρει;
+ Iliad, XVIII.492-93.     -  Here sacred pomp and genial feast delight
+ -  And solemn dance, and hymeneal rite
+ -  Along the street the new-made brides are led,
+ -  With torches flaming, to the nuptial bed
+ -  The youthful dancers, in a circle, bound
+ -  To the soft flute, and cittern's silver sound. 
+ POPE.    That Vida was merely fanciful, when he supposed Virgil endeavouring to represent, by uncommon sweetness of numbers, the adventitious beauty of Æneas;   - Os, humerosque Deo similis: namque ipsa decoram
+ - Caesariem nato genetrix, lumenque juventae
+ - Purpureum, et laetos oculis afflarat honores; 
+       -  The Trojan chief appeared in open sight,
+ -  August in visage, and serenely bright.
+ -  His mother goddess, with her hands divine,
+ -  Had form'd his curling locks, and made his temples shine;
+ -  And giv'n his rolling eyes a sparkling grace,
+ -  And breath'd a youthful vigour on his face. 
+ DRYDEN.   Or that Milton did not intend to exemplify the harmony which he mentions:   -  Fountains! and ye that warble as ye flow,
+ -  Melodious murmurs! warbling tune his praise. 
+  
+
+  That Milton understood the force of sounds well adjusted, and knew the compass and variety of the ancient measures, cannot be doubted; since he was both a musician and a critick; but he seems to have considered these conformities of cadence, as either not often attainable in our language, or as petty excellencies unworthy of his ambition; for it will not be found that he has always assigned the same cast of numbers to the same objects.  He has given in two passages very minute descriptions of angelic beauty; but though the images are nearly the same, the numbers will be found, upon comparison, very different:   -  And now a stripling cherub he appears,
+ -  Not of the prime, yet such as in his face
+ -  Youth smil'd celestial, and to every limb
+ -  *Suitable grace diffus'd, so well he feign'd*;
+ -  Under a coronet his flowing hair
+ -  *In curls on either cheek play'd: wings he wore*
+ - * Of many a colour'd plume, sprinkled with gold*. 
+  Some of the lines of this description are remarkably defective in harmony, and therefore by no means correspondent with that symmetrical elegance and easy grace, which they are intended to exhibit. The failure, however, is fully compensated by the    representation of Raphael, which equally delights the ear and imagination:   -  A seraph wing'd: six wings he wore to shade
+ -  His lineaments divine; the pair that clad
+ -  Each shoulder broad, came mantling o'er his breast
+ -  With regal ornament: the middle pair
+ -  Girt like a starry zone his waist, and round
+ -  Skirted his loins and thighs, with downy gold,
+ -  And colours dipp'd in heav'n; the third his feet
+ -  Shadow'd from either heel with feather'd mail,
+ -  Sky-tinctur'd grain! like Maia's son he stood,
+ -  And shook his plumes, that heav'nly fragrance fill'd
+ -  The circuit wide.— 
+  
+
+  The adumbration of particular and distinct images by an exact and perceptible resemblance of sound, is sometimes studied, and sometimes casual.  Every language has many words formed in imitation of the noises which they signify.  Such are  *stridor*, *balo*, and  *beatas*, in Latin; and in English to *growl*, to *buzz*, to *hiss*, and to *jarr*.  Words of this kind give to a verse the proper similitude of sound, without much labour of the writer, and such happiness is therefore to be attributed rather to fortune than skill; yet they are sometimes combined with great propriety, and undeniably contribute to enforce the impression of the idea.  We hear the passing arrow in this line of Virgil;  - Et fugit  elapsa sagitta;
+  - Th' impetuous arrow whizzes on the wing.
+POPE.  And the creaking of hell-gates, in the description by Milton;   -  —Open fly
+ -  With impetuous recoil and jarring sound
+ -  Th' infernal doors: and on their hinges grate
+ -  Harsh thunder.— 
+  
+
+    But many beauties of this kind, which the moderns, and perhaps the ancients, have observed, seem to be the product of blind reverence acting upon fancy.  Dionysius himself tells us, that the sound of Homer's verses sometimes exhibits the idea of corporeal bulk.  Is not this a discovery nearly approaching to that of the blind man, who, after long inquiry into the nature of the scarlet colour, found that it represented nothing so much as the clangour of a trumpet? The representative power of poetick harmony consists of sound and measure; of the force of the syllables singly considered, and of the time in which they are pronounced.  Sound can resemble nothing but sound, and time can measure nothing but motion and duration. 
+
+  The criticks, however, have struck out other similitudes; nor is there any irregularity of numbers which credulous admiration cannot discover to be eminently beautiful.  Thus the propriety of each of these lines has been celebrated by writers whose opinion the world has reason to regard:    Vertitur interea coelum, et ruit oceano nox.     - Meantime the rapid heav'ns rowl'd down the light,
+ -  And on the shaded ocean rush'd the night. 
+ DRYDEN.   Sternitur, exanimisque tremens procumbit humik bos.—   -  Down drops the beast, nor needs a second wound;
+ -  But sprawls in pangs of death, and spurns the ground. 
+ DRYDEN.   Parturiunt montes, nascetur ridiculus mus.—  The mountains labour, and a mouse is born.ROSCOMMON.  If all these observations are just, there must be some remarkable conformity between the sudden    succession of night to day, the fall of an ox under a blow, and the birth of a mouse from a mountain; since we are told of all these images, that they are very strongly impressed by the same form and termination of the verse. 
+
+  We may, however, without giving way to enthusiasm, admit that some beauties of this kind may be produced.  A sudden stop at an unusual syllable may image the cessation of action, or the pause of discourse; and Milton has very happily imitated the repetitions of an echo:   -  I fled, and cried out *death*:
+ -  Hell trembled at the hedious name, and sigh'd
+ -  From all her caves, and back resounded *death*. 
+  
+
+  The measure of time in pronouncing may be varied so as very strongly to represent, not only the modes of external motion, but the quick or slow succession of ideas, and consequently the passions of the mind. This at least was the power of the spondaick and dactylick harmony, but our language can reach no eminent diversities of sound.  We can indeed sometimes, by encumbering and retarding the line, shew the difficulty of a progress made by strong efforts and with frequent interruptions, or mark a slow and heavy motion.  Thus Milton has imaged the toil of Satan struggling through chaos;   -  So he with difficulty and labour hard
+ -  Mov'd on: with difficulty and labour he.— 
+  Thus he has described the leviathans or whales;     Wallowing unwieldy, enormous in their gait.     But he has at other times neglected such represen-   tations, as may be observed in the volubility and levity of these lines, which express an action tardy and reluctant.   -  —Descent and fall
+ -  To us is adverse.  Who but felt of late,
+ -  When the fierce foe hung on our broken rear
+ -  Insulting, and pursu'd us through the deep,
+ -  With what confusion and laborious flight
+ -  We sunk thus low? Th' ascent is easy then. 
+  
+
+  In another place, he describes the gentle glide of ebbing waters in a line remarkably rough and halting;   -  —Tripping ebb; that stole
+ -  With soft foot tow'rds the deep who now had stopp'd
+ -  His sluices. 
+  
+
+  It is not, indeed, to be expected, that the sound should always assist the meaning, but it ought never to counteract it; and therefore Milton has here certainly committed a fault like that of a player, who looked on the earth when he implored the heavens, and to the heavens when he addressed the earth. 
+
+  Those who are determined to find in Milton an assemblage of all the excellencies which have ennobled all other poets, will perhaps be offended that I do not celebrate his versification in higher terms; for there are readers who discover that in this passage,     So stretch'd out huge in length the arch-fiend lay,    a *long* form is described in a *long* line; but the truth is, that length of body is only mentioned in a *slow* line, to which it has only the resemblance of time to space, of an hour to a maypole.    
+
+  The same turn of ingenuity might perform wonders upon the description of the ark:   -  Then from the mountains hewing timber tall,
+ -  Began to build a vessel of huge bulk;
+ -  Measur'd by cubit, length, and breadth, and height. 
+  In these lines the poet apparently designs to fix the attention upon bulk; but this is effected by the enumeration, not by the measure; for what analogy can there be between modulations of sound, and corporeal dimensions? 
+
+  Milton indeed seems only to have regarded this species of embellishment so far as not to reject it when it came unsought; which would often happen to a mind so vigorous, employed upon a subject so various and extensive.  He had, indeed, a greater and nobler work to perform; a single sentiment of moral or religious truth, a single image of life or nature, would have been cheaply lost for a thousand echoes of the cadence of the sense; and he who had undertaken to *vindicate the ways of God to man*, might have been accused of neglecting his cause, had he lavished much of his attention upon syllables and sounds. 
+
+        
+## No. 95. TUESDAY, FEBRUARY 12, 1751 
+
+      -  Parcus Deoram oultor et in;preqnane,
+ -  Irulanientis dum aczpnents
+ -  Consultus erro; nunc retr(rrssm
+ -  Fela dare, atgue it0rare oursw
+ -  Cogor relictos. 
+  HOR. Lib.  i.  Od.  xxxiv.  1.       -  A fugitive from heav'n and prayer,
+ -  I mock'd at all religious fear,
+ - Deep scienc'd in the mazy lore
+ -  Of mad philosopy; but now
+ -  Hoist sail, and back my voyage plow
+ -  To that blest harbour, which I left before. 
+ FRANCIS.        TO THE RAMBLER.
+  SIR,      THERE are many diseases both of the body and mind, which it is far easier to prevent than to cure, and therefore I hope you will think me employed in an office not useless either to learning or virtue, if I describe the symptoms of an intellectual malady, which, though at first it seizes only the passions, will, if not speedily remedied, infect the reason, and, from blasting the blossoms of knowledge, proceed in time to canker the root. 
+
+  I was born in the house of discord.  My parents were of unsuitable ages, contrary tempers, and different religions, and therefore employed the spirit and acuteness which nature had very liberally bestowed upon both, in hourly disputes, and incessant contrivances to detect each other in the wrong; so that from the first exertions of reason I was bred a disputant, trained up in all the arts of domestick sophistry, initiated in a thousand low stratagems,    nimble shifts, and sly concealments; versed in all the turns of altercation, and acquainted with the whole discipline of *fending* and *proving*. 
+
+  It was necessarily my care to preserve the kindness of both the controvertists, and therefore I had very early formed the habit of suspending my judgment, of hearing arguments with indifference, inclining as occasion required to either side, and of holding myself undetermined between them till I knew for what opinion I might conveniently declare. 
+
+  Thus, Sir, I acquired very early the skill of disputation; and, as we naturally love the arts in which we believe ourselves to excel, I did not let my abilities lie useless, nor suffer my dexterity to be lost for want of practice.  I engaged in perpetual wrangles with my school-fellows, and was never to be convinced or repressed by any other arguments than blows, by which my antagonists commonly determined the controversy, as I was, like the Roman orator, much more eminent for eloquence than courage. 
+
+  At the university I found my predominant ambition completely gratified by the study of logick. I impressed upon my memory a thousand axioms, and ten thousand distinctions, practised every form of syllogism, passed all my days in the schools of disputation, and slept every night with Smiglecius[^JohRamb.10] on my pillow.   [^JohRamb.10]: [a] A Polish writer, whose "Logick" was formerly held in great estimation in this country, as well as on the continent.
+
+ 
+
+      You will not doubt but such a genius was soon raised to eminence by such application.  I was celebrated in my third year for the most artful opponent that the university could boast, and became the terrour and envy of all the candidates for philosophical reputation. 
+
+  My renown, indeed, was not purchased but at the price of all my time and all my studies.  I never spoke but to contradict, nor declaimed but in defence of a position universally acknowledged to be false, and therefore worthy, in my opinion, to be adorned with all the colours of false representation, and strengthened with all the art of fallacious subtilty. 
+
+  My father, who had no other wish than to see his son richer than himself, easily concluded that I should distinguish myself among the professors of the law; and therefore, when I had taken my first degree, dispatched me to the Temple with a paternal admonition, that I should never suffer myself to feel shame, for nothing but modesty could retard my fortune. 
+
+  Vitiated, ignorant, and heady as I was, I had not yet lost my reverence for virtue, and therefore could not receive such dictates without horrour; but, however, was pleased with his determination of my course of life, because he placed me in the way that leads soonest from the prescribed walks of discipline and education, to the open fields of liberty and choice. 
+
+  I was now in the place where every one catches    the contagion of vanity, and soon began to distinguish myself by sophisms and paradoxes.  I declared war against all received opinions and established rules, and levelled my batteries particularly against those universal principles which had stood unshaken in all the vicissitudes of literature, and are considered as the inviolable temples of truth, or the impregnable bulwarks of science. 
+
+  I applied myself chiefly to those parts of learning which have filled the world with doubt and perplexity, and could readily produce all the arguments relating to matter and motion, time and space, identity and infinity. 
+
+  I was equally able and equally willing to maintain the system of Newton or Descartes, and favoured occasionally the hypothesis of Ptolemy, or that of Copernicus.  I sometimes exalted vegetables to sense, and sometimes degraded animals to mechanism. 
+
+  Nor was I less inclined to weaken the credit of history, or perplex the doctrines of polity.  I was always of the party which I heard the company condemn. 
+
+  Among the zealots of liberty I could harangue with great copiousness upon the advantages of absolute monarchy, the secrecy of its counsels, and the expedition of its measures; and often celebrated the blessings produced by the extinction of parties, and preclusion of debates. 
+
+  Among the assertors of regal authority, I never failed to declaim with republican warmth upon the    original charter of universal liberty, the corruption of courts, and the folly of voluntary submission to those whom nature has levelled with ourselves. 
+
+  I knew the defects of every scheme of government, and the inconveniences of every law.  I sometimes shewed how much the condition of mankind would be improved, by breaking the world into petty sovereignties, and sometimes displayed the felicity and peace which universal monarchy would diffuse over the earth. 
+
+  To every acknowledged fact I found innumerable objections; for it was my rule, to judge of history only by abstracted probability, and therefore I made no scruple of bidding defiance to testimony.  I have more than once questioned the existence of Alexander the Great; and having demonstrated the folly of erecting edifices like the pyramids of Egypt, I frequently hinted my suspicion that the world had been long deceived, and that they were to be found only in the narratives of travellers. 
+
+  It had been happy for me could I have confined my scepticism to historical controversies and philosophical disquisitions; but having now violated my reason, and accustomed myself to inquire not after proofs, but objections, I had perplexed truth with falsehood, till my ideas were confused, my judgment embarrassed, and my intellects distorted.  The habit of considering every proposition as alike uncertain, left me no test by which any tenet could be tried; every opinion presented both sides with equal evidence, and my fallacies began to operate upon    my own mind in more important inquiries.  It was at last the sport of my vanity to weaken the obligations of moral duty, and efface the distinctions of good and evil, till I had deadened the sense of conviction, and abandoned my heart to the fluctuations of uncertainty, without anchor and without compass, without satisfaction of curiosity, or peace of conscience, without principles of reason, or motives of action. 
+
+  Such is the hazard of repressing the first perceptions of truth, of spreading for diversion the snares of sophistry, and engaging reason against its own determinations. 
+
+  The disproportions of absurdity grow less and less visible, as we are reconciled by degrees to the deformity of a mistress; and falsehood by long use, is assimilated to the mind, as poison to the body. 
+
+  I had soon the mortification of seeing my conversation courted only by the ignorant or wicked, by either boys who were enchanted by novelty, or wretches, who having long disobeyed virtue and reason, were now desirous of my assistance to dethrone them. 
+
+  Thus alarmed, I shuddered at my own corruption, and that pride by which I had been seduced, contributed to reclaim me.  I was weary of continual irresolution, and a perpetual equipoise of the mind; and ashamed of being the favourite of those who were scorned and shunned by the rest of mankind. 
+
+  I therefore retired from all temptation to dispute, prescribed a new regimen to my understanding,    and resolved, instead of rejecting all established opinions which I could not prove, to tolerate though not adopt all which I could not confute.  I forebore to heat my imagination with needless controversies, to discuss questions confessedly uncertain, and refrained steadily from gratifying my vanity by the support of falsehood. 
+
+  By this method I am at length recovered from my argumental delirium, and find myself in the state of one awakened from the confusion and tumult of a feverish dream.  I rejoice in the new possession of evidence and reality, and step on from truth to truth with confidence and quiet. 
+
+  I am, Sir, &c. PERTINAX.        
+## No. 96. SATURDAY, FEBRUARY 16, 1751 
+
+      - Quod si Platonis musa personat verum,
+ - Quod quisque discit, immemor recordatur 
+ BOETHIUS.      -  Truth in Platonick ornaments bedeck'd.
+ -  Inforc'd we love, unheeding recollect. 
+       IT is reported of the Persians, by an ancient writer, that the sum of their education consisted in teaching youth *to ride, to shoot with the bow, and to speak truth*. 
+
+  The bow and the horse were easily mastered, but it would have been happy if we had been informed by what arts veracity was cultivated, and by what preservatives a Persian mind was secured against the temptations to falsehood. 
+
+  There are, indeed, in the present corruption of    mankind, many incitements to forsake truth; the need of palliating our own faults, and the convenience of imposing on the ignorance or credulity of others, so frequently occur, so many immediate evils are to be avoided, and so many present gratifications obtained, by craft and delusion, that very few of those who are much entangled in life, have spirit and constancy sufficient to support them in the steady practice of open veracity. 
+
+  In order that all men may be taught to speak truth, it is necessary that all likewise should learn to hear it; for no species of falsehood is more frequent than flattery, to which the coward is betrayed by fear, the dependant by interest, and the friend by tenderness.  Those who are neither servile nor timorous, are yet desirous to bestow pleasure; and while unjust demands of praise continue to be made, there will always be some whom hope, fear, or kindness, will dispose to pay them. 
+
+  The guilt of falsehood is very widely extended, and many whom their conscience can scarcely charge with stooping to a lie, have vitiated the morals of others by their vanity, and patronized the vice they believe themselves to abhor. 
+
+  Truth is, indeed, not often welcome for its own sake; it is generally unpleasing, because contrary to our wishes and opposite to our practice; and as our attention naturally follows our interest, we hear unwillingly what we are afraid to know, and soon forget what we have no inclination to impress upon our memories.    
+
+  For this reason many arts of instruction have been invented, by which the reluctance against truth may be overcome; and as physick is given to children in confections, precepts have been hidden under a thousand appearances, that mankind may be bribed by pleasure to escape destruction. 
+
+  While the world was yet in its infancy, Truth came among mortals from above, and Falsehood from below.  Truth was the daughter of Jupiter and Wisdom; Falsehood was the progeny of Folly impregnated by the Wind.  They advanced with equal confidence to seize the dominion of the new creation, and, as their enmity and their force were well known to the celestials, all the eyes of heaven were turned upon the contest. 
+
+  Truth seemed conscious of superior power and juster claim, and therefore came on towering and majestick, unassisted and alone; Reason, indeed, always attended her, but appeared her follower, rather than companion.  Her march was slow and stately, but her motion was perpetually progressive, and when once she had grounded her foot, neither gods nor men could force her to retire. 
+
+  Falsehood always endeavoured to copy the mien and attitudes of Truth, and was very successful in the arts of mimickry.  She was surrounded, animated, and supported by innumerable legions of appetites and passions, but like other feeble commanders, was obliged often to receive law from her allies.  Her motions were sudden, irregular, and violent; for she had no steadiness nor constancy.    She often gained conquests by hasty incursions, which she never hoped to keep by her own strength, but maintained by the help of the passions, whom she generally found resolute and faithful. 
+
+  It sometimes happened that the antagonists met in full opposition.  In these encounters, Falsehood always invested her head with clouds, and commanded Fraud to place ambushes about her.  In her left hand she bore the shield of Impudence, and the quiver of Sophistry rattled on her shoulder. All the passions attended at her call; Vanity clapped her wings before, and Obstinacy supported her behind.  Thus guarded and assisted, she sometimes advanced against Truth, and sometimes waited the attack; but always endeavoured to skirmish at a distance, perpetually shifted her ground, and let fly her arrows in different directions; for she certainly found that her strength failed, whenever the eye of Truth darted full upon her. 
+
+  Truth had the awful aspect though not the thunder of her father, and when the long continuance of the contest brought them near to one another, Falsehood let the arms of Sophistry fall from her grasp, and holding up the shield of Impudence with both her hands, sheltered herself amongst the Passions. 
+
+  Truth, though she was often wounded, always recovered in a short time; but it was common for the slightest hurt, received by Falsehood, to spread its malignity to the neighbouring parts, and to burst open again when it seemed to have been cured.    
+
+  Falsehood, in a short time, found by experience that her superiority consisted only in the celerity of her course, and the changes of her posture.  She therefore ordered Suspicion to beat the ground before her, and avoid with great care to cross the way of Truth, who, as she never varied her point, but moved constantly upon the same line, was easily escaped by the oblique and desultory movements, the quick retreats, and active doubles which Falsehood always practised, when the enemy began to raise terrour by her approach. 
+
+  By this procedure Falsehood every hour encroached upon the world, and extended her empire through all climes and regions.  Wherever she carried her victories she left the Passions in full authority behind her; who were so well pleased with command, that they held out with great obstinacy when Truth came to seize their posts, and never failed to retard her progress, though they could not always stop it.  They yielded at last with great reluctance, frequent rallies, and sullen submission; and always inclined to revolt when Truth ceased to awe them by her immediate presence. 
+
+  Truth, who, when she first descended from the heavenly palaces, expected to have been received by universal acclamation, cherished with kindness, heard with obedience, and invited to spread her influence from province to province, now found, that wherever she came, she must force her passage. Every intellect was precluded by Prejudice, and every heart pre-occupied by Passion.  She in-   deed advanced, but she advanced slowly; and often lost the conquests which she left behind her, by sudden insurrections of the appetites, that shook of their allegiance, and ranged themselves again under the banner of her enemy. 
+
+  Truth, however, did not grow weaker by the struggle, for her vigour was unconquerable; yet she was provoked to see herself thus baffled and impeded by an enemy, whom she looked on with contempt, and who had no advantage but such as she owed to inconstancy, weakness, and artifice. She therefore, in the anger of disappointment, called upon her father Jupiter to re-establish her in the skies, and leave mankind to the disorder and misery which they deserved, by submitting willingly to the usurpation of Falsehood. 
+
+  Jupiter compassionated the world too much to grant her request, yet was willing to ease her labours and mitigate her vexation.  He commanded her to consult the Muses by what methods she might obtain an easier reception, and reign without the toil of incessant war.  It was then discovered, that she obstructed her own progress by the severity of her aspect, and the solemnity of her dictates; and that men would never willingly admit her till they ceased to fear her, since by giving themselves up to Falsehood, they seldom make any sacrifice of their ease or pleasure, because she took the shape that was most engaging, and always suffered herself to be dressed and painted by Desire.  The Muses wove, in the loom of Pallas, a loose and changeable robe,    like that in which Falsehood captivated her admirers; with this they invested Truth, and named her Fiction.  She now went out again to conquer with more success; for when she demanded entrance of the Passions, they often mistook her for Falsehood, and delivered up their charge: but when she had once taken possession, she was soon disturbed by Reason, and shone out, in her original form, with native effulgence and resistless dignity. 
+
+     
+## No. 97. TUESDAY, FEBRUARY 19, 1751 
+
+       - Faecunda culpea secula nuptias
+ - Primùm inquinavere, et genus, et domos,
+ - Hoc fonte derivata clades
+ - In patriam populumque fluxit 
+ HOR. Lib. iii. Od. vi. 19.      -  Fruitful of crimes, this age first stain'd
+ -  Their hapless offspring, and profan'd
+ -  The nuptial bed; from whence the woes,
+ -  Which various and unnumber'd rose
+ -  From this polluted fountain head,
+ -  O'er Rome and o'er the nations spread. 
+ FRANCIS.         THE reader is indebted for this day's entertainment to an author from whom the age has received greater favours, who has enlarged the knowledge of human nature, and taught the passions to move at the command of virtue. 
+
+  TO THE RAMBLER.
+SIR,
+
+  WHEN the Spectator was first published in single papers, it gave me so much pleasure, that it is one of the favourite amusements of my age to recollect    it; and when I reflect on the foibles of those times, as described in that useful work, and compare them with the vices now reigning among us, I cannot but wish that you would oftener take cognizance of the manners of the better half of the human species, that if your precepts and observations be carried down to posterity, the Spectators may shew to the rising generation what were the fashionable follies of their grandmothers, the Rambler of their mothers, and that from both they may draw instruction and warning. 
+
+  When I read those Spectators which took notice of the misbehaviour of young women at church, by which they vainly hope to attract admirers, I used to pronounce such forward young women Seekers, in order to distinguish them by a mark of infamy from those who had patience and decency to stay till they were sought. 
+
+  But I have lived to see such a change in the manners of women, that I would now be willing to compound with them for that name, although I then thought it disgraceful enough, if they would deserve no worse; since now they are too generally given up to negligence of domestick business, to idle amusements, and to wicked rackets, without any settled view at all but of squandering time. 
+
+  In the time of the Spectator, excepting sometimes in appearance in the ring, sometimes at a good and chosen play, sometimes on a visit at the house of a grave relation, the young ladies contented themselves to be found employed in do-   mestick duties; for then routes, drums, balls, assemblies, and such like markets for women, were not known. 
+
+  Modesty and diffidence, gentleness and meekness, were looked upon as the appropriate virtues and characteristick graces of the sex; and if a forward spirit pushed itself into notice, it was exposed in print as it deserved. 
+
+  The churches were almost the only places where single women were to be seen by strangers.  Men went thither expecting to see them, and perhaps too much for that only purpose. 
+
+  But some good often resulted, however improper might be their motives.  Both sexes were in the way of their duty.  The man must be abandoned indeed, who loves not goodness in another; nor were the young fellows of that age so wholly lost to a sense of right, as pride and conceit has since made them affect to be.  When therefore they saw a fair-one whose decent behaviour and cheerful piety shewed her earnest in her first duties, they had the less doubt, judging politically only, that she would have conscientious regard to her second. 
+
+  With what ardour have I seen watched for, the rising of a kneeling beauty; and what additional charms has devotion given to her recommunicated features? 
+
+  The men were often the better for what they heard.  Even a Saul was once found prophesying among the prophets whom he had set out to destroy. To a man thus put into good humour by a    pleasing object, religion itself looked more amiable. The Men Seekers of the Spectator's time loved the holy place for the object's sake, and loved the object for her suitable behaviour in it. 
+
+  Reverence mingled with their love, and they thought that a young lady of such good principles must be addressed only by the man who at least made a shew of good principles, whether his heart was yet quite right or not. 
+
+  Nor did the young lady's behaviour, at any time of the service, lessen this reverence.  Her eyes were her own, her ears the preacher's.  Women are always most observed when they seem themselves least to observe, or to lay out for observation.  The eye of a respectful lover loves rather to receive confidence from the withdrawn eye of the fair-one, than to find itself obliged to retreat. 
+
+  When a young gentleman's adection was thus laudably engaged, he pursued its natural dictates; keeping then was a rare, at least a secret and scandalous vice, and a wife was the summit of his wishes.  Rejection was now dreaded, and pre-engagement apprehended.  A woman whom he loved, he was ready to think must be admired by all the world.  His fears, his uncertainties, increased his love. 
+
+  Every inquiry he made into the lady's domestick excellence, which, when a wife is to be chosen, will surely not be neglected, confirmed him in his choice.  He opens his heart to a common friend, and honestly discovers the state of his fortune.  His    friend applies to those of the young lady, whose parents, if they approve his proposals, disclose them to their daughter. 
+
+  She perhaps is not an absolute stranger to the passion of the young gentleman.  His eyes, his assiduities, his constant attendance at a church, whither, till of late, he used seldom to come, and a thousand little observances that he paid her, had very probably first forced her to regard, and then inclined her to favour him. 
+
+  That a young lady should be in love, and the love of the young gentleman undeclared, is an heterodoxy which prudence, and even policy, must not allow.  But, thus applied to, she is all resignation to her parents.  Charming resignation, which inclination opposes not. 
+
+  Her relations applaud her for her duty; friends meet; points are adjusted; delightful perturbations, and hopes, and a few lover's fears, fill up the tedious space till an interview is granted; for the young lady had not made herself cheap at publick places. 
+
+  The time of interview arrives.  She is modestly reserved; he is not confident.  He declares his passion; the consciousness of her own worth, and his application to her parents, take from her any doubt of his sincerity; and she owns herself obliged to him for his good opinion.  The inquiries of her friends into his character, have taught her that his good opinion deserves to be valued. 
+
+  She tacitly allows of his future visits; he renews them; the regard of each for the other is confirmed;    and when he presses for the favour of her hand, he receives a declaration of an entire acquiescence with her duty, and a modest acknowledgment of esteem for him. 
+
+  He applies to her parents therefore for a near day; and thinks himself under obligation to them for the cheerful and affectionate manner with which they receive his agreeable application. 
+
+  With this prospect of future happiness, the marriage is celebrated.  Gratulations pour in from every quarter.  Parents and relations on both sides, brought acquainted in the course of the courtship, can receive the happy couple with countenances illumined, and joyful hearts. 
+
+  The brothers, the sisters, the friends of one family, are the brothers, the sisters, the friends of the other. Their two families, thus made one, are the world to the young couple. 
+
+  Their home is the place of their principal delight, nor do they ever occasionally quit it but they find the pleasure of returning to it augmented in proportion to the time of their absence from it. 
+
+  Oh, Mr. Rambler! forgive the talkativeness of an old man! When I courted and married my Lætitia, then a blooming beauty, every thing passed just so! But how is the case now? The ladies, maidens, wives, and widows, are engrossed by places of open resort and general entertainment, which fill every quarter of the metropolis, and being constantly frequented, make home irksome.  Breakfasting-places, dining places, routes, drums, concerts, balls, plays,    operas, masquerades for the evening, and even for all night, and lately, publick sales of the goods of broken housekeepers, which the general dissoluteness of manners has contributed to make very frequent, come in as another seasonable relief to these modern time-killers. 
+
+  In the summer there are in every country-town assemblies; Tunbridge, Bath, Cheltenham, Scarborough! What expense of dress and equipage is required to qualify the frequenters for such emulous appearance! 
+
+  By the natural infection of example, the lowest people have places of six-penny resort, and gaming-tables for pence.  Thus servants are now induced to fraud and dishonesty, to support extravagance, and supply their losses. 
+
+  As to the ladies who frequent those publick places, they are not ashamed to shew their faces wherever men dare go, nor blush to try who shall stare most impudently, or who shall laugh loudest on the publick walks. 
+
+  The men who would make good husbands, if they visit those places, are frighted at wedlock, and resolve to live single, except they are bought at a very high price.  They can be spectators of all that passes, and, if they please, more than spectators, at the expense of others.  The companion of an evening and the companion for life, require very different qualifications. 
+
+  Two thousand pounds in the last age, with a domestick wife, would go farther than ten thousand    in this.  Yet settlements are expected, that often, to a mercantile man especially, sink a fortune into uselessness; and pin-money is stipulated for, which makes a wife independent, and destroys love, by putting it out of a man's power to lay any obligation upon her, that might engage gratitude, and kindle affection.  When to all this the card-tables are added, how can a prudent man think of marrying? 
+
+  And when the worthy men know not where to find wives, must not the sex be left to the foplings, the coxcombs, the libertines of the age, whom they help to make such? And need even these wretches marry to enjoy the conversation of those who render their company so cheap? 
+
+  And what, after all, is the benefit which the gay coquette obtains by her flutters? As she is approachable by every man without requiring, I will not say incense or adoration, but even common complaisance, every fop treats her as upon the level, looks upon her light airs as invitations, and is on the watch to take the advantage: she has companions indeed, but no lovers; for love is respectful and timorous; and where among all her followers will she find a husband? 
+
+  Set, dear Sir, before the youthful, the gay, the inconsiderate, the contempt as well as the danger to which they are exposed.  At one time or other, women not utterly thoughtless, will be convinced of the justice of your censure, and the charity of your instruction. 
+
+  But should your expostulations and reproofs have    no effect upon those who are far gone in fashionable folly, they may be retailed from their mouths to their nieces, (marriage will not often have entitled these to daughters,) when they, the meteors of a day, find themselves elbowed off the stage of vanity by other flutterers; for the most admired women cannot have many Tunbridge, many Bath seasons to blaze in; since even fine faces, often seen, are less regarded than new faces, the proper punishment of showy girls for rendering themselves so impolitickly cheap. 
+
+  I am, Sir,
+ Your sincere admirer, &c [^JohRamb.11]. [^JohRamb.11]: [b] The writer of this paper was Richardson, the Novelist.  See Preface.
+
+     
+## No. 98. SATURDAY, FEBRUARY 23, 1751 
+
+      - Quae nec Sarmentus iniquas
+ - Caesaris ad mensas, nec vilis Gabba tulisset. 
+ Juv. Sat. v. 3.      -  Which not Sarmentus brook'd at Cæsar's board,
+ -  Nor grov'ling Galba from his haughty Lord. 
+ ELPHINSTON.         TO THE AUTHOR OF THE RAMBLER.
+ MR. RAMBLER,     You have often endeavoured to impress upon your readers an observation of more truth than novelty, that life passes, for the most part, in petty transactions; that our hours glide away in trifling amusements and slight gratifications; and that there very seldom emerges any occasion that can call forth great virtue or great abilities. 
+
+  It very commonly happens that speculation has    no influence on conduct.  Just conclusions, and cogent arguments, formed by laborious study, and diligent inquiry, are often reposited in the treasuries of memory, as gold in a miser's chest, useless alike to others and himself.  As some are not richer for the extent of their possessions, others are not wiser for the multitude of their ideas. 
+
+  You have truly described the state of human beings, but it may be doubted whether you have accommodated your precepts to your description; whether you have not generally considered your readers as influenced by the tragick passions, and susceptible of pain or pleasure only from powerful agents, and from great events. 
+
+  To an author who writes not for the improvement of a single art, or the establishment of a controverted doctrine, but equally intends the advantage and equally courts the perusal of all the classes of mankind, nothing can justly seem unworthy of regard, by which the pleasure of conversation may be increased, and the daily satisfactions of familiar life secured from interruption and disgust. 
+
+  For this reason you would not have injured your reputation, if you had sometimes descended to the minuter duties of social beings, and enforced the observance of those little civilities and ceremonious delicacies, which, inconsiderable as they may appear to the man of science, and difficult as they may prove to be detailed with dignity, yet contribute to the regulation of the world, by facilitating the intercourse between one man and another, and of    which the French have sufficiently testified their esteem, by terming the knowledge and practice of them *Sçavoir vivre*, The art of living. 
+
+  Politeness is one of those advantages which we never estimate rightly but by the inconvenience of its loss.  Its influence upon the manners is constant and uniform, so that, like an equal motion, it escapes perception.  The circumstances of every action are so adjusted to each other, that we do not see where any errour could have been committed, and rather acquiesce in its propriety than admire its exactness. 
+
+  But as sickness shews us the value of ease, a little familiarity with those who were never taught to endeavour the gratification of others, but regulate their behaviour merely by their own will, will soon evince the necessity of established modes and formalities to the happiness and quiet of common life. 
+
+  Wisdom and virtue are by no means sufficient, without the supplemental laws of good-breeding, to secure freedom from degenerating to rudeness, or self-esteem from swelling into insolence; a thousand incivilities may be committed, and a thousand offices neglected, without any remorse of conscience or reproach from reason. 
+
+  The true effect of genuine politeness seems to be rather ease than pleasure.  The power of delighting must be conferred by nature, and cannot be delivered by precept, or obtained by imitation; but though it be the privilege of a very small number    to ravish and to charm, every man may hope by rules and caution not to give pain, and may, therefore, by the help of good-breeding, enjoy the kindness of mankind, though he should have no claim to higher distinctions. 
+
+  The universal axiom in which all complaisance is included, and from which flow all the formalities which custom has established in civilized nations, is, *That no man shall give any preference to himself*. A rule so comprehensive and certain, that, perhaps, it is not easy for the mind to image an incivility, without supposing it to be broken. 
+
+  There are, indeed, in every place some particular modes of the ceremonial part of good-breeding, which, being arbitrary and accidental, can be learned only by habitude and conversation; such are the forms of salutation, the different gradations of reverence, and all the adjustments of place and precedence.  These, however, may be often violated without offence, if it be sufficiently evident, that neither malice nor pride contributed to the failure; but will not atone, however rigidly observed, for the tumour of insolence, or petulance of contempt. 
+
+  I have, indeed, not found among any part of mankind, less real and rational complaisance, than among those who have passed their time in paying and receiving visits, in frequenting publick entertainments, in studying the exact measures of ceremony, and in watching all the variations of fashionable courtesy. 
+
+  They know, indeed, at what hour they may beat    the door of an acquaintance, how many steps they must attend him towards the gate, and what interval should pass before his visit is returned; but seldom extend their care beyond the exterior and unessential parts of civility, nor refuse their own vanity any gratification, however expensive to the quiet of another. 
+
+  Trypherus is a man remarkable for splendour and expense; a man, that having been originally placed by his fortune and rank in the first class of the community, has acquired that air of dignity, and that readiness in the exchange of compliments, which courts, balls, and levees, easily confer. 
+
+  But Trypherus, without any settled purposes of malignity, partly by his ignorance of human nature, and partly by the habit of contemplating with great satisfaction his own grandeur and riches, is hourly giving disgust to those whom chance or expectation subjects to his vanity. 
+
+  To a man whose fortune confines him to a small house, he declaims upon the pleasure of spacious apartments, and the convenience of changing his lodging-room in different parts of the year; tells him, that he hates confinement; and concludes, that if his chamber was less, he should never wake without thinking of a prison. 
+
+  To Eucretas, a man of birth equal to himself, but of much less estate, he shewed his services of plate, and remarked that such things were, indeed, nothing better than costly trifles, but that no man must pretend to the rank of a gentleman without them;    and that for his part, if his estate was smaller, he should not think of enjoying but increasing it, and would inquire out a trade for his eldest son. 
+
+  He has, in imitation of some more acute observer than himself, collected a great many shifts, and artifices by which poverty is concealed; and among the ladies of small fortune, never fails to talk of frippery and slight silks, and the convenience of a general mourning. 
+
+  I have been insulted a thousand times with a catalogue of his pictures, his jewels, and his rarities, which, though he knows the humble neatness of my habitation, he seldom fails to conclude by a declaration, that wherever he sees a house meanly furnished, he despises the owner's taste, or pities his poverty. 
+
+  This, Mr. Rambler, is the practice of Trypherus, by which he is become the terrour of all who are less wealthy than himself, and has raised innumerable enemies without rivalry, and without malevolence. 
+
+  Yet though all are not equally culpable with Trypherus, it is scarcely possible to find any man who does not frequently, like him, indulge his own pride by forcing others into a comparison with himself when he knows the advantage is on his side, without considering that unnecessarily to obtrude unpleasing ideas, is a species of oppression; and that it is little more criminal to deprive another of some real advantage, than to interrupt that forgetfulness of its absence which is the next happiness to actual possesslon. 
+
+  I am, &c.
+ EUTROPIUS.          
+## No.  99.  TUESDAY, FEBRUARY 26, 1751 
+
+      - Scilicet ingeniis aliqua est concordia junctis,
+ - Et servat stdii foedera quisque sui,
+ - Rusticus agricolam, miles fera bella gerentem,
+ - Rectorem dubiae navita puppis amat. 
+ OVID, Ex Pon. v. 59.        -  Congenial passions souls together bind,
+ -  And ev'ry calling mingles with its kind;
+ -  Soldier unites with soldier, swain with swain,
+ -  The mariner with him that roves the main. 
+ F. LEWIS.        IT has been ordained by Providence, for the conservation of order in the immense variety of nature, and for the regular propagation of the several classes of life with which the elements are peopled, that every creature should be drawn by some secret attraction to those of his own kind; and that not only the gentle and domestick animals which naturally unite into companies, or co-habit by pairs, should continue faithful to their species; but even those ravenous and ferocious savages which Aristotle observes never to be gregarious, should range mountains and deserts in search of one another, rather than pollute the world with a monstrous birth. 
+
+  As the perpetuity and distinction of the lower tribes of the creation require that they should be determined to proper mates by some uniform motive of choice, or some cogent principle of instinct, it is necessary, likewise, that man, whose wider capacity demands more gratifications, and who feels in himself innumerable wants, which a life of solitude cannot supply, and innumerable powers to which it cannot give employment, should be led to suitable companions by particular influence; and among    many beings of the same nature with himself, he may select some for intimacy and tenderness, and improve the condition of his existence, by super-adding friendship to humanity, and the love of individuals to that of the species. 
+
+  Other animals are so formed, that they seem to contribute very little to the happiness of each other, and know neither joy, nor grief, nor love, nor hatred, but as they are urged by some desire immediately subservient either to the support of their own lives, or to the continuation of their race; they therefore seldom appear to regard any of the minuter discriminations which distinguish creatures of the same kind from one another. 
+
+  But if man were to feel no incentives to kindness, more than his general tendency to congenial nature, Babylon or London, with all their multitudes, would have to him the desolation of a wilderness; his affections, not compressed into a narrower compass, would vanish, like elemental fire, in boundless evaporation; he would languish in perpetual insensibility, and though he might, perhaps, in the first vigour of youth, amuse himself with the fresh enjoyments of life, yet, when curiosity should cease, and alacrity subside, he would abandon himself to the fluctuations of chance, without expecting help against any calamity, or feeling any wish for the happiness of others. 
+
+  To love all men is our duty, so far as it includes a general habit of benevolence, and readiness of occasional kindness; but to love all equally is impos-   sible; at least impossible without the extinction of those passions which now produce all our pains and all our pleasures; without the disuse, if not the abolition, of some of our faculties, and the suppression of all our hopes and fears in apathy and indifference. 
+
+  The necessities of our condition require a thousand offices of tenderness, which mere regard for the species will never dictate.  Every man has frequent grievances which only the solicitude of friendship will discover and remedy, and which would remain for ever unheeded in the mighty heap of human calamity, were it only surveyed by the eye of general benevolence equally attentive to every misery. 
+
+  The great community of mankind is, therefore, necessarily broken into smaller independent societies; these form distinct interests, which are too frequently opposed to each other, and which they who have entered into the league of particular governments falsely think it virtue to promote, however destructive to the happiness of the rest of the world. 
+
+  Such unions are again separated into subordinate classes and combinations, and social life is perpetually branched out into minuter subdivisions, till it terminates in the last ramifications of private life. 
+
+  That friendship may at once be fond and lasting, it has been already observed in these papers, that a conformity of inclinations is necessary.  No man can have much kindness for him by whom he does not believe himself esteemed, and nothing so evidently proves esteem as imitation. 
+
+  That benevolence is always strongest which arises    from participation of the same pleasures, since we are naturally most willing to revive in our minds the memory of persons, with whom the idea of enjoyment is connected. 
+
+  It is commonly, therefore, to little purpose that any one endeavours to ingratiate himself with such as he cannot accompany in their amusements and diversions.  Men have been known to rise to favour and to fortune, only by being skilful in the sports with which their patron happened to be delighted, by concurring with his taste for some particular species of curiosities, by relishing the same wine, or applauding the same cookery. 
+
+  Even those whom wisdom or virtue have placed above regard to such petty recommendations, must nevertheless be gained by similitude of manners. The highest and noblest enjoyment of familiar life, the communication of knowledge, and reciprocation of sentiments, must always pre-suppose a disposition to the same inquiry, and delight in the same discoveries. 
+
+  With what satisfaction could the politician lay his schemes for the reformation of laws, or his comparisons of different forms of government, before the chemist, who has never accustomed his thoughts to any other object than salt and sulphur? or how could the astronomer, in explaining his calculations and conjectures, endure the coldness of a grammarian, who would lose sight of Jupiter and all his satellites, for a happy etymology of an obscure word, or a better explication of a controverted line?    
+
+  Every man loves merit of the same kind with his own, when it is not likely to hinder his advancement or his reputation; for he not only best understands the worth of those qualities which he labours to cultivate, or the usefulness of the art which he practises with success, but always feels a reflected pleasure from the praises, which, though given to another, belong equally to himself. 
+
+  There is, indeed, no need of research and refinement to discover that men must generally select their companions from their own state of life, since there are not many minds furnished for great variety of conversation, or adapted to multiplicity of intellectual entertainments. 
+
+  The sailor, the academick, the lawyer, the mechanick, and the courtier, have all a cast of talk peculiar to their own fraternity; have fixed their attention upon the same events, have been engaged in affairs of the same sort, and made use of allusions and illustrations which themselves only can understand. 
+
+  To be infected with the jargon of a particular profession, and to know only the language of a single rank of mortals, is indeed sufficiently despicable. But as limits must be always set to the excursions of the human mind, there will be some study which every man more zealously prosecutes, some darling subject on which he is principally pleased to converse; and he that can most inform or best understand him, will certainly be welcomed with particular regard. 
+
+  Such partiality is not wholly to be avoided, nor    is it culpable, unless suffered so far to predominate as to produce aversion from every other kind of excellence, and to shade the lustre of dissimilar virtues.  Those, therefore, whom the lot of life has conjoined, should endeavour constantly to approach towards the inclination of each other, invigorate every motion of concurrent desire, and fan every spark of kindred curiosity. 
+
+  It has been justly observed, that discord generally operates in little things; it is inflamed to its utmost vehemence by contrariety of taste, oftener than of principles; and might therefore commonly be avoided by innocent conformity, which, if it was not at first the motive, ought always to be the consequence of indissoluble union. 
+
+     
+## No. 100. SATURDAY, MARCH 2, 1751 
+
+      - Omne vafer vitium ridenti Flaccus amico
+ - Tangit, et admissus circum praecordia ludit. 
+ PERSIUS, Sat. i. 116.         -  Horace, with sly insinuating grace,
+ -  Laugh'd at his friend, and look'd him in the face;
+ -  Would raise a blush, where secret vice he found,
+ -  And tickle while he gently prob'd the wound.
+ -  With seeming innocence the crowd beguil'd;
+ -  But made the desperate passes when he smil'd. 
+ DRYDEN.          TO THE RAMBLER.
+ SIR,     As very many well-disposed persons, by the unavoidable necessity of their affairs, are so unfortunate as to be totally buried in the country, where they labour under the most deplorable ignorance of what is transacting among the polite part of mankind, I cannot help thinking, that, as a publick    writer, you should take the case of these truly compassionable objects under your consideration. 
+
+  These unhappy languishers in obscurity should be furnished with such accounts of the employments of people of the world, as may engage them in their several remote corners to a laudable imitation; or, at least, so far inform and prepare them, that if by any joyful change of situation they should be suddenly transported into the gay scene, they may not gape, and wonder, and stare, and be utterly at a loss how to behave and make a proper appearance in it. 
+
+  It is inconceivable how much the welfare of all the country towns in the kingdom might be promoted, if you would use your charitable endeavours to raise in them a noble emulation of the manners and customs of higher life. 
+
+  For this purpose you should give a very clear and ample description of the whole set of polite acquirements; a complete history of forms, fashions, frolicks; of routs, drums, hurricanes, balls, assemblies, ridottos, masquerades, auctions, plays, operas, puppet-shows, and bear-gardens; of all those delights which profitably engage the attention of the most sublime characters, and by which they have brought to such amazing perfection the whole art and mystery of passing day after day, week after week, and year after year, without the heavy assistance of any one thing that formal creatures are pleased to call useful and necessary. 
+
+  In giving due instructions through what steps to    attain this summit of human excellence, you may add such irrestible arguments in its favour, as must convince numbers, who in other instances do not seem to want natural understanding, of the unaccountable errour of supposing they were sent into the world for any other purpose but to flutter, sport, and shine.  For, after all, nothing can be clearer than that an everlasting round of diversion, and the more lively and hurrying the better, is the most important end of human life. 
+
+  It is really prodigious, so much as the world is improved, that there should in these days be persons so ignorant and stupid as to think it necessary to misspend their time, and trouble their heads about any thing else than pursuing the present fancy; for what else is worth living for? 
+
+  It is time enough surely to think of consequences when they come; and as for the antiquated notions of duty, they are not to be met with in any French novel, or any book one ever looks into, but derived almost wholly from the writings of authors[^JohRamb.12], who lived a vast many ages ago, and who, as they were totally without any idea of those accomplishments which now characterize people of distinction, have been for some time sinking apace into utter contempt. It does not appear that even their most zealous admirers, for some partisans of his own sort    every writer will have, can pretend to say they were ever at one ridotto.   [^JohRamb.12]: [c] In the original of this paper, written by Mrs. Carter, and republished by her nephew and executor, the Rev. Montagu Pennington, (Memoirs of Mrs. C.  Vol. ii. Oct. 1816,) the following words occur, which were unaccountably omitted by Dr. Johnson—"authors called, I think Peter and Paul, who lived." &c.
+
+  
+
+  In the important article of diversions, the ceremonial of visits, the ecstatick delight of unfriendly intimacies and unmeaning civilities, they are absolutely silent.  Blunt truth, and downright honesty, plain clothes, staying at home, hard work, few words, and those unenlivened with censure or double meaning, are what they recommend as the ornaments and pleasures of life.  Little oaths, polite dissimulation, tea-table scandal, delightful indolence, the glitter of finery, the triumph of precedence, the enchantments of flattery, they seem to have had no notion of; and I cannot but laugh to think what a figure they would have made in a drawing-room, and how frighted they would have looked at a gaming-table. 
+
+  The noble zeal of patriotism that disdains authority, and tramples on laws for sport, was absolutely the aversion of these tame wretches. 
+
+  Indeed one cannot discover any one thing they pretend to teach people, but to be wise, and good; acquirements infinitely below the consideration of persons of taste and spirit, who know how to spend their time to so much better purpose. 
+
+  Among other admirable improvements, pray, Mr. Rambler, do not forget to enlarge on the very extensive benefit of playing at cards on Sundays, a practice of such infinite use, that we may modestly expect to see it prevail universally in all parts of this kingdom.    
+
+  To persons of fashion, the advantage is obvious; because, as for some strange reason or other, which no fine gentleman or fine lady has yet been able to penetrate, there is neither play, nor masquerade, nor bottled conjurer, nor any other thing worth living for, to be had on a Sunday; if it were not for the charitable assistance of whist or bragg, the genteel part of mankind must, one day in seven, necessarily suffer a total extinction of being. 
+
+  Nor are the persons of high rank the only gainers by so salutary a custom, which extends its good influence, in some degree, to the lower orders of people; but were it quite general, how much better and happier would the world be than it is even now? 
+
+  'Tis hard upon poor creatures, be they ever so mean, to deny them those enjoyments and liberties which are equally open for all.  Yet if servants were taught to go to church on this day, spend some part of it in reading or receiving instruction in a family way, and the rest in mere friendly conversation, the poor wretches would infallibly take it into their heads, that they were obliged to be sober, modest, diligent, and faithful to their masters and mistresses. 
+
+  Now surely no one of common prudence or humanity would wish their domesticks infected with such strange and primitive notions, or laid under such unmerciful restraints: all which may, in a great measure, be prevented by the prevalence of the good-humoured fashion, that I would have you recommend.  For when the lower kind of people see their betters, with a truly laudable spirit, insulting    and flying in the face of those rude, ill-bred dictators, piety and the laws, they are thereby excited and admonished, as far as actions can admonish and excite, and taught that they too have an equal right of setting them at defiance in such instances as their particular necessities and inclinations may require; and thus is the liberty of the whole human species mightily improved and enlarged. 
+
+  In short, Mr. Rambler, by a faithful representation of the numberless benefits of a modish life, you will have done your part in promoting what every body seems to confess the true purpose of human existence, perpetual dissipation. 
+
+  By encouraging people to employ their whole attention on trifles, and make amusement their sole study, you will teach them how to avoid many very uneasy reflections. 
+
+  All the soft feelings of humanity, the sympathies of friendship, all natural temptations to the care of a family, and solicitude about the good or ill of others, with the whole train of domestick and social affections, which create such daily anxieties and embarrassments, will be happily stifled and suppressed in a round of perpetual delights; and all serious thoughts, but particularly that of *hereafter*, be banished out of the world; a most perplexing apprehension, but luckily a most groundless one too, as it is so very clear a case, that nobody ever dies. 
+
+  I am, &c.
+ CHARIESSA[^JohRamb.13]. [^JohRamb.13]: [d] The second contribution of Mrs. Carter.
+
+           
+## No. 101. TUESDAY, MARCH 5, 1751 
+
+      - Mella jubes Hyblaea tibi vel Hymettia nasci,
+ - Et thyma Cecropiae Corsica ponis api. 
+ MART.  Lib.  xi.  Lp.  42.          -  Alas! dear Sir, you try in vain,
+ -  Impossibilities to gain;
+ -  No bee from Corsica's rank juice,
+ -  Hyblæan honey can produce. 
+ F. LEWIS.       TO THE RAMBLER.
+SIR,
+
+   HAVING by several years of continual study treasured in my mind a great number of principles and ideas, and obtained by frequent exercise the power of applying them with propriety, and combining them with readiness, I resolved to quit the university, where I considered myself as a gem hidden in the mine, and to mingle in the crowd of publick life.  I was naturally attracted by the company of those who were of the same age with myself, and finding that my academical gravity contributed very little to my reputation, applied my faculties to jocularity and burlesque.  Thus, in a short time, I had heated my imagination to such a state of activity and ebullition, that upon every occasion it fumed away in bursts of wit, and evaporations of gaiety.  I became on a sudden the idol of the coffee-house, was in one winter solicited to accept the presidentship of five clubs, was dragged by violence to every new play, and quoted in every controversy upon theatrical merit; was in every publick place surrounded by a multitude of humble auditors, who retailed in other places of resort my maxims    and my jests, and was boasted as their intimate and companion, by many, who had no other pretensions to my acquaintance, than that they had drank chocolate in the same room. 
+
+  You will not wonder, Mr. Rambler, that I mention my success with some appearance of triumph and elevation.  Perhaps no kind of superiority is more flattering or alluring than that which is conferred by the powers of conversation, by extemporaneous sprightliness of fancy, copiousness of language, and fertility of sentiment.  In other exertions of genius, the greater part of the praise is unknown and unenjoyed; the writer, indeed, spreads his reputation to a wider extent, but receives little pleasure or advantage from the diffusion of his name, and only obtains a kind of nominal sovereignty over regions which pay no tribute.  The colloquial wit has always his own radiance reflected on himself, and enjoys all the pleasure which he bestows; he finds his power confessed by every one that approaches him, sees friendship kindling with rapture, and attention swelling into praise. 
+
+  The desire which every man feels of importance and esteem, is so much gratified by finding an assembly, at his entrance, brightened with gladness and hushed with expectation, that the recollection of such distinctions can scarcely fail to be pleasing whensoever it is innocent.  And my conscience does not reproach me with any mean or criminal effects of vanity; since I always employed my influence on the side of virtue, and never sacrificed my    understanding or my religion to the pleasure of applause. 
+
+  There were many whom either the desire of enjoying my pleasantry, or the pride of being thought to enjoy it, brought often into my company; but I was caressed in a particular manner by Demochares, a gentleman of a large estate, and a liberal disposition. My fortune being by no means exuberant, inclined me to be pleased with a friend who was willing to be entertained at his own charge.  I became by daily invitations habituated to his table, and, as he believed my acquaintance necessary to the character of elegance, which he was desirous of establishing, I lived in all the luxury of affluence, without expense or dependence, and passed my life in a perpetual reciprocation of pleasure, with men brought together by similitude of accomplishments, or desire of improvement. 
+
+  But all power has its sphere of activity, beyond which it produces no effect.  Demochares, being called by his affairs into the country, imagined that he should increase his popularity by coming among his neighbours accompanied by a man whose abilities were so generally allowed.  The report presently spread through half the country that Demochares was arrived, and had brought with him the celebrated Hilarius, by whom such merriment would be excited, as had never been enjoyed or conceived before.  I knew, indeed, the purpose for which I was invited, and, as men do not look diligently out for possible miscarriages, was pleased to find myself    courted upon principles of interest, and considered as capable of reconciling factions, composing feuds, and uniting a whole province in social happiness. 
+
+  After a few days spent in adjusting his domestick regulations, Demochares invited all the gentlemen of his neighbourhood to dinner, and did not forget to hint how much my presence was expected to heighten the pleasure of the feast.  He informed me what prejudices my reputation had raised in my favour, and represented the satisfaction with which he should see me kindle up the blaze of merriment, and should remark the various effects that my fire would have upon such diversity of matter. 
+
+  This declaration, by which he intended to quicken my vivacity, filled me with solicitude.  I felt an ambition of shining which I never knew before; and was therefore embarrassed with an unusual fear of disgrace.  I passed the night in planning out to myself the conversation of the coming day; recollected all my topicks of raillery, proposed proper subjects of ridicule, prepared smart replies to a thousand questions, accommodated answers to imaginary repartees, and formed a magazine of remarks, apophthegms, tales, and illustrations. 
+
+  The morning broke at last in the midst of these busy meditations.  I rose with the palpitations of a champion on the day of combat; and, notwithstanding all my efforts, found my spirits sunk under the weight of expectation.  The company soon after began to drop in, and every one, at his entrance, was introduced to Hilarius.  What conception the in-   habitants of this region had formed of a wit, I cannot yet discover; but observed that they all seemed, after the regular exchange of compliments, to turn away disappointed; and that while we waited for dinner, they cast their eyes first upon me, and then upon each other, like a theatrical assembly waiting for a show. 
+
+  From the uneasiness of this situation, I was relieved by the dinner; and as every attention was taken up by the business of the hour, I sunk quietly to a level with the rest of the company.  But no sooner were the dishes removed, than, instead of cheerful confidence and familiar prattle, an universal silence again shewed their expectation of some unusual performance.  My friend endeavoured to rouse them by healths and questions, but they answered him with great brevity, and immediately relapsed into their former taciturnity. 
+
+  I had waited in hope of some opportunity to divert them, but could find no pass opened for a single sally; and who can be merry without an object of mirth? After a few faint efforts, which produced neither applause nor opposition, I was content to mingle with the mass, to put round the glass in silence, and solace myself with my own contemplations. 
+
+  My friend looked round him; the guests stared at one another; and if now and then a few syllables were uttered with timidity and hesitation, there was none ready to make any reply.  All our faculties were frozen, and every minute took away from    our capacity of pleasing, and disposition to be pleased.  Thus passed the hours to which so much happiness was decreed; the hours which had, by a kind of open proclamation, been devoted to wit, to mirth, and to Hilarius. 
+
+  At last the night came on, and the necessity of parting freed us from the persecutions of each other. I heard them, as they walked along the court, murmuring at the loss of the day, and inquiring whether any man would pay a second visit to a house haunted by a wit. 
+
+  Demochares, whose benevolence is greater than his penetration, having flattered his hopes with the secondary honour which he was to gain by my sprightliness and elegance, and the affection with which he should be followed for a perpetual banquet of gaiety, was not able to conceal his vexation and resentment,nor would easily be convinced,that I had not sacrificed his interest to sullenness and caprice, and studiously endeavoured to disgust his guests, and suppressed my powers of delighting, in obstinate and premeditated silence.  I am informed that the reproach of their ill reception is divided by the gentlemen of the country between us, some being of opinion that my friend is deluded by an impostor, who, though he has found some art of gaining his favour, is afraid to speak before men of more penetration; and others concluding that I think only London the proper theatre of my abilities, and disdain to exert my genius for the praise of rusticks. 
+
+  I believe, Mr. Rambler, that it has sometimes    happened to others, who have the good or ill fortune to be celebrated for wits, to fall under the same censures upon the like occasions.  I hope therefore that you will prevent any misrepresentations of such failures, by remarking that invention is not wholly at the command of its possessor; that the power of pleasing is very often obstructed by the desire; that all expectation lessens surprise, yet some surprise is necessary to gaiety; and that those who desire to partake of the pleasure of wit must contribute to its production, since the mind stagnates without external ventilation, and that effervescence of the fancy, which flashes into transport, can be raised only by the infusion of dissimilar ideas. 
+
+     
+## No. 102. SATURDAY, MARCH 9, 1751 
+
+      - Ipsa quoque assiduo labuntur tempora motu
+ - Non secus ac flumen: neque enim consistere flumen,
+ - Nec levis hora potest; sed ut unda impellitur undâ,
+ - Urgeturque prior veniente, urgetque priorem,
+ - Tempora sic fugiunt pariter, pariterque sequuntur. 
+ OVID. Met. xv. 179.        - With constant motion as the moments glide,
+ - Behold in running life the rolling tide!
+ - For none can stem by art, or stop by pow'r,
+ - The flowing ocean, or the fleeting hour:
+ - But wave by wave pursued arrives on shore,
+ - And each impell'd behind impels before:
+ - So time on time revolving we descry;
+ - So minutes follow, and so minutes fly. 
+ ELPHNSTON.        "LIFE," says Seneca, "is a voyage, in the progress of which we are perpetually changing our scenes: we first leave childhood behind us, then youth, then the years of ripened manhood, then    the better and more pleasing part of old age."  The perusal of this passage having incited in me a train of reflections on the state of man, the incessant fluctuation of his wishes, the gradual change of his disposition to all external objects, and the thoughtlessness with which he floats along the stream of time, I sunk into a slumber amidst my meditations, and on a sudden, found my ears filled with the tumult of labour, the shouts of alacrity, the shrieks of alarm, the whistle of winds, and the dash of waters. 
+
+  My astonishment for a time repressed my curiosity; but soon recovering myself so far as to inquire whither we were going, and what was the cause of such clamour and confusion, I was told that we were launching out into the *ocean of life*; that we had already passed the streights of infancy, in which multitudes had perished, some by the weakness and fragility of their vessels, and more by the folly, perverseness, or negligence, of those who undertook to steer them; and that we were now on the main sea, abandoned to the winds and billows, without any other means of security than the care of the pilot, whom it was always in our power to choose among great numbers that offered their direction and assistance. 
+
+  I then looked round with anxious eagerness; and first turning my eyes behind me, saw a stream flowing through flowery islands, which every one that sailed along seemed to behold with pleasure; but no sooner touched, than the current, which,    though not noisy or turbulent, was yet irresistible, bore him away.  Beyond these islands all was darkness, nor could any of the passengers describe the shore at which he first embarked. 
+
+  Before me, and on each side, was an expanse of waters violently agitated, and covered with so thick a mist, that the most perspicacious eye could see but a little way.  It appeared to be full of rocks and whirlpools, for many sunk unexpectedly while they were courting the gale with full sails, and insulting those whom they had left behind.  So numerous, indeed, were the dangers, and so thick the darkness, that no caution could confer security.  Yet there were many, who, by false intelligence, betrayed their followers into whirlpools, or by violence pushed those whom they found in their way against the rocks. 
+
+  The current was invariable and insurmountable; but though it was impossible to sail against it, or to return to the place that was once passed, yet it was not so violent as to allow no opportunities for dexterity or courage, since, though none could retreat back from danger, yet they might often avoid it by oblique direction. 
+
+  It was, however, not very common to steer with much care or prudence; for by some universal infatuation, every man appeared to think himself safe, though he saw his consorts every moment sinking round him; and no sooner had the waves closed over them, than their fate and misconduct were forgotten; the voyage was pursued with the same jocund    confidence; every man congratulated himself upon the soundness of his vessel, and believed himself able to stem the whirlpool in which his friend was swallowed, or glide over the rocks on which he was dashed: nor was it often observed that the sight of a wreck made any man change his course: if he turned aside for a moment, he soon forgot the rudder, and left himself again to the disposal of chance. 
+
+  This negligence did not proceed from indifference, or from weariness of their present condition; for not one of those who thus rushed upon destruction, failed, when he was sinking, to call loudly upon his associates for that help which could not now be given him; and many spent their last moments in cautioning others against the folly by which they were intercepted in the midst of their course.  Their benevolence was sometimes praised, but their admonitions were unregarded. 
+
+  The vessels in which we had embarked being confessedly unequal to the turbulence of the stream of life, were visibly impaired in the course of the voyage; so that every passenger was certain, that how long soever he might, by favourable accidents, or by incessant vigilance, be preserved, he must sink at last. 
+
+  This necessity of perishing might have been expected to sadden the gay, and intimidate the daring, at least to keep the melancholy and timorous in perpetual torments, and hinder them from any enjoyment of the varieties and gratifications which nature offered them as the solace of their labours;    yet, in effect, none seemed less to expect destruction than those to whom it was most dreadful; they all had the art of concealing their danger from themselves; and those who knew their inability to bear the sight of the terrours that embarrassed their way, took care never to look forward, but found some amusement for the present moment, and generally entertained themselves by playing with Hope, who was the constant associate of the voyage of life. 
+
+  Yet all that Hope ventured to promise, even to those whom she favoured most, was not that they should escape, but that they should sink last; and with this promise every one was satisfied, though he laughed at the rest for seeming to believe it. Hope, indeed, apparently mocked the credulity of her companions; for, in proportion as their vessels grew leaky, she redoubled her assurances of safety; and none were more busy in making provisions for a long voyage, than they whom all but themselves saw likely to perish soon by irreparable decay. 
+
+  In the midst of the current of life was the *gulph of* Intemperance, a dreadful whirlpool, interspersed with rocks, of which the pointed crags were concealed under water, and the tops covered with herbage, on which Ease spread couches of repose, and with shades, where Pleasure warbled the song of invitation.  Within sight of these rocks all who sailed on the ocean of life must necessarily pass.  Reason, indeed, was always at hand to steer the passengers through a narrow outlet by which they might escape; but very few could, by her entreaties or    remonstrances, be induced to put the rudder into her hand, without stipulating that she should approach so near unto the rocks of Pleasure, that they might solace themselves with a short enjoyment of that delicious region, after which they always determined to pursue their course without any other deviation. 
+
+  Reason was too often prevailed upon so far by these promises, as to venture her charge within the eddy of the gulph of Intemperance, where, indeed, the circumvolution was weak, but yet interrupted the course of the vessel, and drew it, by insensible rotations, towards the centre.  She then repented her temerity, and with all her force endeavoured to retreat; but the draught of the gulph was generally too strong to be overcome; and the passenger, having danced in circles with a pleasing and giddy velocity, was at last overwhelmed and lost.  Those few whom Reason was able to extricate, generally suffered so many shocks upon the points which shot out from the rocks of Pleasure, that they were unable to continue their course with the same strength and facility as before, but floated along timorously and feeble, endangered by every breeze, and shattered by every ruffle of the water, till they sunk, by slow degrees, after long struggles, and innumerable expedients, always repining at their own folly, and warning others against the first approach of the gulph of Intemperance. 
+
+  There were artists who professed to repair the breaches and stop the leaks of the vessels which had    been shattered on the rocks of Pleasure.  Many appeared to have great confidence in their skill, and some, indeed, were preserved by it from sinking, who had received only a single blow; but I remarked that few vessels lasted long which had been much repaired, nor was it found that the artists themselves continued afloat longer than those who had least of their assistance. 
+
+  The only advantage which, in the voyage of life, the cautious had above the negligent, was, that they sunk later, and more suddenly; for they passed forward till they had sometimes seen all those in whose company they had issued from the streights in infancy, perish in the way, and at last were overset by a cross breeze, without the toil of resistance, or the anguish of expectation.  But such as had often fallen against the rocks of Pleasure, commonly subsided by sensible degrees, contended long with the encroaching waters, and harassed themselves by labours that scarce Hope herself could flatter with success. 
+
+  As I was looking upon the various fate of the multitude about me, I was suddenly alarmed with an admonition from some unknown Power, "Gaze not idly upon others when thou thyself art sinking. Whence is this thoughtless tranquillity, when thou and they are equally endangered?" I looked, and seeing the gulph of Intemperance before me, started and awaked. 
+
+         
+## No. 103. TUESDAY, MARCH 12, 1751 
+
+     Scire volunt secreta domus atque inde timeri. 
+
+  Juv. Sat. iii. 113     - They search the secrets of the house, and so
+ -  Are worshipp'd there, and fear'd for what they know. 
+ RYDEN.        CURIOSITY is one of the permanent and certain characteristicks of a vigorous intellect. Every advance into knowledge opens new prospects, and produces new incitements to further progress.  All the attainments possible in our present state are evidently inadequate to our capacities of enjoyment; conquest serves no purpose but that of kindling ambition, discovery has no effect but of raising expectation; the gratification of one desire encourages another; and after all our labours, studies, and inquiries, we are continually at the same distance from the completion of our schemes, have still some wish importunate to be satisfied, and some faculty restless and turbulent for want of its enjoyment. 
+
+  The desire of knowledge, though often animated by extrinsick and adventitious motives, seems on many occasions to operate without subordination to any other principle; we are eager to see and hear, without intention of referring our observations to a farther end; we climb a mountain for a prospect of the plain; we run to the strand in a storm, that we may contemplate the agitation of the water; we range from city to city, though we profess neither architecture nor fortification; we cross seas only to view nature in nakedness, or magnificence    in ruins; we are equally allured by novelty of every kind, by a desert or a palace, a cataract or a cavern, by every thing rude and every thing polished, every thing great and every thing little; we do not see a thicket but with some temptation to enter it, nor remark an insect flying before us but with an inclination to pursue it. 
+
+  This passion is, perhaps, regularly heightened in proportion as the powers of the mind are elevated and enlarged.  Lucan therefore introduces Cæsar speaking with dignity suitable to the grandeur of his designs and the extent of his capacity, when he declares to the high-priest of Egypt, that he has no desire equally powerful with that of finding the origin of the Nile, and that he would quit all the projects of the civil war for a sight of those fountains which had been so long concealed.  And Homer, when he would furnish the Sirens with a temptation, to which his hero, renowned for wisdom, might yield without disgrace, makes them declare, that none ever departed from them but with increase of knowledge. 
+
+  There is, indeed, scarce any kind of ideal acquirement which may not be applied to some use, or which may not at least gratify pride with occasional superiority; but whoever attends the motions of his own mind will find, that upon the first appearance of an object, or the first start of a question, his inclination to a nearer view, or more accurate discussion, precedes all thoughts of profit, or of competition; and that his desires take wing by in-   stantaneous impulse, though their flight may be invigorated, or their efforts renewed, by subsequent considerations.  The gratification of curiosity rather frees us from uneasiness than confers pleasure; we are more pained by ignorance, than delighted by instruction.  Curiosity is the thirst of the soul; it inflames and torments us, and makes us taste every thing with joy, however otherwise insipid, by which it may be quenched. 
+
+  It is evident that the earliest searchers after knowledge must have proposed knowledge only as their reward; and that science, though perhaps the nursling of interest, was the daughter of curiosity: for who can believe that they who first watched the course of the stars, foresaw the use of their discoveries to the facilitation of commerce, or the mensuration of time? They were delighted with the splendour of the nocturnal skies, they found that the lights changed their places; what they admired they were anxious to understand, and in time traced their revolutions. 
+
+  There are, indeed, beings in the form of men, who appear satisfied with their intellectual possessions, and seem to live without desire of enlarging their conceptions; before whom the world passes without notice, and who are equally unmoved by nature or by art. 
+
+  This negligence is sometimes only the temporary effect of a predominant passion: a lover finds no inclination to travel any path, but that which leads to the habitation of his mistress; a trader can spare    little attention to common occurrences, when his fortune is endangered by a storm.  It is frequently the consequence of a total immersion in sensuality; corporeal pleasures may be indulged till the memory of every other kind of happiness is obliterated; the mind, long habituated to a lethargick and quiescent state, is unwilling to wake to the toil of thinking; and though she may sometimes be disturbed by the obtrusion of new ideas, shrinks back again to ignorance and rest. 
+
+  But, indeed, if we except them to whom the continual task of procuring the supports of life, denies all opportunities of deviation from their own narrow track, the number of such as live without the ardour of inquiry is very small, though many content themselves with cheap amusements, and waste their lives in researches of no importance. 
+
+  There is no snare more dangerous to busy and excursive minds, than the cobwebs of petty inquisitiveness, which entangle them in trivial employments and minute studies, and detain them in a middle state, between the tediousness of total inactivity, and the fatigue of laborious efforts, enchant them at once with ease and novelty, and vitiate them with the luxury of learning.  The necessity of doing something, and the fear of undertaking much, sinks the historian to a genealogist, the philosopher to a journalist ofthe weather, and the mathematician to a constructor of dials. 
+
+  It is happy when those who cannot content themselves to be idle, nor resolve to be industrious, are    at least employed without injury to others; but it seldom happens that we can contain ourselves long in a neutral state, or forbear to sink into vice, when we are no longer soaring towards virtue. 
+
+  Nugaculus was distinguished in his earlier years by an uncommon liveliness of imagination, quickness of sagacity, and extent of knowledge.  When he entered into life, he applied himself with particular inquisitiveness to examine the various motives of human actions, the complicated influence of mingled affections, the different modifications of interest and ambition, and the various causes of miscarriage and success both in public and private affairs. 
+
+  Though his friends did not discover to what purpose all these observations were collected, or how Nugaculus would much improve his virtue or his fortune by an incessant attention to changes of countenance, bursts of inconsideration, sallies of passion, and all the other casualties by which he used to trace a character, yet they could not deny the study of human nature to be worthy of a wise man; they therefore flattered his vanity, applauded his discoveries, and listened with submissive modesty to his lectures on the uncertainty of inclination, the weakness of resolves, and the instability of temper, to his account of the various motives which agitate the mind, and his ridicule of the modern dream of a ruling passion. 
+
+  Such was the first incitement of Nugaculus to a close inspection into the conduct of mankind.  He    had no interest in view, and therefore no design of supplantation; he had no malevolence, and therefore detected faults without any intention to expose them; but having once found the art of engaging his attention upon others, he had no inclination to call it back to himself, but has passed his time in keeping a watchful eye upon every rising character, and lived upon a small estate without any thought of increasing it. 
+
+  He is, by continual application, become a general master of secret history, and can give an account of the intrigues, private marriages, competitions, and stratagems, of half a century.  He knows the mortgages upon every man's estate, the terms upon which every spendthrift raises his money, the real and reputed fortune of every lady, the jointure stipulated by every contract, and the expectations of every family from maiden aunts and childless acquaintances.  He can relate the economy of every house, knows how much one man's cellar is robbed by his butler, and the land of another underlet by his steward; he can tell where the manor-house is falling, though large sums are yearly paid for repairs; and where the tenants are felling woods without the consent of the owner. 
+
+  To obtain all this intelligence he is inadvertently guilty of a thousand acts of treachery.  He sees no man's servant without draining him of his trust; he enters no family without flattering the children into discoveries; he is a perpetual spy upon the doors of his neighbours; and knows by long experience, at    whatever distance, the looks of a creditor, a borrower, a lover, and a pimp. 
+
+  Nugaculus is not ill-natured, and therefore his industry has not hitherto been very mischievous to others, or dangerous to himself: but since he cannot enjoy this knowledge but by discovering it, and, if he had no other motive to loquacity, is obliged to traffick like the chymists, and purchase one secret with another, he is every day more hated as he is more known; for he is considered by great numbers as one that has their fame and their happiness in his power, and no man can much love him of whom he lives in fear. 
+
+  Thus has an intention, innocent at first, if not laudable, the intention of regulating his own behaviour by the experience of others, by an accidental declension of minuteness, betrayed Nugaculus, not only to a foolish, but vicious waste of a life which might have been honourably passed in publick services, or domestick virtues.  He has lost his original intention, and given up his mind to employments that engross, but do not improve it. 
+
+     
+## No.  104.  SATURDAY, MARCH 16, 1751 
+
+      -  —Nihil est, quod credere de se
+ -  Non possit.— 
+ JUV. Sat. iv. 70.       None e'er rejects hyperboles of praise. 
+
+    THE apparent insufficiency of every individual to his own happiness or safety, compels us to seek from one another assistance and support.  The necessity of joint edorts for the execution of any    great or extensive design, the variety of powers disseminated in the species, and the proportion between the defects and excellencies of different persons, demand an interchange of help, and communication of intelligence, and by frequent reciprocations of beneficence unite mankind in society and friendship. 
+
+  If it can be imagined that there ever was a time when the inhabitants of any country were in a state of equality, without distinction of rank, or peculiarity of possessions, it is reasonable to believe that every man was then loved in proportion as he could contribute by his strength, or his skill, to the supply of natural wants; there was then little room for peevish dislike, or capricious favour; the affection admitted into the heart was rather esteem than tenderness; and kindness was only purchased by benefits.  But when by force or policy, by wisdom or by fortune, property and superiority were introduced and established, so that many were condemned to labour for the support of a few, then they whose possessions swelled above their wants, naturally laid out their superfluities upon pleasure; and those who could not gain friendship by necessary offices, endeavoured to promote their interest by luxurious gratifications, and to create needs, which they might be courted to supply. 
+
+  The desires of mankind are much more numerous than their attainments, and the capacity of imagination much larger than actual enjoyment.  Multitudes are therefore unsatisfied with their allotment;    and he that hopes to improve his condition by the favour of another, and either finds no room for the exertion of great qualities, or perceives himself excelled by his rivals, will, by other expedients, endeavour to become agreeable where he cannot be important, and learn, by degrees, to number the *art of pleasing* among the most useful studies, and most valuable acquisitions. 
+
+  This art,like others, is cultivated in proportion to its usefulness, and will always flourish most where it is most rewarded; for this reason we find it practised with great assiduity under absolute governments, where honours and riches are in the hands of one man, whom all endeavour to propitiate, and who soon becomes so much accustomed to compliance and officiousness, as not easily to find, in the most delicate address, that novelty which is necessary to procure attention. 
+
+  It is discovered by a very few experiments, that no man is much pleased with a companion, who does not increase, in some respect, his fondness of himself; and, therefore, he that wishes rather to be led forward to prosperity by the gentle hand of favour, than to force his way by labour and merit, must consider with more care how to display his patron's excellencies than his own; that whenever he approaches, he may fill the imagination with pleasing dreams, and chase away disgust and weariness by a perpetual succession of delightful images. 
+
+  This may, indeed, sometimes be effected by turning the attention upon advantages which are    really possessed, or upon prospects which reason spreads before hope; for whoever can deserve or require to be courted, has generally, either from nature or from fortune, gifts, which he may review with satisfaction, and of which, when he is artfully recalled to the contemplation, he will seldom be displeased. 
+
+  But those who have once degraded their understanding to an application only to the passions, and who have learned to derive hope from any other sources than industry and virtue, seldom retain dignity and magnanimity sufficient to defend them against the constant recurrence of temptation to falsehood.  He that is too desirous to be loved, will soon learn to flatter, and when he has exhausted all the variations of honest praise, and can delight no longer with the civility of truth, he will invent new topicks of panegyrick, and break out into raptures at virtues and beauties conferred by himself. 
+
+  The drudgeries of dependance would, indeed, be aggravated by hopelessness of success, if no indulgence was allowed to adulation.  He that will obstinately confine his patron to hear only the commendations which he deserves, will soon be forced to give way to others that regale him with more compass of musick.  The greatest human virtue bears no proportion to human vanity.  We always think ourselves better than we are, and are generally desirous that others should think us still better than we think ourselves.  To praise us for actions or dispositions which deserve praise, is not to    confer a benefit, but to pay a tribute.  We have always pretensions to fame, which, in our own hearts, we know to be disputable, and which we are desirous to strengthen by a new suffrage; we have always hopes which we suspect to be fallacious, and of which we eagerly snatch at every confirmation. 
+
+  It may, indeed, be proper to make the first approaches under the conduct of truth, and to secure credit of future encomiums, by such praise as may be ratified by the conscience; but the mind once habituated to the lusciousness of eulogy, becomes, in a short time, nice and fastidious, and, like a vitiated palate, is incessantly calling for higher gratifications. 
+
+  It is scarcely credible to what degree discernment may be dazzled by the mist of pride, and wisdom infatuated by the intoxication of flattery; or how low the genius may descend by successive gradations of servility, and how swiftly it may fall down the precipice of falsehood.  No man can, indeed, observe, without indignation, on what names, both of ancient and modern times, the utmost exuberance of praise has been lavished, and by what hands it has been bestowed.  It has never yet been found, that the tyrant, the plunderer, the oppressor, the most hateful of the hateful, the most profligate of the profligate, have been denied any celebrations which they were willing to purchase, or that wickedness and folly have not found correspondent flatterers through all their subordinations, except when they have been associated with avarice or poverty,    and have wanted either inclination or ability to hire a panegyrist. 
+
+  As there is no character so deformed as to fright away from it the prostitutes of praise, there is no degree of encomiastick veneration which pride has refused.  The emperors of Rome suffered themselves to be worshipped in their lives with altars and sacrifices; and, in an age more enlightened, the terms peculiar to the praise and worship of the Supreme Being, have been applied to wretches whom it was the reproach of humanity to number among men; and whom nothing but riches or power hindered those that read or wrote their deification, from hunting into the toils of justice, as disturbers of the peace of nature. 
+
+  There are, indeed, many among the poetical flatterers, who must be resigned to infamy without vindication, and whom we must confess to have deserted the cause of virtue for pay; they have committed, against full conviction, the crime of obliterating the distinctions between good and evil, and, instead of opposing the encroachments of vice, have incited her progress, and celebrated her conquests.  But there is a lower class of sycophants, whose understanding has not made them capable of equal guilt.  Every man of high rank is surrounded with numbers, who have no other rule of thought or action, than his maxims, and his conduct; whom the honour of being numbered among his acquaintance, reconciles to all his vices, and all his absurdities; and who easily persuade themselves to esteem    him, by whose regard they consider themselves as distinguished and exalted. 
+
+  It is dangerous for mean minds to venture themselves within the sphere of greatness.  Stupidity is soon blinded by the splendour of wealth, and cowardice is easily fettered in the shackles of dependance. To solicit patronage, is, at least, in the event, to set virtue to sale.  None can be pleased without praise, and few can be praised without falsehood; few can be assiduous without servility, and none can be servile without corruption. 
+
+     
+## No. 105. TUESDAY, MARCH 19, 1751 
+
+      - —Animorum
+ - Impulsu, et caecâ magnâque cupidine ducti. 
+ Juv. Sat. x. 350.         -  Vain man runs headlong, to caprice resign'd;
+ -  Impell'd by passion, and with folly blind. 
+       I WAS lately considering, among other objects of speculation, the new attempt of an *universal register*, an office, in which every man may lodge an account of his superfluities and wants, of whatever he desires to purchase or to sell.  My imagination soon presented to me the latitude to which this design may be extended by integrity and industry, and the advantages which may be justly hoped from a general mart of intelligence, when once its reputation shall be so established, that neither reproach nor fraud shall be feared from it: when an application to it shall not be censured as the last resource of desperation, nor its informations    suspected as the fortuitous suggestions of men obliged not to appear ignorant.  A place where every exuberance may be discharged, and every deficiency supplied; where every lawful passion may find its gratifications, and every honest curiosity receive satisfaction; where the stock of a nation, pecuniary and intellectual, may be brought together, and where all conditions of humanity may hope to find relief, pleasure, and accommodation; must equally deserve the attention of the merchant and philosopher, of him who mingles in the tumult of business, and him who only lives to amuse himself with the various employments and pursuits of others.  Nor will it be an uninstructing school to the greatest masters of method and dispatch, if such multiplicity can be preserved from embarrassment, and such tumult from inaccuracy. 
+
+  While I was concerting this splendid project, and filling my thoughts with its regulation, its conveniences, its variety, and its consequences, I sunk gradually into slumber; but the same images, though less distinct, still continued to float upon my fancy.  I perceived myself at the gate of an immense edifice, where innumerable multitudes were passing without confusion; every face on which I fixed my eyes, seemed settled in the contemplation of some important purpose, and every foot was hastened by eagerness and expectation. I followed the crowd without knowing whither I should be drawn, and remained a while in the unpleasing state of an idler, where all other beings    were busy, giving place every moment to those who had more importance in their looks.  Ashamed to stand ignorant, and afraid to ask questions, at last I saw a lady sweeping by me, whom, by the quickness of her eyes, the agility of her steps, and a mixture of levity and impatience, I knew to be my long-loved protectress, Curiosity.  "Great goddess," said I, "may thy votary be permitted to implore thy favour; if thou hast been my directress from the first dawn of reason, if I have followed thee through the maze of life with invariable fidelity, if I have turned to every new call, and quitted at thy nod one pursuit for another, if I have never stopped at the invitations of fortune, nor forgot thy authority in the bowers of pleasure, inform me now whither chance has conducted me." 
+
+  "Thou art now," replied the smiling power, "in the presence of Justice, and of Truth, whom the father of gods and men has sent down to register the demands and pretentions of mankind, that the world may at last be reduced to order, and that none may complain hereafter of being doomed to tasks for which they are unqualified, of possessing faculties for which they cannot find employment, or virtues that languish unobserved for want of opportunities to exert them, of being encumbered with superfluities which they would willingly resign, or of wasting away in desires which ought to be satisfied.  Justice is now to examine every man's wishes, and Truth is to record them; let us approach, and observe the progress of this great transaction."    
+
+  She then moved forward, and Truth, who knew her among the most faithful of her followers, beckoned her to advance, till we were placed near the seat of Justice.  The first who required the assistance of the office, came forward with a slow pace, and tumour of dignity, and shaking a weighty purse in his hand, demanded to be registered by Truth, as the Mæcenas of the present age, the chief encourager of literary merit, to whom men of learning and wit might apply in any exigence or distress with certainty of succour.  Justice very mildly inquired, whether he had calculated the expense of such a declaration? whether he had been informed what number of petitioners would swarm about him? whether he could distinguish idleness and negligence from calamity, ostentation from knowledge, or vivacity from wit? To these questions he seemed not well provided with a reply, but repeated his desire to be recorded as a patron.  Justice then offered to register his proposal on these conditions, that he should never suffer himself to be flattered; that he should never delay an audience when he had nothing to do; and that he should never encourage followers without intending to reward them. These terms were too hard to be accepted; for what, said he, is the end of patronage, but the pleasure of reading dedications, holding multitudes in suspense, and enjoying their hopes, their fears, and their anxiety, flattering them to assiduity, and, at last, dismissing them for impatience? Justice heard his confession, and ordered his name to be    posted upon the gate among cheats and robbers, and publick nuisances, which all were by that notice warned to avoid. 
+
+  Another required to be made known as the discoverer of a new art of education, by which languages and sciences might be taught to all capacities, and all inclinations, without fear of punishment, pain or confinement, loss of any part of the gay mien of ignorance, or any obstruction of the necessary progress in dress, dancing, or cards. 
+
+  Justice and Truth did not trouble this great adept with many inquiries; but finding his address awkward and his speech barbarous, ordered him to be registered as a tall fellow who wanted employment, and might serve in any post where the knowledge of reading and writing was not required. 
+
+  A man of very grave and philosophick aspect, required notice to be given of his intention to set out, a certain day, on a submarine voyage, and of his willingness to take in passengers for no more than double the price at which they might sail above water.  His desire was granted, and he retired to a convenient stand, in expectation of filling his ship, and growing rich in a short time by the secrecy, safety, and expedition of the passage. 
+
+  Another desired to advertise the curious, that he had, for the advancement of true knowledge, contrived an optical instrument, by which those who laid out their industry on memorials of the changes of the wind, might observe the direction of the weather-cocks on the hither side of the lunar world.    
+
+  Another wished to be known as the author of an invention, by which cities or kingdoms might be made warm in winter by a single fire, a kettle, and pipe.  Another had a vehicle by which a man might bid defiance to floods, and continue floating in an inundation, without any inconvenience, till the water should subside.  Justice considered these projects as of no importance but to their authors, and therefore scarcely condescended to examine them: but Truth refused to admit them into the register. 
+
+  Twenty different pretenders came in one hour to give notice of an universal medicine, by which all diseases might be cured or prevented, and life protracted beyond the age of Nestor.  But Justice informed them, that one universal medicine was sufficient, and she would delay the notification till she saw who could longest preserve his own life. 
+
+  A thousand other claims and offers were exhibited and examined.  I remarked, among this mighty multitude, that, of intellectual advantages, many had great exuberance, and few confessed any want; of every art there were a hundred professors for a single pupil; but of other attainments, such as riches, honours, and preferments, I found none that had too much, but thousands and ten thousands that thought themselves entitled to a larger dividend. 
+
+  It often happened, that old misers, and women married at the close of life, advertised their want of children; nor was it uncommon for those who had a numerous offspring, to give notice of a son or daughter to be spared; but, though appearances    promised well on both sides, the bargain seldom succeeded; for they soon lost their inclination to adopted children, and proclaimed their intentions to promote some scheme of publick charity: a thousand proposals were immediately made, among which they hesitated till death precluded the decision. 
+
+  As I stood looking on this scene of confusion, Truth condescended to ask me, what was my business at her office? I was struck with the unexpected question, and awaked by my efforts to answer it. 
+
+     
+## No. 106. SATURDAY, MARCH 23, 1751 
+
+    Opinionum commenta delet dies, naturae judicia confirmat. 
+
+  CICERO, vi.  Att.  1.   Time obliterates the fictions of opinion, and confirms the decisions of nature. 
+
+    IT is necessary to the success of flattery, that it be accommodated to particular circumstances or characters, and enter the heart on that side where the passions stand ready to receive it.  A lady seldom listens with attention to any praise but that of her beauty; a merchant always expects to hear of his influence at the bank, his importance on the exchange, the height of his credit, and the extent of his traffick: and the author will scarcely be pleased without lamentations of the neglect of learning, the conspiracies against genius, and the slow progress of merit, or some praises of the magnanimity of those who encounter poverty and contempt in the cause of knowledge, and trust for the reward of their labours to the judgment and gratitude of posterity.    
+
+  An assurance of unfading laurels, and immortal reputation, is the settled reciprocation of civility between amicable writers.  To raise *monuments more durable than brass, and more conspicuous than pyramids*, has been long the common boast of literature; but, among the innumerable architects that erect columns to themselves, far the greater part, either for want of durable materials, or of art to dispose them, see their edifices perish as they are towering to completion, and those few that for a while attract the eye of mankind, are generally weak in the foundation, and soon sink by the saps of time. 
+
+  No place affords a more striking conviction of the vanity of human hopes, than a publick library; for who can see the wall crowded on every side by mighty volumes, the works of laborious meditation, and accurate inquiry, now scarcely known but by the catalogue, and preserved only to increase the pomp of learning, without considering how many hours have been wasted in vain endeavours, how often imagination has anticipated the praises of futurity, how many statues have risen to the eye of vanity, how many ideal converts have elevated zeal, how often wit has exulted in the eternal infamy of his antagonists, and dogmatism has delighted in the gradual advances of his authority, the immutability of his decrees, and the perpetuity of his power?   -  —Non unquam dedit
+ -  Documenta fors majora, quam fragili loco
+ -  Starent superbi. 
+   -  Insulting chance ne'er call'd with louder voice,
+ -  On swelling mortals to be proud no more. 
+  
+
+      Of the innumerable authors whose performances are thus treasured up in magnificent obscurity, most are forgotten, because they never deserved to be remembered, and owed the honours which they once obtained, not to judgment or to genius, to labour or to art, but to the prejudice of faction, the stratagem of intrigue, or the servility of adulation. 
+
+  Nothing is more common than to find men whose works are now totally neglected, mentioned with praises by their contemporaries, as the oracles of their age, and the legislators of science.  Curiosity is naturally excited, their volumes after long inquiry are found, but seldom reward the labour of the search.  Every period of time has produced these bubbles of artificial fame, which are kept up a while by the breath of fashion, and then break at once, and are annihilated.  The learned often bewail the loss of ancient writers whose characters have survived their works; but, perhaps, if we could now retrieve them, we should find them only the Granvilles, Montagues, Stepneys, and Sheffelds of their time, and wonder by what infatuation or caprice they could be raised to notice. 
+
+  It cannot, however, be denied, that many have sunk into oblivion, whom it were unjust to number with this despicable class.  Various kinds of literary fame seem destined to various measures of duration. Some spread into exuberance with a very speedy growth, but soon wither and decay; some rise more slowly, but last long.  Parnassus has its flowers of    transient fragrance, as well as its oaks of towering height, and its laurels of eternal verdure. 
+
+  Among those whose reputation is exhausted in a short time by its own luxuriance, are the writers who take advantage of present incidents or characters which strongly interest the passions, and engage universal attention.  It is not difficult to obtain readers, when we discuss a question which every one is desirous to understand, which is debated in every assembly, and has divided the nation into parties; or when we display the faults or virtues of him whose publick conduct has made almost every man his enemy or his friend.  To the quick circulation of such productions all the motives of interest and vanity concur; the disputant enlarges his knowledge, the zealot animates his passion, and every man is desirous to inform himself concerning affairs so vehemently agitated and variously represented. 
+
+  It is scarcely to be imagined, through how many subordinations of interest the ardour of party is diffused; and what multitudes fancy themselves affected by every satire or panegyrick on a man of eminence.  Whoever has, at any time, taken occasion to mention him with praise or blame, whoever happens to love or hate any of his adherents, as he wishes to conform his opinion, and to strengthen his party, will diligently peruse every paper from which he can hope for sentiments like his own.  An object, however small in itself, if placed near to the eye, will engross all the rays of light; and a trans-   action, however trivial, swells into importance when it presses immediately on our attention.  He that shall peruse the political pamphlets of any past reign, will wonder why they were so eagerly read, or so loudly praised.  Many of the performances which had power to inflame factions, and fill a kingdom with confusion, have now very little effect upon a frigid critick; and the time is coming, when the compositions of later hirelings shall lie equally despised.  In proportion as those who write on temporary subjects, are exalted above their merit at first, they are afterwards depressed below it; nor can the brightest elegance of diction, or most artful subtilty of reasoning, hope for so much esteem from those whose regard is no longer quickened by curiosity or pride. 
+
+  It is, indeed, the fate of controvertists, even when they contend for philosophical or theological truth, to be soon laid aside and slighted.  Either the question is decided, and there is no more place for doubt and opposition; or mankind despair of understanding it, and grow weary of disturbance, content themselves with quiet ignorance, and refuse to be harassed with labours which they have no hopes of recompensing with knowledge. 
+
+  The authors of new discoveries may surely expect to be reckoned among those whose writings are secure of veneration: yet it often happens that the general reception of a doctrine obscures the books in which it was delivered.  When any tenet is generally received and adopted as an incontrovertible    principle, we seldom look back to the arguments upon which it was first established, or can bear that tediousness of deduction, and multiplicity of evidence, by which its author was forced to reconcile it to prejudice, and fortify it in the weakness of novelty against obstinacy and envy. 
+
+  It is well known how much of our philosophy is derived from Boyle's discovery of the qualities of the air; yet of those who now adopt or enlarge his theory, very few have read the detail of his experiments. His name is, indeed, reverenced; but his works are neglected; we are contented to know, that he conquered his opponents, without inquiring what cavils were produced against him, or by what proofs they were confuted. 
+
+  Some writers apply themselves to studies boundless and inexhaustible, as experiments in natural philosophy.  These are always lost in successive compilations, as new advances are made, and former observations become more familiar.  Others spend their lives in remarks on language, or explanations of antiquities, and only afford materials for lexicographers and commentators, who are themselves overwhelmed by subsequent collectors, that equally destroy the memory of their predecessors by amplification, transposition, or contraction.  Every new system of nature gives birth to a swarm of expositors, whose business is to explain and illustrate it, and who can hope to exist no longer than the founder of their sect preserves his reputation. 
+
+  There are, indeed, few kinds of composition from    which an author, however learned or ingenious, can hope a long continuance of fame.  He who has carefully studied human nature, and can well describe it, may with most reason flatter his ambition. Bacon, among all his pretensions to the regard of posterity, seems to have pleased himself chiefly with his Essays, *which come home to men's business and bosoms*, and of which, therefore, he declares his expectation, that they *will live as long as books last*.  It may, however, satisfy an honest and benevolent mind to have been useful, though less conspicuous; nor will he that extends his hope to higher rewards, be so much anxious to obtain praise, as to discharge the duty which Providence assigns him. 
+
+     
+## No. 107. TUESDAY, MARCH 26, 1751 
+
+      - Alternis igitur contendere versibs ambo
+ - Coepere: alternos musae meminisse volebant. 
+ Virgil, Eclogues, VII.18-19          -  On themes alternate now the swains recite;
+ -  The muses in alternate themes delight. 
+ ELPHINSTON.         AMONG the various censures, which the unavoidable comparison of my performances with those of my predecessors has produced, there is none more general than that of uniformity.  Many of my readers remark the want of those changes of colours, which formerly fed the attention with unexhausted novelty, and of that intermixture of subjects, or alternation of manner, by which other writers relieved weariness, and awakened expectation.    
+
+  I have, indeed, hitherto avoided the practice of uniting gay and solemn subjects in the same paper, because it seems absurd for an author to counteract himself, to press at once with equal force upon both parts of the intellectual balance, or give medicines, which, like the double poison of Dryden, destroy the force of one another.  I have endeavoured sometimes to divert, and sometimes to elevate; but have imagined it an useless attempt to disturb merriment by solemnity, or interrupt seriousness by drollery.  Yet I shall this day publish two letters of very different tendency, which I hope, like tragi-comedy, may chance to please even when they are not critically approved. 
+
+  TO THE RAMBLER.
+DEAR SIR,
+
+  THOUGH, as my mamma tells me, I am too young to talk at the table, I have great pleasure in listening to the conversation of learned men, especially when they discourse of things which I do not understand; and have, therefore, been of late particularly delighted with many disputes about the *alteration of the stile*, which, they say, is to be made by act of parliament.  
+
+  One day when my mamma was gone out of the room, I asked a very great scholar what the stile was.  He told me, he was afraid I should hardly understand him when he informed me, that it was the stated and established method of computing time.  It was not, indeed, likely that I should under-   stand him; for I never yet knew time computed in my life, nor can imagine why we should be at so much trouble to count what we cannot keep.  He did not tell me whether we are to count the time past, or the time to come; but I have considered them both by myself, and think it as foolish to count time that is gone, as money that is spent; and as for the time which is to come, it only seems farther off by counting; and therefore, when any pleasure is promised me, I always think of the time as little as I can. 
+
+  I have since listened very attentively to every one that talked upon this subject, of whom the greater part seem not to understand it better than myself; for though they often hint how much the nation has been mistaken, and rejoice that we are at last growing wiser than our ancestors, I have never been able to discover from them, that any body has died sooner or been married later for counting time wrong; and, therefore, I began to fancy that there was a great bustle with little consequence. 
+
+  At last, two friends of my papa, Mr. Cycle, and Mr. Starlight, being, it seems, both of high learning, and able to make an almanack, began to talk about the new stile.  Sweet Mr. Starlight—I am sure I shall love his name as long as I live; for he told Cycle roundly, with a fierce look, that we should never be right without a *year of confusion*. Dear Mr. Rambler, did you ever hear any thing so charming? a whole year of confusion! When there has been a rout at mamma's, I have thought one    night of confusion worth a thousand nights of rest; and if I can but see a year of confusion, a whole year, of cards in one room, and dancings in another, here a feast, and there a masquerade, and plays, and coaches, and hurries, and messages, and milliners, and raps at the door, and visits, and frolicks, and new fashions, I shall not care what they do with the rest of the time, nor whether they count it by the old stile or the new; for I am resolved to break loose from the nursery in the tumult, and play my part among the rest; and it will be strange if I cannot get a husband and a chariot in the year of confusion. 
+
+  Cycle, who is neither so young nor so handsome as Starlight, very gravely maintained, that all the perplexity may be avoided by leaping over eleven days in the reckoning; and indeed, if it should come only to this, I think the new stile is a delightful thing; for my mamma says I shall go to court when I am sixteen, and if they can but contrive often to leap over eleven days together, the months of restraint will soon be at an end.  It is strange, that with all the plots that have been laid against time, they could never kill it by act of parliament before. Dear Sir, if you have any vote or interest, get them but for once to destroy eleven months, and then I shall be as old as some married ladies.  But this is desired only if you think they will not comply with Mr. Starlight's scheme; for nothing surely could please me like a year of confusion, when I shall no longer be fixed this hour to my pen, and the next    to my needle, or wait at home for the dancing-master one day, and the next for the musick-master; but run from ball to ball, and from drum to drum; and spend all my time without tasks, and without account, and go without telling whither, and come home without regard to prescribed hours, or family-rules. 
+
+   I am, Sir,
+ Your humble Servant,
+ PROPERANTIA. 
+
+  MR. RAMBLER,
+
+  I WAS seized this morning with an unusual pensiveness, and, finding that books only served to heighten it, took a ramble into the fields, in hopes of relief and invigoration from the keenness of the air and brightness of the sun. 
+
+  As I wandered wrapped up in thought, my eyes were struck with the hospital for the reception of deserted infants, which I surveyed with pleasure, till, by a natural train of sentiment, I began to reflect on the fate of the mothers.  For to what shelter can they fly? Only to the arms of their betrayer, which perhaps are now no longer open to receive them; and then how quick must be the transition from deluded virtue to shameless guilt, and from shameless guilt to hopeless wretchedness? 
+
+  The anguish that I felt, left me no rest till I had, by your means, addressed myself to the public on behalf of those forlorn creatures, the women of the town; whose misery here might satisfy the most rigorous censor, and whose participation of our com-   mon nature might surely induce us to endeavour, at least, their preservation from eternal punishment. 
+
+  These were all once, if not virtuous, at least innocent; and might still have continued blameless and easy, but for the arts and insinuations of those whose rank, fortune, or education, furnished them with means to corrupt or to delude them.  Let the libertine reflect a moment on the situation of that woman, who, being forsaken by her betrayer, is reduced to the necessity of turning prostitute for bread, and judge of the enormity of his guilt by the evils which it produces. 
+
+  It cannot be doubted but that numbers follow this dreadful course of life, with shame, horrour, and regret; but where can they hope for refuge? "*The world is not their friend, nor the world's law*." Their sighs, and tears, and groans, are criminal in the eye of their tyrants, the bully and the bawd, who fatten on their misery, and threaten them with want or a gaol, if they show the least design of escaping from their bondage. 
+
+  "To wipe all tears from off all faces," is a task too hard for mortals; but to alleviate misfortunes is often within the most limited power: yet the opportunities which every day affords of relieving the most wretched of human beings are overlooked and neglected, with equal disregard of policy and goodness. 
+
+  There are places, indeed, set apart, to which these unhappy creatures may resort, when the diseases of incontinence seize upon them; but if they obtain a    cure, to what are they reduced? Either to return with the small remains of beauty to their former guilt, or perish in the streets with nakedness and hunger. 
+
+  How frequently have the gay and thoughtless, in their evening frolicks, seen a band of those miserable females, covered with rags, shivering with cold, and pining with hunger; and, without either pitying their calamities, or reflecting upon the cruelty of those who perhaps first seduced them by caresses of fondness, or magnificence of promises, go on to reduce others to the same wretchedness by the same means! 
+
+  To stop the increase of this deplorable multitude, is undoubtedly the first and most pressing consideration. To prevent evil is the great end of government, the end for which vigilance and severity are properly employed.  But surely those whom passion or interest have already depraved, have some claim to compassion, from beings equally frail and fallible with themselves.  Nor will they long groan in their present afflictions, if none were to refuse them relief, but those that owe their exemption from the same distress only to their wisdom and their virtue. 
+
+   I am, &c.
+ AMICUS[^JohRamb.14].  [^JohRamb.14]: [e] The letter from Amicus was from an unknown correspondent.  It breathes a tenderness of spirit worthy of Johnson himself.  But he practised the lesson which it inculcates;—a harder task! Sterne could *write* sentiment.
+
+             
+## No. 108. SATURDAY, MARCH 30, 1751 
+
+      - Sapere aude,
+ - Incipe. Vivendi recte qui prorogat horam,
+ - Rusticus expectat dum defluat amnis: at aille
+ - Labitur, et labetur in smne volubilis aevum. 
+ HOR. Lib. i. Ep. ii. 39.         -  Begin, be bold, and venture to be wise;
+ -  He who defers this work from day to day,
+ -  Does on a river's bank expecting stay,
+ -  Till the whole stream, which stopp'd him, should be gone,
+ -  That runs, and as it runs, for ever will run on. 
+ COWLEY.        AN ancient poet, unreasonably discontented at the present state of things, which his system of opinions obliged him to represent in its worst form, has observed of the earth, "that its greater part is covered by the uninhabitable ocean; that of the rest some is encumbered with naked mountains, and some lost under barren sands; some scorched with unintermitted heat, and some petrified with perpetual frost; so that only a few regions remain for the production of fruits, the pasture of cattle, and the accommodation of man." 
+
+  The same observation may be transferred to the time allotted us in our present state.  When we have deducted all that is absorbed in sleep, all that is inevitably appropriated to the demands of nature, or irresistibly engrossed by the tyranny of custom; all that passes in regulating the superficial decorations of life, or is given up in the reciprocations of civility to the disposal of others; all that is torn from us by the violence of disease, or stolen imperceptibly away by lassitude and languor; we shall find that part of our duration very small of which we can truly call ourselves masters, or which we can    spend wholly at our own choice.  Many of our hours are lost in a rotation of petty cares, in a constant recurrence of the same employments; many of our provisions for ease or happiness are always exhausted by the present day; and a great part of our existence serves no other purpose, than that of enabling us to enjoy the rest. 
+
+  Of the few moments which are left in our disposal, it may reasonably be expected, that we should be so frugal, as to let none of them slip from us without some equivalent; and perhaps it might be found, that as the earth, however straitened by rocks and waters, is capable of producing more than all its inhabitants are able to consume, our lives, though much contracted by incidental distraction, would yet afford us a large space vacant to the exercise of reason and virtue; that we want not time, but diligence, for great performances; and that we squander much of our allowance, even while we think it sparing and insufficient. 
+
+  This natural and necessary comminution of our lives, perhaps, often makes us insensible ofthe negligence with which we suffer them to slide away.  We never consider ourselves as possessed at once of time sufficient for any great design, and therefore indulge ourselves in fortuitous amusements.  We think it unnecessary to take an account of a few supernumerary moments, which, however employed, could have produced little advantage, and which were exposed to a thousand chances of disturbance and interruption.    
+
+  It is observable, that, either by nature or by habit, our faculties are fitted to images of a certain extent, to which we adjust great things by division, and little things by accumulation.  Of extensive surfaces we can only take a survey, as the parts succeed one another; and atoms we cannot perceive till they are united into masses.  Thus we break the vast periods of time into centuries and years; and thus, if we would know the amount of moments, we must agglomerate them into days and weeks. 
+
+  The proverbial oracles of our parsimonious ancestors have informed us, that the fatal waste of fortune is by small expenses, by the profusion of sums too little singly to alarm our caution, and which we never suffer ourselves to consider together.  Of the same kind is the prodigality of life; he that hopes to look back hereafter with satisfaction upon past years, must learn to know the present value of single minutes, and endeavour to let no particle of time fall useless to the ground. 
+
+  It is usual for those who are advised to the attainment of any new qualification, to look upon themselves as required to change the general course of their conduct, to dismiss business, and exclude pleasure, and to devote their days and nights to a particular attention.  But all common degrees of excellence are attainable at a lower price; he that should steadily and resolutely assign to any science or language those interstitial vacancies which intervene in the most crowded variety of diversion or employment, would find every day new irradiations    of knowledge, and discover how much more is to be hoped from frequency and perseverance, than from violent efforts and sudden desires; efforts which are soon remitted when they encounter difficulty, and desires, which, if they are indulged too often, will shake off the authority of reason, and range capriciously from one object to another. 
+
+  The disposition to defer every important design to a time of leisure, and a state of settled uniformity, proceeds generally from a false estimate of the human powers.  If we except those gigantic and stupendous intelligences who are said to grasp a system by intuition, and bound forward from one series of conclusions to another, without regular steps through intermediate propositions, the most successful students make their advances in knowledge by short flights, between each of which the mind may lie at rest.  For every single act of progression a short time is sufficient; and it is only necessary, that whenever that time is afforded, it be well employed. 
+
+  Few minds will be long confined to severe and laborious meditation; and when a successful attack on knowledge has been made, the student recreates himself with the contemplation of his conquest, and forbears another incursion, till the new-acquired truth has become familiar, and his curiosity calls upon him for fresh gratifications.  Whether the time of intermission is spent in company, or in solitude, in necessary business, or in voluntary levities, the understanding is equally abstracted from the object    of inquiry; but, perhaps, if it be detained by occupations less pleasing, it returns again to study with greater alacrity than when it is glutted with ideal pleasures, and surfeited with intemperance of application. He that will not suffer himself to be discouraged by fancied impossibilities, may sometimes find his abilities invigorated by the necessity of exerting them in short intervals, as the force of a current is increased by the contraction of its channel. 
+
+  From some cause like this, it has probably proceeded, that, among those who have contributed to the advancement of learning, many have risen to eminence in opposition to all the obstacles which external circumstances could place in their way, amidst the tumult of business, the distresses of poverty, or the dissipations of a wandering and unsettled state.  A great part of the life of Erasmus was one continual peregrination; ill supplied with the gifts of fortune, and led from city to city, and from kingdom to kingdom, by the hopes of patrons and preferment, hopes which always flattered and always deceived him; he yet found means, by unshaken constancy, and a vigilant improvement of those hours, which, in the midst of the most restless activity, will remain unengaged, to write more than another in the same condition would have hoped to read.  Compelled by want to attendance and solicitation, and so much versed in common life, that he has transmitted to us the most perfect delineation of the manners of his age, he joined to his knowledge of the world such application to books, that    he will stand for ever in the first rank of literary heroes.  How this proficiency was obtained he sufficiently discovers, by informing us, that the "Praise of Folly," one of his most celebrated performances, was composed by him on the road to Italy; *ne totum illud tempus quo equo fuit insidendum, illiteratis fabtblis terreretur*: "lest the hours which he was obliged to spend on horseback should be tattled away without regard to literature." 
+
+  An Italian philosopher expressed in his motto, that *time was his estate*; an estate, indeed, which will produce nothing without cultivation, but will always abundantly repay the labours of industry, and satisfy the most extensive desires, if no part of it be suffered to lie waste by negligence, to be overrun with noxious plants, or laid out for shew, rather than for use. 
+
+     
+## No. 109. TUESDAY, APRIL 2, 1751 
+
+      - Gratum est, quod patriae civem, populoque dedisti
+ - Si facis ut patriae sit idoneus, utilis agris,
+ - Utilis et bellorum et pacis rebus agendis.
+ - Plurimum enim intererit, quibus artibus, et quibus hunc tu
+ - Moribus instituas. 
+ JUV. SAT. xiv. 70.        -  Grateful the gift! a member to the state,
+ -  If you that member useful shall create;
+ -  Train'd both to war, and, when the war shall cease,
+ -  As fond, as fit t'improve the arts of peace.
+ -  For much it boots which way you train your boy,
+ -  The hopeful object of your future joy. 
+ ELPHINSTON.      TO THE RAMBLER
+ SIR,     THOUGH you seem to have taken a view sufficiently extensive of the miseries of life, and have employed much of your speculation on mourn-   ful subjects, you have not yet exhausted the whole stock of human infelicity.  There is still a species of wretchedness which escapes your observation, though it might supply you with many sage remarks, and salutary cautions. 
+
+  I cannot but imagine the start of attention awakened by this welcome hint; and at this instant see the Rambler snuffing his candle, rubbing his spectacles, stirring his fire, locking out interruption, and settling himself in his easy chair, that he may enjoy a new calamity without disturbance.  For, whether it be that continued sickness or misfortune has acquainted you only with the bitterness of being; or that you imagine none but yourself able to discover what I suppose has been seen and felt by all the inhabitants of the world; whether you intend your writings as antidotal to the levity and merriment with which your rivals endeavour to attract the favour of the publick; or fancy that you have some particular powers of dolorous declamation, and *warble out your groans* with uncommon elegance or energy; it is certain, that whatever be your subject, melancholy for the most part bursts in upon your speculation, your gaiety is quickly overcast, and though your readers may be flattered with hopes of pleasantry, they are seldom dismissed but with heavy hearts. 
+
+  That I may therefore gratify you with an imitation of your own syllables of sadness, I will inform you that I was condemned by some disastrous influence to be an only son, born to the apparent    prospect of a large fortune, and allotted to my parents at that time of life when satiety of common diversions allows the mind to indulge parental affection with greater intenseness.  My birth was celebrated by the tenants with feasts, and dances, and bagpipes: congratulations were sent from every family within ten miles round; and my parents discovered in my first cries such tokens of future virtue and understanding, that they declared themselves determined to devote the remaining part of life to my happiness and the increase of their estate. 
+
+  The abilities of my father and mother were not perceptibly unequal, and education had given neither much advantage over the other.  They had both kept good company, rattled in chariots, glittered in playhouses, and danced at court, and were both expert in the games that were in their time called in as auxiliaries against the intrusion of thought. 
+
+  When there is such a parity between two persons associated for life, the dejection which the husband, if he be not completely stupid, must always suffer for want of superiority, sinks him to submissiveness.  My mamma therefore governed the family without controul; and except that my father still retained some authority in the stables, and, now and then, after a supernumerary bottle, broke a looking-glass or china dish to prove his sovereignty, the whole course of the year was regulated by her direction, the servants received from    her all their orders, and the tenants were continued or dismissed at her discretion. 
+
+  She therefore thought herself entitled to the superintendence of her son's education; and when my father, at the instigation of the parson, faintly proposed that I should be sent to school, very positively told him, that she should not suffer so fine a child to be ruined; that she never knew any boys at a grammar-school that could come into a room without blushing, or sit at table without some awkward uneasiness; that they were always putting themselves into danger by boisterous plays, or vitiating their behaviour with mean company, and that, for her part, she would rather follow me to the grave, than see me tear my clothes, and hang down my head, and sneak about with dirty shoes and blotted fingers, my hair unpowdered, and my hat uncocked. 
+
+  My father, who had no other end in his proposal than to appear wise and manly, soon acquiesced, since I was not to live by my learning; for indeed he had known very few students that had not some stiffness in their manner.  They therefore agreed, that a domestick tutor should be procured, and hired an honest gentleman of mean conversation and narrow sentiments, but whom, having passed the common forms of literary education, they implicitly concluded qualified to teach all that was to be learned from a scholar.  He thought himself sufficiently exalted by being placed at the same table with his pupil, and had no other view than to perpetuate his    felicity to the utmost flexibility of submission to all my mother's opinions and caprices.  He frequently took away my book, lest I should mope with too much application, charged me never to write without turning up my ruffles, and generally brushed my coat before he dismissed me into the parlour. 
+
+  He had no occasion to complain of too burdensome an employment: for my mother very judiciously considered, that I was not likely to grow politer in his company, and suffered me not to pass any more time in his apartment than my lesson required. When I was summoned to my task, she enjoined me not to get any of my tutor's ways, who was seldom mentioned before me but for practices to be avoided.  I was every moment admonished not to lean on my chair, cross my legs, or swing my hands like my tutor; and once my mother very seriously deliberated upon his total dismission, because I began, she said, to learn his manner of sticking on my hat, and had his bend in my shoulders, and his totter in my gait. 
+
+  Such, however, was her care, that I escaped all these depravities; and when I was only twelve years old, had rid myself of every appearance of childish diffidence.  I was celebrated round the country for the petulance of my remarks, and the quickness of my replies; and many a scholar, five years older than myself, have I dashed into confusion by the steadiness of my countenance, silenced by my readiness of repartee, and tortured with envy by the address with which I picked up    a fan, presented a snuff-box, or received an empty tea-cup. 
+
+  At fourteen I was completely skilled in all the niceties of dress, and I could not only enumerate all the variety of silks, and distinguish the product of a French loom, but dart my eye through a numerous company, and observe every deviation from the reigning mode.  I was universally skilful in all the changes of expensive finery; but as every one, they say, has something to which he is particularly born, was eminently knowing in Brussels lace. 
+
+  The next year saw me advanced to the trust and power of adjusting the ceremonial of an assembly. All received their partners from my hand, and to me every stranger applied for introduction. My heart now disdained the instructions of a tutor, who was rewarded with a small annuity for life, and left me qualified, in my own opinion, to govern myself. 
+
+  In a short time I came to London, and as my father was well known among the higher classes of life, soon obtained admission to the most splendid assemblies and most crowded card-tables.  Here I found myself universally caressed and applauded; the ladies praised the fancy of my clothes, the beauty of my form, and the softness of my voice; endeavoured in every place to force themselves to my notice; and invited, by a thousand oblique solicitations, my attendance to the playhouse, and my salutations in the park.  I was now happy to    the utmost extent of my conception; I passed every morning in dress, every afternoon in visits, and every night in some select assemblies, where neither care nor knowledge were suffered to molest us. 
+
+  After a few years, however, these delights became familiar, and I had leisure to look round me with more attention.  I then found that my flatterers had very little power to relieve the languor of satiety, or recreate weariness, by varied amusement; and therefore endeavoured to enlarge the sphere of my pleasures, and to try what satisfaction might be found in the society of men.  I will not deny the mortification with which I perceived, that every man whose name I had heard mentioned with respect, received me with a kind of tenderness, nearly bordering on compassion; and that those whose reputation was not well established, thought it necessary to justify their understandings, by treating me with contempt.  One of these witlings elevated his crest, by asking me in a full coffee-house the price of patches; and another whispered that he wondered why Miss Frisk did not keep me that afternoon to watch her squirrel. 
+
+  When I found myself thus hunted from all masculine conversation by those who were themselves barely admitted, I returned to the ladies, and resolved to dedicate my life to their service and their pleasure.  But I find that I have now lost my charms. Of those with whom I entered the gay world, some are married, some have retired, and some have so    much changed their opinion, that they scarcely pay any regard to my civilities, if there is any other man in the place.  The new flight of beauties to whom I have made my addresses, suffer me to pay the treat, and then titter with boys.  So that I now find myself welcome only to a few grave ladies, who, unacquainted with all that gives either use or dignity to life, are content to pass their hours between their bed and their cards, without esteem from the old, or reverence from the young. 
+
+  I cannot but think, Mr. Rambler, that I have reason to complain; for surely the females ought to pay some regard to the age of him whose youth was passed in endeavours to please them.  They that encourage folly in the boy, have no right to punish it in the man.  Yet I find that, though they lavish their first fondness upon pertness and gaiety, they soon transfer their regard to other qualities, and ungratefully abandon their adorers to dream out their last years in stupidity and contempt. 
+
+   I am, &c.
+ FLORENTULUS.           
+## No. 110. SATURDAY, APRIL 6, 1751 
+
+      - At nobis vitae dominum quaerentibus unum
+ - Lux iter est, clara dies, et gratia simplex.
+ - Spem sequimur, gradimurque fide, fruimurque futuris,
+ - Ad quae non veniunt praesentis gaudia vitae,
+ - Nec currunt pariter capta, et capienda voluptas. 
+ PRUDENTIUS, Cont. Sym. ii. 904.        -  We through this maze of life one Lord obey;
+ -  Whose light and grace unerring lead the way.
+ -  By hope and faith secure of future bliss,
+ -  Gladly the joys of present life we miss:
+ -  For baffled mortals still attempt in vain,
+ -  Present and future bliss at once to gain. 
+ F.  LEWIS.     THAT to please the Lord and Father of the universe, is the supreme interest of created and dependent beings, as it is easily proved, has been universally confessed; and since all rational agents are conscious of having neglected or violated the duties prescribed to them, the fear of being rejected, or punished by God, has always burdened the human mind.  The expiation of crimes, and renovation of the forfeited hopes of divine favour, therefore constitute a large part of every religion. 
+
+  The various methods of propitiation and atonement which fear and folly have dictated, or artifice and interest tolerated in the different parts of the world, however they may sometimes reproach or degrade humanity, at least shew the general consent of all ages and nations in their opinion of the placability of the divine nature.  That God will forgive, may, indeed, be established as the first and fundamental truth of religion; for, though the knowledge of his existence is the origin of philosophy, yet,    without the belief of his mercy, it would have little influence upon our moral conduct.  There could be no prospect of enjoying the protection or regard of him, whom the least deviation from rectitude made inexorable for ever; and every man would naturally withdraw his thoughts from the contemplation of a Creator, whom he must consider as a governor too pure to be pleased, and too severe to be pacified; as an enemy infinitely wise, and infinitely powerful, whom he could neither deceive, escape, nor resist. 
+
+  Where there is no hope, there can be no endeavour. A constant and unfailing obedience is above the reach of terrestrial diligence; and therefore the progress of life could only have been the natural descent of negligent despair from crime to crime, had not the universal persuasion of forgiveness, to be obtained by proper means of reconciliation, recalled those to the paths of virtue, whom their passions had solicited aside; and animated to new attempts, and firmer perseverance, those whom difficulty had discouraged, or negligence surprised. 
+
+  In times and regions so disjoined from each other, that there can scarcely be imagined any communication of sentiments either by commerce or tradition, has prevailed a general and uniform expectation of propitiating God by corporal austerities, of anticipating his vengeance by voluntary inflictions, and appeasing his justice by a speedy and cheerful submission to a less penalty, when a greater is incurred. 
+
+  Incorporated minds will always feel some incli-   nation towards exterior acts and ritual observances. Ideas not represented by sensible objects are fleeting, variable, and evanescent.  We are not able to judge of the degree of conviction which operated at any particular time upon our own thoughts, but as it is recorded by some certain and definite effect. He that reviews his life in order to determine the probability of his acceptance with God, if he could once establish the necessary proportion between crimes and sufferings, might securely rest upon his performance of the expiation; but while safety remains the reward only of mental purity, he is always afraid lest he should decide too soon in his own favour; lest he should not have felt the pangs of true contrition; lest he should mistake satiety for detestation, or imagine that his passions are subdued when they are only sleeping. 
+
+  From this natural and reasonable diffidence arose, in humble and timorous piety, a disposition to confound penance with repentance, to repose on human determinations, and to receive from some judicial sentence the stated and regular assignment of reconciliatory pain.  We are never willing to be without resource: we seek in the knowledge of others a succour for our own ignorance, and are ready to trust any that will undertake to direct us when we have no confidence in ourselves. 
+
+  This desire to ascertain by some outward marks the state of the soul, and this willingness to calm the conscience by some settled method, have produced, as they are diversified in their effects by    various tempers and principles, most of the disquisitions and rules, the doubts and solutions, that have embarrassed the doctrine of repentance, and perplexed tender and flexible minds with innumerable scruples concerning the necessary measures of sorrow, and adequate degrees of self-abhorrence; and these rules, corrupted by fraud, or debased by credulity, have, by the common resiliency of the mind from one extreme to another, incited others to an open contempt of all subsidiary ordinances, all prudential caution, and the whole discipline of regulated piety. 
+
+  Repentance, however difficult to be practised, is, if it be explained without superstition, easily understood. *Repentance is the relinquishment of any practice, from the conviction that it has offended God*. Sorrow and fear, and anxiety, are properly not parts, but adjuncts of repentance; yet they are too closely connected with it to be easily separated; for they not only mark its sincerity, but promote its efficacy.           No man commits any act of negligence or obstinacy, by which his safety or happiness in this world is endangered, without feeling the pungency of remorse.  He who is fully convinced, that he suffers by his own failure, can never forbear to trace back his miscarriage to its first cause, to image to himself a contrary behaviour, and to form involuntary resolutions against the like fault, even when he knows that he shall never again have the power of committing it.  Danger, considered as imminent, naturally produces such trepidations of impatience    as leave all human means of safety behind them: he that has once caught an alarm of terrour, is every moment seized with useless anxieties, adding one security to another, trembling with sudden doubts, and distracted by the perpetual occurrence of new expedients.  If, therefore, he whose crimes have deprived him of the favour of God, can reflect upon his conduct without disturbance, or can at will banish the reflection; if he who considers himself as suspended over the abyss of eternal perdition only by the thread of life, which must soon part by its own weakness, and which the wing of every minute may divide, can cast his eyes round him without shuddering with horrour, or panting with security; what can he judge of himself, but that he is not yet awakened to sufficient conviction, since every loss is more lamented than the loss of the divine favour, and every danger more dreadful than the danger of final condemnation? 
+
+  Retirement from the cares and pleasures of the world has been often recommended as useful to repentance. This at least is evident, that every one retires, whenever ratiocination and recollection are required on other occasions; and surely the retrospect of life, the disentanglement of actions complicated with innumerable circumstances, and diffused in various relations, the discovery of the primary movements of the heart, and the extirpation of lusts and appetites deeply rooted and widely spread, may be allowed to demand some secession from sport and noise, business and folly.  Some sus-   pension of common affairs, some pause of temporal pain and pleasure, is doubtless necessary to him that deliberates for eternity, who is forming the only plan in which miscarriage cannot be repaired, and examining the only question in which mistake cannot be rectified. 
+
+  Austerities and mortifications are means by which the mind is invigorated and roused, by which the attractions of pleasure are interrupted, and the chains of sensuality are broken.  It is observed by one of the fathers, that *he who restrains himself in the use of things lawful, will never encroach upon things forbidden*.  Abstinence, if nothing more, is, at least, a cautious retreat from the utmost verge of permission, and confers that security which cannot be reasonably hoped by him that dares always to hover over the precipice of destruction, or delights to approach the pleasures which he knows it fatal to partake.  Austerity is the proper antidote to indulgence; the diseases of mind as well as body are cured by contraries, and to contraries we should readily have recourse, if we dreaded guilt as we dread pain. 
+
+  The completion and sum of repentance is a change of life.  That sorrow which dictates no caution, that fear which does not quicken our escape, that austerity which fails to rectify our affections, are vain and unavailing.  But sorrow and terrour must naturally precede reformation; for what other cause can produce it? He, therefore, that feels himself alarmed by his conscience, anxious for the attainment of a bet-   ter state, and afflicted by the memory of his past faults, may justly conclude, that the great work of repentance is begun, and hope by retirement and prayer, the natural and religious means of strengthening his conviction, to impress upon his mind such a sense of the divine presence, as may overpower the blandishments of secular delights, and enable him to advance from one degree of holiness to another, till death shall set him free from doubt and contest, misery and temptation[^JohRamb.15].   -  What better can we do than prostrate fall
+ -  Before him reverent; and there confess
+ -  Humbly our faults, and pardon beg; with tears
+ -  Wat'ring the ground, and with our sighs the air
+ -  Frequenting, sent from hearts contrite, in sign
+ -  Of sorrow unfeign'd, and humiliation meek? 
+ Par. Lost B. x. 1087. 
+
+  [^JohRamb.15]: [f] The perusal of these profound remarks on penance and repentance had so powerful an effect on one of the English Benedictine monks (The Rev. James Compton) at Paris, as to lead him from the errours of Popery! For an account of Dr. Johnson's true benevolence through the whole of this interesting occasion, see Malone's note to Boswell's Life of Johnson, vol. iv. p. 210—edit. 1822. 
+
+     
+## No. 111. TUESDAY, APRIL 9, 1751 
+
+     - u̓ρονεu̓ν γa̓ρ οu̓ ταχεu̓ς οu̓κ a̓σu̓αλεu̓ς.
+ Sophocles, *Oedipus Tyrannus*, l.617.  Disaster always waits on early wit. 
+
+    IT has been observed, by long experience, that late springs produce the greatest plenty.  The delay of blooms and fragrance, of verdure and breezes, is for the most part liberally recompensed by the exuberance and fecundity of the ensuing seasons; the blossoms which lie concealed till the year is advanced,    and the sun is high, escape those chilling blasts, and nocturnal frosts, which are often fatal to early luxuriance, prey upon the first smiles of vernal beauty, destroy the feeble principles of vegetable life, intercept the fruit in the gem, and beat down the flowers unopened to the ground. 
+
+  I am afraid there is little hope of persuading the young and sprightly part of my readers, upon whom the spring naturally forces my attention, to learn, from the great process of nature, the difference between diligence and hurry, between speed and precipitation; to prosecute their designs with calmness, to watch the concurrence of opportunity, and endeavour to find the lucky moment which they cannot make.  Youth is the time of enterprize and hope: having yet no occasion of comparing our force with any opposing power, we naturally form presumptions in our own favour, and imagine that obstruction and impediment will give way before us.  The first repulses rather inflame vehemence than teach prudence; a brave and generous mind is long before it suspects its own weakness, or submits to sap the difficulties which it expected to subdue by storm. Before disappointments have enforced the dictates of philosophy, we believe it in our power to shorten the interval between the first cause and the last effect; we laugh at the timorous delays of plodding industry, and fancy that, by increasing the fire, we can at pleasure accelerate the projection. 
+
+  At our entrance into the world, when health and vigour give us fair promises of time sufflcient for    the regular maturation of our schemes, and a long enjoyment of our acquisitions, we are eager to seize the present moment; we pluck every gratification within our reach, without suffering it to ripen into perfection, and crowd all the varieties of delight into a narrow compass; but age seldom fails to change our conduct; we grow negligent of time in proportion as we have less remaining, and suffer the last part of life to steal from us in languid preparations for future undertakings, or slow approaches to remote advantages, in weak hopes of some fortuitous occurrence, or drowsy equilibrations of undetermined counsel: whether it be that the aged, having tasted the pleasures of man's condition, and found them delusive, become less anxious for their attainment; or that frequent miscarriages have depressed them to despair, and frozen them to inactivity; or that death shocks them more as it advances upon them, and they are afraid to remind themselves of their decay, or to discover to their own hearts that the time of trifling is past. 
+
+  A perpetual conflict with natural desires seems to be the lot of our present state.  In youth we require something of the tardiness and frigidity of age; and in age we must labour to recall the fire and impetuosity of youth; in youth we must learn to expect, and in age to enjoy. 
+
+  The torment of expectation is, indeed, not easily to be borne at a time when every idea of gratification fires the blood, and flashes on the fancy; when the heart is vacant to every fresh form of delight,    and has no rival engagements to withdraw it from the importunities of a new desire.  Yet, since the fear of missing what we seek must always be proportionable to the happiness expected from possessing it, the passions, even in this tempestuous state, might be somewhat moderated by frequent inculcation of the mischief of temerity, and the hazard of losing that which we endeavour to seize before our time. 
+
+  He that too early aspires to honours, must resolve to encounter not only the opposition of interest, but the malignity of envy.  He that is too eager to be rich, generally endangers his fortune in wild adventures, and uncertain projects; and he that hastens too speedily to reputation, often raises his character by artifices and fallacies, decks himself in colours which quickly fade, or in plumes which accident may shake off, or competition pluck away. 
+
+  The danger of early eminence has been extended by some, even to the gifts of nature; and an opinion has been long conceived, that quickness of invention, accuracy of judgment, or extent of knowledge, appearing before the usual time, presage a short life.  Even those who are less inclined to form general conclusions, from instances which by their own nature must be rare, have yet been inclined to prognosticate no suitable progress from the first sallies of rapid wits; but have observed, that after a short effort they either loiter or faint, and suffer themselves to be surpassed by the even and regular perseverance of slower understandings.    
+
+  It frequently happens, that applause abates diligence. Whoever finds himself to have performed more than was demanded, will be contented to spare the labour of unnecessary performances, and sit down to enjoy at ease his superfluities of honour. He whom success has made confident of his abilities, quickly claims the privilege of negligence, and looks contemptuously on the gradual advances of a rival, whom he imagines himself able to leave behind whenever he shall again summon his force to the contest.  But long intervals of pleasure dissipate attention, and weaken constancy; nor is it easy for him that has sunk from diligence into sloth, to rouse out of his lethargy, to recollect his notions, rekindle his curiosity, and engage with his former ardour in the toils of study. 
+
+  Even that friendship which intends the reward of genius, too often tends to obstruct it.  The pleasure of being caressed, distinguished, and admired, easily seduces the student from literary solitude.  He is ready to follow the call which summons him to hear his own praise, and which, perhaps, at once flatters his appetite with certainty of pleasures, and his ambition with hopes of patronage; pleasures which he conceives inexhaustible, and hopes which he has not yet learned to distrust. 
+
+  These evils, indeed, are by no means to be imputed to nature, or considered as inseparable from an early display of uncommon abilities.  They may be certainly escaped by prudence and resolution, and must therefore be recounted rather as consola-   tions to those who are less liberally endowed, than as discouragements to such as are born with uncommon qualities.  Beauty is well known to draw after it the persecutions of impertinence, to incite the artifices of envy, and to raise the flames of unlawful love; yet, among the ladies whom prudence or modesty have made most eminent, who has ever complained of the inconveniences of an amiable form? or would have purchased safety by the loss of charms? 
+
+  Neither grace of person, nor vigour of understanding, are to be regarded otherwise than as blessings, as means of happiness indulged by the Supreme Benefactor; but the advantages of either may be lost by too much eagerness to obtain them. A thousand beauties in their first blossom, by an imprudent exposure to the open world, have suddenly withered at the blast of infamy; and men who might have subjected new regions to the empire of learning, have been lured by the praise of their first productions from academical retirement, and wasted their days in vice and dependance.  The virgin who too soon aspires to celebrity and conquest, perishes by childish vanity, ignorant credulity, or guiltless indiscretion.  The genius who catches at laurels and preferment before his time, mocks the hopes that he had excited, and loses those years which might have been most usefully employed, the years of youth, of spirit, and vivacity. 
+
+  It is one of the innumerable absurdities of pride, that we are never more impatient of direction, than    in that part of life when we need it most; we are in haste to meet enemies whom we have not strength to overcome, and to undertake tasks which we cannot perform: and as he that once miscarries does not easily persuade mankind to favour another attempt, an ineffectual struggle for fame is often followed by perpetual obscurity. 
+
+     
+## No. 112. SATURDAY, APRIL 13, 1751 
+
+      - In mea vesanas habui dispendia vires,
+ - Et valui poenas fortis in ipse meas. 
+ OVID, Am. Lib. i. vii. 25.         -  Of strength pernicious to myself I boast;
+ -  The pow'rs I have were given me to my cost. 
+ F. LEWIS.     WE are taught by Celsus, that health is best preserved by avoiding settled habits of life, and deviating sometimes into slight aberrations from the laws of medicine; by varying the proportions of food and exercise, interrupting the successions of rest and labour, and mingling hardships with indulgence.  The body, long accustomed to stated quantities and uniform periods, is disordered by the smallest irregularity; and since we cannot adjust every day by the balance or barometer, it is fit sometimes to depart from rigid accuracy, that we may be able to comply with necessary affairs, or strong inclinations.  He that too long observes nice punctualities, condemns himself to voluntary imbecility, and will not long escape the miseries of disease. 
+
+  The same laxity of regimen is equally necessary    to intellectual health, and to a perpetual susceptibility of occasional pleasure.  Long confinement to the same company which perhaps similitude of taste brought first together, quickly contracts the faculties, and makes a thousand things offensive that are in themselves indifferent; a man accustomed to hear only the echo of his own sentiments, soon bars all the common avenues of delight, and has no part in the general gratifications of mankind. 
+
+  In things which are not immediately subject to religious or moral consideration, it is dangerous to be too rigidly in the right.  Sensibility may, by an incessant attention to elegance and propriety, be quickened to a tenderness inconsistent with the condition of humanity, irritable by the smallest asperity, and vulnerable by the gentlest touch.  He that pleases himself too much with minute exactness, and submits to endure nothing in accommodations, attendance, or address, below the point of perfection, will, whenever he enters the crowd of life, be harassed with innumerable distresses, from which those who have not in the same manner increased their sensations find no disturbance.  His exotick softness will shrink at the coarseness of vulgar felicity, like a plant transplanted to northern nurseries, from the dews and sunshine of the tropical regions. 
+
+  There will always be a wide interval between practical and ideal excellence; and, therefore, if we allow not ourselves to be satisfied while we can perceive any errour or defect, we must refer our hopes of ease to some other period of existence.  It is well    known, that, exposed to a microscope, the smoothest polish of the most solid bodies discovers cavities and prominences; and that the softest bloom of roseate virginity repels the eye with excrescences and discolorations.  The perceptions as well as the senses may be improved to our own disquiet, and we may, by diligent cultivation of the powers of dislike, raise in time an artificial fastidiousness, which shall fill the imagination with phantoms of turpitude, shew us the naked skeleton of every delight, and present us only with the pains of pleasure, and the deformities of beauty. 
+
+  Peevishness, indeed, would perhaps very little disturb the peace of mankind, were it always the consequence of superfluous delicacy; for it is the privilege only of deep reflection, or lively fancy, to destroy happiness by art and refinement.  But by continual indulgence of a particular humour, or by long enjoyment of undisputed superiority, the dull and thoughtless may likewise acquire the power of tormenting themselves and others, and become sufficiently ridiculous or hateful to those who are within sight of their conduct, or reach of their influence. 
+
+  They that have grown old in a single state are generally found to be morose, fretful, and captious; tenacious of their own practices and maxims; soon offended by contradiction or negligence; and impatient of any association, but with those that will watch their nod, and submit themselves to unlimited authority.  Such is the effect of having lived without    the necessity of consulting any inclination but their own. 
+
+  The irascibility of this class of tyrants is generally exerted upon petty provocations, such as are incident to understandings not far extended beyond the instincts of animal life; but, unhappily, he that fixes his attention on things always before him, will never have long cessations of anger.  There are many veterans of luxury upon whom every noon brings a paroxysm of violence, fury, and execration; they never sit down to their dinner without finding the meat so injudiciously bought, or so unskilfully dressed, such blunders in the seasoning, or such improprieties in the sauce, as can scarcely be expiated without blood; and, in the transports of resentment, make very little distinction between guilt and innocence, but let fly their menaces, or growl out their discontent, upon all whom fortune exposes to the storm. 
+
+  It is not easy to imagine a more unhappy condition than that of dependance on a peevish man. In every other state of inferiority the certainty of pleasing is perpetually increased by a fuller knowledge of our duty; and kindness and confidence are strenghtened by every new act of trust, and proof of fidelity.  But peevishness sacrifices to a momentary offence the obsequiousness or usefulness of half a life, and, as more is performed, increases her exactions. 
+
+  Chrysalus gained a fortune by trade, and retired into the country; and, having a brother burthened    by the number of his children, adopted one of his sons.  The boy was dismissed with many prudent admonitions; informed of his father's inability to maintain him in his native rank; cautioned against all opposition to the opinions or precepts of his uncle; and animated to perseverance by the hopes of supporting the honour of the family, and overtopping his elder brother.  He had a natural ductility of mind, without much warmth of affection, or elevation of sentiment; and therefore readily complied with every variety of caprice; patiently endured contradictory reproofs; heard false accusations without pain, and opprobrious reproaches without reply; laughed obstreperously at the ninetieth repetition of a joke; asked questions about the universal decay of trade; admired the strength of those heads by which the price of stocks is changed and adjusted; and behaved with such prudence and circumspection, that after six years the will was made, and Juvenculus was declared heir.  But unhappily, a month afterwards, retiring at night from his uncle's chamber, he left the door open behind him: the old man tore his will, and being then perceptibly declining, for want of time to deliberate, left his money to a trading company. 
+
+  When female minds are embittered by age or solitude, their malignity is generally exerted in a rigorous and spiteful superintendence of domestic trifles.  Eriphile has employed her eloquence for twenty years upon the degeneracy of servants, the nastiness of her house, the ruin of her furniture, the    difficulty of preserving tapestry from the moths, and the carelessness of the sluts whom she employs in brushing it.  It is her business every morning to visit all the rooms, in hopes of finding a chair without its cover, a window shut or open contrary to her orders, a spot on the hearth, or a feather on the floor, that the rest of the day may be justifiably spent in taunts of contempt, and vociferations of anger.  She lives for no other purpose but to preserve the neatness of a house and gardens, and feels neither inclination to pleasure, nor aspiration after virtue, while she is engrossed by the great employment of keeping gravel from grass, and wainscot from dust.  Of three amiable nieces she has declared herself an irreconcileable enemy, to one, because she broke off a tulip with her hoop; to another, because she spilt her coffee on a Turkey carpet; and to the third, because she let a wet dog run into the parlour.  She has broken off her intercourse of visits, because company makes a house dirty; and resolves to confine herself more to her own affairs, and to live no longer in mire by foolish lenity. 
+
+  Peevishness is generally the vice of narrow minds, and, except when it is the effect of anguish and disease, by which the resolution is broken, and the mind made too feeble to bear the lightest addition to its miseries, proceeds from an unreasonable persuasion of the importance of trifles.  The proper remedy against it is, to consider the dignity of human nature, and the folly of suffering perturbation and uneasiness from causes unworthy of our notice.    
+
+  He that resigns his peace to little casualties, and suffers the course of his life to be interrupted by fortuitous inadvertencies, or offences, delivers up himself to the direction of the wind, and loses all that constancy and equanimity which constitute the chief praise of a wise man. 
+
+  The province of prudence lies between the greatest things and the least; some surpass our power by their magnitude, and some escape our notice by their number and their frequency.  But the indispensable business of life will afford sufficient exercise to every understanding; and such is the limitation of the human powers, that by attention to trifles we must let things of importance pass unobserved: when we examine a mite with a glass, we see nothing but a mite. 
+
+  That it is every man's interest to be pleased, will need little proof: that it is his interest to please others, experience will inform him.  It is therefore not less necessary to happiness than to virtue, that he rid his mind of passions which make him uneasy to himself, and hateful to the world, which enchain his intellects, and obstruct his improvement. 
+
+        
