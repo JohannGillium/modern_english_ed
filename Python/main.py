@@ -10,7 +10,7 @@ counter = 0
 for i in os.listdir('/home/jgillium/Bureau/Corpus_modern_english/modern_english/uvaGenText/tei'):
     if counter < 300:
         xslt_path = '/home/jgillium/Bureau/Ed_modern_english/XSLT/modern_english_corpus.xsl'
-        folder_path = '/home/jgillium/Bureau/Corpus_modern_english/modern_english/uvaGenText/tei' 
+        folder_path = '/home/jgillium/Bureau/Ed_modern_english/XML/modern_english/uvaGenText' 
         name_file_without_extension = os.path.splitext(i)[0]
 #Below the folder_mdf variable for one ed repository for each text
 #    folder_mdf = os.path.join('/home/jgillium/Bureau/Ed_modern_english/Output',name_file_without_extension,'_texts')

@@ -1,0 +1,1252 @@
+<?xml version="1.0"?>
+
+<?dlps id="KeeSeki"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOnum SYSTEM "http://text.lib.virginia.edu/charent/iso-num.ent"> %ISOnum;
+<!ENTITY % ISOlat1 SYSTEM "http://text.lib.virginia.edu/charent/iso-lat1.ent"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "http://text.lib.virginia.edu/charent/iso-lat2.ent"> %ISOlat2;
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+
+]>
+<TEI.2 id="KeeSeki">
+<teiHeader type="migrated" creator="Etext">
+<fileDesc>
+<titleStmt>
+<title type="main">Sekidera Komachi</title>
+<title type="sort">sekidera komachi</title>
+<author>Keene translation: Brazell, Karen</author>
+<respStmt>
+<resp>Creation of machine-readable version:</resp>
+<name>Charlotte Robertson and Winnie Chan</name>
+<resp>Creation of digital images:</resp>
+<name/>
+<resp>Conversion to TEI.2-conformant markup:</resp>
+<name>University of Virginia Library Electronic Text Center.</name>
+</respStmt>
+</titleStmt>
+<extent>ca. <num type="kilobytes">33</num> kilobytes</extent>
+<publicationStmt>
+<publisher>University of Virginia Library</publisher>
+<pubPlace>Charlottesville, Virginia</pubPlace>
+<idno type="ETC">KeeSeki</idno>
+<date value="1997">1997</date>
+<availability status="public">
+<p n="copyright">Copyright &copy; 1997 by the Rector and Visitors of the University of Virginia</p>
+<p n="access">Publicly accessible</p>
+</availability>
+<idno type="uva-pid">uva-lib:476134</idno>
+</publicationStmt>
+<seriesStmt>
+<title>University of Virginia Library, Text collection</title>
+<idno type="uva-set">UVA-LIB-Text</idno>
+</seriesStmt>
+<seriesStmt>
+<p>Japanese Text Initiative</p>
+</seriesStmt>
+<notesStmt>
+<note>
+<p>(ETC) The text has been given an id of KeeSeki because this
+edition is commonly referred to as the Keene translation.</p>
+</note>
+</notesStmt>
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title type="main">Sekidera Komachi</title>
+<title level="m">Twenty Plays of the N&omacr; Theatre</title>
+<title type="sort">sekidera komachi</title>
+<author>Karen Brazell</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Donald Keene</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<p>1st Edition</p>
+</editionStmt>
+<extent>pp. 15-34</extent>
+<publicationStmt>
+<publisher>Columbia University Press</publisher>
+<pubPlace>New York</pubPlace>
+<date value="1970">1970</date>
+<idno type="callNo">Print copy consulted: UVa Library call number PL 782 .E5K4</idno>
+</publicationStmt>
+<seriesStmt>
+<p>Records of Civilization: Sources and Studies, number LXXXV</p>
+</seriesStmt>
+<notesStmt>
+<note>
+<p>From <hi rend="italic">
+<hi rend="bold">Twenty Plays of the No Theatre</hi>
+</hi> edited
+by Donald Keene.  Copyright (c) 1970 Columbia University Press.
+Reprinted with permission of the publisher.  To order the
+paperback edition of this book please call 1-800-944-8648 or
+click on to the Web page:  http://www.cc.columbia.edu/cu/cup.</p>
+</note>
+</notesStmt>
+</biblFull>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+</projectDesc>
+<editorialDecl>
+<p>All quotation marks retained as data.</p>
+<p>All unambiguous end-of-line hyphens have been removed, and the trailing part of a word has been joined to the preceding line.</p>
+<p>Keywords in the header are a local Electronic Text Center scheme to aid in establishing analytical groupings.</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<langUsage>
+<language id="eng" usage="main">English</language>
+<language id="rj">Romaji</language>
+</langUsage>
+<textClass>
+<keywords>
+<term>drama; poetry; prose</term>
+<term>Literature in Translation</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change>
+<date value="1997-09">September 1997</date>
+<respStmt>
+<resp>corrector</resp>
+<name>Catherine Tousignant, Electronic Text Center</name>
+</respStmt>
+<item>Added milestones to correspond with TylSeki.</item>
+</change>
+<change>
+<date value="1997-02">February 1997</date>
+<respStmt>
+<resp>corrector</resp>
+<name>Winnie Chan</name>
+</respStmt>
+<item>Added TEI header and tags.</item>
+</change>
+<change>
+<date value="2005-07">July 2005</date>
+<respStmt>
+<resp>Corrector</resp>
+<name>John Ivor Carlson</name>
+</respStmt>
+<item>Converted to XML and/or checked tags.</item>
+</change>
+<change>
+<date value="2007-09">September 2007</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Ethan Gruber, University of Virginia Library</name>
+</respStmt>
+<item>Converted XML markup from TEI Lite to uva-dl-tei (TEI P4 with local customizations).</item>
+</change>
+<change>
+<date value="2008-01">January 2008</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Greg Murray, University of Virginia Library</name>
+</respStmt>
+<item>Programmatically updated TEI header markup (but not header content) for minimal compliance with current QA requirements.</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text id="d1">
+
+<front id="d2">
+
+<pb n="66"/>
+
+<div1 type="introduction" id="d3">
+<head>INTRODUCTION</head>
+
+<p>
+<hi rend="italic">Komachi at Sekidera</hi> belongs to the third category.
+It was probably written by Zeami, though some authorities hesitate to make
+the attribution. The play is considered to be the loftiest and most
+difficult of the entire N&omacr; repertory. In the past century only a few
+great actors at the close of their careers have ventured to perform it. It
+enjoys its high reputation because it celebrates, with the most exquisite
+simplicity, the bittersweet delight of being alive. Childhood, maturity,
+extreme old age, the pleasure and pain of life, are immediately
+communicated. The play conveys a timeless moment in the brief interval
+between birth and death. Its subject is poetry. Much of the great poetry
+in N&omacr; lies somewhat outside the main Japanese poetic traditions, but
+<hi rend="italic">Komachi at Sekidera</hi> is at once a superb N&omacr;
+play and a splendid expression of the sources of Japanese poetry. The <hi rend="italic">shite</hi>
+role is considered so difficult because there is
+little an actor can add to the text unless he is supremely gifted. During
+the first hour of the performance Komachi hardly stirs.
+</p>
+
+<p>
+The setting is wonderfully appropriate. The time is the festival of
+Tanabata, the seventh night of the seventh month: the one night of the
+year when the Cowherd star can cross the River of Heaven to join the
+Weaver-girl star. On earth all are celebrating
+
+
+<pb n="67"/>
+the lovers' brief reunion. Even at Sekidera, a place of quiet
+renunciation, the priests and child acolytes are about to observe the
+festival. But while talking about poetry with the aged woman who lives in
+a hut nearby, the abbot of the temple discovers she is none other than Ono
+no Komachi.
+</p>
+
+<p>
+Komachi, a woman of great beauty and literary gifts, lived at the Heian
+court during the ninth century. She became a legend in later times, with
+many apocryphal stories surrounding the few known biographical facts. Five
+N&omacr; plays about Komachi are in the present repertory; <hi rend="italic">Komachi and the Hundred Nights</hi> presents another aspect
+of the Komachi legend, and <hi rend="italic">Sotoba Komachi</hi>
+(translated in Keene, <hi rend="italic">Anthology of Japanese
+Literature</hi>) ranks nearly on a level with <hi rend="italic">Komachi
+at Sekidera.</hi>
+</p>
+
+<p>
+The structure of the play is classic, and remarkable for its economy and
+simplicity. Nothing jars, nothing is wasted. The moment when Komachi
+admits her identity to the Abbot is particularly touching because so
+unaffected.
+</p>
+
+<p>
+Sekidera ("The Barrier Temple") still exists at &Omacr;tsu, a city east of
+Kyoto; its modern name is Ch&omacr;anji.
+</p>
+
+<p>
+<hi rend="italic">Komachi at Sekidera is</hi> in the repertory of all
+schools of N&omacr;.
+</p>
+</div1>
+
+<div1 type="section" id="d4">
+<pb n="68"/>
+<list>
+<head>PERSONS</head>
+<item>The Abbot of Sekidera (<hi rend="italic">waki</hi>)</item>
+<item>Two Priests (<hi rend="italic">wakizure</hi></item>
+<item>A Child (<hi rend="italic">kokata</hi>)</item>
+<item>Ono No Komachi (<hi rend="italic">shite</hi>)</item>
+</list>
+</div1>
+
+
+<div1 type="section" id="d5">
+<p>PLACE</p>
+<p>Sekidera in &Omacr;mi province
+</p>
+
+
+<p>TIME</p>
+<p>The beginning of autumn: the seventh day of the seventh month
+</p>
+</div1>
+</front>
+
+
+
+<body id="d6">
+<div1 type="play" id="d7"><pb n="69"/>
+<head>KOMACHI AT SEKIDERA<lb/>
+(<hi rend="italic">SEKIDERA KOMACHI</hi>)</head>
+
+<stage>
+The stage assistants bring forward a simple construction representing a
+hut with a thatched roof.  It is covered with a cloth.  The Old Woman is
+inside.
+<lb/>
+As the music begins the Child, the Abbot, and two Priests enter and face
+each other onstage.  The Abbot and the Priests carry rosaries.
+</stage>
+
+<milestone unit="speech" n="Seki1"/>
+<sp>
+<speaker>Three Priests</speaker>
+<lg type="poem">
+<l>So long awaited, autumn has come at last,</l>
+<l>So long awaited, the lovers' autumn meeting!</l>
+<l>Now let us begin the Festival of Stars.
+<ref target="n69.1">[1]</ref></l>
+</lg>
+</sp>
+
+<stage>
+The Abbot faces front.
+</stage>
+
+<milestone unit="speech" n="Seki2"/>
+<sp>
+<speaker>Abbot</speaker>
+<p>
+I am the chief priest of Sekidera in &Omacr;mi.  Today, the seventh day of the
+Seventh month, we come to celebrate the Festival of Stars here in the
+temple garden.  People say that the old woman who has built her hut at the
+foot of the mountain knows all the secrets of the art of poetry.  So, on
+this festive day dedicated to poetry, I am going to take the young people
+to hear her stories.
+</p>
+</sp>
+
+<stage>
+He turns to the Child.
+</stage>
+
+<milestone unit="speech" n="Seki3"/>
+<sp>
+<speaker>Three Priests</speaker>
+<lg type="poem">
+<l>Early autumn comes and brings a touch of chill.</l>
+<l>We feel it in the wind and in our thinning locks.
+<ref target="n69.2">[2]</ref></l>
+<l>Soon, soon the Seventh Night will be on us.</l>
+</lg>
+</sp>
+
+<stage>
+The Abbot faces front.
+</stage>
+
+<milestone unit="speech" n="Seki4"/>
+<sp>
+<speaker>Abbot</speaker>
+<lg type="poem">
+<l>We bring offerings for the festival today,</l>
+<l>The music of flutes and strings,</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Seki5"/>
+<sp>
+<speaker>Two Priests</speaker>
+<lg type="poem">
+<l>And many poems</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Seki6"/>
+<sp>
+<speaker>Abbot</speaker>
+<lg type="poem">
+<l>Composed in our native tongue.
+<ref target="n69.3">[3]</ref></l>
+</lg>
+</sp>
+
+<stage>
+He turns to the Child.
+</stage>
+
+<milestone unit="speech" n="Seki7"/>
+<sp>
+<speaker>Three Priests</speaker>
+<lg type="poem">
+<l>Our prayers for skill at poetry are decked</l>
+<l>With brightly colored streamers:</l>
+<l>Fluttering ribbons, each a token of prayer,</l>
+<l>Like silk threads woven into rich brocades</l>
+<l>On looms of autumn flowers</l>
+<l>And pampas grass pearly with dew.</l>
+
+
+<pb n="70"/>
+<l>The winds in the pines</l>
+</lg>
+
+<stage>
+The Abbot faces front, takes a few steps, then returns to his former
+position, indicating he has made a journey.
+</stage>
+
+<lg type="poem">
+<l>Blend with the strings of the <hi rend="italic">koto</hi></l>
+<l>To make music for the offerings tonight,
+<ref target="n70.4">[4]</ref></l>
+<l>Our offerings for this festive night.</l>
+</lg>
+</sp>
+
+<stage>
+The Abbot and his companions are now at their destination.
+</stage>
+
+<sp>
+<speaker>Abbot</speaker>
+<p>
+Here is the hut now.  Let us call on the old woman.
+</p>
+
+<stage>
+To the Child.
+</stage>
+
+<p>
+But first, please sit down.
+</p>
+</sp>
+
+<stage>
+All kneel.  A stage assistant removes the cloth around the hut, revealing
+the Old Woman seated inside.  Paper strips inscribed with poems hang from
+the crossbars of the hut frame.  The Old Woman wears the <hi rend="italic">uba</hi> mask.
+</stage>
+
+<milestone unit="speech" n="Seki8"/>
+<sp>
+<speaker>Old Woman</speaker>
+<lg type="poem">
+<l>Days go by without a single bowl of food;</l>
+<l>Whom can I ask for one?</l>
+<l>At night my tattered rags fail to cover me,</l>
+<l>But there is no way to patch the rents.</l>
+<l>Each passing rain</l>
+<l>Ages the crimson of the flowers;</l>
+<l>The willows are tricked by the wind,</l>
+<l>And their green gradually droops.
+<ref target="n70.5">[5]</ref></l>
+<l>Man has no second chance at youth;</l>
+<l>He grows old.  The aged song thrush</l>
+<l>Warbles again when spring has come,</l>
+<l>But time does not revert to the past.</l>
+<l>Oh, how I yearn for the days that are gone!</l>
+<l>What would I do to recapture the past!</l>
+</lg>
+</sp>
+
+<stage>
+She weeps.  The Abbot and the Child rise, and go to kneel before her.
+</stage>
+
+<milestone unit="speech" n="Seki9"/>
+<sp>
+<speaker>Abbot</speaker>
+<p>
+Old woman, we have come to speak with you.
+</p>
+</sp>
+
+<sp>
+<speaker>Old Woman</speaker>
+<p>
+Who are you?
+</p>
+</sp>
+
+<sp>
+<speaker>Abbot</speaker>
+<p>
+I am a priest from Sekidera.  These young people are students of poetry.
+They have heard of your talent, and I have brought them here to question
+you about poetry and to learn something of your life.
+</p>
+</sp>
+
+<milestone unit="speech" n="Seki10"/>
+<sp>
+<speaker>Old Woman</speaker>
+<p>
+This is an unexpected visit!  The log buried in the earth has been so long
+forgotten you must not expect it will put forth new sprouts.
+<ref target="n70.6">[6]</ref>
+Just remember this: If you will make
+
+
+<pb n="71"/>
+your heart the seed and your words the blossoms,
+<ref target="n71.7">[7]</ref>
+if you will steep yourself in the fragrance of the art, you will not fail
+to accomplish true poetry.  But how praiseworthy that mere boys should
+cherish a love of poetry!
+</p>
+</sp>
+
+<milestone unit="speech" n="Seki11"/>
+<sp>
+<speaker>Abbot</speaker>
+<p>
+May I ask you about a poem everyone knows, "The Harbor of Naniwa?"
+<ref target="n71.8">[8]</ref>
+Do you agree that it should be used as a first guide?
+</p>
+</sp>
+
+<milestone unit="speech" n="Seki12"/>
+<sp>
+<speaker> Old Woman</speaker>
+<p>
+Indeed I do.  Poetry goes back to the Age of the Gods, but the meters were
+then irregular and the meanings difficult to understand.  "The Harbor of
+Naniwa," however, belongs to the Age of Man.  It was composed for the
+joyous occasion of an emperor's enthronement, and has long been beloved
+for that reason.
+<ref target="n71.9">[9]</ref>
+</p>
+</sp>
+
+<milestone unit="speech" n="Seki13"/>
+<sp>
+<speaker>Abbot</speaker>
+<p>
+The poem about Mount Asaka, which once soothed the heart of a prince, is
+also beautifully written.
+<ref target="n71.10">[10]</ref>
+</p>
+</sp>
+
+<milestone unit="speech" n="Seki14"/>
+<sp>
+<speaker>Old Woman</speaker>
+<lg type="poem">
+<l>Truly, you understand the art,</l>
+<l>For those two poems are the parents of all poetry.</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Seki15"/>
+<sp>
+<speaker>Abbot</speaker>
+<lg type="poem">
+<l>They serve as models for beginners.</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Seki16"/>
+<sp>
+<speaker>Old Woman</speaker>
+<lg type="poem">
+<l>Noblemen and peasantry alike,</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Seki17"/>
+<sp>
+<speaker>Abbot</speaker>
+<lg type="poem">
+<l>City dwellers and country folk,</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Seki18"/>
+<sp>
+<speaker>Old Woman</speaker>
+<lg type="poem">
+<l>Even commoners like ourselves</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Seki19"/>
+<sp>
+<speaker>Abbot</speaker>
+<lg type="poem">
+<l>Take pleasure in composing poetry</l>
+</lg>
+</sp>
+
+<sp>
+<speaker>Old Woman</speaker>
+<lg type="poem">
+<l>Following the promptings of our hearts.</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Seki20"/>
+<milestone unit="speech" n="Seki21"/>
+<sp>
+<speaker>Chorus</speaker>
+<lg type="poem">
+<l>Though the sands lapped by the waves</l>
+<l>Of the lake in Omi should run out,</l>
+<l>Though the sands of the shore should melt away,</l>
+</lg>
+
+<stage>
+The Abbot and the Child return to kneel with the Priests.
+</stage>
+
+<lg type="poem">
+<l>The words of poetry will never fail.
+<ref target="n71.11">[11]</ref></l>
+<l>They are enduring as evergreen boughs of pine,</l>
+<l>Continuous as trailing branches of willow;</l>
+<l>For poetry, whose source and seed is found</l>
+<l>In the human heart, is everlasting.</l>
+<l>Though ages pass and all things vanish,</l>
+<l>As long as words of poetry remain,</l>
+<l>Poems will leave their marks behind,</l>
+<l>And the traces of poetry will never disappear.</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Seki22"/>
+<sp>
+<speaker>Abbot</speaker>
+<p>
+Thank you for your words of explanation.  It is true that countless poems
+survive from the past, but they are rarely by
+
+
+<pb n="72"/>
+women.  Few women know as much as you about poetry.  Tell me&mdash;the
+poem
+</p>
+<lg type="poem">
+<l>"I know my lover</l>
+<l>Is coming tonight&mdash;</l>
+<l>See how the spider</l>
+<l>Spins her web:</l>
+<l>That is a sure sign!"
+<ref target="n72.12">[12]</ref></l>
+</lg>
+<p>Was that not by a woman?</p>
+</sp>
+
+<milestone unit="speech" n="Seki23"/>
+<sp>
+<speaker>Old Woman</speaker>
+<p>
+Yes, that poem was written long ago by Princess Sotori, the consort of
+Emperor Ingyo.  I tried, if only in form. to master her style.
+</p>
+</sp>
+
+<milestone unit="speech" n="Seki24"/>
+<sp>
+<speaker>Abbot</speaker>
+<p>
+Ah! You have studied the style of Princess Sotori?  I have heard that Ono
+no Komachi, who's so much talked of these days, wrote in that style.
+<ref target="n72.13">[13]</ref>
+</p>
+
+<lg type="poem">
+<l>"Wretched that I am&mdash;</l>
+<l>A floating water weed,</l>
+<l>Broken from its roots&mdash;</l>
+<l>If a stream should beckon,</l>
+<l>I would follow it, I think."</l>
+</lg>
+<p>That poem is by Komachi.
+</p>
+</sp>
+
+<milestone unit="speech" n="Seki25"/>
+<sp>
+<speaker>Old Woman</speaker>
+<p>
+Yes, once my husband, Oe no Koreaki, took up with another woman, and I
+grieved at the fickleness of the world.  Then, Funya no Yasuhide
+<ref target="n72.14">[14]</ref>
+invited me to accompany him to Mikawa, where he was to be the governor.  I
+wrote that poem in response to his urging and to his promises that life in
+the country would bring solace.
+</p>
+
+<lg type="poem">
+<l>Alas, memories of the past!</l>
+<l>So long forgotten, they rise up again</l>
+<l>Before me as I talk to you.</l>
+<l>Tears well up from my suffering heart.</l>
+</lg>
+</sp>
+
+<stage>
+She weeps.
+</stage>
+
+<milestone unit="speech" n="Seki26"/>
+<sp>
+<speaker>Abbot</speaker>
+<p>
+Strange! This old woman says she wrote the poem "Wretched that I am." And
+she says she wrote in the Sotori style, just as Komachi did.  She must be
+nearly a hundred years old, and if Komachi were still alive today. . . .
+And is there any reason why she couldn't be?  It <hi rend="italic">must</hi> be so!
+
+<stage>
+to the Old Woman.
+</stage>
+
+You are what is left of Ono no Komachi.  Do not deny it.
+</p>
+</sp>
+
+
+<pb n="73"/>
+<milestone unit="speech" n="Seki27"/>
+<sp>
+<speaker>Old Woman</speaker>
+<p>
+Ah, I burn with shame to be called Komachi, I who wrote
+</p>
+<lg type="poem">
+<l>"With no outward sign</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Seki28"/>
+<sp>
+<speaker>Chorus</speaker>
+<lg type="poem">
+<l>It withers&mdash;</l>
+<l>The flower in the human heart."
+<ref target="n73.15">[15]</ref></l>
+</lg>
+<p>How ashamed I am to be seen!</p>
+<lg type="poem">
+<l>"Wretched that I am&mdash;</l>
+<l>A floating water weed,</l>
+<l>Broken from its roots&mdash;</l>
+<l>If a stream should beckon,</l>
+<l>I would follow it, I think."</l>
+</lg>
+<p>How ashamed I am!</p>
+
+
+<stage>
+She weeps.
+</stage>
+
+<milestone unit="speech" n="Seki29"/>
+<lg type="poem">
+<l>"Hide them though I may,</l>
+<l>The tears keep flowing,</l>
+<l>Too many for my sleeves to hold&mdash;</l>
+<l>A rain of tears dissolving</l>
+<l>Everything except the past."
+<ref target="n73.16">[16]</ref></l>
+</lg>
+<p>Now that my life has reached its end,<lb/>
+Like a withered flower,<lb/>
+Why should there still be tears?</p>
+</sp>
+
+<milestone unit="speech" n="Seki30"/>
+<sp>
+<speaker>Old Woman</speaker>
+<lg type="poem">
+<l>"Longing for him,</l>
+<l>I fell asleep,</l>
+<l>Then he appeared before me . . ."
+<ref target="n73.17">[17]</ref></l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Seki31"/>
+<sp>
+<speaker>Chorus</speaker>
+<lg type="poem">
+<l>The joy I felt when I composed those lines</l>
+<l>Is gone forever, but still my life goes on,</l>
+<l>Attending the months and years as they come and go.</l>
+<l>The dews of spring depart, and autumn frosts appear,</l>
+<l>The leaves and grasses turn, and insect voices fade.</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Seki32"/>
+<sp>
+<speaker>Old Woman</speaker>
+<lg type="poem">
+<l>My life is over, and now I see</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Seki34"/>
+<sp>
+<speaker>Chorus</speaker>
+<lg type="poem">
+<l>It was like a rose of Sharon that knows</l>
+<l>Only a single day of glory.
+<ref target="n73.18">[18]</ref></l>
+<milestone unit="speech" n="Seki35"/>
+<l>"The living go on dying,</l>
+<l>The dead increase in number;</l>
+<l>Left in this world, ah&mdash;</l>
+<l>How long must I go on</l>
+<l>Lamenting for the dead?"
+<ref target="n73.19">[19]</ref></l>
+<l>And how long must I, who wrote that poem,</l>
+<l>Live on, like flowers fallen, like leaves scattered,</l>
+
+
+<pb n="74"/>
+<l>With nothing left but life&mdash;dewlike, they always said.</l>
+<l>Oh, how I long for the past!</l>
+<l>My middle years were spent in yearning</l>
+<l>For the distant glory of my youth.</l>
+<l>Now even those days of wistful recollection</l>
+<l>Have become such ancient history</l>
+<l>I find myself wishing, if not for youth,</l>
+<l>At least for middle age.</l>
+<l>Long ago, wherever I spent a single night</l>
+<l>My room would be bright with tortoise shell,</l>
+<l>Golden flowers hung from the walls,</l>
+<l>And in the door were strings of crystal beads.
+<ref target="n74.20">[20]</ref></l>
+<l>Brilliant as the Emperor's chair in grand procession</l>
+<l>The jewellike gowns I wore, a hundred colors.</l>
+<l>I lay on bright brocaded quilts</l>
+<l>Within a pillowed bridal chamber.</l>
+<l>Look at it now, my mud-daubed hut!</l>
+<l>Can this be my resplendent room?</l>
+</lg>
+</sp>
+
+<sp>
+<speaker>Old Woman</speaker>
+<lg type="poem">
+<l>The temple bell of Sekidera</l>
+</lg>
+</sp>
+
+<sp>
+<speaker>Chorus</speaker>
+<lg type="poem">
+<l>Tolls the vanity of all creation&mdash;</l>
+<l>To ancient ears a needless lesson.</l>
+<l>A mountain wind blows down Osaka's slope</l>
+<l>To moan the certainty of death;</l>
+<l>Its message still eludes me.</l>
+<l>Yet, when blossoms scatter and leaves fall,</l>
+<l>Still in this hut I find my pleasure:</l>
+<l>Grinding ink, I dip my brush and write.</l>
+<l>My words are all dry, like seaweed on the shore.</l>
+<l>Touching, they once said, but lacking strength
+<ref target="n74.21">[21]</ref>&mdash;</l>
+<l>My poems lacked strength because they were a woman's.</l>
+<l>Now when I have grown decrepit</l>
+<l>My poems are weaker still.  Their life is spent.</l>
+<l>How wretched it is to be old!</l>
+</lg>
+</sp>
+
+<stage>
+She weeps.  The Child turns to the Abbot.
+</stage>
+
+<milestone unit="speech" n="Seki36"/>
+<sp>
+<speaker>Child</speaker>
+<p>
+I'm afraid we'll be late for the Festival of Stars.  Let's ask the old
+lady to come with us.
+</p>
+</sp>
+
+<stage>
+The Abbot kneels before the Old Woman.
+</stage>
+
+<milestone unit="speech" n="Seki37"/>
+<sp>
+<speaker>Abbot</speaker>
+<p>
+Please join us on this Seventh Night, the Festival of Stars.
+</p>
+</sp>
+
+
+<pb n="75"/>
+<milestone unit="speech" n="Seki38"/>
+<sp>
+<speaker>Old Woman</speaker>
+<p>
+Alas! An old woman should not intrude on such an occasion.  I cannot go.
+</p>
+</sp>
+
+<stage>
+She takes down the paper poem cards.
+</stage>
+
+<milestone unit="speech" n="Seki39"/>
+<sp>
+<speaker>Abbot</speaker>
+<p>
+What harm could come of it?  Please come with us.
+</p>
+</sp>
+
+<stage>
+He goes to the hut and helps the Old Woman to stand.
+</stage>
+
+<milestone unit="speech" n="Seki40"/>
+<sp>
+<speaker>Chorus</speaker>
+<lg type="poem">
+<l>The Seventh Night&mdash;</l>
+<l>How many years since first I offered the gods</l>
+<l>Bamboo tied with colored streamers?</l>
+<l>How long has shriveled old Komachi lived?</l>
+</lg>
+
+<stage>
+Assisted by the Abbot and leaning on a staff, the Old Woman leaves the
+hut.
+</stage>
+
+<lg type="poem">
+<l>Has Ono no Komachi reached a hundred years?</l>
+<l>Or even more?</l>
+<l>I who used to watch the Festival of Stars,</l>
+<l>Familiar of the noblest lords and ladies,</l>
+</lg>
+
+<stage>
+She kneels beside the <hi rend="italic">shite</hi>-pillar.  The
+Abbot goes back beside the others.
+</stage>
+
+<lg type="poem">
+<l>Now stand in shameful hempen rags!</l>
+<l>A sight too painful for eyes to bear! </l>
+</lg>
+
+<stage>
+The Abbot weeps.
+</stage>
+
+<lg type="poem">
+<l>Still, tonight we hold the Festival of Stars,</l>
+</lg>
+<stage>
+The Child stands and mimes serving wine to the Old Woman.
+</stage>
+
+<lg type="poem">
+<l>Tonight we celebrate the Seventh Night</l>
+<l>With multitudes of offerings for the stars.</l>
+<l>Prayer streamers hang from bamboo,</l>
+</lg>
+
+<stage>
+While the following lines are being sung the Child goes to the
+gazing-pillar, moves clockwise around the stage, then stands at the center
+preparatory to beginning his dance.
+</stage>
+
+<lg type="poem">
+<l>Music plays and cups of wine go round.</l>
+<l>The young dancer-look how gracefully</l>
+<l>He twirls his sleeves, like snow</l>
+<l>Swirling in the moonlight.</l>
+</lg>
+
+<stage>
+The Old Woman, still seated, watches the Child dance.
+</stage>
+
+<lg type="poem">
+<l>We celebrate the Festival of Stars,</l>
+<l>Streamers flutter from the bamboos . . .</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Seki41"/>
+<sp>
+<speaker>Old Woman</speaker>
+<lg type="poem">
+<l>May it be celebrated through ages as many</l>
+<l>As the joints of the bamboo!</l>
+</lg>
+</sp>
+
+
+<pb n="76"/>
+<stage>
+The Old Woman, hardly aware of what she does, taps the rhythm with her
+fan.
+</stage>
+
+<milestone unit="speech" n="Seki42"/>
+<sp>
+<speaker>Chorus</speaker>
+<lg type="poem">
+<l>We pray for eternal prosperity;</l>
+<l>We dance the "Ten Thousand Years."
+<ref target="n76.22">[22]</ref></l>
+</lg>
+</sp>
+
+<stage>
+The Child completes his dance, then sits as before.
+</stage>
+
+<milestone unit="speech" n="Seki43"/>
+<sp>
+<speaker>Old Woman</speaker>
+<p>
+How gracefully that boy has danced! I remember how, long ago in the
+Palace, the Gosechi dancing girls swirled their sleeves five times at the
+Harvest Festival.  They say that if a madman runs, even the sane will run
+after him.  But tonight the proverb is reversed!  Enticed by the boy's
+floating sleeves, see how a madwoman prances!
+</p>
+
+<stage>
+She stands with the aid of her staff and begins her dance.
+</stage>
+
+<milestone unit="speech" n="Seki44"/>
+<lg type="poem">
+<l>One hundred years&mdash;</l>
+<l>The dance of the butterfly</l>
+<l>Who dreamt he had spent</l>
+<l>A hundred years enfolded</l>
+<l>Within a flower petal.
+<ref target="n76.23">[23]</ref></l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Seki45"/>
+<sp>
+<speaker>Chorus</speaker>
+<lg type="poem">
+<l>How sad it isl It breaks my heart</l>
+<l>A flowering branch on a withered tree!</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Seki46"/>
+<sp>
+<speaker>Old Woman</speaker>
+<lg type="poem">
+<l>I have forgotten how to move my hands.</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Seki47"/>
+<sp>
+<speaker>Chorus</speaker>
+<lg type="poem">
+<l>Unsteady feet, uncertain wave of sleeves,</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Seki48"/>
+<sp>
+<speaker>Old Woman</speaker>
+<lg type="poem">
+<l>Billow after billow, floating wave on wave.</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Seki49"/>
+<sp>
+<speaker>Chorus</speaker>
+<lg type="poem">
+<l>My dancing sleeves rise up,</l>
+<l>But sleeves cannot wave back the past.</l>
+</lg>
+</sp>
+
+<stage>
+She goes before the hut.
+</stage>
+
+<milestone unit="speech" n="Seki50"/>
+<sp>
+<speaker>Old Woman</speaker>
+<lg type="poem">
+<l>I miss those vanished days!</l>
+</lg>
+</sp>
+
+<stage>
+She kneels and weeps.
+</stage>
+
+<milestone unit="speech" n="Seki51"/>
+<sp>
+<speaker>Chorus</speaker>
+<lg type="poem">
+<l>But as I dance the early autumn night,</l>
+<l>The short night, gives way to dawn.</l>
+<l>The temple bell of Sekidera tolls.</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Seki52"/>
+<sp>
+<speaker>Old Woman</speaker>
+<lg type="poem">
+<l>A chorus of morning birdsong heralds</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Seki53"/>
+<sp>
+<speaker>Chorus</speaker>
+<lg type="poem">
+<l>The coming dawn, the day's approaching light,</l>
+<l>The dawn's fresh light that reveals my shame!</l>
+<l>Where is the forest of Hazukashi?
+<ref target="n76.24">[24]</ref></l>
+</lg>
+</sp>
+
+<stage>
+She stands, propping herself on her staff.
+</stage>
+
+<milestone unit="speech" n="Seki54"/>
+<sp>
+<speaker>Chorus</speaker>
+<lg type="poem">
+<l>Where is the forest of Hazukashi?</l>
+
+
+<pb n="77"/>
+<l>There is no forest here to hide my shame.</l>
+<milestone unit="speech" n="Seki55"/>
+<l>Farewell, I take my leave.</l>
+<l>Now, leaning heavily on her stick,</l>
+<l>She slowly returns to her straw hut.</l>
+</lg>
+
+<stage>
+She enters the hut, sits and weeps.
+</stage>
+
+<lg type="poem">
+<l>The hundred-year-old woman you have spoken to</l>
+<l>Is all that remains of famed Komachi,</l>
+<l>Is all that is left of Ono no Komachi.</l>
+</lg>
+</sp>
+</div1>
+</body>
+
+
+
+<back id="d8">
+
+<div1 type="notes" id="d9"><pb n="78"/>
+<head>Notes</head>
+
+<note id="n69.1"><seg type="note-symbol">1. </seg> <p>The Tanabata Festival, of Chinese origin, is still celebrated in Japan
+on the seventh day of the seventh month.  Bamboo branches are decorated
+with five-colored streamers and with slips on which poems have been
+written commemorating the lovers' meeting of the two stars.
+</p></note>
+
+<note id="n69.2"><seg type="note-symbol">2.</seg> <p> From some lines by PoChu-i included in the <hi rend="italic">Wakan
+Roei Sh&umacr;</hi>, no. 204:	"Who could have arranged things so well?
+The sighing cool wind and my thinning locks at once announce autumn is
+here." A parallel is drawn between the coming of autumn in the world and
+the coming of autumn to the person, evidenced by the thinning locks.
+</p></note>
+
+<note id="n69.3"><seg type="note-symbol">3.</seg> <p> Many poets wrote in Chinese, especially on formal occasions, but the
+Japanese preferred their own language for their intimate feelings.
+</p></note>
+
+<note id="n70.4"><seg type="note-symbol">4.</seg> <p> The above three lines are based on a poem by the Consort Itsukinomiya
+in the <hi rend="italic">Shuish&umacr;</hi>, no. 451.
+</p></note>
+
+<note id="n70.5"><seg type="note-symbol">5.</seg> <p> Derived from an anonymous poem in Chinese found in a commentary to the
+historical work Hyakurensho.
+</p></note>
+
+<note id="n70.6"><seg type="note-symbol">6.</seg> <p> Quoted, with slight modifications, from the preface to the <hi rend="italic">Kokinsh&umacr;</hi>.
+</p></note>
+
+<note id="n71.7"><seg type="note-symbol">7.</seg> <p> Also from the preface to the <hi rend="italic">Kokinsh&umacr;</hi>.
+</p></note>
+
+<note id="n71.8"><seg type="note-symbol">8.</seg> <p> This is the "Naniwazu" poem: "In Naniwa Harbor/ The flowers
+have come to the trees;/ They slept through the winter,/ But now it is the
+spring&mdash;/ See how the blossoms have opened!" The preface to the <hi rend="italic">Kokinsh&umacr;</hi>
+characterizes this poem and the one on
+Asakayama, Mount Asaka, as the "father and mother of poetry." Both poems
+are given considerable attention in <hi rend="italic">The Reed
+Cutter</hi>.
+</p></note>
+
+<note id="n71.9"><seg type="note-symbol">9.</seg> <p> The poem was traditionally supposed to have been composed to encourage
+the future Emperor Nintoku, who reigned in the fourth century A.D., to
+accept the throne.
+</p></note>
+
+<note id="n71.10"><seg type="note-symbol">10.</seg> <p> The poem runs, literally: "Mount Asaka&mdash;/ Its reflection appears
+In the mountain spring/ That is not shallow, and of you/ My thoughts are
+not shallow either." The Prince of Kazuraki was sent to the distant
+province of Mutsu where he was badly received by the governor.  He was so
+angry that he refused to eat, but the governor's daughter cheered him by
+offering sak&eacute; and reciting this poem.
+</p></note>
+
+<note id="n71.11"><seg type="note-symbol">11.</seg> <p> Based on lines from the <hi rend="italic">Kokinsh&umacr;</hi>
+preface: "Though you count up my love you could never come to the end, not
+even if you could count every grain of sand on the shore of the wild sea."
+</p></note>
+
+<note id="n72.12"><seg type="note-symbol">12.</seg> <p> An anonymous poem, no. 1110 in the <hi rend="italic">Kokinsh&umacr;</hi>.
+</p></note>
+
+
+<pb n="79"/>
+<note id="n72.13"><seg type="note-symbol">13.</seg> <p> So stated in the preface to the <hi rend="italic">Kokinsh&umacr;</hi>.
+</p></note>
+
+<note id="n72.14"><seg type="note-symbol">14.</seg> <p> An early Heian poet, one of the "Six Immortals of Poetry," The
+explanation of the "Wretched that I am" poem was traditional.</p></note>
+
+<note id="n73.15"><seg type="note-symbol">15.</seg> <p> From poem no. 757 in the <hi rend="italic">Kokinsh&umacr;</hi>, by
+Komachi.
+</p></note>
+
+<note id="n73.16"><seg type="note-symbol">16.</seg> <p> A poem by Abe no Kiyoyuki, no. 556 in the <hi rend="italic">Kokinsh&umacr;</hi>.
+</p></note>
+
+<note id="n73.17"><seg type="note-symbol">17.</seg> <p> The first part of a poem by Komachi, no. 552 in the <hi rend="italic">Kokinsh&umacr;</hi>. The last two lines run: "If I had
+known it was a dream/ I should never have wakened."
+</p></note>
+
+<note id="n73.18"><seg type="note-symbol">18.</seg> <p> These lines are based on verses by Po Ch&uuml;-i, no. 291 in the <hi rend="italic">Wakan R&omacr;ei Sh&umacr;</hi>.
+</p></note>
+
+<note id="n73.19"><seg type="note-symbol">19.</seg> <p> A poem by Komachi, no. 850 in the <hi rend="italic">Shinkokinsh&umacr;</hi>.
+</p></note>
+
+<note id="n74.20"><seg type="note-symbol">20.</seg> <p> This description is based on a passage in the <hi rend="italic">Tamatsukuri Komachi Sosuisho</hi>, a work in Chinese,
+apparently by a Buddhist priest of the Heian period, describing Komachi's
+decline and her eventual salvation.
+</p></note>
+
+<note id="n74.21"><seg type="note-symbol">21.</seg> <p> The appraisal of Komachi's poetry given in the preface to the <hi rend="italic">Kokinsh&umacr;</hi>.
+</p></note>
+
+<note id="n76.22"><seg type="note-symbol">22.</seg> <p>The name of a gagaku dance, <hi rend="italic">Manzairaku</hi>.
+</p></note>
+
+<note id="n76.23"><seg type="note-symbol">23.</seg> <p> A reference to a poem by Oe no Masafusa in the collection <hi rend="italic">Horikawa-in
+Ontoki Hyakushu Waka</hi>: "This world where I
+have dwelt a hundred years lodged in a flower is the dream of a
+butterfly." The poem in turn refers to a famous passage in Chuang Tzu.
+See <hi rend="italic">The Complete Works of Chuang Tzu</hi> (New York,
+1968), translated by Burton Watson, p. 49.
+</p></note>
+
+<note id="n76.24"><seg type="note-symbol">24.</seg> <p> Hazukashi, the name of a wood near Kyoto, also has the meaning
+"ashamed."
+</p></note>
+
+</div1>
+</back>
+</text>
+</TEI.2>
+

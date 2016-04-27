@@ -1,0 +1,660 @@
+<?xml version="1.0"?>
+
+<?dlps id="PeaGriz"?>
+<?dlps page-images="none" figure-images="yes"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+
+<!ENTITY DSSR_000002646_0001 SYSTEM "000002646_0001" NDATA uvaHighRes>
+<!ENTITY DSSR_000002646_0002 SYSTEM "000002646_0002" NDATA uvaHighRes>
+<!ENTITY DSSR_000002646_0003 SYSTEM "000002646_0003" NDATA uvaHighRes>
+<!ENTITY DSSR_000002646_0004 SYSTEM "000002646_0004" NDATA uvaHighRes>
+<!ENTITY DSSR_000002646_0005 SYSTEM "000002646_0005" NDATA uvaHighRes>
+<!ENTITY DSSR_000002646_0006 SYSTEM "000002646_0006" NDATA uvaHighRes>
+<!ENTITY DSSR_000002646_0007 SYSTEM "000002646_0007" NDATA uvaHighRes>
+<!ENTITY DSSR_000002646_0008 SYSTEM "000002646_0008" NDATA uvaHighRes>
+]>
+<TEI.2 id="PeaGriz"> 
+<teiHeader type="migrated" creator="Etext">
+<fileDesc>
+<titleStmt>
+<title type="main">Grizel Cochrane's Ride</title>
+<title type="sort">grizel cochranes ride</title>
+<author>Peattie, Elia Wilkinson, 1862-1935</author>
+<respStmt>
+<resp>Illustrator</resp> 
+<name>R. B. Birch</name> 
+<resp>Creation of machine-readable version:</resp> 
+<name>Judy Boss</name> 
+<resp>Conversion to TEI.2-conformant markup:</resp> 
+<name>Tom Palombi, University of Virginia Library Electronic Text Center.</name>
+</respStmt>
+</titleStmt> 
+<extent>ca. <num type="kilobytes">30</num> kilobytes</extent> 
+<publicationStmt>
+<publisher>University of Virginia Library</publisher>
+<pubPlace>Charlottesville, Virginia</pubPlace> 
+<idno type="ETC">PeaGriz</idno> 
+<date value="1999">1999</date>
+<availability status="public">
+<p n="copyright">Copyright &#xa9; 1999 by the Rector and Visitors of the University of Virginia</p>
+<p n="access">Publicly accessible</p>
+</availability>
+<idno type="uva-pid">uva-lib:477246</idno>
+</publicationStmt>
+<seriesStmt>
+<title>University of Virginia Library, Text collection</title>
+<idno type="uva-set">UVA-LIB-Text</idno>
+</seriesStmt> 
+<notesStmt>
+<note>
+<p>Illustrations have been included from the original source.</p>
+</note>
+</notesStmt> 
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title type="main">Grizel Cochrane's Ride</title>
+<title level="j">St. Nicholas</title>
+<title type="sort">grizel cochranes ride</title>
+<author>Peattie, Elia Wilkinson, 1862-1935</author>
+</titleStmt> 
+<publicationStmt>
+<publisher>The Century Co.</publisher> 
+<pubPlace>New York</pubPlace> 
+<date value="1887">1873-1943</date> 
+<idno type="callNo">Source copy consulted: UVa Library, AP 201 .S3 v.14</idno>
+</publicationStmt> 
+<notesStmt>
+<note>
+<p>This story appeared in v. 14, no. 4 (Feb. 1887), p. 271-278.</p>
+</note>
+</notesStmt>
+</biblFull>
+</sourceDesc>
+</fileDesc> 
+<encodingDesc>
+<projectDesc>
+<p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+</projectDesc> 
+<editorialDecl>
+<p>All unambiguous end-of-line hyphens have been removed, and the  trailing part of a word has been joined to the preceding line.</p> 
+<p id="ETC">Some keywords in the header are a local Electronic Text Center scheme  to aid in establishing analytical groupings.</p>
+</editorialDecl> 
+</encodingDesc> 
+<profileDesc>
+<creation>
+<date value="1887">1887</date>
+</creation> 
+<langUsage>
+<language id="eng" usage="main">English</language>
+</langUsage> 
+<textClass>
+<keywords>
+<term>fiction</term> 
+<term>poetry</term> 
+<term>feminine</term> 
+<term>Women Writers</term>
+</keywords> 
+</textClass>
+</profileDesc> 
+<revisionDesc>
+<change>
+<date value="1999-02">February 1999</date> 
+<respStmt>
+<resp>corrector</resp> 
+<name>Tom Palombi, Electronic Text Center</name>
+</respStmt> 
+<item>Added TEI header and tags.</item>
+</change> 
+<change>
+<date value="2005-07">July 2005</date>
+<respStmt>
+<resp>Corrector</resp>
+<name>John Ivor Carlson</name>
+</respStmt>
+<item>Converted SGML to XML and/or corrected tagging.</item>
+</change>
+<change>
+<date value="2007-09">September 2007</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Ethan Gruber, University of Virginia Library</name>
+</respStmt>
+<item>Converted XML markup from TEI Lite to uva-dl-tei (TEI P4 with local customizations).</item>
+</change>
+<change>
+<date value="2008-01">January 2008</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Greg Murray, University of Virginia Library</name>
+</respStmt>
+<item>Programmatically updated TEI header markup (but not header content) for minimal compliance with current QA requirements.</item>
+</change>
+<change>
+<date value="2009-03">March 2009</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Scholarly Resources, University of Virginia Library</name>
+</respStmt>
+<item>Added and/or replaced the digital images accompanying the electronic text. Scanning of exterior and interior (ie. pages) of item was done only for items found in the University of Virginia Special Collections Library.</item>
+</change>
+</revisionDesc>
+</teiHeader> 
+<text id="d1">  
+ 
+<body id="d2"> 
+ 
+
+ 
+<div1 type="story" id="d3"> 
+    <pb entity="DSSR_000002646_0001" n="271"/> 
+<head> 
+Grizel Cochrane's Ride<lb/> 
+<hi rend="italic">(Founded on an incident of the Monmouth Rebellion)</hi><lb/> 
+BY ELIA W. PEATTIE 
+</head> 
+ 
+<p>IN the midsummer of 1685, the hearts of the people of old Edinburgh 
+were filled with trouble and excitement.  King Charles the Second, of 
+England, was dead, and his brother, the Duke of York, reigned in his 
+stead to the dissatisfaction of a great number of the people. 
+ 
+</p><p>The hopes of this class lay with the young Duke of Monmouth, the 
+ambitious and disinherited son of Charles the Second, who, on account of 
+the King's displeasure, had been living for some time at foreign courts. 
+On hearing of the accession of his uncle, the Duke of York, to the 
+throne, Monmouth yielded to the plans of the English and Scottish lords 
+who favored his own pretensions, and prepared to invade England with a 
+small but enthusiastic force of men. 
+ 
+</p><p>The Duke of Argyle, the noblest lord of Scotland, who also was an 
+exile, undertook to conduct the invasion at the north, while Monmouth 
+should enter England at the west, gather the yeomanry about him and form 
+a triumphant conjunction with Argyle in London, and force the "usurper," 
+as they called King James the Second, from his throne. 
+ 
+</p><p>Both landings were duly made. The power of Monmouth's name and 
+rank rallied to his banner at first a large number of adherents; but 
+their defeat at Sedgemoor put an end to his invasion. And the Duke of 
+Argyle, a few days after his landing in Scotland, was met by a superior 
+force of the King's troops. Retreating into a morass, his soldiers were 
+scattered and dispersed. Many of his officers deserted him in a panic of 
+fear. The brave old nobleman himself was taken prisoner, and be-headed 
+at Edinburgh, while all the people secretly mourned. He died without 
+betraying his friends, 
+ 
+    <pb entity="DSSR_000002646_0002" n="272"/> 
+ 
+though the relentless King of England threatened to compel him to do so, 
+by the torture of the thumb-screw and the rack. 
+ 
+</p><p>Many of his officers and followers underwent the same fate; and 
+among those imprisoned to await execution was a certain nobleman, Sir 
+John Cochrane, who had been made famous by other political intrigues. 
+His friends used all the influence that their high position accorded 
+them to procure his pardon, but without success; and the unfortunate 
+baronet, a moody and impulsive man by nature, felt that there was no 
+escape from the terrible destiny, and prepared to meet it in a manner 
+worthy of a follower of the brave old duke. But he had one friend on 
+whose help he had not counted. 
+ 
+</p><p>In an upper chamber of an irregular, many-storied mansion far 
+down the Canon gate, Grizel Cochrane, the imprisoned man's daughter, sat 
+through the dread hours waiting to learn her father's sentence. There 
+was too little doubt as to what it would be. The King and his generals 
+meant to make merciless examples of the leaders of the rebellion. Even 
+the royal blood that flowed in the veins of Monmouth had not saved his 
+head from the block. This proud prince, fleeing from the defeat of 
+Sedgemoor, had been found hiding in a ditch, covered over with the ferns 
+that flourished at the bottom. Grizel wept as she thought of the young 
+duke's horrible fate. She remembered when she had last seen him about 
+the court at Holland, where she had shared her father's exile.  Gay, 
+generous, and handsome, he seemed a creature born to live and rule. What 
+a contrast was the abject, weeping coward covered with mud and slime, 
+who had been carried in triumph to the grim Tower of London to meet his 
+doom! The girl had been taught to believe in Monmouth's rights, and she 
+walked the floor trembling with shame and impatience as she thought of 
+his bitter defeat.  She walked to the little dormer window and leaned 
+out to look at the gray castle, far up the street, with its dull and 
+lichen-covered walls. She knew that her father looked down from the 
+barred windows of one of the upper apartments accorded to prisoners of 
+state. She wondered if a thought of his little daughter crept in his 
+mind amid his ruined hopes. The grim castle frowning at her from its 
+rocky height filled her with dread; and shuddering, she turned from it 
+toward the street below to let her eyes follow absently the passers-by. 
+They whispered together as they passed the house, and when now and then 
+some person caught a glimpse of her face in the ivy-sheltered window, 
+she only met a look of commiseration. No one offered her a happy 
+greeting. 
+ 
+</p><p>"They all think him doomed," she cried to herself. "No one hath 
+the grace to feign hope."  Bitter tears filled her eyes, until suddenly 
+through the mist she was conscious that some one below was lifting a 
+plumed hat to her. It was a stately gentleman with a girdled vest and 
+gorgeous coat and jeweled sword-hilt. 
+ 
+</p><p>"Mistress Cochrane," said he, in that hushed voice we use when we 
+wish to direct a remark to one person, which no one else shall overhear, 
+"I have that to tell thee which is most important." 
+ 
+</p><p>"Is it secret?" asked Grizel, in the same 
+guarded tone that he had used. 
+ 
+</p><p>"Yes," he replied, without looking up, and continuing slowly in 
+his walk, as if he had merely exchanged a morning salutation. 
+ 
+</p><p>"Then," she returned, hastily, "I will tell Mother; and we will 
+meet thee in the twilight, at the side door under the balcony." She 
+continued to look from the window, and the man sauntered on as if he had 
+no care in the world but to keep the scarlet heels of his shoes from the 
+dust.  After a time Grizel arose, changed her loose robe for a more 
+ceremonious dress, bound her brown braids into a prim gilded net, and 
+descended into the drawing-room. 
+ 
+</p><p>Her mother sat in mournful state at the end of the lofty 
+apartment. About her were two ladies and several gentlemen, all 
+conversing in low tones such as they might use, Grizel thought to 
+herself, if her father were dead in the house. They all stopped talking 
+as she entered, and looked at her in surprise. In those days it was 
+thought very improper and forward for a young girl to enter a 
+drawing-room uninvited, if guests were present. Grizel's eyes fell 
+before the embarrassing scrutiny, and she dropped a timid courtesy, 
+lifting her green silken skirts daintily, like a high-born little 
+maiden, as she was. Lady Cochrane made a dignified apology to her guests 
+and then turned to Grizel. 
+ 
+</p><p>"Well, my daughter?" she said, questioningly. 
+ 
+</p><p>"I pray thy pardon, Mother," said Grizel, in a trembling voice, 
+speaking low, that only her mother might hear; "but within a few moments 
+Sir Thomas Hanford will be secretly below the balcony, with news for 
+us." 
+ 
+</p><p>The lady half rose from her seat, trembling. 
+ 
+</p><p>"Is he commissioned by the governor?" she 
+asked. 
+ 
+</p><p>"I can not tell," said the little girl; but here her voice broke, 
+and regardless of the strangers, she flung herself into her mother's 
+lap, weeping:  "I am sure it is bad news of Father!" Lady Cochrane wound 
+her arm about her daughter's waist, and, with a gesture of apology, led 
+her from the room. Half an hour later she re-entered it hurriedly, 
+followed by Grizel, who sank unnoticed in the deep embrasure of a 
+window, and shivered there behind the heavy folds of the velvet 
+hangings. </p>
+ 
+    <pb entity="DSSR_000002646_0003" n="273"/> 
+
+ 
+    <pb entity="DSSR_000002646_0004" n="274"/> 
+ 
+<p>"I have just received terrible intelligence, my friends," 
+announced Lady Cochrane, standing, tall and pale, in the midst of her 
+guests. "The governor has been informally notified that the next post 
+from London will bring Sir John's sentence.  He is to be hanged at the 
+Cross."There was a perfect silence in the dim room; then one of the 
+ladies broke into loud sobbing, and a gentleman led Lady Cochrane to a 
+chair, while the others talked apart in earnest whispers. 
+ 
+</p><p>"Who brought the information?" asked one of 
+the gentlemen, at length. "Is there not hope 
+that it is a false report?" 
+ 
+</p><p>"I am not at liberty," said Lady Cochrane, "to tell who brought 
+me this terrible news; but it was a friend of the governor, from whom I 
+would not have expected a service. Oh, is it too late," she cried, 
+rising from her chair and pacing the room, "to make another attempt at 
+intercession? Surely something can be done!" 
+ 
+</p><p>The gentleman who had stood by her chair &mdash; a 
+gray-headed, sober-visaged man &mdash; returned answer: 
+ 
+</p><p>"Do not count on any remedy now, dear Lady Cochrane. I know this 
+new King. He will be relentless toward any one who has questioned his 
+right to reign. Besides, the post has already left London several days, 
+and will doubtless be here by to-morrow noon." 
+ 
+</p><p>"I am sure," said a gentleman who had not yet spoken, "that if we 
+had a few days more he might be saved. They say King James will do 
+anything for money, and the wars have emptied his treasury.  Might we 
+not delay the post?" he suggested, in a low voice. 
+ 
+</p><p>"No," said the gray-headed gentleman; "that 
+is utterly impossible." 
+ 
+</p><p>Grizel, shivering behind the curtain, listened with eager ears. 
+Then she saw her mother throw herself into the arms of one of the ladies 
+and break into ungoverned sobs. The poor girl could stand no more, but 
+glided from the room unnoticed and crept up to her dark chamber, where 
+she sat, repeating aimlessly to herself the words that by chance had 
+fixed themselves strongest in her memory: "Delay the post &mdash; delay the 
+post!" 
+ 
+</p><p>The moon arose and shone in through the panes, making a wavering 
+mosaic on the floor as it glimmered through the wind-blown ivy at the 
+window.  Like a flash, a definite resolution sprang into Grizel's mind. 
+If, by delaying the post, time for intercession with the King could be 
+gained, and her father's life so saved, then the post <hi rend="italic">must</hi> be 
+delayed!  But how?  She had heard the gentleman say that it would be 
+impossible. She knew that the postboy went heavily armed, to guard 
+against the highwaymen who frequented the roads in search of plunder. 
+This made her think of the wild stories of masked men who sprung from 
+some secluded spot upon the postboys, and carried off the letters and 
+money with which they were intrusted. 
+ 
+</p><p>Suddenly she bounded from her seat, stood still a moment with her 
+hands pressed to her head, ran from her room, and up the stairs which 
+led to the servants' sleeping apartments. She listened at a door, and 
+then, satisfied that the room was empty, entered, and went straight to 
+the oaken wardrobe.  By the light of the moon she selected a jacket and 
+a pair of trousers. She looked about her for a hat and found one hanging 
+on a peg near the window; then she searched for some time before she 
+found a pair of boots. They were worn and coated with mud. 
+ 
+</p><p>"They are all the better," she said to herself, and hurried on 
+tiptoe down the corridor.  She went next to the anteroom of her father's 
+chamber. It was full of fond associations, and the hot tears sprung into 
+her eyes as she looked about it.  She took up a brace of pistols, 
+examined them awkwardly, her hands trembling under their weight as she 
+found at once to her delight and her terror that they were loaded.  Then 
+she hurried with them to her room. 
+ 
+</p><p>Half an hour later, the butler saw a figure which he took to be 
+that of Allen, the stable-boy, creeping down the back stairs, boots in 
+hand. 
+ 
+</p><p>"Whaur noo, me laddie?" he asked, "It's 
+gey late for ye to gang oot the nicht." 
+ 
+</p><p>"I hae forgot to bar the stable door," replied 
+Grizel in a low and trembling voice, imitating as 
+well as she could the broad dialect of the boy. 
+ 
+</p><p>"Hech!" said the butler. "I ne'er hear ye 
+mak sae little hammer in a' yer days." 
+ 
+</p><p>She fled on. The great kitchen was deserted.  She gathered up all 
+the keys from their pegs by the door, let herself quietly out, and sped 
+across the yard to the stable. With trembling hands she fitted first one 
+key and then another to the door until she found the right one. Once 
+inside the stable, she stood irresolute. She patted Bay Bess, her own 
+little pony. 
+ 
+</p><p>"Thou wouldst never do, Bess," she said.  "Thou art such a lazy 
+little creature." The round, fat carriage-horses stood there. "You are 
+just holiday horses, too," said Grizel to them, "and would be winded 
+after an hour of the work I want you for to-night." But in the shadow of 
+the high stall stood Black Ronald, Sir John Cochrane's great, dark 
+battle-horse, that riderless, covered with dust and foam, had dashed 
+down the Canongate after the terrible rout of Argyle in the bogs of 
+Leven-side, while all the people stood and stared at the familiar steed, 
+carrying, as he did, the first silent message of disaster. Him Grizel 
+unfastened and led out. 
+ 
+    <pb entity="DSSR_000002646_0005" n="275"/> 
+ 
+</p><p>"Thou art a true hero," she said, rubbing his nose with the 
+experienced touch of a horsewoman; "and I'll give thee a chance to-night 
+to show that thou art as loyal as ever." Her hands were cold with 
+excitement, but she managed to buckle the saddle and bridle upon him, 
+while the huge animal stood in restless expectancy, anxious to be gone. 
+She drew on the boots without any trouble, and slipped the pistols into 
+the holsters. 
+ 
+</p><p>"I believe thou knowest what I would have of thee," said Grizel 
+as she led the horse out into the yard and on toward the gateway. 
+Frightened, as he half circled about her in his impatience, she undid 
+the fastening of the great gates, but her strength was not sufficient to 
+swing them open. 
+ 
+</p><p>"Ronald," she said in despair, "I can not open 
+the gates!" Ronald turned his head about and 
+looked at her with his beautiful eyes. He seemed 
+to be trying to say, "I can." 
+ 
+</p><p>"All right," said Grizel, as if he had spoken.  She mounted the 
+black steed, laughed nervously as she climbed into the saddle. "Now," 
+she said, "go on!" The horse made a dash at the gates, burst them open, 
+and leaped out into the road. He curveted about for a moment, his hoofs 
+striking fire from the cobble-stones. Then Grizel turned his head down 
+the Canongate, away from the castle.  She knew the point at which she 
+intended to leave the city, and toward that point she headed Black 
+Ronald. The horse seemed to know he was doing his old master a service, 
+as he took his monstrous strides forward. Only once did Grizel look 
+backward, and then a little shudder, half terror, half remorse, struck 
+her, for she saw her home ablaze with light, and heard cries of 
+excitement borne faintly to her on the rushing night wind. They had 
+discovered her flight. Once she thought she heard hoof-beats behind her, 
+but she knew she could not be overtaken. 
+ 
+</p><p>Through the streets, now narrow, now broad.  now straight, now 
+crooked, dashed Black Ronald and his mistress. Once he nearly ran down a 
+drowsy watchman who stood nodding at a sharp corner, but horse and rider 
+were three hundred yards away before the frightened guardian regained 
+his composure and sprang his discordant rattle. 
+ 
+</p><p>Now the houses grew scarcer, and presently the battlements of the 
+town wall loomed up ahead, and Grizel's heart sank, for there were 
+lights in the road. She heard shouts, and knew she was to be challenged. 
+She firmly set her teeth, said a little prayer, and leaned far forward 
+upon Black Ronald's neck. The horse gave a snort of defiance, shied 
+violently away from a soldier who stood by the way, and then went 
+through the gateway like a shot. Grizel clung tightly to her saddle-bow, 
+and urged her steed on. On, on they went down the firm roadway lined on 
+either side by rows of noble oaks &mdash; on, on, out into the country-side, 
+where the sweet odor of the heather arose gracious and fragrant to the 
+trembling girl.  There was little chance of her taking a wrong path. 
+The road over which the postboy came was the King's highway, always kept 
+in a state of repair. 
+ 
+</p><p>She gave herself no time to notice the green upland farms, or the 
+stately residences which stood out on either hand in the moonlight. She 
+concentrated her strength and mind on urging her horse forward.  She was 
+too excited to form a definite plan, and her only clear idea was to meet 
+the postboy before daylight, for she knew it would not be safe to trust 
+too much to her disguise. Now and then a feeling of terror flashed over 
+her, and she turned sick with dread; but her firm purpose upheld her. 
+ 
+</p><p>It was almost four in the morning, and the wind 
+was blowing chill from the sea, when she entered 
+the rolling woodlands about the Tweed. Grizel 
+was shivering with the cold, and was so tired that 
+she with difficulty kept her place in the saddle. 
+ 
+</p><p>"We can not hold out much longer, Ronald," she said; "and if we 
+fail, we can never hold up our heads again." Ronald, the sure-footed, 
+stumbled and nearly fell. "It is no use," sighed Grizel; "we must rest." 
+She dismounted, but it was some moments before her tired limbs could 
+obey her will. Beside the roadway was a ditch filled with running water, 
+and Grizel managed to lead Ronald down the incline to its brink, and let 
+him drink. She scooped up a little in her hand and moistened her tongue; 
+then, realizing that Ronald must not be allowed to stand still, she, 
+with great difficulty, mounted upon his back again, and, heartsick, 
+fearful, yet not daring to turn back, coaxed him gently forward. 
+ 
+</p><p>The moon had set long before this, and in the misty east the sky 
+began to blanch with the first gleam of morning. Suddenly, around the 
+curve of the road where it leaves the banks of the Tweed, came a dark 
+object. Grizel's heart leaped wildly.  Thirty seconds later she saw that 
+it was indeed a horseman. He broke into a song: 
+ 
+</p><lg type="verse"> 
+<l>"The Lord o' Argyle cam' wi' plumes and wi' spears, 
+</l><l>And Monmouth he landed wi' gay cavaliers! 
+</l><l>The pibroch has caa'd every tartan thegither, 
+</l><l>B' thoosans their footsteps a' pressing the heather; 
+</l><l>Th' North and the Sooth sent their bravest ones out, 
+</l><l>But a joust wi' Kirke's Lambs put them all to the rout." 
+</l></lg> 
+ 
+<p>By this time, the horseman was so close that Grizel could distinguish 
+objects hanging upon the horse in front of the rider. They were the 
+mail-bags! For the first time she realized her weakness and saw how 
+unlikely it was that she would be 
+ 
+    <pb entity="DSSR_000002646_0006" n="276"/> 
+ 
+able to cope with an armed man. The blood rushed to her head, and a 
+courage that was the inspiration of the moment took possession of her. 
+She struck Black Ronald a lash with her whip. 
+ 
+</p><p>"Go!" she said to him shrilly, while her heart-beats hammered in 
+her ears, "Go!" 
+ 
+</p><p>The astonished and excited horse leaped down the road. As she met 
+the postboy, she drew Black Ronald, with a sudden strength that was born 
+of the danger, back upon his haunches. His huge body blocked the way. 
+ 
+</p><p>"Dismount!" she cried to the other rider.  Her voice was hoarse 
+from fright, and sounded strangely in her own ears. But a wild courage 
+nerved her, and the hand that drew and held the pistol was as firm as a 
+man's. Black Ronald was rearing wildly, and in grasping the reins 
+tighter, her other hand mechanically altered its position about the 
+pistol. 
+ 
+</p><p>She had not meant to fire, she had only thought to aim and 
+threaten, but suddenly there was a flash of light in the gray 
+atmosphere, a dull reverberation, and to the girl's horrified amazement 
+she saw the horse in front of her stagger and fall heavily to the 
+ground. The rider, thrown from his saddle, was pinned to the earth by 
+his horse and stunned by the fall. Dizzy with pain and confused by the 
+rapidity of the assault, he made no effort to draw his weapon. 
+ 
+</p><p>The mail-bags had swung by their own momentum quite clear of the 
+horse in its fall, and now lay loosely over its back, joined by the 
+heavy strap. 
+ 
+</p><p>It was a painful task for the exhausted girl to dismount, but she 
+did so, and, lifting the cumbersome leathern bags, she threw them over 
+Black Ronald's neck. It was yet more painful to her tender heart to 
+leave the poor fellow she had injured lying in so pitiable a condition, 
+but her father's life was in danger, and that, to her, was of more 
+moment than the postboy's hurts. 
+ 
+</p><p>"Heaven forgive me," she said, bending over him. "I pray this may 
+not be his death!" She clambered over the fallen horse and mounted 
+Ronald, who was calm again. Then she turned his head toward Edinboro' 
+Town and hurriedly urged him forward. But as she sped away from the 
+scene of the encounter, she kept looking back, with an awe-struck face, 
+to the fallen postboy. In the excitement of the meeting and in her one 
+great resolve to obtain her father's death-warrant, she had lost all 
+thought of the risks she ran or of the injuries she might inflict; and 
+it was with unspeakable relief, therefore, that she at last saw the 
+post-boy struggle to his feet, and stand gazing after her.  "Thank 
+Heaven, he is not killed!" she exclaimed again and again, as she now 
+joyfully pressed Ronald into a gallop. Throughout the homeward journey, 
+Grizel made it a point to urge him to greater speed when nearing a 
+farmhouse, so that there would be less risk of discovery. Once or twice 
+she was accosted by laborers in the field, and once by the driver of a 
+cart, but their remarks were lost upon the wind as the faithful Ronald 
+thundered on. She did not feel the need of sleep, for she had forgotten 
+it in all her excitement, but she was greatly exhausted and suffering 
+from the effects of her rough ride. 
+ 
+</p><p>Soon the smoke in the distance showed Grizel that her native town 
+lay an hour's journey ahead. She set her teeth and said an encouraging 
+word to the horse. He seemed to understand, for he redoubled his 
+energies. Now the roofs became visible, and now, grim and sullen, the 
+turrets of the castle loomed up. Grizel felt a great lump in her throat 
+as she thought of her father in his lonely despair. 
+ 
+</p><p>She turned Ronald from the road again and cut through a clump of 
+elms. She came out in a few minutes and rode more slowly toward a 
+smaller gate than the one by which she had left the city.  A stout 
+soldier looked at her carelessly and then turned to his tankard of ale, 
+after he had noticed the mail-bags. Grizel turned into a crooked, narrow 
+street lined on each side with toppling, frowning buildings. She drew 
+rein before a humble house, and slipped wearily from her saddle and 
+knocked at the door. An old woman opened the heavy oaken door and Grizel 
+fell into her arms. 
+ 
+</p><p>"The bags &mdash; the mail," she gasped, and fainted.  When she 
+recovered consciousness, she found herself on a low, rough bed. The old 
+woman was bending over her. 
+ 
+</p><p>"Losh keep me!" said the dame. "I did na ken ye! Ma puir bairnie! 
+Hoo cam' ye by these?" and she pointed to the clothes of Allen. 
+ 
+</p><p>"The bags?" said Grizel, sitting bolt upright &mdash; 
+ 
+</p><p>"Are under the hearth," said the old woman. 
+ 
+</p><p>"And Ronald?" continued Grizel. 
+ 
+</p><p>"Is in the byre wi' the coos," said the other with a knowing 
+leer. "Not a soul kens it. Ne'er a body saw ye come." 
+ 
+</p><p>Breathlessly Grizel explained all to her old nurse, and then 
+sprung off the bed. At her request the old dame locked the door and 
+brought her the bags.  By the aid of a sharp knife the pair slashed open 
+the leathern covering, and the inclosed packets fell upon the floor. 
+With trembling hands Grizel fumbled them all over, tossing one after 
+another impatiently aside as she read the addresses. At last she came 
+upon a large one addressed to the governor. With beating heart she 
+hesitated a moment, and then tore the packet open with shaking fingers. 
+She easily read the bold handwriting.  Suddenly everything swam before 
+her, and again she nearly fell into her companion's arms. 
+ 
+</p><p>It was too true. What she read was a formal 
+ 
+    <pb entity="DSSR_000002646_0007" n="277"/> 
+
+
+ 
+    <pb entity="DSSR_000002646_0008" n="278"/> 
+ 
+warrant of the King, signed by his majesty, and stamped and sealed with 
+red wax. It ordered the governor to hang Sir John Cochrane of Ochiltree 
+at the Cross in Edinburgh at ten o'clock in the morning, on the third 
+day of the following week.  She clutched the paper and hid it in her 
+dress. 
+ 
+</p><p>The disposition of the rest of the mail was soon decided upon. 
+The old lady's son Jock &mdash; a wild fellow &mdash; was to put the sacks on the 
+back of a donkey and turn it loose outside the gates, at his earliest 
+opportunity. And then Grizel, clad in some rough garments the old lady 
+procured, slipped out of the house, and painfully made her way toward 
+the Canongate. 
+ 
+</p><p>It was four o'clock in the afternoon when she reached her home. 
+The porter at the gate could scarcely be made to understand that the 
+uncouth figure before him was his young mistress. But a moment later her 
+mother was embracing her, with tears of joy, 
+ 
+</p><p>All the male friends of Sir John were hastily summoned, and 
+Grizel related her adventure, and displayed the death-warrant of her 
+father. The hated document was consigned to the flames, a consultation 
+was held, and that night three of the gentlemen left for London. 
+ 
+</p><p>The next day, the donkey and the mail-sacks were found by a 
+sentry, and some little excitement was occasioned; but when the postboy 
+came in later, and related how he had been attacked by six stalwart 
+robbers, and how he had slain two of them and was then overpowered and 
+forced to surrender the bags, all wonderment was set at rest. 
+ 
+</p><p>The Cochrane family passed a week of great anxiety, but when it 
+was ended, the three friends returned from London with joyful news. The 
+King had listened to their petition, and had ordered the removal of Sir 
+John to the Tower of London, until his case could be reconsidered. So to 
+London Sir John went; and after a time the payment of five thousand 
+pounds to some of the King's advisers secured an absolute pardon. His 
+lands, which had been confiscated, were restored to him; and on his 
+arrival at his Scottish home, he was warmly welcomed by a great 
+concourse of his friends. He thanked them in a speech, taking care, 
+however, not to tell who was so greatly instrumental in making his 
+liberation possible.  But we may be sure that he was secretly proud of 
+the pluck and devotion of his daughter Grizel. 
+
+ 
+</p> 
+</div1> 
+</body>  
+</text>  
+</TEI.2> 

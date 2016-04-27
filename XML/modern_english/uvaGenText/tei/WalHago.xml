@@ -1,0 +1,848 @@
+<?xml version="1.0"?>
+
+<?dlps id="WalHago"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOlat1 SYSTEM "http://text.lib.virginia.edu/charent/iso-lat1.ent"> %ISOlat1;
+<!ENTITY % ISOnum SYSTEM "http://text.lib.virginia.edu/charent/iso-num.ent"> %ISOnum;
+<!ENTITY % UVAsupp SYSTEM "http://text.lib.virginia.edu/charent/uva-supp.ent"> %UVAsupp;
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+ 
+]> 
+<TEI.2 id="WalHago"> 
+<teiHeader type="migrated" creator="Etext">
+<fileDesc>
+<titleStmt>
+<title type="main">Hagoromo</title>
+<title type="sort">hagoromo</title>
+<author>Waley, Arthur</author>
+<respStmt>
+<resp>Creation of machine-readable version:</resp>  
+<name>Winnie Chan</name>  
+<resp>Creation of digital images:</resp>  
+<name/>  
+<resp>Conversion to TEI.2-conformant markup:</resp>  
+<name>University of Virginia Library Electronic Text Center.</name>
+</respStmt>
+</titleStmt>  
+<extent>ca. <num type="kilobytes">22</num> kilobytes</extent>  
+<publicationStmt>
+<publisher>University of Virginia Library</publisher>
+<pubPlace>Charlottesville, Virginia</pubPlace>  
+<idno type="ETC">WalHago</idno>  
+<date value="1997">1997</date>
+<availability status="public">
+<p n="copyright">Copyright &copy; 1997 by the Rector and Visitors of the University of Virginia</p>
+<p n="access">Publicly accessible</p>
+</availability>
+<idno type="uva-pid">uva-lib:476452</idno>
+</publicationStmt>
+<seriesStmt>
+<title>University of Virginia Library, Text collection</title>
+<idno type="uva-set">UVA-LIB-Text</idno>
+</seriesStmt>  
+<seriesStmt>
+<p>Japanese Text Initiative</p>
+</seriesStmt>  
+<notesStmt>
+<note>
+<p>Footnotes in the print source have been moved to the end of the 
+electronic document and numbered consecutively. For descriptive 
+purposes, words and phrases preceding footnote markers in the print 
+source have been added to the notes at the end of the electronic 
+document.</p>
+</note>
+</notesStmt>  
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title type="main">Hagoromo</title>
+<title level="m">The No&commacr; Plays of Japan</title>
+<title type="sort">hagoromo</title>
+<author>Arthur Waley</author>
+</titleStmt>  
+<editionStmt>
+<p>1st Edition</p>
+</editionStmt>  
+<extent>pp. 177-185</extent>  
+<publicationStmt>
+<publisher>Alfred A. Knopf</publisher>  
+<pubPlace>New York</pubPlace>  
+<date value="1922">1922</date>  
+<idno type="callNo">Print copy consulted: UVa Library call number PL 782 .E5W3 1922</idno>
+</publicationStmt>  
+</biblFull>
+</sourceDesc>
+</fileDesc>  
+<encodingDesc>
+<projectDesc>
+<p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+</projectDesc>  
+<editorialDecl>
+<p>All quotation marks retained as data.</p>  
+<p>All unambiguous end-of-line hyphens have been removed, and the trailing part of a word has been joined to the preceding line.</p>  
+<p>Keywords in the header are a local Electronic Text Center scheme to aid in establishing analytical groupings.</p>
+</editorialDecl>  
+</encodingDesc>  
+<profileDesc>
+<creation>
+<date value="1922">1922</date>
+</creation>  
+<langUsage>
+<language id="eng" usage="main">English</language>  
+<language id="rj">Romaji</language>  
+</langUsage>  
+<textClass>
+<keywords>  
+<term>Literature in Translation</term>
+</keywords>  
+</textClass>
+</profileDesc>  
+<revisionDesc>
+<change>
+<date value="1997-09">September 1997</date>  
+<respStmt>
+<resp>corrector</resp>  
+<name>Catherine Tousignant, Electronic Text Center</name>
+</respStmt>  
+<item>Added milestones to correspond with TylHago.</item>
+</change>  
+<change>
+<date value="1997-01">January 1997</date>  
+<respStmt>
+<resp>corrector</resp>  
+<name>Winnie Chan</name>
+</respStmt>  
+<item>Added TEI header and tags</item>
+</change>  
+<change>
+<date value="2005-07">July 2005</date>
+<respStmt>
+<resp>Corrector</resp>
+<name>Margaret Konkol</name>
+</respStmt>
+<item>Converted SGML to XML and fixed tagging.</item>
+</change>
+<change>
+<date value="2007-09">September 2007</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Ethan Gruber, University of Virginia Library</name>
+</respStmt>
+<item>Converted XML markup from TEI Lite to uva-dl-tei (TEI P4 with local customizations).</item>
+</change>
+<change>
+<date value="2008-01">January 2008</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Greg Murray, University of Virginia Library</name>
+</respStmt>
+<item>Programmatically updated TEI header markup (but not header content) for minimal compliance with current QA requirements.</item>
+</change>
+</revisionDesc>
+</teiHeader>  
+ 
+<text id="d1"> 
+<front id="d2"> 
+<pb n="177"/>  
+ 
+<div1 type="note" id="d3"> 
+<head>NOTE ON HAGOROMO.</head> 
+ 
+<p> 
+The story of the mortal who stole an angel's cloak and so prevented her 
+return to heaven is very widely spread. It exists, with variations and 
+complications, in India, China, Japan, the Liu Chiu Islands and Sweden. 
+The story of Hasan in the <hi rend="italic">Arabian Nights</hi> is an elaboration 
+of the same theme. 
+</p> 
+ 
+<p> 
+The No&commacr; play is said to have been written by Seami, but a version of 
+it existed long before. The last half consists merely of chants sung to 
+the dancing. Some of these (e. g. the words to the Suruga Dance) have no 
+relevance to the play, which is chiefly a framework or excuse for the 
+dances. It is thus a No&commacr; of the primitive type, and perhaps belongs, 
+at any rate in its conception, to an earlier period than such unified 
+dramas as <hi rend="italic">Atsumori</hi> or <hi rend="italic">Kagekiyo</hi>. The words of 
+the dances in <hi rend="italic">Maiguruma</hi> are just as irrelevant to the play 
+as those of the Suruga Dance in <hi rend="italic">Hagoromo</hi>, but there the 
+plot explains and even demands their intrusion. 
+</p> 
+ 
+<p> 
+The libretto of the second part lends itself very ill to translation, but 
+I have thought it best to give the play in full. 
+</p> 
+</div1> 
+ 
+ 
+</front>
+<body id="d4"> 
+<div1 type="play" id="d5"> 
+<pb n="178"/>  
+<head>HAGOROMO<lb/> 
+By SEAMI</head> 
+ 
+<list type="cast"> 
+<head>PERSONS</head> 
+<item>Hakuryo&commacr; (a Fisherman).</item> 
+<item>Angel.</item> 
+<item>Another Fisherman.</item> 
+<item>Chorus.</item> 
+</list> 
+
+<milestone unit="speech" n="Hago1"/> 
+<sp> 
+<speaker>Fisherman</speaker> 
+<lg type="poem"> 
+<l>Loud the rowers' cry</l> 
+<l>Who through the storm-swept paths of Mio Bay</l> 
+<l>Ride to the rising sea.</l> 
+</lg> 
+</sp> 
+
+<milestone unit="speech" n="Hago2"/>  
+<sp> 
+<speaker>Hakuryo&commacr;</speaker> 
+<p> 
+I am Hakuryo&commacr;, a fisherman whose home is by the pine-woods of Mio. 
+</p> 
+</sp> 
+ 
+<milestone unit="speech" n="Hago3"/> 
+<sp> 
+<speaker>Both</speaker> 
+<lg type="poem"> 
+<l>"On a thousand leagues of lovely hill clouds suddenly close;</l> 
+<l>But by one tower the bright moon shines in a clear sky." 
+<ref target="n178.1">[1]</ref></l> 
+<l>A pleasant season, truly: on the pine-wood shore</l> 
+<l>The countenance of Spring;</l> 
+<l>Early mist close-clasped to the swell of the sea;</l> 
+<l>In the plains of the sky a dim, loitering moon.</l> 
+<l>Sweet sight, to gaze enticing</l> 
+<l>Eyes even of us earth-cumbered</l> 
+<l>Low souls, least for attaining</l> 
+<l>Of high beauty nurtured.</l> 
+<milestone unit="speech" n="Hago4"/> 
+<l>Oh unforgettable! By mountain paths</l> 
+<l>Down to the sea of Kiyomi I come</l> 
+<l>And on far woodlands look,</l> 
+<l>Pine-woods of Mio, thither</l> 
+<l>Come, thither guide we our course.</l> 
+<milestone unit="speech" n="Hago5"/> 
+<l>Fishers, why put you back your boats to shore,</l> 
+<l>No fishing done?</l> 
+ 
+ 
+<pb n="179"/>  
+<l>Thought you them rising waves, those billowy clouds</l> 
+<l>Wind-blown across sea?</l> 
+<l>Wait, for the time is Spring and in the trees</l> 
+<l>The early wind his everlasting song</l> 
+<l>Sings low; and in the bay</l> 
+<l>Silent in morning calm the little ships,</l> 
+<l>Ships of a thousand fishers, ride the sea.</l> 
+</lg> 
+</sp> 
+ 
+<stage> 
+The second Fisherman retires to a position near the leader of the Chorus 
+and takes no further part in the action. 
+</stage> 
+
+<milestone unit="speech" n="Hago6"/>  
+<sp> 
+<speaker>Hakuryo&commacr;</speaker> 
+<p> 
+Now I have landed at the pine-wood of Mio and am viewing the beauty of the 
+shore. Suddenly there is music in the sky, a rain of flowers, unearthly 
+fragrance wafted on all sides. These are no common things; nor is this 
+beautiful cloak that hangs upon the pine-tree. I come near to it. It is 
+marvellous in form and fragrance. This surely is no common dress. I will 
+take it back with me and show it to the people of my home. It shall be a 
+treasure in my house. 
+</p> 
+</sp> 
+ 
+<stage> 
+He walks four steps towards the Waki's pillar carrying the feather robe. 
+</stage> 
+
+<milestone unit="speech" n="Hago7"/>  
+<sp> 
+<speaker>Angel</speaker> 
+ 
+<stage> 
+entering through the curtain at the end of the gallery. 
+</stage> 
+ 
+<p> 
+Stop! That cloak is mine. Where are you going with it? 
+</p> 
+</sp> 
+ 
+<milestone unit="speech" n="Hago8"/> 
+<sp> 
+<speaker>Hakuryo&commacr;</speaker> 
+<p> 
+This is a cloak I found here. I am taking it home. 
+</p> 
+</sp> 
+
+<milestone unit="speech" n="Hago9"/>  
+<sp> 
+<speaker>Angel</speaker> 
+<p> 
+It is an angel's robe of feathers, a cloak no mortal man may wear. Put it 
+back where you found it. 
+</p> 
+</sp> 
+ 
+<milestone unit="speech" n="Hago10"/> 
+<sp> 
+<speaker>Hakuryo&commacr;</speaker> 
+<p> 
+How? Is the owner of this cloak an angel of the sky? Why, then, I will put 
+it in safe keeping. It shall be a treasure in the land, a marvel to men 
+unborn. 
+<ref target="n179.1">[2]</ref> 
+ I will not give back your cloak. 
+</p> 
+</sp> 
+
+<milestone unit="speech" n="Hago11"/>  
+<sp> 
+<speaker>Angel</speaker> 
+<lg type="poem"> 
+<l>Oh pitiful! How shall I cloakless tread</l> 
+<l>The wing-ways of the air, how climb</l> 
+ 
+ 
+<pb n="180"/>  
+<l>The sky, my home?</l> 
+<l>Oh, give it back, in charity give it back.</l> 
+</lg> 
+</sp> 
+
+<milestone unit="speech" n="Hago12"/>  
+<sp> 
+<speaker>Hakuryo&commacr;</speaker> 
+<lg type="poem"> 
+<l>No charity is in me, and your moan</l> 
+<l>Makes my heart resolute.</l> 
+<l>Look, I take your robe, hide it, and will not give it back.</l> 
+</lg> 
+</sp> 
+ 
+<stage> 
+Describing his own actions. Then he walks away. 
+</stage> 
+ 
+<milestone unit="speech" n="Hago13"/> 
+<sp> 
+<speaker>Angel</speaker> 
+<lg type="poem"> 
+<l>Like a bird without wings,</l> 
+<l>I would rise, but robeless</l> 
+</lg> 
+</sp> 
+ 
+<milestone unit="speech" n="Hago14"/> 
+<sp> 
+<speaker>Hakuryo&commacr;</speaker> 
+<lg type="poem"> 
+<l>To the low earth you sink, an angel dwelling</l> 
+<l>In the dingy world.</l> 
+</lg> 
+</sp> 
+ 
+<milestone unit="speech" n="Hago15"/> 
+<sp> 
+<speaker>Angel</speaker> 
+<lg type="poem"> 
+<l>This way, that way.</l> 
+<l>Despair only.</l> 
+</lg> 
+</sp> 
+
+<milestone unit="speech" n="Hago16"/>  
+<sp> 
+<speaker>Hakuryo&commacr;</speaker> 
+<lg type="poem"> 
+<l>But when she saw he was resolved to keep it . . .</l> 
+</lg> 
+</sp> 
+ 
+<milestone unit="speech" n="Hago17"/> 
+<sp> 
+<speaker>Angel</speaker> 
+<lg type="poem"> 
+<l>Strength failing.</l> 
+</lg> 
+</sp> 
+
+<milestone unit="speech" n="Hago18"/>  
+<sp> 
+<speaker>Hakuryo&commacr;</speaker> 
+<lg type="poem"> 
+<l>Help none. . .</l> 
+</lg> 
+</sp> 
+ 
+<milestone unit="speech" n="Hago19"/> 
+<sp> 
+<speaker>Chorus</speaker> 
+<lg type="poem"> 
+<l>Then on her coronet,</l> 
+<l>Jewelled as with the dew of tears,</l> 
+<l>The bright flowers drooped and faded. 
+<ref target="n180.1">[3]</ref></l> 
+<l>O piteous to see before the eyes,</l> 
+<l>Fivefold the signs of sickness</l> 
+<l>Corrupt an angel's form.</l> 
+</lg> 
+</sp> 
+ 
+<milestone unit="speech" n="Hago20"/>
+<sp> 
+<speaker>Angel</speaker> 
+<lg type="poem"> 
+<l>I look into the plains of heaven,</l> 
+ 
+ 
+<pb n="181"/>  
+<l>The cloud-ways are hid in mist,</l> 
+<l>The path is lost.</l> 
+</lg> 
+</sp> 
+
+<milestone unit="speech" n="Hago21"/> 
+<sp> 
+<speaker>Chorus</speaker> 
+<lg type="poem"> 
+<l>Oh, enviable clouds,</l> 
+<l>At your will wandering</l> 
+<l>For ever idle in the empty sky</l> 
+<l>That was my home!</l> 
+<milestone unit="speech" n="Hago22"/>
+<l>Now fades and fades upon my ear</l> 
+<l>The voice of Kalavink, 
+<ref target="n181.1">[4]</ref></l> 
+<l>Daily accustomed song.</l> 
+<l>And you, oh you I envy,</l> 
+<l>Wild-geese clamorous</l> 
+<l>Down the sky-paths returning;</l> 
+<l>And you, O seaward circling, shoreward sweeping</l> 
+<l>Swift seagulls of the bay:</l> 
+<l>Even the wind, because in heaven it blows,</l> 
+<l>The wind of Spring I envy.</l> 
+</lg> 
+</sp> 
+ 
+<milestone unit="speech" n="Hago23"/>
+<sp> 
+<speaker>Hakuryo&commacr;</speaker> 
+<p> 
+Listen. Now that I have seen you in your sorrow, I yield and would give 
+you back your mantle. 
+</p> 
+</sp> 
+
+<milestone unit="speech" n="Hago24"/> 
+<sp> 
+<speaker>Angel</speaker> 
+<p> 
+Oh, I am happy! Give it me then! 
+</p> 
+</sp> 
+ 
+<milestone unit="speech" n="Hago25"/>
+<sp> 
+<speaker>Hakuryo&commacr;</speaker> 
+<p> 
+Wait. I have heard tell of the dances that are danced in heaven. Dance for 
+me now, and I will give back your robe. 
+</p> 
+</sp> 
+
+<milestone unit="speech" n="Hago26"/> 
+<sp> 
+<speaker>Angel</speaker> 
+<lg type="poem"> 
+<l>I am happy, happy. Now I shall have wings and mount the sky again.</l> 
+<l>And for thanksgiving I bequeath</l> 
+<l>A dance of remembrance to the world,</l> 
+<l>Fit for the princes of men:</l> 
+<l>The dance tune that makes to turn</l> 
+<l>The towers of the moon,</l> 
+<l>I will dance it here and as an heirloom leave it</l> 
+<l>To the sorrowful men of the world.</l> 
+ 
+ 
+<pb n="182"/>  
+<l>Give back my mantle, I cannot dance without it.</l> 
+<l>Say what you will, I must first have back the robe.</l> 
+</lg> 
+</sp> 
+
+<milestone unit="speech" n="Hago27"/> 
+<sp> 
+<speaker>Hakuryo&commacr;</speaker> 
+<p> 
+Not yet, for if I give back your robe, not a step would you dance, but fly 
+with it straight to the sky. 
+</p> 
+</sp> 
+ 
+<milestone unit="speech" n="Hago28"/>
+<sp> 
+<speaker>Angel</speaker> 
+<lg type="poem"> 
+<l>No, no. Doubt is for mortals;</l> 
+<l>In heaven is no deceit.</l> 
+</lg> 
+</sp> 
+
+<milestone unit="speech" n="Hago29"/> 
+<sp> 
+<speaker>Hakuryo&commacr;</speaker> 
+<lg type="poem"> 
+<l>I am ashamed. Look, I give back the robe.</l> 
+</lg> 
+</sp> 
+ 
+<stage> 
+He gives it to her and she takes it in both hands. 
+</stage> 
+
+<milestone unit="speech" n="Hago30"/>
+<sp> 
+<speaker>Angel</speaker> 
+<lg type="poem"> 
+<l>The heavenly lady puts on her garment,</l> 
+<l>She dances the dance of the Rainbow Skirt, of the Robe of Feathers.</l> 
+</lg> 
+</sp> 
+
+<milestone unit="speech" n="Hago31"/> 
+<sp> 
+<speaker>Hakuryo&commacr;</speaker> 
+<l>The sky-robe flutters, it yields to the wind.</l> 
+</sp> 
+ 
+<milestone unit="speech" n="Hago32"/>
+<sp> 
+<speaker>Angel</speaker> 
+<lg type="poem"> 
+<l>Sleeve like a flower wet with rain. . .</l> 
+</lg> 
+</sp> 
+ 
+<milestone unit="speech" n="Hago33"/>
+<sp> 
+<speaker>Hakuryo&commacr;</speaker> 
+<lg type="poem"> 
+<l>The first dance is over.</l> 
+</lg> 
+</sp> 
+
+<milestone unit="speech" n="Hago34"/> 
+<sp> 
+<speaker>Angel</speaker> 
+<lg type="poem"> 
+<l>Shall I dance?</l> 
+</lg> 
+</sp> 
+
+<milestone unit="speech" n="Hago35"/> 
+<sp> 
+<speaker>Chorus</speaker> 
+<lg type="poem"> 
+<l>The dance of Suruga, with music of the East?</l> 
+<l>Thus was it first danced.</l> 
+</lg> 
+ 
+<stage> 
+The Angel dances, while the Chorus sings the words of the dance, an 
+ancient Shinto&commacr; chant. 
+</stage> 
+ 
+<milestone unit="speech" n="Hago36"/>
+<lg type="poem"> 
+<l>"Why name we</l> 
+<l>Wide-stretched and everlasting.</l> 
+<l>The sky of heaven?</l> 
+<l>Two gods 
+<ref target="n182.1">[5]</ref> 
+ there came of old</l> 
+ 
+ 
+<pb n="183"/>  
+<l>And built, upon ten sides shut in,</l> 
+<l>A measured world for men;</l> 
+<l>But without limit arched they</l> 
+<l>The sky above, and named it</l> 
+<l>Wide-stretched and everlasting."</l> 
+</lg> 
+</sp> 
+ 
+<milestone unit="speech" n="Hago37"/>
+<sp> 
+<speaker>Angel</speaker> 
+<lg type="poem"> 
+<l>Thus is the Moon-God's palace:</l> 
+<l>Its walls are fashioned</l> 
+<l>With an axe of jade.</l> 
+</lg> 
+</sp> 
+
+<milestone unit="speech" n="Hago38"/> 
+<sp> 
+<speaker>Chorus</speaker> 
+<lg type="poem"> 
+<l>In white dress, black dress,</l> 
+<l>Thrice ten angels</l> 
+<l>In two ranks divided,</l> 
+<l>Thrice five for the waning,</l> 
+<l>Thrice five for nights of the waxing moon,</l> 
+<l>One heavenly lady on each night of the moon</l> 
+<l>Does service and fulfils</l> 
+<l>Her ritual task assigned.</l> 
+</lg> 
+</sp> 
+
+<milestone unit="speech" n="Hago39"/> 
+<sp> 
+<speaker>Angel</speaker> 
+<lg type="poem"> 
+<l>I too am of their number,</l> 
+<l>A moon-lady of heaven.</l> 
+</lg> 
+</sp> 
+
+<milestone unit="speech" n="Hago40"/> 
+<sp> 
+<speaker>Chorus</speaker> 
+<lg type="poem"> 
+<l>"Mine is the fruit of the moon-tree, 
+<ref target="n183.1">[6]</ref> 
+ yet came I to the East incarnate 
+<ref target="n183.2">[7]</ref></l> 
+<l>Dwelt with the people of Earth, and gave them</l> 
+<l>A gift of music, song-dance of Suruga.</l> 
+</lg> 
+
+<milestone unit="speech" n="Hago41"/> 
+<lg type="poem"> 
+<l>Now upon earth trail the long mists of Spring;</l> 
+<l>Who knows but in the valleys of the moon</l> 
+<l>The heavenly moon-tree puts her blossom on?</l> 
+<l>The blossoms of her crown win back their glory:</l> 
+<l>It is the sign of Spring.</l> 
+<l>Not heaven is here, but beauty of the wind and sky.</l> 
+<l>Blow, blow, you wind, and build</l> 
+<l>Cloud-walls across the sky, lest the vision leave us</l> 
+<l>Of a maid divine!</l> 
+<l>This tint of springtime in the woods,</l> 
+ 
+ 
+<pb n="184"/>  
+<l>This colour on the headland,</l> 
+<l>Snow on the mountain 
+<ref target="n184.1">[8]</ref></l> 
+<l>Moonlight on the clear shore,   &mdash;   </l> 
+<l>Which fairest? Nay, each peerless</l> 
+<l>At the dawn of a Spring day.</l> 
+<l>Waves lapping, wind in the pine-trees whispering</l> 
+<l>Along the quiet shore.</l> 
+<l>Say you, what cause</l> 
+<l>Has Heaven to be estranged</l> 
+<l>From us Earth-men; are we not children of the Gods,</l> 
+<l>Within, without the jewelled temple wall, 
+<ref target="n184.2">[8]</ref></l> 
+<l>Born where no cloud dares dim the waiting moon,</l> 
+<l>Land of Sunrise?"</l> 
+</lg> 
+</sp> 
+
+<milestone unit="speech" n="Hago42"/> 
+<sp> 
+<speaker>Angel</speaker> 
+<lg type="poem"> 
+<l>May our Lord's life</l> 
+<l>Last long as a great rock rubbed</l> 
+<l>Only by the rare trailing</l> 
+<l>Of an angel's feather-skirt. 
+<ref target="n184.3">[10]</ref></l> 
+<l>Oh, marvellous music!</l> 
+<l>The Eastern song joined</l> 
+<l>To many instruments;</l> 
+<milestone unit="speech" n="Hago43"/>
+<l>Harp, zither, pan-pipes, flute,</l> 
+<l>Belly their notes beyond the lonely clouds.</l> 
+<l>The sunset stained with crimson light</l> 
+<l>From Mount Sumeru's side; 
+<ref target="n184.4">[11]</ref></l> 
+<l>For green, the islands floating on the sea;</l> 
+<l>For whiteness whirled</l> 
+<l>A snow of blossom blasted</l> 
+<l>By the wild winds, a white cloud</l> 
+<l>Of sleeves waving.</l> 
+</lg> 
+ 
+<stage> 
+Concluding the dance, she folds her hands and prays. 
+</stage> 
+ 
+<lg type="poem"> 
+<l>NAMU KIMYO GWATTEN-SHI.</l> 
+</lg> 
+
+<milestone unit="speech" n="Hago44"/> 
+<lg type="poem"> 
+<l>To thee, O Monarch of the Moon,</l> 
+<l>Be glory and praise,</l> 
+<l>Thou son of Seishi Omnipotent! 
+<ref target="n184.5">[12]</ref></l> 
+</lg> 
+</sp> 
+ 
+ 
+<pb n="185"/>  
+<milestone unit="speech" n="Hago45"/>
+<sp> 
+<speaker>Chorus</speaker> 
+<l>This is a dance of the East.</l> 
+</sp> 
+ 
+<stage> 
+She dances three of the five parts of the dance called "Yo no Mai," the 
+Prelude Dance. 
+</stage> 
+
+<milestone unit="speech" n="Hago46"/> 
+<sp> 
+<speaker>Angel</speaker> 
+<l>I am robed in sky, in the empty blue of heaven.</l> 
+</sp> 
+ 
+<milestone unit="speech" n="Hago47"/>
+<sp> 
+<speaker>Chorus</speaker> 
+<l>Now she is robed in a garment of mist, of Spring mist.</l> 
+</sp> 
+ 
+<milestone unit="speech" n="Hago48"/>
+<sp> 
+<speaker>Angel</speaker> 
+<p> 
+Wonderful in perfume and colour, an angel's skirt,   &mdash;   left, right, 
+left, left, right. 
+</p> 
+ 
+<stage> 
+Springing from side to side. 
+</stage> 
+ 
+<p> 
+The skirt swishes, the flowers nod, the feathery sleeves trail out and 
+return, the dancing-sleeves. 
+</p> 
+</sp> 
+ 
+<stage> 
+She dances "Ha no Mai" the Broken Dance. 
+</stage> 
+ 
+<milestone unit="speech" n="Hago49"/>
+<sp> 
+<speaker>Chorus</speaker> 
+<lg type="poem"> 
+<l>She has danced many dances,</l> 
+<l>But not yet are they numbered,</l> 
+<l>The dances of the East.</l> 
+<l>And now she, whose beauty is as the young moon,</l> 
+<l>Shines on us in the sky of midnight,</l> 
+<l>The fifteenth night,</l> 
+<l>With the beam of perfect fulfilment,</l> 
+<l>The splendor of Truth.</l> 
+<l>The vows 
+<ref target="n185.1">[13]</ref> 
+ are fulfilled, and the land we live in</l> 
+<l>Rich with the Seven Treasures</l> 
+<l>By this dance rained down on us,</l> 
+<l>The gift of Heaven.</l> 
+<l>But, as the hours pass by,</l> 
+<l>Sky-cloak of feathers fluttering, fluttering,</l> 
+<l>Over the pine-woods of Mio,</l> 
+<l>Past the Floating Islands, through the feet of the clouds she  
+flies,</l> 
+<l>Over the mountain of Ashitaka, the high peak of Fuji,</l> 
+<l>Very faint her form,</l> 
+<l>Mingled with the mists of heaven;</l> 
+<l>Now lost to sight.</l> 
+</lg> 
+</sp> 
+ 
+</div1> 
+</body> 
+ 
+<back id="d6"> 
+<div1 type="notes" id="d7"> 
+<head>Footnotes</head> 
+ 
+<note id="n178.1"><seg type="note-symbol">[1:</seg> <p>"On a thousand. . .clear sky."] A Chinese couplet 
+quoted from the <hi rend="italic">Shih Jen Y&uuml; Hsieh</hi> ("Jade-dust of 
+the Poets"), a Sung Dynasty work on poetry which was popular in 
+Japan.</p></note> 
+ 
+<note id="n179.1"><seg type="note-symbol">[2:</seg> <p>men unborn] <hi rend="italic">Masse</hi> here 
+means, I think, "future generations," not "this degraded age."</p></note> 
+ 
+<note id="n180.1"><seg type="note-symbol">[3:</seg> <p>The bright flowers drooped and faded.] When an 
+angel is about to die, the flowers of his crown wither, his feather robe 
+is stained with dust, sweat pours from under the arm-pits, the eyelids 
+tremble, he is tired of his place in heaven.</p></note> 
+ 
+<note id="n181.1"><seg type="note-symbol">[4:</seg> <p>Kalavink] The sacred bird of heaven.</p></note> 
+ 
+<note id="n182.1"><seg type="note-symbol">[5:</seg> <p>Two gods] Izanagi and Izanami.</p></note> 
+ 
+<note id="n183.1"><seg type="note-symbol">[6:</seg> <p>the moon-tree] The "Katsura" tree, a kind of 
+laurel supposed to grow in the moon.</p></note> 
+ 
+<note id="n183.2"><seg type="note-symbol">[7:</seg> <p>the East incarnate] Lit. "dividing my body," an 
+expression used of Buddhist divinities that detach a portion of their 
+godhead and incarnate it in some visible form.</p></note> 
+ 
+<note id="n184.1"><seg type="note-symbol">[8:</seg> <p>the mountain] Fuji.</p></note> 
+ 
+<note id="n184.2"><seg type="note-symbol">[9:</seg> <p>the jewelled temple wall] The inner and outer 
+temples at Ise.</p></note> 
+ 
+<note id="n184.3"><seg type="note-symbol">[10:</seg> <p>May our Lord's life. . . angel's feather-skirt] 
+Quoting an ancient prayer for the Mikado.</p></note> 
+ 
+<note id="n184.4"><seg type="note-symbol">[11:</seg> <p>Mount Sumeru's side] Sumeru is the great 
+mountain at the centre of the universe. Its west side is of rubies, its 
+south side of green stones, its east side of white stones, etc.</p></note> 
+ 
+<note id="n184.5"><seg type="note-symbol">[12:</seg> <p>son of Seishi Omnipotent] Called in Sanskrit 
+Mahasthama-prapta, third person of the Trinity sitting 
+on Amida's right hand. The Moon-God is an emanation of this deity.</p></note> 
+ 
+<note id="n185.1"><seg type="note-symbol">[12:</seg> <p>vows] Of Buddha.</p></note> 
+</div1> 
+</back> 
+ 
+</text> 
+</TEI.2> 
+ 
+ 

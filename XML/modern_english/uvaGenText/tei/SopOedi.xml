@@ -1,0 +1,2735 @@
+<?xml version="1.0"?>
+
+<?dlps id="SopOedi"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOnum SYSTEM "http://text.lib.virginia.edu/charent/iso-num.ent"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+<TEI.2 id="SopOedi">
+
+<teiHeader type="migrated" creator="Etext">
+<fileDesc>
+<titleStmt>
+<title type="main">Oedipus the King</title>
+<title type="sort">oedipus the king</title>
+<author>Sophocles</author>
+<respStmt>
+<resp>Creation of machine-readable version:</resp>
+<name>University of Virginia Library Electronic Text Center</name>
+<resp>Conversion to TEI-conformant markup:</resp>
+<name>T. E. Page and W. H. D. Rouse</name>
+</respStmt>
+</titleStmt>
+<extent>ca. <num type="kilobytes">110</num> kilobytes</extent>
+<publicationStmt>
+<publisher>University of Virginia Library</publisher>
+<pubPlace>Charlottesville, Virginia</pubPlace>
+<idno type="ETC">SopOedi</idno>
+<date value="1993">1993</date>
+<availability status="public">
+<p n="copyright">Copyright &copy; 1993 by the Rector and Visitors of the University of Virginia</p>
+<p n="access">Publicly accessible</p>
+</availability>
+<idno type="uva-pid">uva-lib:476373</idno>
+</publicationStmt>
+<seriesStmt>
+<title>University of Virginia Library, Text collection</title>
+<idno type="uva-set">UVA-LIB-Text</idno>
+</seriesStmt>
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title type="main">Sophocles, Vol. I</title>
+<title type="sort">sophocles, vol i</title>
+<author>Sophocles</author>
+</titleStmt>
+<publicationStmt>
+<publisher>William Heinemann</publisher>
+<pubPlace>London</pubPlace>
+<date value="1912">1912</date>
+</publicationStmt>
+<seriesStmt>
+<p>The Loeb Classical Library</p>
+</seriesStmt>
+<notesStmt>
+<note>
+<p>Translated by F. Storr</p>
+</note>
+</notesStmt>
+</biblFull>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Prepared for the University of Virginia Library Electronic Text Center</p>
+</projectDesc>
+<editorialDecl>
+<p>All quotation marks retained as data</p>
+<p>spell-check and verification made against printed text using WordPerfect spell checker</p>
+<p>All unambiguous end-of-line hyphens have been removed, and the trailing part of a word has been joined to the preceding line.</p> 
+<p id="ETC">Keywords in the header are a local Electronic Text Center scheme to aid in establishing analytical groupings</p>
+<p>ID elements are given for each page element and are composed of the text's unique cryptogram and the given page number, as in SpeFQue1 for page one of Spenser's Faerie Queene.</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<creation>
+<dateRange from="B499" to="B400" exact="none">5th century BC</dateRange>
+</creation>
+<langUsage>
+<language id="eng" usage="main">English</language>
+</langUsage>
+<textClass>
+<keywords>
+<term>fiction</term>
+<term>drama</term>
+<term>masculine</term>
+<term>Literature in Translation</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change>
+<date value="1994-01">January 1994</date>
+<respStmt>
+<resp>corrector</resp>
+<name>David L. Gants, Electronic Text Center, University of Virginia</name>
+</respStmt>
+<item>Spell-checked in WordPerfect; added pagination and basic TEI SGML
+tagging</item>
+</change>
+<change>
+<date value="2000-08">August 2000</date>
+<respStmt>
+<resp>corrector</resp>
+<name>Johnnie A. Wilcox, Electronic Text Center, University of Virginia</name>
+</respStmt>
+<item>Updated and corrected TEI-2 header</item>
+</change>
+<change>
+<date value="2005-07">July 2005</date>
+<respStmt>
+<resp>Corrector</resp>
+<name>John Ivor Carlson</name>
+</respStmt>
+<item>Converted to XML and/or checked tags.</item>
+</change>
+<change>
+<date value="2007-09">September 2007</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Ethan Gruber, University of Virginia Library</name>
+</respStmt>
+<item>Converted XML markup from TEI Lite to uva-dl-tei (TEI P4 with local customizations).</item>
+</change>
+<change>
+<date value="2008-01">January 2008</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Greg Murray, University of Virginia Library</name>
+</respStmt>
+<item>Programmatically updated TEI header markup (but not header content) for minimal compliance with current QA requirements.</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text id="d1">
+<front id="d2">
+
+
+<div1 type="argument" id="d3"><pb n="2"/>
+<p>
+To Laius, King of Thebes, an oracle foretold that the
+child born to him by his queen Jocasta would slay his father and wed his
+mother. So when in time a son was born the infant's feet were riveted together
+and he was left to die on Mount Cithaeron.  But a shepherd found the babe and
+tended him, and delivered him to another shepherd who took him to his master,
+the King or Corinth.  Polybus being childless adopted the boy, who grew up
+believing that he was indeed the King's son.  Afterwards doubting his
+parentage he inquired of the Delphic god and heard himself the weird declared
+before to Laius.  Wherefore he fled from what he deemed his father's house and
+in his flight he encountered and unwillingly slew his father Laius.  Arriving
+at Thebes he answered the riddle of the Sphinx and the grateful Thebans made
+their deliverer king.  So he reigned in the room of Laius, and espoused the
+widowed queen.  Children were born to them and Thebes prospered under his
+rule, but again a grievous plague fell upon the city.  Again the oracle was
+consulted and it bade them purge themselves of blood-guiltiness.
+<pb n="3"/>
+Oedipus denounces the crime of which he is unaware, and undertakes to track
+out the criminal.  Step by step it is brought home to him that he is the man.
+The closing scene reveals Jocasta slain by her own hand and Oedipus blinded by
+his own act and praying for death or exile. </p>
+
+<pb n="5"/>
+
+<p>
+Oedipus.<lb/>
+The Priest of Zeus.<lb/>
+Creon.<lb/>
+Chorus of Theban Elders.<lb/>
+Teiresias.<lb/>
+Jocasta.<lb/>
+Messenger.<lb/>
+Herd of Laius.<lb/>
+Second Messenger.<lb/>
+</p>
+</div1>
+</front>
+
+<body id="d4">
+<div1 type="play" id="d5"><pb n="7"/>
+<stage type="setting">Scene:  Thebes.  Before the Palace of Oedipus.</stage>
+<stage type="entrance">Suppliants of all ages are seated round the altar at the
+palace doors, at their head a PRIEST OF ZEUS.  To them enter OEDIPUS.</stage>
+
+<sp><speaker>Oedipus</speaker>
+<l n="1">My children, latest born to Cadmus old,</l>
+<l n="2">Why sit ye here as suppliants, in your hands</l>
+<l n="3">Branches of olive filleted with wool?</l>
+<l n="4">What means this reek of incense everywhere,</l>
+<l n="5">And everywhere laments and litanies?</l>
+<l n="6">Children, it were not meet that I should learn</l>
+<l n="7">From others, and am hither come, myself,</l>
+<l n="8">I Oedipus, your world-renowned king.</l>
+<l n="9">Ho! aged sire, whose venerable locks</l>
+<l n="10">Proclaim thee spokesman of this company,</l>
+<l n="11">Explain your mood and purport.  Is it dread</l>
+<l n="12">Of ill that moves you or a boon ye crave?</l>
+<l n="13">My zeal in your behalf ye cannot doubt;</l>
+<l n="14">Ruthless indeed were I and obdurate</l>
+<l n="15">If such petitioners as you I spurned.</l>
+
+</sp><sp><speaker>Priest</speaker>
+<l n="16">Yea, Oedipus, my sovereign lord and king,</l>
+<l n="17">Thou seest how both extremes of age besiege</l>
+<l n="18">Thy palace altars&mdash;fledglings hardly winged,</l>
+<l n="19">and greybeards bowed with years; priests, as am I</l>
+<l n="20">of Zeus, and these the flower of our youth.</l>
+<l n="21">Meanwhile, the common folk, with wreathed boughs</l>
+<l n="22">Crowd our two market-places, or before</l>
+<l n="23">Both shrines of Pallas congregate, or where</l>
+<l n="24">Ismenus gives his oracles by fire.</l>
+<pb n="9"/>
+<l n="25">For, as thou seest thyself, our ship of State,</l>
+<l n="26">Sore buffeted, can no more lift her head,</l>
+<l n="27">Foundered beneath a weltering surge of blood.</l>
+<l n="28">A blight is on our harvest in the ear,</l>
+<l n="29">A blight upon the grazing flocks and herds,</l>
+<l n="30">A blight on wives in travail; and withal</l>
+<l n="31">Armed with his blazing torch the God of Plague</l>
+<l n="32">Hath swooped upon our city emptying</l>
+<l n="33">The house of Cadmus, and the murky realm</l>
+<l n="34">Of Pluto is full fed with groans and tears.</l>
+<l n="35">Therefore, O King, here at thy hearth we sit,</l>
+<l n="36">I and these children; not as deeming thee</l>
+<l n="37">A new divinity, but the first of men;</l>
+<l n="38">First in the common accidents of life,</l>
+<l n="39">And first in visitations of the Gods.</l>
+<l n="40">Art thou not he who coming to the town</l>
+<l n="41">of Cadmus freed us from the tax we paid</l>
+<l n="42">To the fell songstress?  Nor hadst thou received</l>
+<l n="43">Prompting from us or been by others schooled;</l>
+<l n="44">No, by a god inspired (so all men deem,</l>
+<l n="45">And testify) didst thou renew our life.</l>
+<l n="46">And now, O Oedipus, our peerless king,</l>
+<l n="47">All we thy votaries beseech thee, find</l>
+<l n="48">Some succor, whether by a voice from heaven</l>
+<l n="49">Whispered, or haply known by human wit.</l>
+<l n="50">Tried counselors, methinks, are aptest found</l>
+<l n="51">To furnish for the future pregnant rede.</l>
+<l n="52">Upraise, O chief of men, upraise our State!</l>
+<l n="53">Look to thy laurels! for thy zeal of yore</l>
+<l n="54">Our country's savior thou art justly hailed:</l>
+<l n="55">O never may we thus record thy reign:&mdash;</l>
+<pb n="11"/>
+<l n="56">"He raised us up only to cast us down."</l>
+<l n="57">Uplift us, build our city on a rock.</l>
+<l n="58">Thy happy star ascendant brought us luck,</l>
+<l n="59">O let it not decline!  If thou wouldst rule</l>
+<l n="60">This land, as now thou reignest, better sure</l>
+<l n="61">To rule a peopled than a desert realm.</l>
+<l n="62">Nor battlements nor galleys aught avail,</l>
+<l n="63">If men to man and guards to guard them tail.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="64">Ah! my poor children, known, ah, known too well,</l>
+<l n="65">The quest that brings you hither and your need.</l>
+<l n="66">Ye sicken all, well wot I, yet my pain,</l>
+<l n="67">How great soever yours, outtops it all.</l>
+<l n="68">Your sorrow touches each man severally,</l>
+<l n="69">Him and none other, but I grieve at once</l>
+<l n="70">Both for the general and myself and you.</l>
+<l n="71">Therefore ye rouse no sluggard from day-dreams.</l>
+<l n="72">Many, my children, are the tears I've wept,</l>
+<l n="73">And threaded many a maze of weary thought.</l>
+<l n="74">Thus pondering one clue of hope I caught,</l>
+<l n="75">And tracked it up; I have sent Menoeceus' son,</l>
+<l n="76">Creon, my consort's brother, to inquire</l>
+<l n="77">Of Pythian Phoebus at his Delphic shrine,</l>
+<l n="78">How I might save the State by act or word.</l>
+<l n="79">And now I reckon up the tale of days</l>
+<l n="80">Since he set forth, and marvel how he fares.</l>
+<l n="81">'Tis strange, this endless tarrying, passing strange.</l>
+<l n="82">But when he comes, then I were base indeed,</l>
+<l n="83">If I perform not all the god declares.</l>
+
+</sp><sp><speaker>Priest</speaker>
+<l n="84">Thy words are well timed; even as thou speakest</l>
+<l n="85">That shouting tells me Creon is at hand.</l>
+
+<pb n="13"/>
+</sp><sp><speaker>Oedipus</speaker>
+<l n="86">O King Apollo! may his joyous looks</l>
+<l n="87">Be presage of the joyous news he brings!</l>
+
+</sp><sp><speaker>Priest</speaker>
+<l n="88">As I surmise, 'tis welcome; else his head</l>
+<l n="89">Had scarce been crowned with berry-laden bays.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="90">We soon shall know; he's now in earshot range.</l>
+<l n="91"><stage type="entrance">Enter CREON</stage></l>
+<l n="92">My royal cousin, say, Menoeceus' child,</l>
+<l n="93">What message hast thou brought us from the god?</l>
+
+</sp><sp><speaker>Creon</speaker>
+<l n="94">Good news, for e'en intolerable ills,</l>
+<l n="95">Finding right issue, tend to naught but good.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="96">How runs the oracle? thus far thy words</l>
+<l n="97">Give me no ground for confidence or fear.</l>
+
+</sp><sp><speaker>Creon</speaker>
+<l n="98">If thou wouldst hear my message publicly,</l>
+<l n="99">I'll tell thee straight, or with thee pass within.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="100">Speak before all; the burden that I bear</l>
+<l n="101">Is more for these my subjects than myself.</l>
+
+</sp><sp><speaker>Creon</speaker>
+<l n="102">Let me report then all the god declared.</l>
+<l n="103">King Phoebus bids us straitly extirpate</l>
+<l n="104">A fell pollution that infests the land,</l>
+<l n="105">And no more harbor an inveterate sore.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="106">What expiation means he?  What's amiss?</l>
+
+<pb n="15"/>
+</sp><sp><speaker>Creon</speaker>
+<l n="107">Banishment, or the shedding blood for blood.</l>
+<l n="108">This stain of blood makes shipwreck of our state.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="109">Whom can he mean, the miscreant thus denounced?</l>
+
+</sp><sp><speaker>Creon</speaker>
+<l n="110">Before thou didst assume the helm of State,</l>
+<l n="111">The sovereign of this land was Laius.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="112">I heard as much, but never saw the man.</l>
+
+</sp><sp><speaker>Creon</speaker>
+<l n="113">He fell; and now the god's command is plain:</l>
+<l n="114">Punish his takers-off, whoe'er they be.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="115">Where are they?  Where in the wide world to find</l>
+<l n="116">The far, faint traces of a bygone crime?</l>
+
+</sp><sp><speaker>Creon</speaker>
+<l n="117">In this land, said the god; "who seeks shall find;</l>
+<l n="118">Who sits with folded hands or sleeps is blind."</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="119">Was he within his palace, or afield,</l>
+<l n="120">Or traveling, when Laius met his fate?</l>
+
+</sp><sp><speaker>Creon</speaker>
+<l n="121">Abroad; he started, so he told us, bound</l>
+<l n="122">For Delphi, but he never thence returned.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="123">Came there no news, no fellow-traveler</l>
+<l n="124">To give some clue that might be followed up?</l>
+
+</sp><sp><speaker>Creon</speaker>
+<l n="125">But one escape, who flying for dear life,</l>
+<l n="126">Could tell of all he saw but one thing sure.</l>
+
+<pb n="17"/>
+</sp><sp><speaker>Oedipus</speaker>
+<l n="127">And what was that?  One clue might lead us far,</l>
+<l n="128">With but a spark of hope to guide our quest.</l>
+
+</sp><sp><speaker>Creon</speaker>
+<l n="129">Robbers, he told us, not one bandit but</l>
+<l n="130">A troop of knaves, attacked and murdered him.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="131">Did any bandit dare so bold a stroke,</l>
+<l n="132">Unless indeed he were suborned from Thebes?</l>
+
+</sp><sp><speaker>Creon</speaker>
+<l n="133">So 'twas surmised, but none was found to avenge</l>
+<l n="134">His murder mid the trouble that ensued.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="135">What trouble can have hindered a full quest,</l>
+<l n="136">When royalty had fallen thus miserably?</l>
+
+</sp><sp><speaker>Creon</speaker>
+<l n="137">The riddling Sphinx compelled us to let slide</l>
+<l n="138">The dim past and attend to instant needs.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="139">Well, <hi rend="italic">I</hi> will start afresh and once again</l>
+<l n="140">Make dark things clear.  Right worthy the concern</l>
+<l n="141">Of Phoebus, worthy thine too, for the dead;</l>
+<l n="142">I also, as is meet, will lend my aid</l>
+<l n="143">To avenge this wrong to Thebes and to the god.</l>
+<l n="144">Not for some far-off kinsman, but myself,</l>
+<l n="145">Shall I expel this poison in the blood;</l>
+<l n="146">For whoso slew that king might have a mind</l>
+<l n="147">To strike me too with his assassin hand.</l>
+<l n="148">Therefore in righting him I serve myself.</l>
+<l n="149">Up, children, haste ye, quit these altar stairs,</l>
+<l n="150">Take hence your suppliant wands, go summon hither</l>
+<pb n="19"/>
+<l n="151">The Theban commons.  With the god's good help</l>
+<l n="152">Success is sure; 'tis ruin if we fail.</l>
+<l n="153"><stage type="exit">Exeunt OEDIPUS and CREON</stage></l>
+
+</sp><sp><speaker>Priest</speaker>
+<l n="154">Come, children, let us hence; these gracious words</l>
+<l n="155">Forestall the very purpose of our suit.</l>
+<l n="156">And may the god who sent this oracle</l>
+<l n="157">Save us withal and rid us of this pest.</l>
+<l n="158"><stage type="exit">Exeunt PRIEST and SUPPLIANTS</stage></l>
+
+</sp><sp><speaker>Chorus</speaker>
+<lg type="strophe" n="1">
+<l n="159">Sweet-voiced daughter of Zeus from thy gold-paved Pythian shrine</l>
+<l n="160">Wafted to Thebes divine,</l>
+<l n="161">What dost thou bring me?  My soul is racked and shivers with fear.</l>
+<l n="162">(Healer of Delos, hear!)</l>
+<l n="163">Hast thou some pain unknown before,</l>
+<l n="164">Or with the circling years renewest a penance of yore?</l>
+<l n="165">Offspring of golden Hope, thou voice immortal, O tell me.</l></lg>
+
+<lg type="antistrophe" n="1">
+<l n="166">First on Athene I call; O Zeus-born goddess, defend!</l>
+<l n="167">Goddess and sister, befriend,</l>
+<l n="168">Artemis, Lady of Thebes, high-throned in the midst of our mart!</l>
+<l n="169">Lord of the death-winged dart!</l>
+<l n="170">Your threefold aid I crave</l>
+<l n="171">From death and ruin our city to save.</l>
+<l n="172">If in the days of old when we nigh had perished, ye drave</l>
+<l n="173">From our land the fiery plague, be near us now and defend us!</l></lg>
+
+<pb n="21"/>
+<lg type="strophe" n="2">
+<l n="174">Ah me, what countless woes are mine!</l>
+<l n="175">All our host is in decline;</l>
+<l n="176">Weaponless my spirit lies.</l>
+<l n="177">Earth her gracious fruits denies;</l>
+<l n="178">Women wail in barren throes;</l>
+<l n="179">Life on life downstriken goes,</l>
+<l n="180">Swifter than the wind bird's flight,</l>
+<l n="181">Swifter than the Fire-God's might,</l>
+<l n="182">To the westering shores of Night.</l></lg>
+
+<lg type="antostrophe" n="2">
+<l n="183">Wasted thus by death on death</l>
+<l n="184">All our city perisheth.</l>
+<l n="185">Corpses spread infection round;</l>
+<l n="186">None to tend or mourn is found.</l>
+<l n="187">Wailing on the altar stair</l>
+<l n="188">Wives and grandams rend the air&mdash;</l>
+<l n="189">Long-drawn moans and piercing cries</l>
+<l n="190">Blent with prayers and litanies.</l>
+<l n="191">Golden child of Zeus, O hear</l>
+<l n="192">Let thine angel face appear!</l></lg>
+
+<lg type="strophe" n="3">
+<l n="193">And grant that Ares whose hot breath I feel,</l>
+<l n="194">Though without targe or steel</l>
+<l n="195">He stalks, whose voice is as the battle shout,</l>
+<l n="196">May turn in sudden rout,</l>
+<l n="197">To the unharbored Thracian waters sped,</l>
+<l n="198">Or Amphitrite's bed.</l>
+<l n="199">For what night leaves undone,</l>
+<l n="200">Smit by the morrow's sun</l>
+<l n="201">Perisheth.  Father Zeus, whose hand</l>
+<l n="202">Doth wield the lightning brand,</l>
+<l n="203">Slay him beneath thy levin bold, we pray,</l>
+<l n="204">Slay him, O slay!</l></lg>
+
+<pb n="23"/>
+<lg type="antistrophe" n="3">
+<l n="205">O that thine arrows too, Lycean King,</l>
+<l n="206">From that taut bow's gold string,</l>
+<l n="207">Might fly abroad, the champions of our rights;</l>
+<l n="208">Yea, and the flashing lights</l>
+<l n="209">Of Artemis, wherewith the huntress sweeps</l>
+<l n="210">Across the Lycian steeps.</l>
+<l n="211">Thee too I call with golden-snooded hair,</l>
+<l n="212">Whose name our land doth bear,</l>
+<l n="213">Bacchus to whom thy Maenads Evoe shout;</l>
+<l n="214">Come with thy bright torch, rout,</l>
+<l n="215">Blithe god whom we adore,</l>
+<l n="216">The god whom gods abhor.</l>
+<l n="217"><stage type="entrance">enter OEDIPUS.</stage></l></lg>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="218">Ye pray; 'tis well, but would ye hear my words</l>
+<l n="219">And heed them and apply the remedy,</l>
+<l n="220">Ye might perchance find comfort and relief.</l>
+<l n="221">Mind you, I speak as one who comes a stranger</l>
+<l n="222">To this report, no less than to the crime;</l>
+<l n="223">For how unaided could I track it far</l>
+<l n="224">Without a clue?  Which lacking (for too late</l>
+<l n="225">Was I enrolled a citizen of Thebes)</l>
+<l n="226">This proclamation I address to all:&mdash;</l>
+<l n="227">Thebans, if any knows the man by whom</l>
+<l n="228">Laius, son of Labdacus, was slain,</l>
+<l n="229">I summon him to make clean shrift to me.</l>
+<l n="230">And if he shrinks, let him reflect that thus</l>
+<l n="231">Confessing he shall 'scape the capital charge;</l>
+<l n="232">For the worst penalty that shall befall him</l>
+<l n="233">Is banishment&mdash;unscathed he shall depart.</l>
+<l n="234">But if an alien from a foreign land</l>
+<l n="235">Be known to any as the murderer,</l>
+<pb n="25"/>
+<l n="236">Let him who knows speak out, and he shall have</l>
+<l n="237">Due recompense from me and thanks to boot.</l>
+<l n="238">But if ye still keep silence, if through fear</l>
+<l n="239">For self or friends ye disregard my hest,</l>
+<l n="240">Hear what I then resolve; I lay my ban</l>
+<l n="241">On the assassin whosoe'er he be.</l>
+<l n="242">Let no man in this land, whereof I hold</l>
+<l n="243">The sovereign rule, harbor or speak to him;</l>
+<l n="244">Give him no part in prayer or sacrifice</l>
+<l n="245">Or lustral rites, but hound him from your homes.</l>
+<l n="246">For this is our defilement, so the god</l>
+<l n="247">Hath lately shown to me by oracles.</l>
+<l n="248">Thus as their champion I maintain the cause</l>
+<l n="249">Both of the god and of the murdered King.</l>
+<l n="250">And on the murderer this curse I lay</l>
+<l n="251">(On him and all the partners in his guilt):&mdash;</l>
+<l n="252">Wretch, may he pine in utter wretchedness!</l>
+<l n="253">And for myself, if with my privity</l>
+<l n="254">He gain admittance to my hearth, I pray</l>
+<l n="255">The curse I laid on others fall on me.</l>
+<l n="256">See that ye give effect to all my hest,</l>
+<l n="257">For my sake and the god's and for our land,</l>
+<l n="258">A desert blasted by the wrath of heaven.</l>
+<l n="259">For, let alone the god's express command,</l>
+<l n="260">It were a scandal ye should leave unpurged</l>
+<l n="261">The murder of a great man and your king,</l>
+<l n="262">Nor track it home.  And now that I am lord,</l>
+<l n="263">Successor to his throne, his bed, his wife,</l>
+<l n="264">(And had he not been frustrate in the hope</l>
+<l n="265">Of issue, common children of one womb</l>
+<l n="266">Had forced a closer bond twixt him and me,</l>
+<l n="267">But Fate swooped down upon him), therefore I</l>
+<pb n="27"/>
+<l n="268">His blood-avenger will maintain his cause</l>
+<l n="269">As though he were my sire, and leave no stone</l>
+<l n="270">Unturned to track the assassin or avenge</l>
+<l n="271">The son of Labdacus, of Polydore,</l>
+<l n="272">Of Cadmus, and Agenor first of the race.</l>
+<l n="273">And for the disobedient thus I pray:</l>
+<l n="274">May the gods send them neither timely fruits</l>
+<l n="275">Of earth, nor teeming increase of the womb,</l>
+<l n="276">But may they waste and pine, as now they waste,</l>
+<l n="277">Aye and worse stricken; but to all of you,</l>
+<l n="278">My loyal subjects who approve my acts,</l>
+<l n="279">May Justice, our ally, and all the gods</l>
+<l n="280">Be gracious and attend you evermore.</l>
+
+</sp><sp><speaker>Chorus</speaker>
+<l n="281">The oath thou profferest, sire, I take and swear.</l>
+<l n="282">I slew him not myself, nor can I name</l>
+<l n="283">The slayer.  For the quest, 'twere well, methinks</l>
+<l n="284">That Phoebus, who proposed the riddle, himself</l>
+<l n="285">Should give the answer&mdash;who the murderer was.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="286">Well argued; but no living man can hope</l>
+<l n="287">To force the gods to speak against their will.</l>
+
+</sp><sp><speaker>Chorus</speaker>
+<l n="288">May I then say what seems next best to me?</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="289">Aye, if there be a third best, tell it too.</l>
+
+</sp><sp><speaker>Chorus</speaker>
+<l n="290">My liege, if any man sees eye to eye</l>
+<l n="291">With our lord Phoebus, 'tis our prophet, lord</l>
+<l n="292">Teiresias; he of all men best might guide</l>
+<l n="293">A searcher of this matter to the light.</l>
+
+<pb n="29"/>
+</sp><sp><speaker>Oedipus</speaker>
+<l n="294">Here too my zeal has nothing lagged, for twice</l>
+<l n="295">At Creon's instance have I sent to fetch him,</l>
+<l n="296">And long I marvel why he is not here.</l>
+
+</sp><sp><speaker>Chorus</speaker>
+<l n="297">I mind me too of rumors long ago&mdash;</l>
+<l part="I" n="298">Mere gossip.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l part="F">Tell them, I would fain know all.</l>
+
+</sp><sp><speaker>Chorus</speaker>
+<l part="I" n="299">'Twas said he fell by travelers.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l part="F"> So I heard,</l>
+<l n="300">But none has seen the man who saw him fall.</l>
+
+</sp><sp><speaker>Chorus</speaker>
+<l n="301">Well, if he knows what fear is, he will quail</l>
+<l n="302">And flee before the terror of thy curse.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="303">Words scare not him who blenches not at deeds.</l>
+
+</sp><sp><speaker>Chorus</speaker>
+<l n="304">But here is one to arraign him.  Lo, at length</l>
+<l n="305">They bring the god-inspired seer in whom</l>
+<l n="306">Above all other men is truth inborn.</l>
+<l n="307"><stage type="entrance">Enter TEIRESIAS, led by a boy.</stage></l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="308">Teiresias, seer who comprehendest all,</l>
+<l n="309">Lore of the wise and hidden mysteries,</l>
+<l n="310">High things of heaven and low things of the earth,</l>
+<l n="311">Thou knowest, though thy blinded eyes see naught,</l>
+<l n="312">What plague infects our city; and we turn</l>
+<pb n="31"/>
+<l n="313">To thee, O seer, our one defense and shield.</l>
+<l n="314">The purport of the answer that the God</l>
+<l n="315">Returned to us who sought his oracle,</l>
+<l n="316">The messengers have doubtless told thee&mdash;how</l>
+<l n="317">One course alone could rid us of the pest,</l>
+<l n="318">To find the murderers of Laius,</l>
+<l n="319">And slay them or expel them from the land.</l>
+<l n="320">Therefore begrudging neither augury</l>
+<l n="321">Nor other divination that is thine,</l>
+<l n="322">O save thyself, thy country, and thy king,</l>
+<l n="323">Save all from this defilement of blood shed.</l>
+<l n="324">On thee we rest.  This is man's highest end,</l>
+<l n="325">To others' service all his powers to lend.</l>
+
+</sp><sp><speaker>Teiresias</speaker>
+<l n="326">Alas, alas, what misery to be wise</l>
+<l n="327">When wisdom profits nothing!  This old lore</l>
+<l n="328">I had forgotten; else I were not here.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="329">What ails thee?  Why this melancholy mood?</l>
+
+</sp><sp><speaker>Teiresias</speaker>
+<l n="330">Let me go home; prevent me not; 'twere best</l>
+<l n="331">That thou shouldst bear thy burden and I mine.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="332">For shame! no true-born Theban patriot</l>
+<l n="333">Would thus withhold the word of prophecy.</l>
+
+</sp><sp><speaker>Teiresias</speaker>
+<l n="334"><hi rend="italic">Thy</hi> words, O king, are wide of the mark, and I</l>
+<l part="I" n="335">For fear lest I too trip like thee...</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l part="F"> Oh speak,</l>
+<l n="336">Withhold not, I adjure thee, if thou know'st,</l>
+<l n="337">Thy knowledge.  We are all thy suppliants.</l>
+
+<pb n="33"/>
+</sp><sp><speaker>Teiresias</speaker>
+<l n="338">Aye, for ye all are witless, but my voice</l>
+<l n="339">Will ne'er reveal my miseries&mdash;or thine.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="340">What then, thou knowest, and yet willst not speak!</l>
+<l n="341">Wouldst thou betray us and destroy the State?</l>
+
+</sp><sp><speaker>Teiresias</speaker>
+<l n="342">I will not vex myself nor thee.  Why ask</l>
+<l n="343">Thus idly what from me thou shalt not learn?</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="344">Monster! thy silence would incense a flint.</l>
+<l n="345">Will nothing loose thy tongue?  Can nothing melt thee,</l>
+<l n="346">Or shake thy dogged taciturnity?</l>
+
+</sp><sp><speaker>Teiresias</speaker>
+<l n="347">Thou blam'st my mood and seest not thine own</l>
+<l n="348">Wherewith thou art mated; no, thou taxest me.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="349">And who could stay his choler when he heard</l>
+<l n="350">How insolently thou dost flout the State?</l>
+
+</sp><sp><speaker>Teiresias</speaker>
+<l n="351">Well, it will come what will, though I be mute.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="352">Since come it must, thy duty is to tell me.</l>
+
+</sp><sp><speaker>Teiresias</speaker>
+<l n="353">I have no more to say; storm as thou willst,</l>
+<l n="354">And give the rein to all thy pent-up rage.</l>
+
+<pb n="35"/>
+</sp><sp><speaker>Oedipus</speaker>
+<l n="355">Yea, I am wroth, and will not stint my words,</l>
+<l n="356">But speak my whole mind.  Thou methinks thou art he,</l>
+<l n="357">Who planned the crime, aye, and performed it too,</l>
+<l n="358">All save the assassination; and if thou</l>
+<l n="359">Hadst not been blind, I had been sworn to boot</l>
+<l n="360">That thou alone didst do the bloody deed.</l>
+
+</sp><sp><speaker>Teiresias</speaker>
+<l n="361">Is it so?  Then I charge thee to abide</l>
+<l n="362">By thine own proclamation; from this day</l>
+<l n="363">Speak not to these or me.  Thou art the man,</l>
+<l n="364">Thou the accursed polluter of this land.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="365">Vile slanderer, thou blurtest forth these taunts,</l>
+<l n="366">And think'st forsooth as seer to go scot free.</l>
+
+</sp><sp><speaker>Teiresias</speaker>
+<l n="367">Yea, I am free, strong in the strength of truth.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="368">Who was thy teacher? not methinks thy art.</l>
+
+</sp><sp><speaker>Teiresias</speaker>
+<l n="369">Thou, goading me against my will to speak.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="370">What speech? repeat it and resolve my doubt.</l>
+
+</sp><sp><speaker>Teiresias</speaker>
+<l n="371">Didst miss my sense wouldst thou goad me on?</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="372">I but half caught thy meaning; say it again.</l>
+
+</sp><sp><speaker>Teiresias</speaker>
+<l n="373">I say thou art the murderer of the man</l>
+<l part="I" n="374">Whose murderer thou pursuest.</l>
+
+<pb n="37"/>
+</sp><sp><speaker>Oedipus</speaker>
+<l part="F"> Thou shalt rue it</l>
+<l n="375">Twice to repeat so gross a calumny.</l>
+
+</sp><sp><speaker>Teiresias</speaker>
+<l n="376">Must I say more to aggravate thy rage?</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="377">Say all thou wilt; it will be but waste of breath.</l>
+
+</sp><sp><speaker>Teiresias</speaker>
+<l n="378">I say thou livest with thy nearest kin</l>
+<l n="379">In infamy, unwitting in thy shame.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="380">Think'st thou for aye unscathed to wag thy tongue?</l>
+
+</sp><sp><speaker>Teiresias</speaker>
+<l n="381">Yea, if the might of truth can aught prevail.</l>
+<l n="382">OEDIPUS</l>
+<l n="383">With other men, but not with thee, for thou</l>
+<l n="384">In ear, wit, eye, in everything art blind.</l>
+
+</sp><sp><speaker>Teiresias</speaker>
+<l n="385">Poor fool to utter gibes at me which all</l>
+<l n="386">Here present will cast back on thee ere long.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="387">Offspring of endless Night, thou hast no power</l>
+<l n="388">O'er me or any man who sees the sun.</l>
+
+</sp><sp><speaker>Teiresias</speaker>
+<l n="389">No, for thy weird is not to fall by me.</l>
+<l n="390">I leave to Apollo what concerns the god.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="391">Is this a plot of Creon, or thine own?</l>
+
+</sp><sp><speaker>Teiresias</speaker>
+<l n="392">Not Creon, thou thyself art thine own bane.</l>
+
+<pb n="39"/>
+</sp><sp><speaker>Oedipus</speaker>
+<l n="393">O wealth and empiry and skill by skill</l>
+<l n="394">Outwitted in the battlefield of life,</l>
+<l n="395">What spite and envy follow in your train!</l>
+<l n="396">See, for this crown the State conferred on me.</l>
+<l n="397">A gift, a thing I sought not, for this crown</l>
+<l n="398">The trusty Creon, my familiar friend,</l>
+<l n="399">Hath lain in wait to oust me and suborned</l>
+<l n="400">This mountebank, this juggling charlatan,</l>
+<l n="401">This tricksy beggar-priest, for gain alone</l>
+<l n="402">Keen-eyed, but in his proper art stone-blind.</l>
+<l n="403">Say, sirrah, hast thou ever proved thyself</l>
+<l n="404">A prophet?  When the riddling Sphinx was here</l>
+<l n="405">Why hadst thou no deliverance for this folk?</l>
+<l n="406">And yet the riddle was not to be solved</l>
+<l n="407">By guess-work but required the prophet's art;</l>
+<l n="408">Wherein thou wast found lacking; neither birds</l>
+<l n="409">Nor sign from heaven helped thee, but <hi rend="italic">I</hi> came,</l>
+<l n="410">The simple Oedipus; <hi rend="italic">I</hi> stopped her mouth</l>
+<l n="411">By mother wit, untaught of auguries.</l>
+<l n="412">This is the man whom thou wouldst undermine,</l>
+<l n="413">In hope to reign with Creon in my stead.</l>
+<l n="414">Methinks that thou and thine abettor soon</l>
+<l n="415">Will rue your plot to drive the scapegoat out.</l>
+<l n="416">Thank thy grey hairs that thou hast still to learn</l>
+<l n="417">What chastisement such arrogance deserves.</l>
+
+</sp><sp><speaker>Chorus</speaker>
+<l n="418">To us it seems that both the seer and thou,</l>
+<l n="419">O Oedipus, have spoken angry words.</l>
+<l n="420">This is no time to wrangle but consult</l>
+<l n="421">How best we may fulfill the oracle.</l>
+
+<pb n="41"/>
+</sp><sp><speaker>Teiresias</speaker>
+<l n="422">King as thou art, free speech at least is mine</l>
+<l n="423">To make reply; in this I am thy peer.</l>
+<l n="424">I own no lord but Loxias; him I serve</l>
+<l n="425">And ne'er can stand enrolled as Creon's man.</l>
+<l n="426">Thus then I answer:  since thou hast not spared</l>
+<l n="427">To twit me with my blindness&mdash;thou hast eyes,</l>
+<l n="428">Yet see'st not in what misery thou art fallen,</l>
+<l n="429">Nor where thou dwellest nor with whom for mate.</l>
+<l n="430">Dost know thy lineage?  Nay, thou know'st it not,</l>
+<l n="431">And all unwitting art a double foe</l>
+<l n="432">To thine own kin, the living and the dead;</l>
+<l n="433">Aye and the dogging curse of mother and sire</l>
+<l n="434">One day shall drive thee, like a two-edged sword,</l>
+<l n="435">Beyond our borders, and the eyes that now</l>
+<l n="436">See clear shall henceforward endless night.</l>
+<l n="437">Ah whither shall thy bitter cry not reach,</l>
+<l n="438">What crag in all Cithaeron but shall then</l>
+<l n="439">Reverberate thy wail, when thou hast found</l>
+<l n="440">With what a hymeneal thou wast borne</l>
+<l n="441">Home, but to no fair haven, on the gale!</l>
+<l n="442">Aye, and a flood of ills thou guessest not</l>
+<l n="443">Shall set thyself and children in one line.</l>
+<l n="444">Flout then both Creon and my words, for none</l>
+<l n="445">Of mortals shall be striken worse than thou.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="446">Must I endure this fellow's insolence?</l>
+<l n="447">A murrain on thee!  Get thee hence!  Begone</l>
+<l n="448">Avaunt! and never cross my threshold more.</l>
+
+</sp><sp><speaker>Teiresias</speaker>
+<l n="449">I ne'er had come hadst thou not bidden me.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="450">I know not thou wouldst utter folly, else</l>
+<l n="451">Long hadst thou waited to be summoned here.</l>
+
+<pb n="43"/>
+</sp><sp><speaker>Teiresias</speaker>
+<l n="452">Such am I&mdash;as it seems to thee a fool,</l>
+<l n="453">But to the parents who begat thee, wise.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="454">What sayest thou&mdash;"parents"?  Who begat me, speak?</l>
+
+</sp><sp><speaker>Teiresias</speaker>
+<l n="455">This day shall be thy birth-day, and thy grave.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="456">Thou lov'st to speak in riddles and dark words.</l>
+
+</sp><sp><speaker>Teiresias</speaker>
+<l n="457">In reading riddles who so skilled as thou?</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="458">Twit me with that wherein my greatness lies.</l>
+
+</sp><sp><speaker>Teiresias</speaker>
+<l n="459">And yet this very greatness proved thy bane.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="460">No matter if I saved the commonwealth.</l>
+
+</sp><sp><speaker>Teiresias</speaker>
+<l n="461">'Tis time I left thee.  Come, boy, take me home.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="462">Aye, take him quickly, for his presence irks</l>
+<l n="463">And lets me; gone, thou canst not plague me more.</l>
+
+</sp><sp><speaker>Teiresias</speaker>
+<lg>
+<l n="464">I go, but first will tell thee why I came.</l>
+<l n="465">Thy frown I dread not, for thou canst not harm me.</l>
+<l n="466">Hear then:  this man whom thou hast sought to arrest</l>
+<l n="467">With threats and warrants this long while, the wretch</l>
+<l n="468">Who murdered Laius&mdash;that man is here.</l>
+<l n="469">He passes for an alien in the land</l>
+<l n="470">But soon shall prove a Theban, native born.</l>
+<l n="471">And yet his fortune brings him little joy;</l>
+<l n="472">For blind of seeing, clad in beggar's weeds,</l>
+<pb n="45"/>
+<l n="473">For purple robes, and leaning on his staff,</l>
+<l n="474">To a strange land he soon shall grope his way.</l>
+<l n="475">And of the children, inmates of his home,</l>
+<l n="476">He shall be proved the brother and the sire,</l>
+<l n="477">Of her who bare him son and husband both,</l>
+<l n="478">Co-partner, and assassin of his sire.</l>
+<l n="479">Go in and ponder this, and if thou find</l>
+<l n="480">That I have missed the mark, henceforth declare</l>
+<l n="481">I have no wit nor skill in prophecy.</l>
+<l n="482"><stage type="exit">Exeunt TEIRESIAS and OEDIPUS</stage></l>
+</lg>
+
+</sp><sp><speaker>Chorus</speaker>
+<lg type="strophe" n="1">
+<l n="483">Who is he by voice immortal named from Pythia's rocky cell,</l>
+<l n="484">Doer of foul deeds of bloodshed, horrors that no tongue can tell?</l>
+<l n="485">A foot for flight he needs</l>
+<l n="486">Fleeter than storm-swift steeds,</l>
+<l n="487">For on his heels doth follow,</l>
+<l n="488">Armed with the lightnings of his Sire, Apollo.</l>
+<l n="489">Like sleuth-hounds too</l>
+<l n="490">The Fates pursue.</l></lg>
+
+<lg type="antistrophe" n="1">
+<l n="491">Yea, but now flashed forth the summons from Parnassus' snowy peak,</l>
+<l n="492">"Near and far the undiscovered doer of this murder seek!"</l>
+<l n="493">Now like a sullen bull he roves</l>
+<l n="494">Through forest brakes and upland groves,</l>
+<l n="495">And vainly seeks to fly</l>
+<l n="496">The doom that ever nigh</l>
+<l n="497">Flits o'er his head,</l>
+<l n="498">Still by the avenging Phoebus sped,</l>
+<l n="499">The voice divine,</l>
+<l n="500">From Earth's mid shrine.</l></lg>
+
+<pb n="47"/>
+<lg type="strophe" n="2">
+<l n="501">Sore perplexed am I by the words of the master seer.</l>
+<l n="502">Are they true, are they false?  I know not and bridle my tongue for fear,</l>
+<l n="503">Fluttered with vague surmise; nor present nor future is clear.</l>
+<l n="504">Quarrel of ancient date or in days still near know I none</l>
+<l n="505">Twixt the Labdacidan house and our ruler, Polybus' son.</l>
+<l n="506">Proof is there none:  how then can I challenge our King's good name,</l>
+<l n="507">How in a blood-feud join for an untracked deed of shame?</l></lg>
+
+<lg type="antistrophe" n="2">
+<l n="508">All wise are Zeus and Apollo, and nothing is hid from their ken;</l>
+<l n="509">They are gods; and in wits a man may surpass his fellow men;</l>
+<l n="510">But that a mortal seer knows more than I know&mdash;where</l>
+<l n="511">Hath this been proven?  Or how without sign assured, can I blame</l>
+<l n="512">Him who saved our State when the winged songstress came,</l>
+<l n="513">Tested and tried in the light of us all, like gold assayed?</l>
+<l n="514">How can I now assent when a crime is on Oedipus laid?</l>
+</lg>
+
+</sp><sp><speaker>Creon</speaker>
+<l n="515">Friends, countrymen, I learn King Oedipus</l>
+<l n="516">Hath laid against me a most grievous charge,</l>
+<pb n="49"/>
+<l n="517">And come to you protesting.  If he deems</l>
+<l n="518">That I have harmed or injured him in aught</l>
+<l n="519">By word or deed in this our present trouble,</l>
+<l n="520">I care not to prolong the span of life,</l>
+<l n="521">Thus ill-reputed; for the calumny</l>
+<l n="522">Hits not a single blot, but blasts my name,</l>
+<l n="523">If by the general voice I am denounced</l>
+<l n="524">False to the State and false by you my friends.</l>
+
+</sp><sp><speaker>Chorus</speaker>
+<l n="525">This taunt, it well may be, was blurted out</l>
+<l n="526">In petulance, not spoken advisedly.</l>
+
+</sp><sp><speaker>Creon</speaker>
+<l n="527">Did any dare pretend that it was I</l>
+<l n="528">Prompted the seer to utter a forged charge?</l>
+
+</sp><sp><speaker>Chorus</speaker>
+<l n="529">Such things were said; with what intent I know not.</l>
+
+</sp><sp><speaker>Creon</speaker>
+<l n="530">Were not his wits and vision all astray</l>
+<l n="531">When upon me he fixed this monstrous charge?</l>
+
+</sp><sp><speaker>Chorus</speaker>
+<l n="532">I know not; to my sovereign's acts I am blind.</l>
+<l n="533">But lo, he comes to answer for himself.</l>
+<l n="534"><stage type="entrance">Enter OEDIPUS.</stage></l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="535">Sirrah, what mak'st thou here?  Dost thou presume</l>
+<l n="536">To approach my doors, thou brazen-faced rogue,</l>
+<l n="537">My murderer and the filcher of my crown?</l>
+<l n="538">Come, answer this, didst thou detect in me</l>
+<l n="539">Some touch of cowardice or witlessness,</l>
+<l n="540">That made thee undertake this enterprise?</l>
+<l n="541">I seemed forsooth too simple to perceive</l>
+<l n="542">The serpent stealing on me in the dark,</l>
+<pb n="51"/>
+<l n="543">Or else too weak to scotch it when I saw.</l>
+<l n="544">This <hi rend="italic">thou</hi> art witless seeking to possess</l>
+<l n="545">Without a following or friends the crown,</l>
+<l n="546">A prize that followers and wealth must win.</l>
+
+</sp><sp><speaker>Creon</speaker>
+<l n="547">Attend me.  Thou hast spoken, 'tis my turn</l>
+<l n="548">To make reply.  Then having heard me, judge.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="549">Thou art glib of tongue, but I am slow to learn</l>
+<l n="550">Of thee; I know too well thy venomous hate.</l>
+
+</sp><sp><speaker>Creon</speaker>
+<l n="551">First I would argue out this very point.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="552">O argue not that thou art not a rogue.</l>
+
+</sp><sp><speaker>Creon</speaker>
+<l n="553">If thou dost count a virtue stubbornness,</l>
+<l n="554">Unschooled by reason, thou art much astray.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="555">If thou dost hold a kinsman may be wronged,</l>
+<l n="556">And no pains follow, thou art much to seek.</l>
+
+</sp><sp><speaker>Creon</speaker>
+<l n="557">Therein thou judgest rightly, but this wrong</l>
+<l n="558">That thou allegest&mdash;tell me what it is.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="559">Didst thou or didst thou not advise that I</l>
+<l part="I" n="560">Should call the priest?</l>
+
+</sp><sp><speaker>Creon</speaker>
+<l part="F"> Yes, and I stand to it.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="561">Tell me how long is it since Laius...</l>
+
+<pb n="53"/>
+</sp><sp><speaker>Creon</speaker>
+<l n="562">Since Laius...?  I follow not thy drift.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="563">By violent hands was spirited away.</l>
+
+</sp><sp><speaker>Creon</speaker>
+<l n="564">In the dim past, a many years agone.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="565">Did the same prophet then pursue his craft?</l>
+
+</sp><sp><speaker>Creon</speaker>
+<l n="566">Yes, skilled as now and in no less repute.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="567">Did he at that time ever glance at me?</l>
+
+</sp><sp><speaker>Creon</speaker>
+<l n="568">Not to my knowledge, not when I was by.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="569">But was no search and inquisition made?</l>
+
+</sp><sp><speaker>Creon</speaker>
+<l n="570">Surely full quest was made, but nothing learnt.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="571">Why failed the seer to tell his story <hi rend="italic">then</hi>?</l>
+
+</sp><sp><speaker>Creon</speaker>
+<l n="572">I know not, and not knowing hold my tongue.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="573">This much thou knowest and canst surely tell.</l>
+
+</sp><sp><speaker>Creon</speaker>
+<l n="574">What's mean'st thou?  All I know I will declare.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="575">But for thy prompting never had the seer</l>
+<l n="576">Ascribed to me the death of Laius.</l>
+
+</sp><sp><speaker>Creon</speaker>
+<l n="577">If so he thou knowest best; but I</l>
+<l n="578">Would put thee to the question in my turn.</l>
+
+<pb n="55"/>
+</sp><sp><speaker>Oedipus</speaker>
+<l n="579">Question and prove me murderer if thou canst.</l>
+
+</sp><sp><speaker>Creon</speaker>
+<l n="580">Then let me ask thee, didst thou wed my sister?</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="581">A fact so plain I cannot well deny.</l>
+
+</sp><sp><speaker>Creon</speaker>
+<l n="582">And as thy consort queen she shares the throne?</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="583">I grant her freely all her heart desires.</l>
+
+</sp><sp><speaker>Creon</speaker>
+<l n="584">And with you twain I share the triple rule?</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="585">Yea, and it is that proves thee a false friend.</l>
+
+</sp><sp><speaker>Creon</speaker>
+<l n="586">Not so, if thou wouldst reason with thyself,</l>
+<l n="587">As I with myself.  First, I bid thee think,</l>
+<l n="588">Would any mortal choose a troubled reign</l>
+<l n="589">Of terrors rather than secure repose,</l>
+<l n="590">If the same power were given him?  As for me,</l>
+<l n="591">I have no natural craving for the name</l>
+<l n="592">Of king, preferring to do kingly deeds,</l>
+<l n="593">And so thinks every sober-minded man.</l>
+<l n="594">Now all my needs are satisfied through thee,</l>
+<l n="595">And I have naught to fear; but were I king,</l>
+<l n="596">My acts would oft run counter to my will.</l>
+<l n="597">How could a title then have charms for me</l>
+<l n="598">Above the sweets of boundless influence?</l>
+<l n="599">I am not so infatuate as to grasp</l>
+<l n="600">The shadow when I hold the substance fast.</l>
+<l n="601">Now all men cry me Godspeed! wish me well,</l>
+<l n="602">And every suitor seeks to gain my ear,</l>
+<l n="603">If he would hope to win a grace from thee.</l>
+<pb n="57"/>
+<l n="604">Why should I leave the better, choose the worse?</l>
+<l n="605">That were sheer madness, and I am not mad.</l>
+<l n="606">No such ambition ever tempted me,</l>
+<l n="607">Nor would I have a share in such intrigue.</l>
+<l n="608">And if thou doubt me, first to Delphi go,</l>
+<l n="609">There ascertain if my report was true</l>
+<l n="610">Of the god's answer; next investigate</l>
+<l n="611">If with the seer I plotted or conspired,</l>
+<l n="612">And if it prove so, sentence me to death,</l>
+<l n="613">Not by thy voice alone, but mine and thine.</l>
+<l n="614">But O condemn me not, without appeal,</l>
+<l n="615">On bare suspicion.  'Tis not right to adjudge</l>
+<l n="616">Bad men at random good, or good men bad.</l>
+<l n="617">I would as lief a man should cast away</l>
+<l n="618">The thing he counts most precious, his own life,</l>
+<l n="619">As spurn a true friend.  Thou wilt learn in time</l>
+<l n="620">The truth, for time alone reveals the just;</l>
+<l n="621">A villain is detected in a day.</l>
+
+</sp><sp><speaker>Chorus</speaker>
+<l n="622">To one who walketh warily his words</l>
+<l n="623">Commend themselves; swift counsels are not sure.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="624">When with swift strides the stealthy plotter stalks</l>
+<l n="625">I must be quick too with my counterplot.</l>
+<l n="626">To wait his onset passively, for him</l>
+<l n="627">Is sure success, for me assured defeat.</l>
+
+</sp><sp><speaker>Creon</speaker>
+<l n="628">What then's thy will?  To banish me the land?</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="629">I would not have thee banished, no, but dead,</l>
+<l n="630">That men may mark the wages envy reaps.</l>
+
+<pb n="59"/>
+</sp><sp><speaker>Creon</speaker>
+<l n="631">I see thou wilt not yield, nor credit me.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="632">None but a fool would credit such as thou.</l>
+
+</sp><sp><speaker>Creon</speaker>
+<l part="I" n="633">Thou art not wise.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l part="F"> Wise for myself at least.</l>
+
+</sp><sp><speaker>Creon</speaker>
+<l part="I" n="634">Why not for me too?</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l part="F"> Why for such a knave?</l>
+
+</sp><sp><speaker>Creon</speaker>
+<l part="I" n="635">Suppose thou lackest sense.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l part="F"> Yet kings must rule.</l>
+
+</sp><sp><speaker>Creon</speaker>
+<l part="I" n="636">Not if they rule ill.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l part="F"> Oh my Thebans, hear him!</l>
+
+</sp><sp><speaker>Creon</speaker>
+<l n="637">Thy Thebans? am not I a Theban too?</l>
+
+</sp><sp><speaker>Chorus</speaker>
+<l n="638">Cease, princes; lo there comes, and none too soon,</l>
+<l n="639">Jocasta from the palace.  Who so fit</l>
+<l n="640">As peacemaker to reconcile your feud?</l>
+<l n="641"><stage type="entrance">Enter JOCASTA.</stage></l>
+
+</sp><sp><speaker>Jocasta</speaker>
+<l n="642">Misguided princes, why have ye upraised</l>
+<l n="643">This wordy wrangle?  Are ye not ashamed,</l>
+<l n="644">While the whole land lies striken, thus to voice</l>
+<l n="645">Your private injuries?  Go in, my lord;</l>
+<pb n="61"/>
+<l n="646">Go home, my brother, and forebear to make</l>
+<l n="647">A public scandal of a petty grief.</l>
+
+</sp><sp><speaker>Creon</speaker>
+<l n="648">My royal sister, Oedipus, thy lord,</l>
+<l n="649">Hath bid me choose (O dread alternative!)</l>
+<l n="650">An outlaw's exile or a felon's death.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="651">Yes, lady; I have caught him practicing</l>
+<l n="652">Against my royal person his vile arts.</l>
+
+</sp><sp><speaker>Creon</speaker>
+<l n="653">May I ne'er speed but die accursed, if I</l>
+<l n="654">In any way am guilty of this charge.</l>
+
+</sp><sp><speaker>Jocasta</speaker>
+<l n="655">Believe him, I adjure thee, Oedipus,</l>
+<l n="656">First for his solemn oath's sake, then for mine,</l>
+<l n="657">And for thine elders' sake who wait on thee.</l>
+
+</sp>
+<sp>
+<speaker>Chorus</speaker>
+<lg n="1">
+<l n="658">Hearken, King, reflect, we pray thee, but not stubborn but relent.</l>
+</lg>
+</sp><sp><speaker>Oedipus</speaker>
+<l n="659">Say to what should I consent?</l>
+
+</sp><sp><speaker>Chorus</speaker>
+<l n="660">Respect a man whose probity and troth</l>
+<l n="661">Are known to all and now confirmed by oath.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l part="I" n="662">Dost know what grace thou cravest?</l>
+
+</sp><sp><speaker>Chorus</speaker>
+<l part="F"> Yea, I know.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="663">Declare it then and make thy meaning plain.</l>
+
+<pb n="63"/>
+</sp><sp><speaker>Chorus</speaker>
+<l n="664">Brand not a friend whom babbling tongues assail;</l>
+<l n="665">Let not suspicion 'gainst his oath prevail.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="666">Bethink you that in seeking this ye seek</l>
+<l n="667">In very sooth my death or banishment?</l>
+
+</sp><sp><speaker>Chorus</speaker>
+<l n="668">No, by the leader of the host divine!</l>
+<lg n="2">
+<l n="669">Witness, thou Sun, such thought was never mine,</l>
+<l n="670">Unblest, unfriended may I perish,</l>
+<l n="671">If ever I such wish did cherish!</l>
+<l n="672">But O my heart is desolate</l>
+<l n="673">Musing on our striken State,</l>
+<l n="674">Doubly fall'n should discord grow</l>
+<l n="675">Twixt you twain, to crown our woe.</l>
+ </lg>
+</sp><sp><speaker>Oedipus</speaker>
+<l n="676">Well, let him go, no matter what it cost me,</l>
+<l n="677">Or certain death or shameful banishment,</l>
+<l n="678">For your sake I relent, not his; and him,</l>
+<l n="679">Where'er he be, my heart shall still abhor.</l>
+
+</sp><sp><speaker>Creon</speaker>
+<l n="680">Thou art as sullen in thy yielding mood</l>
+<l n="681">As in thine anger thou wast truculent.</l>
+<l n="682">Such tempers justly plague themselves the most.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l part="I" n="683">Leave me in peace and get thee gone.</l>
+
+</sp><sp><speaker>Creon</speaker>
+<l part="F">I go,</l>
+<l n="684">By thee misjudged, but justified by these.</l>
+<l n="685"><stage type="exit">Exeunt CREON</stage></l>
+
+</sp><sp><speaker>Chorus</speaker>
+<lg type="antistrophe" n="1">
+<l n="686">Lady, lead indoors thy consort; wherefore longer here delay?</l>
+</lg>
+<pb n="65"/>
+</sp><sp><speaker>Jocasta</speaker>
+<l n="687">Tell me first how rose the fray.</l>
+
+</sp><sp><speaker>Chorus</speaker>
+<l n="688">Rumors bred unjust suspicious and injustice rankles sore.</l>
+
+</sp><sp><speaker>Jocasta</speaker>
+<l part="I" n="689">Were both at fault?</l>
+
+</sp><sp><speaker>Chorus</speaker>
+<l part="M">Both.</l>
+
+</sp><sp><speaker>Jocasta</speaker>
+<l part="F">What was the tale?</l>
+
+</sp><sp><speaker>Chorus</speaker>
+<l n="690">Ask me no more.  The land is sore distressed;</l>
+<l n="691">'Twere better sleeping ills to leave at rest.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="692">Strange counsel, friend!  I know thou mean'st me well,</l>
+<l n="693">And yet would'st mitigate and blunt my zeal.</l>
+
+</sp><sp><speaker>Chorus</speaker>
+<lg type="antisptrophe" n="2">
+<l n="694">King, I say it once again,</l>
+<l n="695">Witless were I proved, insane,</l>
+<l n="696">If I lightly put away</l>
+<l n="697">Thee my country's prop and stay,</l>
+<l n="698">Pilot who, in danger sought,</l>
+<l n="699">To a quiet haven brought</l>
+<l n="700">Our distracted State; and now</l>
+<l n="701">Who can guide us right but thou?</l>
+ </lg>
+</sp><sp><speaker>Jocasta</speaker>
+<l n="702">Let me too, I adjure thee, know, O king,</l>
+<l n="703">What cause has stirred this unrelenting wrath.</l>
+
+<pb n="67"/>
+</sp><sp><speaker>Oedipus</speaker>
+<l n="704">I will, for thou art more to me than these.</l>
+<l n="705">Lady, the cause is Creon and his plots.</l>
+
+</sp><sp><speaker>Jocasta</speaker>
+<l n="706">But what provoked the quarrel? make this clear.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="707">He points me out as Laius' murderer.</l>
+
+</sp><sp><speaker>Jocasta</speaker>
+<l n="708">Of his own knowledge or upon report?</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="709">He is too cunning to commit himself,</l>
+<l n="710">And makes a mouthpiece of a knavish seer.</l>
+
+</sp><sp><speaker>Jocasta</speaker>
+<l n="711">Then thou mayest ease thy conscience on that score.</l>
+<l n="712">Listen and I'll convince thee that no man</l>
+<l n="713">Hath scot or lot in the prophetic art.</l>
+<l n="714">Here is the proof in brief.  An oracle</l>
+<l n="715">Once came to Laius (I will not say</l>
+<l n="716">'Twas from the Delphic god himself, but from</l>
+<l n="717">His ministers) declaring he was doomed</l>
+<l n="718">To perish by the hand of his own son,</l>
+<l n="719">A child that should be born to him by me.</l>
+<l n="720">Now Laius&mdash;so at least report affirmed&mdash;</l>
+<l n="721">Was murdered on a day by highwaymen,</l>
+<l n="722">No natives, at a spot where three roads meet.</l>
+<l n="723">As for the child, it was but three days old,</l>
+<l n="724">When Laius, its ankles pierced and pinned</l>
+<l n="725">Together, gave it to be cast away</l>
+<l n="726">By others on the trackless mountain side.</l>
+<l n="727">So then Apollo brought it not to pass</l>
+<l n="728">The child should be his father's murderer,</l>
+<l n="729">Or the dread terror find accomplishment,</l>
+<l n="730">And Laius be slain by his own son.</l>
+<pb n="69"/>
+<l n="731">Such was the prophet's horoscope.  O king,</l>
+<l n="732">Regard it not.  Whate'er the god deems fit</l>
+<l n="733">To search, himself unaided will reveal.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="734">What memories, what wild tumult of the soul</l>
+<l n="735">Came o'er me, lady, as I heard thee speak!</l>
+
+</sp><sp><speaker>Jocasta</speaker>
+<l n="736">What mean'st thou?  What has shocked and startled thee?</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="737">Methought I heard thee say that Laius</l>
+<l n="738">Was murdered at the meeting of three roads.</l>
+
+</sp><sp><speaker>Jocasta</speaker>
+<l n="739">So ran the story that is current still.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="740">Where did this happen?  Dost thou know the place?</l>
+
+</sp><sp><speaker>Jocasta</speaker>
+<l n="741">Phocis the land is called; the spot is where</l>
+<l n="742">Branch roads from Delphi and from Daulis meet.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="743">And how long is it since these things befell?</l>
+
+</sp><sp><speaker>Jocasta</speaker>
+<l n="744">'Twas but a brief while were thou wast proclaimed</l>
+<l n="745">Our country's ruler that the news was brought.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="746">O Zeus, what hast thou willed to do with me!</l>
+
+</sp><sp><speaker>Jocasta</speaker>
+<l n="747">What is it, Oedipus, that moves thee so?</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="748">Ask me not yet; tell me the build and height</l>
+<l n="749">Of Laius?  Was he still in manhood's prime?</l>
+
+<pb n="71"/>
+</sp><sp><speaker>Jocasta</speaker>
+<l n="750">Tall was he, and his hair was lightly strewn</l>
+<l n="751">With silver; and not unlike thee in form.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="752">O woe is me!  Mehtinks unwittingly</l>
+<l n="753">I laid but now a dread curse on myself.</l>
+
+</sp><sp><speaker>Jocasta</speaker>
+<l n="754">What say'st thou?  When I look upon thee, my king,</l>
+<l part="I" n="755">I tremble.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l part="F">'Tis a dread presentiment</l>
+<l n="756">That in the end the seer will prove not blind.</l>
+<l n="757">One further question to resolve my doubt.</l>
+
+</sp><sp><speaker>Jocasta</speaker>
+<l n="758">I quail; but ask, and I will answer all.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="759">Had he but few attendants or a train</l>
+<l n="760">Of armed retainers with him, like a prince?</l>
+
+</sp><sp><speaker>Jocasta</speaker>
+<l n="761">They were but five in all, and one of them</l>
+<l n="762">A herald; Laius in a mule-car rode.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="763">Alas! 'tis clear as noonday now.  But say,</l>
+<l n="764">Lady, who carried this report to Thebes?</l>
+
+</sp><sp><speaker>Jocasta</speaker>
+<l n="765">A serf, the sole survivor who returned.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="766">Haply he is at hand or in the house?</l>
+
+</sp><sp><speaker>Jocasta</speaker>
+<l n="767">No, for as soon as he returned and found</l>
+<l n="768">Thee reigning in the stead of Laius slain,</l>
+<l n="769">He clasped my hand and supplicated me</l>
+<pb n="73"/>
+<l n="770">To send him to the alps and pastures, where</l>
+<l n="771">He might be farthest from the sight of Thebes.</l>
+<l n="772">And so I sent him.  'Twas an honest slave</l>
+<l n="773">And well deserved some better recompense.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="774">Fetch him at once.  I fain would see the man.</l>
+
+</sp><sp><speaker>Jocasta</speaker>
+<l n="775">He shall be brought; but wherefore summon him?</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="776">Lady, I fear my tongue has overrun</l>
+<l n="777">Discretion; therefore I would question him.</l>
+
+</sp><sp><speaker>Jocasta</speaker>
+<l n="778">Well, he shall come, but may not I too claim</l>
+<l n="779">To share the burden of thy heart, my king?</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="780">And thou shalt not be frustrate of thy wish.</l>
+<l n="781">Now my imaginings have gone so far.</l>
+<l n="782">Who has a higher claim that thou to hear</l>
+<l n="783">My tale of dire adventures?  Listen then.</l>
+<l n="784">My sire was Polybus of Corinth, and</l>
+<l n="785">My mother Merope, a Dorian;</l>
+<l n="786">And I was held the foremost citizen,</l>
+<l n="787">Till a strange thing befell me, strange indeed,</l>
+<l n="788">Yet scarce deserving all the heat it stirred.</l>
+<l n="789">A roisterer at some banquet, flown with wine,</l>
+<l n="790">Shouted "Thou art not true son of thy sire."</l>
+<l n="791">It irked me, but I stomached for the nonce</l>
+<l n="792">The insult; on the morrow I sought out</l>
+<l n="793">My mother and my sire and questioned them.</l>
+<l n="794">They were indignant at the random slur</l>
+<l n="795">Cast on my parentage and did their best</l>
+<l n="796">To comfort me, but still the venomed barb</l>
+<l n="797">Rankled, for still the scandal spread and grew.</l>
+<pb n="75"/>
+<l n="798">So privily without their leave I went</l>
+<l n="799">To Delphi, and Apollo sent me back</l>
+<l n="800">Baulked of the knowledge that I came to seek.</l>
+<l n="801">But other grievous things he prophesied,</l>
+<l n="802">Woes, lamentations, mourning, portents dire;</l>
+<l n="803">To wit I should defile my mother's bed</l>
+<l n="804">And raise up seed too loathsome to behold,</l>
+<l n="805">And slay the father from whose loins I sprang.</l>
+<l n="806">Then, lady,&mdash;thou shalt hear the very truth&mdash;</l>
+<l n="807">As I drew near the triple-branching roads,</l>
+<l n="808">A herald met me and a man who sat</l>
+<l n="809">In a car drawn by colts&mdash;as in thy tale&mdash;</l>
+<l n="810">The man in front and the old man himself</l>
+<l n="811">Threatened to thrust me rudely from the path,</l>
+<l n="812">Then jostled by the charioteer in wrath</l>
+<l n="813">I struck him, and the old man, seeing this,</l>
+<l n="814">Watched till I passed and from his car brought down</l>
+<l n="815">Full on my head the double-pointed goad.</l>
+<l n="816">Yet was I quits with him and more; one stroke</l>
+<l n="817">Of my good staff sufficed to fling him clean</l>
+<l n="818">Out of the chariot seat and laid him prone.</l>
+<l n="819">And so I slew them every one.  But if</l>
+<l n="820">Betwixt this stranger there was aught in common</l>
+<l n="821">With Laius, who more miserable than I,</l>
+<l n="822">What mortal could you find more god-abhorred?</l>
+<l n="823">Wretch whom no sojourner, no citizen</l>
+<pb n="77"/>
+<l n="824">May harbor or address, whom all are bound</l>
+<l n="825">To harry from their homes.  And this same curse</l>
+<l n="826">Was laid on me, and laid by none but me.</l>
+<l n="827">Yea with  these hands all gory I pollute</l>
+<l n="828">The bed of him I slew.  Say, am I vile?</l>
+<l n="829">Am I not utterly unclean, a wretch</l>
+<l n="830">Doomed to be banished, and in banishment</l>
+<l n="831">Forgo the sight of all my dearest ones,</l>
+<l n="832">And never tread again my native earth;</l>
+<l n="833">Or else to wed my mother and slay my sire,</l>
+<l n="834">Polybus, who begat me and upreared?</l>
+<l n="835">If one should say, this is the handiwork</l>
+<l n="836">Of some inhuman power, who could blame</l>
+<l n="837">His judgment?  But, ye pure and awful gods,</l>
+<l n="838">Forbid, forbid that I should see that day!</l>
+<l n="839">May I be blotted out from living men</l>
+<l n="840">Ere such a plague spot set on me its brand!</l>
+
+</sp><sp><speaker>Chorus</speaker>
+<l n="841">We too, O king, are troubled; but till thou</l>
+<l n="842">Hast questioned the survivor, still hope on.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="843">My hope is faint, but still enough survives</l>
+<l n="844">To bid me bide the coming of this herd.</l>
+
+</sp><sp><speaker>Jocasta</speaker>
+<l n="845">Suppose him here, what wouldst thou learn of him?</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="846">I'll tell thee, lady; if his tale agrees</l>
+<l n="847">With thine, I shall have 'scaped calamity.</l>
+
+</sp><sp><speaker>Jocasta</speaker>
+<l n="848">And what of special import did I say?</l>
+
+<pb n="79"/>
+</sp><sp><speaker>Oedipus</speaker>
+<l n="849">In thy report of what the herdsman said</l>
+<l n="850">Laius was slain by robbers; now if he</l>
+<l n="851">Still speaks of robbers, not a robber, I</l>
+<l n="852">Slew him not; "one" with "many" cannot square.</l>
+<l n="853">But if he says one lonely wayfarer,</l>
+<l n="854">The last link wanting to my guilt is forged.</l>
+
+</sp><sp><speaker>Jocasta</speaker>
+<l n="855">Well, rest assured, his tale ran thus at first,</l>
+<l n="856">Nor can he now retract what then he said;</l>
+<l n="857">Not I alone but all our townsfolk heard it.</l>
+<l n="858">E'en should he vary somewhat in his story,</l>
+<l n="859">He cannot make the death of Laius</l>
+<l n="860">In any wise jump with the oracle.</l>
+<l n="861">For Loxias said expressly he was doomed</l>
+<l n="862">To die by my child's hand, but he, poor babe,</l>
+<l n="863">He shed no blood, but perished first himself.</l>
+<l n="864">So much for divination.  Henceforth I</l>
+<l n="865">Will look for signs neither to right nor left.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="866">Thou reasonest well.  Still I would have thee send</l>
+<l n="867">And fetch the bondsman hither.  See to it.</l>
+
+</sp><sp><speaker>Jocasta</speaker>
+<l n="868">That will I straightway.  Come, let us within.</l>
+<l n="869">I would do nothing that my lord mislikes.</l>
+<l n="870"><stage type="entrance">Exeunt OEDIPUS and JOCASTA</stage></l>
+
+</sp><sp><speaker>Chorus</speaker>
+<lg n="1">
+<l n="871">My lot be still to lead</l>
+<l n="872">The life of innocence and fly</l>
+<l n="873">Irreverence in word or deed,</l>
+<l n="874">To follow still those laws ordained on high</l>
+<l n="875">Whose birthplace is the bright ethereal sky</l>
+<l n="876">No mortal birth they own,</l>
+<l n="877">Olympus their progenitor alone:</l>
+<pb n="81"/>
+<l n="878">Ne'er shall they slumber in oblivion cold,</l>
+<l n="879">The god in them is strong and grows not old.</l>
+ </lg>
+<lg type="antistrophe" n="1">
+<l n="880">Of insolence is bred</l>
+<l n="881">The tyrant; insolence full blown,</l>
+<l n="882">With empty riches surfeited,</l>
+<l n="883">Scales the precipitous height and grasps the throne.</l>
+<l n="884">Then topples o'er and lies in ruin prone;</l>
+<l n="885">No foothold on that dizzy steep.</l>
+<l n="886">But O may Heaven the true patriot keep</l>
+<l n="887">Who burns with emulous zeal to serve the State.</l>
+<l n="888">God is my help and hope, on him I wait.</l>
+</lg>
+<lg n="2">
+<l n="889">But the proud sinner, or in word or deed,</l>
+<l n="890">That will not Justice heed,</l>
+<l n="891">Nor reverence the shrine</l>
+<l n="892">Of images divine,</l>
+<l n="893">Perdition seize his vain imaginings,</l>
+<l n="894">If, urged by greed profane,</l>
+<l n="895">He grasps at ill-got gain,</l>
+<l n="896">And lays an impious hand on holiest things.</l>
+<l n="897">Who when such deeds are done</l>
+<l n="898">Can hope heaven's bolts to shun?</l>
+<l n="899">If sin like this to honor can aspire,</l>
+<l n="900">Why dance I still and lead the sacred choir?</l>
+ </lg>
+<pb n="83"/>
+<lg type="antistrophe" n="2">
+<l n="901">No more I'll seek earth's central oracle,</l>
+<l n="902">Or Abae's hallowed cell,</l>
+<l n="903">Nor to Olympia bring</l>
+<l n="904">My votive offering.</l>
+<l n="905">If before all God's truth be not bade plain.</l>
+<l n="906">O Zeus, reveal thy might,</l>
+<l n="907">King, if thou'rt named aright</l>
+<l n="908">Omnipotent, all-seeing, as of old;</l>
+<l n="909">For Laius is forgot;</l>
+<l n="910">His weird, men heed it not;</l>
+<l n="911">Apollo is forsook and faith grows cold.</l></lg>
+<l n="912"><stage type="entrance">Enter JOCASTA.</stage></l>
+
+</sp><sp><speaker>Jocasta</speaker>
+<l n="913">My lords, ye look amazed to see your queen</l>
+<l n="914">With wreaths and gifts of incense in her hands.</l>
+<l n="915">I had a mind to visit the high shrines,</l>
+<l n="916">For Oedipus is overwrought, alarmed</l>
+<l n="917">With terrors manifold.  He will not use</l>
+<l n="918">His past experience, like a man of sense,</l>
+<l n="919">To judge the present need, but lends an ear</l>
+<l n="920">To any croaker if he augurs ill.</l>
+<l n="921">Since then my counsels naught avail, I turn</l>
+<l n="922">To thee, our present help in time of trouble,</l>
+<l n="923">Apollo, Lord Lycean, and to thee</l>
+<l n="924">My prayers and supplications here I bring.</l>
+<l n="925">Lighten us, lord, and cleanse us from this curse!</l>
+<l n="926">For now we all are cowed like mariners</l>
+<l n="927">Who see their helmsman dumbstruck in the storm.</l>
+<l n="928"><stage type="entrance">Enter Corinthian MESSENGER.</stage></l>
+
+</sp><sp><speaker>Messenger</speaker>
+<l n="929">My masters, tell me where the palace is</l>
+<l n="930">Of Oedipus; or better, where's the king.</l>
+
+<pb n="85"/>
+</sp><sp><speaker>Chorus</speaker>
+<l n="931">Here is the palace and he bides within;</l>
+<l n="932">This is his queen the mother of his children.</l>
+
+</sp><sp><speaker>Messenger</speaker>
+<l n="933">All happiness attend her and the house,</l>
+<l n="934">Blessed is her husband and her marriage-bed.</l>
+
+</sp><sp><speaker>Jocasta</speaker>
+<l n="935">My greetings to thee, stranger; thy fair words</l>
+<l n="936">Deserve a like response.  But tell me why</l>
+<l n="937">Thou comest&mdash;what thy need or what thy news.</l>
+
+</sp><sp><speaker>Messenger</speaker>
+<l n="938">Good for thy consort and the royal house.</l>
+
+</sp><sp><speaker>Jocasta</speaker>
+<l n="939">What may it be?  Whose messenger art thou?</l>
+
+</sp><sp><speaker>Messenger</speaker>
+<l n="940">The Isthmian commons have resolved to make</l>
+<l n="941">Thy husband king&mdash;so 'twas reported there.</l>
+
+</sp><sp><speaker>Jocasta</speaker>
+<l n="942">What! is not aged Polybus still king?</l>
+
+</sp><sp><speaker>Messenger</speaker>
+<l n="943">No, verily; he's dead and in his grave.</l>
+
+</sp><sp><speaker>Jocasta</speaker>
+<l n="944">What! is he dead, the sire of Oedipus?</l>
+
+</sp><sp><speaker>Messenger</speaker>
+<l n="945">If I speak falsely, may I die myself.</l>
+
+<pb n="87"/>
+</sp><sp><speaker>Jocasta</speaker>
+<l n="946">Quick, maiden, bear these tidings to my lord.</l>
+<l n="947">Ye god-sent oracles, where stand ye now!</l>
+<l n="948">This is the man whom Oedipus long shunned,</l>
+<l n="949">In dread to prove his murderer; and now</l>
+<l n="950">He dies in nature's course, not by his hand.</l>
+<l n="951"><stage type="entrance">Enter OEDIPUS.</stage></l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="952">My wife, my queen, Jocasta, why hast thou</l>
+<l part="I" n="953">Summoned me from my palace?</l>
+
+</sp><sp><speaker>Jocasta</speaker>
+<l part="F">Hear this man,</l>
+<l n="954">And as thou hearest judge what has become</l>
+<l n="955">Of all those awe-inspiring oracles.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="956">Who is this man, and what his news for me?</l>
+
+</sp><sp><speaker>Jocasta</speaker>
+<l n="957">He comes from Corinth and his message this:</l>
+<l n="958">Thy father Polybus hath passed away.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="959">What? let me have it, stranger, from thy mouth.</l>
+
+</sp><sp><speaker>Messenger</speaker>
+<l n="960">If I must first make plain beyond a doubt</l>
+<l n="961">My message, know that Polybus is dead.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="962">By treachery, or by sickness visited?</l>
+
+</sp><sp><speaker>Messenger</speaker>
+<l n="963">One touch will send an old man to his rest.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="964">So of some malady he died, poor man.</l>
+
+</sp><sp><speaker>Messenger</speaker>
+<l n="965">Yes, having measured the full span of years.</l>
+
+<pb n="89"/>
+</sp><sp><speaker>Oedipus</speaker>
+<l n="966">Out on it, lady! why should one regard</l>
+<l n="967">The Pythian hearth or birds that scream i' the air?</l>
+<l n="968">Did they not point at me as doomed to slay</l>
+<l n="969">My father? but he's dead and in his grave</l>
+<l n="970">And here am I who ne'er unsheathed a sword;</l>
+<l n="971">Unless the longing for his absent son</l>
+<l n="972">Killed him and so <hi rend="italic">I</hi> slew him in a sense.</l>
+<l n="973">But, as they stand, the oracles are dead&mdash;</l>
+<l n="974">Dust, ashes, nothing, dead as Polybus.</l>
+
+</sp><sp><speaker>Jocasta</speaker>
+<l n="975">Say, did not I foretell this long ago?</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="976">Thou didst:  but I was misled by my fear.</l>
+
+</sp><sp><speaker>Jocasta</speaker>
+<l n="977">Then let I no more weigh upon thy soul.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="978">Must I not fear my mother's marriage bed.</l>
+
+</sp><sp><speaker>Jocasta</speaker>
+<l n="979">Why should a mortal man, the sport of chance,</l>
+<l n="980">With no assured foreknowledge, be afraid?</l>
+<l n="981">Best live a careless life from hand to mouth.</l>
+<l n="982">This wedlock with thy mother fear not thou.</l>
+<l n="983">How oft it chances that in dreams a man</l>
+<l n="984">Has wed his mother!  He who least regards</l>
+<l n="985">Such brainsick phantasies lives most at ease.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="986">I should have shared in full thy confidence,</l>
+<l n="987">Were not my mother living; since she lives</l>
+<l n="988">Though half convinced I still must live in dread.</l>
+
+</sp><sp><speaker>Jocasta</speaker>
+<l n="989">And yet thy sire's death lights out darkness much.</l>
+
+<pb n="91"/>
+</sp><sp><speaker>Oedipus</speaker>
+<l n="990">Much, but my fear is touching her who lives.</l>
+
+</sp><sp><speaker>Messenger</speaker>
+<l n="991">Who may this woman be whom thus you fear?</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="992">Merope, stranger, wife of Polybus.</l>
+
+</sp><sp><speaker>Messenger</speaker>
+<l n="993">And what of her can cause you any fear?</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="994">A heaven-sent oracle of dread import.</l>
+
+</sp><sp><speaker>Messenger</speaker>
+<l n="995">A mystery, or may a stranger hear it?</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="996">Aye, 'tis no secret.  Loxias once foretold</l>
+<l n="997">That I should mate with mine own mother, and shed</l>
+<l n="998">With my own hands the blood of my own sire.</l>
+<l n="999">Hence Corinth was for many a year to me</l>
+<l n="1000">A home distant; and I trove abroad,</l>
+<l n="1001">But missed the sweetest sight, my parents' face.</l>
+
+</sp><sp><speaker>Messenger</speaker>
+<l n="1002">Was this the fear that exiled thee from home?</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="1003">Yea, and the dread of slaying my own sire.</l>
+
+</sp><sp><speaker>Messenger</speaker>
+<l n="1004">Why, since I came to give thee pleasure, King,</l>
+<l n="1005">Have I not rid thee of this second fear?</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="1006">Well, thou shalt have due guerdon for thy pains.</l>
+
+</sp><sp><speaker>Messenger</speaker>
+<l n="1007">Well, I confess what chiefly made me come</l>
+<l n="1008">Was hope to profit by thy coming home.</l>
+
+<pb n="93"/>
+</sp><sp><speaker>Oedipus</speaker>
+<l n="1009">Nay, I will ne'er go near my parents more.</l>
+
+</sp><sp><speaker>Messenger</speaker>
+<l n="1010">My son, 'tis plain, thou know'st not what thou doest.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="1011">How so, old man?  For heaven's sake tell me all.</l>
+
+</sp><sp><speaker>Messenger</speaker>
+<l n="1012">If this is why thou dreadest to return.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="1013">Yea, lest the god's word be fulfilled in me.</l>
+
+</sp><sp><speaker>Messenger</speaker>
+<l n="1014">Lest through thy parents thou shouldst be accursed?</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="1015">This and none other is my constant dread.</l>
+
+</sp><sp><speaker>Messenger</speaker>
+<l n="1016">Dost thou not know thy fears are baseless all?</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="1017">How baseless, if I am their very son?</l>
+
+</sp><sp><speaker>Messenger</speaker>
+<l n="1018">Since Polybus was naught to thee in blood.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="1019">What say'st thou? was not Polybus my sire?</l>
+
+</sp><sp><speaker>Messenger</speaker>
+<l n="1020">As much thy sire as I am, and no more.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="1021">My sire no more to me than one who is naught?</l>
+
+</sp><sp><speaker>Messenger</speaker>
+<l n="1022">Since I begat thee not, no more did he.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="1023">What reason had he then to call me son?</l>
+
+<pb n="95"/>
+</sp><sp><speaker>Messenger</speaker>
+<l n="1024">Know that he took thee from my hands, a gift.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="1025">Yet, if no child of his, he loved me well.</l>
+
+</sp><sp><speaker>Messenger</speaker>
+<l n="1026">A childless man till then, he warmed to thee.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="1027">A foundling or a purchased slave, this child?</l>
+
+</sp><sp><speaker>Messenger</speaker>
+<l n="1028">I found thee in Cithaeron's wooded glens.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="1029">What led thee to explore those upland glades?</l>
+
+</sp><sp><speaker>Messenger</speaker>
+<l n="1030">My business was to tend the mountain flocks.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="1031">A vagrant shepherd journeying for hire?</l>
+
+</sp><sp><speaker>Messenger</speaker>
+<l n="1032">True, but thy savior in that hour, my son.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="1033">My savior? from what harm? what ailed me then?</l>
+
+</sp><sp><speaker>Messenger</speaker>
+<l n="1034">Those ankle joints are evidence enow.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="1035">Ah, why remind me of that ancient sore?</l>
+
+</sp><sp><speaker>Messenger</speaker>
+<l n="1036">I loosed the pin that riveted thy feet.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="1037">Yes, from my cradle that dread brand I bore.</l>
+
+</sp><sp><speaker>Messenger</speaker>
+<l n="1038">Whence thou deriv'st the name that still is thine.</l>
+
+<pb n="97"/>
+</sp><sp><speaker>Oedipus</speaker>
+<l n="1039">Who did it?  I adjure thee, tell me who</l>
+<l part="I" n="1040">Say, was it father, mother?</l>
+
+</sp><sp><speaker>Messenger</speaker>
+<l part="F">I know not.</l>
+<l n="1041">The man from whom I had thee may know more.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="1042">What, did another find me, not thyself?</l>
+
+</sp><sp><speaker>Messenger</speaker>
+<l n="1043">Not I; another shepherd gave thee me.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="1044">Who was he?  Would'st thou know again the man?</l>
+
+</sp><sp><speaker>Messenger</speaker>
+<l n="1045">He passed indeed for one of Laius' house.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="1046">The king who ruled the country long ago?</l>
+
+</sp><sp><speaker>Messenger</speaker>
+<l n="1047">The same:  he was a herdsman of the king.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="1048">And is he living still for me to see him?</l>
+
+</sp><sp><speaker>Messenger</speaker>
+<l n="1049">His fellow-countrymen should best know that.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="1050">Doth any bystander among you know</l>
+<l n="1051">The herd he speaks of, or by seeing him</l>
+<l n="1052">Afield or in the city? answer straight!</l>
+<l n="1053">The hour hath come to clear this business up.</l>
+
+</sp><sp><speaker>Chorus</speaker>
+<l n="1054">Methinks he means none other than the hind</l>
+<l n="1055">Whom thou anon wert fain to see; but that</l>
+<l n="1056">Our queen Jocasta best of all could tell.</l>
+
+<pb n="99"/>
+</sp><sp><speaker>Oedipus</speaker>
+<l n="1057">Madam, dost know the man we sent to fetch?</l>
+<l n="1058">Is the same of whom the stranger speaks?</l>
+
+</sp><sp><speaker>Jocasta</speaker>
+<l n="1059">Who is the man?  What matter?  Let it be.</l>
+<l n="1060">'Twere waste of thought to weigh such idle words.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="1061">No, with such guiding clues I cannot fail</l>
+<l n="1062">To bring to light the secret of my birth.</l>
+
+</sp><sp><speaker>Jocasta</speaker>
+<l n="1063">Oh, as thou carest for thy life, give o'er</l>
+<l n="1064">This quest.  Enough the anguish <hi rend="italic">I</hi> endure.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="1065">Be of good cheer; though I be proved the son</l>
+<l n="1066">Of a bondwoman, aye, through three descents</l>
+<l n="1067">Triply a slave, thy honor is unsmirched.</l>
+
+</sp><sp><speaker>Jocasta</speaker>
+<l n="1068">Yet humor me, I pray thee; do not this.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="1069">I cannot; I must probe this matter home.</l>
+
+</sp><sp><speaker>Jocasta</speaker>
+<l n="1070">'Tis for thy sake I advise thee for the best.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="1071">I grow impatient of this best advice.</l>
+
+</sp><sp><speaker>Jocasta</speaker>
+<l n="1072">Ah mayst thou ne'er discover who thou art!</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="1073">Go, fetch me here the herd, and leave yon woman</l>
+<l n="1074">To glory in her pride of ancestry.</l>
+
+<pb n="101"/>
+</sp><sp><speaker>Jocasta</speaker>
+<l n="1075">O woe is thee, poor wretch!  With that last word</l>
+<l n="1076">I leave thee, henceforth silent evermore.</l>
+<l n="1077"><stage type="exit">Exit JOCASTA</stage></l>
+
+</sp><sp><speaker>Chorus</speaker>
+<l n="1078">Why, Oedipus, why stung with passionate grief</l>
+<l n="1079">Hath the queen thus departed?  Much I fear</l>
+<l n="1080">From this dead calm will burst a storm of woes.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="1081">Let the storm burst, my fixed resolve still holds,</l>
+<l n="1082">To learn my lineage, be it ne'er so low.</l>
+<l n="1083">It may be she with all a woman's pride</l>
+<l n="1084">Thinks scorn of my base parentage.  But I</l>
+<l n="1085">Who rank myself as Fortune's favorite child,</l>
+<l n="1086">The giver of good gifts, shall not be shamed.</l>
+<l n="1087">She is my mother and the changing moons</l>
+<l n="1088">My brethren, and with them I wax and wane.</l>
+<l n="1089">Thus sprung why should I fear to trace my birth?</l>
+<l n="1090">Nothing can make me other than I am.</l>
+
+</sp><sp><speaker>Chorus</speaker>
+<lg n="1">
+<l n="1091">If my soul prophetic err not, if my wisdom aught avail,</l>
+<l n="1092">Thee, Cithaeron, I shall hail,</l>
+<l n="1093">As the nurse and foster-mother of our Oedipus shall greet</l>
+<l n="1094">Ere tomorrow's full moon rises, and exalt thee as is meet.</l>
+<l n="1095">Dance and song shall hymn thy praises, lover of our royal race.</l>
+<l n="1096">Phoebus, may my words find grace!</l></lg>
+
+<pb n="103"/>
+<lg type="antistrophe" n="1">
+<l n="1097">Child,  who bare thee, nymph or goddess? sure thy sure was more than man,</l>
+<l n="1098">Haply the hill-roamer Pan.</l>
+<l n="1099">Of did Loxias beget thee, for he haunts the upland wold;</l>
+<l n="1100">Or Cyllene's lord, or Bacchus, dweller on the hilltops cold?</l>
+<l n="1101">Did some Heliconian Oread give him thee, a new-born joy?</l>
+<l n="1102">Nymphs with whom he love to toy?</l>
+</lg>
+</sp>
+<sp><speaker>Oedipus</speaker>
+<l n="1103">Elders, if I, who never yet before</l>
+<l n="1104">Have met the man, may make a guess, methinks</l>
+<l n="1105">I see the herdsman who we long have sought;</l>
+<l n="1106">His time-worn aspect matches with the years</l>
+<l n="1107">Of yonder aged messenger; besides</l>
+<l n="1108">I seem to recognize the men who bring him</l>
+<l n="1109">As servants of my own.  But you, perchance,</l>
+<l n="1110">Having in past days known or seen the herd,</l>
+<l n="1111">May better by sure knowledge my surmise.</l>
+
+</sp><sp><speaker>Chorus</speaker>
+<l n="1112">I recognize him; one of Laius' house;</l>
+<l n="1113">A simple hind, but true as any man.</l>
+<l n="1114"><stage type="entrance">Enter HERDSMAN.</stage></l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="1115">Corinthian, stranger, I address thee first,</l>
+<l part="I" n="1116">Is this the man thou meanest!</l>
+
+</sp><sp><speaker>Messenger</speaker>
+<l part="F">This is he.</l>
+
+<pb n="105"/>
+</sp><sp><speaker>Oedipus</speaker>
+<l n="1117">And now old man, look up and answer all</l>
+<l n="1118">I ask thee.  Wast thou once of Laius' house?</l>
+
+</sp><sp><speaker>Herdsman</speaker>
+<l n="1119">I was, a thrall, not purchased but home-bred.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="1120">What was thy business? how wast thou employed?</l>
+
+</sp><sp><speaker>Herdsman</speaker>
+<l n="1121">The best part of my life I tended sheep.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="1122">What were the pastures thou didst most frequent?</l>
+
+</sp><sp><speaker>Herdsman</speaker>
+<l part="I" n="1123">Cithaeron and the neighboring alps.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l part="F">Then there</l>
+<l n="1124">Thou must have known yon man, at least by fame?</l>
+
+</sp><sp><speaker>Herdsman</speaker>
+<l n="1125">Yon man? in what way? what man dost thou mean?</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="1126">The man here, having met him in past times...</l>
+
+</sp><sp><speaker>Herdsman</speaker>
+<l n="1127">Off-hand I cannot call him well to mind.</l>
+
+</sp><sp><speaker>Messenger</speaker>
+<l n="1128">No wonder, master.  But I will revive</l>
+<l n="1129">His blunted memories.  Sure he can recall</l>
+<l n="1130">What time together both we drove our flocks,</l>
+<l n="1131">He two, I one, on the Cithaeron range,</l>
+<l n="1132">For three long summers; I his mate from spring</l>
+<l n="1133">Till rose Arcturus; then in winter time</l>
+<l n="1134">I led mine home, he his to Laius' folds.</l>
+<l n="1135">Did these things happen as I say, or no?</l>
+
+<pb n="107"/>
+</sp><sp><speaker>Herdsman</speaker>
+<l n="1136">'Tis long ago, but all thou say'st is true.</l>
+
+</sp><sp><speaker>Messenger</speaker>
+<l n="1137">Well, thou mast then remember giving me</l>
+<l n="1138">A child to rear as my own foster-son?</l>
+
+</sp><sp><speaker>Herdsman</speaker>
+<l n="1139">Why dost thou ask this question?  What of that?</l>
+
+</sp><sp><speaker>Messenger</speaker>
+<l n="1140">Friend, he that stands before thee was that child.</l>
+
+</sp><sp><speaker>Herdsman</speaker>
+<l n="1141">A plague upon thee!  Hold thy wanton tongue!</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="1142">Softly, old man, rebuke him not; thy words</l>
+<l n="1143">Are more deserving chastisement than his.</l>
+
+</sp><sp><speaker>Herdsman</speaker>
+<l n="1144">O best of masters, what is my offense?</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="1145">Not answering what he asks about the child.</l>
+
+</sp><sp><speaker>Herdsman</speaker>
+<l n="1146">He speaks at random, babbles like a fool.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="1147">If thou lack'st grace to speak, I'll loose thy tongue.</l>
+
+</sp><sp><speaker>Herdsman</speaker>
+<l n="1148">For mercy's sake abuse not an old man.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="1149">Arrest the villain, seize and pinion him!</l>
+
+</sp><sp><speaker>Herdsman</speaker>
+<l n="1150">Alack, alack!</l>
+<l n="1151">What have I done? what wouldst thou further learn?</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="1152">Didst give this man the child of whom he asks?</l>
+
+<pb n="109"/>
+</sp><sp><speaker>Herdsman</speaker>
+<l n="1153">I did; and would that I had died that day!</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="1154">And die thou shalt unless thou tell the truth.</l>
+
+</sp><sp><speaker>Herdsman</speaker>
+<l n="1155">But, if I tell it, I am doubly lost.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="1156">The knave methinks will still prevaricate.</l>
+
+</sp><sp><speaker>Herdsman</speaker>
+<l n="1157">Nay, I confessed I gave it long ago.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="1158">Whence came it? was it thine, or given to thee?</l>
+
+</sp><sp><speaker>Herdsman</speaker>
+<l n="1159">I had it from another, 'twas not mine.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="1160">From whom of these our townsmen, and what house?</l>
+
+</sp><sp><speaker>Herdsman</speaker>
+<l n="1161">Forbear for God's sake, master, ask no more.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="1162">If I must question thee again, thou'rt lost.</l>
+
+</sp><sp><speaker>Herdsman</speaker>
+<l n="1163">Well then&mdash;it was a child of Laius' house.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="1164">Slave-born or one of Laius' own race?</l>
+
+</sp><sp><speaker>Herdsman</speaker>
+<l n="1165">Ah me!</l>
+<l n="1166">I stand upon the perilous edge of speech.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="1167">And I of hearing, but I still must hear.</l>
+
+</sp><sp><speaker>Herdsman</speaker>
+<l n="1168">Know then the child was by repute his own,</l>
+<l n="1169">But she within, thy consort best could tell.</l>
+
+<pb n="111"/>
+</sp><sp><speaker>Oedipus</speaker>
+<l part="I" n="1170">What! she, she gave it thee?</l>
+
+</sp><sp><speaker>Herdsman</speaker>
+<l part="F">'Tis so, my king.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l part="I" n="1171">With what intent?</l>
+
+</sp><sp><speaker>Herdsman</speaker>
+<l part="F">To make away with it.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l part="I" n="1172">What, she its mother.</l>
+
+</sp><sp><speaker>Herdsman</speaker>
+<l part="F">Fearing a dread weird.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l part="I" n="1173">What weird?</l>
+
+</sp><sp><speaker>Herdsman</speaker>
+<l part="F">'Twas told that he should slay his sire.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="1174">What didst thou give it then to this old man?</l>
+
+</sp><sp><speaker>Herdsman</speaker>
+<l n="1175">Through pity, master, for the babe.  I thought</l>
+<l n="1176">He'd take it to the country whence he came;</l>
+<l n="1177">But he preserved it for the worst of woes.</l>
+<l n="1178">For if thou art in sooth what this man saith,</l>
+<l n="1179">God pity thee! thou wast to misery born.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="1180">Ah me! ah me! all brought to pass, all true!</l>
+<l n="1181">O light, may I behold thee nevermore!</l>
+<l n="1182">I stand a wretch, in birth, in wedlock cursed,</l>
+<l n="1183">A parricide, incestuously, triply cursed!</l>
+<l n="1184"><stage type="exit">Exit OEDIPUS</stage></l>
+
+<pb n="113"/>
+</sp><sp><speaker>Chorus</speaker>
+<lg n="1">
+<l n="1185">Races of mortal man</l>
+<l n="1186">Whose life is but a span,</l>
+<l n="1187">I count ye but the shadow of a shade!</l>
+<l n="1188">For he who most doth know</l>
+<l n="1189">Of bliss, hath but the show;</l>
+<l n="1190">A moment, and the visions pale and fade.</l>
+<l n="1191">Thy fall, O Oedipus, thy piteous fall</l>
+<l n="1192">Warns me none born of women blest to call.</l></lg>
+
+<lg type="antistrophe" n="1">
+<l n="1193">For he of marksmen best,</l>
+<l n="1194">O Zeus, outshot the rest,</l>
+<l n="1195">And won the prize supreme of wealth and power.</l>
+<l n="1196">By him the vulture maid</l>
+<l n="1197">Was quelled, her witchery laid;</l>
+<l n="1198">He rose our savior and the land's strong tower.</l>
+<l n="1199">We hailed thee king and from that day adored</l>
+<l n="1200">Of mighty Thebes the universal lord.</l></lg>
+
+<lg n="2">
+<l n="1201">O heavy hand of fate!</l>
+<l n="1202">Who now more desolate,</l>
+<l n="1203">Whose tale more sad than thine, whose lot more dire?</l>
+<l n="1204">O Oedipus, discrowned head,</l>
+<l n="1205">Thy cradle was thy marriage bed;</l>
+<l n="1206">One harborage sufficed for son and sire.</l>
+<l n="1207">How could the soil thy father eared so long</l>
+<l n="1208">Endure to bear in silence such a wrong?</l></lg>
+
+<pb n="115"/>
+<lg type="antistrophe" n="2">
+<l n="1209">All-seeing Time hath caught</l>
+<l n="1210">Guilt, and to justice brought</l>
+<l n="1211">The son and sire commingled in one bed.</l>
+<l n="1212">O child of Laius' ill-starred race</l>
+<l n="1213">Would I had ne'er beheld thy face;</l>
+<l n="1214">I raise for thee a dirge as o'er the dead.</l>
+<l n="1215">Yet, sooth to say, through thee I drew new breath,</l>
+<l n="1216">And now through thee I feel a second death.</l></lg>
+<l n="1217"><stage type="entrance">Enter SECOND MESSENGER.</stage></l>
+
+</sp><sp><speaker>Second Messenger</speaker>
+<l n="1218">Most grave and reverend senators of Thebes,</l>
+<l n="1219">What Deeds ye soon must hear, what sights behold</l>
+<l n="1220">How will ye mourn, if, true-born patriots,</l>
+<l n="1221">Ye reverence still the race of Labdacus!</l>
+<l n="1222">Not Ister nor all Phasis' flood, I ween,</l>
+<l n="1223">Could wash away the blood-stains from this house,</l>
+<l n="1224">The ills it shrouds or soon will bring to light,</l>
+<l n="1225">Ills wrought of malice, not unwittingly.</l>
+<l n="1226">The worst to bear are self-inflicted wounds.</l>
+
+</sp><sp><speaker>Chorus</speaker>
+<l n="1227">Grievous enough for all our tears and groans</l>
+<l n="1228">Our past calamities; what canst thou add?</l>
+
+</sp><sp><speaker>Second Messenger</speaker>
+<l n="1229">My tale is quickly told and quickly heard.</l>
+<l n="1230">Our sovereign lady queen Jocasta's dead.</l>
+
+</sp><sp><speaker>Chorus</speaker>
+<l n="1231">Alas, poor queen! how came she by her death?</l>
+
+<pb n="117"/>
+</sp><sp><speaker>Second Messenger</speaker>
+<l n="1232">By her own hand.  And all the horror of it,</l>
+<l n="1233">Not having seen, yet cannot comprehend.</l>
+<l n="1234">Nathless, as far as my poor memory serves,</l>
+<l n="1235">I will relate the unhappy lady's woe.</l>
+<l n="1236">When in her frenzy she had passed inside</l>
+<l n="1237">The vestibule, she hurried straight to win</l>
+<l n="1238">The bridal-chamber, clutching at her hair</l>
+<l n="1239">With both her hands, and, once within the room,</l>
+<l n="1240">She shut the doors behind her with a crash.</l>
+<l n="1241">"Laius," she cried, and called her husband dead</l>
+<l n="1242">Long, long ago; her thought was of that child</l>
+<l n="1243">By him begot, the son by whom the sire</l>
+<l n="1244">Was murdered and the mother left to breed</l>
+<l n="1245">With her own seed, a monstrous progeny.</l>
+<l n="1246">Then she bewailed the marriage bed whereon</l>
+<l n="1247">Poor wretch, she had conceived a double brood,</l>
+<l n="1248">Husband by husband, children by her child.</l>
+<l n="1249">What happened after that I cannot tell,</l>
+<l n="1250">Nor how the end befell, for with a shriek</l>
+<l n="1251">Burst on us Oedipus; all eyes were fixed</l>
+<l n="1252">On Oedipus, as up and down he strode,</l>
+<l n="1253">Nor could we mark her agony to the end.</l>
+<l n="1254">For stalking to and fro "A sword!" he cried,</l>
+<l n="1255">"Where is the wife, no wife, the teeming womb</l>
+<l n="1256">That bore a double harvest, me and mine?"</l>
+<l n="1257">And in his frenzy some supernal power</l>
+<l n="1258">(No mortal, surely, none of us who watched him)</l>
+<l n="1259">Guided his footsteps; with a terrible shriek,</l>
+<l n="1260">As though one beckoned him, he crashed against</l>
+<l n="1261">The folding doors, and from their staples forced</l>
+<l n="1262">The wrenched bolts and hurled himself within.</l>
+<l n="1263">Then we beheld the woman hanging there,</l>
+<l n="1264">A running noose entwined about her neck.</l>
+<pb n="119"/>
+<l n="1265">But when he saw her, with a maddened roar</l>
+<l n="1266">He loosed the cord; and when her wretched corpse</l>
+<l n="1267">Lay stretched on earth, what followed&mdash;O 'twas dread!</l>
+<l n="1268">He tore the golden brooches that upheld</l>
+<l n="1269">Her queenly robes, upraised them high and smote</l>
+<l n="1270">Full on his eye-balls, uttering words like these:</l>
+<l n="1271">"No more shall ye behold such sights of woe,</l>
+<l n="1272">Deeds I have suffered and myself have wrought;</l>
+<l n="1273">Henceforward quenched in darkness shall ye see</l>
+<l n="1274">Those ye should ne'er have seen; now blind to those</l>
+<l n="1275">Whom, when I saw, I vainly yearned to know."</l>
+<l n="1276">Such was the burden of his moan, whereto,</l>
+<l n="1277">Not once but oft, he struck with his hand uplift</l>
+<l n="1278">His eyes, and at each stroke the ensanguined orbs</l>
+<l n="1279">Bedewed his beard, not oozing drop by drop,</l>
+<l n="1280">But one black gory downpour, thick as hail.</l>
+<l n="1281">Such evils, issuing from the double source,</l>
+<l n="1282">Have whelmed them both, confounding man and wife.</l>
+<l n="1283">Till now the storied fortune of this house</l>
+<l n="1284">Was fortunate indeed; but from this day</l>
+<l n="1285">Woe, lamentation, ruin, death, disgrace,</l>
+<l n="1286">All ills that can be named, all, all are theirs.</l>
+
+</sp><sp><speaker>Chorus</speaker>
+<l n="1287">But hath he still no respite from his pain?</l>
+
+</sp><sp><speaker>Second Messenger</speaker>
+<l n="1288">He cries, "Unbar the doors and let all Thebes</l>
+<l n="1289">Behold the slayer of his sire, his mother's&mdash;"</l>
+<l n="1290">That shameful word my lips may not repeat.</l>
+<l n="1291">He vows to fly self-banished from the land,</l>
+<l n="1292">Nor stay to bring upon his house the curse</l>
+<l n="1293">Himself had uttered; but he has no strength</l>
+<pb n="121"/>
+<l n="1294">Nor one to guide him, and his torture's more</l>
+<l n="1295">Than man can suffer, as yourselves will see.</l>
+<l n="1296">For lo, the palace portals are unbarred,</l>
+<l n="1297">And soon ye shall behold a sight so sad</l>
+<l n="1298">That he who must abhorred would pity it.</l>
+<l n="1299"><stage type="entrance">Enter OEDIPUS blinded.</stage></l>
+
+</sp><sp><speaker>Chorus</speaker>
+<l n="1300">Woeful sight! more woeful none</l>
+<l n="1301">These sad eyes have looked upon.</l>
+<l n="1302">Whence this madness?  None can tell</l>
+<l n="1303">Who did cast on thee his spell,</l>
+<l n="1304">prowling all thy life around,</l>
+<l n="1305">Leaping with a demon bound.</l>
+<l n="1306">Hapless wretch! how can I brook</l>
+<l n="1307">On thy misery to look?</l>
+<l n="1308">Though to gaze on thee I yearn,</l>
+<l n="1309">Much to question, much to learn,</l>
+<l n="1310">Horror-struck away I turn.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="1311">Ah me! ah woe is me!</l>
+<l n="1312">Ah whither am I borne!</l>
+<l n="1313">How like a ghost forlorn</l>
+<l n="1314">My voice flits from me on the air!</l>
+<l n="1315">On, on the demon goads.  The end, ah where?</l>
+
+</sp><sp><speaker>Chorus</speaker>
+<l n="1316">An end too dread to tell, too dark to see.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<lg n="1">
+<l n="1317">Dark, dark!  The horror of darkness, like a shroud,</l>
+<l n="1318">Wraps me and bears me on through mist and cloud.</l>
+<pb n="123"/>
+<l n="1319">Ah me, ah me!  What spasms athwart me shoot,</l>
+<l n="1320">What pangs of agonizing memory?</l>
+</lg>
+</sp><sp><speaker>Chorus</speaker>
+<l n="1321">No marvel if in such a plight thou feel'st</l>
+<l n="1322">The double weight of past and present woes.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<lg type="antistrophe" n="1">
+<l n="1323">Ah friend, still loyal, constant still and kind,</l>
+<l n="1324">Thou carest for the blind.</l>
+<l n="1325">I know thee near, and though bereft of eyes,</l>
+<l n="1326">Thy voice I recognize.</l>
+ </lg>
+</sp><sp><speaker>Chorus</speaker>
+<l n="1327">O doer of dread deeds, how couldst thou mar</l>
+<l n="1328">Thy vision thus?  What demon goaded thee?</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<lg n="2">
+<l n="1329">Apollo, friend, Apollo, he it was</l>
+<l n="1330">That brought these ills to pass;</l>
+<l n="1331">But the right hand that dealt the blow</l>
+<l n="1332">Was mine, none other.  How,</l>
+<l n="1333">How, could I longer see when sight</l>
+<l n="1334">Brought no delight?</l>
+ </lg>
+</sp><sp><speaker>Chorus</speaker>
+<l n="1335">Alas! 'tis as thou sayest.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="1336">Say, friends, can any look or voice</l>
+<l n="1337">Or touch of love henceforth my heart rejoice?</l>
+<l n="1338">Haste, friends, no fond delay,</l>
+<l n="1339">Take the twice cursed away</l>
+<l n="1340">Far from all ken,</l>
+<l n="1341">The man abhorred of gods, accursed of men.</l>
+
+<pb n="125"/>
+</sp><sp><speaker>Chorus</speaker>
+<l n="1342">O thy despair well suits thy desperate case.</l>
+<l n="1343">Would I had never looked upon thy face!</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<lg type="antistrophe" n="2">
+<l n="1344">My curse on him whoe'er unrived</l>
+<l n="1345">The waif's fell fetters and my life revived!</l>
+<l n="1346">He meant me well, yet had he left me there,</l>
+<l n="1347">He had saved my friends and me a world of care.</l>
+</lg>
+</sp><sp><speaker>Chorus</speaker>
+<l n="1348">I too had wished it so.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="1349">Then had I never come to shed</l>
+<l n="1350">My father's blood nor climbed my mother's bed;</l>
+<l n="1351">The monstrous offspring of a womb defiled,</l>
+<l n="1352">Co-mate of him who gendered me, and child.</l>
+<l n="1353">Was ever man before afflicted thus,</l>
+<l n="1354">Like Oedipus.</l>
+
+</sp><sp><speaker>Chorus</speaker>
+<lg>
+<l n="1355">I cannot say that thou hast counseled well,</l>
+<l n="1356">For thou wert better dead than living blind.</l></lg>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="1357">What's done was well done.  Thou canst never shake</l>
+<l n="1358">My firm belief.  A truce to argument.</l>
+<l n="1359">For, had I sight, I know not with what eyes</l>
+<l n="1360">I could have met my father in the shades,</l>
+<l n="1361">Or my poor mother, since against the twain</l>
+<l n="1362">I sinned, a sin no gallows could atone.</l>
+<l n="1363">Aye, but, ye say, the sight of children joys</l>
+<pb n="127"/>
+<l n="1364">A parent's eyes.  What, born as mine were born?</l>
+<l n="1365">No, such a sight could never bring me joy;</l>
+<l n="1366">Nor this fair city with its battlements,</l>
+<l n="1367">Its temples and the statues of its gods,</l>
+<l n="1368">Sights from which I, now wretchedst of all,</l>
+<l n="1369">Once ranked the foremost Theban in all Thebes,</l>
+<l n="1370">By my own sentence am cut off, condemned</l>
+<l n="1371">By my own proclamation 'gainst the wretch,</l>
+<l n="1372">The miscreant by heaven itself declared</l>
+<l n="1373">Unclean&mdash;and of the race of Laius.</l>
+<l n="1374">Thus branded as a felon by myself,</l>
+<l n="1375">How had I dared to look you in the face?</l>
+<l n="1376">Nay, had I known a way to choke the springs</l>
+<l n="1377">Of hearing, I had never shrunk to make</l>
+<l n="1378">A dungeon of this miserable frame,</l>
+<l n="1379">Cut off from sight and hearing; for 'tis bliss</l>
+<l n="1380">to bide in regions sorrow cannot reach.</l>
+<l n="1381">Why didst thou harbor me, Cithaeron, why</l>
+<l n="1382">Didst thou not take and slay me?  Then I never</l>
+<l n="1383">Had shown to men the secret of my birth.</l>
+<l n="1384">O Polybus, O Corinth, O my home,</l>
+<l n="1385">Home of my ancestors (so wast thou called)</l>
+<l n="1386">How fair a nursling then I seemed, how foul</l>
+<l n="1387">The canker that lay festering in the bud!</l>
+<l n="1388">Now is the blight revealed of root and fruit.</l>
+<l n="1389">Ye triple high-roads, and thou hidden glen,</l>
+<l n="1390">Coppice, and pass where meet the three-branched ways,</l>
+<l n="1391">Ye drank my blood, the life-blood these hands spilt,</l>
+<l n="1392">My father's; do ye call to mind perchance</l>
+<l n="1393">Those deeds of mine ye witnessed and the work</l>
+<l n="1394">I wrought thereafter when I came to Thebes?</l>
+<l n="1395">O fatal wedlock, thou didst give me birth,</l>
+<pb n="129"/>
+<l n="1396">And, having borne me, sowed again my seed,</l>
+<l n="1397">Mingling the blood of fathers, brothers, children,</l>
+<l n="1398">Brides, wives and mothers, an incestuous brood,</l>
+<l n="1399">All horrors that are wrought beneath the sun,</l>
+<l n="1400">Horrors so foul to name them were unmeet.</l>
+<l n="1401">O, I adjure you, hide me anywhere</l>
+<l n="1402">Far from this land, or slay me straight, or cast me</l>
+<l n="1403">Down to the depths of ocean out of sight.</l>
+<l n="1404">Come hither, deign to touch an abject wretch;</l>
+<l n="1405">Draw near and fear not; I myself must bear</l>
+<l n="1406">The load of guilt that none but I can share.</l>
+<l n="1407"><stage type="entrance">Enter CREON.</stage></l>
+
+</sp><sp><speaker>Creon</speaker>
+<l n="1408">Lo, here is Creon, the one man to grant</l>
+<l n="1409">Thy prayer by action or advice, for he</l>
+<l n="1410">Is left the State's sole guardian in thy stead.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="1411">Ah me! what words to accost him can I find?</l>
+<l n="1412">What cause has he to trust me?  In the past</l>
+<l n="1413">I have bee proved his rancorous enemy.</l>
+
+</sp><sp><speaker>Creon</speaker>
+<l n="1414">Not in derision, Oedipus, I come</l>
+<l n="1415">Nor to upbraid thee with thy past misdeeds.</l>
+<l n="1416">(To BYSTANDERS)</l>
+<l n="1417">But shame upon you! if ye feel no sense</l>
+<l n="1418">Of human decencies, at least revere</l>
+<l n="1419">The Sun whose light beholds and nurtures all.</l>
+<l n="1420">Leave not thus nakedly for all to gaze at</l>
+<l n="1421">A horror neither earth nor rain from heaven</l>
+<l n="1422">Nor light will suffer.  Lead him straight within,</l>
+<l n="1423">For it is seemly that a kinsman's woes</l>
+<l n="1424">Be heard by kin and seen by kin alone.</l>
+
+<pb n="131"/>
+</sp><sp><speaker>Oedipus</speaker>
+<l n="1425">O listen, since thy presence comes to me</l>
+<l n="1426">A shock of glad surprise&mdash;so noble thou,</l>
+<l n="1427">And I so vile&mdash;O grant me one small boon.</l>
+<l n="1428">I ask it not on my behalf, but thine.</l>
+
+</sp><sp><speaker>Creon</speaker>
+<l n="1429">And what the favor thou wouldst crave of me?</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="1430">Forth from thy borders thrust me with all speed;</l>
+<l n="1431">Set me within some vasty desert where</l>
+<l n="1432">No mortal voice shall greet me any more.</l>
+
+</sp><sp><speaker>Creon</speaker>
+<l n="1433">This had I done already, but I deemed</l>
+<l n="1434">It first behooved me to consult the god.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="1435">His will was set forth fully&mdash;to destroy</l>
+<l n="1436">The parricide, the scoundrel;  and I am he.</l>
+
+</sp><sp><speaker>Creon</speaker>
+<l n="1437">Yea, so he spake, but in our present plight</l>
+<l n="1438">'Twere better to consult the god anew.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="1439">Dare ye inquire concerning such a wretch?</l>
+
+</sp><sp><speaker>Creon</speaker>
+<l n="1440">Yea, for thyself wouldst credit now his word.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="1441">Aye, and on thee in all humility</l>
+<l n="1442">I lay this charge:  let her who lies within</l>
+<l n="1443">Receive such burial as thou shalt ordain;</l>
+<l n="1444">Such rites 'tis thine, as brother, to perform.</l>
+<l n="1445">But for myself, O never let my Thebes,</l>
+<l n="1446">The city of my sires, be doomed to bear</l>
+<l n="1447">The burden of my presence while I live.</l>
+<pb n="133"/>
+<l n="1448">No, let me be a dweller on the hills,</l>
+<l n="1449">On yonder mount Cithaeron, famed as mine,</l>
+<l n="1450">My tomb predestined for me by my sire</l>
+<l n="1451">And mother, while they lived, that I may die</l>
+<l n="1452">Slain as they sought to slay me, when alive.</l>
+<l n="1453">This much I know full surely, nor disease</l>
+<l n="1454">Shall end my days, nor any common chance;</l>
+<l n="1455">For I had ne'er been snatched from death, unless</l>
+<l n="1456">I was predestined to some awful doom.</l>
+<l n="1457">So be it.  I reck not how Fate deals with me</l>
+<l n="1458">But my unhappy children&mdash;for my sons</l>
+<l n="1459">Be not concerned, O Creon, they are men,</l>
+<l n="1460">And for themselves, where'er they be, can fend.</l>
+<l n="1461">But for my daughters twain, poor innocent maids,</l>
+<l n="1462">Who ever sat beside me at the board</l>
+<l n="1463">Sharing my viands, drinking of my cup,</l>
+<l n="1464">For them, I pray thee, care, and, if thou willst,</l>
+<l n="1465">O might I feel their touch and make my moan.</l>
+<l n="1466">Hear me, O prince, my noble-hearted prince!</l>
+<l n="1467">Could I but blindly touch them with my hands</l>
+<l n="1468">I'd think they still were mine, as when I saw.</l>
+<l n="1469"><stage type="entrance">ANTIGONE and ISMENE are led in.</stage></l>
+<l n="1470">What say I? can it be my pretty ones</l>
+<l n="1471">Whose sobs I hear?  Has Creon pitied me</l>
+<l n="1472">And sent me my two darlings?  Can this be?</l>
+
+</sp><sp><speaker>Creon</speaker>
+<l n="1473">'Tis true; 'twas I procured thee this delight,</l>
+<l n="1474">Knowing the joy they were to thee of old.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l n="1475">God speed thee! and as meed for bringing them</l>
+<l n="1476">May Providence deal with thee kindlier</l>
+<l n="1477">Than it has dealt with me!  O children mine,</l>
+<l n="1478">Where are ye?  Let me clasp you with these hands,</l>
+<l n="1479">A brother's hands, a father's; hands that made</l>
+<pb n="135"/>
+<l n="1480">Lack-luster sockets of his once bright eyes;</l>
+<l n="1481">Hands of a man who blindly, recklessly,</l>
+<l n="1482">Became your sire by her from whom he sprang.</l>
+<l n="1483">Though I cannot behold you, I must weep</l>
+<l n="1484">In thinking of the evil days to come,</l>
+<l n="1485">The slights and wrongs that men will put upon you.</l>
+<l n="1486">Where'er ye go to feast or festival,</l>
+<l n="1487">No merrymaking will it prove for you,</l>
+<l n="1488">But oft abashed in tears ye will return.</l>
+<l n="1489">And when ye come to marriageable years,</l>
+<l n="1490">Where's the bold wooers who will jeopardize</l>
+<l n="1491">To take unto himself such disrepute</l>
+<l n="1492">As to my children's children still must cling,</l>
+<l n="1493">For what of infamy is lacking here?</l>
+<l n="1494">"Their father slew his father, sowed the seed</l>
+<l n="1495">Where he himself was gendered, and begat</l>
+<l n="1496">These maidens at the source wherefrom he sprang."</l>
+<l n="1497">Such are the gibes that men will cast at you.</l>
+<l n="1498">Who then will wed you?  None, I ween, but ye</l>
+<l n="1499">Must pine, poor maids, in single barrenness.</l>
+<l n="1500">O Prince, Menoeceus' son, to thee, I turn,</l>
+<l n="1501">With the it rests to father them, for we</l>
+<l n="1502">Their natural parents, both of us, are lost.</l>
+<l n="1503">O leave them not to wander poor, unwed,</l>
+<l n="1504">Thy kin, nor let them share my low estate.</l>
+<l n="1505">O pity them so young, and but for thee</l>
+<l n="1506">All destitute.  Thy hand upon it, Prince.</l>
+<l n="1507">To you, my children I had much to say,</l>
+<pb n="137"/>
+<l n="1508">Were ye but ripe to hear.  Let this suffice:</l>
+<l n="1509">Pray ye may find some home and live content,</l>
+<l n="1510">And may your lot prove happier than your sire's.</l>
+
+</sp><sp><speaker>Creon</speaker>
+<l part="I" n="1511">Thou hast had enough of weeping; pass within.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l part="F">I must obey,</l>
+<l part="I" n="1512">Though 'tis grievous.</l>
+
+</sp><sp><speaker>Creon</speaker>
+<l part="F">Weep not, everything must have its day.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l part="I" n="1513">Well I go, but on conditions.</l>
+
+</sp><sp><speaker>Creon</speaker>
+<l part="F">What thy terms for going, say.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l part="I" n="1514">Send me from the land an exile.</l>
+
+</sp><sp><speaker>Creon</speaker>
+<l part="F">Ask this of the gods, not me.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l part="I" n="1515">But I am the gods' abhorrence.</l>
+
+</sp><sp><speaker>Creon</speaker>
+<l part="F">Then they soon will grant thy plea.</l>
+
+</sp><sp><speaker>Oedipus</speaker>
+<l part="I" n="1516">Lead me hence, then, I am willing.</l>
+
+</sp><sp><speaker>Creon</speaker>
+<l part="F">Come, but let thy children go.</l>
+
+<pb n="139"/>
+</sp><sp><speaker>Oedipus</speaker>
+<l part="I" n="1517">Rob me not of these my children!</l>
+
+</sp><sp><speaker>Creon</speaker>
+<l part="F">Crave not mastery in all,</l>
+<l n="1518">For the mastery that raised thee was thy bane and wrought thy fall.</l>
+
+</sp>
+<sp><speaker>Chorus</speaker>
+<l n="1519">Look ye, countrymen and Thebans, this is Oedipus the great,</l>
+<l n="1520">He who knew the Sphinx's riddle and was mightiest in our state.</l>
+<l n="1521">Who of all our townsmen gazed not on his fame with envious eyes?</l>
+<l n="1522">Now, in what a sea of troubles sunk and overwhelmed he lies!</l>
+<l n="1523">Therefore wait to see life's ending ere thou count one mortal blest;</l>
+<l n="1524">Wait till free from pain and sorrow he has gained his final rest.</l>
+</sp>
+
+</div1>
+</body></text>
+</TEI.2>

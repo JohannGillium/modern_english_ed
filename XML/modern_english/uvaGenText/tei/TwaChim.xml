@@ -1,0 +1,555 @@
+<?xml version="1.0"?>
+
+<?dlps id="TwaChim"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOnum SYSTEM "http://text.lib.virginia.edu/charent/iso-num.ent"> %ISOnum;
+<!ENTITY % ISOlat1 SYSTEM "http://text.lib.virginia.edu/charent/iso-lat1.ent"> %ISOlat1;
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+
+]>
+<TEI.2 id="TwaChim">
+<teiHeader type="migrated" creator="Etext">
+<fileDesc>
+<titleStmt>
+<title type="main">Around the World Letter, No. 3</title>
+<title type="sort">around the world letter, no 3</title>
+<author>Twain, Mark, 1835-1910</author>
+<respStmt>
+<resp>Creation of machine-readable version:</resp>
+<name>Steve Railton</name>
+<resp>Conversion to TEI.2-conformant markup:</resp>
+<name>M. Eleanor Culley, University of Virginia Library Electronic Text Center.</name>
+</respStmt>
+</titleStmt>
+<extent>ca. <num type="kilobytes">23</num> kilobytes</extent>
+<publicationStmt>
+<publisher>University of Virginia Library</publisher>
+<pubPlace>Charlottesville, Virginia</pubPlace>
+<idno type="ETC">TwaChim</idno>
+<date value="2001">2001</date>
+<availability status="public">
+<p n="copyright">Copyright &copy; 2001 by the Rector and Visitors of the University of Virginia</p>
+<p n="access">Publicly accessible</p>
+</availability>
+<idno type="uva-pid">uva-lib:476415</idno>
+</publicationStmt>
+<seriesStmt>
+<title>University of Virginia Library, Text collection</title>
+<idno type="uva-set">UVA-LIB-Text</idno>
+</seriesStmt>
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title type="main">"How the Chimney-Sweep Got the Ear of the Emperor"</title>
+<title type="sort">how the chimney sweep got the ear of the emperor</title>
+<author>Mark Twain, pseud. Samuel Langhorne Clemens</author>
+<editor>Catherine Tousignant</editor>
+</titleStmt>
+<publicationStmt>
+<idno type="callNo">Source copy consulted: MSS 6314-ao, Alderman Library Special Collections</idno>
+</publicationStmt>
+<seriesStmt>
+<p>Clifton Waller Barrett Collection</p>
+</seriesStmt>
+</biblFull>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+</projectDesc>
+<editorialDecl>
+<p>All unambiguous end-of-line hyphens have been removed, and the  trailing part of a word has been joined to the preceding line.</p>
+<p id="ETC">Some keywords in the header are a local Electronic Text Center scheme  to aid in establishing analytical groupings.</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<langUsage>
+<language id="eng" usage="main">English</language>
+</langUsage>
+<textClass>
+<keywords>
+<term>non-fiction</term>
+<term>prose</term>
+<term>masculine</term>
+<term>Mark Twain</term>
+<term>Special Collections</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change>
+<date value="2001-07">July, 2001</date>
+<respStmt>
+<resp>corrector</resp>
+<name/>
+</respStmt>
+<item/>
+</change>
+<change>
+<date value="2007-09">September 2007</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Ethan Gruber, University of Virginia Library</name>
+</respStmt>
+<item>Converted XML markup from TEI Lite to uva-dl-tei (TEI P4 with local customizations).</item>
+</change>
+<change>
+<date value="2008-01">January 2008</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Greg Murray, University of Virginia Library</name>
+</respStmt>
+<item>Programmatically updated TEI header markup (but not header content) for minimal compliance with current QA requirements.</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+
+
+<text id="d1">
+<front id="d2">
+<div1 type="introduction" id="d3">
+<head><bibl><title>Introduction</title><author>Catherine Tousignant</author>
+</bibl></head>
+<p>A man always fascinated by new technologies, Mark Twain found
+typesetting to be the most interesting heir of the industrial age.  In
+the 1890's, he nearly bankrupted his family yet again by investing
+heavily and poorly in the doomed Paige Typesetter venture.  A journeyman
+printer in his youth, he was concerned with questions of type and the
+appearance of his texts in print throughout his life.  Indeed, he often
+expressed rage and ire toward the publications who often bungled a text
+in transmission.  Yet his fervor on this issue seems to abate in his
+later career, as he recovered for the Paige disater and began to worry
+seriously about providing a solid financial legacy for his family.  In
+1899 he contracted with The American Publishing Company to re-release
+his works, in an "Authorized Uniform Edition."  This move was intended
+to generate quick and substantial cash, rather than to revise and set
+his works once and for all.  In the years around the turn of the
+century, Twain churned out much writing, many manuscripts left
+unfinished, most works, fiction or polemical, of poor quality.  His
+biographers take great care to point out his despondency in these years,
+his commitment to reform, and his desperate anathema to writing at all. </p>
+<p>
+Few typed manuscripts survive from this time, or any earlier period in
+his career, for that matter. Thus, "How the Chimney-Sweep Got the Ear of
+the Emperor," which survives not only in typescript but also in
+autograph manuscript at the University of Virginia Library, offers a
+rare opportunity to examine Twain's composition habits vis-&agrave;-vis
+one of his insignficant stories-cum-commodities, as well as his use of
+the relatively new typewriter technology to control the appearance of
+his texts in print.  The story was never published as a discrete work of
+fiction. It appeared embedded in another story, "The Man With a Message
+for the Director-General" under the title "Two Little Tales," first in
+1901 in the <hi rend="italic">Century Magazine</hi>.</p>
+
+<p>The story reflects Twain's disgust with medical professionals, who he
+believed "killed" his ailing daughter Suzy several years before.  It's
+ a rather bittersweet tale, cynical at its core, but illuminated by
+Twain's classic faith in simple boyhood wisdom, the magic power of
+watermelon, a favorite southern American delicacy which he missed dearly
+while he was in Europe. </p>
+
+<p>In the twilight of his life and the waning of his writing career,
+Twain seems poised on the edge of the new millenium with mixed feelings
+of frustration, moral disgust, and wonder at the modern world around
+him.  Likewise, my examination of these various texts in the preparation
+of this edition has revealed the author at his easiest and best with
+an old-fashioned pen in hand; yet embracing new technology to infiltrate
+the typesetting process.  Alas, when the story does appear in print, we
+find that publishers took as many liberties setting from a typed
+manuscript as from a raw hand, both to adjust for cultural conventions
+which the typewritten manuscript actually highlighted, and to whitewash
+the very details that distinguish Twain's masterful dialogue in the
+interest of preserving the common denominator in a journal of
+mass-circulation.</p>
+</div1>
+</front>
+
+<body id="d4">
+
+<div1 type="story" id="d5">
+<head><bibl><title>HOW THE CHIMNEY-SWEEP GOT THE EAR OF THE EMPEROR</title><author>Mark Twain</author></bibl></head>
+
+<div2 type="section" n="1" id="d6">
+<head>I.</head> 
+
+<p>Summer was come, and all the strong were bowed by the 
+burden of the awful heat, and many of the weak were prostrate 
+and dying.  For weeks the army had been wasting away with a 
+plague of dysentery, that scourge of the soldier, and there 
+was but little help.  The doctors were in despair; such 
+efficacy as their drugs and their science had once had&mdash;and  
+it was not much, at its best&mdash;was a thing of the past, 
+and promised to remain so.
+</p><p>
+The Emperor commanded the physicians of greatest renown 
+to appear before him for a consultation, for he was profoundly 
+disturbed.  He was very severe with them, and called them to 
+account for letting his soldiers die; and asked them if they 
+knew their trade, or didn't; and were they properly healers, 
+or merely assassins?  Then the principal assassin, who was 
+also the oldest doctor in the land and the most venerable in 
+appearance, answered and said&mdash;
+</p><p>
+"We have done what we could, your Majesty, and for a good 
+reason it has been little: no medicine and no physician can 
+cure that disease; only Nature and a good constitution can 
+do it.  I am old, and I know.  No doctor and no medicine 
+can cure it&mdash;I repeat it and I emphasize it;  sometimes they 
+seem to help Nature a little&mdash;a very little&mdash;but as a rule 
+they merely do damage."
+</p>
+<p>The Emperor was a profane and passionate man, and he 
+deluged the doctors with rugged and unfamiliar names and drove 
+them from his presence.  Within a day he was attacked by that 
+fell disease himself. The news flew from mouth to mouth, and 
+carried consternation with it all over the land.  All the talk 
+was about this awful disaster, and there was general depression, 
+for few had hope.  The Emperor himself was very melancholy, 
+and sighed and said&mdash;
+</p><p>"The will of God be done.  Send for the assassins again, 
+and let us get over with it."
+</p><p>
+They came, and felt his pulse, and looked at his tongue, 
+and fetched the drugstore and emptied it into him, and sat 
+down patiently to wait&mdash;for they were not paid by the job, 
+but by the year.</p>
+</div2>
+
+<div2 type="section" n="2" id="d7">
+<head>II.</head>
+
+<p>Tommy was sixteen and a bright lad, but he was not in 
+society.  His rank was too humble for that, and his employment 
+too base; in fact it was the lowest of all employments, 
+for he was second in command to his father, who emptied cesspools 
+and drove a night-cart.  Tommy's closest friend was 
+Jimmy the chimney-sweep, a slim little fellow of fourteen, 
+who was honest and industrious, and had a good heart and 
+supported a bed-ridden mother by his dangerous and unpleasant 
+trade. </p>
+<p>About a month after the Emperor fell ill, 
+these two lads met one evening about nine.  Tommy was 
+on his way to his night-work, and of course was not in his 
+Sundays, but in his dreadful work-clothes, and not smelling 
+very well;  Jimmy was on his way home from his day's labor, 
+and was blacker than any other object imaginable, and he had 
+his brushes on his shoulder and his soot-bag at his waist, 
+and no feature of his sable face was distinguishable except 
+his lively eyes.</p>
+<p>They sat down on the curbstone to talk; and of course 
+it was upon the one subject&mdash;the nation's calamity, the 
+Emperor's disorder.  Jimmy was full of a great project, and 
+burning to unfold it.  He said&mdash;
+</p><p>"Tommy, I can cure his Majesty! I know how to do it."
+</p><p>
+Tommy was surprised.
+</p><p>
+"What? You?"
+</p><p>"Yes, I."
+</p><p>"Why, you little fool, the best doctors can't."
+</p><p>"I don't care, I can do it.  I can cure him in fifteen 
+minutes."
+</p><p>"Oh, come off!  What are you giving me?"</p><p>
+"The facts&mdash;that's all."
+
+</p><p>Jimmy's manner was so serious that it sobered Tommy, who 
+said&mdash;
+</p><p>"I believe you are in earnest, Jimmy.  Are you in earnest?"
+</p><p>"I give you my word."</p>
+<p>"What is the plan?  How'll you cure him?"
+</p><p>"Tell him to eat a slice of ripe watermelon."
+
+It caught Tommy rather suddenly, and he was shouting with 
+laughter at the absurdity of the idea before he could put on a 
+stopper.  But he sobered down when he saw that Jimmy was 
+wounded.  He patted Jimmy's knee affectionately, not minding 
+the soot, and said&mdash;
+</p><p>"I take the laugh all back  I didn't mean any harm, 
+Jimmy, and I won't do it again.  You see, it seemed so funny, 
+because wherever there's a soldier-camp and dysentery, the 
+doctors always put up a sign saying anybody caught bringing 
+watermelons there will be flogged with the cat till he can't 
+stand."
+</p><p>"I know it&mdash;the idiots!" 
+said Jimmy, with both tears and anger in his voice.  
+</p><p>"There's plenty of watermelons, 
+and not one of all those soldiers ought to have died."
+</p><p>"But Jimmy, what put the notion in your head?"
+
+</p><p>"It isn't a notion, it's a fact.  Do you know that old 
+gray-headed Zulu?  Well, this long time back he has been 
+curing a lot of our friends, and my mother has seen him do 
+it, and so have I.  It takes only one or two slices of melon, 
+and it don't make any difference whether the disease is new 
+or old, it cures it."
+</p><p>"It's very odd.  But Jimmy, if it is so, the Emperor 
+ought to be told of it."
+
+</p><p>"Of course; and my mother has told people, hoping they 
+could get the word to him;  but they are poor working-folks 
+and ignorant, and don't know how to manage it."
+
+</p><p>"Of course they don't, the blunderheads," said Tommy, 
+scornfully;  <hi rend="italic">"I'll</hi> get it to him!"
+</p><p>
+
+</p><p>"You? you night-cart polecat!" and it was Jimmy's turn 
+to laugh;  but Tommy retorted sturdily&mdash;
+
+</p><p>"Oh, laugh if you like&mdash;but I'll <hi rend="italic">do</hi> it!"
+</p><p>
+It had such an assured and confident sound that it made 
+an impression, and Jimmy asked, gravely&mdash;
+</p><p>
+"Do you know the Emperor?"
+</p><p>
+"Do <hi rend="italic">I</hi> know him?  Why, how you talk!  Of course I don't."
+</p><p>
+"Then how'll you do it?"
+</p><p>
+"It's very simple, and very easy.  Guess.  How would <hi rend="italic">you</hi> 
+do it, Jimmy?"
+</p><p>
+"Send him a letter.  I never thought of it till this 
+minute.  But I'll bet that's your way."
+</p><p>
+"I'll bet it ain't.  Tell me&mdash;how would you send it?"
+</p><p>
+"Why, through the mail, of course."
+</p><p>
+Tommy overwhelmed him with scoffings, and said&mdash; 
+
+</p><p>
+"Now don't you suppose every crank in the Empire is doing 
+the same thing?  Do you mean to say you haven't thought of 
+that?"
+</p><p>
+"Well  no," said Jimmy, abashed.
+</p><p>
+"You <hi rend="italic">might</hi> have thought of it, if you weren't so young 
+and inexperienced.  Why Jimmy, when even a common <hi rend="italic">General</hi>, 
+or a poet, or an actor, or anybody that's a little famous 
+gets sick, all the cranks in the kingdom load up the mails 
+with certain-sure quack-cures for him.  And so, what's bound 
+to happen when it's the Emperor?"
+</p><p>
+"I suppose it's worse," said Jimmy, sheepishly.
+</p><p>
+"Well, I should think so.  Look here, Jimmy, every single 
+night we cart off as many as six loads of that kind of letters 
+from the back yard of the palace where they're thrown.  Eighty 
+thousand letters in one night!  Do you reckon anybody reads 
+them?  Sho!  not a single one.  It's what would happen to your 
+letter if you wrote it&mdash;which you won't, I reckon?"
+</p><p>
+"No," sighed Jimmy, crushed.
+</p><p>
+"But it's all right, Jimmy, don't you fret, there's more 
+than one way to skin a cat: <hi rend="italic">I'll</hi> get the word to him."
+</p><p>
+"Oh, if you only <hi rend="italic">could</hi>, Tommy!  I should love you for 
+ever!"
+</p><p>
+"I'll do it, I tell you.  Don't you worry; you depend 
+on me."
+</p><p>
+"Indeed I will, Tommy, for you do know so much.  You're 
+not like other boys;  they never know anything.  How'll you 
+manage, Tommy?"
+</p><p>
+Tommy was greatly pleased.  He settled himself for reposeful 
+talk, and said&mdash;
+</p><p>
+"Do you know that ragged poor thing that thinks he's a 
+butcher because he goes around with a basket and sells cat's-meat 
+and rotten livers?  Well, to begin with, I'll tell <hi rend="italic">him</hi>."
+</p><p>
+Jimmy was deeply disappointed and chagrined, and said&mdash;
+</p><p>
+"Now Tommy, it's a shame to talk so.  You know my heart's 
+in it, and it's not right."
+</p><p>
+Tommy gave him a love-pat and said&mdash;
+</p><p>
+"Don't you be troubled, Jimmy, I know what I'm about. 
+Pretty soon you'll see.  That half-breed butcher will tell 
+the old woman that sells chestnuts at the corner of the lane&mdash;
+she's his closest friend, and I'll ask him to.  Then&mdash;by 
+request&mdash;she'll tell her rich aunt that keeps the little 
+fruit shop on the corner, two blocks above;  and that one will 
+tell her particular friend the man that keeps the game-shop, 
+and he will tell his friend the sergeant of police, and the 
+sergeant will tell his captain, and the captain will tell the 
+magistrate, and the magistrate will tell his brother-in-law 
+the county judge, and the county judge will tell the sheriff, 
+and the sheriff will tell the Lord Mayor, and the Lord Mayor 
+will tell the President of the Council, and the President of 
+the Council will tell&mdash;"
+</p><p>
+"By George, but it's a wonderful scheme, Tommy!  How ever 
+<hi rend="italic">did</hi> you&mdash;"
+</p><p>
+"&mdash;Rear Admiral, and the Rear will tell the Vice, and the 
+Vice will tell the Admiral of the Blue, and the Blue will tell 
+the Red, and the Red will tell the White, and the White will 
+tell the First Lord of the Admiralty, and the First Lord will 
+tell the Speaker of the House, and the Speaker&mdash;"
+</p><p>
+"Go it Tommy, you're 'most there!"
+</p><p>
+"&mdash;will tell the Master of the Hounds, and the Master will 
+tell the Head Groom of the Stables, and the Head Groom will 
+tell the Chief Equerry, and the Chief Equerry will tell the 
+First Lord in Waiting, and the First Lord will tell the Lord 
+High Chamberlain, and the Lord High Chamberlain will tell the 
+Master of the Household, and the Master of the Household will 
+tell the little pet page that fans the flies off the Emperor, 
+and the page will get down on his knees and whisper it to his 
+Majesty&mdash;and the game's made!"
+</p><p>
+"I've <hi rend="italic">got</hi> to get up and hurrah a couple of times, Tommy, 
+it's the grandest idea that ever was.  What ever put it into 
+your head?"
+</p><p>
+"Sit down and listen, and I'll give you some wisdom&mdash;
+and don't you ever forget it as long as you live.  Now then, 
+who is the closest friend you've got, and the one you couldn't 
+and wouldn't ever refuse anything in the world to?"
+</p><p>
+"Why, it's you, Tommy&mdash;you know that."
+</p><p>
+"Suppose you wanted to ask a pretty large favor of the 
+cat's-meat man.  Well, you don't know him, and he would tell 
+you to go to thunder, for he is that kind of a person; but he 
+is my next best friend after you, and would run his legs off 
+to do me a kindness&mdash;<hi rend="italic">any</hi> kindness  he don't care what it is.
+Now I'll ask you: Which is the most common-sensible&mdash;for you to go 
+and ask him to tell the chestnut-woman about your watermelon 
+cure, or for you to get me to do it for you?"
+</p><p>
+"To get you to do it for me, of course.  I wouldn't ever 
+have thought of that, Tommy&mdash;it's splendid."
+</p><p>
+"It's a <hi rend="italic">philosophy</hi>, you see.  Mighty good word&mdash;and 
+large.  It goes on this idea:  everybody in the world, little 
+and big, has one <hi rend="italic">special</hi> friend, a friend that he's <hi rend="italic">glad</hi> to do 
+favors to&mdash;not sour about it, but <hi rend="italic">glad</hi>&mdash;glad clear to the 
+marrow.  And so I don't care where you start, you can get 
+at anybody's ear that you want to  I don't care how low you 
+are nor how high he is.  And it's so simple:  you've only to 
+find the <hi rend="italic">first</hi> friend, that is all; that ends your part of the 
+work; he finds the next friend himself, and that one finds the 
+third, and so on, friend after friend, link after link, like a 
+chain, and you can go up it or down it, as high as you like or 
+as low as you like."
+</p><p>
+"It's just beautiful, Tommy."
+</p><p>
+"It's as simple and easy as A B C; but did you ever hear
+of anybody trying it?  No, everybody is a fool.  He goes to a 
+stranger, without any introduction, or writes a letter, 
+and of course he strikes a cold wave&mdash;and serves him gorgeously 
+right.  Now the Emperor don't know me, but that's no matter&mdash;
+he'll eat his watermelon to-morrow.  You'll see.  Hi-hi&mdash;stop! 
+It's the cat's-meat man.  Good-bye, Jimmy, I'll overtake him."
+</p><p>
+He did overtake him, and said&mdash;
+</p><p>
+"Say&mdash;will you do me a favor?"
+</p><p>
+<hi rend="italic">"Will</hi> I?  Well, I should <hi rend="italic">say</hi>!  I'm your man&mdash;name it, 
+and see me fly!"
+</p><p>
+"Go tell the chestnut-woman to put down everything and 
+carry this message to her first-best friend and tell the friend 
+to pass it along."  He worded the message, and said, "Now 
+then, rush!"
+</p><p>
+The next moment the chimney-sweep's word to the Emperor 
+was on its way.
+</p>
+</div2>
+
+<div2 type="section" n="3" id="d8">
+<head>III.</head>
+
+<p>The next evening, toward midnight, the doctors sat while whispering 
+together in the imperial sick-room, and they were in 
+deep trouble, for the Emperor was in very bad case.  They 
+could not hide it from themselves that every time they emptied 
+a fresh drugstore into him he got worse.  It saddened them, 
+for they were expecting that result.  The poor emaciated 
+Emperor lay motionless, with his eyes closed, and the page 
+that was his darling was fanning the flies away and crying 
+softly.  Presently the boy heard the silken rustle of a 
+porti&egrave;re, and turned and saw the Lord High Great Master of 
+the Household peering in at the door and excitedly motioning 
+to him to come.  Lightly and swiftly the page tip-toed his 
+way to his dear and worshipped friend the Master, who said&mdash;
+</p><p>
+"Only you can persuade him and oh, don't fail to do it! 
+Take this&mdash;make him eat it, and he is saved."
+</p><p>
+"On my head be it.  He shall eat it!"
+</p><p>
+It was a couple of great slices of ruddy fresh watermelon. 
+
+</p><p>
+</p><p>
+</p><p>
+The next morning the news flew everywhere that the Emperor 
+was sound and well again, and had hanged the doctors.  A wave 
+of joy swept the land, and frantic preparations were made to 
+illuminate.
+</p><p>
+After breakfast his Majesty sat meditating.  His gratitude 
+was unspeakable, and he was trying to devise a reward 
+rich enough to properly testify it to his benefactor.  He 
+got it arranged in his mind, and called the page, and asked 
+him if he had invented that cure.  The boy said no&mdash;he got 
+it from the Master of the of the Household.
+</p><p>
+He was sent away, and the Emperor went to devising again. 
+The Master was an Earl; he would make him a Duke, and give him 
+a vast estate which belonged to a member of the Opposition.  
+He had him called, and asked him if he was the inventor of 
+the remedy.  But the Master was an honest man, and said he 
+got it of the Grand Chamberlain.  He was sent away, and the 
+Emperor thought some more.  The Chamberlain was a Viscount; 
+he would make him an Earl, and give him a large income.  But 
+the Chamberlain referred him to the First Lord in Waiting, 
+and there was some more thinking.  His Majesty thought out a smaller 
+reward.  But the First Lord in Waiting referred  him back 
+further, and he had to sit down and think out a further and 
+becomingly and suitably smaller reward.
+</p><p>
+
+Then,to break the tediousness of the inquiry and hurry the business, he
+sent for the Grand High Chief Detective, and
+commanded him to trace the cure to the bottom, so that he 
+could properly reward his benefactor.
+</p><p>
+At nine in the evening the High Chief Detective brought 
+the word.  He had traced the cure down to a lad named Jimmy, 
+a chimney-sweep.  The Emperor said, with deep feeling&mdash;
+</p><p>
+"Brave boy, he saved my life, and shall not regret it!"
+</p><p>
+And sent him a pair of his own boots;  and the next best 
+ones he had, too.  They were too large for Jimmy, but they 
+fitted the Zulu, so it was all right, and everything as it 
+should be.
+</p>
+</div2>
+</div1>
+</body>
+</text>
+</TEI.2>

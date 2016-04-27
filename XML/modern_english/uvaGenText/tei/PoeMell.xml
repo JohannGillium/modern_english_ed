@@ -1,0 +1,733 @@
+<?xml version="1.0"?>
+
+<?dlps id="PoeMell"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOnum SYSTEM "http://text.lib.virginia.edu/charent/iso-num.ent"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+
+]>
+
+<TEI.2 id="PoeMell"> 
+<teiHeader type="migrated" creator="Etext">
+<fileDesc>
+<titleStmt>
+<title type="main">Mellonta Tauta</title>
+<title type="sort">mellonta tauta</title>
+<author>Poe, Edgar Allan, 1809-1849</author>
+<respStmt>
+<resp>Creation of machine-readable version</resp>
+<name>Judy Boss, University of Omaha</name>
+</respStmt>
+<respStmt>
+<resp>Conversion to TEI-conformant markup</resp>
+<name>University of Virginia Library Electronic Text Center</name>
+</respStmt>
+</titleStmt> 
+<extent>ca. <num type="kilobytes">40</num> kilobytes</extent> 
+<publicationStmt>
+<publisher>University of Virginia Library</publisher>
+<pubPlace>Charlottesville, Virginia</pubPlace> 
+<idno type="ETC">PoeMell</idno> 
+<date value="1994">1994</date>
+<availability status="public">
+<p n="copyright">Copyright &copy; 1994 by the Rector and Visitors of the University of Virginia</p>
+<p n="access">Publicly accessible</p>
+</availability>
+<idno type="uva-pid">uva-lib:476315</idno>
+</publicationStmt>
+<seriesStmt>
+<title>University of Virginia Library, Text collection</title>
+<idno type="uva-set">UVA-LIB-Text</idno>
+</seriesStmt> 
+<notesStmt>
+<note>
+<p>First created by Judy Boss; the text then went to Tom Almy's 
+Bitter Butter Better BBS, where he removed the pagination, and then to 
+The Internet Wiretap.</p>
+</note>
+</notesStmt> 
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title type="main">Tales of Mystery and Imagination</title>
+<title type="sort">tales of mystery and imagination</title>
+<author>Edgar Allan Poe</author>
+<respStmt>
+<resp>edited by</resp>
+<name/>
+</respStmt>
+</titleStmt> 
+<publicationStmt>
+<publisher>J. M. Dent &amp; Sons</publisher> 
+<pubPlace>London</pubPlace> 
+<date value="1912">1912</date>
+</publicationStmt> 
+<notesStmt>
+<note>
+<p>Source copy consulted: Call no. PS 2612 A1 1912, Alderman Library, University of Virginia</p>
+</note>
+</notesStmt>
+</biblFull>
+</sourceDesc>
+</fileDesc> 
+<encodingDesc>
+<projectDesc>
+<p>Prepared for the University of Virginia Library Electronic Text Center</p>
+</projectDesc> 
+<editorialDecl>
+<p>All unambiguous end-of-line hyphens have been removed, and the 
+trailing part of a word has been joined to the preceding line.</p> 
+<p id="ETC">Keywords in the header are a local Electronic Text Center scheme 
+to aid in establishing analytical groupings</p>
+</editorialDecl> 
+<refsDecl>
+<p>ID elements are given for each page element and are composed of the text's 
+unique cryptogram and the given page number, as in SpeFQue1 for page one of 
+Spenser's Faerie Queene.</p>
+</refsDecl>
+</encodingDesc> 
+<profileDesc>
+<creation>
+<date value="1849">1849</date>
+</creation> 
+<langUsage>
+<language id="eng" usage="main">English</language>
+</langUsage> 
+<textClass>
+<keywords>
+<term>fiction; prose</term>
+</keywords>
+</textClass>
+</profileDesc> 
+<revisionDesc>
+<change>
+<date value="1994-12">December 1994</date> 
+<respStmt>
+<resp>corrector</resp>
+<name>Kelly Tetterton</name>
+</respStmt>
+<item>repaginated because Judy Boss identified the source of the text; 
+updated tags and header</item>
+</change> 
+<change>
+<date value="1993-08">August 1993</date> 
+<respStmt>
+<resp>corrector</resp>
+<name>Kelly Tetterton</name>
+</respStmt>
+<item>minimal TEI tagging; note that this text is from an unknown 
+edition, so the text has been paginated to The Complete Works of Edgar 
+Allan Poe, ed. by James A. Harrison, vol. 6, New York: Thomas Y. 
+Crowell and Company, 1902; unambiguous line-end hyphenation has been 
+removed by Internet Wiretap</item>
+</change> 
+<change>
+<date value="2005-07">July 2005</date>
+<respStmt>
+<resp>Corrector</resp>
+<name>John Ivor Carlson</name>
+</respStmt>
+<item>Converted SGML to XML and/or corrected tagging.</item>
+</change>
+<change>
+<date value="2007-09">September 2007</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Ethan Gruber, University of Virginia Library</name>
+</respStmt>
+<item>Converted XML markup from TEI Lite to uva-dl-tei (TEI P4 with local customizations).</item>
+</change>
+<change>
+<date value="2008-01">January 2008</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Greg Murray, University of Virginia Library</name>
+</respStmt>
+<item>Programmatically updated TEI header markup (but not header content) for minimal compliance with current QA requirements.</item>
+</change>
+</revisionDesc>
+</teiHeader> 
+<text id="d1">  
+<body id="d2">
+<div1 type="story" id="d3"> 
+<head>Mellonta Tauta</head> 
+<pb n="294"/>  
+<epigraph><p>To the Editor of the Lady's Book</p> 
+<p>I have the honour of sending you, for your magazine, an article 
+which I hope you will be able to comprehend rather more 
+distinctly than I do myself.  It is a translation, by my friend 
+Martin Van Buren Mavis (sometimes called the 'Poughkeepsie 
+Seer'), of an odd-looking MS, which I found, about a year ago, 
+tightly corked up in a jug floating in the <hi rend="italic">Mare Tenebrarum</hi> &mdash; a 
+sea well described by the Nubian geographer, but seldom visited 
+now-a-days, except by the transcendentalists and divers for 
+crotchets. &mdash; <lb/>
+Very truly,<lb/> 
+EDGAR A. POE
+</p>
+<p>ON BOARD BALLOON 'SKYLARK'<lb/> 
+<hi rend="italic">April</hi> 1, 2848<lb/> 
+</p> </epigraph>
+
+
+<p>Now, my dear friend &mdash; now, for your sins, you are to suffer the 
+infliction of a long gossiping letter.  I tell you distinctly 
+that I am going to punish you for all your impertinences by being 
+as tedious, as discursive, as incoherent and as unsatisfactory as 
+possible.  Besides, here I am, cooped up in a dirty balloon, with 
+some one or two hundred of the <hi rend="italic">canaille</hi>, all bound on a 
+<hi rend="italic">pleasure</hi> excursion (what a funny idea some people have of 
+pleasure!), and I have no prospect of touching <hi rend="italic">terra firma</hi> 
+for a month at least.  Nobody to talk to.  Nothing to do.  When 
+one has nothing to do, then is the time to correspond with one's 
+friends.  You perceive, then, why it is that I write you this 
+letter &mdash; it is on account of my <hi rend="italic">ennui</hi> and your sins. 
+</p><p>Get ready your spectacles and make up your mind to be 
+annoyed.  I mean to write at you every day during this odious 
+voyage. 
+</p><p>Heigho! when will any <hi rend="italic">Invention</hi> visit the human 
+pericranium?  Are we for ever to be doomed to the thousand 
+inconveniences of the balloon?  Will <hi rend="italic">nobody</hi> contrive a more 
+expeditious mode of progress?  This jog-trot movement, to my 
+thinking, is little less than positive torture.  Upon my word we 
+have not made more than a hundred miles the hour since leaving 
+home!  The very birds beat us &mdash; at least some of them.  I assure 
+you that I do not exaggerate at all.  Our motion, no doubt, seems 
+slower than it actually is &mdash; this on account of our having no 
+objects about us by which to estimate our velocity, and on 
+account of our going <hi rend="italic">with</hi> the wind.  To be sure, whenever we 
+meet a balloon we have a chance of perceiving our rate, and then, 
+I admit, things do not appear so very bad.  Accustomed as I am to 
+this mode of travelling, I cannot get over a kind of giddiness 
+<pb n="295"/>  
+whenever a balloon passes in a current directly overhead.  It 
+always seems to me like an immense bird of prey about to pounce 
+upon us and carry us off in its claws.  One went over us this 
+morning about sunrise, and so nearly overhead that its drag-rope 
+actually brushed the net-work suspending our car, and caused us 
+very serious apprehension.  Our captain said that if the material 
+of the bag had been the trumpery varnished 'silk' of five hundred 
+or a thousand years ago, we should inevitably have been damaged. 
+This silk, as he explained it to me, was a fabric composed of the 
+entrails of a species of earthworm.  The worm was carefully fed 
+on mulberries &mdash; a kind of fruit resembling a watermelon &mdash; and, when 
+sufficiently fat, was crushed in a mill.  The paste thus arising 
+was called <hi rend="italic">papyrus</hi> in its primary state, and went through a 
+variety of processes until it finally became 'silk'.  Singular to 
+relate, it was once much admired as an article of <hi rend="italic">female 
+dress</hi>!  Balloons were also very generally constructed from it. 
+A better kind of material, it appears, was subsequently found in 
+the down surrounding the seed-vessels of a plant vulgarly called 
+<hi rend="italic">euphorbium</hi>, and at that time botanically termed milkweed. 
+This latter kind of silk was designated as silk-buckingham, on 
+account of its superior durability, and was usually prepared for 
+use by being varnished with a solution of gum caoutchouc &mdash; a 
+substance which in some respects must have resembled the <hi rend="italic">gutta 
+percha</hi> now in common use.  This caoutchouc was occasionally 
+called India rubber or rubber of whist, and was no doubt one of 
+the numerous <hi rend="italic">fungi</hi>.  Never tell me again that I am not at 
+heart an antiquarian. 
+</p><p>Talking of drag-ropes &mdash; our own, it seems, has this moment 
+knocked a man overboard from one of the small magnetic propellers 
+that swarm in ocean below us &mdash; a boat of about six thousand tons, 
+and, from all accounts, shamefully crowded. These diminutive 
+barques should be prohibited from carrying more than a definite 
+number of passengers.  The man, of course, was not permitted to 
+get on board again, and was soon out of sight, he and his life-preserver.  I rejoice, my dear friend, that we live in an age so 
+enlightened that no such a thing as an individual is supposed to 
+exist.  It is the mass for which the true Humanity cares.  By the 
+way, talking of Humanity, do you know that our immortal Wiggins 
+is not so original in his views of the Social Condition and so 
+forth, as his contemporaries are inclined to suppose?  Pundit 
+assures me that the same ideas were put, nearly in the same way, 
+about a thousand years ago, by an Irish philosopher called 
+Furrier, on account of his keeping a retail 
+<pb n="296"/>  
+shop for cat-peltries 
+and other furs.  Pundit <hi rend="italic">knows</hi>, you know; there can be no 
+mistake about it.  How very wonderfully do we see verified, every 
+day, the profound observation of the Hindoo Aries Tottle (as 
+quoted by Pundit) &mdash; 'Thus must we say that, not once or twice, or 
+a few times, but with almost infinite repetitions, the same 
+opinions come round in a circle among men.' 
+</p><p><hi rend="italic">April</hi> 2. &mdash;   Spoke to-day the magnetic cutter in charge 
+of the middle section of the floating telegraph wires.  I learn 
+that when this species of telegraph was first put into operation 
+by Horse, it was considered quite impossible to convey the wires 
+over sea; but now we are at a loss to comprehend where the 
+difficulty lay!  So wags the world.  <hi rend="italic">Tempora mutantur</hi> &mdash; excuse 
+me for quoting the Etruscan.  What <hi rend="italic">would</hi> we do without the 
+Atlantic telegraph?  (Pundit says Atlantic was the ancient 
+adjective.)  We lay to a few minutes to ask the cutter some 
+questions, and learned, among other glorious news, that civil war 
+is raging in Africa, while the plague is doing its good work 
+beautifully both in Yurope and Ayesher.  Is it not truly 
+remarkable that, before the magnificent light shed upon 
+philosophy by Humanity, the world was accustomed to regard War 
+and Pestilence as calamities?  Do you know that prayers were 
+actually offered up in the ancient temples to the end that these 
+<hi rend="italic">evils</hi> (!) might not be visited upon mankind?  Is it not 
+really difficult to comprehend upon what principle of interest 
+our forefathers acted?  Were they so blind as not to perceive 
+that the destruction of a myriad of individuals is only so much 
+positive advantage to the mass! 
+</p><p><hi rend="italic">April</hi> 3. &mdash;   It is really a very fine amusement to ascend 
+the rope-ladder leading to the summit of the balloon-bag and 
+thence survey the surrounding world.  From the car below, you 
+know, the prospect is not so comprehensive &mdash; you can see little 
+vertically.  But seated here (where I write this) in the 
+luxuriously-cushioned open piazza of the summit, one can see 
+everything that is going on in all directions.  Just now, there 
+is quite a crowd of balloons in sight, and they present a very 
+animated appearance, while the air is resonant with the hum of so 
+many millions of human voices.  I have heard it asserted that 
+when Yellow or (as Pundit <hi rend="italic">will</hi> have it) Violet, who is 
+supposed to have been the first aeronaut, maintained the 
+practicability of traversing the atmosphere in all directions, by 
+merely ascending or descending until a favourable current was 
+attained, he was scarcely hearkened to at all by his 
+contemporaries, who looked upon him as merely an ingenious sort 
+of madman, because 
+<pb n="297"/>  
+the philosophers(?) of the day declared the 
+thing impossible.  Really now it does seem to me <hi rend="italic">quite</hi> 
+unaccountable how anything so obviously feasible could have 
+escaped the sagacity of the ancient <hi rend="italic">savans</hi>.  But in all ages 
+the great obstacles to advancement in Art have been opposed by 
+the so-called men of science.  To be sure, <hi rend="italic">our</hi> men of science 
+are not quite so bigoted as those of old; &mdash; oh, I have something 
+<hi rend="italic">so</hi> queer to tell you on this topic.  Do you know that it is 
+not more than a thousand years ago since the metaphysicians 
+consented to relieve the people of the singular fancy that there 
+existed but <hi rend="italic">two possible roads for the attainment of Truth</hi>! 
+Believe it if you can!  It appears that long, long ago, in the 
+night of Time, there lived a Turkish philosopher (or Hindoo 
+possibly) called Aries Tottle.  This person introduced, or at all 
+events propagated, what was termed the deductive or <hi rend="italic">a priori</hi> 
+mode of investigation.  He started with what he maintained to be 
+<hi rend="italic">axioms</hi> or 'self-evident truths', and thence proceeded 
+'logically' to results.  His greatest disciples were one Neuclid 
+and one Cant.  Well, Aries Tottle flourished supreme until the advent 
+of one Hog, surnamed the 'Ettrick Shepherd', who preached 
+an entirely different system, which he called the <hi rend="italic">a 
+posteriori</hi> or <hi rend="italic">in</hi>ductive.  His plan referred altogether to 
+Sensation.  He proceeded by observing, analysing, and classifying 
+facts &mdash; <hi rend="italic">instantiae naturae</hi>, as they were affectedly called &mdash; 
+into general laws.  Aries Tottle's mode, in a word, was based on 
+<hi rend="italic">noumena</hi>; Hog's on <hi rend="italic">phenomena</hi>.  Well, so great was the 
+admiration excited by this latter system that, at its first 
+introduction, Aries Tottle fell into disrepute; but finally he 
+recovered ground, and was permitted to divide the realm of Truth 
+with his more modern rival.  The <hi rend="italic">savans</hi> now maintained that 
+the Aristotelian and <hi rend="italic">Baconian</hi> roads were the sole possible 
+avenues to knowledge.  'Baconian', you must know, was an 
+adjective invented as equivalent to Hog-ian and more euphonious 
+and dignified. 
+</p><p>Now, my dear friend, I do assure you, most positively, that 
+I represent this matter fairly, on the soundest authority; and 
+you can easily understand how a notion so absurd on its very face 
+must have operated to retard the progress of all true knowledge &mdash; 
+which makes its advances almost invariably by intuitive bounds. 
+The ancient idea confined investigation to <hi rend="italic">crawling</hi>; and for 
+hundreds of years so great was the infatuation about Hog 
+especially, that a virtual end was put to all thinking properly 
+so called.  No man dared utter a truth to which he felt himself 
+indebted to his <hi rend="italic">Soul</hi> alone.  It mattered not whether 
+<pb n="298"/>  
+the 
+truth was even <hi rend="italic">demonstrably</hi> a truth, for the bullet-headed 
+<hi rend="italic">savans</hi> of the time regarded only <hi rend="italic">the road</hi> by which he had 
+attained it.  They would not even <hi rend="italic">look</hi> at the end.  'Let us 
+see the means,' they cried, 'the means!'  If, upon investigation 
+of the means, it was found to come neither under the category 
+Aries (that is to say Ram) nor under the category Hog, why then 
+the <hi rend="italic">savans</hi> went no farther, but pronounced the 'theorist' a 
+fool, and would have nothing to do with him or his truth. 
+</p><p>Now, it cannot be maintained, even that by the crawling 
+system the greatest amount of truth would be attained in any long 
+series of ages, for the repression of <hi rend="italic">imagination</hi> was an evil 
+not to be compensated for by any superior <hi rend="italic">certainty</hi> in the 
+ancient modes of investigation.  The error of these Jurmains, 
+these Vrinch, these Inglitch, and these Amriccans (the latter, by 
+the way, were our own immediate progenitors), was an error quite 
+analogous with that of the wiseacre who fancies that he must 
+necessarily see an object the better the more closely he holds it 
+to his eyes.  These people blinded themselves by details.  When 
+they proceeded Hoggishly, their 'facts' were by no means always 
+facts &mdash; a matter of little consequence had it not been for 
+assuming that they <hi rend="italic">were</hi> facts and must be facts because they 
+appeared to be such.  When they proceeded on the path of the Ram, 
+their course was scarcely as straight as a ram's horn, for they 
+<hi rend="italic">never had</hi> an axiom which was an axiom at all.  They must have 
+been very blind not to see this, even in their own day; for even 
+in their own day many of the long 'established' axioms had been 
+rejected.  For example &mdash; '<hi rend="italic">Ex nihilo nihil fit</hi>'; 'a body cannot 
+act where it is not'; 'there cannot exist antipodes'; 'darkness 
+cannot come out of light' &mdash; all these, and a dozen other similar 
+propositions, formerly admitted without hesitation as axioms, 
+were, even at the period of which I speak, seen to be untenable. 
+How absurd in these people, then, to persist in putting faith in 
+'axioms' as immutable bases of Truth! But even out of the mouths 
+of their soundest reasoners it is easy to demonstrate the 
+futility, the impalpability of their axioms in general.  Who 
+<hi rend="italic">was</hi> the soundest of their logicians?  Let me see!  I will go and 
+ask Pundit and be back in a minute. . . .  Ah, here we have it! 
+Here is a book written nearly a thousand years ago, and lately 
+translated from the Inglitch &mdash; which, by the way, appears to have 
+been the rudiment of the Amriccan.  Pundit says it is decidedly 
+the cleverest ancient work on its topic, Logic.  The author (who 
+was much thought of in his day) was one Miller, or Mill; and 
+<pb n="299"/>  
+we 
+find it recorded of him, as a point of some importance, that he 
+had a mill-horse called Bentham.  But let us glance at the 
+treatise! 
+</p><p>Ah! &mdash; 'Ability or inability to conceive,' said Mr Mill, very 
+properly, 'is in no case to be received as a criterion of 
+axiomatic truth.'  What <hi rend="italic">modern</hi> in his senses would ever think 
+of disputing this truism?  The only wonder with us must be, how 
+it happened that Mr Mill conceived it necessary even to hint at 
+anything so obvious.  So far good &mdash; but let us turn over another 
+page.  What have we here? &mdash; 'Contradictions cannot both be true &mdash; 
+that is, cannot co-exist in nature.'  Here Mr Mill means, for 
+example, that a tree must be either a tree or not a tree &mdash; that it 
+cannot be at the same time a tree and not a tree.  Very well; but 
+I ask him <hi rend="italic">why</hi>.  His reply is this &mdash; and never pretends to be 
+anything else than this &mdash; 'Because it is impossible to conceive 
+that contradictories can both be true.'  But this is no answer at 
+all, by his own showing; for has he not just admitted as a truism 
+that 'ability or inability to conceive is <hi rend="italic">in no case</hi> to be 
+received as a criterion of axiomatic truth'? 
+</p><p>Now I do not complain of these ancients so much because 
+their logic is, by their own showing, utterly baseless, 
+worthless, and fantastic altogether, as because of their pompous 
+and imbecile proscription of all <hi rend="italic">other</hi> roads of Truth, of all 
+<hi rend="italic">other</hi> means for its attainment than the two preposterous 
+paths &mdash; the one of creeping and the one of crawling &mdash; to which they 
+have dared to confine the Soul that loves nothing so well as to 
+<hi rend="italic">soar</hi>. 
+</p><p>By the by, my dear friend, do you not think it would have 
+puzzled these ancient dogmaticians to have determined by 
+<hi rend="italic">which</hi> of their two roads it was that the most important and most 
+sublime of <hi rend="italic">all</hi> their truths was, in effect, attained?  I mean 
+the truth of Gravitation.  Newton owed it to Kepler.  Kepler 
+admitted that his three laws were <hi rend="italic">guessed at</hi> &mdash; these three 
+laws of all laws which led the great Inglitch mathematician to 
+his principle, the basis of all physical principle &mdash; to go behind 
+which we must enter the Kingdom of Metaphysics.  Kepler guessed &mdash; 
+that is to say, <hi rend="italic">imagined</hi>.  He was essentially a 'theorist' &mdash; 
+that word now of so much sanctity, formerly an epithet of 
+contempt.  Would it not have puzzled these old moles, too, to 
+have explained by which of the two 'roads' a cryptographist 
+unriddles a cryptograph of more than usual secrecy, or by which 
+of the two roads Champollion directed mankind to those enduring 
+and almost innumerable truths which resulted from his deciphering 
+the Hieroglyphics? 
+<pb n="300"/>  
+</p><p>One word more on this topic and I will be done boring you. 
+Is it not <hi rend="italic">passing</hi> strange that, with their eternal prating 
+about <hi rend="italic">roads</hi> to Truth, these bigoted people missed what we now 
+so clearly perceive to be the great highway &mdash; that of Consistency? 
+Does it not seem singular how they should have failed to deduce 
+from the works of God the vital fact that a perfect consistency 
+<hi rend="italic">must be</hi> an absolute truth!  How plain has been our progress 
+since the late announcement of this proposition!  Investigation 
+has been taken out of the hands of the ground-moles and given, as 
+a task, to the true and only true thinkers, the men of ardent 
+imagination.  These latter <hi rend="italic">theorize</hi>.  Can you not fancy the 
+shout of scorn with which my words would be received by our 
+progenitors were it possible for them to be now looking over my 
+shoulder?  These men, I say, <hi rend="italic">theorize</hi>; and their theories are 
+simply corrected, reduced, systematized &mdash; cleared, little by 
+little, of their dross of inconsistency &mdash; until, finally, a 
+perfect consistency stands apparent which even the most stolid 
+admit, because it <hi rend="italic">is</hi> a consistency, to be an absolute and an 
+unquestionable <hi rend="italic">truth</hi>. 
+</p><p><hi rend="italic">April</hi> 4. &mdash;  The new gas is doing wonders, in conjunction 
+with the new improvement with gutta percha.  How very safe, 
+commodious, manageable, and in every respect convenient are our 
+modern balloons!  Here is an immense one approaching us at the 
+rate of at least a hundred and fifty miles an hour.  It seems to 
+be crowded with people &mdash; perhaps there are three or four hundred 
+passengers &mdash; and yet it soars to an elevation of nearly a mile, 
+looking down upon poor us with sovereign contempt.  Still a 
+hundred or even two hundred miles an hour is slow travelling, 
+after all.  <hi rend="italic">Do</hi> you remember our flight on the railroad across 
+the Kanadaw continent? &mdash; fully three hundred miles the hour &mdash; 
+<hi rend="italic">that</hi> was travelling.  Nothing to be seen though &mdash; nothing to be 
+done but flirt, feast and dance in the magnificent saloons.  Do 
+you remember what an odd sensation was experienced when, by 
+chance, we caught a glimpse of external objects while the cars 
+were in full flight?  Everything seemed unique &mdash; in one mass.  For 
+my part, I cannot say but that I preferred the travelling by the 
+slow train of a hundred miles the hour.  Here we were permitted 
+to have glass windows &mdash; even to have them open &mdash; and something like 
+a distinct view of the country was attainable. . . .  Pundit says 
+that <hi rend="italic">the route</hi> for the great Kanadaw railroad must have been 
+in some measure marked out about nine hundred years ago!  In 
+fact, he goes so far as to assert that actual traces of a road 
+are still discernible &mdash; traces referable to a period quite as 
+remote as that mentioned.  The 
+<pb n="301"/>  
+track, it appears, was <hi rend="italic">double</hi> 
+only; ours, you know, has twelve paths; and three or four new 
+ones are in preparation.  The ancient rails were very slight, and 
+placed so close together as to be, according to modern notions, 
+quite frivolous, if not dangerous in the extreme.  The present 
+width of track &mdash; fifty feet &mdash; is considered, indeed, scarcely 
+secure enough.  For my part, I make no doubt that a track of some 
+sort <hi rend="italic">must</hi> have existed in very remote times, as Pundit 
+asserts; for nothing can be clearer, to my mind, than that, at 
+some period &mdash; not less than seven centuries ago, certainly &mdash; the 
+Northern and Southern Kanadaw continents were <hi rend="italic">united</hi>; the 
+Kanawdians, then, would have been driven, by necessity, to a 
+great railroad across the continent. 
+</p><p><hi rend="italic">April</hi> 5. &mdash;   I am almost devoured by <hi rend="italic">ennui</hi>.  Pundit 
+is the only conversible person on board; and he, poor soul! can 
+speak of nothing but antiquities.  He has been occupied all the 
+day in the attempt to convince me that the ancient Amriccans 
+<hi rend="italic">governed themselves</hi>! &mdash; did ever anybody hear of such an 
+absurdity? &mdash; that they existed in a sort of every-man-for-himself 
+confederacy, after the fashion of the 'prairie dogs' that we read 
+of in fable.  He says that they started with the queerest idea 
+conceivable, viz.: that all men are born free and equal &mdash; this in 
+the very teeth of the laws of <hi rend="italic">gradation</hi> so visibly impressed 
+upon all things both in the moral and physical universe.  Every 
+man 'voted', as they called it &mdash; that is to say, meddled with 
+public affairs &mdash; until, at length, it was discovered that what is 
+everybody's business is nobody's, and that the 'Republic' (so the 
+absurd thing was called) was without a government at all.  It is 
+related, however, that the first circumstance which disturbed, 
+very particularly, the self-complacency of the philosophers who 
+constructed this 'Republic', was the startling discovery that 
+universal suffrage gave opportunity for fraudulent schemes, by 
+means of which any desired number of votes might at any time be 
+polled, without the possibility of prevention or even detection, 
+by any party which should be merely villainous enough not to be 
+ashamed of the fraud.  A little reflection upon this discovery 
+sufficed to render evident the consequences, which were that 
+rascality <hi rend="italic">must</hi> predominate &mdash; in a word, that a republican 
+government <hi rend="italic">could</hi> never be anything but a rascally one.  While 
+the philosophers, however, were busied in blushing at their 
+stupidity in not having foreseen these inevitable evils, and 
+intent upon the invention of new theories, the matter was put to 
+an abrupt issue by a fellow of the name of <hi rend="italic">Mob</hi>, who took 
+everything into his own hands and set up a despotism, in 
+comparison with which 
+<pb n="302"/>  
+those of the fabulous Zeros and Hellofagabaluses 
+were respectable and delectable.  This Mob (a 
+foreigner, by the by) is said to have been the most odious of all 
+men that ever encumbered the earth.  He was a giant in stature &mdash; 
+insolent, rapacious, filthy; had the gall of a bullock with the 
+heart of an hyena and the brains of a peacock.  He died, at 
+length, by dint of his own energies, which exhausted him. 
+Nevertheless, he had his uses, as everything has, however vile, 
+and taught mankind a lesson which to this day it is in no danger 
+of forgetting &mdash; never to run directly contrary to the natural 
+analogies.  As for Republicanism, no analogy could be found for 
+it upon the face of the earth &mdash; unless we except the case of the 
+'prairie dogs', an exception which seems to demonstrate, if 
+anything, that democracy is a very admirable form of government &mdash; 
+for dogs. 
+</p><p><hi rend="italic">April</hi> 6. &mdash;   Last night had a fine view of Alpha Lyrae, 
+whose disk, through our captain's spy-glass, subtends an angle of 
+half a degree, looking very much as our sun does to the naked eye 
+on a misty day.  Alpha Lyrae, although so <hi rend="italic">very</hi> much larger 
+than our sun, by the by, resembles him closely as regards its 
+spots, its atmosphere, and in many other particulars.  It is only 
+within the last century, Pundit tells me, that the binary 
+relation existing between these two orbs began even to be 
+suspected.  The evident motion of our system in the heavens was 
+(strange to say!) referred to an orbit about a prodigious star in 
+the centre of the galaxy.  About this star, or at all events in 
+the centre of gravity common to all the globes of the Milky Way 
+and supposed to be near Alcyone in the Pleiades, every one of 
+these globes was declared to be revolving, our own performing the 
+circuit in a period of 117,000,000 of years!  <hi rend="italic">We</hi>, with our 
+present lights, our vast telescopic improvements, and so forth, 
+of course find it difficult to comprehend <hi rend="italic">the ground</hi> of an 
+idea such as this.  Its first propagator was one Mudler.  He was 
+led, we must presume, to this wild hypothesis by mere analogy in 
+the first instance; but, this being the case, he should have at 
+least adhered to analogy in its development.  A great central orb 
+<hi rend="italic">was</hi>, in fact, suggested: so far Mudler was consistent.  This 
+central orb, however, dynamically, should have been greater than 
+all its surrounding orbs taken together.  The question might then 
+have been asked &mdash; 'Why do we not see it?' &mdash; <hi rend="italic">we</hi>, especially, who 
+occupy the mid region of the cluster &mdash; the very locality <hi rend="italic">near</hi> 
+which, at least, must be situated this inconceivable central sun. 
+The astronomer, perhaps, at this point, took refuge in the 
+suggestion of non-luminosity; and here analogy was 
+<pb n="303"/>  
+suddenly let 
+fall.  But even admitting the central orb non-luminous, how did 
+he manage to explain its failure to be rendered visible by the 
+incalculable host of glorious suns glaring in all directions 
+about it?  No doubt what he finally maintained was merely a 
+centre of gravity common to all the revolving orbs &mdash; but here 
+again analogy must have been let fall.  Our system revolves, it 
+is true, about a common centre of gravity, but it does this in 
+connection with and in consequence of a material sun whose mass 
+more than counterbalances the rest of the system.  The 
+mathematical circle is a curve composed of an infinity of 
+straight lines; but this idea of the circle &mdash; this idea of it 
+which, in regard to all earthly geometry, we consider as merely 
+the mathematical, in contra-distinction from the practical, idea &mdash; 
+is, in sober fact, the <hi rend="italic">practical</hi> conception which alone we 
+have any right to entertain in respect of those Titanic circles 
+with which we have to deal, at least in fancy, when we suppose 
+our system, with its fellows, revolving about a point in the 
+centre of the galaxy.  Let the most vigorous of human 
+imaginations but attempt to take a single step towards the 
+comprehension of a circuit so unutterable!  It would scarcely be 
+paradoxical to say that a flash of lightning itself, travelling 
+<hi rend="italic">for ever</hi> upon the circumference of this inconceivable circle, 
+would still <hi rend="italic">for ever</hi> be travelling in a straight line.  That 
+the path of our sun along such a circumference &mdash; that the 
+direction of our system in such an orbit &mdash; would, to any human 
+perception, deviate in the slightest degree from a straight line 
+even in a million of years, is a proposition not to be 
+entertained; and yet these ancient astronomers were absolutely 
+cajoled, it appears, into believing that a decisive curvature had 
+become apparent during the brief period of their astronomical 
+history &mdash; during the mere point &mdash; during the utter nothingness of 
+two or three thousand years!  How incomprehensible that 
+considerations such as this did not at once indicate to them the 
+true state of affairs &mdash; that of the binary revolution of our sun 
+and Alpha Lyrae around a common centre of gravity! 
+</p><p><hi rend="italic">April</hi> 7. &mdash;   Continued last night our astronomical 
+amusements.  Had a fine view of the five Neptunian asteroids, and 
+watched with much interest the putting up of a huge impost on a 
+couple of lintels in the new temple at Daphnis in the moon.  It 
+was amusing to think that creatures so diminutive as the 
+lunarians, and bearing so little resemblance to humanity, yet 
+evinced a mechanical ingenuity so much superior to our own.  One 
+finds it difficult, too, to conceive the vast masses, which these 
+people 
+<pb n="304"/>  
+handle so easily, to be as light as our reason tells us 
+they actually are. 
+</p><p><hi rend="italic">April</hi> 8. &mdash;   Eureka!  Pundit is in his glory.  A balloon 
+from Kanadaw spoke us to-day and threw on board several late 
+papers; they contain some exceedingly curious information 
+relative to Kanawdian or rather to Amriccan antiquities.  You 
+know, I presume, that labourers have for some months been 
+employed in preparing the ground for a new fountain at Paradise, 
+the emperor's principal pleasure garden.  Paradise, it appears, 
+has been, <hi rend="italic">literally</hi> speaking, an island time out of mind &mdash; 
+that is to say, its northern boundary was always (as far back as 
+any records extend) a rivulet, or rather a very narrow arm of the 
+sea.  This arm was gradually widened until it attained its 
+present breadth &mdash; a mile.  The whole length of the island is nine 
+miles; the breadth varies materially.  The entire area (so Pundit 
+says) was, about eight hundred years ago, densely packed with 
+houses, some of them twenty storeys high; land (for some most 
+unaccountable reason) being considered as especially precious 
+just in this vicinity.  The disastrous earthquake, however, of 
+the year 2050, so totally uprooted and overwhelmed the town (for 
+it was almost too large to be called a village) that the most 
+indefatigable of our antiquarians have never yet been able to 
+obtain from the site any sufficient date (in the shape of coins, 
+medals, or inscriptions) wherewith to build up even the ghost of 
+a theory concerning the manners, customs, etc. etc., of the 
+aboriginal inhabitants.  Nearly all that we have hitherto known 
+of them is, that they were a portion of the Knickerbocker tribe 
+of savages infesting the continent at its first discovery by 
+Recorder Riker, a knight of the Golden Fleece.  They were by no 
+means uncivilized, however, but cultivated various arts and even 
+sciences after a fashion of their own.  It is related of them 
+that they were acute in many respects, but were oddly afflicted 
+with a monomania for building what, in the ancient Amriccan, was 
+denominated 'churches' &mdash; a kind of pagoda instituted for the 
+worship of two idols that went by the names of Wealth and 
+Fashion.  In the end, it is said, the island became, nine-tenths 
+of it, church.  The women, too, it appears, were oddly deformed 
+by a natural protuberance of the region just below the small of 
+the back &mdash; although, most unaccountably, this deformity was looked 
+upon altogether in the light of a beauty.  One or two pictures of 
+these singular women have, in fact, been miraculously preserved. 
+They look very odd, <hi rend="italic">very</hi> &mdash; like something between a turkey-cock and a dromedary. 
+<pb n="305"/>  
+</p><p>Well, these few details are nearly all that have descended 
+to us respecting the ancient Knickerbockers.  It seems, however, 
+that while digging in the centre of the emperor's garden (which, 
+you know, covers the whole island), some of the workmen unearthed 
+a cubical and evidently chiselled block of granite, weighing 
+several hundred pounds.  It was in good preservation, having 
+received, apparently, little injury from the convulsion which 
+entombed it.  On one of its surfaces was a marble slab with (only 
+think of it) <hi rend="italic">an inscription &mdash; a legible inscription</hi>.  Pundit 
+is in ecstasies.  Upon detaching the slab, a cavity appeared, 
+containing a leaden box filled with various coins, a long scroll 
+of names, several documents which appear to resemble newspapers, 
+with other matters of intense interest to the antiquarian!  There 
+can be no doubt that all these are genuine Amriccan relics 
+belonging to the tribe called Knickerbocker.  The papers thrown 
+on board our balloon are filled with fac-similes of the coins, 
+MSS, typography, etc. etc.  I copy for your amusement the 
+Knickerbocker inscription on the marble slab: &mdash; 
+ 
+<lb/>         THIS CORNER STONE OF A MONUMENT TO THE 
+<lb/>                       MEMORY OF 
+<lb/>                   GEORGE WASHINGTON 
+<lb/>      WAS LAID WITH APPROPRIATE CEREMONIES ON THE 
+<lb/>               19TH DAY OF OCTOBER, 1847, 
+<lb/>          THE ANNIVERSARY OF THE SURRENDER OF 
+<lb/>                    LORD CORNWALLIS 
+<lb/>           TO GENERAL WASHINGTON AT YORKTOWN, 
+<lb/>                       A.D. 1781, 
+<lb/>               UNDER THE AUSPICES OF THE 
+<lb/>         WASHINGTON MONUMENT ASSOCIATION OF THE 
+<lb/>                   CITY OF NEW YORK. 
+ 
+</p><p>This, as I give it, is a verbatim translation done by Pundit 
+himself, so there <hi rend="italic">can</hi> be no mistake about it.  From the few 
+words thus preserved, we glean several important items of 
+knowledge, not the least interesting of which is the fact that a 
+thousand years ago <hi rend="italic">actual</hi> monuments had fallen into disuse &mdash; 
+as was 
+<pb n="306"/>  
+all very proper &mdash; the people contenting themselves, as we 
+do now, with a mere indication of the design to erect a monument 
+at some future time; a corner-stone being cautiously laid by 
+itself 'solitary and alone' (excuse me for quoting the great 
+Amriccan poet Benton!) as a guarantee of the magnanimous 
+<hi rend="italic">intention</hi>.  We ascertain, too, very distinctly, from this 
+admirable inscription, the how, as well as the where and the 
+what, of the great surrender in question.  As to the <hi rend="italic">where</hi>, 
+it was Yorktown (wherever that was), and as to the <hi rend="italic">what</hi>, it 
+was General Cornwallis (no doubt some wealthy dealer in corn). 
+<hi rend="italic">He</hi> was surrendered.  The inscription commemorates the 
+surrender of &mdash; what? &mdash; why, 'of Lord Cornwallis'.  The only 
+question is, what could the savages wish him surrendered for. 
+But when we remember that these savages were undoubtedly 
+cannibals, we are led to the conclusion that they intended him 
+for sausage.  As to the <hi rend="italic">how</hi> of the surrender, no language 
+could be more explicit.  Lord Cornwallis was surrendered (for 
+sausage) 'under the auspices of the Washington Monument 
+Association' &mdash; no doubt a charitable institution for the 
+depositing of cornerstones. &mdash;   But, heaven bless me! what is the 
+matter?  Ah! I see &mdash; the balloon has collapsed, and we shall have 
+a tumble into the sea.  I have, therefore, only time enough to 
+add that, from a hasty inspection of fac-similes of newspapers, 
+etc., I find that <hi rend="italic">the</hi> great men in those days among the 
+Amriccans were one John, a smith, and one Zacchary, a tailor. 
+</p><p>Good-bye, until I see you again.  Whether you ever get this 
+letter or not is a point of little importance, as I write 
+altogether for my own amusement.  I shall cork the MS up in a 
+bottle, however, and throw it into the sea. 
+               Yours everlastingly,<lb/> 
+                                             PUNDITA<lb/> 
+</p> 
+ 
+</div1> 
+</body> 
+</text> 
+</TEI.2> 

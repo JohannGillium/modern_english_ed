@@ -1,0 +1,375 @@
+<?xml version="1.0"?>
+
+<?dlps id="AusSear"?>
+<?dlps page-images="color" figure-images="yes"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+
+
+
+
+<!ENTITY DSSR_000002663_0001 SYSTEM "000002663_0001" NDATA uvaHighRes>
+<!ENTITY DSSR_000002663_0002 SYSTEM "000002663_0002" NDATA uvaHighRes>
+<!ENTITY DSSR_000002663_0003 SYSTEM "000002663_0003" NDATA uvaHighRes>
+<!ENTITY DSSR_000002663_0004 SYSTEM "000002663_0004" NDATA uvaHighRes>
+]>
+
+<TEI.2 id="AusSear">
+   <teiHeader type="migrated" creator="Etext">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Search for Jean Baptiste</title>
+            <title type="sort">search for jean baptiste</title>
+            <author>Austin, Mary</author>
+            <respStmt>
+               <resp>Creation of machine-readable version:</resp>
+               <name>Judy Boss</name>
+               <resp>Creation of digital images:</resp>
+               <name>Catherine Tousignant</name>
+               <resp>Conversion to TEI.2-conformant markup:</resp>
+               <name>University of Virginia Library Electronic Text Center.</name>
+            </respStmt>
+         </titleStmt>
+         <extent>ca. <num type="kilobytes">17</num> kilobytes</extent>
+         <publicationStmt>
+            <publisher>University of Virginia Library</publisher>
+            <pubPlace>Charlottesville, Virginia</pubPlace>
+            <idno type="ETC">AusSear</idno>
+            <date value="1996">1996</date>
+            <availability status="public">
+               <p n="copyright">Copyright &#xa9; 1996 by the Rector and Visitors of the
+                  University of Virginia</p>
+               <p n="access">Publicly accessible</p>
+            </availability>
+            <idno type="uva-pid">uva-lib:476684</idno>
+         </publicationStmt>
+         <seriesStmt>
+            <title>University of Virginia Library, Text collection</title>
+            <idno type="uva-set">UVA-LIB-Text</idno>
+         </seriesStmt>
+         <notesStmt>
+            <note>
+               <p>Illustrations have been included from the print version.</p>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title type="main">The Search for Jean Baptiste</title>
+                  <title level="j">
+                     <hi rend="italic">St. Nicholas</hi>
+                  </title>
+                  <title type="sort">search for jean baptiste</title>
+                  <author>Mary Austin</author>
+               </titleStmt>
+               <editionStmt>
+                  <p>Volume 30</p>
+               </editionStmt>
+               <extent>1024-1027.</extent>
+               <publicationStmt>
+                  <publisher>The Century Co.</publisher>
+                  <pubPlace>New York</pubPlace>
+                  <date value="1903-09">September 1903</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>
+                     <p>Copy consulted: UVA Library call number: AP201 .S3</p>
+                  </note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>All quotation marks retained as data.</p>
+            <p>Spell-check and verification made against printed text using WordPerfect spell
+               checker.</p>
+            <p>All unambiguous end-of-line hyphens have been removed, and the trailing part of a
+               word has been joined to the preceding line.</p>
+            <p>The images exist as archived TIFF images, one or more JPEG versions for general use,
+               and thumbnail GIFs.</p>
+            <p id="ETC">Keywords in the header are a local Electronic Text Center scheme to aid in
+               establishing analytical groupings.</p>
+         </editorialDecl>
+         <refsDecl>
+            <p>ID elements are given for each page element and are composed of the text's unique
+               cryptogram and the given page number, as in AusEmma1 for page one of Jane Austen's
+               Emma.</p>
+         </refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <creation>
+            <date value="1903">1903</date>
+         </creation>
+         <langUsage>
+            <language id="eng" usage="main">English</language>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term>fiction; prose</term>
+               <term>Women Writers</term>
+            </keywords>
+            <keywords>
+               <term type="artist">W. Benson</term>
+               <term type="visual work">Illustrations</term>
+            </keywords>
+            <keywords>
+               <term>24-bit color; 300 dpi</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date value="1996-05">May 1996</date>
+            <respStmt>
+               <resp>corrector</resp>
+               <name>Judy Boss</name>
+            </respStmt>
+            <item>On page 1026, paragraph 6, line 2, I have changed "eves" to "eaves"</item>
+         </change>
+         <change>
+            <date value="1996-05">May 1996</date>
+            <respStmt>
+               <resp>corrector</resp>
+               <name>Catherine Tousignant</name>
+            </respStmt>
+            <item>Added TEI header and tags</item>
+         </change>
+         <change>
+            <date value="2005-06">June 2005</date>
+            <respStmt>
+               <resp>corrector</resp>
+               <name>John Ivor Carlson</name>
+            </respStmt>
+            <item>Converted sgml to xml.</item>
+         </change>
+         <change>
+            <date value="2007-09">September 2007</date>
+            <respStmt>
+               <resp>Migration</resp>
+               <name>Ethan Gruber, University of Virginia Library</name>
+            </respStmt>
+            <item>Converted XML markup from TEI Lite to uva-dl-tei (TEI P4 with local
+               customizations).</item>
+         </change>
+         <change>
+            <date value="2008-01">January 2008</date>
+            <respStmt>
+               <resp>Migration</resp>
+               <name>Greg Murray, University of Virginia Library</name>
+            </respStmt>
+            <item>Programmatically updated TEI header markup (but not header content) for minimal
+               compliance with current QA requirements.</item>
+         </change>
+<change>
+<date value="2009-03">March 2009</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Scholarly Resources, University of Virginia Library</name>
+</respStmt>
+<item>Added and/or replaced the digital images accompanying the electronic text. Scanning of exterior and interior (ie. pages) of item was done only for items found in the University of Virginia Special Collections Library.</item>
+</change>
+      </revisionDesc>
+   </teiHeader>
+
+   <text id="d1">
+
+
+      <body id="d2">
+         <div1 type="section" id="d3">
+            <pb entity="DSSR_000002663_0001" n="1024"/>
+            <head>I.</head>
+
+
+            <p>ONE bred to the hills and the care of dumb, helpless things must in the end, whatever
+               else befalls, come back to them. That is the comfort they give him for their care and
+               the revenge they have of their helplessness. If this were not so Gabriel Lausanne
+               would never have found Jean Baptiste. Babette, who was the mother of Jean Baptiste
+               and the wife of Gabriel, understood this also, and so came to her last sickness in
+               more comfort of mind than would have been otherwise possible; for it was understood
+               between them that when he had buried her, Gabriel was to go to America to find Jean
+               Baptiste. </p>
+            <p>He had been a good son to them in his youth and good to look upon: a little short of
+               stature,&mdash;no taller, in fact, than Babette, who was a head shorter than
+               Gabriel,&mdash;but broad in the shoulders and strong in the thighs beyond belief.
+               But the strength of his thews and sinews had been Jean Baptiste's undoing. About the
+               time he came to the age of a man and the fullness of his strength, he began to think
+               too much of himself and his cleverness in breaking other people's collar-bones by
+               pitching them over his shoulder. </p>
+            <p>The towns drew him; the hills had no power to hold. He left minding the sheep; he
+               sought jolly companions, and went boisterously about with them from inn door to inn
+               door. Finally the fame of his wrestling spread until there were few men in the
+               province dared try a fall with him. From bragging he went to broiling, and at last
+               fell into such grievous trouble that there was nothing for it but to slip away to
+               America between the night and the morning. </p>
+            <p>Then Gabriel and Babette, who had not thought before to take stock of their years,
+               began to understand that they were old, and at the time when they had looked to see
+               children's children about their knees, Babette had slipped away to find the little
+               ones who died before Jean Baptiste was born, and Gabriel was beginning his search for
+               Jean Baptiste, the well beloved. </p>
+            <p>America is a wide land, but the places in it where men fare forth to the hills with
+               sheep are known and limited; and when he had inquired where these were, there,
+               because of the faith he had, went Gabriel Lausanne. He came, in the course of a year,
+               to the shepherd world that lies within the Sierra Nevada and its outlying spurs. For
+               it is known that the shepherds of the Sierras are strange, Frenchmen, Basques mostly,
+               and a few Mexicans, but never an English-speaking one, from the Temblor Hills to the
+               Minaretts. </p>
+            <p>Things went hardly with Gabriel at first, for he was new to the land and bewildered
+               by its bigness; but once he had gotten a place to help at lambing-time his work was
+               assured, for there was little he did not know about lambs. And finally he was given
+               charge of a flock, and went wandering with it into the high glacier meadows, learning
+               the haps and seasons of the hills. He got to know the trails and the landmark peaks,
+               what meadows were free and what could be rented for a song, the trail of bear and
+               wildcat, <pb entity="DSSR_000002663_0002" n="1025"/> the chances of snow in August, and all shepherd's lore. He
+               knew the brands of sheep as a man knows the faces of his neighbors, and from the
+               signs of the trails how they fared that were ahead of him, and how to prosper his
+               own. </p>
+            <p>All this time he had not left off inquiring for Jean Baptiste, though the manner in
+               which he should do this gave much trouble of mind to Gabriel Lausanne. He thought it reasonable to suppose that Jean Baptiste
+               had not kept his own name, lest the old wrong should find him out by means of it. And
+               if it should come to his ears that inquiries were made concerning him, he might be
+               more careful to hide himself, suspecting an enemy. In the end Gabriel had to content
+               himself asking every man he met for news of his son, whom he loved dearly and would
+               find. </p>
+            <p>"Jean Baptiste, your father loves you," he wrote upon the rocks; "Jean Baptiste, your
+               father loves you," he cut painstakingly upon the blazed trunks of pines; and "Jean
+               Baptiste!" he whispered nightly to the wide-open stars when he lay with his flocks
+               wintering on the sunward slopes of the Little Antelope. </p>
+         </div1>
+         <div1 type="section" id="d4">
+            <head>II.</head>
+
+
+            <p>SO the years went over him, and his heart warmed toward the big new land where any
+               meadow might hold his son, or any coyote-scaring fire might be Jean Baptiste's. </p>
+            <p>By as many shepherds as he met Gabriel Lausanne was respected for his knowledge of
+               ailing sheep, and laughed at for his simple heart, but as yet he had not come up with
+               the shepherds of Los Alamos. The Los Alamos grant covered thousands of acres of good
+               pasture-lands, but they counted their flocks and herds by tens of thousands, and
+               reached out as far as they could or dared into the free forest-lands and the glacier
+               meadows set between. </p>
+            <p>They sent out large flocks, strong and well <pb entity="DSSR_000002663_0003" n="1026"/> shepherded; and what they
+               could not get by the fair right of first comers, they took by force and wile. They
+               wrested the best feeding-grounds from small shepherds by the sheer force of numbers,
+               and when they met with bands strong and adventurous as their own, the shepherds
+               cracked one another's heads merrily with their long staves, and the pasture went to
+               the men with the thickest skulls. </p>
+            <p>They were bold rogues, those shepherds of Los Alamos. They would head their flocks
+               away from the line of the Forest Reserve, under the ranger's eye, and as soon as his
+               head was turned cut back to the forbidden pastures, and out again before he could
+               come up with them. </p>
+            <p>They turned streams out of their courses, and left uncovered fires behind them to run
+               unchecked in the wood, for the sake of the new feed that grew up in the burned
+               districts. For them the forest existed only to feed sheep, and Los Alamos sheep at
+               that. </p>
+            <p>There are shepherds in the Sierras who from long association grow into a considerable
+               knowledge of woodcraft and have respect for the big trees, but not the shepherds of
+               Los Alamos. No doubt there was much mischief charged to them which was not properly
+               their own, but in any event they had never been loved, and were even dreaded because
+               of that one of them who was called "The Mule." </p>
+            <p>Every shepherd has two names&mdash;the one he signs to his contract and the one
+               he is known by. The Mule, so called because of a certain manner of surly silence and
+               the exceeding breadth and strength of his back, had been picked up by Le Berge, the
+               head shepherd, at a shearing, poorly clad and wholly at the end of his means. There
+               was that in his look and the way in which he handled a sheep that made it plain that
+               he had been born to it; and when he had plucked up a man who annoyed him and pitched
+               him over his shoulder, Le Berge loved him as a brother. He hired him forthwith,
+               though he had to discharge another man to make place for him. And now it was said
+               that whoever came in the way of the shepherds of Los Alamos must try a fall with The
+               Mule for the right of the feeding-grounds; and the fame of his wrestling was such
+               that timid shepherds kept well away from his trail. </p>
+         </div1>
+         <div1 type="section" id="d5">
+            <head>III.</head>
+
+
+            <p>GABRIEL LAUSANNE, keeping to the small meadows and treeless hills, had not yet fallen
+               in with the flocks of Los Alamos. The fifth year of his shepherding there was no rain
+               at all on the inland ranges. The foot-hill pastures failed early, and by the middle
+               of July the flocks were all driven to the feeding-grounds of the high Sierras. </p>
+            <p>Gabriel came early to Manache, a chain of grassy, gentian-flowered plats strung on
+               the thread of a snow-fed brook, large and open, and much frequented by shepherds. In
+               Manache, if one waits long enough, one gets to know all the flocks and every shepherd
+               ranging between Tahoe and the Temblors. Gabriel, a little wearied at heart, purposed
+               to stay the summer through in that neighborhood, moving only as the flock required. </p>
+            <p>Jean Baptiste he knew must come to the hills as surely as the swallow to the eaves or
+               the stork to her chimney, but he was perplexed by the thought that in the years that
+               had passed so many changes had come to them both that they might unwittingly meet and
+               pass each other. He wished that he might find other messengers than the wind and the
+               rain-washed rocks and the fast-obliterating pines. And while Gabriel pondered these
+               things with a sore heart, two thousand of the Los Alamos sheep poured down upon his
+               meadow from the upper pass. </p>
+            <p>Their shuddering bleat, their jangling bells, sounded unseen among the tamarack pines
+               all the half of one day before they found him. But when they came into the open and
+               saw him feeding down the stream-side among the dwarf willows, the shepherds of Los
+               Alamos promised themselves great sport. </p>
+            <p>Le Berge, walking lazily at the head of his flock, spoke a word to his dogs, and the
+               dogs in their own fashion spoke to the flock, and straightway the sheep began to pour
+               steadily down the meadow and around the flock of Gabriel; for that was a way they of
+               Los Alamos had&mdash;compelling shepherds to keep their sheep parted out at their
+               own cost. </p>
+            <p>"And what do you here, friend?" said Le Berge, when he had reached Gabriel. <pb entity="DSSR_000002663_0004"
+                  n="1027"/>
+            </p>
+            <p>"I feed my flock," answered the old man. "The pasture is free. Also I seek my son." </p>
+            <p>The under-shepherds came hurrying, expecting to be greatly entertained, and one
+               called to another, "Hi, Mule, here is work for you!" </p>
+            <p>The man so called came slowly and in silence, a short man, but close-knit and broad
+               in the shoulders, a wrestler by the look of him, and leaning upon his staff until his
+               part of the entertainment should begin. </p>
+            <p>"Free is it," said Le Berge, still to Gabriel. "Yes, free to those who can hold it.
+               By the turn of your tongue you should be from Bourdonne. Here, Mule, is a countryman
+               of thine. Come teach him the law of the feeding-ground." </p>
+            <p>"I am an old man," said Gabriel, "and I wish no harm. Help me out with my flock and I
+               will begone. But you," he said to The Mule, "are you truly of Bourdonne? I am Gabriel
+               Lausanne, and I seek my son, Jean Baptiste, whom I love. We also are of Bourdonne; it
+               may be you can tell where he is to be found." </p>
+            <p>"Enough said," cried Le Berge. "Up with him, Mule." </p>
+         </div1>
+         <div1 type="section" id="d6">
+            <head>IV.</head>
+
+            <p>AND then the shepherds of Los Alamos looked with mouths agape to see that The Mule
+               stood still, and the knuckles of the hand that grasped his staff were strained and
+               white. The voice of Gabriel wavered on amid the bleating of the sheep: </p>
+            <p>"If you are surely of Bourdonne you will earn an old man's blessing; and say to him
+               that his mother is dead, and his father has come to find him. Say to my son, 'Jean
+               Baptiste, your father loves you.'" The old man stooped a little, that he might meet
+               The Mule eye to eye. </p>
+            <p>"Jean Baptiste," he said again, and then his staff shook in his hands, though there
+               was no wind, and his voice shook, too, with a sudden note of hope and doubt and
+               wistful inquiry. "Jean Baptiste," he cried, "your father loves you! Jean
+               Baptiste&mdash;" </p>
+            <p>Jean Baptiste, called The Mule, dropped his staff and wept with his face between his
+               hands, and his whole strong frame shook with emotion, and his father fell on his neck
+               and kissed him. </p>
+            <p>So Gabriel found his son. </p>
+         </div1>
+         <div1 type="section" id="d7">
+            <head>V.</head>
+
+            <p>AND now it is said that there are no better shepherds in the Sierras than the two
+               Lausannes, the one famed for his skill with the lambs, the other for his knowledge of
+               the feeding-grounds. </p>
+            <p>They will not be hired apart, and it is believed that it will be so until the end;
+               for it is said at shearings, as a joke that is half believed, that when father
+               Gabriel is too old to walk, The Mule will carry him. </p>
+            <p>They are a silent pair, and well content to be so; but as often as they come by
+               Manache, when they sit by the twilight fire at the day's end, Gabriel puts out his
+               hand to his son, saying softly, as of old habit, "Jean Baptiste, your father loves
+               you"; and The Mule, patting the hand upon his arm, makes answer, "Ay, father; Jean
+               Baptiste knows." 
+            </p>
+         </div1>
+
+      </body>
+   </text>
+</TEI.2>

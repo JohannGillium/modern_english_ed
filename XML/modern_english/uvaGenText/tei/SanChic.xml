@@ -1,0 +1,4092 @@
+<?xml version="1.0"?>
+
+<?dlps id="SanChic"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOnum SYSTEM "http://text.lib.virginia.edu/charent/iso-num.ent"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+
+]>
+<TEI.2 id="SanChic">
+<teiHeader type="migrated" creator="Etext">
+<fileDesc>
+<titleStmt>
+<title type="main">Chicago Poems</title>
+<title type="sort">chicago poems</title>
+<author>Sandburg, Carl</author>
+<respStmt>
+<resp>Creation of machine-readable version:</resp>
+<name>Charles Keller</name>
+<resp>Conversion to TEI.2-conformant markup:</resp>
+<name>University of Virginia Library Electronic Text Center.</name>
+</respStmt>
+</titleStmt>
+<extent>ca. <num type="kilobytes">143</num> kilobytes</extent>
+<publicationStmt>
+<publisher>University of Virginia Library</publisher>
+<pubPlace>Charlottesville, Virginia</pubPlace>
+<idno type="ETC">SanChic</idno>
+<date value="2000">2000</date>
+<availability status="public">
+<p n="copyright">Copyright &copy; 2000 by the Rector and Visitors of the University of Virginia</p>
+<p n="access">Publicly accessible</p>
+</availability>
+<idno type="uva-pid">uva-lib:476356</idno>
+</publicationStmt>
+<seriesStmt>
+<title>University of Virginia Library, Text collection</title>
+<idno type="uva-set">UVA-LIB-Text</idno>
+</seriesStmt>
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title type="main">Chicago Poems</title>
+<title type="sort">chicago poems</title>
+<author>Carl Sandburg</author>
+</titleStmt>
+<extent>183 pp.</extent>
+<publicationStmt>
+<publisher>H.Holt</publisher>
+<pubPlace>New York</pubPlace>
+<date value="1916">1916</date>
+<idno type="callNo">Source copy consulted: UVA Alderman Library PS3537.A618C5 1916</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+</projectDesc>
+<editorialDecl>
+<p>All unambiguous end-of-line hyphens have been removed, and the  trailing part of a word has been joined to the preceding line.</p>
+<p id="ETC">Some keywords in the header are a local Electronic Text Center scheme  to aid in establishing analytical groupings.</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date value="1916">1916</date>
+</creation>
+<langUsage>
+<language id="eng" usage="main">English</language>
+</langUsage>
+<textClass>
+<keywords>
+<term>fiction</term>
+<term>poetry</term>
+<term>masculine</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change>
+<date value="2000-10">10/2000</date>
+<respStmt>
+<resp>corrector</resp>
+<name>S. A. Cohen</name>
+</respStmt>
+<item/>
+</change>
+<change>
+<date value="2005-07">July 2005</date>
+<respStmt>
+<resp>Corrector</resp>
+<name>John Ivor Carlson</name>
+</respStmt>
+<item>Converted to XML and/or checked tags.</item>
+</change>
+<change>
+<date value="2007-09">September 2007</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Ethan Gruber, University of Virginia Library</name>
+</respStmt>
+<item>Converted XML markup from TEI Lite to uva-dl-tei (TEI P4 with local customizations).</item>
+</change>
+<change>
+<date value="2008-01">January 2008</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Greg Murray, University of Virginia Library</name>
+</respStmt>
+<item>Programmatically updated TEI header markup (but not header content) for minimal compliance with current QA requirements.</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text id="d1">
+<front id="d2">
+<titlePage id="d3">
+	<pb/>
+<titlePart type="main">CHICAGO POEMS</titlePart>
+<lb/>
+<byline>By<lb/>
+<docAuthor>CARL SANDBURG</docAuthor>
+</byline>
+<docImprint>
+<pubPlace>NEW YORK</pubPlace><lb/>
+HENRY HOLT AND COMPANY<lb/>
+COPYRIGHT, <date value="1916">1916</date><lb/><pb/></docImprint></titlePage>
+
+
+<div1 type="dedication" id="d4">
+
+
+<p>To<lb/>
+MY WIFE AND PAL<lb/>
+LILLIAN STEICHEN SANDBURG<lb/></p>
+</div1>
+
+<div1 type="preface" id="d5">
+<pb/>
+<head>PREFATORY NOTE</head>
+<p>Some of these writings were first printed in Poetry: A
+Magazine of Verse, Chicago. Permission to reprint is by courtesy of
+that publication. The writer wishes to thank Harriet Monroe and
+Alice Corbin Henderson, editors of Poetry, and William Marion
+Reedy, editor of Reedy's Mirror, St. Louis, whose services have
+heightened what values of human address herein hold good.</p>
+
+</div1>
+
+<div1 type="contents" id="d6">
+<pb n="vii"/>
+<head>CONTENTS</head>
+<lb/>
+<list>
+<item>CHICAGO POEMS                      PAGE</item>
+<lb/>
+<item>Chicago. . . . . . . . . . . . . . .3
+</item><item>Sketch . . . . . . . . . . . . . . .5
+</item><item>Masses . . . . . . . . . . . . . . .6
+</item><item>Lost . . . . . . . . . . . . . . . .7
+</item><item>The Harbor . . . . . . . . . . . . .8
+</item><item>They Will Say. . . . . . . . . . . .9
+</item><item>Mill-Doors . . . . . . . . . . . . .10
+</item><item>Halsted Street Car . . . . . . . . .11
+</item><item>Clark Street Bridge. . . . . . . . .12
+</item><item>Passers-by . . . . . . . . . . . . .13
+</item><item>The Walking Man of Rodin . . . . . .14
+</item><item>Subway . . . . . . . . . . . . . . .15
+</item><item>The Shovel Man . . . . . . . . . . .16
+</item><item>A Teamster's Farewell. . . . . . . .17
+</item><item>Fish Crier . . . . . . . . . . . . .18
+</item><item>Picnic Boat. . . . . . . . . . . . .19
+</item><item>Happiness. . . . . . . . . . . . . .20
+</item><item>Muckers. . . . . . . . . . . . . . .21
+</item><item>Blacklisted. . . . . . . . . . . . .22
+</item><item>Graceland. . . . . . . . . . . . . .23
+</item><item>Child of the Romans. . . . . . . . .24
+</item><item>The Right to Grief . . . . . . . . .25
+</item><item>Mag. . . . . . . . . . . . . . . . .27
+</item><item>Onion Days . . . . . . . . . . . . .28
+</item><item>Population Drifts. . . . . . . . . .30
+</item><item>Cripple. . . . . . . . . . . . . . .31
+</item><item>A Fence. . . . . . . . . . . . . . .32
+</item><item>Anna Imroth. . . . . . . . . . . . .33
+</item><item>Working Girls. . . . . . . . . . . .34
+<pb n="viii"/>
+</item><item>Mamie. . . . . . . . . . . . . . . .35
+</item><item>Personality. . . . . . . . . . . . .36
+</item><item>Cumulatives. . . . . . . . . . . . .37
+</item><item>To Certain Journeymen. . . . . . . .38
+</item><item>Chamfort . . . . . . . . . . . . . .39
+</item><item>Limited. . . . . . . . . . . . . . .40
+</item><item>The Has-Been . . . . . . . . . . . .41
+</item><item>In a Back Alley. . . . . . . . . . .42
+</item><item>A Coin . . . . . . . . . . . . . . .43
+</item><item>Dynamiter. . . . . . . . . . . . . .44
+</item><item>Ice Handler. . . . . . . . . . . . .45
+</item><item>Jack . . . . . . . . . . . . . . . .46
+</item><item>Fellow Citizens. . . . . . . . . . .47
+</item><item>Nigger . . . . . . . . . . . . . . .49
+</item><item>Two Neighbors. . . . . . . . . . . .50
+</item><item>Style. . . . . . . . . . . . . . . .51
+</item><item>To Beachey&mdash;1912 . . . . . . . . . .52
+</item><item>Under a Hat Rim. . . . . . . . . . .53
+</item><item>In a Breath. . . . . . . . . . . . .54
+</item><item>Bath . . . . . . . . . . . . . . . .55
+</item><item>Bronzes. . . . . . . . . . . . . . .56
+</item><item>Dunes. . . . . . . . . . . . . . . .58
+</item><item>On the Way . . . . . . . . . . . . .59
+</item><item>Ready to Kill. . . . . . . . . . . .60
+</item><item>To a Contemporary Bunkshooter. . . .61
+</item><item>Skyscraper . . . . . . . . . . . . .65
+</item>
+<lb/>
+<item>HANDFULS
+</item>
+<item>Fog. . . . . . . . . . . . . . . . .71
+</item><item>Pool . . . . . . . . . . . . . . . .72
+</item><item>Jan Kubelik. . . . . . . . . . . . .73
+</item><item>Choose . . . . . . . . . . . . . . .74
+</item><item>Crimson. . . . . . . . . . . . . . .74
+</item><item>Whitelight . . . . . . . . . . . . .75
+</item><item>Flux . . . . . . . . . . . . . . . .76
+</item><item>Kin. . . . . . . . . . . . . . . . .77</item>
+<pb n="ix"/>
+<item>White Shoulders. . . . . . . . . . .79
+</item><item>Losses . . . . . . . . . . . . . . .80
+</item><item>Troths . . . . . . . . . . . . . . .81
+</item>
+<lb/>
+<item>WAR POEMS (1914-1915)
+</item><lb/>
+<item>Killers. . . . . . . . . . . . . . .85
+</item><item>Among the Red Guns . . . . . . . . .87
+</item><item>Iron . . . . . . . . . . . . . . . .88
+</item><item>Murmurings in a Field Hospital . . .89
+</item><item>Statistics . . . . . . . . . . . . .90
+</item><item>Fight. . . . . . . . . . . . . . . .91
+</item><item>Buttons. . . . . . . . . . . . . . .92
+</item><item>And They Obey. . . . . . . . . . . .93
+</item><item>Jaws . . . . . . . . . . . . . . . .94
+</item><item>Salvage. . . . . . . . . . . . . . .95
+</item><item>Wars . . . . . . . . . . . . . . . .96</item>
+<lb/>
+<item>THE ROAD AND THE END</item>
+<lb/>
+<item>The Road and the End . . . . . . . .99
+</item><item>Choices. . . . . . . . . . . . . . .100
+</item><item>Graves . . . . . . . . . . . . . . .101
+</item><item>Aztec Mask . . . . . . . . . . . . .102
+</item><item>Momus. . . . . . . . . . . . . . . .103
+</item><item>The Answer . . . . . . . . . . . . .105
+</item><item>To a Dead Man. . . . . . . . . . . .107
+</item><item>Under. . . . . . . . . . . . . . . .108
+</item><item>A Sphinx . . . . . . . . . . . . . .109
+</item><item>Who Am I?. . . . . . . . . . . . . .110
+</item><item>Our Prayer of Thanks . . . . . . . .111</item>
+<lb/>
+<item>FOGS AND FIRES</item>
+<lb/>
+<item>At a Window. . . . . . . . . . . . .115
+</item><item>Under the Harvest Moon . . . . . . .116
+</item><item>The Great Hunt . . . . . . . . . . .117
+</item><item>Monotone . . . . . . . . . . . . . .118
+</item><item>Joy. . . . . . . . . . . . . . . . .119</item>
+<pb n="x"/>
+<item>Shirt. . . . . . . . . . . . . . . .120</item>
+<item>Aztec. . . . . . . . . . . . . . . .121</item>
+<item>Two. . . . . . . . . . . . . . . . .122</item>
+<item>Back Yard. . . . . . . . . . . . . .123
+</item><item>On the Breakwater. . . . . . . . . .124
+</item><item>Mask . . . . . . . . . . . . . . . .125
+</item><item>Pearl Fog. . . . . . . . . . . . . .126
+</item><item>I Sang . . . . . . . . . . . . . . .127
+</item><item>Follies. . . . . . . . . . . . . . .128
+</item><item>June . . . . . . . . . . . . . . . .129
+</item><item>Nocturne in a Deserted Brickyard . .130
+</item><item>Hydrangeas . . . . . . . . . . . . .131
+</item><item>Theme in Yellow. . . . . . . . . . .132
+</item><item>Between Two Hills. . . . . . . . . .133
+</item><item>Last Answers . . . . . . . . . . . .134
+</item><item>Window . . . . . . . . . . . . . . .135
+</item><item>Young Sea. . . . . . . . . . . . . .136
+</item><item>Bones. . . . . . . . . . . . . . . .138
+</item><item>Pals . . . . . . . . . . . . . . . .139
+</item><item>Child. . . . . . . . . . . . . . . .140
+</item><item>Poppies. . . . . . . . . . . . . . .141
+</item><item>Child Moon . . . . . . . . . . . . .142
+</item><item>Margaret . . . . . . . . . . . . . .143</item>
+<lb/>
+<item>SHADOWS</item>
+<lb/>
+<item>Poems Done on a Late Night Car. . . .147
+</item><item>It Is Much. . . . . . . . . . . . . .150
+</item><item>Trafficker. . . . . . . . . . . . . .151
+</item><item>Harrison Street Court . . . . . . . .152
+</item><item>Soiled Dove . . . . . . . . . . . . .153
+</item><item>Jungheimer's. . . . . . . . . . . . .154
+</item><item>Gone. . . . . . . . . . . . . . . . .155</item>
+<lb/>
+<item>OTHER DAYS (1900-1910)</item>
+<lb/>
+<item>Dreams in the Dusk. . . . . . . . . .159
+</item><item>Docks . . . . . . . . . . . . . . . .160</item>
+<pb n="xi"/>
+<item>All Day Long. . . . . . . . . . . . .161
+</item><item>Waiting . . . . . . . . . . . . . . .162
+</item><item>From the Shore. . . . . . . . . . . .163
+</item><item>Uplands in May. . . . . . . . . . . .164
+</item><item>A Dream Girl. . . . . . . . . . . . .165
+</item><item>The Plowboy . . . . . . . . . . . . .166
+</item><item>Broadway. . . . . . . . . . . . . . .167
+</item><item>Old Woman . . . . . . . . . . . . . .168
+</item><item>The Noon Hour . . . . . . . . . . . .169
+</item><item>'Boes . . . . . . . . . . . . . . . .170
+</item><item>Under a Telephone Pole. . . . . . . .171
+</item><item>I Am the People, the Mob. . . . . . .172
+</item><item>Government. . . . . . . . . . . . . .173
+</item><item>Languages . . . . . . . . . . . . . .175
+</item><item>Letters to Dead Imagists. . . . . . .176
+</item><item>Sheep . . . . . . . . . . . . . . . .177
+</item><item>The Red Son . . . . . . . . . . . . .178
+</item><item>The Mist. . . . . . . . . . . . . . .180
+</item><item>The Junk Man. . . . . . . . . . . . .181
+</item><item>Silver Nails. . . . . . . . . . . . .182
+</item><item>Gypsy . . . . . . . . . . . . . . . .183</item></list>
+<pb n="xii"/>
+</div1>
+</front>
+
+
+<body id="d7">
+<div1 type="book" id="d8"><pb n="1"/>
+<head>CHICAGO POEMS</head>
+<lb/>
+<pb n="2"/>
+<pb n="3"/>
+<div2 type="poem" id="d9">
+<head>CHICAGO</head>
+<lg type="stanza">
+<l rend="indent">HOG Butcher for the World,</l>
+<l rend="indent">Tool Maker, Stacker of Wheat,</l>
+<l rend="indent">Player with Railroads and the Nation's Freight Handler;</l>
+<l rend="indent">Stormy, husky, brawling,</l>
+<l rend="indent">City of the Big Shoulders:</l>
+</lg>
+<lg type="stanza">
+<l>They tell me you are wicked and I believe them, for I</l>
+<l rend="indent">have seen your painted women under the gas lamps</l>
+<l rend="indent">luring the farm boys.</l>
+<l>And they tell me you are crooked and I answer: Yes, it</l>
+<l rend="indent">is true I have seen the gunman kill and go free to</l>
+<l rend="indent">kill again.</l>
+<l>And they tell me you are brutal and my reply is: On the</l>
+<l rend="indent">faces of women and children I have seen the marks</l>
+<l rend="indent">of wanton hunger.</l>
+<l>And having answered so I turn once more to those who</l>
+<l rend="indent">sneer at this my city, and I give them back the sneer</l>
+<l rend="indent">and say to them:</l>
+<l>Come and show me another city with lifted head singing</l>
+<l rend="indent">so proud to be alive and coarse and strong and cunning.</l>
+<l>Flinging magnetic curses amid the toil of piling job on</l>
+<l rend="indent">job, here is a tall bold slugger set vivid against the</l>
+<l rend="indent">little soft cities;</l>
+<pb n="4"/>
+<l>Fierce as a dog with tongue lapping for action, cunning</l>
+<l rend="indent">as a savage pitted against the wilderness,</l>
+<l rend="indent">     Bareheaded,</l>
+<l rend="indent">     Shoveling,</l>
+<l rend="indent">     Wrecking,</l>
+<l rend="indent">     Planning,</l>
+<l rend="indent">     Building, breaking, rebuilding,</l>
+<l>Under the smoke, dust all over his mouth, laughing with</l>
+<l rend="indent">white teeth,</l>
+<l>Under the terrible burden of destiny laughing as a young</l>
+<l rend="indent">man laughs,</l>
+<l>Laughing even as an ignorant fighter laughs who has</l>
+<l rend="indent">never lost a battle,</l>
+<l>Bragging and laughing that under his wrist is the pulse.</l>
+<l rend="indent">and under his ribs the heart of the people,</l>
+<l rend="indent">          Laughing!</l>
+<l>Laughing the stormy, husky, brawling laughter of</l>
+<l rend="indent">Youth, half-naked, sweating, proud to be Hog</l>
+<l rend="indent">Butcher, Tool Maker, Stacker of Wheat, Player with</l>
+<l rend="indent">Railroads and Freight Handler to the Nation.</l>
+</lg>
+</div2>
+<pb n="5"/>
+
+
+
+
+<div2 type="poem" id="d10">
+<head>SKETCH</head>
+<lg type="stanza">
+<l>THE shadows of the ships</l>
+<l>Rock on the crest</l>
+<l>In the low blue lustre</l>
+<l>Of the tardy and the soft inrolling tide.</l>
+</lg>
+<lg type="stanza">
+<l>A long brown bar at the dip of the sky</l>
+<l>Puts an arm of sand in the span of salt.</l>
+</lg>
+<lg type="stanza">
+<l>The lucid and endless wrinkles</l>
+<l>Draw in, lapse and withdraw.</l>
+<l>Wavelets crumble and white spent bubbles</l>
+<l>Wash on the floor of the beach.</l>
+</lg>
+<lg type="stanza">
+<l rend="indent">Rocking on the crest</l>
+<l rend="indent">In the low blue lustre</l>
+<l rend="indent">Are the shadows of the ships.</l>
+</lg>
+</div2>
+<pb n="6"/>
+
+
+
+
+<div2 type="poem" id="d11">
+<head>MASSES</head>
+<lg type="stanza">
+<l>AMONG the mountains I wandered and saw blue haze and</l>
+<l rend="indent">red crag and was amazed;</l>
+<l>On the beach where the long push under the endless tide</l>
+<l rend="indent">maneuvers, I stood silent;</l>
+<l>Under the stars on the prairie watching the Dipper slant</l>
+<l rend="indent">over the horizon's grass, I was full of thoughts.</l>
+<l>Great men, pageants of war and labor, soldiers and workers,</l>
+<l rend="indent">mothers lifting their children&mdash;these all I</l>
+<l rend="indent">touched, and felt the solemn thrill of them.</l>
+<l>And then one day I got a true look at the Poor, millions</l>
+<l rend="indent">of the Poor, patient and toiling; more patient than</l>
+<l rend="indent">crags, tides, and stars; innumerable, patient as the</l>
+<l rend="indent">darkness of night&mdash;and all broken, humble ruins of nations.</l>
+</lg>
+</div2>
+<pb n="7"/>
+
+
+
+
+<div2 type="poem" id="d12">
+<head> LOST</head>
+<lg type="stanza">
+<l>DESOLATE and lone</l>
+<l>All night long on the lake</l>
+<l>Where fog trails and mist creeps,</l>
+<l>The whistle of a boat</l>
+<l>Calls and cries unendingly,</l>
+<l>Like some lost child</l>
+<l>In tears and trouble</l>
+<l>Hunting the harbor's breast</l>
+<l>And the harbor's eyes.</l>
+</lg>
+</div2>
+
+
+
+<pb n="8"/>
+<div2 type="poem" id="d13">
+<head>THE HARBOR</head>
+<lg type="stanza">
+<l>PASSING through huddled and ugly walls</l>
+<l>By doorways where women</l>
+<l>Looked from their hunger-deep eyes,</l>
+<l>Haunted with shadows of hunger-hands,</l>
+<l>Out from the huddled and ugly walls,</l>
+<l>I came sudden, at the city's edge,</l>
+<l>On a blue burst of lake,</l>
+<l>Long lake waves breaking under the sun</l>
+<l>On a spray-flung curve of shore;</l>
+<l>And a fluttering storm of gulls,</l>
+<l>Masses of great gray wings</l>
+<l>And flying white bellies</l>
+<l>Veering and wheeling free in the open.</l>
+</lg>
+</div2>
+
+<pb n="9"/>
+
+
+
+<div2 type="poem" id="d14">
+<head>THEY WILL SAY</head>
+<lg type="stanza">
+<l rend="indent">OF my city the worst that men will ever say is this:</l>
+<l>You took little children away from the sun and the dew,</l>
+<l>And the glimmers that played in the grass under the great sky,</l>
+<l>And the reckless rain; you put them between walls</l>
+<l>To work, broken and smothered, for bread and wages,</l>
+<l>To eat dust in their throats and die empty-hearted</l>
+<l>For a little handful of pay on a few Saturday nights.</l>
+</lg>
+</div2>
+<pb n="10"/>
+
+
+
+
+<div2 type="poem" id="d15">
+<head> MILL-DOORS</head>
+<lg type="stanza">
+<l rend="indent">YOU never come back.</l>
+<l>I say good-by when I see you going in the doors,</l>
+<l>The hopeless open doors that call and wait</l>
+<l>And take you then for&mdash;how many cents a day?</l>
+<l>How many cents for the sleepy eyes and fingers?</l>
+</lg>
+<lg type="stanza">
+<l>I say good-by because I know they tap your wrists,</l>
+<l>In the dark, in the silence, day by day,</l>
+<l>And all the blood of you drop by drop,</l>
+<l>And you are old before you are young.</l>
+<l rend="indent">You never come back.</l>
+</lg>
+</div2>
+<pb n="11"/>
+
+<div2 type="poem" id="d16">
+<head>HALSTED STREET CAR</head>
+<lg type="stanza">
+<l rend="indent">COME you, cartoonists,</l>
+<l rend="indent">Hang on a strap with me here</l>
+<l rend="indent">At seven o'clock in the morning</l>
+<l rend="indent">On a Halsted street car.</l>
+</lg>
+<lg type="stanza">
+<l rend="indent">     Take your pencils</l>
+<l rend="indent">     And draw these faces.</l>
+</lg>
+<lg type="stanza">
+<l>Try with your pencils for these crooked faces,</l>
+<l>That pig-sticker in one corner&mdash;his mouth&mdash;</l>
+<l>That overall factory girl&mdash;her loose cheeks.</l>
+</lg>
+<lg type="stanza">
+<l rend="indent">     Find for your pencils</l>
+<l rend="indent">     A way to mark your memory</l>
+<l rend="indent">     Of tired empty faces.</l>
+</lg>
+<lg type="stanza">
+<l rend="indent">     After their night's sleep,</l>
+<l rend="indent">     In the moist dawn</l>
+<l rend="indent">     And cool daybreak,</l>
+<l rend="indent">     Faces</l>
+<l rend="indent">     Tired of wishes,</l>
+<l rend="indent">     Empty of dreams.</l>
+</lg>
+</div2>
+<pb n="12"/>
+
+
+<div2 type="poem" id="d17">
+<head>CLARK STREET BRIDGE</head>
+<lg type="stanza">
+<l>DUST of the feet</l>
+<l>And dust of the wheels,</l>
+<l>Wagons and people going,</l>
+<l>All day feet and wheels.</l>
+</lg>
+<lg type="stanza">
+<l>Now. . .</l>
+<l>. . Only stars and mist</l>
+<l>A lonely policeman,</l>
+<l>Two cabaret dancers,</l>
+<l>Stars and mist again,</l>
+<l>No more feet or wheels,</l>
+<l>No more dust and wagons.</l>
+</lg>
+<lg type="stanza">
+<l rend="indent">Voices of dollars</l>
+<l rend="indent">And drops of blood</l>
+<l rend="indent">. . . . .</l>
+<l rend="indent">Voices of broken hearts,</l>
+<l rend="indent">. . Voices singing, singing,</l>
+<l rend="indent">. . Silver voices, singing,</l>
+<l rend="indent">Softer than the stars,</l>
+<l rend="indent">Softer than the mist.</l>
+</lg>
+</div2>
+
+
+
+
+
+<pb n="13"/>
+<div2 type="poem" id="d18">
+<head> PASSERS-BY</head>
+<lg type="stanza">
+<l>PASSERS-BY,</l>
+<l>Out of your many faces</l>
+<l>Flash memories to me</l>
+<l>Now at the day end</l>
+<l>Away from the sidewalks</l>
+<l>Where your shoe soles traveled</l>
+<l>And your voices rose and blent</l>
+<l>To form the city's afternoon roar</l>
+<l>Hindering an old silence.</l>
+</lg><lg type="stanza">
+<l>Passers-by,</l>
+<l>I remember lean ones among you,</l>
+<l>Throats in the clutch of a hope,</l>
+<l>Lips written over with strivings,</l>
+<l>Mouths that kiss only for love.</l>
+<l>Records of great wishes slept with,</l>
+<l rend="indent">Held long</l>
+<l>And prayed and toiled for. .</l>
+</lg><lg type="stanza">
+<l rend="indent">Yes,</l>
+<l>Written on</l>
+<l>Your mouths</l>
+<l>And your throats</l>
+<l>I read them</l>
+<l>When you passed by.</l>
+</lg>
+</div2>
+
+
+
+
+
+<pb n="14"/>
+<div2 type="poem" id="d19">
+<head>THE WALKING MAN OF RODIN</head>
+<lg type="stanza">
+<l>LEGS hold a torso away from the earth.</l>
+<l>And a regular high poem of legs is here.</l>
+<l>Powers of bone and cord raise a belly and lungs</l>
+<l>Out of ooze and over the loam where eyes look and ears hear</l>
+<l>And arms have a chance to hammer and shoot and run motors.</l>
+<l rend="indent">You make us</l>
+<l rend="indent">Proud of our legs, old man.</l>
+</lg><lg type="stanza">
+<l>And you left off the head here,</l>
+<l>The skull found always crumbling neighbor of the ankles.</l>
+</lg>
+</div2>
+
+
+
+
+<pb n="15"/>
+<div2 type="poem" id="d20">
+<head>SUBWAY</head>
+<lg type="stanza">
+<l>DOWN between the walls of shadow</l>
+<l>Where the iron laws insist,</l>
+<l rend="indent">The hunger voices mock.</l></lg>
+<lg type="stanza">
+<l>The worn wayfaring men</l>
+<l>With the hunched and humble shoulders,</l>
+<l rend="indent">Throw their laughter into toil.</l>
+</lg>
+</div2>
+<pb n="16"/>
+
+
+
+<div2 type="poem" id="d21">
+<head>THE SHOVEL MAN</head>
+<lg type="stanza">
+<l rend="indent">ON the street</l>
+<l>Slung on his shoulder is a handle half way across,</l>
+<l>Tied in a big knot on the scoop of cast iron</l>
+<l>Are the overalls faded from sun and rain in the ditches;</l>
+<l>Spatter of dry clay sticking yellow on his left sleeve</l>
+<l rend="indent">And a flimsy shirt open at the throat,</l>
+<l rend="indent">I know him for a shovel man,</l>
+<l rend="indent">A dago working for a dollar six bits a day</l>
+<l>And a dark-eyed woman in the old country dreams of</l>
+<l rend="indent">him for one of the world's ready men with a pair</l>
+<l rend="indent">of fresh lips and a kiss better than all the wild</l>
+<l rend="indent">grapes that ever grew in Tuscany.</l>
+</lg>
+</div2>
+<pb n="17"/>
+
+<div2 type="poem" id="d22">
+<head>A TEAMSTER'S FAREWELL</head>
+<lg type="stanza">
+<l rend="indent">  Sobs En Route to a Penitentiary</l>
+<l>GOOD-BY now to the streets and the clash of wheels and</l>
+<l rend="indent">locking hubs,</l>
+<l>The sun coming on the brass buckles and harness knobs.</l>
+<l>The muscles of the horses sliding under their heavy</l>
+<l rend="indent">haunches,</l>
+<l>Good-by now to the traffic policeman and his whistle,</l>
+<l>The smash of the iron hoof on the stones,</l>
+<l>All the crazy wonderful slamming roar of the street&mdash;</l>
+<l>O God, there's noises I'm going to be hungry for.</l>
+</lg>
+</div2>
+<pb n="18"/>
+
+
+
+
+<div2 type="poem" id="d23">
+<head> FISH CRIER</head>
+<lg type="stanza">
+<l>I KNOW a Jew fish crier down on Maxwell Street with a</l>
+<l rend="indent">voice like a north wind blowing over corn stubble</l>
+<l rend="indent">in January.</l>
+<l>He dangles herring before prospective customers evincing</l>
+<l rend="indent">a joy identical with that of Pavlowa dancing.</l>
+<l>His face is that of a man terribly glad to be selling fish,</l>
+<l rend="indent">terribly glad that God made fish, and customers to</l>
+<l rend="indent">whom he may call his wares, from a pushcart.</l>
+</lg>
+</div2>
+<pb n="19"/>
+
+
+
+
+<div2 type="poem" id="d24">
+<head> PICNIC BOAT</head>
+<lg type="stanza">
+<l>SUNDAY night and the park policemen tell each other it</l>
+<l rend="indent">is dark as a stack of black cats on Lake Michigan.</l>
+<l>A big picnic boat comes home to Chicago from the peach</l>
+<l rend="indent">farms of Saugatuck.</l>
+<l>Hundreds of electric bulbs break the night's darkness, a</l>
+<l rend="indent">flock of red and yellow birds with wings at a standstill.</l>
+<l>Running along the deck railings are festoons and leaping</l>
+<l rend="indent">in curves are loops of light from prow and stern</l>
+<l rend="indent">to the tall smokestacks.</l>
+<l>Over the hoarse crunch of waves at my pier comes a</l>
+<l rend="indent">hoarse answer in the rhythmic oompa of the brasses</l>
+<l rend="indent">playing a Polish folk-song for the home-comers.</l>
+</lg>
+</div2>
+<pb n="20"/>
+
+
+
+
+<div2 type="poem" id="d25">
+<head>  HAPPINESS</head>
+<lg type="stanza">
+<l>I ASKED the professors who teach the meaning of life to tell</l>
+<l rend="indent">me what is happiness.</l>
+<l>And I went to famous executives who boss the work of</l>
+<l rend="indent">thousands of men.</l>
+<l>They all shook their heads and gave me a smile as though</l>
+<l rend="indent">I was trying to fool with them</l>
+<l>And then one Sunday afternoon I wandered out along</l>
+<l rend="indent">the Desplaines river</l>
+<l>And I saw a crowd of Hungarians under the trees with</l>
+<l rend="indent">their women and children and a keg of beer and an</l>
+<l rend="indent">accordion.</l>
+</lg>
+</div2>
+<pb n="21"/>
+
+
+
+
+<div2 type="poem" id="d26">
+<head>MUCKERS</head>
+<lg type="stanza">
+<l rend="indent">TWENTY men stand watching the muckers.</l>
+<l rend="indent">Stabbing the sides of the ditch</l>
+<l rend="indent">Where clay gleams yellow,</l>
+<l rend="indent">Driving the blades of their shovels</l>
+<l rend="indent">Deeper and deeper for the new gas mains</l>
+<l rend="indent">Wiping sweat off their faces</l>
+<l rend="indent">     With red bandanas</l>
+<l>The muckers work on . . pausing . . to pull</l>
+<l>Their boots out of suckholes where they slosh.</l>
+</lg><lg type="stanza">
+<l rend="indent">Of the twenty looking on</l>
+<l>Ten murmer, "O, its a hell of a job,"</l>
+<l>Ten others, "Jesus, I wish I had the job."</l>
+</lg>
+</div2>
+<pb n="22"/>
+
+
+
+
+<div2 type="poem" id="d27">
+<head> BLACKLISTED</head>
+<lg type="stanza">
+<l>WHY shall I keep the old name?</l>
+<l>What is a name anywhere anyway?</l>
+<l>A name is a cheap thing all fathers and mothers leave</l>
+<l rend="indent">each child:</l>
+<l>A job is a job and I want to live, so</l>
+<l>Why does God Almighty or anybody else care whether</l>
+<l rend="indent">I take a new name to go by?</l>
+</lg>
+</div2>
+<pb n="23"/>
+
+
+
+
+<div2 type="poem" id="d28">
+<head>  GRACELAND</head>
+<lg type="stanza">
+<l rend="indent">TOMB of a millionaire,</l>
+<l rend="indent">A multi-millionaire, ladies and gentlemen,</l>
+<l rend="indent">Place of the dead where they spend every year</l>
+<l rend="indent">The usury of twenty-five thousand dollars</l>
+<l rend="indent">For upkeep and flowers</l>
+<l rend="indent">To keep fresh the memory of the dead.</l>
+<l rend="indent">The merchant prince gone to dust</l>
+<l rend="indent">Commanded in his written will</l>
+<l rend="indent">Over the signed name of his last testament</l>
+<l rend="indent">Twenty-five thousand dollars be set aside</l>
+<l rend="indent">For roses, lilacs, hydrangeas, tulips,</l>
+<l rend="indent">For perfume and color, sweetness of remembrance</l>
+<l rend="indent">Around his last long home.</l>
+</lg><lg type="stanza">
+<l>(A hundred cash girls want nickels to go to the movies to-night.</l>
+<l>In the back stalls of a hundred saloons, women are at tables</l>
+<l>Drinking with men or waiting for men jingling loose</l>
+<l rend="indent">silver dollars in their pockets.</l>
+<l>In a hundred furnished rooms is a girl who sells silk or</l>
+<l rend="indent">dress goods or leather stuff for six dollars a week wages</l>
+<l>And when she pulls on her stockings in the morning she</l>
+<l rend="indent">is reckless about God and the newspapers and the</l>
+<l rend="indent">police, the talk of her home town or the name</l>
+<l rend="indent">people call her.)</l>
+</lg>
+</div2>
+<pb n="24"/>
+
+
+
+<div2 type="poem" id="d29">
+<head>CHILD OF THE ROMANS</head>
+<lg type="stanza">
+<l>THE dago shovelman sits by the railroad track</l>
+<l>Eating a noon meal of bread and bologna.</l>
+<l rend="indent">A train whirls by, and men and women at tables</l>
+<l rend="indent">Alive with red roses and yellow jonquils,</l>
+<l rend="indent">Eat steaks running with brown gravy,</l>
+<l rend="indent">Strawberries and cream, eclaires and coffee.</l>
+<l>The dago shovelman finishes the dry bread and bologna,</l>
+<l>Washes it down with a dipper from the water-boy,</l>
+<l>And goes back to the second half of a ten-hour day's work</l>
+<l>Keeping the road-bed so the roses and jonquils</l>
+<l>Shake hardly at all in the cut glass vases</l>
+<l>Standing slender on the tables in the dining cars.</l>
+</lg>
+</div2>
+<pb n="25"/>
+
+
+
+<div2 type="poem" id="d30">
+<head>THE RIGHT TO GRIEF</head>
+<l>To Certain Poets About to Die</l>
+<lg type="stanza">
+<l>TAKE your fill of intimate remorse, perfumed sorrow,</l>
+<l>Over the dead child of a millionaire,</l>
+<l>And the pity of Death refusing any check on the bank</l>
+<l>Which the millionaire might order his secretary to</l>
+<l rend="indent">scratch off</l>
+<l>And get cashed.</l>
+</lg><lg type="stanza">
+<l rend="indent">Very well,</l>
+<l>You for your grief and I for mine.</l>
+<l>Let me have a sorrow my own if I want to.</l>
+</lg><lg type="stanza">
+<l>I shall cry over the dead child of a stockyards hunky.</l>
+<l>His job is sweeping blood off the floor.</l>
+<l>He gets a dollar seventy cents a day when he works</l>
+<l>And it's many tubs of blood he shoves out with a broom</l>
+<l rend="indent">day by day.</l>
+</lg><lg type="stanza">
+<l>Now his three year old daughter</l>
+<l>Is in a white coffin that cost him a week's wages.</l>
+<l>Every Saturday night he will pay the undertaker fifty</l>
+<l rend="indent">cents till the debt is wiped out.</l>
+</lg><lg type="stanza">
+<l>The hunky and his wife and the kids</l>
+<l>Cry over the pinched face almost at peace in the white box.</l>
+</lg><lg type="stanza">
+<pb n="26"/>
+<l>They remember it was scrawny and ran up high doctor bills.</l>
+<l>They are glad it is gone for the rest of the family now</l>
+<l rend="indent">will have more to eat and wear.</l>
+</lg><lg type="stanza">
+<l>Yet before the majesty of Death they cry around the coffin</l>
+<l>And wipe their eyes with red bandanas and sob when</l>
+<l rend="indent">the priest says, "God have mercy on us all."</l>
+</lg><lg type="stanza">
+<l>I have a right to feel my throat choke about this.</l>
+<l>You take your grief and I mine&mdash;see?</l>
+<l>To-morrow there is no funeral and the hunky goes back</l>
+<l rend="indent">to his job sweeping blood off the floor at a dollar</l>
+<l rend="indent">seventy cents a day.</l>
+<l>All he does all day long is keep on shoving hog blood</l>
+<l rend="indent">ahead of him with a broom</l>
+</lg>
+</div2>
+<pb n="27"/>
+
+
+
+<div2 type="poem" id="d31">
+<head>  MAG</head>
+<lg type="stanza">
+<l>I WISH to God I never saw you, Mag.</l>
+<l>I wish you never quit your job and came along with me.</l>
+<l>I wish we never bought a license and a white dress</l>
+<l>For you to get married in the day we ran off to a minister</l>
+<l>And told him we would love each other and take care of</l>
+<l rend="indent">each other</l>
+<l>Always and always long as the sun and the rain lasts anywhere.</l>
+<l>Yes, I'm wishing now you lived somewhere away from here</l>
+<l>And I was a bum on the bumpers a thousand miles away</l>
+<l rend="indent">dead broke.</l>
+<l rend="indent">I wish the kids had never come</l>
+<l rend="indent">And rent and coal and clothes to pay for</l>
+<l rend="indent">And a grocery man calling for cash,</l>
+<l rend="indent">Every day cash for beans and prunes.</l>
+<l rend="indent">I wish to God I never saw you, Mag.</l>
+<l rend="indent">I wish to God the kids had never come.</l>
+</lg>
+</div2>
+<pb n="28"/>
+
+
+
+
+<div2 type="poem" id="d32">
+<head> ONION DAYS</head>
+<lg type="stanza">
+<l>MRS. GABRIELLE GIOVANNITTI comes along Peoria Street</l>
+<l rend="indent">every morning at nine o'clock</l>
+<l>With kindling wood piled on top of her head, her eyes</l>
+<l rend="indent">looking straight ahead to find the way for her old feet.</l>
+<l>Her daughter-in-law, Mrs. Pietro Giovannitti, whose</l>
+<l rend="indent">husband was killed in a tunnel explosion through</l>
+<l rend="indent">the negligence of a fellow-servant,</l>
+<l>Works ten hours a day, sometimes twelve, picking onions</l>
+<l rend="indent">for Jasper on the Bowmanville road.</l>
+<l>She takes a street car at half-past five in the morning,</l>
+<l rend="indent">Mrs. Pietro Giovannitti does,</l>
+<l>And gets back from Jasper's with cash for her day's</l>
+<l rend="indent">work, between nine and ten o'clock at night.</l>
+<l>Last week she got eight cents a box, Mrs. Pietro</l>
+<l rend="indent">Giovannitti, picking onions for Jasper,</l>
+<l>But this week Jasper dropped the pay to six cents a</l>
+<l rend="indent">box because so many women and girls were answering</l>
+<l rend="indent">the ads in the Daily News.</l>
+<l>Jasper belongs to an Episcopal church in Ravenswood</l>
+<l rend="indent">and on certain Sundays</l>
+<l>He enjoys chanting the Nicene creed with his daughters</l>
+<l rend="indent">on each side of him joining their voices with his.</l>
+<l>If the preacher repeats old sermons of a Sunday, Jasper's</l>
+<l rend="indent">mind wanders to his 700-acre farm and how he</l>
+<l rend="indent">can make it produce more efficiently</l>
+
+<pb n="29"/>
+<l>And sometimes he speculates on whether he could word</l>
+<l rend="indent">an ad in the Daily News so it would bring more</l>
+<l rend="indent">women and girls out to his farm and reduce operating</l>
+<l rend="indent">costs.</l>
+<l>Mrs. Pietro Giovannitti is far from desperate about life;</l>
+<l rend="indent">her joy is in a child she knows will arrive to her in</l>
+<l rend="indent">three months.</l>
+<l>And now while these are the pictures for today there are</l>
+<l rend="indent">other pictures of the Giovannitti people I could give</l>
+<l rend="indent">you for to-morrow,</l>
+<l>And how some of them go to the county agent on winter</l>
+<l rend="indent">mornings with their baskets for beans and cornmeal</l>
+<l rend="indent">and molasses.</l>
+<l>I listen to fellows saying here's good stuff for a novel or</l>
+<l rend="indent">it might be worked up into a good play.</l>
+<l>I say there's no dramatist living can put old Mrs.</l>
+<l rend="indent">Gabrielle Giovannitti into a play with that kindling</l>
+<l rend="indent">wood piled on top of her head coming along Peoria</l>
+<l rend="indent">Street nine o'clock in the morning.</l>
+</lg>
+</div2>
+
+<div2 type="poem" id="d33">
+<head>POPULATION DRIFTS</head>
+<lg type="stanza">
+<l>NEW-MOWN hay smell and wind of the plain made her</l>
+<l rend="indent">a woman whose ribs had the power of the hills in</l>
+<l rend="indent">them and her hands were tough for work and there</l>
+<l rend="indent">was passion for life in her womb.</l>
+<l>She and her man crossed the ocean and the years that</l>
+<l rend="indent">marked their faces saw them haggling with landlords</l>
+<l rend="indent">and grocers while six children played on the stones</l>
+<l rend="indent">and prowled in the garbage cans.</l>
+<l>One child coughed its lungs away, two more have adenoids</l>
+<l rend="indent">and can neither talk nor run like their mother,</l>
+<l rend="indent">one is in jail, two have jobs in a box factory</l>
+<l>And as they fold the pasteboard, they wonder what the</l>
+<l rend="indent">wishing is and the wistful glory in them that flutters</l>
+<l rend="indent">faintly when the glimmer of spring comes on</l>
+<l rend="indent">the air or the green of summer turns brown:</l>
+<l>They do not know it is the new-mown hay smell calling</l>
+<l rend="indent">and the wind of the plain praying for them to come</l>
+<l rend="indent">back and take hold of life again with tough hands</l>
+<l rend="indent">and with passion.</l>
+</lg>
+</div2>
+<pb n="31"/>
+
+
+
+
+<div2 type="poem" id="d34">
+<head>CRIPPLE</head>
+<lg type="stanza">
+<l>ONCE when I saw a cripple</l>
+<l>Gasping slowly his last days with the white plague,</l>
+<l>Looking from hollow eyes, calling for air,</l>
+<l>Desperately gesturing with wasted hands</l>
+<l>In the dark and dust of a house down in a slum,</l>
+<l>I said to myself</l>
+<l>I would rather have been a tall sunflower</l>
+<l>Living in a country garden</l>
+<l>Lifting a golden-brown face to the summer,</l>
+<l>Rain-washed and dew-misted,</l>
+<l>Mixed with the poppies and ranking hollyhocks,</l>
+<l>And wonderingly watching night after night</l>
+<l>The clear silent processionals of stars.</l>
+</lg>
+</div2>
+<pb n="32"/>
+
+
+
+
+<div2 type="poem" id="d35">
+<head>A FENCE</head>
+<lg type="stanza">
+<l>Now the stone house on the lake front is finished and the</l>
+<l rend="indent">workmen are beginning the fence.</l>
+<l>The palings are made of iron bars with steel points that</l>
+<l rend="indent">can stab the life out of any man who falls on them.</l>
+<l>As a fence, it is a masterpiece, and will shut off the rabble</l>
+<l rend="indent">and all vagabonds and hungry men and all wandering</l>
+<l rend="indent">children looking for a place to play.</l>
+<l>Passing through the bars and over the steel points will go</l>
+<l rend="indent">nothing except Death and the Rain and To-morrow.</l>
+</lg>
+</div2>
+<pb n="33"/>
+
+
+
+
+<div2 type="poem" id="d36">
+<head> ANNA IMROTH</head>
+<lg type="stanza">
+<l>CROSS the hands over the breast here&mdash;so.</l>
+<l>Straighten the legs a little more&mdash;so.</l>
+<l>And call for the wagon to come and take her home.</l>
+<l>Her mother will cry some and so will her sisters and</l>
+<l rend="indent">brothers.</l>
+<l>But all of the others got down and they are safe and</l>
+<l rend="indent">this is the only one of the factory girls who</l>
+<l rend="indent">wasn't lucky in making the jump when the fire broke.</l>
+<l>It is the hand of God and the lack of fire escapes.</l>
+</lg>
+</div2>
+<pb n="34"/>
+
+
+
+
+<div2 type="poem" id="d37">
+<head>WORKING GIRLS</head>
+<lg type="stanza">
+<l>THE working girls in the morning are going to work&mdash;</l>
+<l rend="indent">long lines of them afoot amid the downtown stores</l>
+<l rend="indent">and factories, thousands with little brick-shaped</l>
+<l rend="indent">lunches wrapped in newspapers under their arms.</l>
+<l>Each morning as I move through this river of young-</l>
+<l rend="indent">woman life I feel a wonder about where it is all</l>
+<l rend="indent">going, so many with a peach bloom of young years</l>
+<l rend="indent">on them and laughter of red lips and memories in</l>
+<l rend="indent">their eyes of dances the night before and plays and</l>
+<l rend="indent">walks.</l>
+<l>Green and gray streams run side by side in a river and</l>
+<l rend="indent">so here are always the others, those who have been</l>
+<l rend="indent">over the way, the women who know each one the</l>
+<l rend="indent">end of life's gamble for her, the meaning and the</l>
+<l rend="indent">clew, the how and the why of the dances and the</l>
+<l rend="indent">arms that passed around their waists and the fingers</l>
+<l rend="indent">that played in their hair.</l>
+<l>Faces go by written over: "I know it all, I know where</l>
+<l>the bloom and the laughter go and I have memories,"</l>
+<l rend="indent">and the feet of these move slower and they</l>
+<l rend="indent">have wisdom where the others have beauty.</l>
+<l>So the green and the gray move in the early morning</l>
+<l rend="indent">on the downtown streets.</l>
+</lg>
+</div2>
+<pb n="35"/>
+
+
+
+
+<div2 type="poem" id="d38">
+<head> MAMIE</head>
+<lg type="stanza">
+<l>MAMIE beat her head against the bars of a little Indiana</l>
+<l rend="indent">town and dreamed of romance and big things off</l>
+<l rend="indent">somewhere the way the railroad trains all ran.</l>
+<l>She could see the smoke of the engines get lost down</l>
+<l rend="indent">where the streaks of steel flashed in the sun and</l>
+<l rend="indent">when the newspapers came in on the morning mail</l>
+<l rend="indent">she knew there was a big Chicago far off, where all</l>
+<l rend="indent">the trains ran.</l>
+<l>She got tired of the barber shop boys and the post office</l>
+<l rend="indent">chatter and the church gossip and the old pieces the</l>
+<l rend="indent">band played on the Fourth of July and Decoration Day</l>
+<l>And sobbed at her fate and beat her head against the</l>
+<l rend="indent">bars and was going to kill herself</l>
+<l>When the thought came to her that if she was going to</l>
+<l rend="indent">die she might as well die struggling for a clutch of</l>
+<l rend="indent">romance among the streets of Chicago.</l>
+<l>She has a job now at six dollars a week in the basement</l>
+<l rend="indent">of the Boston Store</l>
+<l>And even now she beats her head against the bars in the</l>
+<l rend="indent">same old way and wonders if there is a bigger place</l>
+<l rend="indent">the railroads run to from Chicago where maybe</l>
+<l rend="indent">there is</l>
+</lg><lg type="stanza">
+<l rend="indent">     romance</l>
+<l rend="indent">     and big things</l>
+<l rend="indent">     and real dreams</l>
+<l rend="indent">     that never go smash.</l>
+</lg>
+</div2>
+<pb n="36"/>
+
+
+
+
+<div2 type="poem" id="d39">
+<head> PERSONALITY</head>
+<lg type="stanza">
+<l><hi rend="italic">Musings of a Police Reporter in the Identification<lb/>
+ Bureau</hi></l>
+</lg><lg type="stanza">
+<l>YOU have loved forty women, but you have only one thumb.</l>
+<l>You have led a hundred secret lives, but you mark only</l>
+<l rend="indent">one thumb.</l>
+<l>You go round the world and fight in a thousand wars and</l>
+<l rend="indent">win all the world's honors, but when you come back</l>
+<l rend="indent">home the print of the one thumb your mother gave</l>
+<l rend="indent">you is the same print of thumb you had in the old</l>
+<l rend="indent">home when your mother kissed you and said good-by.</l>
+<l>Out of the whirling womb of time come millions of men</l>
+<l>and their feet crowd the earth and they cut one anothers'</l>
+<l rend="indent">throats for room to stand and among them all</l>
+<l rend="indent">are not two thumbs alike.</l>
+<l>Somewhere is a Great God of Thumbs who can tell the</l>
+<l rend="indent">inside story of this.</l>
+</lg>
+</div2>
+<pb n="37"/>
+
+
+
+
+<div2 type="poem" id="d40">
+<head>CUMULATIVES</head>
+<lg type="stanza">
+<l>STORMS have beaten on this point of land</l>
+<l>And ships gone to wreck here</l>
+<l rend="indent">and the passers-by remember it</l>
+<l rend="indent">with talk on the deck at night</l>
+<l rend="indent">as they near it.</l>
+</lg><lg type="stanza">
+<l>Fists have beaten on the face of this old prize-fighter</l>
+<l>And his battles have held the sporting pages</l>
+<l rend="indent">and on the street they indicate him with their</l>
+<l rend="indent">right fore-finger as one who once wore</l>
+<l rend="indent">a championship belt.</l>
+</lg><lg type="stanza">
+<l>A hundred stories have been published and a thousand rumored</l>
+<l>About why this tall dark man has divorced two beautiful</l>
+<l rend="indent">young women</l>
+<l>And married a third who resembles the first two</l>
+<l rend="indent">     and they shake their heads and say, "There he</l>
+<l rend="indent">goes,"</l>
+<l rend="indent">when he passes by in sunny weather or in rain</l>
+<l rend="indent">along the city streets.</l>
+</lg>
+</div2>
+<pb n="38"/>
+
+
+
+<div2 type="poem" id="d41">
+<head>TO CERTAIN JOURNEYMEN</head>
+<lg type="stanza">
+<l>UNDERTAKERS, hearse drivers, grave diggers,</l>
+<l>I speak to you as one not afraid of your business.</l>
+</lg>
+<lg type="stanza">
+<l>You handle dust going to a long country,</l>
+<l>You know the secret behind your job is the same whether</l>
+<l rend="indent">you lower the coffin with modern, automatic machinery,</l>
+<l rend="indent">well-oiled and noiseless, or whether the</l>
+<l rend="indent">body is laid in by naked hands and then covered</l>
+<l rend="indent">by the shovels.</l>
+</lg>
+<lg type="stanza">
+<l>Your day's work is done with laughter many days of the year,</l>
+<l>And you earn a living by those who say good-by today</l>
+<l rend="indent">in thin whispers.</l>
+</lg>
+</div2>
+<pb n="39"/>
+
+
+
+
+<div2 type="poem" id="d42">
+<head>  CHAMFORT</head>
+<lg type="stanza">
+<l>THERE'S Chamfort. He's a sample.</l>
+<l>Locked himself in his library with a gun,</l>
+<l>Shot off his nose and shot out his right eye.</l>
+<l>And this Chamfort knew how to write</l>
+<l>And thousands read his books on how to live,</l>
+<l>But he himself didn't know</l>
+<l>How to die by force of his own hand&mdash;see?</l>
+<l>They found him a red pool on the carpet</l>
+<l>Cool as an April forenoon,</l>
+<l>Talking and talking gay maxims and grim epigrams.</l>
+<l>Well, he wore bandages over his nose and right eye,</l>
+<l>Drank coffee and chatted many years</l>
+<l>With men and women who loved him</l>
+<l>Because he laughed and daily dared Death:</l>
+<l>"Come and take me."</l>
+</lg>
+</div2>
+<pb n="40"/>
+
+
+
+
+<div2 type="poem" id="d43">
+<head>LIMITED</head>
+<lg type="stanza">
+<l>I AM riding on a limited express, one of the crack trains</l>
+<l rend="indent">of the nation.</l>
+<l>Hurtling across the prairie into blue haze and dark air</l>
+<l rend="indent">go fifteen all-steel coaches holding a thousand people.</l>
+<l>(All the coaches shall be scrap and rust and all the men</l>
+<l rend="indent">and women laughing in the diners and sleepers shall</l>
+<l rend="indent">pass to ashes.)</l>
+<l>I ask a man in the smoker where he is going and he</l>
+<l rend="indent">answers: "Omaha."</l>
+</lg>
+</div2>
+<pb n="41"/>
+
+
+
+
+<div2 type="poem" id="d44">
+<head>THE HAS-BEEN</head>
+<lg type="stanza">
+<l>A STONE face higher than six horses stood five thousand</l>
+<l rend="indent">years gazing at the world seeming to clutch a secret.</l>
+<l>A boy passes and throws a niggerhead that chips off the</l>
+<l rend="indent">end of the nose from the stone face; he lets fly a</l>
+<l rend="indent">mud ball that spatters the right eye and cheek of the</l>
+<l rend="indent">old looker-on.</l>
+<l>The boy laughs and goes whistling "ee-ee-ee ee-ee-ee."</l>
+<l rend="indent">The stone face stands silent, seeming to clutch a</l>
+<l rend="indent">secret.</l>
+</lg>
+</div2>
+<pb n="41"/>
+
+
+
+
+<div2 type="poem" id="d45">
+<head>IN A BACK ALLEY</head>
+<lg type="stanza">
+<l>REMEMBRANCE for a great man is this.</l>
+<l>The newsies are pitching pennies.</l>
+<l>And on the copper disk is the man's face.</l>
+<l>Dead lover of boys, what do you ask for now?</l>
+</lg>
+</div2>
+<pb n="42"/>
+
+
+
+
+<div2 type="poem" id="d46">
+<head>A COIN</head>
+<lg type="stanza">
+<l>YOUR western heads here cast on money,</l>
+<l>You are the two that fade away together,</l>
+<l rend="indent">     Partners in the mist.</l>
+</lg><lg type="stanza">
+<l rend="indent">     Lunging buffalo shoulder,</l>
+<l rend="indent">     Lean Indian face,</l>
+<l>We who come after where you are gone</l>
+<l>Salute your forms on the new nickel.</l>
+</lg><lg type="stanza">
+<l rend="indent">     You are</l>
+<l rend="indent">     To us:</l>
+<l rend="indent">     The past.</l>
+</lg><lg type="stanza">
+<l rend="indent">     Runners</l>
+<l rend="indent">     On the prairie:</l>
+<l rend="indent">     Good-by.</l>
+</lg>
+</div2>
+<pb n="43"/>
+
+
+
+
+<div2 type="poem" id="d47">
+<head>  DYNAMITER</head>
+<lg type="stanza">
+<l>I SAT with a dynamiter at supper in a German saloon</l>
+<l rend="indent">eating steak and onions.</l>
+<l>And he laughed and told stories of his wife and children</l>
+<l rend="indent">and the cause of labor and the working class.</l>
+<l>It was laughter of an unshakable man knowing life to be</l>
+<l rend="indent">a rich and red-blooded thing.</l>
+<l>Yes, his laugh rang like the call of gray birds filled with</l>
+<l rend="indent">a glory of joy ramming their winged flight through</l>
+<l rend="indent">a rain storm.</l>
+<l>His name was in many newspapers as an enemy of the</l>
+<l rend="indent">nation and few keepers of churches or schools would</l>
+<l rend="indent">open their doors to him.</l>
+<l>Over the steak and onions not a word was said of his</l>
+<l rend="indent">deep days and nights as a dynamiter.</l>
+<l>Only I always remember him as a lover of life, a lover</l>
+<l rend="indent">of children, a lover of all free, reckless laughter</l>
+<l rend="indent">everywhere&mdash;lover of red hearts and red blood the</l>
+<l rend="indent">world over.</l>
+</lg>
+</div2>
+<pb n="45"/>
+
+
+
+
+<div2 type="poem" id="d48">
+<head> ICE HANDLER</head>
+<lg type="stanza">
+<l>I KNOW an ice handler who wears a flannel shirt with</l>
+<l rend="indent">pearl buttons the size of a dollar,</l>
+<l>And he lugs a hundred-pound hunk into a saloon ice-</l>
+<l rend="indent">box, helps himself to cold ham and rye bread,</l>
+<l>Tells the bartender it's hotter than yesterday and will be</l>
+<l rend="indent">hotter yet to-morrow, by Jesus,</l>
+<l>And is on his way with his head in the air and a hard</l>
+<l rend="indent">pair of fists.</l>
+<l>He spends a dollar or so every Saturday night on a two</l>
+<l rend="indent">hundred pound woman who washes dishes in the</l>
+<l rend="indent">Hotel Morrison.</l>
+<l>He remembers when the union was organized he broke</l>
+<l rend="indent">the noses of two scabs and loosened the nuts so the</l>
+<l rend="indent">wheels came off six different wagons one morning,</l>
+<l rend="indent">and he came around and watched the ice melt in the</l>
+<l rend="indent">street.</l>
+<l>All he was sorry for was one of the scabs bit him on the</l>
+<l rend="indent">knuckles of the right hand so they bled when he</l>
+<l rend="indent">came around to the saloon to tell the boys about it.</l>
+</lg>
+</div2>
+<pb n="46"/>
+
+
+
+
+<div2 type="poem" id="d49">
+<head> JACK</head>
+<lg type="stanza">
+<l>JACK was a swarthy, swaggering son-of-a-gun.</l>
+<l>He worked thirty years on the railroad, ten hours a day,</l>
+<l rend="indent">and his hands were tougher than sole leather.</l>
+<l>He married a tough woman and they had eight children</l>
+<l rend="indent">and the woman died and the children grew up and</l>
+<l rend="indent">went away and wrote the old man every two years.</l>
+<l>He died in the poorhouse sitting on a bench in the sun</l>
+<l rend="indent">telling reminiscences to other old men whose women</l>
+<l rend="indent">were dead and children scattered.</l>
+<l>There was joy on his face when he died as there was joy</l>
+<l rend="indent">on his face when he lived&mdash;he was a swarthy, swaggering</l>
+<l rend="indent">son-of-a-gun.</l>
+</lg>
+</div2>
+<pb n="47"/>
+
+
+
+<div2 type="poem" id="d50">
+<head>FELLOW CITIZENS</head>
+<lg type="stanza">
+<l>I DRANK musty ale at the Illinois Athletic Club with</l>
+<l rend="indent">the millionaire manufacturer of Green River butter</l>
+<l rend="indent">one night</l>
+<l>And his face had the shining light of an old-time Quaker,</l>
+<l rend="indent">he spoke of a beautiful daughter, and I knew he had</l>
+<l rend="indent">a peace and a happiness up his sleeve somewhere.</l>
+<l>Then I heard Jim Kirch make a speech to the Advertising</l>
+<l rend="indent">Association on the trade resources of South America.</l>
+<l>And the way he lighted a three-for-a-nickel stogie and</l>
+<l rend="indent">cocked it at an angle regardless of the manners of</l>
+<l rend="indent">our best people,</l>
+<l>I knew he had a clutch on a real happiness even though</l>
+<l rend="indent">some of the reporters on his newspaper say he is</l>
+<l rend="indent">the living double of Jack London's Sea Wolf.</l>
+<l>In the mayor's office the mayor himself told me he was</l>
+<l rend="indent">happy though it is a hard job to satisfy all the office-</l>
+<l rend="indent">seekers and eat all the dinners he is asked to eat.</l>
+<l>Down in Gilpin Place, near Hull House, was a man with</l>
+<l rend="indent">his jaw wrapped for a bad toothache,</l>
+<l>And he had it all over the butter millionaire, Jim Kirch</l>
+<l rend="indent">and the mayor when it came to happiness.</l>
+<l>He is a maker of accordions and guitars and not only</l>
+<l rend="indent">makes them from start to finish, but plays them</l>
+<l rend="indent">after he makes them.</l>
+<pb n="48"/>
+
+<l>And he had a guitar of mahogany with a walnut bottom</l>
+<l rend="indent">he offered for seven dollars and a half if I wanted it,</l>
+<l>And another just like it, only smaller, for six dollars,</l>
+<l rend="indent">though he never mentioned the price till I asked him,</l>
+<l>And he stated the price in a sorry way, as though the</l>
+<l rend="indent">music and the make of an instrument count for a</l>
+<l rend="indent">million times more than the price in money.</l>
+<l>I thought he had a real soul and knew a lot about God.</l>
+<l>There was light in his eyes of one who has conquered</l>
+<l rend="indent">sorrow in so far as sorrow is conquerable or worth</l>
+<l rend="indent">conquering.</l>
+<l>Anyway he is the only Chicago citizen I was jealous of</l>
+<l rend="indent">that day.</l>
+<l>He played a dance they play in some parts of Italy</l>
+<l rend="indent">when the harvest of grapes is over and the wine</l>
+<l rend="indent">presses are ready for work.</l>
+</lg>
+</div2>
+<pb n="49"/>
+
+
+
+
+<div2 type="poem" id="d51">
+<head>NIGGER</head>
+<lg type="stanza">
+<l>I AM the nigger.</l>
+<l>Singer of songs,</l>
+<l>Dancer. . .</l>
+<l>Softer than fluff of cotton. . .</l>
+<l>Harder than dark earth</l>
+<l>Roads beaten in the sun</l>
+<l>By the bare feet of slaves. . .</l>
+<l>Foam of teeth. . . breaking crash of laughter. . .</l>
+<l>Red love of the blood of woman,</l>
+<l>White love of the tumbling pickaninnies. . .</l>
+<l>Lazy love of the banjo thrum. . .</l>
+<l>Sweated and driven for the harvest-wage,</l>
+<l>Loud laugher with hands like hams,</l>
+<l>Fists toughened on the handles,</l>
+<l>Smiling the slumber dreams of old jungles,</l>
+<l>Crazy as the sun and dew and dripping, heaving life</l>
+<l rend="indent">of the jungle,</l>
+<l>Brooding and muttering with memories of shackles:</l>
+<l rend="indent">     I am the nigger.</l>
+<l rend="indent">     Look at me.</l>
+<l rend="indent">     I am the nigger.</l>
+</lg>
+</div2>
+<pb n="50"/>
+
+
+
+
+<div2 type="poem" id="d52">
+<head>TWO NEIGHBORS</head>
+<lg type="stanza">
+<l>FACES of two eternities keep looking at me.</l>
+<l>One is Omar Khayam and the red stuff</l>
+<l rend="indent">wherein men forget yesterday and to-morrow</l>
+<l rend="indent">and remember only the voices and songs,</l>
+<l rend="indent">the stories, newspapers and fights of today.</l>
+<l>One is Louis Cornaro and a slim trick</l>
+<l rend="indent">of slow, short meals across slow, short years,</l>
+<l rend="indent">letting Death open the door only in slow, short inches.</l>
+<l>I have a neighbor who swears by Omar.</l>
+<l>I have a neighbor who swears by Cornaro.</l>
+<l rend="indent">Both are happy.</l>
+<l>Faces of two eternities keep looking at me.</l>
+<l rend="indent">Let them look.</l>
+</lg>
+</div2>
+<pb n="51"/>
+
+
+
+
+<div2 type="poem" id="d53">
+<head> STYLE</head>
+<lg type="stanza">
+<l>STYLE&mdash;go ahead talking about style.</l>
+<l>You can tell where a man gets his style just</l>
+<l rend="indent">as you can tell where Pavlowa got her legs</l>
+<l rend="indent">or Ty Cobb his batting eye.</l>
+</lg><lg type="stanza">
+<l rend="indent">Go on talking.</l>
+<l>Only don't take my style away.</l>
+<l rend="indent">It's my face.</l>
+<l rend="indent">Maybe no good</l>
+<l rend="indent">     but anyway, my face.</l>
+<l>I talk with it, I sing with it, I see, taste and feel with it,</l>
+<l rend="indent">I know why I want to keep it.</l>
+</lg><lg type="stanza">
+<l>Kill my style</l>
+<l rend="indent">     and you break Pavlowa's legs,</l>
+<l rend="indent">     and you blind Ty Cobb's batting eye.</l>
+</lg>
+</div2>
+<pb n="52"/>
+
+
+
+
+
+<div2 type="poem" id="d54">
+<head>TO BEACHEY, 1912</head>
+<lg type="stanza">
+<l>RIDING against the east,</l>
+<l>A veering, steady shadow</l>
+<l>Purrs the motor-call</l>
+<l>Of the man-bird</l>
+<l>Ready with the death-laughter</l>
+<l>In his throat</l>
+<l>And in his heart always</l>
+<l>The love of the big blue beyond.</l>
+</lg><lg type="stanza">
+<l>Only a man,</l>
+<l>A far fleck of shadow on the east</l>
+<l>Sitting at ease</l>
+<l>With his hands on a wheel</l>
+<l>And around him the large gray wings.</l>
+<l>Hold him, great soft wings,</l>
+<l>Keep and deal kindly, O wings,</l>
+<l>With the cool, calm shadow at the wheel.</l>
+</lg>
+</div2>
+<pb n="53"/>
+
+
+<div2 type="poem" id="d55">
+<head>UNDER A HAT RIM</head>
+<lg type="stanza">
+<l>WHILE the hum and the hurry</l>
+<l>Of passing footfalls</l>
+<l>Beat in my ear like the restless surf</l>
+<l>Of a wind-blown sea,</l>
+<l>A soul came to me</l>
+<l>Out of the look on a face.</l>
+</lg><lg type="stanza">
+<l>Eyes like a lake</l>
+<l>Where a storm-wind roams</l>
+<l>Caught me from under</l>
+<l>The rim of a hat.</l>
+<l rend="indent">I thought of a midsea wreck</l>
+<l rend="indent">and bruised fingers clinging</l>
+<l rend="indent">to a broken state-room door.</l>
+</lg>
+</div2>
+<pb n="54"/>
+
+
+
+
+<div2 type="poem" id="d56">
+<head>IN A BREATH</head>
+<lg type="stanza">
+<l><hi rend="italic">To the Williamson Brothers</hi></l>
+<l>HIGH noon. White sun flashes on the Michigan Avenue</l>
+<l rend="indent">asphalt. Drum of hoofs and whirr of motors.</l>
+<l rend="indent">Women trapsing along in flimsy clothes catching</l>
+<l rend="indent">play of sun-fire to their skin and eyes.</l>
+</lg><lg type="stanza">
+<l>Inside the playhouse are movies from under the sea.</l>
+<l rend="indent">From the heat of pavements and the dust of sidewalks,</l>
+<l rend="indent">passers-by go in a breath to be witnesses of</l>
+<l rend="indent">large cool sponges, large cool fishes, large cool valleys</l>
+<l rend="indent">and ridges of coral spread silent in the soak of</l>
+<l rend="indent">the ocean floor thousands of years.</l>
+</lg><lg type="stanza">
+<l>A naked swimmer dives. A knife in his right hand</l>
+<l rend="indent">shoots a streak at the throat of a shark. The tail</l>
+<l rend="indent">of the shark lashes. One swing would kill the swimmer. . .</l>
+<l rend="indent">Soon the knife goes into the soft under-</l>
+<l rend="indent">neck of the veering fish. . . Its mouthful of teeth,</l>
+<l rend="indent">each tooth a dagger itself, set row on row, glistens</l>
+<l rend="indent">when the shuddering, yawning cadaver is hauled up</l>
+<l rend="indent">by the brothers of the swimmer.</l>
+</lg><lg type="stanza">
+<l>Outside in the street is the murmur and singing of life</l>
+<l rend="indent">in the sun&mdash;horses, motors, women trapsing along</l>
+<l rend="indent">in flimsy clothes, play of sun-fire in their blood.</l>
+</lg>
+</div2>
+<pb n="55"/>
+
+
+
+
+<div2 type="poem" id="d57">
+<head> BATH</head>
+<lg type="stanza">
+<l rend="indent">A MAN saw the whole world as a grinning skull and</l>
+<l>cross-bones. The rose flesh of life shriveled from all</l>
+<l>faces. Nothing counts. Everything is a fake. Dust to</l>
+<l>dust and ashes to ashes and then an old darkness and a</l>
+<l>useless silence. So he saw it all. Then he went to a</l>
+<l>Mischa Elman concert. Two hours waves of sound beat</l>
+<l>on his eardrums. Music washed something or other</l>
+<l>inside him. Music broke down and rebuilt something or</l>
+<l>other in his head and heart. He joined in five encores</l>
+<l>for the young Russian Jew with the fiddle. When he</l>
+<l>got outside his heels hit the sidewalk a new way. He</l>
+<l>was the same man in the same world as before. Only</l>
+<l>there was a singing fire and a climb of roses everlastingly</l>
+<l>over the world he looked on.</l>
+</lg>
+</div2>
+<pb n="56"/>
+
+
+
+
+<div2 type="poem" id="d58">
+<head>BRONZES</head>
+<l>   I</l>
+<lg type="stanza">
+<l>THE bronze General Grant riding a bronze horse in Lincoln</l>
+<l rend="indent">Park</l>
+<l>Shrivels in the sun by day when the motor cars whirr</l>
+<l rend="indent">by in long processions going somewhere to keep appointment</l>
+<l rend="indent">for dinner and matinees and buying and selling</l>
+<l>Though in the dusk and nightfall when high waves are piling</l>
+<l>On the slabs of the promenade along the lake shore near by</l>
+<l>I have seen the general dare the combers come closer</l>
+<l>And make to ride his bronze horse out into the hoofs</l>
+<l rend="indent">and guns of the storm.</l>
+</lg>
+<pb n="57"/>
+
+<lg type="stanza">
+<l>II</l>
+<l>I cross Lincoln Park on a winter night when the snow</l>
+<l rend="indent">is falling.</l>
+<l>Lincoln in bronze stands among the white lines of snow,</l>
+<l rend="indent">his bronze forehead meeting soft echoes of the newsies</l>
+<l rend="indent">crying forty thousand men are dead along the</l>
+<l rend="indent">Yser, his bronze ears listening to the mumbled roar</l>
+<l rend="indent">of the city at his bronze feet.</l>
+<l>A lithe Indian on a bronze pony, Shakespeare seated with</l>
+<l rend="indent">long legs in bronze, Garibaldi in a bronze cape, they</l>
+<l rend="indent">hold places in the cold, lonely snow to-night on their</l>
+<l rend="indent">pedestals and so they will hold them past midnight</l>
+<l rend="indent">and into the dawn.</l>
+</lg>
+</div2>
+<pb n="58"/>
+
+<div2 type="poem" id="d59">
+<head> DUNES</head>
+<lg type="stanza">
+<l>WHAT do we see here in the sand dunes of the white</l>
+<l rend="indent">moon alone with our thoughts, Bill,</l>
+<l>Alone with our dreams, Bill, soft as the women tying</l>
+<l rend="indent">scarves around their heads dancing,</l>
+<l>Alone with a picture and a picture coming one after the</l>
+<l rend="indent">other of all the dead,</l>
+<l>The dead more than all these grains of sand one by one</l>
+<l rend="indent">piled here in the moon,</l>
+<l>Piled against the sky-line taking shapes like the hand of</l>
+<l rend="indent">the wind wanted,</l>
+<l>What do we see here, Bill, outside of what the wise men</l>
+<l rend="indent">beat their heads on,</l>
+<l>Outside of what the poets cry for and the soldiers drive</l>
+<l rend="indent">on headlong and leave their skulls in the sun for&mdash;</l>
+<l rend="indent">what, Bill?</l>
+</lg>
+</div2>
+<pb n="59"/>
+
+
+<div2 type="poem" id="d60">
+<head>ON THE WAY</head>
+<lg type="stanza">
+<l>LITTLE one, you have been buzzing in the books,</l>
+<l>Flittering in the newspapers and drinking beer with</l>
+<l rend="indent">lawyers</l>
+<l>And amid the educated men of the clubs you have been</l>
+<l rend="indent">getting an earful of speech from trained tongues.</l>
+<l>Take an earful from me once, go with me on a hike</l>
+<l>Along sand stretches on the great inland sea here</l>
+<l>And while the eastern breeze blows on us and the</l>
+<l rend="indent">restless surge</l>
+<l>Of the lake waves on the breakwater breaks with an ever</l>
+<l rend="indent">fresh monotone,</l>
+<l>Let us ask ourselves: What is truth? what do you or I</l>
+<l rend="indent">know?</l>
+<l>How much do the wisest of the world's men know about</l>
+<l rend="indent">where the massed human procession is going?</l>
+</lg><lg type="stanza">
+<l>You have heard the mob laughed at?</l>
+<l>I ask you: Is not the mob rough as the mountains are</l>
+<l rend="indent">rough?</l>
+<l>And all things human rise from the mob and relapse and</l>
+<l rend="indent">rise again as rain to the sea?</l>
+</lg>
+</div2>
+<pb n="60"/>
+
+
+
+
+<div2 type="poem" id="d61">
+<head>READY TO KILL</head>
+<lg type="stanza">
+<l>TEN minutes now I have been looking at this.</l>
+<l>I have gone by here before and wondered about it.</l>
+<l>This is a bronze memorial of a famous general</l>
+<l>Riding horseback with a flag and a sword and a revolver</l>
+<l rend="indent">on him.</l>
+<l>I want to smash the whole thing into a pile of junk to be</l>
+<l rend="indent">hauled away to the scrap yard.</l>
+<l>I put it straight to you,</l>
+<l>After the farmer, the miner, the shop man, the factory</l>
+<l rend="indent">hand, the fireman and the teamster,</l>
+<l>Have all been remembered with bronze memorials,</l>
+<l>Shaping them on the job of getting all of us</l>
+<l>Something to eat and something to wear,</l>
+<l>When they stack a few silhouettes</l>
+<l rend="indent">Against the sky</l>
+<l rend="indent">Here in the park,</l>
+<l>And show the real huskies that are doing the work of</l>
+<l rend="indent">the world, and feeding people instead of butchering them,</l>
+<l>Then maybe I will stand here</l>
+<l>And look easy at this general of the army holding a flag</l>
+<l rend="indent">in the air,</l>
+<l>And riding like hell on horseback</l>
+<l>Ready to kill anybody that gets in his way,</l>
+<l>Ready to run the red blood and slush the bowels of men</l>
+<l rend="indent">all over the sweet new grass of the prairie.</l>
+</lg>
+</div2>
+<pb n="60"/>
+
+<div2 type="poem" id="d62">
+<head>TO A CONTEMPORARY BUNKSHOOTER</head>
+<lg type="stanza">
+<l>YOU come along. . . tearing your shirt. . . yelling about</l>
+<l rend="indent">Jesus.</l>
+<l rend="indent">Where do you get that stuff?</l>
+<l rend="indent">What do you know about Jesus?</l>
+<l>Jesus had a way of talking soft and outside of a few</l>
+<l rend="indent">bankers and higher-ups among the con men of Jerusalem</l>
+<l rend="indent">everybody liked to have this Jesus around because</l>
+<l rend="indent">he never made any fake passes and everything</l>
+<l rend="indent">he said went and he helped the sick and gave the</l>
+<l rend="indent">people hope.</l>
+</lg><lg type="stanza">
+<l>You come along squirting words at us, shaking your fist</l>
+<l rend="indent">and calling us all dam fools so fierce the froth slobbers</l>
+<l rend="indent">over your lips. . . always blabbing we're all</l>
+<l rend="indent">going to hell straight off and you know all about it.</l>
+</lg><lg type="stanza">
+<l>I've read Jesus' words. I know what he said. You don't</l>
+<l rend="indent">throw any scare into me. I've got your number. I</l>
+<l rend="indent">know how much you know about Jesus.</l>
+<l>He never came near clean people or dirty people but</l>
+<l rend="indent">they felt cleaner because he came along. It was your</l>
+<l rend="indent">crowd of bankers and business men and lawyers</l>
+<l rend="indent">hired the sluggers and murderers who put Jesus out</l>
+<l rend="indent">of the running.</l>
+</lg>
+<pb n="62"/>
+<lg type="stanza">
+<l>I say the same bunch backing you nailed the nails into</l>
+<l rend="indent">the hands of this Jesus of Nazareth. He had lined</l>
+<l rend="indent">up against him the same crooks and strong-arm men</l>
+<l rend="indent">now lined up with you paying your way.</l>
+</lg><lg type="stanza">
+<l>This Jesus was good to look at, smelled good, listened</l>
+<l rend="indent">good. He threw out something fresh and beautiful</l>
+<l rend="indent">from the skin of his body and the touch of his hands</l>
+<l rend="indent">wherever he passed along.</l>
+<l>You slimy bunkshooter, you put a smut on every human</l>
+<l rend="indent">blossom in reach of your rotten breath belching</l>
+<l rend="indent">about hell-fire and hiccupping about this Man who</l>
+<l rend="indent">lived a clean life in Galilee.</l>
+</lg><lg type="stanza">
+<l>When are you going to quit making the carpenters build</l>
+<l rend="indent">emergency hospitals for women and girls driven</l>
+<l rend="indent">crazy with wrecked nerves from your gibberish about</l>
+<l rend="indent">Jesus&mdash;I put it to you again: Where do you get that</l>
+<l rend="indent">stuff; what do you know about Jesus?</l>
+</lg><lg type="stanza">
+<l>Go ahead and bust all the chairs you want to. Smash</l>
+<l rend="indent">a whole wagon load of furniture at every performance.</l>
+<l rend="indent">Turn sixty somersaults and stand on your</l>
+<l rend="indent">nutty head. If it wasn't for the way you scare the</l>
+<l rend="indent">women and kids I'd feel sorry for you and pass the hat.</l>
+<l>I like to watch a good four-flusher work, but not when</l>
+<l rend="indent">he starts people puking and calling for the doctors.</l>
+<l>I like a man that's got nerve and can pull off a great</l>
+<l rend="indent">original performance, but you&mdash;you're only a bug-</l>
+<l rend="indent">house peddler of second-hand gospel&mdash;you're only</l>
+<pb n="63"/>
+<l rend="indent">shoving out a phoney imitation of the goods this</l>
+<l rend="indent">Jesus wanted free as air and sunlight.</l>
+</lg><lg type="stanza">
+<l>You tell people living in shanties Jesus is going to fix it</l>
+<l rend="indent">up all right with them by giving them mansions in</l>
+<l rend="indent">the skies after they're dead and the worms have</l>
+<l rend="indent">eaten 'em.</l>
+<l>You tell $6 a week department store girls all they need</l>
+<l rend="indent">is Jesus; you take a steel trust wop, dead without</l>
+<l rend="indent">having lived, gray and shrunken at forty years of</l>
+<l rend="indent">age, and you tell him to look at Jesus on the cross</l>
+<l rend="indent">and he'll be all right.</l>
+<l>You tell poor people they don't need any more money</l>
+<l rend="indent">on pay day and even if it's fierce to be out of a job,</l>
+<l rend="indent">Jesus'll fix that up all right, all right&mdash;all they gotta</l>
+<l rend="indent">do is take Jesus the way you say.</l>
+<l>I'm telling you Jesus wouldn't stand for the stuff you're</l>
+<l rend="indent">handing out. Jesus played it different. The bankers</l>
+<l rend="indent">and lawyers of Jerusalem got their sluggers and</l>
+<l rend="indent">murderers to go after Jesus just because Jesus</l>
+<l rend="indent">wouldn't play their game. He didn't sit in with</l>
+<l rend="indent">the big thieves.</l>
+</lg><lg type="stanza">
+<l>I don't want a lot of gab from a bunkshooter in my religion.</l>
+<l>I won't take my religion from any man who never works</l>
+<l rend="indent">except with his mouth and never cherishes any memory</l>
+<l rend="indent">except the face of the woman on the American</l>
+<l rend="indent">silver dollar.</l>
+</lg><lg type="stanza">
+<l>I ask you to come through and show me where you're</l>
+<l rend="indent">pouring out the blood of your life.</l>
+</lg>
+<pb n="64"/>
+
+<lg type="stanza">
+<l>I've been to this suburb of Jerusalem they call Golgotha,</l>
+<l rend="indent">where they nailed Him, and I know if the story is</l>
+<l rend="indent">straight it was real blood ran from His hands and</l>
+<l rend="indent">the nail-holes, and it was real blood spurted in red</l>
+<l rend="indent">drops where the spear of the Roman soldier rammed</l>
+<l rend="indent">in between the ribs of this Jesus of Nazareth.</l>
+</lg>
+</div2>
+<pb n="65"/>
+
+
+
+
+<div2 type="poem" id="d63">
+<head> SKYSCRAPER</head>
+<lg type="stanza">
+<l>BY day the skyscraper looms in the smoke and sun and</l>
+<l rend="indent">has a soul.</l>
+<l>Prairie and valley, streets of the city, pour people into</l>
+<l rend="indent">it and they mingle among its twenty floors and are</l>
+<l rend="indent">poured out again back to the streets, prairies and</l>
+<l rend="indent">valleys.</l>
+<l>It is the men and women, boys and girls so poured in and</l>
+<l rend="indent">out all day that give the building a soul of dreams</l>
+<l rend="indent">and thoughts and memories.</l>
+<l>(Dumped in the sea or fixed in a desert, who would care</l>
+<l rend="indent">for the building or speak its name or ask a policeman</l>
+<l rend="indent">the way to it?)</l>
+</lg><lg type="stanza">
+<l>Elevators slide on their cables and tubes catch letters and</l>
+<l rend="indent">parcels and iron pipes carry gas and water in and</l>
+<l rend="indent">sewage out.</l>
+<l>Wires climb with secrets, carry light and carry words,</l>
+<l rend="indent">and tell terrors and profits and loves&mdash;curses of men</l>
+<l rend="indent">grappling plans of business and questions of women</l>
+<l rend="indent">in plots of love.</l>
+</lg><lg type="stanza">
+<l>Hour by hour the caissons reach down to the rock of the</l>
+<l rend="indent">earth and hold the building to a turning planet.</l>
+<l>Hour by hour the girders play as ribs and reach out and</l>
+<l rend="indent">hold together the stone walls and floors.</l>
+</lg>
+<pb n="66"/>
+
+
+<lg type="stanza">
+<l>Hour by hour the hand of the mason and the stuff of the</l>
+<l rend="indent">mortar clinch the pieces and parts to the shape an</l>
+<l rend="indent">architect voted.</l>
+<l>Hour by hour the sun and the rain, the air and the rust,</l>
+<l rend="indent">and the press of time running into centuries, play</l>
+<l rend="indent">on the building inside and out and use it.</l>
+</lg><lg type="stanza">
+<l>Men who sunk the pilings and mixed the mortar are laid</l>
+<l rend="indent">in graves where the wind whistles a wild song</l>
+<l rend="indent">without words</l>
+<l>And so are men who strung the wires and fixed the pipes</l>
+<l rend="indent">and tubes and those who saw it rise floor by floor.</l>
+<l>Souls of them all are here, even the hod carrier begging</l>
+<l rend="indent">at back doors hundreds of miles away and the brick-</l>
+<l rend="indent">layer who went to state's prison for shooting another</l>
+<l rend="indent">man while drunk.</l>
+<l>(One man fell from a girder and broke his neck at the</l>
+<l rend="indent">end of a straight plunge&mdash;he is here&mdash;his soul has</l>
+<l rend="indent">gone into the stones of the building.)</l>
+</lg><lg type="stanza">
+<l>On the office doors from tier to tier&mdash;hundreds of names</l>
+<l rend="indent">and each name standing for a face written across</l>
+<l rend="indent">with a dead child, a passionate lover, a driving</l>
+<l rend="indent">ambition for a million dollar business or a lobster's</l>
+<l rend="indent">ease of life.</l>
+</lg><lg type="stanza">
+<l>Behind the signs on the doors they work and the walls</l>
+<l rend="indent">tell nothing from room to room.</l>
+<l>Ten-dollar-a-week stenographers take letters from</l>
+<l rend="indent">corporation officers, lawyers, efficiency engineers,</l>
+<l rend="indent">and tons of letters go bundled from the building to all</l>
+<l rend="indent">ends of the earth.</l>
+<pb n="67"/>
+<l>Smiles and tears of each office girl go into the soul of</l>
+<l rend="indent">the building just the same as the master-men who</l>
+<l rend="indent">rule the building.</l>
+</lg><lg type="stanza">
+<l>Hands of clocks turn to noon hours and each floor</l>
+<l rend="indent">empties its men and women who go away and eat</l>
+<l rend="indent">and come back to work.</l>
+<l>Toward the end of the afternoon all work slackens and</l>
+<l rend="indent">all jobs go slower as the people feel day closing on</l>
+<l rend="indent">them.</l>
+<l>One by one the floors are emptied. . . The uniformed</l>
+<l rend="indent">elevator men are gone. Pails clang. . . Scrubbers</l>
+<l rend="indent">work, talking in foreign tongues. Broom and water</l>
+<l rend="indent">and mop clean from the floors human dust and spit,</l>
+<l rend="indent">and machine grime of the day.</l>
+<l>Spelled in electric fire on the roof are words telling</l>
+<l rend="indent">miles of houses and people where to buy a thing for</l>
+<l rend="indent">money. The sign speaks till midnight.</l>
+</lg><lg type="stanza">
+<l>Darkness on the hallways. Voices echo. Silence</l>
+<l rend="indent">holds. . . Watchmen walk slow from floor to floor</l>
+<l rend="indent">and try the doors. Revolvers bulge from their hip</l>
+<l rend="indent">pockets. . . Steel safes stand in corners. Money</l>
+<l rend="indent">is stacked in them.</l>
+<l>A young watchman leans at a window and sees the lights</l>
+<l rend="indent">of barges butting their way across a harbor, nets of</l>
+<l rend="indent">red and white lanterns in a railroad yard, and a span</l>
+<l rend="indent">of glooms splashed with lines of white and blurs of</l>
+<l rend="indent">crosses and clusters over the sleeping city.</l>
+<l>By night the skyscraper looms in the smoke and the stars</l>
+<l rend="indent">and has a soul.</l>
+</lg><pb n="68"/>
+</div2>
+</div1>
+
+
+
+<div1 type="book" id="d64"><pb n="69"/>
+<head>HANDFULS</head>
+<pb n="70"/>
+<div2 type="poem" id="d65">
+<head>FOG</head>
+<lg type="stanza">
+<l>THE fog comes</l>
+<l>on little cat feet.</l>
+</lg><lg type="stanza">
+<l>It sits looking</l>
+<l>over harbor and city</l>
+<l>on silent haunches</l>
+<l>and then moves on.</l>
+</lg>
+</div2>
+<pb n="72"/>
+
+
+<div2 type="poem" id="d66">
+<head>POOL</head>
+<lg type="stanza">
+<l>OUT of the fire</l>
+<l>Came a man sunken</l>
+<l>To less than cinders,</l>
+<l>A tea-cup of ashes or so.</l>
+<l>And I,</l>
+<l>The gold in the house,</l>
+<l>Writhed into a stiff pool.</l>
+</lg>
+</div2>
+<pb n="73"/>
+
+<div2 type="poem" id="d67">
+<head> JAN KUBELIK</head>
+<lg type="stanza">
+<l>YOUR bow swept over a string, and a long low note</l>
+<l rend="indent">quivered to the air.</l>
+<l>(A mother of Bohemia sobs over a new child perfect</l>
+<l rend="indent">learning to suck milk.)</l>
+</lg><lg type="stanza">
+<l>Your bow ran fast over all the high strings fluttering</l>
+<l rend="indent">and wild.</l>
+<l>(All the girls in Bohemia are laughing on a Sunday afternoon</l>
+<l rend="indent">in the hills with their lovers.)</l>
+</lg>
+</div2>
+<pb n="74"/>
+
+<div2 type="poem" id="d68">
+<head>CHOOSE</head>
+<lg type="stanza">
+<l rend="indent">THE single clenched fist lifted and ready,</l>
+<l>Or the open asking hand held out and waiting.</l>
+<l rend="indent">     Choose:</l>
+<l>For we meet by one or the other.</l>
+</lg>
+</div2>
+<pb n="75"/>
+
+<div2 type="poem" id="d69">
+<head>CRIMSON</head>
+<lg type="stanza">
+<l>CRIMSON is the slow smolder of the cigar end I hold,</l>
+<l>Gray is the ash that stiffens and covers all silent the fire.</l>
+<l>(A great man I know is dead and while he lies in his</l>
+<l rend="indent">coffin a gone flame I sit here in cumbering shadows</l>
+<l rend="indent">and smoke and watch my thoughts come and go.)</l>
+</lg>
+</div2>
+<pb n="76"/>
+
+<div2 type="poem" id="d70">
+<head> WHITELIGHT</head>
+<lg type="stanza">
+<l>YOUR whitelight flashes the frost to-night</l>
+<l>Moon of the purple and silent west.</l>
+<l>Remember me one of your lovers of dreams.</l>
+</lg>
+</div2>
+<pb n="77"/>
+
+<div2 type="poem" id="d71">
+<head>FLUX</head>
+<lg type="stanza">
+<l>SAND of the sea runs red</l>
+<l>Where the sunset reaches and quivers.</l>
+<l>Sand of the sea runs yellow</l>
+<l>Where the moon slants and wavers.</l>
+</lg>
+</div2>
+<pb n="78"/>
+
+<div2 type="poem" id="d72">
+<head>KIN</head>
+<lg type="stanza">
+<l rend="indent">BROTHER, I am fire</l>
+<l>Surging under the ocean floor.</l>
+<l>I shall never meet you, brother&mdash;</l>
+<l>Not for years, anyhow;</l>
+<l>Maybe thousands of years, brother.</l>
+<l>Then I will warm you,</l>
+<l>Hold you close, wrap you in circles,</l>
+<l>Use you and change you&mdash;</l>
+<l>Maybe thousands of years, brother.</l>
+</lg>
+<pb n="79"/>
+</div2>
+
+
+<div2 type="poem" id="d73">
+<head>WHITE SHOULDERS</head>
+<lg type="stanza">
+<l>YOUR white shoulders</l>
+<l rend="indent">I remember</l>
+<l>And your shrug of laughter.</l>
+</lg><lg type="stanza">
+<l rend="indent">Low laughter</l>
+<l rend="indent">Shaken slow</l>
+<l>From your white shoulders.</l>
+</lg>
+</div2>
+<pb n="80"/>
+
+<div2 type="poem" id="d74">
+<head>LOSSES</head>
+<lg type="stanza">
+<l>I HAVE love</l>
+<l>And a child,</l>
+<l>A banjo</l>
+<l>And shadows.</l>
+<l>(Losses of God,</l>
+<l>All will go</l>
+<l>And one day</l>
+<l>We will hold</l>
+<l>Only the shadows.)</l>
+</lg>
+</div2>
+<pb n="81"/>
+
+<div2 type="poem" id="d75">
+<head>TROTHS</head>
+<lg type="stanza">
+<l>YELLOW dust on a bumble</l>
+<l rend="indent">bee's wing,</l>
+<l>Grey lights in a woman's</l>
+<l rend="indent">asking eyes,</l>
+<l>Red ruins in the changing</l>
+<l rend="indent">sunset embers:</l>
+<l>I take you and pile high</l>
+<l rend="indent">the memories.</l>
+<l>Death will break her claws</l>
+<l rend="indent">on some I keep.</l>
+</lg><pb n="82"/>
+</div2>
+</div1>
+
+
+
+<div1 type="book" id="d76"><pb n="83"/>
+<head>WAR POEMS<lb/>
+(1914-1915)</head>
+<pb n="84"/>
+
+<pb n="85"/>
+<div2 type="poem" id="d77">
+<head>KILLERS</head>
+<lg type="stanza">
+<l rend="indent">I AM singing to you</l>
+<l>Soft as a man with a dead child speaks;</l>
+<l>Hard as a man in handcuffs,</l>
+<l>Held where he cannot move:</l>
+</lg><lg type="stanza">
+<l rend="indent">Under the sun</l>
+<l>Are sixteen million men,</l>
+<l>Chosen for shining teeth,</l>
+<l>Sharp eyes, hard legs,</l>
+<l>And a running of young warm blood in their wrists.</l>
+</lg><lg type="stanza">
+<l rend="indent">And a red juice runs on the green grass;</l>
+<l>And a red juice soaks the dark soil.</l>
+<l>And the sixteen million are killing. . . and killing</l>
+<l rend="indent">and killing.</l>
+</lg><lg type="stanza">
+<l rend="indent">I never forget them day or night:</l>
+<l>They beat on my head for memory of them;</l>
+<l>They pound on my heart and I cry back to them,</l>
+<l>To their homes and women, dreams and games.</l>
+</lg><lg type="stanza">
+<l rend="indent">I wake in the night and smell the trenches,</l>
+<l>And hear the low stir of sleepers in lines&mdash;</l>
+<l>Sixteen million sleepers and pickets in the dark:</l>
+<l>Some of them long sleepers for always,</l>
+</lg>
+<pb n="86"/>
+<lg type="stanza">
+<l>Some of them tumbling to sleep to-morrow for always,</l>
+<l>Fixed in the drag of the world's heartbreak,</l>
+<l>Eating and drinking, toiling. . . on a long job of</l>
+<l rend="indent">killing.</l>
+<l>Sixteen million men.</l>
+</lg>
+</div2>
+
+<pb n="87"/>
+<div2 type="poem" id="d78">
+<head>AMONG THE RED GUNS</head>
+<l><hi rend="italic"> After waking at dawn one morning when the wind sang<lb/>
+ low among dry leaves in an elm</hi></l>
+<lg type="stanza">
+<l>AMONG the red guns,</l>
+<l>In the hearts of soldiers</l>
+<l>Running free blood</l>
+<l>In the long, long campaign:</l>
+<l rend="indent">Dreams go on.</l>
+</lg><lg type="stanza">
+<l>Among the leather saddles,</l>
+<l>In the heads of soldiers</l>
+<l>Heavy in the wracks and kills</l>
+<l>Of all straight fighting:</l>
+<l rend="indent">Dreams go on.</l>
+</lg><lg type="stanza">
+<l>Among the hot muzzles,</l>
+<l>In the hands of soldiers</l>
+<l>Brought from flesh-folds of women&mdash;</l>
+<l>Soft amid the blood and crying&mdash;</l>
+<l>In all your hearts and heads</l>
+<l>Among the guns and saddles and muzzles:</l>
+</lg><lg type="stanza">
+<l rend="indent">Dreams,</l>
+<l>Dreams go on,</l>
+<l>Out of the dead on their backs,</l>
+<l>Broken and no use any more:</l>
+<l>Dreams of the way and the end go on.</l>
+</lg>
+</div2>
+<pb n="88"/>
+
+<div2 type="poem" id="d79">
+<head> IRON</head>
+<lg type="stanza">
+<l>GUNS,</l>
+<l>Long, steel guns,</l>
+<l>Pointed from the war ships</l>
+<l>In the name of the war god.</l>
+<l>Straight, shining, polished guns,</l>
+<l>Clambered over with jackies in white blouses,</l>
+<l>Glory of tan faces, tousled hair, white teeth,</l>
+<l>Laughing lithe jackies in white blouses,</l>
+<l>Sitting on the guns singing war songs, war chanties.</l>
+</lg>
+<lg type="stanza">
+<l>Shovels,</l>
+<l>Broad, iron shovels,</l>
+<l>Scooping out oblong vaults,</l>
+<l>Loosening turf and leveling sod.</l>
+</lg><lg type="stanza">
+<l rend="indent">I ask you</l>
+<l rend="indent">To witness&mdash;</l>
+<l rend="indent">The shovel is brother to the gun.</l>
+</lg>
+</div2>
+<pb n="89"/>
+
+<div2 type="poem" id="d80">
+<head>MURMURINGS IN A FIELD HOSPITAL</head>
+<p><hi rend="italic">They picked him up in the grass where he had lain two days in the rain with a piece of shrapnel in his lungs.</hi></p>
+<lg type="stanza">
+<l>COME to me only with playthings now. . .</l>
+<l>A picture of a singing woman with blue eyes</l>
+<l>Standing at a fence of hollyhocks, poppies and sunflowers. . .</l>
+<l>Or an old man I remember sitting with children telling stories</l>
+<l>Of days that never happened anywhere in the world. . .</l>
+</lg><lg type="stanza">
+<l>No more iron cold and real to handle,</l>
+<l>Shaped for a drive straight ahead.</l>
+<l>Bring me only beautiful useless things.</l>
+<l>Only old home things touched at sunset in the quiet. . .</l>
+<l>And at the window one day in summer</l>
+<l>Yellow of the new crock of butter</l>
+<l>Stood against the red of new climbing roses. . .</l>
+<l>And the world was all playthings.</l>
+</lg>
+</div2>
+<pb n="90"/>
+
+<div2 type="poem" id="d81">
+<head> STATISTICS</head>
+<lg type="stanza">
+<l>NAPOLEON shifted,</l>
+<l>Restless in the old sarcophagus</l>
+<l>And murmured to a watchguard:</l>
+<l>"Who goes there?"</l>
+<l>"Twenty-one million men,</l>
+<l>Soldiers, armies, guns,</l>
+<l>Twenty-one million</l>
+<l>Afoot, horseback,</l>
+<l>In the air,</l>
+<l>Under the sea."</l>
+<l>And Napoleon turned to his sleep:</l>
+<l>"It is not my world answering;</l>
+<l>It is some dreamer who knows not</l>
+<l>The world I marched in</l>
+<l>From Calais to Moscow."</l>
+<l>And he slept on</l>
+<l>In the old sarcophagus</l>
+<l>While the aeroplanes</l>
+<l>Droned their motors</l>
+<l>Between Napoleon's mausoleum</l>
+<l>And the cool night stars.</l>
+</lg>
+</div2>
+<pb n="91"/>
+
+<div2 type="poem" id="d82">
+<head>FIGHT</head>
+<lg type="stanza">
+<l>RED drips from my chin where I have been eating.</l>
+<l>Not all the blood, nowhere near all, is wiped off my mouth.</l>
+</lg><lg type="stanza">
+<l>Clots of red mess my hair</l>
+<l>And the tiger, the buffalo, know how.</l>
+</lg><lg type="stanza">
+<l>I was a killer.</l>
+<l rend="indent">Yes, I am a killer.</l>
+</lg><lg type="stanza">
+<l>I come from killing.</l>
+<l rend="indent">I go to more.</l>
+<l>I drive red joy ahead of me from killing.</l>
+<l>Red gluts and red hungers run in the smears and juices</l>
+<l rend="indent">of my inside bones:</l>
+<l>The child cries for a suck mother and I cry for war.</l>
+</lg>
+</div2>
+<pb n="92"/>
+
+<div2 type="poem" id="d83">
+<head>BUTTONS</head>
+<lg type="stanza">
+<l>I HAVE been watching the war map slammed up for</l>
+<l rend="indent">advertising in front of the newspaper office.</l>
+<l>Buttons&mdash;red and yellow buttons&mdash;blue and black buttons&mdash;</l>
+<l rend="indent">are shoved back and forth across the map.</l>
+</lg><lg type="stanza">
+<l>A laughing young man, sunny with freckles,</l>
+<l>Climbs a ladder, yells a joke to somebody in the crowd,</l>
+<l>And then fixes a yellow button one inch west</l>
+<l>And follows the yellow button with a black button one</l>
+<l rend="indent">inch west.</l>
+</lg><lg type="stanza">
+<l>(Ten thousand men and boys twist on their bodies in</l>
+<l rend="indent">a red soak along a river edge,</l>
+<l>Gasping of wounds, calling for water, some rattling</l>
+<l rend="indent">death in their throats.)</l>
+<l>Who would guess what it cost to move two buttons one</l>
+<l rend="indent">inch on the war map here in front of the newspaper</l>
+<l rend="indent">office where the freckle-faced young man is laughing</l>
+<l rend="indent">to us?</l>
+</lg>
+</div2>
+<pb n="93"/>
+
+<div2 type="poem" id="d84">
+<head>AND THEY OBEY</head>
+<lg type="stanza">
+<l>SMASH down the cities.</l>
+<l>Knock the walls to pieces.</l>
+<l>Break the factories and cathedrals, warehouses</l>
+<l rend="indent">and homes</l>
+<l>Into loose piles of stone and lumber and black</l>
+<l rend="indent">burnt wood:</l>
+<l rend="indent">You are the soldiers and we command you.</l>
+</lg><lg type="stanza">
+<l>Build up the cities.</l>
+<l>Set up the walls again.</l>
+<l>Put together once more the factories and cathedrals,</l>
+<l rend="indent">warehouses and homes</l>
+<l>Into buildings for life and labor:</l>
+<l rend="indent">You are workmen and citizens all: We</l>
+<l rend="indent">command you.</l>
+</lg>
+</div2>
+<pb n="94"/>
+
+<div2 type="poem" id="d85">
+<head> JAWS</head>
+<lg type="stanza">
+<l>SEVEN nations stood with their hands on the jaws of death.</l>
+<l>It was the first week in August, Nineteen Hundred Fourteen.</l>
+<l>I was listening, you were listening, the whole world was</l>
+<l rend="indent">listening,</l>
+<l>And all of us heard a Voice murmuring:</l>
+<l rend="indent">     "I am the way and the light,</l>
+<l rend="indent">     He that believeth on me</l>
+<l rend="indent">     Shall not perish</l>
+<l rend="indent">     But shall have everlasting life."</l>
+<l>Seven nations listening heard the Voice and answered:</l>
+<l rend="indent">     "O Hell!"</l>
+<l>The jaws of death began clicking and they go on clicking.</l>
+<l rend="indent">     "O Hell!"</l>
+</lg>
+</div2>
+<pb n="95"/>
+
+
+
+
+<div2 type="poem" id="d86">
+<head>SALVAGE</head>
+<lg type="stanza">
+<l>GUNS on the battle lines have pounded now a year</l>
+<l rend="indent">between Brussels and Paris.</l>
+<l>And, William Morris, when I read your old chapter on</l>
+<l rend="indent">the great arches and naves and little whimsical</l>
+<l rend="indent">corners of the Churches of Northern France&mdash;Brr-rr!</l>
+<l>I'm glad you're a dead man, William Morris, I'm glad</l>
+<l rend="indent">you're down in the damp and mouldy, only a memory</l>
+<l rend="indent">instead of a living man&mdash;I'm glad you're gone.</l>
+<l>You never lied to us, William Morris, you loved the</l>
+<l rend="indent">shape of those stones piled and carved for you to</l>
+<l rend="indent">dream over and wonder because workmen got joy</l>
+<l rend="indent">of life into them,</l>
+<l>Workmen in aprons singing while they hammered, and</l>
+<l rend="indent">praying, and putting their songs and prayers into</l>
+<l rend="indent">the walls and roofs, the bastions and cornerstones</l>
+<l rend="indent">and gargoyles&mdash;all their children and kisses of</l>
+<l rend="indent">women and wheat and roses growing.</l>
+<l>I say, William Morris, I'm glad you're gone, I'm glad</l>
+<l rend="indent">you're a dead man.</l>
+<l>Guns on the battle lines have pounded a year now between</l>
+<l rend="indent">Brussels and Paris.</l>
+</lg>
+</div2>
+<pb n="96"/>
+
+
+<div2 type="poem" id="d87">
+<head> WARS</head>
+<lg type="stanza">
+<l>IN the old wars drum of hoofs and the beat of shod feet.</l>
+<l>In the new wars hum of motors and the tread of rubber tires.</l>
+<l>In the wars to come silent wheels and whirr of rods not</l>
+<l rend="indent">yet dreamed out in the heads of men.</l>
+</lg><lg type="stanza">
+<l>In the old wars clutches of short swords and jabs into</l>
+<l rend="indent">faces with spears.</l>
+<l>In the new wars long range guns and smashed walls, guns</l>
+<l rend="indent">running a spit of metal and men falling in tens and</l>
+<l rend="indent">twenties.</l>
+<l>In the wars to come new silent deaths, new silent hurlers</l>
+<l rend="indent">not yet dreamed out in the heads of men.</l>
+</lg><lg type="stanza">
+<l>In the old wars kings quarreling and thousands of men</l>
+<l rend="indent">following.</l>
+<l>In the new wars kings quarreling and millions of men</l>
+<l rend="indent">following.</l>
+<l>In the wars to come kings kicked under the dust and</l>
+<l rend="indent">millions of men following great causes not yet</l>
+<l rend="indent">dreamed out in the heads of men.</l>
+</lg>
+</div2>
+<pb n="97"/>
+</div1>
+
+<div1 type="book" id="d88">
+<head>THE ROAD AND THE END</head>
+<pb n="98"/>
+
+<pb n="99"/>
+<div2 type="poem" id="d89">
+<head>THE ROAD AND THE END</head>
+<lg type="stanza">
+<l>I SHALL foot it</l>
+<l>Down the roadway in the dusk,</l>
+<l>Where shapes of hunger wander</l>
+<l>And the fugitives of pain go by.</l>
+<l>I shall foot it</l>
+<l>In the silence of the morning,</l>
+<l>See the night slur into dawn,</l>
+<l>Hear the slow great winds arise</l>
+<l>Where tall trees flank the way</l>
+<l>And shoulder toward the sky.</l>
+</lg><lg type="stanza">
+<l>The broken boulders by the road</l>
+<l>Shall not commemorate my ruin.</l>
+<l>Regret shall be the gravel under foot.</l>
+<l>I shall watch for</l>
+<l>Slim birds swift of wing</l>
+<l>That go where wind and ranks of thunder</l>
+<l>Drive the wild processionals of rain.</l>
+</lg><lg type="stanza">
+<l>The dust of the traveled road</l>
+<l>Shall touch my hands and face.</l>
+</lg>
+</div2>
+<pb n="100"/>
+
+<div2 type="poem" id="d90">
+<head>CHOICES</head>
+<lg type="stanza">
+<l>THEY offer you many things,</l>
+<l rend="indent">I a few.</l>
+<l>Moonlight on the play of fountains at night</l>
+<l>With water sparkling a drowsy monotone,</l>
+<l>Bare-shouldered, smiling women and talk</l>
+<l>And a cross-play of loves and adulteries</l>
+<l>And a fear of death and a remembering of regrets:</l>
+<l>All this they offer you.</l>
+<l>I come with:</l>
+<l rend="indent">salt and bread</l>
+<l rend="indent">a terrible job of work</l>
+<l rend="indent">and tireless war;</l>
+<l>Come and have now:</l>
+<l rend="indent">hunger.</l>
+<l rend="indent">danger</l>
+<l rend="indent">and hate.</l>
+</lg>
+</div2>
+<pb n="101"/>
+
+<div2 type="poem" id="d91">
+<head>GRAVES</head>
+<lg type="stanza">
+<l>I DREAMED one man stood against a thousand,</l>
+<l>One man damned as a wrongheaded fool.</l>
+<l>One year and another he walked the streets,</l>
+<l>And a thousand shrugs and hoots</l>
+<l>Met him in the shoulders and mouths he passed.</l>
+</lg><lg type="stanza">
+<l rend="indent">He died alone.</l>
+<l>And only the undertaker came to his funeral.</l>
+</lg><lg type="stanza">
+<l>Flowers grow over his grave anod in the wind,</l>
+<l>And over the graves of the thousand, too,</l>
+<l>The flowers grow anod in the wind.</l>
+</lg><lg type="stanza">
+<l rend="indent">Flowers and the wind,</l>
+<l>Flowers anod over the graves of the dead,</l>
+<l>Petals of red, leaves of yellow, streaks of white,</l>
+<l>Masses of purple sagging. . .</l>
+<l>I love you and your great way of forgetting.</l>
+</lg>
+</div2>
+<pb n="102"/>
+
+<div2 type="poem" id="d92">
+<head> AZTEC MASK</head>
+<lg type="stanza">
+<l>I WANTED a man's face looking into the jaws and throat</l>
+<l rend="indent">of life</l>
+<l>With something proud on his face, so proud no smash</l>
+<l rend="indent">of the jaws,</l>
+<l>No gulp of the throat leaves the face in the end</l>
+<l>With anything else than the old proud look:</l>
+<l rend="indent">Even to the finish, dumped in the dust,</l>
+<l rend="indent">Lost among the used-up cinders,</l>
+<l rend="indent">This face, men would say, is a flash,</l>
+<l rend="indent">Is laid on bones taken from the ribs of the earth,</l>
+<l rend="indent">Ready for the hammers of changing, changing years,</l>
+<l rend="indent">Ready for the sleeping, sleeping years of silence.</l>
+<l rend="indent">Ready for the dust and fire and wind.</l>
+<l>I wanted this face and I saw it today in an Aztec mask.</l>
+<l>A cry out of storm and dark, a red yell and a purple prayer,</l>
+<l>A beaten shape of ashes</l>
+<l rend="indent">     waiting the sunrise or night,</l>
+<l rend="indent">     something or nothing,</l>
+<l rend="indent">     proud-mouthed,</l>
+<l rend="indent">     proud-eyed gambler.</l>
+</lg>
+</div2>
+<pb n="103"/>
+
+<div2 type="poem" id="d93">
+<head> MOMUS</head>
+<lg type="stanza">
+<l>MOMUS is the name men give your face,</l>
+<l>The brag of its tone, like a long low steamboat whistle</l>
+<l>Finding a way mid mist on a shoreland,</l>
+<l>Where gray rocks let the salt water shatter spray</l>
+<l rend="indent">Against horizons purple, silent.</l>
+</lg><lg type="stanza">
+<l rend="indent">Yes, Momus,</l>
+<l>Men have flung your face in bronze</l>
+<l>To gaze in gargoyle downward on a street-whirl of folk.</l>
+<l>They were artists did this, shaped your sad mouth,</l>
+<l>Gave you a tall forehead slanted with calm, broad wisdom;</l>
+<l>All your lips to the corners and your cheeks to the high bones</l>
+<l>Thrown over and through with a smile that forever</l>
+<l rend="indent">wishes and wishes, purple, silent, fled from all the</l>
+<l rend="indent">iron things of life, evaded like a sought bandit, gone</l>
+<l rend="indent">into dreams, by God.</l>
+</lg><lg type="stanza">
+<l>I wonder, Momus,</l>
+<l>Whether shadows of the dead sit somewhere and look</l>
+<l rend="indent">with deep laughter</l>
+<l>On men who play in terrible earnest the old, known,</l>
+<l rend="indent">solemn repetitions of history.</l>
+</lg>
+<pb n="104"/>
+
+<lg type="stanza">
+<l>A droning monotone soft as sea laughter hovers from</l>
+<l rend="indent">your kindliness of bronze,</l>
+<l>You give me the human ease of a mountain peak, purple,</l>
+<l rend="indent">silent;</l>
+<l>Granite shoulders heaving above the earth curves,</l>
+<l>Careless eye-witness of the spawning tides of men and</l>
+<l rend="indent">women</l>
+<l>Swarming always in a drift of millions to the dust of toil,</l>
+<l rend="indent">the salt of tears,</l>
+<l>And blood drops of undiminishing war.</l>
+</lg>
+</div2>
+<pb n="105"/>
+
+<div2 type="poem" id="d94">
+<head>THE ANSWER</head>
+<lg type="stanza">
+<l>You have spoken the answer.</l>
+<l>A child searches far sometimes</l>
+<l>Into the red dust</l>
+<l rend="indent">          On a dark rose leaf</l>
+<l>And so you have gone far</l>
+<l rend="indent">          For the answer is:</l>
+</lg>
+<lg type="stanza">
+<l> Silence.</l>
+<l rend="indent">In the republic</l>
+<l>Of the winking stars and spent cataclysms</l>
+<l>Sure we are it is off there the answer</l>
+<l rend="indent">is hidden and folded over,</l>
+<l>Sleeping in the sun, careless whether</l>
+<l rend="indent">it is Sunday or any other day of</l>
+<l rend="indent">the week,</l>
+</lg><lg type="stanza">
+<l>Knowing silence will bring all one way</l>
+<l rend="indent">or another.</l>
+</lg><lg type="stanza">
+<l>Have we not seen</l>
+<l>Purple of the pansy</l>
+<l rend="indent">     out of the mulch</l>
+<l rend="indent">     and mold</l>
+<l rend="indent">     crawl</l>
+<l rend="indent">     into a dusk</l>
+<pb n="106"/>
+<l rend="indent">     of velvet?</l>
+<l rend="indent">     blur of yellow?</l>
+<l>Almost we thought from nowwhere but it was</l>
+<l rend="indent">the silence,</l>
+<l rend="indent">     the future,</l>
+<l rend="indent">     working.</l>
+</lg>
+</div2>
+<pb n="107"/>
+
+<div2 type="poem" id="d95">
+<head>TO A DEAD MAN</head>
+<lg type="stanza">
+<l>OVER the dead line we have called to you</l>
+<l>To come across with a word to us,</l>
+<l>Some beaten whisper of what happens</l>
+<l>Where you are over the dead line</l>
+<l>Deaf to our calls and voiceless.</l>
+</lg><lg type="stanza">
+<l>The flickering shadows have not answered</l>
+<l>Nor your lips sent a signal</l>
+<l>Whether love talks and roses grow</l>
+<l>And the sun breaks at morning</l>
+<l>Splattering the sea with crimson.</l>
+</lg>
+</div2>
+
+<pb n="108"/>
+
+<div2 type="poem" id="d96">
+<head>UNDER</head>
+<lg type="stanza">
+<l>I</l>
+<l>I AM the undertow</l>
+<l>Washing tides of power</l>
+<l>Battering the pillars</l>
+<l>Under your things of high law.</l>
+</lg>
+
+<lg type="stanza">
+<l>II</l>
+<l>I am a sleepless</l>
+<l>Slowfaring eater,</l>
+<l>Maker of rust and rot</l>
+<l>In your bastioned fastenings,</l>
+<l>Caissons deep.</l>
+</lg>
+
+<lg type="stanza">
+<l>  III</l>
+<l>I am the Law</l>
+<l>Older than you</l>
+<l>And your builders proud.</l>
+</lg>
+
+<lg type="stanza">
+<l>I am deaf</l>
+<l>In all days</l>
+<l>Whether you</l>
+<l>Say "Yes" or "No".</l>
+</lg>
+
+<lg type="stanza">
+<l>I am the crumbler:</l>
+<l rend="indent">To-morrow.</l>
+</lg>
+</div2>
+
+<pb n="109"/>
+
+<div2 type="poem" id="d97">
+<head>A SPHINX</head>
+<lg type="stanza">
+<l>CLOSE-MOUTHED you sat five thousand years and never</l>
+<l rend="indent">let out a whisper.</l>
+<l>Processions came by, marchers, asking questions you</l>
+<l rend="indent">answered with grey eyes never blinking, shut lips</l>
+<l rend="indent">never talking.</l>
+<l>Not one croak of anything you know has come from your</l>
+<l rend="indent">cat crouch of ages.</l>
+<l>I am one of those who know all you know and I keep my</l>
+<l rend="indent">questions: I know the answers you hold.</l>
+</lg>
+</div2>
+<pb n="110"/>
+
+<div2 type="poem" id="d98">
+<head>  WHO AM I?</head>
+<lg type="stanza">
+<l>MY head knocks against the stars.</l>
+<l>My feet are on the hilltops.</l>
+<l>My finger-tips are in the valleys and shores of</l>
+<l rend="indent">universal life.</l>
+<l>Down in the sounding foam of primal things I</l>
+<l rend="indent">reach my hands and play with pebbles of</l>
+<l rend="indent">destiny.</l>
+<l>I have been to hell and back many times.</l>
+<l>I know all about heaven, for I have talked with God.</l>
+<l>I dabble in the blood and guts of the terrible.</l>
+<l>I know the passionate seizure of beauty</l>
+<l>And the marvelous rebellion of man at all signs</l>
+<l rend="indent">reading "Keep Off."</l>
+</lg><lg type="stanza">
+<l>My name is Truth and I am the most elusive captive</l>
+<l rend="indent">in the universe.</l>
+</lg>
+</div2>
+<pb n="111"/>
+
+<div2 type="poem" id="d99">
+<head>OUR PRAYER OF THANKS</head>
+<lg type="stanza">
+<l>FOR the gladness here where the sun is shining at</l>
+<l rend="indent">evening on the weeds at the river,</l>
+<l rend="indent">Our prayer of thanks.</l>
+</lg><lg type="stanza">
+<l>For the laughter of children who tumble barefooted and</l>
+<l rend="indent">bareheaded in the summer grass,</l>
+<l rend="indent">Our prayer of thanks.</l>
+</lg><lg type="stanza">
+<l>For the sunset and the stars, the women and the white</l>
+<l rend="indent">arms that hold us,</l>
+<l rend="indent">Our prayer of thanks.</l>
+</lg><lg type="stanza">
+<l rend="indent">God,</l>
+<l>If you are deaf and blind, if this is all lost to you,</l>
+<l>God, if the dead in their coffins amid the silver handles</l>
+<l rend="indent">on the edge of town, or the reckless dead of war</l>
+<l rend="indent">days thrown unknown in pits, if these dead are</l>
+<l rend="indent">forever deaf and blind and lost,</l>
+<l rend="indent">Our prayer of thanks.</l>
+</lg><lg type="stanza">
+<l rend="indent">God,</l>
+<l>The game is all your way, the secrets and the signals and</l>
+<l rend="indent">the system; and so for the break of the game and</l>
+<l rend="indent">the first play and the last.</l>
+<l rend="indent">Our prayer of thanks.</l>
+</lg><pb n="112"/>
+</div2>
+</div1>
+
+
+<div1 type="book" id="d100"><pb n="113"/>
+<head>FOGS AND FIRES</head>
+
+<pb n="114"/>
+
+<pb n="115"/>
+<div2 type="poem" id="d101">
+<head> AT A WINDOW</head>
+<lg type="stanza">
+<l>GIVE me hunger,</l>
+<l>O you gods that sit and give</l>
+<l>The world its orders.</l>
+<l>Give me hunger, pain and want,</l>
+<l>Shut me out with shame and failure</l>
+<l>From your doors of gold and fame,</l>
+<l>Give me your shabbiest, weariest hunger!</l>
+</lg><lg type="stanza">
+<l>But leave me a little love,</l>
+<l>A voice to speak to me in the day end,</l>
+<l>A hand to touch me in the dark room</l>
+<l>Breaking the long loneliness.</l>
+<l>In the dusk of day-shapes</l>
+<l>Blurring the sunset,</l>
+<l>One little wandering, western star</l>
+<l>Thrust out from the changing shores of shadow.</l>
+<l>Let me go to the window,</l>
+<l>Watch there the day-shapes of dusk</l>
+<l>And wait and know the coming</l>
+<l>Of a little love.</l>
+</lg>
+</div2>
+<pb n="116"/>
+
+<div2 type="poem" id="d102">
+<head>UNDER THE HARVEST MOON</head>
+<lg type="stanza">
+<l rend="indent">UNDER the harvest moon,</l>
+<l>When the soft silver</l>
+<l>Drips shimmering</l>
+<l>Over the garden nights,</l>
+<l>Death, the gray mocker,</l>
+<l>Comes and whispers to you</l>
+<l>As a beautiful friend</l>
+<l>Who remembers.</l>
+</lg><lg type="stanza">
+<l rend="indent">Under the summer roses</l>
+<l>When the flagrant crimson</l>
+<l>Lurks in the dusk</l>
+<l>Of the wild red leaves,</l>
+<l>Love, with little hands,</l>
+<l>Comes and touches you</l>
+<l>With a thousand memories,</l>
+<l>And asks you</l>
+<l>Beautiful, unanswerable questions.</l>
+</lg>
+</div2>
+<pb n="117"/>
+
+<div2 type="poem" id="d103">
+<head>THE GREAT HUNT</head>
+<lg type="stanza">
+<l>I CANNOT tell you now;</l>
+<l rend="indent">When the wind's drive and whirl</l>
+<l rend="indent">Blow me along no longer,</l>
+<l rend="indent">And the wind's a whisper at last&mdash;</l>
+<l>Maybe I'll tell you then&mdash;</l>
+<l rend="indent">               some other time.</l>
+</lg><lg type="stanza">
+<l rend="indent">When the rose's flash to the sunset</l>
+<l rend="indent">Reels to the rack and the twist,</l>
+<l rend="indent">And the rose is a red bygone,</l>
+<l rend="indent">When the face I love is going</l>
+<l rend="indent">And the gate to the end shall clang,</l>
+<l rend="indent">And it's no use to beckon or say, "So long"&mdash;</l>
+<l>Maybe I'll tell you then&mdash;</l>
+<l rend="indent">               some other time.</l>
+</lg><lg type="stanza">
+<l>I never knew any more beautiful than you:</l>
+<l rend="indent">I have hunted you under my thoughts,</l>
+<l rend="indent">I have broken down under the wind</l>
+<l rend="indent">And into the roses looking for you.</l>
+<l rend="indent">I shall never find any</l>
+<l rend="indent">               greater than you.</l>
+</lg>
+</div2>
+<pb n="118"/>
+
+<div2 type="poem" id="d104">
+<head>MONOTONE</head>
+<lg type="stanza">
+<l rend="indent">THE monotone of the rain is beautiful,</l>
+<l>And the sudden rise and slow relapse</l>
+<l>Of the long multitudinous rain.</l>
+</lg><lg type="stanza">
+<l rend="indent">The sun on the hills is beautiful,</l>
+<l>Or a captured sunset sea-flung,</l>
+<l>Bannered with fire and gold.</l>
+</lg><lg type="stanza">
+<l rend="indent">A face I know is beautiful&mdash;</l>
+<l>With fire and gold of sky and sea,</l>
+<l>And the peace of long warm rain.</l>
+</lg>
+</div2>
+<pb n="119"/>
+
+<div2 type="poem" id="d105">
+<head>JOY</head>
+<lg type="stanza">
+<l rend="indent">LET a joy keep you.</l>
+<l>Reach out your hands</l>
+<l>And take it when it runs by,</l>
+<l>As the Apache dancer</l>
+<l>Clutches his woman.</l>
+<l>I have seen them</l>
+<l>Live long and laugh loud,</l>
+<l>Sent on singing, singing,</l>
+<l>Smashed to the heart</l>
+<l>Under the ribs</l>
+<l>With a terrible love.</l>
+<l>Joy always,</l>
+<l>Joy everywhere&mdash;</l>
+<l>Let joy kill you!</l>
+<l>Keep away from the little deaths.</l>
+</lg>
+</div2>
+<pb n="120"/>
+
+<div2 type="poem" id="d106">
+<head>SHIRT</head>
+<lg type="stanza">
+<l>I REMEMBER once I ran after you and tagged the fluttering</l>
+<l rend="indent">shirt of you in the wind.</l>
+<l>Once many days ago I drank a glassful of something and</l>
+<l rend="indent">the picture of you shivered and slid on top of the</l>
+<l rend="indent">stuff.</l>
+<l>And again it was nobody else but you I heard in the</l>
+<l rend="indent">singing voice of a careless humming woman.</l>
+<l>One night when I sat with chums telling stories at a</l>
+<l rend="indent">bonfire flickering red embers, in a language its own</l>
+<l rend="indent">talking to a spread of white stars:</l>
+<l rend="indent">     It was you that slunk laughing</l>
+<l rend="indent">     in the clumsy staggering shadows.</l>
+<l>Broken answers of remembrance let me know you are</l>
+<l rend="indent">alive with a peering phantom face behind a doorway</l>
+<l rend="indent">somewhere in the city's push and fury</l>
+<l>Or under a pack of moss and leaves waiting in silence</l>
+<l rend="indent">under a twist of oaken arms ready as ever to run</l>
+<l rend="indent">away again when I tag the fluttering shirt of you.</l>
+</lg>
+</div2>
+<pb n="121"/>
+
+<div2 type="poem" id="d107">
+<head>AZTEC</head>
+<lg type="stanza">
+<l>YOU came from the Aztecs</l>
+<l>With a copper on your fore-arms</l>
+<l>Tawnier than a sunset</l>
+<l>Saying good-by to an even river.</l>
+</lg><lg type="stanza">
+<l>And I said, you remember,</l>
+<l>Those fore-arms of yours</l>
+<l>Were finer than bronzes</l>
+<l>And you were glad.</l>
+</lg><lg type="stanza">
+<l rend="indent">          It was tears</l>
+<l>And a path west</l>
+<l rend="indent">and a home-going</l>
+<l rend="indent">when I asked</l>
+<l>Why there were scars of worn gold</l>
+<l>Where a man's ring was fixed once</l>
+<l>On your third finger.</l>
+<l rend="indent">          And I call you</l>
+<l>To come back</l>
+<l rend="indent">before the days are longer.</l>
+</lg>
+</div2>
+<pb n="122"/>
+
+<div2 type="poem" id="d108">
+<head>  TWO</head>
+<lg type="stanza">
+<l>MEMORY of you is . . . a blue spear of flower.</l>
+<l>I cannot remember the name of it.</l>
+<l>Alongside a bold dripping poppy is fire and silk.</l>
+<l rend="indent">               And they cover you.</l>
+</lg>
+</div2>
+<pb n="123"/>
+
+<div2 type="poem" id="d109">
+<head>BACK YARD</head>
+<lg type="stanza">
+<l>SHINE on, O moon of summer.</l>
+<l>Shine to the leaves of grass, catalpa and oak,</l>
+<l>All silver under your rain to-night.</l>
+</lg><lg type="stanza">
+<l>An Italian boy is sending songs to you to-night from an</l>
+<l rend="indent">accordion.</l>
+<l>A Polish boy is out with his best girl; they marry next</l>
+<l rend="indent">month; to-night they are throwing you kisses.</l>
+</lg><lg type="stanza">
+<l>An old man next door is dreaming over a sheen that sits</l>
+<l rend="indent">in a cherry tree in his back yard.</l>
+</lg><lg type="stanza">
+<l>The clocks say I must go&mdash;I stay here sitting on the</l>
+<l rend="indent">back porch drinking white thoughts you rain down.</l>
+</lg><lg type="stanza">
+<l rend="indent">Shine on, O moon,</l>
+<l>Shake out more and more silver changes.</l>
+</lg>
+</div2>
+<pb n="124"/>
+
+<div2 type="poem" id="d110">
+<head>ON THE BREAKWATER</head>
+<lg type="stanza">
+<l>ON the breakwater in the summer dark, a man and a</l>
+<l rend="indent">girl are sitting,</l>
+<l>She across his knee and they are looking face into face</l>
+<l>Talking to each other without words, singing rythms in</l>
+<l rend="indent">silence to each other.</l>
+</lg><lg type="stanza">
+<l>A funnel of white ranges the blue dusk from an out-</l>
+<l rend="indent">going boat,</l>
+<l>Playing its searchlight, puzzled, abrupt, over a streak of</l>
+<l rend="indent">green,</l>
+<l>And two on the breakwater keep their silence, she on his</l>
+<l rend="indent">knee.</l>
+</lg>
+</div2>
+<pb n="125"/>
+
+<div2 type="poem" id="d111">
+<head>MASK</head>
+<lg type="stanza">
+<l>FLING your red scarf faster and faster, dancer.</l>
+<l>It is summer and the sun loves a million green leaves,</l>
+<l rend="indent">masses of green.</l>
+<l>Your red scarf flashes across them calling and a-calling.</l>
+<l>The silk and flare of it is a great soprano leading a</l>
+<l rend="indent">chorus</l>
+<l>Carried along in a rouse of voices reaching for the heart</l>
+<l rend="indent">of the world.</l>
+<l>Your toes are singing to meet the song of your arms:</l>
+</lg><lg type="stanza">
+<l>Let the red scarf go swifter.</l>
+<l>Summer and the sun command you.</l>
+</lg>
+</div2>
+<pb n="126"/>
+
+<div2 type="poem" id="d112">
+<head>  PEARL FOG</head>
+<lg type="stanza">
+<l rend="indent">OPEN the door now.</l>
+<l>Go roll up the collar of your coat</l>
+<l>To walk in the changing scarf of mist.</l>
+</lg><lg type="stanza">
+<l>Tell your sins here to the pearl fog</l>
+<l>And know for once a deepening night</l>
+<l>Strange as the half-meanings</l>
+<l>Alurk in a wise woman's mousey eyes.</l>
+</lg><lg type="stanza">
+<l rend="indent">Yes, tell your sins</l>
+<l>And know how careless a pearl fog is</l>
+<l>Of the laws you have broken.</l>
+</lg>
+</div2>
+<pb n="127"/>
+
+<div2 type="poem" id="d113">
+<head>I SANG</head>
+<lg type="stanza">
+<l>I SANG to you and the moon</l>
+<l>But only the moon remembers.</l>
+<l rend="indent">I sang</l>
+<l>O reckless free-hearted</l>
+<l rend="indent">free-throated rythms,</l>
+<l>Even the moon remembers them</l>
+<l rend="indent">And is kind to me.</l>
+</lg>
+</div2>
+<pb n="128"/>
+
+<div2 type="poem" id="d114">
+<head>FOLLIES</head>
+<lg type="stanza">
+<l rend="indent">SHAKEN,</l>
+<l>The blossoms of lilac,</l>
+<l rend="indent">And shattered,</l>
+<l>The atoms of purple.</l>
+<l>Green dip the leaves,</l>
+<l rend="indent">Darker the bark,</l>
+<l>Longer the shadows.</l>
+</lg><lg type="stanza">
+<l>Sheer lines of poplar</l>
+<l>Shimmer with masses of silver</l>
+<l>And down in a garden old with years</l>
+<l>And broken walls of ruin and story,</l>
+<l>Roses rise with red rain-memories.</l>
+<l rend="indent">May!</l>
+<l rend="indent">In the open world</l>
+<l>The sun comes and finds your face,</l>
+<l rend="indent">Remembering all.</l>
+</lg>
+</div2>
+<pb n="129"/>
+
+<div2 type="poem" id="d115">
+<head> JUNE</head>
+<lg type="stanza">
+<l>PAULA is digging and shaping the loam of a salvia,</l>
+<l rend="indent">Scarlet Chinese talker of summer.</l>
+<l>Two petals of crabapple blossom blow fallen in Paula's</l>
+<l rend="indent">hair,</l>
+<l rend="indent">And fluff of white from a cottonwood.</l>
+</lg>
+</div2>
+<pb n="130"/>
+
+<div2 type="poem" id="d116">
+<head>NOCTURNE IN A DESERTED<lb/>
+BRICKYARD</head>
+<lg type="stanza">
+<l rend="indent">STUFF of the moon</l>
+<l>Runs on the lapping sand</l>
+<l>Out to the longest shadows.</l>
+<l>Under the curving willows,</l>
+<l>And round the creep of the wave line,</l>
+<l>Fluxions of yellow and dusk on the waters</l>
+<l>Make a wide dreaming pansy of an old pond in the night.</l>
+</lg>
+</div2>
+<pb n="131"/>
+
+<div2 type="poem" id="d117">
+<head>HYDRANGEAS</head>
+<lg type="stanza">
+<l>DRAGOONS, I tell you the white hydrangeas</l>
+<l rend="indent">turn rust and go soon.</l>
+<l>Already mid September a line of brown runs</l>
+<l rend="indent">over them.</l>
+<l>One sunset after another tracks the faces, the</l>
+<l rend="indent">petals.</l>
+<l>Waiting, they look over the fence for what</l>
+<l rend="indent">way they go.</l>
+</lg>
+</div2>
+<pb n="132"/>
+
+<div2 type="poem" id="d118">
+<head>THEME IN YELLOW</head>
+<lg type="stanza">
+<l>I SPOT the hills</l>
+<l>With yellow balls in autumn.</l>
+<l>I light the prairie cornfields</l>
+<l>Orange and tawny gold clusters</l>
+<l>And I am called pumpkins.</l>
+<l>On the last of October</l>
+<l>When dusk is fallen</l>
+<l>Children join hands</l>
+<l>And circle round me</l>
+<l>Singing ghost songs</l>
+<l>And love to the harvest moon;</l>
+<l>I am a jack-o'-lantern</l>
+<l>With terrible teeth</l>
+<l>And the children know</l>
+<l>I am fooling.</l>
+</lg>
+</div2>
+
+
+<div2 type="poem" id="d119"><pb n="133"/>
+<head> BETWEEN TWO HILLS</head>
+<lg type="stanza">
+<l>BETWEEN two hills</l>
+<l>The old town stands.</l>
+<l>The houses loom</l>
+<l>And the roofs and trees</l>
+<l>And the dusk and the dark,</l>
+<l>The damp and the dew</l>
+<l rend="indent">Are there.</l>
+</lg><lg type="stanza">
+<l>The prayers are said</l>
+<l>And the people rest</l>
+<l>For sleep is there</l>
+<l>And the touch of dreams</l>
+<l rend="indent">Is over all.</l>
+</lg>
+</div2>
+<pb n="134"/>
+
+<div2 type="poem" id="d120">
+<head>LAST ANSWERS</head>
+<lg type="stanza">
+<l>I WROTE a poem on the mist</l>
+<l>And a woman asked me what I meant by it.</l>
+<l>I had thought till then only of the beauty of the mist,</l>
+<l rend="indent">how pearl and gray of it mix and reel,</l>
+<l>And change the drab shanties with lighted lamps at evening</l>
+<l rend="indent">into points of mystery quivering with color.</l>
+</lg><lg type="stanza">
+<l rend="indent">I answered:</l>
+<l>The whole world was mist once long ago and some day</l>
+<l rend="indent">it will all go back to mist,</l>
+<l>Our skulls and lungs are more water than bone and</l>
+<l rend="indent">tissue</l>
+<l>And all poets love dust and mist because all the last</l>
+<l rend="indent">answers</l>
+<l>Go running back to dust and mist.</l>
+</lg>
+</div2>
+<pb n="135"/>
+
+<div2 type="poem" id="d121">
+<head>WINDOW</head>
+<lg type="stanza">
+<l>NIGHT from a railroad car window</l>
+<l>Is a great, dark, soft thing</l>
+<l>Broken across with slashes of light.</l>
+</lg>
+</div2>
+<pb n="136"/>
+
+<div2 type="poem" id="d122">
+<head>YOUNG SEA</head>
+<lg type="stanza">
+<l>THE sea is never still.</l>
+<l>It pounds on the shore</l>
+<l>Restless as a young heart,</l>
+<l>Hunting.</l>
+</lg><lg type="stanza">
+<l>The sea speaks</l>
+<l>And only the stormy hearts</l>
+<l>Know what it says:</l>
+<l>It is the face</l>
+<l rend="indent">of a rough mother speaking.</l>
+</lg><lg type="stanza">
+<l>The sea is young.</l>
+<l>One storm cleans all the hoar</l>
+<l>And loosens the age of it.</l>
+<l>I hear it laughing, reckless.</l>
+</lg><lg type="stanza">
+<l>They love the sea,</l>
+<l>Men who ride on it</l>
+<l>And know they will die</l>
+<l>Under the salt of it</l>
+</lg><lg type="stanza">
+<l>Let only the young come,</l>
+<l rend="indent">Says the sea.</l>
+</lg>
+<pb n="137"/>
+<lg type="stanza">
+<l>Let them kiss my face</l>
+<l rend="indent">And hear me.</l>
+<l>I am the last word</l>
+<l rend="indent">And I tell</l>
+<l>Where storms and stars come from.</l>
+</lg>
+</div2>
+<pb n="138"/>
+
+<div2 type="poem" id="d123">
+<head>BONES</head>
+<lg type="stanza">
+<l>SLING me under the sea.</l>
+<l>Pack me down in the salt and wet.</l>
+<l>No farmer's plow shall touch my bones.</l>
+<l>No Hamlet hold my jaws and speak</l>
+<l>How jokes are gone and empty is my mouth.</l>
+<l>Long, green-eyed scavengers shall pick my eyes,</l>
+<l>Purple fish play hide-and-seek,</l>
+<l>And I shall be song of thunder, crash of sea,</l>
+<l>Down on the floors of salt and wet.</l>
+<l rend="indent">Sling me . . . under the sea.</l>
+</lg>
+</div2>
+<pb n="139"/>
+
+<div2 type="poem" id="d124">
+<head>PALS</head>
+<lg type="stanza">
+<l>TAKE a hold now</l>
+<l>On the silver handles here,</l>
+<l>Six silver handles,</l>
+<l>One for each of his old pals.</l>
+</lg><lg type="stanza">
+<l>Take hold</l>
+<l>And lift him down the stairs,</l>
+<l>Put him on the rollers</l>
+<l>Over the floor of the hearse.</l>
+</lg><lg type="stanza">
+<l>Take him on the last haul,</l>
+<l>To the cold straight house,</l>
+<l>The level even house,</l>
+<l>To the last house of all.</l>
+</lg><lg type="stanza">
+<l rend="indent">The dead say nothing</l>
+<l rend="indent">And the dead know much</l>
+<l rend="indent">And the dead hold under their tongues</l>
+<l rend="indent">A locked-up story.</l>
+</lg>
+</div2>
+<pb n="140"/>
+
+<div2 type="poem" id="d125">
+<head>CHILD</head>
+<lg type="stanza">
+<l>THE young child, Christ, is straight and wise</l>
+<l>And asks questions of the old men, questions</l>
+<l>Found under running water for all children</l>
+<l>And found under shadows thrown on still waters</l>
+<l>By tall trees looking downward, old and gnarled.</l>
+<l>Found to the eyes of children alone, untold,</l>
+<l>Singing a low song in the loneliness.</l>
+<l>And the young child, Christ, goes on asking</l>
+<l>And the old men answer nothing and only know love</l>
+<l>For the young child. Christ, straight and wise.</l>
+</lg>
+</div2>
+<pb n="141"/>
+
+<div2 type="poem" id="d126">
+<head>POPPIES</head>
+<lg type="stanza">
+<l>SHE loves blood-red poppies for a garden to walk in.</l>
+<l>In a loose white gown she walks</l>
+<l rend="indent">and a new child tugs at cords in her body.</l>
+<l>Her head to the west at evening when the dew is creeping,</l>
+<l>A shudder of gladness runs in her bones and torsal fiber:</l>
+<l>She loves blood-red poppies for a garden to walk in.</l>
+</lg>
+</div2>
+<pb n="142"/>
+
+<div2 type="poem" id="d127">
+<head>CHILD MOON</head>
+<lg type="stanza">
+<l>THE child's wonder</l>
+<l>At the old moon</l>
+<l>Comes back nightly.</l>
+<l>She points her finger</l>
+<l>To the far silent yellow thing</l>
+<l>Shining through the branches</l>
+<l>Filtering on the leaves a golden sand,</l>
+<l>Crying with her little tongue, "See the moon!"</l>
+<l>And in her bed fading to sleep</l>
+<l>With babblings of the moon on her little mouth.</l>
+</lg>
+</div2>
+<pb n="143"/>
+
+<div2 type="poem" id="d128">
+<head>MARGARET</head>
+<lg type="stanza">
+<l>MANY birds and the beating of wings</l>
+<l>Make a flinging reckless hum</l>
+<l>In the early morning at the rocks</l>
+<l>Above the blue pool</l>
+<l>Where the gray shadows swim lazy.</l>
+</lg><lg type="stanza">
+<l>In your blue eyes, O reckless child,</l>
+<l>I saw today many little wild wishes,</l>
+<l>Eager as the great morning.</l>
+</lg><pb n="144"/>
+</div2>
+</div1>
+
+
+<div1 type="book" id="d129"><pb n="145"/>
+<head>SHADOWS</head>
+<pb n="146"/>
+
+<div2 type="poem" id="d130">
+<head>POEMS DONE ON A LATE NIGHT CAR</head>
+<lg type="stanza">
+<l> I. CHICKENS</l>
+<l>I AM The Great White Way of the city:</l>
+<l>When you ask what is my desire, I answer:</l>
+<l>"Girls fresh as country wild flowers,</l>
+<l>With young faces tired of the cows and barns,</l>
+<l>Eager in their eyes as the dawn to find my mysteries,</l>
+<l>Slender supple girls with shapely legs,</l>
+<l>Lure in the arch of their little shoulders</l>
+<l>And wisdom from the prairies to cry only softly at</l>
+<l rend="indent">the ashes of my mysteries."</l>
+</lg>
+<pb n="148"/>
+<lg type="stanza">
+<l> II. USED UP</l>
+<l><hi rend="italic">Lines based on certain regrets that come with rumination
+<lb/>upon the painted faces of women on
+<lb/>North Clark Street, Chicago</hi></l>
+</lg>
+<lg type="stanza">
+<l rend="indent">     Roses,</l>
+<l rend="indent">   Red roses,</l>
+<l rend="indent">     Crushed</l>
+<l>In the rain and wind</l>
+<l>Like mouths of women</l>
+<l>Beaten by the fists of</l>
+<l>Men using them.</l>
+<l rend="indent">O little roses</l>
+<l rend="indent">And broken leaves</l>
+<l rend="indent">And petal wisps:</l>
+<l>You that so flung your crimson</l>
+<l rend="indent">To the sun</l>
+<l>Only yesterday.</l>
+</lg>
+
+<pb n="149"/>
+<lg type="stanza">
+<l>  III. HOME</l>
+<l>Here is a thing my heart wishes the world had more of:</l>
+<l>I heard it in the air of one night when I listened</l>
+<l>To a mother singing softly to a child restless and angry</l>
+<l rend="indent">in the darkness.</l>
+</lg>
+</div2>
+<pb n="150"/>
+
+<div2 type="poem" id="d131">
+<head> IT IS MUCH</head>
+<lg type="stanza">
+<l>WOMEN of night life amid the lights</l>
+<l>Where the line of your full, round throats</l>
+<l>Matches in gleam the glint of your eyes</l>
+<l>And the ring of your heart-deep laughter:</l>
+<l rend="indent">It is much to be warm and sure of to-morrow.</l>
+</lg><lg type="stanza">
+<l>Women of night life along the shadows,</l>
+<l>Lean at your throats and skulking the walls,</l>
+<l>Gaunt as a bitch worn to the bone,</l>
+<l>Under the paint of your smiling faces:</l>
+<l rend="indent">It is much to be warm and sure of to-morrow.</l>
+</lg>
+</div2>
+<pb n="151"/>
+
+<div2 type="poem" id="d132">
+<head> TRAFFICKER</head>
+<lg type="stanza">
+<l>AMONG the shadows where two streets cross,</l>
+<l>A woman lurks in the dark and waits</l>
+<l>To move on when a policeman heaves in view.</l>
+<l>Smiling a broken smile from a face</l>
+<l>Painted over haggard bones and desperate eyes,</l>
+<l>All night she offers passers-by what they will</l>
+<l>Of her beauty wasted, body faded, claims gone,</l>
+<l>And no takers.</l>
+</lg>
+</div2>
+<pb n="152"/>
+
+<div2 type="poem" id="d133">
+<head>HARRISON STREET COURT</head>
+<lg type="stanza">
+<l>I HEARD a woman's lips</l>
+<l>Speaking to a companion</l>
+<l>Say these words:</l>
+</lg><lg type="stanza">
+<l>"A woman what hustles</l>
+<l>Never keeps nothin'</l>
+<l>For all her hustlin'.</l>
+<l>Somebody always gets</l>
+<l>What she goes on the street for.</l>
+<l>If it ain't a pimp</l>
+<l>It's a bull what gets it.</l>
+<l>I been hustlin' now</l>
+<l>Till I ain't much good any more.</l>
+<l>I got nothin' to show for it.</l>
+<l>Some man got it all,</l>
+<l>Every night's hustlin' I ever did."</l>
+</lg>
+</div2>
+<pb n="153"/>
+
+<div2 type="poem" id="d134">
+<head> SOILED DOVE</head>
+<lg type="stanza">
+<l>LET us be honest; the lady was not a harlot until she</l>
+<l rend="indent">married a corporation lawyer who picked her from</l>
+<l rend="indent">a Ziegfeld chorus.</l>
+<l>Before then she never took anybody's money and paid</l>
+<l rend="indent">for her silk stockings out of what she earned singing</l>
+<l rend="indent">and dancing.</l>
+<l>She loved one man and he loved six women and the</l>
+<l rend="indent">game was changing her looks, calling for more and</l>
+<l rend="indent">more massage money and high coin for the beauty</l>
+<l rend="indent">doctors.</l>
+<l>Now she drives a long, underslung motor car all by herself,</l>
+<l rend="indent">reads in the day's papers what her husband is</l>
+<l rend="indent">doing to the inter-state commerce commission, requires</l>
+<l rend="indent">a larger corsage from year to year, and wonders</l>
+<l rend="indent">sometimes how one man is coming along with</l>
+<l rend="indent">six women.</l>
+</lg>
+</div2>
+<pb n="154"/>
+
+<div2 type="poem" id="d135">
+<head>JUNGHEIMER'S</head>
+<lg type="stanza">
+<l>IN western fields of corn and northern timber lands,</l>
+<l rend="indent">They talk about me, a saloon with a soul,</l>
+<l rend="indent">The soft red lights, the long curving bar,</l>
+<l rend="indent">The leather seats and dim corners,</l>
+<l rend="indent">Tall brass spittoons, a nigger cutting ham,</l>
+<l>And the painting of a woman half-dressed thrown reckless</l>
+<l rend="indent">across a bed after a night of booze and riots.</l>
+</lg>
+</div2>
+<pb n="155"/>
+
+<div2 type="poem" id="d136">
+<head> GONE</head>
+<lg type="stanza">
+<l>EVERYBODY loved Chick Lorimer in our town.</l>
+<l rend="indent">          Far off</l>
+<l rend="indent">     Everybody loved her.</l>
+<l>So we all love a wild girl keeping a hold</l>
+<l>On a dream she wants.</l>
+<l>Nobody knows now where Chick Lorimer went.</l>
+<l>Nobody knows why she packed her trunk. . a few</l>
+<l rend="indent">old things</l>
+<l>And is gone,</l>
+<l rend="indent">          Gone with her little chin</l>
+<l rend="indent">          Thrust ahead of her</l>
+<l rend="indent">          And her soft hair blowing careless</l>
+<l rend="indent">          From under a wide hat,</l>
+<l>Dancer, singer, a laughing passionate lover.</l>
+</lg><lg type="stanza">
+<l>Were there ten men or a hundred hunting Chick?</l>
+<l>Were there five men or fifty with aching hearts?</l>
+<l rend="indent">     Everybody loved Chick Lorimer.</l>
+<l rend="indent">          Nobody knows where she's gone.</l>
+</lg><pb n="156"/>
+</div2>
+</div1>
+
+
+<div1 type="book" id="d137"><pb n="157"/>
+<head> OTHER DAYS<lb/>
+(1900-1910)</head>
+<pb n="158"/>
+
+<pb n="159"/>
+<div2 type="poem" id="d138">
+<head>DREAMS IN THE DUSK</head>
+<lg type="stanza">
+<l>DREAMS in the dusk,</l>
+<l>Only dreams closing the day</l>
+<l>And with the day's close going back</l>
+<l>To the gray things, the dark things,</l>
+<l>The far, deep things of dreamland.</l>
+</lg><lg type="stanza">
+<l>Dreams, only dreams in the dusk,</l>
+<l>Only the old remembered pictures</l>
+<l>Of lost days when the day's loss</l>
+<l>Wrote in tears the heart's loss.</l>
+</lg><lg type="stanza">
+<l>Tears and loss and broken dreams</l>
+<l>May find your heart at dusk.</l>
+</lg>
+</div2>
+<pb n="160"/>
+
+<div2 type="poem" id="d139">
+<head> DOCKS</head>
+<lg type="stanza">
+<l>STROLLING along</l>
+<l>By the teeming docks,</l>
+<l>I watch the ships put out.</l>
+<l>Black ships that heave and lunge</l>
+<l>And move like mastodons</l>
+<l>Arising from lethargic sleep.</l>
+</lg><lg type="stanza">
+<l>The fathomed harbor</l>
+<l>Calls them not nor dares</l>
+<l>Them to a strain of action,</l>
+<l>But outward, on and outward,</l>
+<l>Sounding low-reverberating calls,</l>
+<l>Shaggy in the half-lit distance,</l>
+<l>They pass the pointed headland,</l>
+<l>View the wide, far-lifting wilderness</l>
+<l>And leap with cumulative speed</l>
+<l>To test the challenge of the sea.</l>
+</lg><lg type="stanza">
+<l>Plunging,</l>
+<l>Doggedly onward plunging,</l>
+<l>Into salt and mist and foam and sun.</l>
+</lg>
+</div2>
+<pb n="161"/>
+
+<div2 type="poem" id="d140">
+<head>ALL DAY LONG</head>
+<lg type="stanza">
+<l>ALL day long in fog and wind,</l>
+<l>The waves have flung their beating crests</l>
+<l>Against the palisades of adamant.</l>
+<l rend="indent">My boy, he went to sea, long and long ago,</l>
+<l rend="indent">Curls of brown were slipping underneath his cap,</l>
+<l rend="indent">He looked at me from blue and steely eyes;</l>
+<l rend="indent">Natty, straight and true, he stepped away,</l>
+<l rend="indent">My boy, he went to sea.</l>
+<l>All day long in fog and wind,</l>
+<l>The waves have flung their beating crests</l>
+<l>Against the palisades of adamant.</l>
+</lg>
+</div2>
+<pb n="162"/>
+
+<div2 type="poem" id="d141">
+<head>WAITING</head>
+<lg type="stanza">
+<l>TODAY I will let the old boat stand</l>
+<l>Where the sweep of the harbor tide comes in</l>
+<l>To the pulse of a far, deep-steady sway.</l>
+<l>And I will rest and dream and sit on the deck</l>
+<l rend="indent">Watching the world go by</l>
+<l>And take my pay for many hard days gone I remember.</l>
+</lg><lg type="stanza">
+<l>I will choose what clouds I like</l>
+<l>In the great white fleets that wander the blue</l>
+<l>As I lie on my back or loaf at the rail.</l>
+<l>And I will listen as the veering winds kiss me and fold me</l>
+<l>And put on my brow the touch of the world's great will.</l>
+</lg><lg type="stanza">
+<l>Daybreak will hear the heart of the boat beat,</l>
+<l rend="indent">Engine throb and piston play</l>
+<l>In the quiver and leap at call of life.</l>
+<l>To-morrow we move in the gaps and heights</l>
+<l>On changing floors of unlevel seas</l>
+<l>And no man shall stop us and no man follow</l>
+<l>For ours is the quest of an unknown shore</l>
+<l>And we are husky and lusty and shouting-gay.</l>
+</lg>
+</div2>
+<pb n="163"/>
+
+
+
+<div2 type="poem" id="d142">
+<head>FROM THE SHORE</head>
+<lg type="stanza">
+<l>A LONE gray bird,</l>
+<l>Dim-dipping, far-flying,</l>
+<l>Alone in the shadows and grandeurs and tumults</l>
+<l>Of night and the sea</l>
+<l>And the stars and storms.</l>
+</lg><lg type="stanza">
+<l>Out over the darkness it wavers and hovers,</l>
+<l>Out into the gloom it swings and batters,</l>
+<l>Out into the wind and the rain and the vast,</l>
+<l>Out into the pit of a great black world,</l>
+<l>Where fogs are at battle, sky-driven, sea-blown,</l>
+<l>Love of mist and rapture of flight,</l>
+<l>Glories of chance and hazards of death</l>
+<l>On its eager and palpitant wings.</l>
+</lg><lg type="stanza">
+<l>Out into the deep of the great dark world,</l>
+<l>Beyond the long borders where foam and drift</l>
+<l>Of the sundering waves are lost and gone</l>
+<l>On the tides that plunge and rear and crumble.</l>
+</lg>
+</div2>
+<pb n="164"/>
+
+
+<div2 type="poem" id="d143">
+<head>UPLANDS IN MAY</head>
+<lg type="stanza">
+<l>WONDER as of old things</l>
+<l>Fresh and fair come back</l>
+<l>Hangs over pasture and road.</l>
+<l>Lush in the lowland grasses rise</l>
+<l>And upland beckons to upland.</l>
+<l>The great strong hills are humble.</l>
+</lg>
+</div2>
+<pb n="165"/>
+
+<div2 type="poem" id="d144">
+<head> DREAM GIRL</head>
+<lg type="stanza">
+<l>YOU will come one day in a waver of love,</l>
+<l>Tender as dew, impetuous as rain,</l>
+<l>The tan of the sun will be on your skin,</l>
+<l>The purr of the breeze in your murmuring speech,</l>
+<l>You will pose with a hill-flower grace.</l>
+</lg><lg type="stanza">
+<l>You will come, with your slim, expressive arms,</l>
+<l>A poise of the head no sculptor has caught</l>
+<l>And nuances spoken with shoulder and neck,</l>
+<l>Your face in a pass-and-repass of moods</l>
+<l>As many as skies in delicate change</l>
+<l>Of cloud and blue and flimmering sun.</l>
+</lg><lg type="stanza">
+<l rend="indent">          Yet,</l>
+<l>You may not come, O girl of a dream,</l>
+<l>We may but pass as the world goes by</l>
+<l>And take from a look of eyes into eyes,</l>
+<l>A film of hope and a memoried day.</l>
+</lg>
+</div2>
+<pb n="166"/>
+
+<div2 type="poem" id="d145">
+<head>PLOWBOY</head>
+<lg type="stanza">
+<l>AFTER the last red sunset glimmer,</l>
+<l>Black on the line of a low hill rise,</l>
+<l>Formed into moving shadows, I saw</l>
+<l>A plowboy and two horses lined against the gray,</l>
+<l>Plowing in the dusk the last furrow.</l>
+<l>The turf had a gleam of brown,</l>
+<l>And smell of soil was in the air,</l>
+<l>And, cool and moist, a haze of April.</l>
+</lg><lg type="stanza">
+<l>I shall remember you long,</l>
+<l>Plowboy and horses against the sky in shadow.</l>
+<l>I shall remember you and the picture</l>
+<l>You made for me,</l>
+<l>Turning the turf in the dusk</l>
+<l>And haze of an April gloaming.</l>
+</lg>
+</div2>
+<pb n="167"/>
+
+<div2 type="poem" id="d146">
+<head>  BROADWAY</head>
+<lg type="stanza">
+<l>I SHALL never forget you, Broadway</l>
+<l>Your golden and calling lights.</l>
+</lg><lg type="stanza">
+<l>I'll remember you long,</l>
+<l>Tall-walled river of rush and play.</l>
+</lg><lg type="stanza">
+<l>Hearts that know you hate you</l>
+<l>And lips that have given you laughter</l>
+<l>Have gone to their ashes of life and its roses,</l>
+<l>Cursing the dreams that were lost</l>
+<l>In the dust of your harsh and trampled stones.</l>
+</lg>
+</div2>
+<pb n="168"/>
+
+<div2 type="poem" id="d147">
+<head>OLD WOMAN</head>
+<lg type="stanza">
+<l>THE owl-car clatters along, dogged by the echo</l>
+<l>From building and battered paving-stone.</l>
+<l>The headlight scoffs at the mist,</l>
+<l>And fixes its yellow rays in the cold slow rain;</l>
+<l>Against a pane I press my forehead</l>
+<l>And drowsily look on the walls and sidewalks.</l>
+</lg><lg type="stanza">
+<l>The headlight finds the way</l>
+<l>And life is gone from the wet and the welter&mdash;</l>
+<l>Only an old woman, bloated, disheveled and bleared.</l>
+<l>Far-wandered waif of other days,</l>
+<l>Huddles for sleep in a doorway,</l>
+<l>Homeless.</l>
+</lg>
+</div2>
+<pb n="169"/>
+
+<div2 type="poem" id="d148">
+<head>NOON HOUR</head>
+<lg type="stanza">
+<l>SHE sits in the dust at the walls</l>
+<l rend="indent">And makes cigars,</l>
+<l>Bending at the bench</l>
+<l>With fingers wage-anxious,</l>
+<l>Changing her sweat for the day's pay.</l>
+</lg><lg type="stanza">
+<l>Now the noon hour has come,</l>
+<l>And she leans with her bare arms</l>
+<l>On the window-sill over the river,</l>
+<l>Leans and feels at her throat</l>
+<l>Cool-moving things out of the free open ways:</l>
+</lg><lg type="stanza">
+<l>At her throat and eyes and nostrils</l>
+<l>The touch and the blowing cool</l>
+<l>Of great free ways beyond the walls.</l>
+</lg>
+</div2>
+<pb n="170"/>
+
+<div2 type="poem" id="d149">
+<head> 'BOES</head>
+<lg type="stanza">
+<l>I WAITED today for a freight train to pass.</l>
+<l>Cattle cars with steers butting their horns against the</l>
+<l rend="indent">bars, went by.</l>
+<l>And a half a dozen hoboes stood on bumpers between</l>
+<l rend="indent">cars.</l>
+<l>Well, the cattle are respectable, I thought.</l>
+<l>Every steer has its transportation paid for by the farmer</l>
+<l rend="indent">sending it to market,</l>
+<l>While the hoboes are law-breakers in riding a railroad</l>
+<l rend="indent">train without a ticket.</l>
+<l>It reminded me of ten days I spent in the Allegheny</l>
+<l rend="indent">County jail in Pittsburgh.</l>
+<l>I got ten days even though I was a veteran of the</l>
+<l rend="indent">Spanish-American war.</l>
+<l>Cooped in the same cell with me was an old man, a</l>
+<l rend="indent">bricklayer and a booze-fighter.</l>
+<l>But it just happened he, too, was a veteran soldier, and</l>
+<l rend="indent">he had fought to preserve the Union and free the</l>
+<l rend="indent">niggers.</l>
+<l>We were three in all, the other being a Lithuanian who</l>
+<l rend="indent">got drunk on pay day at the steel works and got to</l>
+<l rend="indent">fighting a policeman;</l>
+<l>All the clothes he had was a shirt, pants and shoes&mdash;</l>
+<l rend="indent">somebody got his hat and coat and what money he</l>
+<l rend="indent">had left over when he got drunk.</l>
+</lg>
+</div2>
+<pb n="171"/>
+
+
+<div2 type="poem" id="d150">
+<head>UNDER A TELEPHONE POLE</head>
+<lg type="stanza">
+<l>I AM a copper wire slung in the air,</l>
+<l>Slim against the sun I make not even a clear line of shadow.</l>
+<l>Night and day I keep singing&mdash;humming and thrumming:</l>
+<l>It is love and war and money; it is the fighting and the</l>
+<l rend="indent">tears, the work and want,</l>
+<l>Death and laughter of men and women passing through</l>
+<l rend="indent">me, carrier of your speech,</l>
+<l>In the rain and the wet dripping, in the dawn and the</l>
+<l rend="indent">shine drying,</l>
+<l rend="indent">     A copper wire.</l>
+</lg>
+</div2>
+<pb n="172"/>
+
+<div2 type="poem" id="d151">
+<head>I AM THE PEOPLE, THE MOB</head>
+<lg type="stanza">
+<l>I AM the people&mdash;the mob&mdash;the crowd&mdash;the mass.</l>
+<l>Do you know that all the great work of the world is</l>
+<l rend="indent">done through me?</l>
+<l>I am the workingman, the inventor, the maker of the</l>
+<l rend="indent">world's food and clothes.</l>
+<l>I am the audience that witnesses history. The Napoleons</l>
+<l rend="indent">come from me and the Lincolns. They die. And</l>
+<l rend="indent">then I send forth more Napoleons and Lincolns.</l>
+<l>I am the seed ground. I am a prairie that will stand</l>
+<l rend="indent">for much plowing. Terrible storms pass over me.</l>
+<l rend="indent">I forget. The best of me is sucked out and wasted.</l>
+<l rend="indent">I forget. Everything but Death comes to me and</l>
+<l rend="indent">makes me work and give up what I have. And I</l>
+<l rend="indent">forget.</l>
+<l>Sometimes I growl, shake myself and spatter a few red</l>
+<l rend="indent">drops for history to remember. Then&mdash;I forget.</l>
+<l>When I, the People, learn to remember, when I, the</l>
+<l rend="indent">People, use the lessons of yesterday and no longer</l>
+<l rend="indent">forget who robbed me last year, who played me for</l>
+<l rend="indent">a fool&mdash;then there will be no speaker in all the world</l>
+<l rend="indent">say the name: "The People," with any fleck of a</l>
+<l rend="indent">sneer in his voice or any far-off smile of derision.</l>
+<l>The mob&mdash;the crowd&mdash;the mass&mdash;will arrive then.</l>
+</lg>
+</div2>
+<pb n="173"/>
+
+<div2 type="poem" id="d152">
+<head> GOVERNMENT</head>
+<lg type="stanza">
+<l>THE Government&mdash;I heard about the Government and</l>
+<l rend="indent">I went out to find it. I said I would look closely at</l>
+<l rend="indent">it when I saw it.</l>
+<l>Then I saw a policeman dragging a drunken man to</l>
+<l rend="indent">the callaboose. It was the Government in action.</l>
+<l>I saw a ward alderman slip into an office one morning</l>
+<l rend="indent">and talk with a judge. Later in the day the judge</l>
+<l rend="indent">dismissed a case against a pickpocket who was a</l>
+<l rend="indent">live ward worker for the alderman. Again I saw</l>
+<l rend="indent">this was the Government, doing things.</l>
+<l>I saw militiamen level their rifles at a crowd of</l>
+<l rend="indent">workingmen who were trying to get other workingmen</l>
+<l rend="indent">to stay away from a shop where there was a strike</l>
+<l rend="indent">on. Government in action.</l>
+</lg><lg type="stanza">
+<l>Everywhere I saw that Government is a thing made of</l>
+<l rend="indent">men, that Government has blood and bones, it is</l>
+<l rend="indent">many mouths whispering into many ears, sending</l>
+<l rend="indent">telegrams, aiming rifles, writing orders, saying</l>
+<l rend="indent">"yes" and "no."</l>
+</lg><lg type="stanza">
+<l>Government dies as the men who form it die and are laid</l>
+<l rend="indent">away in their graves and the new Government that</l>
+<l rend="indent">comes after is human, made of heartbeats of blood,</l>
+<pb n="174"/>
+<l rend="indent">ambitions, lusts, and money running through it all,</l>
+<l rend="indent">money paid and money taken, and money covered</l>
+<l rend="indent">up and spoken of with hushed voices.</l>
+<l>A Government is just as secret and mysterious and sensitive</l>
+<l rend="indent">as any human sinner carrying a load of germs,</l>
+<l rend="indent">traditions and corpuscles handed down from</l>
+<l rend="indent">fathers and mothers away back.</l>
+</lg>
+</div2>
+<pb n="175"/>
+
+<div2 type="poem" id="d153">
+<head>  LANGUAGES</head>
+<lg type="stanza">
+<l>THERE are no handles upon a language</l>
+<l>Whereby men take hold of it</l>
+<l>And mark it with signs for its remembrance.</l>
+<l>It is a river, this language,</l>
+<l>Once in a thousand years</l>
+<l>Breaking a new course</l>
+<l>Changing its way to the ocean.</l>
+<l>It is mountain effluvia</l>
+<l>Moving to valleys</l>
+<l>And from nation to nation</l>
+<l>Crossing borders and mixing.</l>
+<l>Languages die like rivers.</l>
+<l>Words wrapped round your tongue today</l>
+<l>And broken to shape of thought</l>
+<l>Between your teeth and lips speaking</l>
+<l>Now and today</l>
+<l>Shall be faded hieroglyphics</l>
+<l>Ten thousand years from now.</l>
+<l>Sing&mdash;and singing&mdash;remember</l>
+<l>Your song dies and changes</l>
+<l>And is not here to-morrow</l>
+<l>Any more than the wind</l>
+<l>Blowing ten thousand years ago.</l>
+</lg>
+</div2>
+<pb n="176"/>
+
+
+<div2 type="poem" id="d154">
+<head>LETTERS TO DEAD IMAGISTS</head>
+<lg type="stanza">
+<l><hi rend="small-caps">Emily Dickinson:</hi></l>
+<l>You gave us the bumble bee who has a soul,</l>
+<l>The everlasting traveler among the hollyhocks,</l>
+<l>And how God plays around a back yard garden.</l>
+</lg><lg type="stanza">
+<l rend="indent"><hi rend="small-caps">Stevie Crane:</hi></l>
+<l>War is kind and we never knew the kindness of war till</l>
+<l rend="indent">you came;</l>
+<l>Nor the black riders and clashes of spear and shield out</l>
+<l rend="indent">of the sea,</l>
+<l>Nor the mumblings and shots that rise from dreams on</l>
+<l rend="indent">call.</l>
+</lg>
+</div2>
+<pb n="177"/>
+
+<div2 type="poem" id="d155">
+<head> SHEEP</head>
+<lg type="stanza">
+<l rend="indent">Thousands of sheep, soft-footed, black-nosed sheep&mdash;</l>
+<l>one by one going up the hill and over the fence&mdash;one by</l>
+<l>one four-footed pattering up and over&mdash;one by one wiggling</l>
+<l>their stub tails as they take the short jump and go</l>
+<l>over&mdash;one by one silently unless for the multitudinous</l>
+<l>drumming of their hoofs as they move on and go over&mdash;</l>
+<l>thousands and thousands of them in the grey haze of</l>
+<l>evening just after sundown&mdash;one by one slanting in a</l>
+<l>long line to pass over the hill&mdash;</l>
+</lg><lg type="stanza">
+<l rend="indent">I am the slow, long-legged Sleepyman and I love you</l>
+<l>sheep in Persia, California, Argentine, Australia, or</l>
+<l>Spain&mdash;you are the thoughts that help me when I, the</l>
+<l>Sleepyman, lay my hands on the eyelids of the children</l>
+<l>of the world at eight o'clock every night&mdash;you thousands</l>
+<l>and thousands of sheep in a procession of dusk making</l>
+<l>an endless multitudinous drumming on the hills with</l>
+<l>your hoofs.</l>
+</lg>
+</div2>
+<pb n="178"/>
+
+
+<div2 type="poem" id="d156">
+<head> THE RED SON</head>
+<lg type="stanza">
+<l>I LOVE your faces I saw the many years</l>
+<l>I drank your milk and filled my mouth</l>
+<l>With your home talk, slept in your house</l>
+<l>And was one of you.</l>
+<l rend="indent">But a fire burns in my heart.</l>
+<l>Under the ribs where pulses thud</l>
+<l>And flitting between bones of skull</l>
+<l>Is the push, the endless mysterious command,</l>
+<l rend="indent">Saying:</l>
+<l>"I leave you behind&mdash;</l>
+<l>You for the little hills and the years all alike,</l>
+<l>You with your patient cows and old houses</l>
+<l>Protected from the rain,</l>
+<l>I am going away and I never come back to you;</l>
+<l>Crags and high rough places call me,</l>
+<l>Great places of death</l>
+<l>Where men go empty handed</l>
+<l>And pass over smiling</l>
+<l>To the star-drift on the horizon rim.</l>
+<l>My last whisper shall be alone, unknown;</l>
+<l>I shall go to the city and fight against it,</l>
+<l>And make it give me passwords</l>
+<l>Of luck and love, women worth dying for,</l>
+<l>And money.</l>
+<pb n="179"/>
+<l rend="indent">I go where you wist not of</l>
+<l rend="indent">Nor I nor any man nor woman.</l>
+<l rend="indent">I only know I go to storms</l>
+<l rend="indent">Grappling against things wet and naked."</l>
+<l>There is no pity of it and no blame.</l>
+<l>None of us is in the wrong.</l>
+<l>After all it is only this:</l>
+<l rend="indent">You for the little hills and I go away.</l>
+</lg>
+</div2>
+<pb n="180"/>
+
+<div2 type="poem" id="d157">
+<head>  THE MIST</head>
+<lg type="stanza">
+<l>I AM the mist, the impalpable mist,</l>
+<l>Back of the thing you seek.</l>
+<l>My arms are long,</l>
+<l>Long as the reach of time and space.</l>
+</lg><lg type="stanza">
+<l>Some toil and toil, believing,</l>
+<l>Looking now and again on my face,</l>
+<l>Catching a vital, olden glory.</l>
+</lg><lg type="stanza">
+<l>But no one passes me,</l>
+<l>I tangle and snare them all.</l>
+<l>I am the cause of the Sphinx,</l>
+<l>The voiceless, baffled, patient Sphinx.</l>
+</lg><lg type="stanza">
+<l>I was at the first of things,</l>
+<l>I will be at the last.</l>
+<l rend="indent">I am the primal mist</l>
+<l rend="indent">And no man passes me;</l>
+<l rend="indent">My long impalpable arms</l>
+<l rend="indent">Bar them all.</l>
+</lg>
+</div2>
+<pb n="181"/>
+
+<div2 type="poem" id="d158">
+<head>THE JUNK MAN</head>
+<lg type="stanza">
+<l>I AM glad God saw Death</l>
+<l>And gave Death a job taking care of all who are tired</l>
+<l rend="indent">of living:</l>
+</lg><lg type="stanza">
+<l>When all the wheels in a clock are worn and slow and</l>
+<l rend="indent">the connections loose</l>
+<l>And the clock goes on ticking and telling the wrong time</l>
+<l rend="indent">from hour to hour</l>
+<l>And people around the house joke about what a bum</l>
+<l rend="indent">clock it is,</l>
+<l>How glad the clock is when the big Junk Man drives</l>
+<l rend="indent">his wagon</l>
+<l>Up to the house and puts his arms around the clock and</l>
+<l rend="indent">says:</l>
+<l rend="indent">"You don't belong here,</l>
+<l rend="indent">You gotta come</l>
+<l rend="indent">Along with me,"</l>
+<l>How glad the clock is then, when it feels the arms of the</l>
+<l rend="indent">Junk Man close around it and carry it away.</l>
+</lg>
+</div2>
+<pb n="182"/>
+
+<div2 type="poem" id="d159">
+<head>SILVER NAILS</head>
+<lg type="stanza">
+<l rend="indent">A MAN was crucified. He came to the city a stranger,</l>
+<l>was accused, and nailed to a cross. He lingered hanging.</l>
+<l>Laughed at the crowd. "The nails are iron," he</l>
+<l>said, "You are cheap. In my country when we crucify</l>
+<l>we use silver nails. . ." So he went jeering. They</l>
+<l>did not understand him at first. Later they talked about</l>
+<l>him in changed voices in the saloons, bowling alleys, and</l>
+<l>churches. It came over them every man is crucified</l>
+<l>only once in his life and the law of humanity dictates</l>
+<l>silver nails be used for the job. A statue was erected</l>
+<l>to him in a public square. Not having gathered his</l>
+<l>name when he was among them, they wrote him as John</l>
+<l>Silvernail on the statue.</l>
+</lg>
+</div2>
+<pb n="183"/>
+
+<div2 type="poem" id="d160">
+<head> GYPSY</head>
+<lg type="stanza">
+<l>I ASKED a gypsy pal</l>
+<l>To imitate an old image</l>
+<l>And speak old wisdom.</l>
+<l>She drew in her chin,</l>
+<l>Made her neck and head</l>
+<l>The top piece of a Nile obelisk</l>
+<l rend="indent">and said:</l>
+<l>Snatch off the gag from thy mouth, child,</l>
+<l>And be free to keep silence.</l>
+<l>Tell no man anything for no man listens,</l>
+<l>Yet hold thy lips ready to speak.</l>
+</lg>
+<pb n="184"/>
+</div2>
+</div1>
+</body>
+</text>
+</TEI.2>

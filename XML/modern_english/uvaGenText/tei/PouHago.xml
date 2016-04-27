@@ -1,0 +1,697 @@
+<?xml version="1.0"?>
+
+<?dlps id="PouHago"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOnum SYSTEM "http://text.lib.virginia.edu/charent/iso-num.ent"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+  
+]>  
+<TEI.2 id="PouHago">  
+<teiHeader type="migrated" creator="Etext">
+<fileDesc>
+<titleStmt>
+<title type="main">Hagoromo</title>
+<title type="sort">hagoromo</title>
+<author>Pound, Ezra and Fenollosa, Ernest</author>
+<respStmt>
+<resp>Creation of machine-readable version:</resp>   
+<name>Winnie Chan</name>   
+<resp>Creation of digital images:</resp>   
+<name/>   
+<resp>Conversion to TEI.2-conformant markup:</resp>   
+<name>University of Virginia Library Electronic Text Center.</name>
+</respStmt>
+</titleStmt>   
+<extent>ca. <num type="kilobytes">19</num> kilobytes</extent>   
+<publicationStmt>
+<publisher>University of Virginia Library</publisher>
+<pubPlace>Charlottesville, Virginia</pubPlace>   
+<idno type="ETC">PouHago</idno>   
+<date value="1996">1996</date>
+<availability status="public">
+<p n="copyright">Copyright &copy; 1996 by the Rector and Visitors of the University of Virginia</p>
+<p n="access">Publicly accessible</p>
+</availability>
+<idno type="uva-pid">uva-lib:476330</idno>
+</publicationStmt>
+<seriesStmt>
+<title>University of Virginia Library, Text collection</title>
+<idno type="uva-set">UVA-LIB-Text</idno>
+</seriesStmt>   
+<seriesStmt>
+<p>Japanese Text Initiative</p>
+</seriesStmt>   
+<notesStmt>   
+<note>
+<p>Footnotes in the print source have been moved to the end of the  
+document. For descriptive purposes, words or phrases preceding footnote  
+markers in the print source have been added to footnotes at the end of  
+the electronic document.</p>
+</note>
+</notesStmt>   
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title type="main">Hagoromo</title>
+<title level="m">"Noh" or Accomplishment: a Study of the Classical Stage in Japan</title>
+<title type="sort">hagoromo</title>
+<author>Ezra Pound and Ernest Fenollosa</author>
+</titleStmt>   
+<extent>pp. 165-176</extent>   
+<publicationStmt>
+<publisher>MacMillan</publisher>   
+<pubPlace>London</pubPlace>   
+<date value="1916">1916</date>   
+<idno type="callNo">Print copy consulted: UVa Library call number PL 735 .F4 1916</idno>
+</publicationStmt>   
+</biblFull>
+</sourceDesc>
+</fileDesc>   
+<encodingDesc>
+<projectDesc>
+<p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+</projectDesc>   
+<editorialDecl>
+<p>All quotation marks retained as data.</p>   
+<p>All unambiguous end-of-line hyphens have been removed, and the trailing part of a word has been joined to the preceding line.</p>   
+<p>Keywords in the header are a local Electronic Text Center scheme to aid in establishing analytical groupings.</p>
+</editorialDecl>   
+</encodingDesc>   
+<profileDesc>
+<creation>
+<date value="1916">1916</date>
+</creation>   
+<langUsage>
+<language id="eng" usage="main">English</language>
+</langUsage>   
+<textClass>
+<keywords>
+<term>drama; poetry; prose</term>
+</keywords>   
+</textClass>
+</profileDesc>   
+<revisionDesc>
+<change>
+<date value="1997-09">September 1997</date>   
+<respStmt>
+<resp>corrector</resp>   
+<name>Catherine Tousignant, Electronic Text Center</name>
+</respStmt>   
+<item>Added milestones to correspond with TylHago</item>
+</change>   
+<change>
+<date value="1996-12">December 1996</date>   
+<respStmt>
+<resp>corrector</resp>   
+<name>Winnie Chan</name>
+</respStmt>   
+<item>Added TEI header and tags</item>
+</change>   
+<change>
+<date value="2005-07">July 2005</date>
+<respStmt>
+<resp>Corrector</resp>
+<name>John Ivor Carlson</name>
+</respStmt>
+<item>Converted SGML to XML and/or corrected tagging.</item>
+</change>
+<change>
+<date value="2007-09">September 2007</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Ethan Gruber, University of Virginia Library</name>
+</respStmt>
+<item>Converted XML markup from TEI Lite to uva-dl-tei (TEI P4 with local customizations).</item>
+</change>
+<change>
+<date value="2008-01">January 2008</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Greg Murray, University of Virginia Library</name>
+</respStmt>
+<item>Programmatically updated TEI header markup (but not header content) for minimal compliance with current QA requirements.</item>
+</change>
+</revisionDesc>
+</teiHeader>   
+  
+<text id="d1">
+<front id="d2">
+<div1 type="play" id="d3"><pb n="165"/>
+<head>Hagoromo<lb/>  
+A Play in one Act</head>  
+
+
+<list>
+<head>Characters</head>
+<item>Chief Fisherman, Hakuryo.</item>   
+<item>A Fisherman.</item>   
+<item>A Tennin.</item>   
+<item>Chorus.</item>
+</list>
+
+
+<p>The plot of the play Hagoromo, the Feather-mantle, is as follows: The  
+priest finds the Hagoromo, the magical feather-mantle of a Tennin, an 
+aerial spirit or celestial dancer, hanging upon a bough. She demands its 
+return. He argues with her, and finally promises to return it, if she 
+will teach him her dance or part of it. She accepts the offer. The 
+Chorus explains the dance as symbolical of the daily changes of the 
+moon. The words about "three, five, and fifteen" refer to the number of 
+nights in the moon's changes. In the finale, the Tennin is supposed to 
+disappear like a mountain slowly hidden in mist. The 
+
+<pb n="166"/>   
+play shows the relation of the early Noh to the God-dance.  
+</p>
+</div1>
+</front>
+
+<body id="d4">
+<div1 type="play" id="d5">
+<milestone unit="speech" n="Hago1"/>  
+<sp>
+<speaker>Hakuryo</speaker>  
+<lg type="poem">  
+<l>Windy road of the waves by Miwo,</l>  
+<l>Swift with ships, loud over steersmen's voices.</l>  
+<milestone unit="speech" n="Hago2"/>
+<l rend="indent">Hakuryo, taker of fish, head of his house, dwells upon  
+the barren pine-waste of Miwo.</l>  
+</lg>  
+</sp>  
+
+<milestone unit="speech" n="Hago3"/>  
+<sp>  
+<speaker>A Fisherman</speaker>  
+<p>  
+Upon a thousand heights had gathered the inexplicable cloud. Swept by the  
+rain, the moon is just come to light the high house.  
+</p>  
+  
+<p>  
+A clean and pleasant time surely. There comes the breath-colour of spring;  
+the waves rise in a line below the early mist; the moon is still delaying  
+above, though we've no skill to grasp it. Here is a beauty to set the mind  
+above itself.  
+</p>  
+</sp>  
+
+<milestone unit="speech" n="Hago4"/>  
+<sp>  
+<speaker>Chorus</speaker>  
+<lg type="poem">  
+<l>I shall not be out of memory</l>  
+<l>Of the mountain road by Kiyomi,</l>  
+<l>Nor of the parted grass by that bay,</l>  
+<l>Nor of the far seen pine-waste</l>  
+<l>Of Miwo of wheat stalks.</l>  
+</lg>  
+
+<milestone unit="speech" n="Hago5"/>  
+<p>  
+Let us go according to custom. Take hands against the wind here, for it  
+presses the clouds and the sea. Those men who were going to fish are about  
+to return without   
+    
+  
+ <pb n="167"/>   
+launching. Wait a little, is it not spring? will not the wind be quiet?  
+This wind is only the voice of the lasting pine-trees, ready for  
+stillness. See how the air is soundless, or would be, were it not for the  
+waves. There now, the fishermen are putting out with even the smallest  
+boats.  
+</p>  
+</sp>  
+
+<milestone unit="speech" n="Hago6"/>  
+<sp>  
+<speaker>Hakuryo</speaker>  
+<p>  
+I am come to shore at Miwo-no; I disembark in Matsubara; I see all that  
+they speak of on the shore. An empty sky with music, a rain of flowers,  
+strange fragrance on every side; all these are no common things, nor is  
+this cloak that hangs upon the pine-tree. As I approach to inhale its  
+colour, I am aware of mystery. Its colour-smell is mysterious. I see that  
+it is surely no common dress. I will take it now and return and make it a  
+treasure in my house, to show to the aged.  
+</p>  
+</sp>  
+
+<milestone unit="speech" n="Hago7"/>  
+<sp>  
+<speaker>Tennin</speaker>  
+<p>  
+That cloak belongs to some one on this side. What are you proposing to do  
+with it?  
+</p>  
+</sp>  
+  
+<milestone unit="speech" n="Hago8"/>
+<sp>  
+<speaker>Hakuryo</speaker>  
+<p>  
+This? this is a cloak picked up. I am taking it home, I tell you.  
+</p>  
+</sp>  
+    
+  
+ <pb n="168"/>   
+<milestone unit="speech" n="Hago9"/>
+<sp>  
+<speaker>Tennin</speaker>  
+<lg type="poem">  
+<l>That is a feather-mantle not fit for a mortal to bear,</l>  
+<l>Not easily wrested from the sky-traversing spirit,</l>  
+<l>Not easily taken or given.</l>  
+<l>I ask you to leave it where you found it.</l>  
+</lg>  
+</sp>  
+
+<milestone unit="speech" n="Hago10"/>  
+<sp>  
+<speaker>Hakuryo</speaker>  
+<p>  
+How! Is the owner of this cloak a Tennin? So be it. In this downcast age I  
+should keep it, a rare thing, and make it a treasure in the country, a  
+thing respected. Then I should not return it.  
+</p>  
+</sp>  
+
+<milestone unit="speech" n="Hago11"/>  
+<sp>  
+<speaker>Tennin</speaker>  
+<p>  
+Pitiful, there is no flying without the cloak of feathers, no return  
+through the ether. I pray you return me the mantle.  
+</p>  
+</sp>  
+
+<milestone unit="speech" n="Hago12"/>  
+<sp>  
+<speaker>Hakuryo</speaker>  
+<p>  
+Just from hearing these high words, I, Hakuryo, have gathered more and yet  
+more force. You think, because I was too stupid to recognize it, that I  
+shall be unable to take and keep hid the feather-robe, that I shall give  
+it back for merely being told to stand and withdraw?  
+</p>  
+</sp>
+    
+  
+ <pb n="169"/>   
+<milestone unit="speech" n="Hago13"/>
+<sp>  
+<speaker>Tennin</speaker>  
+<lg type="poem">  
+<l>A Tennin without her robe,</l>  
+<l>A bird without wings,</l>  
+<l>How shall she climb the air?</l>  
+</lg>  
+</sp>  
+
+<milestone unit="speech" n="Hago14"/>  
+<sp>  
+<speaker>Hakuryo</speaker>  
+<p>  
+And this world would be a sorry place for her to dwell in?  
+</p>  
+</sp>  
+
+<milestone unit="speech" n="Hago15"/>  
+<sp>  
+<speaker>Tennin</speaker>  
+<p>  
+I am caught, I struggle, how shall I . . .?  
+</p>  
+</sp>  
+  
+<milestone unit="speech" n="Hago16"/>
+<sp>  
+<speaker>Hakuryo</speaker>  
+<p>  
+No, Hakuryo is not one to give back the robe.  
+</p>  
+</sp>  
+
+<milestone unit="speech" n="Hago17"/>  
+<sp>  
+<speaker>Tennin</speaker>  
+<p>  
+Power does not attain . . .  
+</p>  
+</sp>  
+  
+<milestone unit="speech" n="Hago18"/>
+<sp>  
+<speaker>Hakuryo</speaker>  
+<p>  
+. . . to get back the robe . . .  
+</p>  
+</sp>  
+
+<milestone unit="speech" n="Hago19"/>  
+<sp>  
+<speaker>Chorus</speaker>  
+<p>  
+Her coronet,  
+<ref target="n169.1">[1]</ref>  
+ jewelled as with the dew of tears, even the flowers that decorated her  
+hair, drooping and fading, the whole chain of weaknesses  
+<ref target="n169.2">[2]</ref>  
+ of the dying Tennin can be seen actually before the eyes. Sorrow!  
+</p>  
+</sp>
+    
+  
+ <pb n="170"/>   
+<milestone unit="speech" n="Hago20"/>
+<sp>  
+<speaker>Tennin</speaker>  
+<p>  
+I look into the flat of heaven, peering; the cloud-road is all hidden and  
+uncertain; we are lost in the rising mist; I have lost the knowledge of  
+the road. Strange, a strange sorrow!  
+</p>  
+</sp>  
+
+<milestone unit="speech" n="Hago21"/>  
+<sp>  
+<speaker>Chorus</speaker>  
+<p>  
+Enviable colour of breath, wonder of clouds that fade along the sky that  
+was our accustomed dwelling; 
+<milestone unit="speech" n="Hago22"/> 
+hearing the sky-bird, accustomed, and well  
+accustomed, hearing the voices grow fewer, the wild geese fewer and fewer,  
+along the highways of air, how deep her longing to return! Plover and  
+seagull are on the waves in the offing. Do they go or do they return? She  
+reaches out for the very blowing of the spring wind against heaven.  
+</p>  
+</sp>  
+  
+<milestone unit="speech" n="Hago23"/>
+<sp>  
+<speaker>Hakuryo</speaker>  
+<stage>  
+to the Tennin  
+</stage>  
+<p>  
+What do you say? Now that I can see you in your sorrow, gracious, of  
+heaven, I bend and would return you your mantle.  
+</p>  
+</sp>  
+
+<milestone unit="speech" n="Hago24"/>  
+<sp>  
+<speaker>Tennin</speaker>  
+<p>  
+It grows clearer. No, give it this side.  
+</p>  
+</sp>  
+    
+  
+ <pb n="171"/>   
+<milestone unit="speech" n="Hago25"/>
+<sp>  
+<speaker>Hakuryo</speaker>  
+<p>  
+First tell me your nature, who are you, Tennin? Give payment with the  
+dance of the Tennin, and I will return you your mantle.  
+</p>  
+</sp>  
+
+<milestone unit="speech" n="Hago26"/>  
+<sp>  
+<speaker>Tennin</speaker>  
+<p>  
+Readily and gladly, and then I return into heaven. You shall have what  
+pleasure you will, and I will leave a dance here, a joy to be new among  
+men and to be memorial dancing. Learn then this dance that can turn the  
+palace of the moon. No, come here to learn it. For the sorrows of the  
+world I will leave this new dancing with you for sorrowful people. But  
+give me my mantle, I cannot do the dance rightly without it.  
+</p>  
+</sp>  
+  
+<milestone unit="speech" n="Hago27"/>
+<sp>  
+<speaker>Hakuryo</speaker>  
+<p>  
+Not yet, for if you should get it, how do I know you'll not be off to your  
+palace without even beginning your dance, not even a measure?  
+</p>  
+</sp>  
+
+<milestone unit="speech" n="Hago28"/>  
+<sp>  
+<speaker>Tennin</speaker>  
+<p>  
+Doubt is fitting for mortals; with us there is no deceit.  
+</p>  
+</sp>  
+
+<milestone unit="speech" n="Hago29"/>  
+<sp>  
+<speaker>Hakuryo</speaker>  
+<p>  
+I am again ashamed. I give you your mantle.  
+</p>  
+</sp>  
+    
+  
+ <pb n="172"/>   
+<milestone unit="speech" n="Hago30"/>
+<sp>  
+<speaker>Chorus</speaker>  
+<p>  
+The young sprite now is arrayed, she assumes the curious mantle; watch how  
+she moves in the dance of the rainbow-feathered garment.  
+</p>  
+</sp>  
+  
+<milestone unit="speech" n="Hago31"/>
+<sp>  
+<speaker>Hakuryo</speaker>  
+<p>  
+The heavenly feather-robe moves in accord with the wind.  
+</p>  
+</sp>  
+
+<milestone unit="speech" n="Hago32"/>  
+<sp>  
+<speaker>Tennin</speaker>  
+<p>  
+The sleeves of flowers are being wet with the rain.  
+</p>  
+</sp>  
+
+<milestone unit="speech" n="Hago34"/>  
+<sp>  
+<speaker>Hakuryo</speaker>  
+<p>  
+All three are doing one step.  
+</p>  
+</sp>  
+
+<milestone unit="speech" n="Hago35"/>  
+<sp>  
+<speaker>Chorus</speaker>  
+<lg type="poem">  
+<l>It seems that she dances.</l>  
+<l>Thus was the dance of pleasure,</l>  
+<l>Suruga dancing, brought to the sacred east.</l>  
+<milestone unit="speech" n="Hago36"/>
+<l>Thus was it when the lords of the everlasting</l>  
+<l>Trod the world,</l>  
+<l>They being of old our friends.</l>  
+<l>Upon ten sides their sky is without limit,</l>  
+<l>They have named it, on this account, the enduring.</l>  
+</lg>  
+</sp>  
+
+<milestone unit="speech" n="Hago37"/>  
+<sp>  
+<speaker>Tennin</speaker>  
+<p>  
+The jewelled axe takes up the eternal renewing, the palace of the moon-god  
+is being renewed with the jewelled axe, and this is always recurring.  
+</p>  
+</sp>  
+    
+  
+ <pb n="173"/>   
+<milestone unit="speech" n="Hago38"/>
+<sp>  
+<speaker>Chorus</speaker>  
+  
+<stage>  
+commenting on the dance  
+</stage>  
+  
+<lg type="poem">  
+<l>The white kiromo, the black kiromo,</l>  
+<l>Three, five into fifteen,</l>  
+<l>The figure that the Tennin is dividing.</l>  
+<l>There are heavenly nymphs, Amaotome,  
+<ref target="n173.1">[3]</ref></l>  
+<l>One for each night of the month,</l>  
+<l>And each with her deed assigned.</l>  
+</lg>  
+</sp>  
+
+<milestone unit="speech" n="Hago39"/>  
+<sp>  
+<speaker>Tennin</speaker>  
+<p>  
+I also am heaven-born and a maid, Amaotome. Of them there are many. 
+<milestone unit="speech" n="Hago40"/> 
+This  is the dividing of my body, that is fruit of the moon's tree, Katsura.  
+<ref target="n173.2">[4]</ref>  
+ This is one part of our dance that I leave to you here in your world.  
+</p>  
+</sp>  
+
+<milestone unit="speech" n="Hago41"/>  
+<sp>  
+<speaker>Chorus</speaker>  
+<p>  
+The spring mist is widespread abroad; so perhaps the wild olive's flower  
+will blossom in the infinitely unreachable moon. Her flowery head-ornament  
+is putting on colour; this truly is sign of the spring. Not sky is here,  
+but the beauty; and even here comes the heavenly, wonderful wind. O blow,  
+shut the accustomed path of the clouds. O, you  
+    
+  
+ <pb n="174"/>   
+in the form of a maid, grant us the favour of your delaying. The  
+pine-waste of Miwo puts on the colour of spring. The bay of Kiyomi lies  
+clear before the snow upon Fuji. Are not all these presages of the spring?  
+There are but few ripples beneath the piny wind. It is quiet along the  
+shore. There is naught but a fence of jewels between the earth and the  
+sky, and the gods within and without,  
+<ref target="n174.1">[5]</ref>  
+ beyond and beneath the stars, and the moon unclouded by her lord, and we  
+who are born of the sun. This alone intervenes, here where the moon is  
+unshadowed, here in Nippon, the sun's field.  
+</p>  
+</sp>  
+
+<milestone unit="speech" n="Hago42"/>  
+<sp>  
+<speaker>Tennin</speaker>  
+<p>  
+The plumage of heaven drops neither feather nor flame to its own  
+diminution.  
+</p>  
+</sp>  
+
+<milestone unit="speech" n="Hago43"/>  
+<sp>  
+<speaker>Chorus</speaker>  
+<p>  
+Nor is this rock of earth overmuch worn by the brushing of that  
+feather-mantle, the feathery skirt of the stars: rarely, how rarely. There  
+is a magic song from the east, the voices of many and many: and flute and  
+sho, filling the space beyond the cloud's edge, seven-stringed; dance  
+filling and filling. The red sun blots on the sky the line of the colour-drenched 
+    
+  
+ <pb n="175"/>   
+ mountains. The flowers rain in a gust; it is no racking storm  
+that comes over this green moor, which is afloat, as it would seem, in  
+these waves.  
+</p>  
+  
+<p>  
+Wonderful is the sleeve of the white cloud, whirling such snow here.  
+</p>  
+</sp>  
+  
+<milestone unit="speech" n="Hago44"/>
+<sp>  
+<speaker>Tennin</speaker>  
+<p>  
+Plain of life, field of the sun, true foundation, great power!  
+</p>  
+</sp>  
+  
+<milestone unit="speech" n="Hago45"/>
+<sp>  
+<speaker>Chorus</speaker>  
+<p>  
+Hence and for ever this dancing shall be called "a revel in the East."  
+Many are the robes thou hast, now of the sky's colour itself, and now a  
+green garment.  
+</p>  
+</sp>  
+
+<milestone unit="speech" n="Hago46"/>
+<milestone unit="speech" n="Hago47"/>
+<milestone unit="speech" n="Hago48"/>  
+<sp>  
+<speaker>Semi-Chorus</speaker>  
+<p>  
+And now the robe of mist, presaging spring, a colour-smell as this  
+wonderful maiden's skirt   &mdash;   left, right, left! The rustling of flowers,  
+the putting on of the feathery sleeve; they bend in air with the dancing.  
+</p>  
+</sp>  
+
+<milestone unit="speech" n="Hago49"/>  
+<sp>  
+<speaker>Semi-Chorus</speaker>  
+<p>  
+Many are the joys in the east. She who is the colour-person of the moon  
+takes her middle-night in the sky. She marks her three fives with this  
+dancing, as a shadow of all fulfilments.  
+    
+  
+ <pb n="176"/>   
+The circled vows are at full. Give the seven jewels of rain and all of the  
+treasure, you who go from us. After a little time, only a little time, can  
+the mantle be upon the wind that was spread over Matsubara or over   
+Ashitaka the mountain, though the clouds lie in its heaven like a  
+plain awash with sea. Fuji is gone; the great peak of Fuji is blotted out  
+little by little. It melts into the upper mist. In this way she (the  
+Tennin) is lost to sight.  
+</p>  
+</sp>  
+</div1>  
+</body>  
+  
+<back id="d6">  
+<div1 type="notes" id="d7">  
+<head>Footnotes</head>  
+<note id="n169.1"><seg type="note-symbol">[1:</seg> <p>Her coronet] Vide examples of state head-dress of  
+kingfisher feathers in the South Kensington Museum.</p></note>  
+  
+<note id="n169.2"><seg type="note-symbol">[2:</seg> <p>the chain of weaknesses] The chain of weaknesses, or  
+the five ills, diseases of the Tennin: namely, the Tamakadzura withers;  
+the Hagoromo is stained; sweat comes from the body; both eyes wink  
+frequently; she feels very weary  
+of her palace in heaven.</p></note>  
+  
+<note id="n173.1"><seg type="note-symbol">[3:</seg> <p>There are heavenly nymphs, Amaotome] Cf. 
+"Paradiso," xxiii. 25: 
+<q><lg type="poem"><l>"Quale nei plenilunii sereni</l>  
+<l>Trivia ride tra le ninfe eterne."</l></lg></q>  
+</p></note>  
+  
+<note id="n173.2"><seg type="note-symbol">[4:</seg> <p>Katsura] A tree something like the laurel.</p></note>  
+  
+<note id="n174.1"><seg type="note-symbol">[5:</seg> <p>the gods within and without] "Within and without,"  
+gei, gu, two parts of the temple.</p></note>  
+
+</div1>  
+</back>  
+  
+</text>  
+</TEI.2>  
+  
+ 

@@ -1,0 +1,6234 @@
+<?xml version="1.0"?>
+
+<?dlps id="MobMerr"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOnum SYSTEM "http://text.lib.virginia.edu/charent/iso-num.ent"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+
+]>
+<TEI.2 id="MobMerr">
+<teiHeader type="migrated" creator="Etext">
+<fileDesc>
+<titleStmt>
+<title type="main">The Merry Wives of Windsor</title>
+<title type="sort">merry wives of windsor</title>
+<author>Shakespeare, William, 1564-1616</author>
+<editor>Clark, William George, 1821-1878; William Aldis Wright, 1831-1914</editor>
+<respStmt>
+<resp>Creation of machine-readable version:</resp>
+<name>Grady Ward, Moby Lexical Project</name>
+<resp>Conversion to TEI.2-conformant markup:</resp>
+<name>University of Virginia Library Electronic Text Center.</name>
+</respStmt>
+</titleStmt>
+<extent>ca. <num type="kilobytes">185</num> kilobytes</extent>
+<publicationStmt>
+<publisher>University of Virginia Library</publisher>
+<pubPlace>Charlottesville, Virginia</pubPlace>
+<idno type="ETC">MobMerr</idno>
+<date value="1998">1998</date>
+<availability status="public">
+<p n="copyright">Copyright &copy; 1998 by the Rector and Visitors of the University of Virginia</p>
+<p n="access">Publicly accessible</p>
+</availability>
+<idno type="uva-pid">uva-lib:476218</idno>
+</publicationStmt>
+<seriesStmt>
+<title>University of Virginia Library, Text collection</title>
+<idno type="uva-set">UVA-LIB-Text</idno>
+</seriesStmt>
+<notesStmt>
+<note>
+<p>We have been unable to verify conclusively the exact source of this
+electronic text, but we believe it to be "The Globe Edition" of the Works of
+William Shakespeare edited by William George Clark and William Aldis Wright.
+Error checking was done against the 1866 edition noted in the "Source
+Description" field.  These texts are public domain.</p>
+</note>
+</notesStmt>
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title type="main">The Merry Wives of Windsor</title>
+<title type="sort">merry wives of windsor</title>
+<author>Shakespeare, William, 1564-1616</author>
+<editor>Clark, William George, 1821-1878; William Aldis Wright, 1831-1914</editor>
+</titleStmt>
+<editionStmt>
+<p>The Globe Edition</p>
+</editionStmt>
+<extent>viii, 1075 p. 18 cm.</extent>
+<publicationStmt>
+<publisher>MacMillan and Co.</publisher>
+<pubPlace>Cambridge</pubPlace>
+<date value="1866">1866</date>
+<idno type="callNo">Print copy consulted: UVa Library, PR2753 .C6 1866</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+</projectDesc>
+<editorialDecl>
+<p>All unambiguous end-of-line hyphens have been removed, and the  trailing
+part of a word has been joined to the preceding line.</p>
+<p id="ETC">Some keywords in the header are a local Electronic Text Center
+scheme  to aid in establishing analytical groupings.</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date value="">
+<dateRange from="1597" to="1601">1597-1601</dateRange>
+</date>
+</creation>
+<langUsage>
+<language id="eng" usage="main">English</language>
+</langUsage>
+<textClass>
+<keywords>
+<term>fiction</term>
+<term>drama</term>
+<term>masculine</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change>
+<date value="1998-10">October 1998</date>
+<respStmt>
+<resp>corrector</resp>
+<name>Stephen Ramsay, Electronic Text Center</name>
+</respStmt>
+<item>Added TEI header and tags.</item>
+</change>
+<change>
+<date value="2005-07">July 2005</date>
+<respStmt>
+<resp>Corrector</resp>
+<name>John Ivor Carlson</name>
+</respStmt>
+<item>Converted to XML and/or checked tags.</item>
+</change>
+<change>
+<date value="2007-09">September 2007</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Ethan Gruber, University of Virginia Library</name>
+</respStmt>
+<item>Converted XML markup from TEI Lite to uva-dl-tei (TEI P4 with local customizations).</item>
+</change>
+<change>
+<date value="2008-01">January 2008</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Greg Murray, University of Virginia Library</name>
+</respStmt>
+<item>Programmatically updated TEI header markup (but not header content) for minimal compliance with current QA requirements.</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text id="d1">
+
+
+<front id="d2">
+
+<div1 type="play" id="d3"><head>Dramatis Personae</head>
+
+
+<list>
+<item>SIR JOHN FALSTAFF
+</item>
+<item>FENTON   a gentleman.
+</item>
+<item>SHALLOW   a country justice.
+</item>
+<item>SLENDER   cousin to Shallow.
+</item>
+<item>FORD, PAGE } two gentlemen dwelling at Windsor.</item>
+<item>WILLIAM PAGE   a boy, son to Page.
+</item>
+<item>SIR HUGH EVANS   a Welsh parson.
+</item>
+<item>DOCTOR CAIUS   a French physician.
+</item>
+<item>Host of the Garter Inn.</item>
+<item>BARDOLPH, PISTOL, NYM } sharpers attending on Falstaff.</item>
+<item>ROBIN   page to Falstaff.
+</item>
+<item>SIMPLE   servant to Slender.
+</item>
+<item>RUGBY   servant to Doctor Caius.
+</item>
+<item>MISTRESS FORD</item>
+<item>MISTRESS PAGE</item>
+<item>ANNE PAGE   her daughter.
+</item>
+<item>MISTRESS QUICKLY   servant to Doctor Caius.
+</item>
+<item>Servants to Page, Ford, &amp;c.</item>
+
+</list>
+
+<p><stage>Scene: Windsor, and the neighbourhood.</stage></p>
+
+</div1>
+
+</front>
+<body id="d4">
+
+<div1 type="act" n="1" id="d5">
+<head>Act 1</head>
+
+<div2 type="scene" n="1" id="d6">
+<head>Scene 1</head>
+
+<p><stage>Windsor. Before PAGE's house.</stage>
+
+</p><p><stage>Enter SHALLOW, SLENDER, and SIR HUGH EVANS</stage>
+
+
+</p><sp><speaker>SHALLOW</speaker>
+<p>Sir Hugh, persuade me not; I will make a Star-<lb/>
+chamber matter of it: if he were twenty Sir John<lb/>
+Falstaffs, he shall not abuse Robert Shallow, esquire.<lb/>
+
+
+</p></sp><sp><speaker>SLENDER</speaker>
+<p>In the county of Gloucester, justice of peace and<lb/>
+'Coram.'<lb/>
+
+
+</p></sp><sp><speaker>SHALLOW</speaker>
+<p>Ay, cousin Slender, and 'Custalourum.<lb/>
+
+</p></sp><sp><speaker>SLENDER</speaker>
+<p>Ay, and 'Rato-lorum' too; and a gentleman born,<lb/>
+master parson; who writes himself 'Armigero,' in any<lb/>
+bill, warrant, quittance, or obligation, 'Armigero.'<lb/>
+
+
+</p></sp><sp><speaker>SHALLOW</speaker>
+<p>Ay, that I do; and have done any time these three<lb/>
+hundred years.<lb/>
+
+
+</p></sp><sp><speaker>SLENDER</speaker>
+<p>All his successors gone before him hath done't; and<lb/>
+all his ancestors that come after him may: they may<lb/>
+give the dozen white luces in their coat.<lb/>
+
+
+</p></sp><sp><speaker>SHALLOW</speaker>
+<p>It is an old coat.<lb/>
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p>The dozen white louses do become an old coat well;<lb/>
+it agrees well, passant; it is a familiar beast to<lb/>
+man, and signifies love.<lb/>
+
+
+</p></sp><sp><speaker>SHALLOW</speaker>
+<p>The luce is the fresh fish; the salt fish is an old coat.<lb/>
+
+</p></sp><sp><speaker>SLENDER</speaker>
+<p>I may quarter, coz.<lb/>
+
+</p></sp><sp><speaker>SHALLOW</speaker>
+<p>You may, by marrying.<lb/>
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p>It is marring indeed, if he quarter it.<lb/>
+
+</p></sp><sp><speaker>SHALLOW</speaker>
+<p>Not a whit.<lb/>
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p>Yes, py'r lady; if he has a quarter of your coat,<lb/>
+there is but three skirts for yourself, in my<lb/>
+simple conjectures: but that is all one. If Sir<lb/>
+John Falstaff have committed disparagements unto<lb/>
+you, I am of the church, and will be glad to do my<lb/>
+benevolence to make atonements and compremises<lb/>
+between you.<lb/>
+
+
+</p></sp><sp><speaker>SHALLOW</speaker>
+<p>The council shall bear it; it is a riot.<lb/>
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p>It is not meet the council hear a riot; there is no<lb/>
+fear of Got in a riot: the council, look you, shall<lb/>
+desire to hear the fear of Got, and not to hear a<lb/>
+riot; take your vizaments in that.<lb/>
+
+
+</p></sp><sp><speaker>SHALLOW</speaker>
+<p>Ha! o' my life, if I were young again, the sword<lb/>
+should end it.<lb/>
+
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p>It is petter that friends is the sword, and end it:<lb/>
+and there is also another device in my prain, which<lb/>
+peradventure prings goot discretions with it: there<lb/>
+is Anne Page, which is daughter to Master Thomas<lb/>
+Page, which is pretty virginity.<lb/>
+
+
+</p></sp><sp><speaker>SLENDER</speaker>
+<p>Mistress Anne Page? She has brown hair, and speaks<lb/>
+small like a woman.<lb/>
+
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p>It is that fery person for all the orld, as just as<lb/>
+you will desire; and seven hundred pounds of moneys,<lb/>
+and gold and silver, is her grandsire upon his<lb/>
+death's-bed&mdash;Got deliver to a joyful resurrections!<lb/>
+&mdash;give, when she is able to overtake seventeen years<lb/>
+old: it were a goot motion if we leave our pribbles<lb/>
+and prabbles, and desire a marriage between Master<lb/>
+Abraham and Mistress Anne Page.<lb/>
+
+
+</p></sp><sp><speaker>SLENDER</speaker>
+<p>Did her grandsire leave her seven hundred pound?<lb/>
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p>Ay, and her father is make her a petter penny.<lb/>
+
+</p></sp><sp><speaker>SLENDER</speaker>
+<p>I know the young gentlewoman; she has good gifts.<lb/>
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p>Seven hundred pounds and possibilities is goot gifts.<lb/>
+
+</p></sp><sp><speaker>SHALLOW</speaker>
+<p>Well, let us see honest Master Page. Is Falstaff there?<lb/>
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p>Shall I tell you a lie? I do despise a liar as I do<lb/>
+despise one that is false, or as I despise one that<lb/>
+is not true. The knight, Sir John, is there; and, I<lb/>
+beseech you, be ruled by your well-willers. I will<lb/>
+peat the door for Master Page.<lb/>
+
+
+</p><p><stage>Knocks</stage></p>
+
+
+<p>
+What, hoa! Got pless your house here!<lb/>
+
+
+</p></sp><sp><speaker>PAGE</speaker>
+<p><stage>[Within]</stage></p><p>  Who's there?<lb/>
+
+</p><p><stage>Enter PAGE</stage>
+
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p>Here is Got's plessing, and your friend, and Justice<lb/>
+Shallow; and here young Master Slender, that<lb/>
+peradventures shall tell you another tale, if<lb/>
+matters grow to your likings.<lb/>
+
+
+</p></sp><sp><speaker>PAGE</speaker>
+<p>I am glad to see your worships well.<lb/>
+I thank you for my venison, Master Shallow.<lb/>
+
+
+</p></sp><sp><speaker>SHALLOW</speaker>
+<p>Master Page, I am glad to see you: much good do it<lb/>
+your good heart! I wished your venison better; it<lb/>
+was ill killed. How doth good Mistress Page?&mdash;and I<lb/>
+thank you always with my heart, la! with my heart.<lb/>
+
+
+</p></sp><sp><speaker>PAGE</speaker>
+<p>Sir, I thank you.<lb/>
+
+</p></sp><sp><speaker>SHALLOW</speaker>
+<p>Sir, I thank you; by yea and no, I do.<lb/>
+
+</p></sp><sp><speaker>PAGE</speaker>
+<p>I am glad to see you, good Master Slender.<lb/>
+
+</p></sp><sp><speaker>SLENDER</speaker>
+<p>How does your fallow greyhound, sir? I heard say he<lb/>
+was outrun on Cotsall.<lb/>
+
+
+</p></sp><sp><speaker>PAGE</speaker>
+<p>It could not be judged, sir.<lb/>
+
+</p></sp><sp><speaker>SLENDER</speaker>
+<p>You'll not confess, you'll not confess.<lb/>
+
+</p></sp><sp><speaker>SHALLOW</speaker>
+<p>That he will not. 'Tis your fault, 'tis your fault;<lb/>
+'tis a good dog.<lb/>
+
+
+</p></sp><sp><speaker>PAGE</speaker>
+<p>A cur, sir.<lb/>
+
+</p></sp><sp><speaker>SHALLOW</speaker>
+<p>Sir, he's a good dog, and a fair dog: can there be<lb/>
+more said? he is good and fair. Is Sir John<lb/>
+Falstaff here?<lb/>
+
+
+</p></sp><sp><speaker>PAGE</speaker>
+<p>Sir, he is within; and I would I could do a good<lb/>
+office between you.<lb/>
+
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p>It is spoke as a Christians ought to speak.<lb/>
+
+</p></sp><sp><speaker>SHALLOW</speaker>
+<p>He hath wronged me, Master Page.<lb/>
+
+</p></sp><sp><speaker>PAGE</speaker>
+<p>Sir, he doth in some sort confess it.<lb/>
+
+</p></sp><sp><speaker>SHALLOW</speaker>
+<p>If it be confessed, it is not redress'd: is not that<lb/>
+so, Master Page? He hath wronged me; indeed he<lb/>
+hath, at a word, he hath, believe me: Robert<lb/>
+Shallow, esquire, saith, he is wronged.<lb/>
+
+
+</p></sp><sp><speaker>PAGE</speaker>
+<p>Here comes Sir John.<lb/>
+
+</p><p><stage>Enter FALSTAFF, BARDOLPH, NYM, and PISTOL</stage>
+
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>Now, Master Shallow, you'll complain of me to the king?<lb/>
+
+</p></sp><sp><speaker>SHALLOW</speaker>
+<p>Knight, you have beaten my men, killed my deer, and<lb/>
+broke open my lodge.<lb/>
+
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>But not kissed your keeper's daughter?<lb/>
+
+</p></sp><sp><speaker>SHALLOW</speaker>
+<p>Tut, a pin! this shall be answered.<lb/>
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>I will answer it straight; I have done all this.<lb/>
+That is now answered.<lb/>
+
+
+</p></sp><sp><speaker>SHALLOW</speaker>
+<p>The council shall know this.<lb/>
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>'Twere better for you if it were known in counsel:<lb/>
+you'll be laughed at.<lb/>
+
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p>Pauca verba, Sir John; goot worts.<lb/>
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>Good worts! good cabbage. Slender, I broke your<lb/>
+head: what matter have you against me?<lb/>
+
+
+</p></sp><sp><speaker>SLENDER</speaker>
+<p>Marry, sir, I have matter in my head against you;<lb/>
+and against your cony-catching rascals, Bardolph,<lb/>
+Nym, and Pistol.<lb/>
+
+
+</p></sp><sp><speaker>BARDOLPH</speaker>
+<p>You Banbury cheese!<lb/>
+
+</p></sp><sp><speaker>SLENDER</speaker>
+<p>Ay, it is no matter.<lb/>
+
+</p></sp><sp><speaker>PISTOL</speaker>
+<p>How now, Mephostophilus!<lb/>
+
+</p></sp><sp><speaker>SLENDER</speaker>
+<p>Ay, it is no matter.<lb/>
+
+</p></sp><sp><speaker>NYM</speaker>
+<p>Slice, I say! pauca, pauca: slice! that's my humour.<lb/>
+
+</p></sp><sp><speaker>SLENDER</speaker>
+<p>Where's Simple, my man? Can you tell, cousin?<lb/>
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p>Peace, I pray you. Now let us understand. There is<lb/>
+three umpires in this matter, as I understand; that<lb/>
+is, Master Page, fidelicet Master Page; and there is<lb/>
+myself, fidelicet myself; and the three party is,<lb/>
+lastly and finally, mine host of the Garter.<lb/>
+
+
+</p></sp><sp><speaker>PAGE</speaker>
+<p>We three, to hear it and end it between them.<lb/>
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p>Fery goot: I will make a prief of it in my note-<lb/>
+book; and we will afterwards ork upon the cause with<lb/>
+as great discreetly as we can.<lb/>
+
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>Pistol!<lb/>
+
+</p></sp><sp><speaker>PISTOL</speaker>
+<p>He hears with ears.<lb/>
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p>The tevil and his tam! what phrase is this, 'He<lb/>
+hears with ear'? why, it is affectations.<lb/>
+
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>Pistol, did you pick Master Slender's purse?<lb/>
+
+</p></sp><sp><speaker>SLENDER</speaker>
+<p>Ay, by these gloves, did he, or I would I might<lb/>
+never come in mine own great chamber again else, of<lb/>
+seven groats in mill-sixpences, and two Edward<lb/>
+shovel-boards, that cost me two shilling and two<lb/>
+pence apiece of Yead Miller, by these gloves.<lb/>
+
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>Is this true, Pistol?<lb/>
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p>No; it is false, if it is a pick-purse.<lb/>
+
+</p></sp><sp><speaker>PISTOL</speaker>
+<p>Ha, thou mountain-foreigner! Sir John and Master mine,<lb/>
+I combat challenge of this latten bilbo.<lb/>
+Word of denial in thy labras here!<lb/>
+Word of denial: froth and scum, thou liest!<lb/>
+
+
+</p></sp><sp><speaker>SLENDER</speaker>
+<p>By these gloves, then, 'twas he.<lb/>
+
+</p></sp><sp><speaker>NYM</speaker>
+<p>Be avised, sir, and pass good humours: I will say<lb/>
+'marry trap' with you, if you run the nuthook's<lb/>
+humour on me; that is the very note of it.<lb/>
+
+
+</p></sp><sp><speaker>SLENDER</speaker>
+<p>By this hat, then, he in the red face had it; for<lb/>
+though I cannot remember what I did when you made me<lb/>
+drunk, yet I am not altogether an ass.<lb/>
+
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>What say you, Scarlet and John?<lb/>
+
+</p></sp><sp><speaker>BARDOLPH</speaker>
+<p>Why, sir, for my part I say the gentleman had drunk<lb/>
+himself out of his five sentences.<lb/>
+
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p>It is his five senses: fie, what the ignorance is!<lb/>
+
+</p></sp><sp><speaker>BARDOLPH</speaker>
+<p>And being fap, sir, was, as they say, cashiered; and<lb/>
+so conclusions passed the careires.<lb/>
+
+
+</p></sp><sp><speaker>SLENDER</speaker>
+<p>Ay, you spake in Latin then too; but 'tis no<lb/>
+matter: I'll ne'er be drunk whilst I live again,<lb/>
+but in honest, civil, godly company, for this trick:<lb/>
+if I be drunk, I'll be drunk with those that have<lb/>
+the fear of God, and not with drunken knaves.<lb/>
+
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p>So Got udge me, that is a virtuous mind.<lb/>
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>You hear all these matters denied, gentlemen; you hear it.<lb/>
+
+</p><p><stage>Enter ANNE PAGE, with wine; MISTRESS FORD	and MISTRESS PAGE, following</stage>
+
+
+</p></sp><sp><speaker>PAGE</speaker>
+<p>Nay, daughter, carry the wine in; we'll drink within.<lb/>
+
+</p><p><stage>Exit ANNE PAGE</stage>
+
+
+</p></sp><sp><speaker>SLENDER</speaker>
+<p>O heaven! this is Mistress Anne Page.<lb/>
+
+</p></sp><sp><speaker>PAGE</speaker>
+<p>How now, Mistress Ford!<lb/>
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>Mistress Ford, by my troth, you are very well met:<lb/>
+by your leave, good mistress.<lb/>
+
+
+</p><p><stage>Kisses her</stage>
+
+
+</p></sp><sp><speaker>PAGE</speaker>
+<p>Wife, bid these gentlemen welcome. Come, we have a<lb/>
+hot venison pasty to dinner: come, gentlemen, I hope<lb/>
+we shall drink down all unkindness.<lb/>
+
+
+</p><p><stage>Exeunt all except SHALLOW, SLENDER, and SIR HUGH EVANS</stage>
+
+
+</p></sp><sp><speaker>SLENDER</speaker>
+<p>I had rather than forty shillings I had my Book of<lb/>
+Songs and Sonnets here.<lb/>
+
+
+</p><p><stage>Enter SIMPLE</stage></p>
+
+
+<p>
+How now, Simple! where have you been? I must wait<lb/>
+on myself, must I? You have not the Book of Riddles<lb/>
+about you, have you?<lb/>
+
+
+</p></sp><sp><speaker>SIMPLE</speaker>
+<p>Book of Riddles! why, did you not lend it to Alice<lb/>
+Shortcake upon All-hallowmas last, a fortnight<lb/>
+afore Michaelmas?<lb/>
+
+
+</p></sp><sp><speaker>SHALLOW</speaker>
+<p>Come, coz; come, coz; we stay for you. A word with<lb/>
+you, coz; marry, this, coz: there is, as 'twere, a<lb/>
+tender, a kind of tender, made afar off by Sir Hugh<lb/>
+here. Do you understand me?<lb/>
+
+
+</p></sp><sp><speaker>SLENDER</speaker>
+<p>Ay, sir, you shall find me reasonable; if it be so,<lb/>
+I shall do that that is reason.<lb/>
+
+
+</p></sp><sp><speaker>SHALLOW</speaker>
+<p>Nay, but understand me.<lb/>
+
+</p></sp><sp><speaker>SLENDER</speaker>
+<p>So I do, sir.<lb/>
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p>Give ear to his motions, Master Slender: I will<lb/>
+description the matter to you, if you be capacity of it.<lb/>
+
+
+</p></sp><sp><speaker>SLENDER</speaker>
+<p>Nay, I will do as my cousin Shallow says: I pray<lb/>
+you, pardon me; he's a justice of peace in his<lb/>
+country, simple though I stand here.<lb/>
+
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p>But that is not the question: the question is<lb/>
+concerning your marriage.<lb/>
+
+
+</p></sp><sp><speaker>SHALLOW</speaker>
+<p>Ay, there's the point, sir.<lb/>
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p>Marry, is it; the very point of it; to Mistress Anne Page.<lb/>
+
+</p></sp><sp><speaker>SLENDER</speaker>
+<p>Why, if it be so, I will marry her upon any<lb/>
+reasonable demands.<lb/>
+
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p>But can you affection the 'oman? Let us command to<lb/>
+know that of your mouth or of your lips; for divers<lb/>
+philosophers hold that the lips is parcel of the<lb/>
+mouth. Therefore, precisely, can you carry your<lb/>
+good will to the maid?<lb/>
+
+
+</p></sp><sp><speaker>SHALLOW</speaker>
+<p>Cousin Abraham Slender, can you love her?<lb/>
+
+</p></sp><sp><speaker>SLENDER</speaker>
+<p>I hope, sir, I will do as it shall become one that<lb/>
+would do reason.<lb/>
+
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p>Nay, Got's lords and his ladies! you must speak<lb/>
+possitable, if you can carry her your desires<lb/>
+towards her.<lb/>
+
+
+</p></sp><sp><speaker>SHALLOW</speaker>
+<p>That you must. Will you, upon good dowry, marry her?<lb/>
+
+</p></sp><sp><speaker>SLENDER</speaker>
+<p>I will do a greater thing than that, upon your<lb/>
+request, cousin, in any reason.<lb/>
+
+
+</p></sp><sp><speaker>SHALLOW</speaker>
+<p>Nay, conceive me, conceive me, sweet coz: what I do<lb/>
+is to pleasure you, coz. Can you love the maid?<lb/>
+
+
+</p></sp><sp><speaker>SLENDER</speaker>
+<p>I will marry her, sir, at your request: but if there<lb/>
+be no great love in the beginning, yet heaven may<lb/>
+decrease it upon better acquaintance, when we are<lb/>
+married and have more occasion to know one another;<lb/>
+I hope, upon familiarity will grow more contempt:<lb/>
+but if you say, 'Marry her,' I will marry her; that<lb/>
+I am freely dissolved, and dissolutely.<lb/>
+
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p>It is a fery discretion answer; save the fall is in<lb/>
+the ort 'dissolutely:' the ort is, according to our<lb/>
+meaning, 'resolutely:' his meaning is good.<lb/>
+
+
+</p></sp><sp><speaker>SHALLOW</speaker>
+<p>Ay, I think my cousin meant well.<lb/>
+
+</p></sp><sp><speaker>SLENDER</speaker>
+<p>Ay, or else I would I might be hanged, la!<lb/>
+
+</p></sp><sp><speaker>SHALLOW</speaker>
+<p>Here comes fair Mistress Anne.<lb/>
+
+</p><p><stage>Re-enter ANNE PAGE</stage></p>
+
+
+<p>
+Would I were young for your sake, Mistress Anne!<lb/>
+
+
+</p></sp><sp><speaker>ANNE PAGE</speaker>
+<p>The dinner is on the table; my father desires your<lb/>
+worships' company.<lb/>
+
+
+</p></sp><sp><speaker>SHALLOW</speaker>
+<p>I will wait on him, fair Mistress Anne.<lb/>
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p>Od's plessed will! I will not be absence at the grace.<lb/>
+
+</p><p><stage>Exeunt SHALLOW and SIR HUGH EVANS</stage>
+
+
+</p></sp><sp><speaker>ANNE PAGE</speaker>
+<p>Will't please your worship to come in, sir?<lb/>
+
+</p></sp><sp><speaker>SLENDER</speaker>
+<p>No, I thank you, forsooth, heartily; I am very well.<lb/>
+
+</p></sp><sp><speaker>ANNE PAGE</speaker>
+<p>The dinner attends you, sir.<lb/>
+
+</p></sp><sp><speaker>SLENDER</speaker>
+<p>I am not a-hungry, I thank you, forsooth. Go,<lb/>
+sirrah, for all you are my man, go wait upon my<lb/>
+cousin Shallow.<lb/>
+
+
+</p><p><stage>Exit SIMPLE</stage></p>
+
+
+<p>
+A justice of peace sometimes may be beholding to his<lb/>
+friend for a man. I keep but three men and a boy<lb/>
+yet, till my mother be dead: but what though? Yet I<lb/>
+live like a poor gentleman born.<lb/>
+
+
+</p></sp><sp><speaker>ANNE PAGE</speaker>
+<p>I may not go in without your worship: they will not<lb/>
+sit till you come.<lb/>
+
+
+</p></sp><sp><speaker>SLENDER</speaker>
+<p>I' faith, I'll eat nothing; I thank you as much as<lb/>
+though I did.<lb/>
+
+
+</p></sp><sp><speaker>ANNE PAGE</speaker>
+<p>I pray you, sir, walk in.<lb/>
+
+</p></sp><sp><speaker>SLENDER</speaker>
+<p>I had rather walk here, I thank you. I bruised<lb/>
+my shin th' other day with playing at sword and<lb/>
+dagger with a master of fence; three veneys for a<lb/>
+dish of stewed prunes; and, by my troth, I cannot<lb/>
+abide the smell of hot meat since. Why do your<lb/>
+dogs bark so? be there bears i' the town?<lb/>
+
+
+</p></sp><sp><speaker>ANNE PAGE</speaker>
+<p>I think there are, sir; I heard them talked of.<lb/>
+
+</p></sp><sp><speaker>SLENDER</speaker>
+<p>I love the sport well but I shall as soon quarrel at<lb/>
+it as any man in England. You are afraid, if you see<lb/>
+the bear loose, are you not?<lb/>
+
+
+</p></sp><sp><speaker>ANNE PAGE</speaker>
+<p>Ay, indeed, sir.<lb/>
+
+</p></sp><sp><speaker>SLENDER</speaker>
+<p>That's meat and drink to me, now. I have seen<lb/>
+Sackerson loose twenty times, and have taken him by<lb/>
+the chain; but, I warrant you, the women have so<lb/>
+cried and shrieked at it, that it passed: but women,<lb/>
+indeed, cannot abide 'em; they are very ill-favored<lb/>
+rough things.<lb/>
+
+
+</p><p><stage>Re-enter PAGE</stage>
+
+
+</p></sp><sp><speaker>PAGE</speaker>
+<p>Come, gentle Master Slender, come; we stay for you.<lb/>
+
+</p></sp><sp><speaker>SLENDER</speaker>
+<p>I'll eat nothing, I thank you, sir.<lb/>
+
+</p></sp><sp><speaker>PAGE</speaker>
+<p>By cock and pie, you shall not choose, sir! come, come.<lb/>
+
+</p></sp><sp><speaker>SLENDER</speaker>
+<p>Nay, pray you, lead the way.<lb/>
+
+</p></sp><sp><speaker>PAGE</speaker>
+<p>Come on, sir.<lb/>
+
+</p></sp><sp><speaker>SLENDER</speaker>
+<p>Mistress Anne, yourself shall go first.<lb/>
+
+</p></sp><sp><speaker>ANNE PAGE</speaker>
+<p>Not I, sir; pray you, keep on.<lb/>
+
+</p></sp><sp><speaker>SLENDER</speaker>
+<p>I'll rather be unmannerly than troublesome.<lb/>
+You do yourself wrong, indeed, la!<lb/>
+
+
+</p></sp><p><stage>Exeunt</stage>
+
+
+
+</p></div2><div2 type="scene" n="2" id="d7">
+<head>Scene 2</head>
+
+<p><stage>The same.</stage>
+
+</p><p><stage>Enter SIR HUGH EVANS and SIMPLE</stage>
+
+
+</p><sp><speaker>SIR HUGH EVANS</speaker>
+<p>Go your ways, and ask of Doctor Caius' house which<lb/>
+is the way: and there dwells one Mistress Quickly,<lb/>
+which is in the manner of his nurse, or his dry<lb/>
+nurse, or his cook, or his laundry, his washer, and<lb/>
+his wringer.<lb/>
+
+
+</p></sp><sp><speaker>SIMPLE</speaker>
+<p>Well, sir.<lb/>
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p>Nay, it is petter yet. Give her this letter; for it<lb/>
+is a 'oman that altogether's acquaintance with<lb/>
+Mistress Anne Page: and the letter is, to desire<lb/>
+and require her to solicit your master's desires to<lb/>
+Mistress Anne Page. I pray you, be gone: I will<lb/>
+make an end of my dinner; there's pippins and cheese to come.<lb/>
+
+
+</p></sp><p><stage>Exeunt</stage>
+
+
+
+</p></div2><div2 type="scene" n="3" id="d8">
+<head>Scene 3</head>
+
+<p><stage>A room in the Garter Inn.</stage>
+
+</p><p><stage>Enter FALSTAFF, Host, BARDOLPH, NYM, PISTOL,	and ROBIN</stage>
+
+
+</p><sp><speaker>FALSTAFF</speaker>
+<p>Mine host of the Garter!<lb/>
+
+</p></sp><sp><speaker>Host</speaker>
+<p>What says my bully-rook? speak scholarly and wisely.<lb/>
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>Truly, mine host, I must turn away some of my<lb/>
+followers.<lb/>
+
+
+</p></sp><sp><speaker>Host</speaker>
+<p>Discard, bully Hercules; cashier: let them wag; trot, trot.<lb/>
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>I sit at ten pounds a week.<lb/>
+
+</p></sp><sp><speaker>Host</speaker>
+<p>Thou'rt an emperor, Caesar, Keisar, and Pheezar. I<lb/>
+will entertain Bardolph; he shall draw, he shall<lb/>
+tap: said I well, bully Hector?<lb/>
+
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>Do so, good mine host.<lb/>
+
+</p></sp><sp><speaker>Host</speaker>
+<p>I have spoke; let him follow.<lb/>
+
+</p><p><stage>To BARDOLPH</stage></p>
+
+
+<p>
+Let me see thee froth and lime: I am at a word; follow.<lb/>
+
+
+</p><p><stage>Exit</stage>
+
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>Bardolph, follow him. A tapster is a good trade:<lb/>
+an old cloak makes a new jerkin; a withered<lb/>
+serving-man a fresh tapster. Go; adieu.<lb/>
+
+
+</p></sp><sp><speaker>BARDOLPH</speaker>
+<p>It is a life that I have desired: I will thrive.<lb/>
+
+</p></sp><sp><speaker>PISTOL</speaker>
+<p>O base Hungarian wight! wilt thou the spigot wield?<lb/>
+
+</p><p><stage>Exit BARDOLPH</stage>
+
+
+</p></sp><sp><speaker>NYM</speaker>
+<p>He was gotten in drink: is not the humour conceited?<lb/>
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>I am glad I am so acquit of this tinderbox: his<lb/>
+thefts were too open; his filching was like an<lb/>
+unskilful singer; he kept not time.<lb/>
+
+
+</p></sp><sp><speaker>NYM</speaker>
+<p>The good humour is to steal at a minute's rest.<lb/>
+
+</p></sp><sp><speaker>PISTOL</speaker>
+<p>'Convey,' the wise it call. 'Steal!' foh! a fico<lb/>
+for the phrase!<lb/>
+
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>Well, sirs, I am almost out at heels.<lb/>
+
+</p></sp><sp><speaker>PISTOL</speaker>
+<p>Why, then, let kibes ensue.<lb/>
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>There is no remedy; I must cony-catch; I must shift.<lb/>
+
+</p></sp><sp><speaker>PISTOL</speaker>
+<p>Young ravens must have food.<lb/>
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>Which of you know Ford of this town?<lb/>
+
+</p></sp><sp><speaker>PISTOL</speaker>
+<p>I ken the wight: he is of substance good.<lb/>
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>My honest lads, I will tell you what I am about.<lb/>
+
+</p></sp><sp><speaker>PISTOL</speaker>
+<p>Two yards, and more.<lb/>
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>No quips now, Pistol! Indeed, I am in the waist two<lb/>
+yards about; but I am now about no waste; I am about<lb/>
+thrift. Briefly, I do mean to make love to Ford's<lb/>
+wife: I spy entertainment in her; she discourses,<lb/>
+she carves, she gives the leer of invitation: I<lb/>
+can construe the action of her familiar style; and<lb/>
+the hardest voice of her behavior, to be Englished<lb/>
+rightly, is, 'I am Sir John Falstaff's.'<lb/>
+
+
+</p></sp><sp><speaker>PISTOL</speaker>
+<p>He hath studied her will, and translated her will,<lb/>
+out of honesty into English.<lb/>
+
+
+</p></sp><sp><speaker>NYM</speaker>
+<p>The anchor is deep: will that humour pass?<lb/>
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>Now, the report goes she has all the rule of her<lb/>
+husband's purse: he hath a legion of angels.<lb/>
+
+
+</p></sp><sp><speaker>PISTOL</speaker>
+<p>As many devils entertain; and 'To her, boy,' say I.<lb/>
+
+</p></sp><sp><speaker>NYM</speaker>
+<p>The humour rises; it is good: humour me the angels.<lb/>
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>I have writ me here a letter to her: and here<lb/>
+another to Page's wife, who even now gave me good<lb/>
+eyes too, examined my parts with most judicious<lb/>
+oeillades; sometimes the beam of her view gilded my<lb/>
+foot, sometimes my portly belly.<lb/>
+
+
+</p></sp><sp><speaker>PISTOL</speaker>
+<p>Then did the sun on dunghill shine.<lb/>
+
+</p></sp><sp><speaker>NYM</speaker>
+<p>I thank thee for that humour.<lb/>
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>O, she did so course o'er my exteriors with such a<lb/>
+greedy intention, that the appetite of her eye did<lb/>
+seem to scorch me up like a burning-glass! Here's<lb/>
+another letter to her: she bears the purse too; she<lb/>
+is a region in Guiana, all gold and bounty. I will<lb/>
+be cheater to them both, and they shall be<lb/>
+exchequers to me; they shall be my East and West<lb/>
+Indies, and I will trade to them both. Go bear thou<lb/>
+this letter to Mistress Page; and thou this to<lb/>
+Mistress Ford: we will thrive, lads, we will thrive.<lb/>
+
+
+</p></sp><sp><speaker>PISTOL</speaker>
+<p>Shall I Sir Pandarus of Troy become,<lb/>
+And by my side wear steel? then, Lucifer take all!<lb/>
+
+
+</p></sp><sp><speaker>NYM</speaker>
+<p>I will run no base humour: here, take the<lb/>
+humour-letter: I will keep the havior of reputation.<lb/>
+
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p><stage>[To ROBIN]</stage></p><p>  Hold, sirrah, bear you these letters tightly;<lb/>
+Sail like my pinnace to these golden shores.<lb/>
+Rogues, hence, avaunt! vanish like hailstones, go;<lb/>
+Trudge, plod away o' the hoof; seek shelter, pack!<lb/>
+Falstaff will learn the humour of the age,<lb/>
+French thrift, you rogues; myself and skirted page.<lb/>
+
+
+</p><p><stage>Exeunt FALSTAFF and ROBIN</stage>
+
+
+</p></sp><sp><speaker>PISTOL</speaker>
+<p>Let vultures gripe thy guts! for gourd and fullam holds,<lb/>
+And high and low beguiles the rich and poor:<lb/>
+Tester I'll have in pouch when thou shalt lack,<lb/>
+Base Phrygian Turk!<lb/>
+
+
+</p></sp><sp><speaker>NYM</speaker>
+<p>I have operations which be humours of revenge.<lb/>
+
+</p></sp><sp><speaker>PISTOL</speaker>
+<p>Wilt thou revenge?<lb/>
+
+</p></sp><sp><speaker>NYM</speaker>
+<p>By welkin and her star!<lb/>
+
+</p></sp><sp><speaker>PISTOL</speaker>
+<p>With wit or steel?<lb/>
+
+</p></sp><sp><speaker>NYM</speaker>
+<p>With both the humours, I:<lb/>
+I will discuss the humour of this love to Page.<lb/>
+
+
+</p></sp><sp><speaker>PISTOL</speaker>
+<p>And I to Ford shall eke unfold<lb/>
+How Falstaff, varlet vile,<lb/>
+His dove will prove, his gold will hold,<lb/>
+And his soft couch defile.<lb/>
+
+
+</p></sp><sp><speaker>NYM</speaker>
+<p>My humour shall not cool: I will incense Page to<lb/>
+deal with poison; I will possess him with<lb/>
+yellowness, for the revolt of mine is dangerous:<lb/>
+that is my true humour.<lb/>
+
+
+</p></sp><sp><speaker>PISTOL</speaker>
+<p>Thou art the Mars of malecontents: I second thee; troop on.<lb/>
+
+</p></sp><p><stage>Exeunt</stage>
+
+
+
+</p></div2><div2 type="scene" n="4" id="d9">
+<head>Scene 4</head>
+
+<p><stage>A room in DOCTOR CAIUS' house.</stage>
+
+</p><p><stage>Enter MISTRESS QUICKLY, SIMPLE, and RUGBY</stage>
+
+
+</p><sp><speaker>MISTRESS QUICKLY</speaker>
+<p>What, John Rugby! I pray thee, go to the casement,<lb/>
+and see if you can see my master, Master Doctor<lb/>
+Caius, coming. If he do, i' faith, and find any<lb/>
+body in the house, here will be an old abusing of<lb/>
+God's patience and the king's English.<lb/>
+
+
+</p></sp><sp><speaker>RUGBY</speaker>
+<p>I'll go watch.<lb/>
+
+</p></sp><sp><speaker>MISTRESS QUICKLY</speaker>
+<p>Go; and we'll have a posset for't soon at night, in<lb/>
+faith, at the latter end of a sea-coal fire.<lb/>
+
+
+</p><p><stage>Exit RUGBY</stage></p>
+
+
+<p>
+An honest, willing, kind fellow, as ever servant<lb/>
+shall come in house withal, and, I warrant you, no<lb/>
+tell-tale nor no breed-bate: his worst fault is,<lb/>
+that he is given to prayer; he is something peevish<lb/>
+that way: but nobody but has his fault; but let<lb/>
+that pass. Peter Simple, you say your name is?<lb/>
+
+
+</p></sp><sp><speaker>SIMPLE</speaker>
+<p>Ay, for fault of a better.<lb/>
+
+</p></sp><sp><speaker>MISTRESS QUICKLY</speaker>
+<p>And Master Slender's your master?<lb/>
+
+</p></sp><sp><speaker>SIMPLE</speaker>
+<p>Ay, forsooth.<lb/>
+
+</p></sp><sp><speaker>MISTRESS QUICKLY</speaker>
+<p>Does he not wear a great round beard, like a<lb/>
+glover's paring-knife?<lb/>
+
+
+</p></sp><sp><speaker>SIMPLE</speaker>
+<p>No, forsooth: he hath but a little wee face, with a<lb/>
+little yellow beard, a Cain-coloured beard.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS QUICKLY</speaker>
+<p>A softly-sprighted man, is he not?<lb/>
+
+</p></sp><sp><speaker>SIMPLE</speaker>
+<p>Ay, forsooth: but he is as tall a man of his hands<lb/>
+as any is between this and his head; he hath fought<lb/>
+with a warrener.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS QUICKLY</speaker>
+<p>How say you? O, I should remember him: does he not<lb/>
+hold up his head, as it were, and strut in his gait?<lb/>
+
+
+</p></sp><sp><speaker>SIMPLE</speaker>
+<p>Yes, indeed, does he.<lb/>
+
+</p></sp><sp><speaker>MISTRESS QUICKLY</speaker>
+<p>Well, heaven send Anne Page no worse fortune! Tell<lb/>
+Master Parson Evans I will do what I can for your<lb/>
+master: Anne is a good girl, and I wish&mdash;<lb/>
+
+
+</p><p><stage>Re-enter RUGBY</stage>
+
+
+</p></sp><sp><speaker>RUGBY</speaker>
+<p>Out, alas! here comes my master.<lb/>
+
+</p></sp><sp><speaker>MISTRESS QUICKLY</speaker>
+<p>We shall all be shent. Run in here, good young man;<lb/>
+go into this closet: he will not stay long.<lb/>
+
+
+</p><p><stage>Shuts SIMPLE in the closet</stage></p>
+
+
+<p>
+What, John Rugby! John! what, John, I say!<lb/>
+Go, John, go inquire for my master; I doubt<lb/>
+he be not well, that he comes not home.<lb/>
+
+
+</p><p><stage>Singing</stage></p>
+
+
+<p>
+And down, down, adown-a, &amp;c.<lb/>
+
+
+</p><p><stage>Enter DOCTOR CAIUS</stage>
+
+
+</p></sp><sp><speaker>DOCTOR CAIUS</speaker>
+<p>Vat is you sing? I do not like des toys. Pray you,<lb/>
+go and vetch me in my closet un boitier vert, a box,<lb/>
+a green-a box: do intend vat I speak? a green-a box.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS QUICKLY</speaker>
+<p>Ay, forsooth; I'll fetch it you.<lb/>
+
+</p><p><stage>Aside</stage></p>
+
+
+<p>
+I am glad he went not in himself: if he had found<lb/>
+the young man, he would have been horn-mad.<lb/>
+
+
+</p></sp><sp><speaker>DOCTOR CAIUS</speaker>
+<p>Fe, fe, fe, fe! ma foi, il fait fort chaud. Je<lb/>
+m'en vais a la cour&mdash;la grande affaire.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS QUICKLY</speaker>
+<p>Is it this, sir?<lb/>
+
+</p></sp><sp><speaker>DOCTOR CAIUS</speaker>
+<p>Oui; mette le au mon pocket: depeche, quickly. Vere<lb/>
+is dat knave Rugby?<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS QUICKLY</speaker>
+<p>What, John Rugby! John!<lb/>
+
+</p></sp><sp><speaker>RUGBY</speaker>
+<p>Here, sir!<lb/>
+
+</p></sp><sp><speaker>DOCTOR CAIUS</speaker>
+<p>You are John Rugby, and you are Jack Rugby. Come,<lb/>
+take-a your rapier, and come after my heel to the court.<lb/>
+
+
+</p></sp><sp><speaker>RUGBY</speaker>
+<p>'Tis ready, sir, here in the porch.<lb/>
+
+</p></sp><sp><speaker>DOCTOR CAIUS</speaker>
+<p>By my trot, I tarry too long. Od's me!<lb/>
+Qu'ai-j'oublie! dere is some simples in my closet,<lb/>
+dat I vill not for the varld I shall leave behind.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS QUICKLY</speaker>
+<p>Ay me, he'll find the young man here, and be mad!<lb/>
+
+</p></sp><sp><speaker>DOCTOR CAIUS</speaker>
+<p>O diable, diable! vat is in my closet? Villain! larron!<lb/>
+
+</p><p><stage>Pulling SIMPLE out</stage></p>
+
+
+<p>
+Rugby, my rapier!<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS QUICKLY</speaker>
+<p>Good master, be content.<lb/>
+
+</p></sp><sp><speaker>DOCTOR CAIUS</speaker>
+<p>Wherefore shall I be content-a?<lb/>
+
+</p></sp><sp><speaker>MISTRESS QUICKLY</speaker>
+<p>The young man is an honest man.<lb/>
+
+</p></sp><sp><speaker>DOCTOR CAIUS</speaker>
+<p>What shall de honest man do in my closet? dere is<lb/>
+no honest man dat shall come in my closet.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS QUICKLY</speaker>
+<p>I beseech you, be not so phlegmatic. Hear the truth<lb/>
+of it: he came of an errand to me from Parson Hugh.<lb/>
+
+
+</p></sp><sp><speaker>DOCTOR CAIUS</speaker>
+<p>Vell.<lb/>
+
+</p></sp><sp><speaker>SIMPLE</speaker>
+<p>Ay, forsooth; to desire her to&mdash;<lb/>
+
+</p></sp><sp><speaker>MISTRESS QUICKLY</speaker>
+<p>Peace, I pray you.<lb/>
+
+</p></sp><sp><speaker>DOCTOR CAIUS</speaker>
+<p>Peace-a your tongue. Speak-a your tale.<lb/>
+
+</p></sp><sp><speaker>SIMPLE</speaker>
+<p>To desire this honest gentlewoman, your maid, to<lb/>
+speak a good word to Mistress Anne Page for my<lb/>
+master in the way of marriage.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS QUICKLY</speaker>
+<p>This is all, indeed, la! but I'll ne'er put my<lb/>
+finger in the fire, and need not.<lb/>
+
+
+</p></sp><sp><speaker>DOCTOR CAIUS</speaker>
+<p>Sir Hugh send-a you? Rugby, baille me some paper.<lb/>
+Tarry you a little-a while.<lb/>
+
+
+</p><p><stage>Writes</stage>
+
+
+</p></sp><sp><speaker>MISTRESS QUICKLY</speaker>
+<p><stage>[Aside to SIMPLE]</stage></p><p>  I am glad he is so quiet: if he<lb/>
+had been thoroughly moved, you should have heard him<lb/>
+so loud and so melancholy. But notwithstanding,<lb/>
+man, I'll do you your master what good I can: and<lb/>
+the very yea and the no is, the French doctor, my<lb/>
+master,&mdash;I may call him my master, look you, for I<lb/>
+keep his house; and I wash, wring, brew, bake,<lb/>
+scour, dress meat and drink, make the beds and do<lb/>
+all myself,&mdash;<lb/>
+
+
+</p></sp><sp><speaker>SIMPLE</speaker>
+<p><stage>[Aside to MISTRESS QUICKLY]</stage></p><p>  'Tis a great charge to<lb/>
+come under one body's hand.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS QUICKLY</speaker>
+<p><stage>[Aside to SIMPLE]</stage></p><p>  Are you avised o' that? you<lb/>
+shall find it a great charge: and to be up early<lb/>
+and down late; but notwithstanding,&mdash;to tell you in<lb/>
+your ear; I would have no words of it,&mdash;my master<lb/>
+himself is in love with Mistress Anne Page: but<lb/>
+notwithstanding that, I know Anne's mind,&mdash;that's<lb/>
+neither here nor there.<lb/>
+
+
+</p></sp><sp><speaker>DOCTOR CAIUS</speaker>
+<p>You jack'nape, give-a this letter to Sir Hugh; by<lb/>
+gar, it is a shallenge: I will cut his troat in dee<lb/>
+park; and I will teach a scurvy jack-a-nape priest<lb/>
+to meddle or make. You may be gone; it is not good<lb/>
+you tarry here. By gar, I will cut all his two<lb/>
+stones; by gar, he shall not have a stone to throw<lb/>
+at his dog:<lb/>
+
+
+</p><p><stage>Exit SIMPLE</stage>
+
+
+</p></sp><sp><speaker>MISTRESS QUICKLY</speaker>
+<p>Alas, he speaks but for his friend.<lb/>
+
+</p></sp><sp><speaker>DOCTOR CAIUS</speaker>
+<p>It is no matter-a ver dat: do not you tell-a me<lb/>
+dat I shall have Anne Page for myself? By gar, I<lb/>
+vill kill de Jack priest; and I have appointed mine<lb/>
+host of de Jarteer to measure our weapon. By gar, I<lb/>
+will myself have Anne Page.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS QUICKLY</speaker>
+<p>Sir, the maid loves you, and all shall be well. We<lb/>
+must give folks leave to prate: what, the good-jer!<lb/>
+
+
+</p></sp><sp><speaker>DOCTOR CAIUS</speaker>
+<p>Rugby, come to the court with me. By gar, if I have<lb/>
+not Anne Page, I shall turn your head out of my<lb/>
+door. Follow my heels, Rugby.<lb/>
+
+
+</p><p><stage>Exeunt DOCTOR CAIUS and RUGBY</stage>
+
+
+</p></sp><sp><speaker>MISTRESS QUICKLY</speaker>
+<p>You shall have An fool's-head of your own. No, I<lb/>
+know Anne's mind for that: never a woman in Windsor<lb/>
+knows more of Anne's mind than I do; nor can do more<lb/>
+than I do with her, I thank heaven.<lb/>
+
+
+</p></sp><sp><speaker>FENTON</speaker>
+<p><stage>[Within]</stage></p><p>  Who's within there? ho!<lb/>
+
+</p></sp><sp><speaker>MISTRESS QUICKLY</speaker>
+<p>Who's there, I trow! Come near the house, I pray you.<lb/>
+
+</p><p><stage>Enter FENTON</stage>
+
+
+</p></sp><sp><speaker>FENTON</speaker>
+<p>How now, good woman? how dost thou?<lb/>
+
+</p></sp><sp><speaker>MISTRESS QUICKLY</speaker>
+<p>The better that it pleases your good worship to ask.<lb/>
+
+</p></sp><sp><speaker>FENTON</speaker>
+<p>What news? how does pretty Mistress Anne?<lb/>
+
+</p></sp><sp><speaker>MISTRESS QUICKLY</speaker>
+<p>In truth, sir, and she is pretty, and honest, and<lb/>
+gentle; and one that is your friend, I can tell you<lb/>
+that by the way; I praise heaven for it.<lb/>
+
+
+</p></sp><sp><speaker>FENTON</speaker>
+<p>Shall I do any good, thinkest thou? shall I not lose my suit?<lb/>
+
+</p></sp><sp><speaker>MISTRESS QUICKLY</speaker>
+<p>Troth, sir, all is in his hands above: but<lb/>
+notwithstanding, Master Fenton, I'll be sworn on a<lb/>
+book, she loves you. Have not your worship a wart<lb/>
+above your eye?<lb/>
+
+
+</p></sp><sp><speaker>FENTON</speaker>
+<p>Yes, marry, have I; what of that?<lb/>
+
+</p></sp><sp><speaker>MISTRESS QUICKLY</speaker>
+<p>Well, thereby hangs a tale: good faith, it is such<lb/>
+another Nan; but, I detest, an honest maid as ever<lb/>
+broke bread: we had an hour's talk of that wart. I<lb/>
+shall never laugh but in that maid's company! But<lb/>
+indeed she is given too much to allicholy and<lb/>
+musing: but for you&mdash;well, go to.<lb/>
+
+
+</p></sp><sp><speaker>FENTON</speaker>
+<p>Well, I shall see her to-day. Hold, there's money<lb/>
+for thee; let me have thy voice in my behalf: if<lb/>
+thou seest her before me, commend me.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS QUICKLY</speaker>
+<p>Will I? i'faith, that we will; and I will tell your<lb/>
+worship more of the wart the next time we have<lb/>
+confidence; and of other wooers.<lb/>
+
+
+</p></sp><sp><speaker>FENTON</speaker>
+<p>Well, farewell; I am in great haste now.<lb/>
+
+</p></sp><sp><speaker>MISTRESS QUICKLY</speaker>
+<p>Farewell to your worship.<lb/>
+
+</p><p><stage>Exit FENTON</stage></p>
+
+
+<p>
+Truly, an honest gentleman: but Anne loves him not;<lb/>
+for I know Anne's mind as well as another does. Out<lb/>
+upon't! what have I forgot?<lb/>
+
+
+</p></sp><p><stage>Exit</stage></p>
+
+
+
+</div2>
+
+</div1>
+
+<div1 type="act" n="2" id="d10">
+<head>Act 2</head>
+
+<div2 type="scene" n="1" id="d11">
+<head>Scene 1</head>
+
+<p><stage>Before PAGE'S house.</stage>
+
+</p><p><stage>Enter MISTRESS PAGE, with a letter</stage>
+
+
+</p><sp><speaker>MISTRESS PAGE</speaker>
+<p>What, have I scaped love-letters in the holiday-<lb/>
+time of my beauty, and am I now a subject for them?<lb/>
+Let me see.<lb/>
+
+
+</p><p><stage>Reads</stage></p>
+
+
+<p>
+'Ask me no reason why I love you; for though<lb/>
+Love use Reason for his physician, he admits him<lb/>
+not for his counsellor. You are not young, no more<lb/>
+am I; go to then, there's sympathy: you are merry,<lb/>
+so am I; ha, ha! then there's more sympathy: you<lb/>
+love sack, and so do I; would you desire better<lb/>
+sympathy? Let it suffice thee, Mistress Page,&mdash;at<lb/>
+the least, if the love of soldier can suffice,&mdash;<lb/>
+that I love thee. I will not say, pity me; 'tis<lb/>
+not a soldier-like phrase: but I say, love me. By me,<lb/>
+Thine own true knight,<lb/>
+By day or night,<lb/>
+Or any kind of light,<lb/>
+With all his might<lb/>
+For thee to fight,    JOHN FALSTAFF'<lb/>
+What a Herod of Jewry is this! O wicked<lb/>
+world! One that is well-nigh worn to pieces with<lb/>
+age to show himself a young gallant! What an<lb/>
+unweighed behavior hath this Flemish drunkard<lb/>
+picked&mdash;with the devil's name!&mdash;out of my<lb/>
+conversation, that he dares in this manner assay me?<lb/>
+Why, he hath not been thrice in my company! What<lb/>
+should I say to him? I was then frugal of my<lb/>
+mirth: Heaven forgive me! Why, I'll exhibit a bill<lb/>
+in the parliament for the putting down of men. How<lb/>
+shall I be revenged on him? for revenged I will be,<lb/>
+as sure as his guts are made of puddings.<lb/>
+
+
+</p><p><stage>Enter MISTRESS FORD</stage>
+
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p>Mistress Page! trust me, I was going to your house.<lb/>
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>And, trust me, I was coming to you. You look very<lb/>
+ill.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p>Nay, I'll ne'er believe that; I have to show to the contrary.<lb/>
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>Faith, but you do, in my mind.<lb/>
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p>Well, I do then; yet I say I could show you to the<lb/>
+contrary. O Mistress Page, give me some counsel!<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>What's the matter, woman?<lb/>
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p>O woman, if it were not for one trifling respect, I<lb/>
+could come to such honour!<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>Hang the trifle, woman! take the honour. What is<lb/>
+it? dispense with trifles; what is it?<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p>If I would but go to hell for an eternal moment or so,<lb/>
+I could be knighted.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>What? thou liest! Sir Alice Ford! These knights<lb/>
+will hack; and so thou shouldst not alter the<lb/>
+article of thy gentry.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p>We burn daylight: here, read, read; perceive how I<lb/>
+might be knighted. I shall think the worse of fat<lb/>
+men, as long as I have an eye to make difference of<lb/>
+men's liking: and yet he would not swear; praised<lb/>
+women's modesty; and gave such orderly and<lb/>
+well-behaved reproof to all uncomeliness, that I<lb/>
+would have sworn his disposition would have gone to<lb/>
+the truth of his words; but they do no more adhere<lb/>
+and keep place together than the Hundredth Psalm to<lb/>
+the tune of 'Green Sleeves.' What tempest, I trow,<lb/>
+threw this whale, with so many tuns of oil in his<lb/>
+belly, ashore at Windsor? How shall I be revenged<lb/>
+on him? I think the best way were to entertain him<lb/>
+with hope, till the wicked fire of lust have melted<lb/>
+him in his own grease. Did you ever hear the like?<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>Letter for letter, but that the name of Page and<lb/>
+Ford differs! To thy great comfort in this mystery<lb/>
+of ill opinions, here's the twin-brother of thy<lb/>
+letter: but let thine inherit first; for, I<lb/>
+protest, mine never shall. I warrant he hath a<lb/>
+thousand of these letters, writ with blank space for<lb/>
+different names&mdash;sure, more,&mdash;and these are of the<lb/>
+second edition: he will print them, out of doubt;<lb/>
+for he cares not what he puts into the press, when<lb/>
+he would put us two. I had rather be a giantess,<lb/>
+and lie under Mount Pelion. Well, I will find you<lb/>
+twenty lascivious turtles ere one chaste man.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p>Why, this is the very same; the very hand, the very<lb/>
+words. What doth he think of us?<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>Nay, I know not: it makes me almost ready to<lb/>
+wrangle with mine own honesty. I'll entertain<lb/>
+myself like one that I am not acquainted withal;<lb/>
+for, sure, unless he know some strain in me, that I<lb/>
+know not myself, he would never have boarded me in this fury.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p>'Boarding,' call you it? I'll be sure to keep him<lb/>
+above deck.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>So will I<lb/>
+if he come under my hatches, I'll never<lb/>
+to sea again. Let's be revenged on him: let's<lb/>
+appoint him a meeting; give him a show of comfort in<lb/>
+his suit and lead him on with a fine-baited delay,<lb/>
+till he hath pawned his horses to mine host of the Garter.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p>Nay, I will consent to act any villany against him,<lb/>
+that may not sully the chariness of our honesty. O,<lb/>
+that my husband saw this letter! it would give<lb/>
+eternal food to his jealousy.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>Why, look where he comes; and my good man too: he's<lb/>
+as far from jealousy as I am from giving him cause;<lb/>
+and that I hope is an unmeasurable distance.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p>You are the happier woman.<lb/>
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>Let's consult together against this greasy knight.<lb/>
+Come hither.<lb/>
+
+
+</p><p><stage>They retire</stage>
+
+
+
+</p><p><stage>Enter FORD with PISTOL, and PAGE with NYM</stage>
+
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>Well, I hope it be not so.<lb/>
+
+</p></sp><sp><speaker>PISTOL</speaker>
+<p>Hope is a curtal dog in some affairs:<lb/>
+Sir John affects thy wife.<lb/>
+
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>Why, sir, my wife is not young.<lb/>
+
+</p></sp><sp><speaker>PISTOL</speaker>
+<p>He wooes both high and low, both rich and poor,<lb/>
+Both young and old, one with another, Ford;<lb/>
+He loves the gallimaufry: Ford, perpend.<lb/>
+
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>Love my wife!<lb/>
+
+</p></sp><sp><speaker>PISTOL</speaker>
+<p>With liver burning hot. Prevent, or go thou,<lb/>
+Like Sir Actaeon he, with Ringwood at thy heels:<lb/>
+O, odious is the name!<lb/>
+
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>What name, sir?<lb/>
+
+</p></sp><sp><speaker>PISTOL</speaker>
+<p>The horn, I say. Farewell.<lb/>
+Take heed, have open eye, for thieves do foot by night:<lb/>
+Take heed, ere summer comes or cuckoo-birds do sing.<lb/>
+Away, Sir Corporal Nym!<lb/>
+Believe it, Page; he speaks sense.<lb/>
+
+
+</p><p><stage>Exit</stage>
+
+
+</p></sp><sp><speaker>FORD</speaker>
+<p><stage>[Aside]</stage></p><p>  I will be patient; I will find out this.<lb/>
+
+</p></sp><sp><speaker>NYM</speaker>
+<p><stage>[To PAGE]</stage></p><p>  And this is true; I like not the humour<lb/>
+of lying. He hath wronged me in some humours: I<lb/>
+should have borne the humoured letter to her; but I<lb/>
+have a sword and it shall bite upon my necessity.<lb/>
+He loves your wife; there's the short and the long.<lb/>
+My name is Corporal Nym; I speak and I avouch; 'tis<lb/>
+true: my name is Nym and Falstaff loves your wife.<lb/>
+Adieu. I love not the humour of bread and cheese,<lb/>
+and there's the humour of it. Adieu.<lb/>
+
+
+</p><p><stage>Exit</stage>
+
+
+</p></sp><sp><speaker>PAGE</speaker>
+<p>'The humour of it,' quoth a'! here's a fellow<lb/>
+frights English out of his wits.<lb/>
+
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>I will seek out Falstaff.<lb/>
+
+</p></sp><sp><speaker>PAGE</speaker>
+<p>I never heard such a drawling, affecting rogue.<lb/>
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>If I do find it: well.<lb/>
+
+</p></sp><sp><speaker>PAGE</speaker>
+<p>I will not believe such a Cataian, though the priest<lb/>
+o' the town commended him for a true man.<lb/>
+
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>'Twas a good sensible fellow: well.<lb/>
+
+</p></sp><sp><speaker>PAGE</speaker>
+<p>How now, Meg!<lb/>
+
+</p><p><stage>MISTRESS PAGE and MISTRESS FORD come forward</stage>
+
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>Whither go you, George? Hark you.<lb/>
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p>How now, sweet Frank! why art thou melancholy?<lb/>
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>I melancholy! I am not melancholy. Get you home, go.<lb/>
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p>Faith, thou hast some crotchets in thy head. Now,<lb/>
+will you go, Mistress Page?<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>Have with you. You'll come to dinner, George.<lb/>
+
+</p><p><stage>Aside to MISTRESS FORD</stage></p>
+
+
+<p>
+Look who comes yonder: she shall be our messenger<lb/>
+to this paltry knight.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p><stage>[Aside to MISTRESS PAGE]</stage></p><p>  Trust me, I thought on her:<lb/>
+she'll fit it.<lb/>
+
+
+</p><p><stage>Enter MISTRESS QUICKLY</stage>
+
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>You are come to see my daughter Anne?<lb/>
+
+</p></sp><sp><speaker>MISTRESS QUICKLY</speaker>
+<p>Ay, forsooth; and, I pray, how does good Mistress Anne?<lb/>
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>Go in with us and see: we have an hour's talk with<lb/>
+you.<lb/>
+
+
+</p><p><stage>Exeunt MISTRESS PAGE, MISTRESS FORD, and MISTRESS QUICKLY</stage>
+
+
+</p></sp><sp><speaker>PAGE</speaker>
+<p>How now, Master Ford!<lb/>
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>You heard what this knave told me, did you not?<lb/>
+
+</p></sp><sp><speaker>PAGE</speaker>
+<p>Yes: and you heard what the other told me?<lb/>
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>Do you think there is truth in them?<lb/>
+
+</p></sp><sp><speaker>PAGE</speaker>
+<p>Hang 'em, slaves! I do not think the knight would<lb/>
+offer it: but these that accuse him in his intent<lb/>
+towards our wives are a yoke of his discarded men;<lb/>
+very rogues, now they be out of service.<lb/>
+
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>Were they his men?<lb/>
+
+</p></sp><sp><speaker>PAGE</speaker>
+<p>Marry, were they.<lb/>
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>I like it never the better for that. Does he lie at<lb/>
+the Garter?<lb/>
+
+
+</p></sp><sp><speaker>PAGE</speaker>
+<p>Ay, marry, does he. If he should intend this voyage<lb/>
+towards my wife, I would turn her loose to him; and<lb/>
+what he gets more of her than sharp words, let it<lb/>
+lie on my head.<lb/>
+
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>I do not misdoubt my wife; but I would be loath to<lb/>
+turn them together. A man may be too confident: I<lb/>
+would have nothing lie on my head: I cannot be thus satisfied.<lb/>
+
+
+</p></sp><sp><speaker>PAGE</speaker>
+<p>Look where my ranting host of the Garter comes:<lb/>
+there is either liquor in his pate or money in his<lb/>
+purse when he looks so merrily.<lb/>
+
+
+</p><p><stage>Enter Host</stage></p>
+
+
+<p>
+How now, mine host!<lb/>
+
+
+</p></sp><sp><speaker>Host</speaker>
+<p>How now, bully-rook! thou'rt a gentleman.<lb/>
+Cavaleiro-justice, I say!<lb/>
+
+
+</p><p><stage>Enter SHALLOW</stage>
+
+
+</p></sp><sp><speaker>SHALLOW</speaker>
+<p>I follow, mine host, I follow. Good even and<lb/>
+twenty, good Master Page! Master Page, will you go<lb/>
+with us? we have sport in hand.<lb/>
+
+
+</p></sp><sp><speaker>Host</speaker>
+<p>Tell him, cavaleiro-justice; tell him, bully-rook.<lb/>
+
+</p></sp><sp><speaker>SHALLOW</speaker>
+<p>Sir, there is a fray to be fought between Sir Hugh<lb/>
+the Welsh priest and Caius the French doctor.<lb/>
+
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>Good mine host o' the Garter, a word with you.<lb/>
+
+</p><p><stage>Drawing him aside</stage>
+
+
+</p></sp><sp><speaker>Host</speaker>
+<p>What sayest thou, my bully-rook?<lb/>
+
+</p></sp><sp><speaker>SHALLOW</speaker>
+<p><stage>[To PAGE]</stage></p><p>  Will you go with us to behold it? My<lb/>
+merry host hath had the measuring of their weapons;<lb/>
+and, I think, hath appointed them contrary places;<lb/>
+for, believe me, I hear the parson is no jester.<lb/>
+Hark, I will tell you what our sport shall be.<lb/>
+
+
+</p><p><stage>They converse apart</stage>
+
+
+</p></sp><sp><speaker>Host</speaker>
+<p>Hast thou no suit against my knight, my<lb/>
+guest-cavaleire?<lb/>
+
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>None, I protest: but I'll give you a pottle of<lb/>
+burnt sack to give me recourse to him and tell him<lb/>
+my name is Brook; only for a jest.<lb/>
+
+
+</p></sp><sp><speaker>Host</speaker>
+<p>My hand, bully; thou shalt have egress and regress;<lb/>
+&mdash;said I well?&mdash;and thy name shall be Brook. It is<lb/>
+a merry knight. Will you go, An-heires?<lb/>
+
+
+</p></sp><sp><speaker>SHALLOW</speaker>
+<p>Have with you, mine host.<lb/>
+
+</p></sp><sp><speaker>PAGE</speaker>
+<p>I have heard the Frenchman hath good skill in<lb/>
+his rapier.<lb/>
+
+
+</p></sp><sp><speaker>SHALLOW</speaker>
+<p>Tut, sir, I could have told you more. In these times<lb/>
+you stand on distance, your passes, stoccadoes, and<lb/>
+I know not what: 'tis the heart, Master Page; 'tis<lb/>
+here, 'tis here. I have seen the time, with my long<lb/>
+sword I would have made you four tall fellows skip like rats.<lb/>
+
+
+</p></sp><sp><speaker>Host</speaker>
+<p>Here, boys, here, here! shall we wag?<lb/>
+
+</p></sp><sp><speaker>PAGE</speaker>
+<p>Have with you. I would rather hear them scold than fight.<lb/>
+
+</p><p><stage>Exeunt Host, SHALLOW, and PAGE</stage>
+
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>Though Page be a secure fool, an stands so firmly<lb/>
+on his wife's frailty, yet I cannot put off my<lb/>
+opinion so easily: she was in his company at Page's<lb/>
+house; and what they made there, I know not. Well,<lb/>
+I will look further into't: and I have a disguise<lb/>
+to sound Falstaff. If I find her honest, I lose not<lb/>
+my labour; if she be otherwise, 'tis labour well bestowed.<lb/>
+
+
+</p></sp><p><stage>Exit</stage>
+
+
+
+</p></div2><div2 type="scene" n="2" id="d12">
+<head>Scene 2</head>
+
+<p><stage>A room in the Garter Inn.</stage>
+
+</p><p><stage>Enter FALSTAFF and PISTOL</stage>
+
+
+</p><sp><speaker>FALSTAFF</speaker>
+<p>I will not lend thee a penny.<lb/>
+
+</p></sp><sp><speaker>PISTOL</speaker>
+<p>Why, then the world's mine oyster.<lb/>
+Which I with sword will open.<lb/>
+
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>Not a penny. I have been content, sir, you should<lb/>
+lay my countenance to pawn; I have grated upon my<lb/>
+good friends for three reprieves for you and your<lb/>
+coach-fellow Nym; or else you had looked through<lb/>
+the grate, like a geminy of baboons. I am damned in<lb/>
+hell for swearing to gentlemen my friends, you were<lb/>
+good soldiers and tall fellows; and when Mistress<lb/>
+Bridget lost the handle of her fan, I took't upon<lb/>
+mine honour thou hadst it not.<lb/>
+
+
+</p></sp><sp><speaker>PISTOL</speaker>
+<p>Didst not thou share? hadst thou not fifteen pence?<lb/>
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>Reason, you rogue, reason: thinkest thou I'll<lb/>
+endanger my soul gratis? At a word, hang no more<lb/>
+about me, I am no gibbet for you. Go. A short knife<lb/>
+and a throng! To your manor of Pickt-hatch! Go.<lb/>
+You'll not bear a letter for me, you rogue! you<lb/>
+stand upon your honour! Why, thou unconfinable<lb/>
+baseness, it is as much as I can do to keep the<lb/>
+terms of my honour precise: I, I, I myself<lb/>
+sometimes, leaving the fear of God on the left hand<lb/>
+and hiding mine honour in my necessity, am fain to<lb/>
+shuffle, to hedge and to lurch; and yet you, rogue,<lb/>
+will ensconce your rags, your cat-a-mountain<lb/>
+looks, your red-lattice phrases, and your<lb/>
+bold-beating oaths, under the shelter of your<lb/>
+honour! You will not do it, you!<lb/>
+
+
+</p></sp><sp><speaker>PISTOL</speaker>
+<p>I do relent: what would thou more of man?<lb/>
+
+</p><p><stage>Enter ROBIN</stage>
+
+
+</p></sp><sp><speaker>ROBIN</speaker>
+<p>Sir, here's a woman would speak with you.<lb/>
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>Let her approach.<lb/>
+
+</p><p><stage>Enter MISTRESS QUICKLY</stage>
+
+
+</p></sp><sp><speaker>MISTRESS QUICKLY</speaker>
+<p>Give your worship good morrow.<lb/>
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>Good morrow, good wife.<lb/>
+
+</p></sp><sp><speaker>MISTRESS QUICKLY</speaker>
+<p>Not so, an't please your worship.<lb/>
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>Good maid, then.<lb/>
+
+</p></sp><sp><speaker>MISTRESS QUICKLY</speaker>
+<p>I'll be sworn,<lb/>
+As my mother was, the first hour I was born.<lb/>
+
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>I do believe the swearer. What with me?<lb/>
+
+</p></sp><sp><speaker>MISTRESS QUICKLY</speaker>
+<p>Shall I vouchsafe your worship a word or two?<lb/>
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>Two thousand, fair woman: and I'll vouchsafe thee<lb/>
+the hearing.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS QUICKLY</speaker>
+<p>There is one Mistress Ford, sir:&mdash;I pray, come a<lb/>
+little nearer this ways:&mdash;I myself dwell with master<lb/>
+Doctor Caius,&mdash;<lb/>
+
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>Well, on: Mistress Ford, you say,&mdash;<lb/>
+
+</p></sp><sp><speaker>MISTRESS QUICKLY</speaker>
+<p>Your worship says very true: I pray your worship,<lb/>
+come a little nearer this ways.<lb/>
+
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>I warrant thee, nobody hears; mine own people, mine<lb/>
+own people.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS QUICKLY</speaker>
+<p>Are they so? God bless them and make them his servants!<lb/>
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>Well, Mistress Ford; what of her?<lb/>
+
+</p></sp><sp><speaker>MISTRESS QUICKLY</speaker>
+<p>Why, sir, she's a good creature. Lord Lord! your<lb/>
+worship's a wanton! Well, heaven forgive you and all<lb/>
+of us, I pray!<lb/>
+
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>Mistress Ford; come, Mistress Ford,&mdash;<lb/>
+
+</p></sp><sp><speaker>MISTRESS QUICKLY</speaker>
+<p>Marry, this is the short and the long of it; you<lb/>
+have brought her into such a canaries as 'tis<lb/>
+wonderful. The best courtier of them all, when the<lb/>
+court lay at Windsor, could never have brought her<lb/>
+to such a canary. Yet there has been knights, and<lb/>
+lords, and gentlemen, with their coaches, I warrant<lb/>
+you, coach after coach, letter after letter, gift<lb/>
+after gift; smelling so sweetly, all musk, and so<lb/>
+rushling, I warrant you, in silk and gold; and in<lb/>
+such alligant terms; and in such wine and sugar of<lb/>
+the best and the fairest, that would have won any<lb/>
+woman's heart; and, I warrant you, they could never<lb/>
+get an eye-wink of her: I had myself twenty angels<lb/>
+given me this morning; but I defy all angels, in<lb/>
+any such sort, as they say, but in the way of<lb/>
+honesty: and, I warrant you, they could never get<lb/>
+her so much as sip on a cup with the proudest of<lb/>
+them all: and yet there has been earls, nay, which<lb/>
+is more, pensioners; but, I warrant you, all is one with her.<lb/>
+
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>But what says she to me? be brief, my good<lb/>
+she-Mercury.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS QUICKLY</speaker>
+<p>Marry, she hath received your letter, for the which<lb/>
+she thanks you a thousand times; and she gives you<lb/>
+to notify that her husband will be absence from his<lb/>
+house between ten and eleven.<lb/>
+
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>Ten and eleven?<lb/>
+
+</p></sp><sp><speaker>MISTRESS QUICKLY</speaker>
+<p>Ay, forsooth; and then you may come and see the<lb/>
+picture, she says, that you wot of: Master Ford,<lb/>
+her husband, will be from home. Alas! the sweet<lb/>
+woman leads an ill life with him: he's a very<lb/>
+jealousy man: she leads a very frampold life with<lb/>
+him, good heart.<lb/>
+
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>Ten and eleven. Woman, commend me to her; I will<lb/>
+not fail her.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS QUICKLY</speaker>
+<p>Why, you say well. But I have another messenger to<lb/>
+your worship. Mistress Page hath her hearty<lb/>
+commendations to you too: and let me tell you in<lb/>
+your ear, she's as fartuous a civil modest wife, and<lb/>
+one, I tell you, that will not miss you morning nor<lb/>
+evening prayer, as any is in Windsor, whoe'er be the<lb/>
+other: and she bade me tell your worship that her<lb/>
+husband is seldom from home; but she hopes there<lb/>
+will come a time. I never knew a woman so dote upon<lb/>
+a man: surely I think you have charms, la; yes, in truth.<lb/>
+
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>Not I, I assure thee: setting the attractions of my<lb/>
+good parts aside I have no other charms.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS QUICKLY</speaker>
+<p>Blessing on your heart for't!<lb/>
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>But, I pray thee, tell me this: has Ford's wife and<lb/>
+Page's wife acquainted each other how they love me?<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS QUICKLY</speaker>
+<p>That were a jest indeed! they have not so little<lb/>
+grace, I hope: that were a trick indeed! but<lb/>
+Mistress Page would desire you to send her your<lb/>
+little page, of all loves: her husband has a<lb/>
+marvellous infection to the little page; and truly<lb/>
+Master Page is an honest man. Never a wife in<lb/>
+Windsor leads a better life than she does: do what<lb/>
+she will, say what she will, take all, pay all, go<lb/>
+to bed when she list, rise when she list, all is as<lb/>
+she will: and truly she deserves it; for if there<lb/>
+be a kind woman in Windsor, she is one. You must<lb/>
+send her your page; no remedy.<lb/>
+
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>Why, I will.<lb/>
+
+</p></sp><sp><speaker>MISTRESS QUICKLY</speaker>
+<p>Nay, but do so, then: and, look you, he may come and<lb/>
+go between you both; and in any case have a<lb/>
+nay-word, that you may know one another's mind, and<lb/>
+the boy never need to understand any thing; for<lb/>
+'tis not good that children should know any<lb/>
+wickedness: old folks, you know, have discretion,<lb/>
+as they say, and know the world.<lb/>
+
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>Fare thee well: commend me to them both: there's<lb/>
+my purse; I am yet thy debtor. Boy, go along with<lb/>
+this woman.<lb/>
+
+
+</p><p><stage>Exeunt MISTRESS QUICKLY and ROBIN</stage></p>
+
+
+<p>
+This news distracts me!<lb/>
+
+
+</p></sp><sp><speaker>PISTOL</speaker>
+<p>This punk is one of Cupid's carriers:<lb/>
+Clap on more sails; pursue; up with your fights:<lb/>
+Give fire: she is my prize, or ocean whelm them all!<lb/>
+
+
+</p><p><stage>Exit</stage>
+
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>Sayest thou so, old Jack? go thy ways; I'll make<lb/>
+more of thy old body than I have done. Will they<lb/>
+yet look after thee? Wilt thou, after the expense<lb/>
+of so much money, be now a gainer? Good body, I<lb/>
+thank thee. Let them say 'tis grossly done; so it be<lb/>
+fairly done, no matter.<lb/>
+
+
+</p><p><stage>Enter BARDOLPH</stage>
+
+
+</p></sp><sp><speaker>BARDOLPH</speaker>
+<p>Sir John, there's one Master Brook below would fain<lb/>
+speak with you, and be acquainted with you; and hath<lb/>
+sent your worship a morning's draught of sack.<lb/>
+
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>Brook is his name?<lb/>
+
+</p></sp><sp><speaker>BARDOLPH</speaker>
+<p>Ay, sir.<lb/>
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>Call him in.<lb/>
+
+</p><p><stage>Exit BARDOLPH</stage></p>
+
+
+<p>
+Such Brooks are welcome to me, that o'erflow such<lb/>
+liquor. Ah, ha! Mistress Ford and Mistress Page<lb/>
+have I encompassed you? go to; via!<lb/>
+
+
+</p><p><stage>Re-enter BARDOLPH, with FORD disguised</stage>
+
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>Bless you, sir!<lb/>
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>And you, sir! Would you speak with me?<lb/>
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>I make bold to press with so little preparation upon<lb/>
+you.<lb/>
+
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>You're welcome. What's your will? Give us leave, drawer.<lb/>
+
+</p><p><stage>Exit BARDOLPH</stage>
+
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>Sir, I am a gentleman that have spent much; my name is Brook.<lb/>
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>Good Master Brook, I desire more acquaintance of you.<lb/>
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>Good Sir John, I sue for yours: not to charge you;<lb/>
+for I must let you understand I think myself in<lb/>
+better plight for a lender than you are: the which<lb/>
+hath something embolden'd me to this unseasoned<lb/>
+intrusion; for they say, if money go before, all<lb/>
+ways do lie open.<lb/>
+
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>Money is a good soldier, sir, and will on.<lb/>
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>Troth, and I have a bag of money here troubles me:<lb/>
+if you will help to bear it, Sir John, take all, or<lb/>
+half, for easing me of the carriage.<lb/>
+
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>Sir, I know not how I may deserve to be your porter.<lb/>
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>I will tell you, sir, if you will give me the hearing.<lb/>
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>Speak, good Master Brook: I shall be glad to be<lb/>
+your servant.<lb/>
+
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>Sir, I hear you are a scholar,&mdash;I will be brief<lb/>
+with you,&mdash;and you have been a man long known to me,<lb/>
+though I had never so good means, as desire, to make<lb/>
+myself acquainted with you. I shall discover a<lb/>
+thing to you, wherein I must very much lay open mine<lb/>
+own imperfection: but, good Sir John, as you have<lb/>
+one eye upon my follies, as you hear them unfolded,<lb/>
+turn another into the register of your own; that I<lb/>
+may pass with a reproof the easier, sith you<lb/>
+yourself know how easy it is to be such an offender.<lb/>
+
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>Very well, sir; proceed.<lb/>
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>There is a gentlewoman in this town; her husband's<lb/>
+name is Ford.<lb/>
+
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>Well, sir.<lb/>
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>I have long loved her, and, I protest to you,<lb/>
+bestowed much on her; followed her with a doting<lb/>
+observance; engrossed opportunities to meet her;<lb/>
+fee'd every slight occasion that could but niggardly<lb/>
+give me sight of her; not only bought many presents<lb/>
+to give her, but have given largely to many to know<lb/>
+what she would have given; briefly, I have pursued<lb/>
+her as love hath pursued me; which hath been on the<lb/>
+wing of all occasions. But whatsoever I have<lb/>
+merited, either in my mind or, in my means, meed,<lb/>
+I am sure, I have received none; unless experience<lb/>
+be a jewel that I have purchased at an infinite<lb/>
+rate, and that hath taught me to say this:<lb/>
+
+'Love like a shadow flies when substance love pursues;<lb/>
+Pursuing that that flies, and flying what pursues.'<lb/>
+
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>Have you received no promise of satisfaction at her hands?<lb/>
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>Never.<lb/>
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>Have you importuned her to such a purpose?<lb/>
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>Never.<lb/>
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>Of what quality was your love, then?<lb/>
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>Like a fair house built on another man's ground; so<lb/>
+that I have lost my edifice by mistaking the place<lb/>
+where I erected it.<lb/>
+
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>To what purpose have you unfolded this to me?<lb/>
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>When I have told you that, I have told you all.<lb/>
+Some say, that though she appear honest to me, yet in<lb/>
+other places she enlargeth her mirth so far that<lb/>
+there is shrewd construction made of her. Now, Sir<lb/>
+John, here is the heart of my purpose: you are a<lb/>
+gentleman of excellent breeding, admirable<lb/>
+discourse, of great admittance, authentic in your<lb/>
+place and person, generally allowed for your many<lb/>
+war-like, court-like, and learned preparations.<lb/>
+
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>O, sir!<lb/>
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>Believe it, for you know it. There is money; spend<lb/>
+it, spend it; spend more; spend all I have; only<lb/>
+give me so much of your time in exchange of it, as<lb/>
+to lay an amiable siege to the honesty of this<lb/>
+Ford's wife: use your art of wooing; win her to<lb/>
+consent to you: if any man may, you may as soon as<lb/>
+any.<lb/>
+
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>Would it apply well to the vehemency of your<lb/>
+affection, that I should win what you would enjoy?<lb/>
+Methinks you prescribe to yourself very preposterously.<lb/>
+
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>O, understand my drift. She dwells so securely on<lb/>
+the excellency of her honour, that the folly of my<lb/>
+soul dares not present itself: she is too bright to<lb/>
+be looked against. Now, could I could come to her<lb/>
+with any detection in my hand, my desires had<lb/>
+instance and argument to commend themselves: I<lb/>
+could drive her then from the ward of her purity,<lb/>
+her reputation, her marriage-vow, and a thousand<lb/>
+other her defences, which now are too too strongly<lb/>
+embattled against me. What say you to't, Sir John?<lb/>
+
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>Master Brook, I will first make bold with your<lb/>
+money; next, give me your hand; and last, as I am a<lb/>
+gentleman, you shall, if you will, enjoy Ford's wife.<lb/>
+
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>O good sir!<lb/>
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>I say you shall.<lb/>
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>Want no money, Sir John; you shall want none.<lb/>
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>Want no Mistress Ford, Master Brook; you shall want<lb/>
+none. I shall be with her, I may tell you, by her<lb/>
+own appointment; even as you came in to me, her<lb/>
+assistant or go-between parted from me: I say I<lb/>
+shall be with her between ten and eleven; for at<lb/>
+that time the jealous rascally knave her husband<lb/>
+will be forth. Come you to me at night; you shall<lb/>
+know how I speed.<lb/>
+
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>I am blest in your acquaintance. Do you know Ford,<lb/>
+sir?<lb/>
+
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>Hang him, poor cuckoldly knave! I know him not:<lb/>
+yet I wrong him to call him poor; they say the<lb/>
+jealous wittolly knave hath masses of money; for the<lb/>
+which his wife seems to me well-favored. I will<lb/>
+use her as the key of the cuckoldly rogue's coffer;<lb/>
+and there's my harvest-home.<lb/>
+
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>I would you knew Ford, sir, that you might avoid him<lb/>
+if you saw him.<lb/>
+
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>Hang him, mechanical salt-butter rogue! I will<lb/>
+stare him out of his wits; I will awe him with my<lb/>
+cudgel: it shall hang like a meteor o'er the<lb/>
+cuckold's horns. Master Brook, thou shalt know I<lb/>
+will predominate over the peasant, and thou shalt<lb/>
+lie with his wife. Come to me soon at night.<lb/>
+Ford's a knave, and I will aggravate his style;<lb/>
+thou, Master Brook, shalt know him for knave and<lb/>
+cuckold. Come to me soon at night.<lb/>
+
+
+</p><p><stage>Exit</stage>
+
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>What a damned Epicurean rascal is this! My heart is<lb/>
+ready to crack with impatience. Who says this is<lb/>
+improvident jealousy? my wife hath sent to him; the<lb/>
+hour is fixed; the match is made. Would any man<lb/>
+have thought this? See the hell of having a false<lb/>
+woman! My bed shall be abused, my coffers<lb/>
+ransacked, my reputation gnawn at; and I shall not<lb/>
+only receive this villanous wrong, but stand under<lb/>
+the adoption of abominable terms, and by him that<lb/>
+does me this wrong. Terms! names! Amaimon sounds<lb/>
+well; Lucifer, well; Barbason, well; yet they are<lb/>
+devils' additions, the names of fiends: but<lb/>
+Cuckold! Wittol!&mdash;Cuckold! the devil himself hath<lb/>
+not such a name. Page is an ass, a secure ass: he<lb/>
+will trust his wife; he will not be jealous. I will<lb/>
+rather trust a Fleming with my butter, Parson Hugh<lb/>
+the Welshman with my cheese, an Irishman with my<lb/>
+aqua-vitae bottle, or a thief to walk my ambling<lb/>
+gelding, than my wife with herself; then she plots,<lb/>
+then she ruminates, then she devises; and what they<lb/>
+think in their hearts they may effect, they will<lb/>
+break their hearts but they will effect. God be<lb/>
+praised for my jealousy! Eleven o'clock the hour.<lb/>
+I will prevent this, detect my wife, be revenged on<lb/>
+Falstaff, and laugh at Page. I will about it;<lb/>
+better three hours too soon than a minute too late.<lb/>
+Fie, fie, fie! cuckold! cuckold! cuckold!<lb/>
+
+
+</p></sp><p><stage>Exit</stage>
+
+
+
+</p></div2><div2 type="scene" n="3" id="d13">
+<head>Scene 3</head>
+
+<p><stage>A field near Windsor.</stage>
+
+</p><p><stage>Enter DOCTOR CAIUS and RUGBY</stage>
+
+
+</p><sp><speaker>DOCTOR CAIUS</speaker>
+<p>Jack Rugby!<lb/>
+
+</p></sp><sp><speaker>RUGBY</speaker>
+<p>Sir?<lb/>
+
+</p></sp><sp><speaker>DOCTOR CAIUS</speaker>
+<p>Vat is de clock, Jack?<lb/>
+
+</p></sp><sp><speaker>RUGBY</speaker>
+<p>'Tis past the hour, sir, that Sir Hugh promised to meet.<lb/>
+
+</p></sp><sp><speaker>DOCTOR CAIUS</speaker>
+<p>By gar, he has save his soul, dat he is no come; he<lb/>
+has pray his Pible well, dat he is no come: by gar,<lb/>
+Jack Rugby, he is dead already, if he be come.<lb/>
+
+
+</p></sp><sp><speaker>RUGBY</speaker>
+<p>He is wise, sir; he knew your worship would kill<lb/>
+him, if he came.<lb/>
+
+
+</p></sp><sp><speaker>DOCTOR CAIUS</speaker>
+<p>By gar, de herring is no dead so as I vill kill him.<lb/>
+Take your rapier, Jack; I vill tell you how I vill kill him.<lb/>
+
+
+</p></sp><sp><speaker>RUGBY</speaker>
+<p>Alas, sir, I cannot fence.<lb/>
+
+</p></sp><sp><speaker>DOCTOR CAIUS</speaker>
+<p>Villany, take your rapier.<lb/>
+
+</p></sp><sp><speaker>RUGBY</speaker>
+<p>Forbear; here's company.<lb/>
+
+</p><p><stage>Enter Host, SHALLOW, SLENDER, and PAGE</stage>
+
+
+</p></sp><sp><speaker>Host</speaker>
+<p>Bless thee, bully doctor!<lb/>
+
+</p></sp><sp><speaker>SHALLOW</speaker>
+<p>Save you, Master Doctor Caius!<lb/>
+
+</p></sp><sp><speaker>PAGE</speaker>
+<p>Now, good master doctor!<lb/>
+
+</p></sp><sp><speaker>SLENDER</speaker>
+<p>Give you good morrow, sir.<lb/>
+
+</p></sp><sp><speaker>DOCTOR CAIUS</speaker>
+<p>Vat be all you, one, two, tree, four, come for?<lb/>
+
+</p></sp><sp><speaker>Host</speaker>
+<p>To see thee fight, to see thee foin, to see thee<lb/>
+traverse; to see thee here, to see thee there; to<lb/>
+see thee pass thy punto, thy stock, thy reverse, thy<lb/>
+distance, thy montant. Is he dead, my Ethiopian? is<lb/>
+he dead, my Francisco? ha, bully! What says my<lb/>
+AEsculapius? my Galen? my heart of elder? ha! is<lb/>
+he dead, bully stale? is he dead?<lb/>
+
+
+</p></sp><sp><speaker>DOCTOR CAIUS</speaker>
+<p>By gar, he is de coward Jack priest of de vorld; he<lb/>
+is not show his face.<lb/>
+
+
+</p></sp><sp><speaker>Host</speaker>
+<p>Thou art a Castalion-King-Urinal. Hector of Greece, my boy!<lb/>
+
+</p></sp><sp><speaker>DOCTOR CAIUS</speaker>
+<p>I pray you, bear vitness that me have stay six or<lb/>
+seven, two, tree hours for him, and he is no come.<lb/>
+
+
+</p></sp><sp><speaker>SHALLOW</speaker>
+<p>He is the wiser man, master doctor: he is a curer of<lb/>
+souls, and you a curer of bodies; if you should<lb/>
+fight, you go against the hair of your professions.<lb/>
+Is it not true, Master Page?<lb/>
+
+
+</p></sp><sp><speaker>PAGE</speaker>
+<p>Master Shallow, you have yourself been a great<lb/>
+fighter, though now a man of peace.<lb/>
+
+
+</p></sp><sp><speaker>SHALLOW</speaker>
+<p>Bodykins, Master Page, though I now be old and of<lb/>
+the peace, if I see a sword out, my finger itches to<lb/>
+make one. Though we are justices and doctors and<lb/>
+churchmen, Master Page, we have some salt of our<lb/>
+youth in us; we are the sons of women, Master Page.<lb/>
+
+
+</p></sp><sp><speaker>PAGE</speaker>
+<p>'Tis true, Master Shallow.<lb/>
+
+</p></sp><sp><speaker>SHALLOW</speaker>
+<p>It will be found so, Master Page. Master Doctor<lb/>
+Caius, I am come to fetch you home. I am sworn of<lb/>
+the peace: you have showed yourself a wise<lb/>
+physician, and Sir Hugh hath shown himself a wise<lb/>
+and patient churchman. You must go with me, master doctor.<lb/>
+
+
+</p></sp><sp><speaker>Host</speaker>
+<p>Pardon, guest-justice. A word, Mounseur Mockwater.<lb/>
+
+</p></sp><sp><speaker>DOCTOR CAIUS</speaker>
+<p>Mock-vater! vat is dat?<lb/>
+
+</p></sp><sp><speaker>Host</speaker>
+<p>Mock-water, in our English tongue, is valour, bully.<lb/>
+
+</p></sp><sp><speaker>DOCTOR CAIUS</speaker>
+<p>By gar, den, I have as mush mock-vater as de<lb/>
+Englishman. Scurvy jack-dog priest! by gar, me<lb/>
+vill cut his ears.<lb/>
+
+
+</p></sp><sp><speaker>Host</speaker>
+<p>He will clapper-claw thee tightly, bully.<lb/>
+
+</p></sp><sp><speaker>DOCTOR CAIUS</speaker>
+<p>Clapper-de-claw! vat is dat?<lb/>
+
+</p></sp><sp><speaker>Host</speaker>
+<p>That is, he will make thee amends.<lb/>
+
+</p></sp><sp><speaker>DOCTOR CAIUS</speaker>
+<p>By gar, me do look he shall clapper-de-claw me;<lb/>
+for, by gar, me vill have it.<lb/>
+
+
+</p></sp><sp><speaker>Host</speaker>
+<p>And I will provoke him to't, or let him wag.<lb/>
+
+</p></sp><sp><speaker>DOCTOR CAIUS</speaker>
+<p>Me tank you for dat.<lb/>
+
+</p></sp><sp><speaker>Host</speaker>
+<p>And, moreover, bully,&mdash;but first, master guest, and<lb/>
+Master Page, and eke Cavaleiro Slender, go you<lb/>
+through the town to Frogmore.<lb/>
+
+
+</p><p><stage>Aside to them</stage>
+
+
+</p></sp><sp><speaker>PAGE</speaker>
+<p>Sir Hugh is there, is he?<lb/>
+
+</p></sp><sp><speaker>Host</speaker>
+<p>He is there: see what humour he is in; and I will<lb/>
+bring the doctor about by the fields. Will it do well?<lb/>
+
+
+</p></sp><sp><speaker>PAGE, SHALLOW, Slender</speaker>
+<p>We will do it.<lb/>
+
+</p><p><stage>Exeunt PAGE, SHALLOW, and SLENDER</stage>
+
+
+</p></sp><sp><speaker>DOCTOR CAIUS</speaker>
+<p>By gar, me vill kill de priest; for he speak for a<lb/>
+jack-an-ape to Anne Page.<lb/>
+
+
+</p></sp><sp><speaker>Host</speaker>
+<p>Let him die: sheathe thy impatience, throw cold<lb/>
+water on thy choler: go about the fields with me<lb/>
+through Frogmore: I will bring thee where Mistress<lb/>
+Anne Page is, at a farm-house a-feasting; and thou<lb/>
+shalt woo her. Cried I aim? said I well?<lb/>
+
+
+</p></sp><sp><speaker>DOCTOR CAIUS</speaker>
+<p>By gar, me dank you for dat: by gar, I love you;<lb/>
+and I shall procure-a you de good guest, de earl,<lb/>
+de knight, de lords, de gentlemen, my patients.<lb/>
+
+
+</p></sp><sp><speaker>Host</speaker>
+<p>For the which I will be thy adversary toward Anne<lb/>
+Page. Said I well?<lb/>
+
+
+</p></sp><sp><speaker>DOCTOR CAIUS</speaker>
+<p>By gar, 'tis good; vell said.<lb/>
+
+</p></sp><sp><speaker>Host</speaker>
+<p>Let us wag, then.<lb/>
+
+</p></sp><sp><speaker>DOCTOR CAIUS</speaker>
+<p>Come at my heels, Jack Rugby.<lb/>
+
+</p></sp><p><stage>Exeunt</stage></p>
+
+
+
+</div2>
+
+</div1>
+
+<div1 type="act" n="3" id="d14">
+<head>Act 3</head>
+
+<div2 type="scene" n="1" id="d15">
+<head>Scene 1</head>
+
+<p><stage>A field near Frogmore.</stage>
+
+</p><p><stage>Enter SIR HUGH EVANS and SIMPLE</stage>
+
+
+</p><sp><speaker>SIR HUGH EVANS</speaker>
+<p>I pray you now, good master Slender's serving-man,<lb/>
+and friend Simple by your name, which way have you<lb/>
+looked for Master Caius, that calls himself doctor of physic?<lb/>
+
+
+</p></sp><sp><speaker>SIMPLE</speaker>
+<p>Marry, sir, the pittie-ward, the park-ward, every<lb/>
+way; old Windsor way, and every way but the town<lb/>
+way.<lb/>
+
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p>I most fehemently desire you you will also look that<lb/>
+way.<lb/>
+
+
+</p></sp><sp><speaker>SIMPLE</speaker>
+<p>I will, sir.<lb/>
+
+</p><p><stage>Exit</stage>
+
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p>'Pless my soul, how full of chollors I am, and<lb/>
+trempling of mind! I shall be glad if he have<lb/>
+deceived me. How melancholies I am! I will knog<lb/>
+his urinals about his knave's costard when I have<lb/>
+good opportunities for the ork. 'Pless my soul!<lb/>
+
+
+</p><p><stage>Sings</stage></p>
+
+
+<p>
+To shallow rivers, to whose falls<lb/>
+Melodious birds sings madrigals;<lb/>
+There will we make our peds of roses,<lb/>
+And a thousand fragrant posies.<lb/>
+To shallow&mdash;<lb/>
+
+Mercy on me! I have a great dispositions to cry.<lb/>
+
+
+</p><p><stage>Sings</stage></p>
+
+
+<p>
+Melodious birds sing madrigals&mdash;<lb/>
+When as I sat in Pabylon&mdash;<lb/>
+And a thousand vagram posies.<lb/>
+To shallow &amp;c.<lb/>
+
+
+</p><p><stage>Re-enter SIMPLE</stage>
+
+
+</p></sp><sp><speaker>SIMPLE</speaker>
+<p>Yonder he is coming, this way, Sir Hugh.<lb/>
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p>He's welcome.<lb/>
+
+</p><p><stage>Sings</stage></p>
+
+
+<p>
+To shallow rivers, to whose falls-<lb/>
+Heaven prosper the right! What weapons is he?<lb/>
+
+
+</p></sp><sp><speaker>SIMPLE</speaker>
+<p>No weapons, sir. There comes my master, Master<lb/>
+Shallow, and another gentleman, from Frogmore, over<lb/>
+the stile, this way.<lb/>
+
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p>Pray you, give me my gown; or else keep it in your arms.<lb/>
+
+</p><p><stage>Enter PAGE, SHALLOW, and SLENDER</stage>
+
+
+</p></sp><sp><speaker>SHALLOW</speaker>
+<p>How now, master Parson! Good morrow, good Sir Hugh.<lb/>
+Keep a gamester from the dice, and a good student<lb/>
+from his book, and it is wonderful.<lb/>
+
+
+</p></sp><sp><speaker>SLENDER</speaker>
+<p><stage>[Aside]</stage></p><p>  Ah, sweet Anne Page!<lb/>
+
+</p></sp><sp><speaker>PAGE</speaker>
+<p>'Save you, good Sir Hugh!<lb/>
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p>'Pless you from his mercy sake, all of you!<lb/>
+
+</p></sp><sp><speaker>SHALLOW</speaker>
+<p>What, the sword and the word! do you study them<lb/>
+both, master parson?<lb/>
+
+
+</p></sp><sp><speaker>PAGE</speaker>
+<p>And youthful still! in your doublet and hose this<lb/>
+raw rheumatic day!<lb/>
+
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p>There is reasons and causes for it.<lb/>
+
+</p></sp><sp><speaker>PAGE</speaker>
+<p>We are come to you to do a good office, master parson.<lb/>
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p>Fery well: what is it?<lb/>
+
+</p></sp><sp><speaker>PAGE</speaker>
+<p>Yonder is a most reverend gentleman, who, belike<lb/>
+having received wrong by some person, is at most<lb/>
+odds with his own gravity and patience that ever you<lb/>
+saw.<lb/>
+
+
+</p></sp><sp><speaker>SHALLOW</speaker>
+<p>I have lived fourscore years and upward; I never<lb/>
+heard a man of his place, gravity and learning, so<lb/>
+wide of his own respect.<lb/>
+
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p>What is he?<lb/>
+
+</p></sp><sp><speaker>PAGE</speaker>
+<p>I think you know him; Master Doctor Caius, the<lb/>
+renowned French physician.<lb/>
+
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p>Got's will, and his passion of my heart! I had as<lb/>
+lief you would tell me of a mess of porridge.<lb/>
+
+
+</p></sp><sp><speaker>PAGE</speaker>
+<p>Why?<lb/>
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p>He has no more knowledge in Hibocrates and Galen,<lb/>
+&mdash;and he is a knave besides; a cowardly knave as you<lb/>
+would desires to be acquainted withal.<lb/>
+
+
+</p></sp><sp><speaker>PAGE</speaker>
+<p>I warrant you, he's the man should fight with him.<lb/>
+
+</p></sp><sp><speaker>SHALLOW</speaker>
+<p><stage>[Aside]</stage></p><p>  O sweet Anne Page!<lb/>
+
+</p></sp><sp><speaker>SHALLOW</speaker>
+<p>It appears so by his weapons. Keep them asunder:<lb/>
+here comes Doctor Caius.<lb/>
+
+
+</p><p><stage>Enter Host, DOCTOR CAIUS, and RUGBY</stage>
+
+
+</p></sp><sp><speaker>PAGE</speaker>
+<p>Nay, good master parson, keep in your weapon.<lb/>
+
+</p></sp><sp><speaker>SHALLOW</speaker>
+<p>So do you, good master doctor.<lb/>
+
+</p></sp><sp><speaker>Host</speaker>
+<p>Disarm them, and let them question: let them keep<lb/>
+their limbs whole and hack our English.<lb/>
+
+
+</p></sp><sp><speaker>DOCTOR CAIUS</speaker>
+<p>I pray you, let-a me speak a word with your ear.<lb/>
+Vherefore vill you not meet-a me?<lb/>
+
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p><stage>[Aside to DOCTOR CAIUS]</stage></p><p>  Pray you, use your patience:<lb/>
+in good time.<lb/>
+
+
+</p></sp><sp><speaker>DOCTOR CAIUS</speaker>
+<p>By gar, you are de coward, de Jack dog, John ape.<lb/>
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p><stage>[Aside to DOCTOR CAIUS]</stage></p><p>  Pray you let us not be<lb/>
+laughing-stocks to other men's humours; I desire you<lb/>
+in friendship, and I will one way or other make you amends.<lb/>
+
+
+</p><p><stage>Aloud</stage></p>
+
+
+<p>
+I will knog your urinals about your knave's cockscomb<lb/>
+for missing your meetings and appointments.<lb/>
+
+
+</p></sp><sp><speaker>DOCTOR CAIUS</speaker>
+<p>Diable! Jack Rugby,&mdash;mine host de Jarteer,&mdash;have I<lb/>
+not stay for him to kill him? have I not, at de place<lb/>
+I did appoint?<lb/>
+
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p>As I am a Christians soul now, look you, this is the<lb/>
+place appointed: I'll be judgement by mine host of<lb/>
+the Garter.<lb/>
+
+
+</p></sp><sp><speaker>Host</speaker>
+<p>Peace, I say, Gallia and Gaul, French and Welsh,<lb/>
+soul-curer and body-curer!<lb/>
+
+
+</p></sp><sp><speaker>DOCTOR CAIUS</speaker>
+<p>Ay, dat is very good; excellent.<lb/>
+
+</p></sp><sp><speaker>Host</speaker>
+<p>Peace, I say! hear mine host of the Garter. Am I<lb/>
+politic? am I subtle? am I a Machiavel? Shall I<lb/>
+lose my doctor? no; he gives me the potions and the<lb/>
+motions. Shall I lose my parson, my priest, my Sir<lb/>
+Hugh? no; he gives me the proverbs and the<lb/>
+no-verbs. Give me thy hand, terrestrial; so. Give me<lb/>
+thy hand, celestial; so. Boys of art, I have<lb/>
+deceived you both; I have directed you to wrong<lb/>
+places: your hearts are mighty, your skins are<lb/>
+whole, and let burnt sack be the issue. Come, lay<lb/>
+their swords to pawn. Follow me, lads of peace;<lb/>
+follow, follow, follow.<lb/>
+
+
+</p></sp><sp><speaker>SHALLOW</speaker>
+<p>Trust me, a mad host. Follow, gentlemen, follow.<lb/>
+
+</p></sp><sp><speaker>SLENDER</speaker>
+<p><stage>[Aside]</stage></p><p>  O sweet Anne Page!<lb/>
+
+</p><p><stage>Exeunt SHALLOW, SLENDER, PAGE, and Host</stage>
+
+
+</p></sp><sp><speaker>DOCTOR CAIUS</speaker>
+<p>Ha, do I perceive dat? have you make-a de sot of<lb/>
+us, ha, ha?<lb/>
+
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p>This is well; he has made us his vlouting-stog. I<lb/>
+desire you that we may be friends; and let us knog<lb/>
+our prains together to be revenge on this same<lb/>
+scall, scurvy cogging companion, the host of the Garter.<lb/>
+
+
+</p></sp><sp><speaker>DOCTOR CAIUS</speaker>
+<p>By gar, with all my heart. He promise to bring me<lb/>
+where is Anne Page; by gar, he deceive me too.<lb/>
+
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p>Well, I will smite his noddles. Pray you, follow.<lb/>
+
+</p></sp><p><stage>Exeunt</stage>
+
+
+
+</p></div2><div2 type="scene" n="2" id="d16">
+<head>Scene 2</head>
+
+<p><stage>A street.</stage>
+
+</p><p><stage>Enter MISTRESS PAGE and ROBIN</stage>
+
+
+</p><sp><speaker>MISTRESS PAGE</speaker>
+<p>Nay, keep your way, little gallant; you were wont to<lb/>
+be a follower, but now you are a leader. Whether<lb/>
+had you rather lead mine eyes, or eye your master's heels?<lb/>
+
+
+</p></sp><sp><speaker>ROBIN</speaker>
+<p>I had rather, forsooth, go before you like a man<lb/>
+than follow him like a dwarf.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>O, you are a flattering boy: now I see you'll be a courtier.<lb/>
+
+</p><p><stage>Enter FORD</stage>
+
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>Well met, Mistress Page. Whither go you?<lb/>
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>Truly, sir, to see your wife. Is she at home?<lb/>
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>Ay; and as idle as she may hang together, for want<lb/>
+of company. I think, if your husbands were dead,<lb/>
+you two would marry.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>Be sure of that,&mdash;two other husbands.<lb/>
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>Where had you this pretty weather-cock?<lb/>
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>I cannot tell what the dickens his name is my<lb/>
+husband had him of. What do you call your knight's<lb/>
+name, sirrah?<lb/>
+
+
+</p></sp><sp><speaker>ROBIN</speaker>
+<p>Sir John Falstaff.<lb/>
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>Sir John Falstaff!<lb/>
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>He, he; I can never hit on's name. There is such a<lb/>
+league between my good man and he! Is your wife at<lb/>
+home indeed?<lb/>
+
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>Indeed she is.<lb/>
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>By your leave, sir: I am sick till I see her.<lb/>
+
+</p><p><stage>Exeunt MISTRESS PAGE and ROBIN</stage>
+
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>Has Page any brains? hath he any eyes? hath he any<lb/>
+thinking? Sure, they sleep; he hath no use of them.<lb/>
+Why, this boy will carry a letter twenty mile, as<lb/>
+easy as a cannon will shoot point-blank twelve<lb/>
+score. He pieces out his wife's inclination; he<lb/>
+gives her folly motion and advantage: and now she's<lb/>
+going to my wife, and Falstaff's boy with her. A<lb/>
+man may hear this shower sing in the wind. And<lb/>
+Falstaff's boy with her! Good plots, they are laid;<lb/>
+and our revolted wives share damnation together.<lb/>
+Well; I will take him, then torture my wife, pluck<lb/>
+the borrowed veil of modesty from the so seeming<lb/>
+Mistress Page, divulge Page himself for a secure and<lb/>
+wilful Actaeon; and to these violent proceedings all<lb/>
+my neighbours shall cry aim.<lb/>
+
+
+</p><p><stage>Clock heard</stage></p>
+
+
+<p>
+The clock gives me my cue, and my assurance bids me<lb/>
+search: there I shall find Falstaff: I shall be<lb/>
+rather praised for this than mocked; for it is as<lb/>
+positive as the earth is firm that Falstaff is<lb/>
+there: I will go.<lb/>
+
+
+</p><p><stage>Enter PAGE, SHALLOW, SLENDER, Host,	SIR HUGH EVANS, DOCTOR CAIUS, and RUGBY</stage>
+
+
+</p></sp><sp><speaker>SHALLOW, PAGE, &amp;C.</speaker>
+<p>Well met, Master Ford.<lb/>
+
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>Trust me, a good knot: I have good cheer at home;<lb/>
+and I pray you all go with me.<lb/>
+
+
+</p></sp><sp><speaker>SHALLOW</speaker>
+<p>I must excuse myself, Master Ford.<lb/>
+
+</p></sp><sp><speaker>SLENDER</speaker>
+<p>And so must I, sir: we have appointed to dine with<lb/>
+Mistress Anne, and I would not break with her for<lb/>
+more money than I'll speak of.<lb/>
+
+
+</p></sp><sp><speaker>SHALLOW</speaker>
+<p>We have lingered about a match between Anne Page and<lb/>
+my cousin Slender, and this day we shall have our answer.<lb/>
+
+
+</p></sp><sp><speaker>SLENDER</speaker>
+<p>I hope I have your good will, father Page.<lb/>
+
+</p></sp><sp><speaker>PAGE</speaker>
+<p>You have, Master Slender; I stand wholly for you:<lb/>
+but my wife, master doctor, is for you altogether.<lb/>
+
+
+</p></sp><sp><speaker>DOCTOR CAIUS</speaker>
+<p>Ay, be-gar; and de maid is love-a me: my nursh-a<lb/>
+Quickly tell me so mush.<lb/>
+
+
+</p></sp><sp><speaker>Host</speaker>
+<p>What say you to young Master Fenton? he capers, he<lb/>
+dances, he has eyes of youth, he writes verses, he<lb/>
+speaks holiday, he smells April and May: he will<lb/>
+carry't, he will carry't; 'tis in his buttons; he<lb/>
+will carry't.<lb/>
+
+
+</p></sp><sp><speaker>PAGE</speaker>
+<p>Not by my consent, I promise you. The gentleman is<lb/>
+of no having: he kept company with the wild prince<lb/>
+and Poins; he is of too high a region; he knows too<lb/>
+much. No, he shall not knit a knot in his fortunes<lb/>
+with the finger of my substance: if he take her,<lb/>
+let him take her simply; the wealth I have waits on<lb/>
+my consent, and my consent goes not that way.<lb/>
+
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>I beseech you heartily, some of you go home with me<lb/>
+to dinner: besides your cheer, you shall have<lb/>
+sport; I will show you a monster. Master doctor,<lb/>
+you shall go; so shall you, Master Page; and you, Sir Hugh.<lb/>
+
+
+</p></sp><sp><speaker>SHALLOW</speaker>
+<p>Well, fare you well: we shall have the freer wooing<lb/>
+at Master Page's.<lb/>
+
+
+</p><p><stage>Exeunt SHALLOW, and SLENDER</stage>
+
+
+</p></sp><sp><speaker>DOCTOR CAIUS</speaker>
+<p>Go home, John Rugby; I come anon.<lb/>
+
+</p><p><stage>Exit RUGBY</stage>
+
+
+</p></sp><sp><speaker>Host</speaker>
+<p>Farewell, my hearts: I will to my honest knight<lb/>
+Falstaff, and drink canary with him.<lb/>
+
+
+</p><p><stage>Exit</stage>
+
+
+</p></sp><sp><speaker>FORD</speaker>
+<p><stage>[Aside]</stage></p><p>  I think I shall drink in pipe wine first<lb/>
+with him; I'll make him dance. Will you go, gentles?<lb/>
+
+
+</p></sp><sp><speaker>All</speaker>
+<p>Have with you to see this monster.<lb/>
+
+</p></sp><p><stage>Exeunt</stage>
+
+
+
+</p></div2><div2 type="scene" n="3" id="d17">
+<head>Scene 3</head>
+
+<p><stage>A room in FORD'S house.</stage>
+
+</p><p><stage>Enter MISTRESS FORD and MISTRESS PAGE</stage>
+
+
+</p><sp><speaker>MISTRESS FORD</speaker>
+<p>What, John! What, Robert!<lb/>
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>Quickly, quickly! is the buck-basket&mdash;<lb/>
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p>I warrant. What, Robin, I say!<lb/>
+
+</p><p><stage>Enter Servants with a basket</stage>
+
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>Come, come, come.<lb/>
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p>Here, set it down.<lb/>
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>Give your men the charge; we must be brief.<lb/>
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p>Marry, as I told you before, John and Robert, be<lb/>
+ready here hard by in the brew-house: and when I<lb/>
+suddenly call you, come forth, and without any pause<lb/>
+or staggering take this basket on your shoulders:<lb/>
+that done, trudge with it in all haste, and carry<lb/>
+it among the whitsters in Datchet-mead, and there<lb/>
+empty it in the muddy ditch close by the Thames side.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>You will do it?<lb/>
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p>I ha' told them over and over; they lack no<lb/>
+direction. Be gone, and come when you are called.<lb/>
+
+
+</p><p><stage>Exeunt Servants</stage>
+
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>Here comes little Robin.<lb/>
+
+</p><p><stage>Enter ROBIN</stage>
+
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p>How now, my eyas-musket! what news with you?<lb/>
+
+</p></sp><sp><speaker>ROBIN</speaker>
+<p>My master, Sir John, is come in at your back-door,<lb/>
+Mistress Ford, and requests your company.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>You little Jack-a-Lent, have you been true to us?<lb/>
+
+</p></sp><sp><speaker>ROBIN</speaker>
+<p>Ay, I'll be sworn. My master knows not of your<lb/>
+being here and hath threatened to put me into<lb/>
+everlasting liberty if I tell you of it; for he<lb/>
+swears he'll turn me away.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>Thou'rt a good boy: this secrecy of thine shall be<lb/>
+a tailor to thee and shall make thee a new doublet<lb/>
+and hose. I'll go hide me.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p>Do so. Go tell thy master I am alone.<lb/>
+
+</p><p><stage>Exit ROBIN</stage></p>
+
+
+<p>
+Mistress Page, remember you your cue.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>I warrant thee; if I do not act it, hiss me.<lb/>
+
+</p><p><stage>Exit</stage>
+
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p>Go to, then: we'll use this unwholesome humidity,<lb/>
+this gross watery pumpion; we'll teach him to know<lb/>
+turtles from jays.<lb/>
+
+
+</p><p><stage>Enter FALSTAFF</stage>
+
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>Have I caught thee, my heavenly jewel? Why, now let<lb/>
+me die, for I have lived long enough: this is the<lb/>
+period of my ambition: O this blessed hour!<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p>O sweet Sir John!<lb/>
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>Mistress Ford, I cannot cog, I cannot prate,<lb/>
+Mistress Ford. Now shall I sin in my wish: I would<lb/>
+thy husband were dead: I'll speak it before the<lb/>
+best lord; I would make thee my lady.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p>I your lady, Sir John! alas, I should be a pitiful lady!<lb/>
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>Let the court of France show me such another. I see<lb/>
+how thine eye would emulate the diamond: thou hast<lb/>
+the right arched beauty of the brow that becomes the<lb/>
+ship-tire, the tire-valiant, or any tire of<lb/>
+Venetian admittance.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p>A plain kerchief, Sir John: my brows become nothing<lb/>
+else; nor that well neither.<lb/>
+
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>By the Lord, thou art a traitor to say so: thou<lb/>
+wouldst make an absolute courtier; and the firm<lb/>
+fixture of thy foot would give an excellent motion<lb/>
+to thy gait in a semi-circled farthingale. I see<lb/>
+what thou wert, if Fortune thy foe were not, Nature<lb/>
+thy friend. Come, thou canst not hide it.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p>Believe me, there is no such thing in me.<lb/>
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>What made me love thee? let that persuade thee<lb/>
+there's something extraordinary in thee. Come, I<lb/>
+cannot cog and say thou art this and that, like a<lb/>
+many of these lisping hawthorn-buds, that come like<lb/>
+women in men's apparel, and smell like Bucklersbury<lb/>
+in simple time; I cannot: but I love thee; none<lb/>
+but thee; and thou deservest it.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p>Do not betray me, sir. I fear you love Mistress Page.<lb/>
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>Thou mightst as well say I love to walk by the<lb/>
+Counter-gate, which is as hateful to me as the reek<lb/>
+of a lime-kiln.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p>Well, heaven knows how I love you; and you shall one<lb/>
+day find it.<lb/>
+
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>Keep in that mind; I'll deserve it.<lb/>
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p>Nay, I must tell you, so you do; or else I could not<lb/>
+be in that mind.<lb/>
+
+
+</p></sp><sp><speaker>ROBIN</speaker>
+<p><stage>[Within]</stage></p><p>  Mistress Ford, Mistress Ford! here's<lb/>
+Mistress Page at the door, sweating and blowing and<lb/>
+looking wildly, and would needs speak with you presently.<lb/>
+
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>She shall not see me: I will ensconce me behind the arras.<lb/>
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p>Pray you, do so: she's a very tattling woman.<lb/>
+
+</p><p><stage>FALSTAFF hides himself</stage>
+
+
+
+</p><p><stage>Re-enter MISTRESS PAGE and ROBIN</stage></p>
+
+
+<p>
+What's the matter? how now!<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>O Mistress Ford, what have you done? You're shamed,<lb/>
+you're overthrown, you're undone for ever!<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p>What's the matter, good Mistress Page?<lb/>
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>O well-a-day, Mistress Ford! having an honest man<lb/>
+to your husband, to give him such cause of suspicion!<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p>What cause of suspicion?<lb/>
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>What cause of suspicion! Out pon you! how am I<lb/>
+mistook in you!<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p>Why, alas, what's the matter?<lb/>
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>Your husband's coming hither, woman, with all the<lb/>
+officers in Windsor, to search for a gentleman that<lb/>
+he says is here now in the house by your consent, to<lb/>
+take an ill advantage of his assence: you are undone.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p>'Tis not so, I hope.<lb/>
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>Pray heaven it be not so, that you have such a man<lb/>
+here! but 'tis most certain your husband's coming,<lb/>
+with half Windsor at his heels, to search for such a<lb/>
+one. I come before to tell you. If you know<lb/>
+yourself clear, why, I am glad of it; but if you<lb/>
+have a friend here convey, convey him out. Be not<lb/>
+amazed; call all your senses to you; defend your<lb/>
+reputation, or bid farewell to your good life for ever.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p>What shall I do? There is a gentleman my dear<lb/>
+friend; and I fear not mine own shame so much as his<lb/>
+peril: I had rather than a thousand pound he were<lb/>
+out of the house.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>For shame! never stand 'you had rather' and 'you<lb/>
+had rather:' your husband's here at hand, bethink<lb/>
+you of some conveyance: in the house you cannot<lb/>
+hide him. O, how have you deceived me! Look, here<lb/>
+is a basket: if he be of any reasonable stature, he<lb/>
+may creep in here; and throw foul linen upon him, as<lb/>
+if it were going to bucking: or&mdash;it is whiting-time<lb/>
+&mdash;send him by your two men to Datchet-mead.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p>He's too big to go in there. What shall I do?<lb/>
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p><stage>[Coming forward]</stage></p><p>  Let me see't, let me see't, O, let<lb/>
+me see't! I'll in, I'll in. Follow your friend's<lb/>
+counsel. I'll in.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>What, Sir John Falstaff! Are these your letters, knight?<lb/>
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>I love thee. Help me away. Let me creep in here.<lb/>
+I'll never&mdash;<lb/>
+
+
+</p><p><stage>Gets into the basket; they cover him with foul linen</stage>
+
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>Help to cover your master, boy. Call your men,<lb/>
+Mistress Ford. You dissembling knight!<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p>What, John! Robert! John!<lb/>
+
+</p><p><stage>Exit ROBIN</stage>
+
+
+
+</p><p><stage>Re-enter Servants</stage></p>
+
+
+<p>
+Go take up these clothes here quickly. Where's the<lb/>
+cowl-staff? look, how you drumble! Carry them to<lb/>
+the laundress in Datchet-meat; quickly, come.<lb/>
+
+
+</p><p><stage>Enter FORD, PAGE, DOCTOR CAIUS, and SIR HUGH EVANS</stage>
+
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>Pray you, come near: if I suspect without cause,<lb/>
+why then make sport at me; then let me be your jest;<lb/>
+I deserve it. How now! whither bear you this?<lb/>
+
+
+</p></sp><sp><speaker>Servant</speaker>
+<p>To the laundress, forsooth.<lb/>
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p>Why, what have you to do whither they bear it? You<lb/>
+were best meddle with buck-washing.<lb/>
+
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>Buck! I would I could wash myself of the buck!<lb/>
+Buck, buck, buck! Ay, buck; I warrant you, buck;<lb/>
+and of the season too, it shall appear.<lb/>
+
+
+</p><p><stage>Exeunt Servants with the basket</stage></p>
+
+
+<p>
+Gentlemen, I have dreamed to-night; I'll tell you my<lb/>
+dream. Here, here, here be my keys: ascend my<lb/>
+chambers; search, seek, find out: I'll warrant<lb/>
+we'll unkennel the fox. Let me stop this way first.<lb/>
+
+
+</p><p><stage>Locking the door</stage></p>
+
+
+<p>
+So, now uncape.<lb/>
+
+
+</p></sp><sp><speaker>PAGE</speaker>
+<p>Good Master Ford, be contented: you wrong yourself too much.<lb/>
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>True, Master Page. Up, gentlemen: you shall see<lb/>
+sport anon: follow me, gentlemen.<lb/>
+
+
+</p><p><stage>Exit</stage>
+
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p>This is fery fantastical humours and jealousies.<lb/>
+
+</p></sp><sp><speaker>DOCTOR CAIUS</speaker>
+<p>By gar, 'tis no the fashion of France; it is not<lb/>
+jealous in France.<lb/>
+
+
+</p></sp><sp><speaker>PAGE</speaker>
+<p>Nay, follow him, gentlemen; see the issue of his search.<lb/>
+
+</p><p><stage>Exeunt PAGE, DOCTOR CAIUS, and SIR HUGH EVANS</stage>
+
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>Is there not a double excellency in this?<lb/>
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p>I know not which pleases me better, that my husband<lb/>
+is deceived, or Sir John.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>What a taking was he in when your husband asked who<lb/>
+was in the basket!<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p>I am half afraid he will have need of washing; so<lb/>
+throwing him into the water will do him a benefit.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>Hang him, dishonest rascal! I would all of the same<lb/>
+strain were in the same distress.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p>I think my husband hath some special suspicion of<lb/>
+Falstaff's being here; for I never saw him so gross<lb/>
+in his jealousy till now.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>I will lay a plot to try that; and we will yet have<lb/>
+more tricks with Falstaff: his dissolute disease will<lb/>
+scarce obey this medicine.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p>Shall we send that foolish carrion, Mistress<lb/>
+Quickly, to him, and excuse his throwing into the<lb/>
+water; and give him another hope, to betray him to<lb/>
+another punishment?<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>We will do it: let him be sent for to-morrow,<lb/>
+eight o'clock, to have amends.<lb/>
+
+
+</p><p><stage>Re-enter FORD, PAGE, DOCTOR CAIUS, and	SIR HUGH EVANS</stage>
+
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>I cannot find him: may be the knave bragged of that<lb/>
+he could not compass.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p><stage>[Aside to MISTRESS FORD]</stage></p><p>  Heard you that?<lb/>
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p>You use me well, Master Ford, do you?<lb/>
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>Ay, I do so.<lb/>
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p>Heaven make you better than your thoughts!<lb/>
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>Amen!<lb/>
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>You do yourself mighty wrong, Master Ford.<lb/>
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>Ay, ay; I must bear it.<lb/>
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p>If there be any pody in the house, and in the<lb/>
+chambers, and in the coffers, and in the presses,<lb/>
+heaven forgive my sins at the day of judgment!<lb/>
+
+
+</p></sp><sp><speaker>DOCTOR CAIUS</speaker>
+<p>By gar, nor I too: there is no bodies.<lb/>
+
+</p></sp><sp><speaker>PAGE</speaker>
+<p>Fie, fie, Master Ford! are you not ashamed? What<lb/>
+spirit, what devil suggests this imagination? I<lb/>
+would not ha' your distemper in this kind for the<lb/>
+wealth of Windsor Castle.<lb/>
+
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>'Tis my fault, Master Page: I suffer for it.<lb/>
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p>You suffer for a pad conscience: your wife is as<lb/>
+honest a 'omans as I will desires among five<lb/>
+thousand, and five hundred too.<lb/>
+
+
+</p></sp><sp><speaker>DOCTOR CAIUS</speaker>
+<p>By gar, I see 'tis an honest woman.<lb/>
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>Well, I promised you a dinner. Come, come, walk in<lb/>
+the Park: I pray you, pardon me; I will hereafter<lb/>
+make known to you why I have done this. Come,<lb/>
+wife; come, Mistress Page. I pray you, pardon me;<lb/>
+pray heartily, pardon me.<lb/>
+
+
+</p></sp><sp><speaker>PAGE</speaker>
+<p>Let's go in, gentlemen; but, trust me, we'll mock<lb/>
+him. I do invite you to-morrow morning to my house<lb/>
+to breakfast: after, we'll a-birding together; I<lb/>
+have a fine hawk for the bush. Shall it be so?<lb/>
+
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>Any thing.<lb/>
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p>If there is one, I shall make two in the company.<lb/>
+
+</p></sp><sp><speaker>DOCTOR CAIUS</speaker>
+<p>If dere be one or two, I shall make-a the turd.<lb/>
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>Pray you, go, Master Page.<lb/>
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p>I pray you now, remembrance tomorrow on the lousy<lb/>
+knave, mine host.<lb/>
+
+
+</p></sp><sp><speaker>DOCTOR CAIUS</speaker>
+<p>Dat is good; by gar, with all my heart!<lb/>
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p>A lousy knave, to have his gibes and his mockeries!<lb/>
+
+</p></sp><p><stage>Exeunt</stage>
+
+
+
+</p></div2><div2 type="scene" n="4" id="d18">
+<head>Scene 4</head>
+
+<p><stage>A room in PAGE'S house.</stage>
+
+</p><p><stage>Enter FENTON and ANNE PAGE</stage>
+
+
+</p><sp><speaker>FENTON</speaker>
+<p>I see I cannot get thy father's love;<lb/>
+Therefore no more turn me to him, sweet Nan.<lb/>
+
+
+</p></sp><sp><speaker>ANNE PAGE</speaker>
+<p>Alas, how then?<lb/>
+
+</p></sp><sp><speaker>FENTON</speaker>
+<p>Why, thou must be thyself.<lb/>
+He doth object I am too great of birth&mdash;,<lb/>
+And that, my state being gall'd with my expense,<lb/>
+I seek to heal it only by his wealth:<lb/>
+Besides these, other bars he lays before me,<lb/>
+My riots past, my wild societies;<lb/>
+And tells me 'tis a thing impossible<lb/>
+I should love thee but as a property.<lb/>
+
+
+</p></sp><sp><speaker>ANNE PAGE</speaker>
+<p>May be he tells you true.<lb/>
+
+</p></sp><sp><speaker>FENTON</speaker>
+<p>No, heaven so speed me in my time to come!<lb/>
+Albeit I will confess thy father's wealth<lb/>
+Was the first motive that I woo'd thee, Anne:<lb/>
+Yet, wooing thee, I found thee of more value<lb/>
+Than stamps in gold or sums in sealed bags;<lb/>
+And 'tis the very riches of thyself<lb/>
+That now I aim at.<lb/>
+
+
+</p></sp><sp><speaker>ANNE PAGE</speaker>
+<p>Gentle Master Fenton,<lb/>
+Yet seek my father's love; still seek it, sir:<lb/>
+If opportunity and humblest suit<lb/>
+Cannot attain it, why, then,&mdash;hark you hither!<lb/>
+
+
+</p><p><stage>They converse apart</stage>
+
+
+
+</p><p><stage>Enter SHALLOW, SLENDER, and MISTRESS QUICKLY</stage>
+
+
+</p></sp><sp><speaker>SHALLOW</speaker>
+<p>Break their talk, Mistress Quickly: my kinsman shall<lb/>
+speak for himself.<lb/>
+
+
+</p></sp><sp><speaker>SLENDER</speaker>
+<p>I'll make a shaft or a bolt on't: 'slid, 'tis but<lb/>
+venturing.<lb/>
+
+
+</p></sp><sp><speaker>SHALLOW</speaker>
+<p>Be not dismayed.<lb/>
+
+</p></sp><sp><speaker>SLENDER</speaker>
+<p>No, she shall not dismay me: I care not for that,<lb/>
+but that I am afeard.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS QUICKLY</speaker>
+<p>Hark ye; Master Slender would speak a word with you.<lb/>
+
+</p></sp><sp><speaker>ANNE PAGE</speaker>
+<p>I come to him.<lb/>
+
+</p><p><stage>Aside</stage></p>
+
+
+<p>
+This is my father's choice.<lb/>
+O, what a world of vile ill-favor'd faults<lb/>
+Looks handsome in three hundred pounds a-year!<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS QUICKLY</speaker>
+<p>And how does good Master Fenton? Pray you, a word with you.<lb/>
+
+</p></sp><sp><speaker>SHALLOW</speaker>
+<p>She's coming; to her, coz. O boy, thou hadst a father!<lb/>
+
+</p></sp><sp><speaker>SLENDER</speaker>
+<p>I had a father, Mistress Anne; my uncle can tell you<lb/>
+good jests of him. Pray you, uncle, tell Mistress<lb/>
+Anne the jest, how my father stole two geese out of<lb/>
+a pen, good uncle.<lb/>
+
+
+</p></sp><sp><speaker>SHALLOW</speaker>
+<p>Mistress Anne, my cousin loves you.<lb/>
+
+</p></sp><sp><speaker>SLENDER</speaker>
+<p>Ay, that I do; as well as I love any woman in<lb/>
+Gloucestershire.<lb/>
+
+
+</p></sp><sp><speaker>SHALLOW</speaker>
+<p>He will maintain you like a gentlewoman.<lb/>
+
+</p></sp><sp><speaker>SLENDER</speaker>
+<p>Ay, that I will, come cut and long-tail, under the<lb/>
+degree of a squire.<lb/>
+
+
+</p></sp><sp><speaker>SHALLOW</speaker>
+<p>He will make you a hundred and fifty pounds jointure.<lb/>
+
+</p></sp><sp><speaker>ANNE PAGE</speaker>
+<p>Good Master Shallow, let him woo for himself.<lb/>
+
+</p></sp><sp><speaker>SHALLOW</speaker>
+<p>Marry, I thank you for it; I thank you for that good<lb/>
+comfort. She calls you, coz: I'll leave you.<lb/>
+
+
+</p></sp><sp><speaker>ANNE PAGE</speaker>
+<p>Now, Master Slender,&mdash;<lb/>
+
+</p></sp><sp><speaker>SLENDER</speaker>
+<p>Now, good Mistress Anne,&mdash;<lb/>
+
+</p></sp><sp><speaker>ANNE PAGE</speaker>
+<p>What is your will?<lb/>
+
+</p></sp><sp><speaker>SLENDER</speaker>
+<p>My will! 'od's heartlings, that's a pretty jest<lb/>
+indeed! I ne'er made my will yet, I thank heaven; I<lb/>
+am not such a sickly creature, I give heaven praise.<lb/>
+
+
+</p></sp><sp><speaker>ANNE PAGE</speaker>
+<p>I mean, Master Slender, what would you with me?<lb/>
+
+</p></sp><sp><speaker>SLENDER</speaker>
+<p>Truly, for mine own part, I would little or nothing<lb/>
+with you. Your father and my uncle hath made<lb/>
+motions: if it be my luck, so; if not, happy man be<lb/>
+his dole! They can tell you how things go better<lb/>
+than I can: you may ask your father; here he comes.<lb/>
+
+
+</p><p><stage>Enter PAGE and MISTRESS PAGE</stage>
+
+
+</p></sp><sp><speaker>PAGE</speaker>
+<p>Now, Master Slender: love him, daughter Anne.<lb/>
+Why, how now! what does Master Fenton here?<lb/>
+You wrong me, sir, thus still to haunt my house:<lb/>
+I told you, sir, my daughter is disposed of.<lb/>
+
+
+</p></sp><sp><speaker>FENTON</speaker>
+<p>Nay, Master Page, be not impatient.<lb/>
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>Good Master Fenton, come not to my child.<lb/>
+
+</p></sp><sp><speaker>PAGE</speaker>
+<p>She is no match for you.<lb/>
+
+</p></sp><sp><speaker>FENTON</speaker>
+<p>Sir, will you hear me?<lb/>
+
+</p></sp><sp><speaker>PAGE</speaker>
+<p>No, good Master Fenton.<lb/>
+Come, Master Shallow; come, son Slender, in.<lb/>
+Knowing my mind, you wrong me, Master Fenton.<lb/>
+
+
+</p><p><stage>Exeunt PAGE, SHALLOW, and SLENDER</stage>
+
+
+</p></sp><sp><speaker>MISTRESS QUICKLY</speaker>
+<p>Speak to Mistress Page.<lb/>
+
+</p></sp><sp><speaker>FENTON</speaker>
+<p>Good Mistress Page, for that I love your daughter<lb/>
+In such a righteous fashion as I do,<lb/>
+Perforce, against all cheques, rebukes and manners,<lb/>
+I must advance the colours of my love<lb/>
+And not retire: let me have your good will.<lb/>
+
+
+</p></sp><sp><speaker>ANNE PAGE</speaker>
+<p>Good mother, do not marry me to yond fool.<lb/>
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>I mean it not; I seek you a better husband.<lb/>
+
+</p></sp><sp><speaker>MISTRESS QUICKLY</speaker>
+<p>That's my master, master doctor.<lb/>
+
+</p></sp><sp><speaker>ANNE PAGE</speaker>
+<p>Alas, I had rather be set quick i' the earth<lb/>
+And bowl'd to death with turnips!<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>Come, trouble not yourself. Good Master Fenton,<lb/>
+I will not be your friend nor enemy:<lb/>
+My daughter will I question how she loves you,<lb/>
+And as I find her, so am I affected.<lb/>
+Till then farewell, sir: she must needs go in;<lb/>
+Her father will be angry.<lb/>
+
+
+</p></sp><sp><speaker>FENTON</speaker>
+<p>Farewell, gentle mistress: farewell, Nan.<lb/>
+
+</p><p><stage>Exeunt MISTRESS PAGE and ANNE PAGE</stage>
+
+
+</p></sp><sp><speaker>MISTRESS QUICKLY</speaker>
+<p>This is my doing, now: 'Nay,' said I, 'will you cast<lb/>
+away your child on a fool, and a physician? Look on<lb/>
+Master Fenton:' this is my doing.<lb/>
+
+
+</p></sp><sp><speaker>FENTON</speaker>
+<p>I thank thee; and I pray thee, once to-night<lb/>
+Give my sweet Nan this ring: there's for thy pains.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS QUICKLY</speaker>
+<p>Now heaven send thee good fortune!<lb/>
+
+</p><p><stage>Exit FENTON</stage></p>
+
+
+<p>
+A kind heart he hath: a woman would run through<lb/>
+fire and water for such a kind heart. But yet I<lb/>
+would my master had Mistress Anne; or I would<lb/>
+Master Slender had her; or, in sooth, I would Master<lb/>
+Fenton had her; I will do what I can for them all<lb/>
+three; for so I have promised, and I'll be as good<lb/>
+as my word; but speciously for Master Fenton. Well,<lb/>
+I must of another errand to Sir John Falstaff from<lb/>
+my two mistresses: what a beast am I to slack it!<lb/>
+
+
+</p></sp><p><stage>Exit</stage>
+
+
+
+</p></div2><div2 type="scene" n="5" id="d19">
+<head>Scene 5</head>
+
+<p><stage>A room in the Garter Inn.</stage>
+
+</p><p><stage>Enter FALSTAFF and BARDOLPH</stage>
+
+
+</p><sp><speaker>FALSTAFF</speaker>
+<p>Bardolph, I say,&mdash;<lb/>
+
+</p></sp><sp><speaker>BARDOLPH</speaker>
+<p>Here, sir.<lb/>
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>Go fetch me a quart of sack; put a toast in't.<lb/>
+
+</p><p><stage>Exit BARDOLPH</stage></p>
+
+
+<p>
+Have I lived to be carried in a basket, like a<lb/>
+barrow of butcher's offal, and to be thrown in the<lb/>
+Thames? Well, if I be served such another trick,<lb/>
+I'll have my brains ta'en out and buttered, and give<lb/>
+them to a dog for a new-year's gift. The rogues<lb/>
+slighted me into the river with as little remorse as<lb/>
+they would have drowned a blind bitch's puppies,<lb/>
+fifteen i' the litter: and you may know by my size<lb/>
+that I have a kind of alacrity in sinking; if the<lb/>
+bottom were as deep as hell, I should down. I had<lb/>
+been drowned, but that the shore was shelvy and<lb/>
+shallow,&mdash;a death that I abhor; for the water swells<lb/>
+a man; and what a thing should I have been when I<lb/>
+had been swelled! I should have been a mountain of mummy.<lb/>
+
+
+</p><p><stage>Re-enter BARDOLPH with sack</stage>
+
+
+</p></sp><sp><speaker>BARDOLPH</speaker>
+<p>Here's Mistress Quickly, sir, to speak with you.<lb/>
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>Let me pour in some sack to the Thames water; for my<lb/>
+belly's as cold as if I had swallowed snowballs for<lb/>
+pills to cool the reins. Call her in.<lb/>
+
+
+</p></sp><sp><speaker>BARDOLPH</speaker>
+<p>Come in, woman!<lb/>
+
+</p><p><stage>Enter MISTRESS QUICKLY</stage>
+
+
+</p></sp><sp><speaker>MISTRESS QUICKLY</speaker>
+<p>By your leave; I cry you mercy: give your worship<lb/>
+good morrow.<lb/>
+
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>Take away these chalices. Go brew me a pottle of<lb/>
+sack finely.<lb/>
+
+
+</p></sp><sp><speaker>BARDOLPH</speaker>
+<p>With eggs, sir?<lb/>
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>Simple of itself; I'll no pullet-sperm in my brewage.<lb/>
+
+</p><p><stage>Exit BARDOLPH</stage></p>
+
+
+<p>
+How now!<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS QUICKLY</speaker>
+<p>Marry, sir, I come to your worship from Mistress Ford.<lb/>
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>Mistress Ford! I have had ford enough; I was thrown<lb/>
+into the ford; I have my belly full of ford.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS QUICKLY</speaker>
+<p>Alas the day! good heart, that was not her fault:<lb/>
+she does so take on with her men; they mistook their erection.<lb/>
+
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>So did I mine, to build upon a foolish woman's promise.<lb/>
+
+</p></sp><sp><speaker>MISTRESS QUICKLY</speaker>
+<p>Well, she laments, sir, for it, that it would yearn<lb/>
+your heart to see it. Her husband goes this morning<lb/>
+a-birding; she desires you once more to come to her<lb/>
+between eight and nine: I must carry her word<lb/>
+quickly: she'll make you amends, I warrant you.<lb/>
+
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>Well, I will visit her: tell her so; and bid her<lb/>
+think what a man is: let her consider his frailty,<lb/>
+and then judge of my merit.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS QUICKLY</speaker>
+<p>I will tell her.<lb/>
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>Do so. Between nine and ten, sayest thou?<lb/>
+
+</p></sp><sp><speaker>MISTRESS QUICKLY</speaker>
+<p>Eight and nine, sir.<lb/>
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>Well, be gone: I will not miss her.<lb/>
+
+</p></sp><sp><speaker>MISTRESS QUICKLY</speaker>
+<p>Peace be with you, sir.<lb/>
+
+</p><p><stage>Exit</stage>
+
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>I marvel I hear not of Master Brook; he sent me word<lb/>
+to stay within: I like his money well. O, here he comes.<lb/>
+
+
+</p><p><stage>Enter FORD</stage>
+
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>Bless you, sir!<lb/>
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>Now, master Brook, you come to know what hath passed<lb/>
+between me and Ford's wife?<lb/>
+
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>That, indeed, Sir John, is my business.<lb/>
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>Master Brook, I will not lie to you: I was at her<lb/>
+house the hour she appointed me.<lb/>
+
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>And sped you, sir?<lb/>
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>Very ill-favoredly, Master Brook.<lb/>
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>How so, sir? Did she change her determination?<lb/>
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>No, Master Brook; but the peaking Cornuto her<lb/>
+husband, Master Brook, dwelling in a continual<lb/>
+'larum of jealousy, comes me in the instant of our<lb/>
+encounter, after we had embraced, kissed, protested,<lb/>
+and, as it were, spoke the prologue of our comedy;<lb/>
+and at his heels a rabble of his companions, thither<lb/>
+provoked and instigated by his distemper, and,<lb/>
+forsooth, to search his house for his wife's love.<lb/>
+
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>What, while you were there?<lb/>
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>While I was there.<lb/>
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>And did he search for you, and could not find you?<lb/>
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>You shall hear. As good luck would have it, comes<lb/>
+in one Mistress Page; gives intelligence of Ford's<lb/>
+approach; and, in her invention and Ford's wife's<lb/>
+distraction, they conveyed me into a buck-basket.<lb/>
+
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>A buck-basket!<lb/>
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>By the Lord, a buck-basket! rammed me in with foul<lb/>
+shirts and smocks, socks, foul stockings, greasy<lb/>
+napkins; that, Master Brook, there was the rankest<lb/>
+compound of villanous smell that ever offended nostril.<lb/>
+
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>And how long lay you there?<lb/>
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>Nay, you shall hear, Master Brook, what I have<lb/>
+suffered to bring this woman to evil for your good.<lb/>
+Being thus crammed in the basket, a couple of Ford's<lb/>
+knaves, his hinds, were called forth by their<lb/>
+mistress to carry me in the name of foul clothes to<lb/>
+Datchet-lane: they took me on their shoulders; met<lb/>
+the jealous knave their master in the door, who<lb/>
+asked them once or twice what they had in their<lb/>
+basket: I quaked for fear, lest the lunatic knave<lb/>
+would have searched it; but fate, ordaining he<lb/>
+should be a cuckold, held his hand. Well: on went he<lb/>
+for a search, and away went I for foul clothes. But<lb/>
+mark the sequel, Master Brook: I suffered the pangs<lb/>
+of three several deaths; first, an intolerable<lb/>
+fright, to be detected with a jealous rotten<lb/>
+bell-wether; next, to be compassed, like a good<lb/>
+bilbo, in the circumference of a peck, hilt to<lb/>
+point, heel to head; and then, to be stopped in,<lb/>
+like a strong distillation, with stinking clothes<lb/>
+that fretted in their own grease: think of that,&mdash;a<lb/>
+man of my kidney,&mdash;think of that,&mdash;that am as subject<lb/>
+to heat as butter; a man of continual dissolution<lb/>
+and thaw: it was a miracle to scape suffocation.<lb/>
+And in the height of this bath, when I was more than<lb/>
+half stewed in grease, like a Dutch dish, to be<lb/>
+thrown into the Thames, and cooled, glowing hot,<lb/>
+in that surge, like a horse-shoe; think of<lb/>
+that,&mdash;hissing hot,&mdash;think of that, Master Brook.<lb/>
+
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>In good sadness, I am sorry that for my sake you<lb/>
+have sufferd all this. My suit then is desperate;<lb/>
+you'll undertake her no more?<lb/>
+
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>Master Brook, I will be thrown into Etna, as I have<lb/>
+been into Thames, ere I will leave her thus. Her<lb/>
+husband is this morning gone a-birding: I have<lb/>
+received from her another embassy of meeting; 'twixt<lb/>
+eight and nine is the hour, Master Brook.<lb/>
+
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>'Tis past eight already, sir.<lb/>
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>Is it? I will then address me to my appointment.<lb/>
+Come to me at your convenient leisure, and you shall<lb/>
+know how I speed; and the conclusion shall be<lb/>
+crowned with your enjoying her. Adieu. You shall<lb/>
+have her, Master Brook; Master Brook, you shall<lb/>
+cuckold Ford.<lb/>
+
+
+</p><p><stage>Exit</stage>
+
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>Hum! ha! is this a vision? is this a dream? do I<lb/>
+sleep? Master Ford awake! awake, Master Ford!<lb/>
+there's a hole made in your best coat, Master Ford.<lb/>
+This 'tis to be married! this 'tis to have linen<lb/>
+and buck-baskets! Well, I will proclaim myself<lb/>
+what I am: I will now take the lecher; he is at my<lb/>
+house; he cannot 'scape me; 'tis impossible he<lb/>
+should; he cannot creep into a halfpenny purse,<lb/>
+nor into a pepper-box: but, lest the devil that<lb/>
+guides him should aid him, I will search<lb/>
+impossible places. Though what I am I cannot avoid,<lb/>
+yet to be what I would not shall not make me tame:<lb/>
+if I have horns to make one mad, let the proverb go<lb/>
+with me: I'll be horn-mad.<lb/>
+
+
+</p></sp><p><stage>Exit</stage></p>
+
+
+
+</div2>
+
+</div1>
+
+<div1 type="act" n="4" id="d20">
+<head>Act 4</head>
+
+<div2 type="scene" n="1" id="d21">
+
+<head>Scene 1</head>
+
+<p><stage>A street.</stage>
+
+</p><p><stage>Enter MISTRESS PAGE, MISTRESS QUICKLY, and	WILLIAM PAGE</stage>
+
+
+</p><sp><speaker>MISTRESS PAGE</speaker>
+<p>Is he at Master Ford's already, think'st thou?<lb/>
+
+</p></sp><sp><speaker>MISTRESS QUICKLY</speaker>
+<p>Sure he is by this, or will be presently: but,<lb/>
+truly, he is very courageous mad about his throwing<lb/>
+into the water. Mistress Ford desires you to come suddenly.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>I'll be with her by and by; I'll but bring my young<lb/>
+man here to school. Look, where his master comes;<lb/>
+'tis a playing-day, I see.<lb/>
+
+
+</p><p><stage>Enter SIR HUGH EVANS</stage></p>
+
+
+<p>
+How now, Sir Hugh! no school to-day?<lb/>
+
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p>No; Master Slender is let the boys leave to play.<lb/>
+
+</p></sp><sp><speaker>MISTRESS QUICKLY</speaker>
+<p>Blessing of his heart!<lb/>
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>Sir Hugh, my husband says my son profits nothing in<lb/>
+the world at his book. I pray you, ask him some<lb/>
+questions in his accidence.<lb/>
+
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p>Come hither, William; hold up your head; come.<lb/>
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>Come on, sirrah; hold up your head; answer your<lb/>
+master, be not afraid.<lb/>
+
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p>William, how many numbers is in nouns?<lb/>
+
+</p></sp><sp><speaker>WILLIAM PAGE</speaker>
+<p>Two.<lb/>
+
+</p></sp><sp><speaker>MISTRESS QUICKLY</speaker>
+<p>Truly, I thought there had been one number more,<lb/>
+because they say, ''Od's nouns.'<lb/>
+
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p>Peace your tattlings! What is 'fair,' William?<lb/>
+
+</p></sp><sp><speaker>WILLIAM PAGE</speaker>
+<p>Pulcher.<lb/>
+
+</p></sp><sp><speaker>MISTRESS QUICKLY</speaker>
+<p>Polecats! there are fairer things than polecats, sure.<lb/>
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p>You are a very simplicity 'oman: I pray you peace.<lb/>
+What is 'lapis,' William?<lb/>
+
+
+</p></sp><sp><speaker>WILLIAM PAGE</speaker>
+<p>A stone.<lb/>
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p>And what is 'a stone,' William?<lb/>
+
+</p></sp><sp><speaker>WILLIAM PAGE</speaker>
+<p>A pebble.<lb/>
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p>No, it is 'lapis:' I pray you, remember in your prain.<lb/>
+
+</p></sp><sp><speaker>WILLIAM PAGE</speaker>
+<p>Lapis.<lb/>
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p>That is a good William. What is he, William, that<lb/>
+does lend articles?<lb/>
+
+
+</p></sp><sp><speaker>WILLIAM PAGE</speaker>
+<p>Articles are borrowed of the pronoun, and be thus<lb/>
+declined, Singulariter, nominativo, hic, haec, hoc.<lb/>
+
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p>Nominativo, hig, hag, hog; pray you, mark:<lb/>
+genitivo, hujus. Well, what is your accusative case?<lb/>
+
+
+</p></sp><sp><speaker>WILLIAM PAGE</speaker>
+<p>Accusativo, hinc.<lb/>
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p>I pray you, have your remembrance, child,<lb/>
+accusative, hung, hang, hog.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS QUICKLY</speaker>
+<p>'Hang-hog' is Latin for bacon, I warrant you.<lb/>
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p>Leave your prabbles, 'oman. What is the focative<lb/>
+case, William?<lb/>
+
+
+</p></sp><sp><speaker>WILLIAM PAGE</speaker>
+<p>O,&mdash;vocativo, O.<lb/>
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p>Remember, William; focative is caret.<lb/>
+
+</p></sp><sp><speaker>MISTRESS QUICKLY</speaker>
+<p>And that's a good root.<lb/>
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p>'Oman, forbear.<lb/>
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>Peace!<lb/>
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p>What is your genitive case plural, William?<lb/>
+
+</p></sp><sp><speaker>WILLIAM PAGE</speaker>
+<p>Genitive case!<lb/>
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p>Ay.<lb/>
+
+</p></sp><sp><speaker>WILLIAM PAGE</speaker>
+<p>Genitive,&mdash;horum, harum, horum.<lb/>
+
+</p></sp><sp><speaker>MISTRESS QUICKLY</speaker>
+<p>Vengeance of Jenny's case! fie on her! never name<lb/>
+her, child, if she be a whore.<lb/>
+
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p>For shame, 'oman.<lb/>
+
+</p></sp><sp><speaker>MISTRESS QUICKLY</speaker>
+<p>You do ill to teach the child such words: he<lb/>
+teaches him to hick and to hack, which they'll do<lb/>
+fast enough of themselves, and to call 'horum:' fie upon you!<lb/>
+
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p>'Oman, art thou lunatics? hast thou no<lb/>
+understandings for thy cases and the numbers of the<lb/>
+genders? Thou art as foolish Christian creatures as<lb/>
+I would desires.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>Prithee, hold thy peace.<lb/>
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p>Show me now, William, some declensions of your pronouns.<lb/>
+
+</p></sp><sp><speaker>WILLIAM PAGE</speaker>
+<p>Forsooth, I have forgot.<lb/>
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p>It is qui, quae, quod: if you forget your 'quies,'<lb/>
+your 'quaes,' and your 'quods,' you must be<lb/>
+preeches. Go your ways, and play; go.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>He is a better scholar than I thought he was.<lb/>
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p>He is a good sprag memory. Farewell, Mistress Page.<lb/>
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>Adieu, good Sir Hugh.<lb/>
+
+</p><p><stage>Exit SIR HUGH EVANS</stage></p>
+
+
+<p>
+Get you home, boy. Come, we stay too long.<lb/>
+
+
+</p></sp><p><stage>Exeunt</stage>
+
+
+
+</p></div2><div2 type="scene" n="2" id="d22">
+<head>Scene 2</head>
+
+<p><stage>A room in FORD'S house.</stage>
+
+</p><p><stage>Enter FALSTAFF and MISTRESS FORD</stage>
+
+
+</p><sp><speaker>FALSTAFF</speaker>
+<p>Mistress Ford, your sorrow hath eaten up my<lb/>
+sufferance. I see you are obsequious in your love,<lb/>
+and I profess requital to a hair's breadth; not<lb/>
+only, Mistress Ford, in the simple<lb/>
+office of love, but in all the accoutrement,<lb/>
+complement and ceremony of it. But are you<lb/>
+sure of your husband now?<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p>He's a-birding, sweet Sir John.<lb/>
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p><stage>[Within]</stage></p><p>  What, ho, gossip Ford! what, ho!<lb/>
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p>Step into the chamber, Sir John.<lb/>
+
+</p><p><stage>Exit FALSTAFF</stage>
+
+
+
+</p><p><stage>Enter MISTRESS PAGE</stage>
+
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>How now, sweetheart! who's at home besides yourself?<lb/>
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p>Why, none but mine own people.<lb/>
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>Indeed!<lb/>
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p>No, certainly.<lb/>
+
+</p><p><stage>Aside to her</stage></p>
+
+
+<p>
+Speak louder.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>Truly, I am so glad you have nobody here.<lb/>
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p>Why?<lb/>
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>Why, woman, your husband is in his old lunes again:<lb/>
+he so takes on yonder with my husband; so rails<lb/>
+against all married mankind; so curses all Eve's<lb/>
+daughters, of what complexion soever; and so buffets<lb/>
+himself on the forehead, crying, 'Peer out, peer<lb/>
+out!' that any madness I ever yet beheld seemed but<lb/>
+tameness, civility and patience, to this his<lb/>
+distemper he is in now: I am glad the fat knight is not here.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p>Why, does he talk of him?<lb/>
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>Of none but him; and swears he was carried out, the<lb/>
+last time he searched for him, in a basket; protests<lb/>
+to my husband he is now here, and hath drawn him and<lb/>
+the rest of their company from their sport, to make<lb/>
+another experiment of his suspicion: but I am glad<lb/>
+the knight is not here; now he shall see his own foolery.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p>How near is he, Mistress Page?<lb/>
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>Hard by; at street end; he will be here anon.<lb/>
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p>I am undone! The knight is here.<lb/>
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>Why then you are utterly shamed, and he's but a dead<lb/>
+man. What a woman are you!&mdash;Away with him, away<lb/>
+with him! better shame than murder.<lb/>
+
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>Which way should be go? how should I bestow him?<lb/>
+Shall I put him into the basket again?<lb/>
+
+
+</p><p><stage>Re-enter FALSTAFF</stage>
+
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>No, I'll come no more i' the basket. May I not go<lb/>
+out ere he come?<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>Alas, three of Master Ford's brothers watch the door<lb/>
+with pistols, that none shall issue out; otherwise<lb/>
+you might slip away ere he came. But what make you here?<lb/>
+
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>What shall I do? I'll creep up into the chimney.<lb/>
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p>There they always use to discharge their<lb/>
+birding-pieces. Creep into the kiln-hole.<lb/>
+
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>Where is it?<lb/>
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p>He will seek there, on my word. Neither press,<lb/>
+coffer, chest, trunk, well, vault, but he hath an<lb/>
+abstract for the remembrance of such places, and<lb/>
+goes to them by his note: there is no hiding you in the house.<lb/>
+
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>I'll go out then.<lb/>
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>If you go out in your own semblance, you die, Sir<lb/>
+John. Unless you go out disguised&mdash;<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p>How might we disguise him?<lb/>
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>Alas the day, I know not! There is no woman's gown<lb/>
+big enough for him otherwise he might put on a hat,<lb/>
+a muffler and a kerchief, and so escape.<lb/>
+
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>Good hearts, devise something: any extremity rather<lb/>
+than a mischief.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p>My maid's aunt, the fat woman of Brentford, has a<lb/>
+gown above.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>On my word, it will serve him; she's as big as he<lb/>
+is: and there's her thrummed hat and her muffler<lb/>
+too. Run up, Sir John.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p>Go, go, sweet Sir John: Mistress Page and I will<lb/>
+look some linen for your head.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>Quick, quick! we'll come dress you straight: put<lb/>
+on the gown the while.<lb/>
+
+
+</p><p><stage>Exit FALSTAFF</stage>
+
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p>I would my husband would meet him in this shape: he<lb/>
+cannot abide the old woman of Brentford; he swears<lb/>
+she's a witch; forbade her my house and hath<lb/>
+threatened to beat her.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>Heaven guide him to thy husband's cudgel, and the<lb/>
+devil guide his cudgel afterwards!<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p>But is my husband coming?<lb/>
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>Ah, in good sadness, is he; and talks of the basket<lb/>
+too, howsoever he hath had intelligence.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p>We'll try that; for I'll appoint my men to carry the<lb/>
+basket again, to meet him at the door with it, as<lb/>
+they did last time.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>Nay, but he'll be here presently: let's go dress him<lb/>
+like the witch of Brentford.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p>I'll first direct my men what they shall do with the<lb/>
+basket. Go up; I'll bring linen for him straight.<lb/>
+
+
+</p><p><stage>Exit</stage>
+
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>Hang him, dishonest varlet! we cannot misuse him enough.<lb/>
+We'll leave a proof, by that which we will do,<lb/>
+Wives may be merry, and yet honest too:<lb/>
+We do not act that often jest and laugh;<lb/>
+'Tis old, but true, Still swine eat all the draff.<lb/>
+
+
+</p><p><stage>Exit</stage>
+
+
+
+</p><p><stage>Re-enter MISTRESS FORD with two Servants</stage>
+
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p>Go, sirs, take the basket again on your shoulders:<lb/>
+your master is hard at door; if he bid you set it<lb/>
+down, obey him: quickly, dispatch.<lb/>
+
+
+</p><p><stage>Exit</stage>
+
+
+</p></sp><sp><speaker>First Servant</speaker>
+<p>Come, come, take it up.<lb/>
+
+</p></sp><sp><speaker>Second Servant</speaker>
+<p>Pray heaven it be not full of knight again.<lb/>
+
+</p></sp><sp><speaker>First Servant</speaker>
+<p>I hope not; I had as lief bear so much lead.<lb/>
+
+</p><p><stage>Enter FORD, PAGE, SHALLOW, DOCTOR CAIUS, and	SIR HUGH EVANS</stage>
+
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>Ay, but if it prove true, Master Page, have you any<lb/>
+way then to unfool me again? Set down the basket,<lb/>
+villain! Somebody call my wife. Youth in a basket!<lb/>
+O you panderly rascals! there's a knot, a ging, a<lb/>
+pack, a conspiracy against me: now shall the devil<lb/>
+be shamed. What, wife, I say! Come, come forth!<lb/>
+Behold what honest clothes you send forth to bleaching!<lb/>
+
+
+</p></sp><sp><speaker>PAGE</speaker>
+<p>Why, this passes, Master Ford; you are not to go<lb/>
+loose any longer; you must be pinioned.<lb/>
+
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p>Why, this is lunatics! this is mad as a mad dog!<lb/>
+
+</p></sp><sp><speaker>SHALLOW</speaker>
+<p>Indeed, Master Ford, this is not well, indeed.<lb/>
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>So say I too, sir.<lb/>
+
+</p><p><stage>Re-enter MISTRESS FORD</stage></p>
+
+
+<p>
+Come hither, Mistress Ford; Mistress Ford the honest<lb/>
+woman, the modest wife, the virtuous creature, that<lb/>
+hath the jealous fool to her husband! I suspect<lb/>
+without cause, mistress, do I?<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p>Heaven be my witness you do, if you suspect me in<lb/>
+any dishonesty.<lb/>
+
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>Well said, brazen-face! hold it out. Come forth, sirrah!<lb/>
+
+</p><p><stage>Pulling clothes out of the basket</stage>
+
+
+</p></sp><sp><speaker>PAGE</speaker>
+<p>This passes!<lb/>
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p>Are you not ashamed? let the clothes alone.<lb/>
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>I shall find you anon.<lb/>
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p>'Tis unreasonable! Will you take up your wife's<lb/>
+clothes? Come away.<lb/>
+
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>Empty the basket, I say!<lb/>
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p>Why, man, why?<lb/>
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>Master Page, as I am a man, there was one conveyed<lb/>
+out of my house yesterday in this basket: why may<lb/>
+not he be there again? In my house I am sure he is:<lb/>
+my intelligence is true; my jealousy is reasonable.<lb/>
+Pluck me out all the linen.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p>If you find a man there, he shall die a flea's death.<lb/>
+
+</p></sp><sp><speaker>PAGE</speaker>
+<p>Here's no man.<lb/>
+
+</p></sp><sp><speaker>SHALLOW</speaker>
+<p>By my fidelity, this is not well, Master Ford; this<lb/>
+wrongs you.<lb/>
+
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p>Master Ford, you must pray, and not follow the<lb/>
+imaginations of your own heart: this is jealousies.<lb/>
+
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>Well, he's not here I seek for.<lb/>
+
+</p></sp><sp><speaker>PAGE</speaker>
+<p>No, nor nowhere else but in your brain.<lb/>
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>Help to search my house this one time. If I find<lb/>
+not what I seek, show no colour for my extremity; let<lb/>
+me for ever be your table-sport; let them say of<lb/>
+me, 'As jealous as Ford, Chat searched a hollow<lb/>
+walnut for his wife's leman.' Satisfy me once more;<lb/>
+once more search with me.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p>What, ho, Mistress Page! come you and the old woman<lb/>
+down; my husband will come into the chamber.<lb/>
+
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>Old woman! what old woman's that?<lb/>
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p>Nay, it is my maid's aunt of Brentford.<lb/>
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>A witch, a quean, an old cozening quean! Have I not<lb/>
+forbid her my house? She comes of errands, does<lb/>
+she? We are simple men; we do not know what's<lb/>
+brought to pass under the profession of<lb/>
+fortune-telling. She works by charms, by spells,<lb/>
+by the figure, and such daubery as this is, beyond<lb/>
+our element we know nothing. Come down, you witch,<lb/>
+you hag, you; come down, I say!<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p>Nay, good, sweet husband! Good gentlemen, let him<lb/>
+not strike the old woman.<lb/>
+
+
+</p><p><stage>Re-enter FALSTAFF in woman's clothes, and	MISTRESS PAGE</stage>
+
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>Come, Mother Prat; come, give me your hand.<lb/>
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>I'll prat her.<lb/>
+
+</p><p><stage>Beating him</stage></p>
+
+
+<p>
+Out of my door, you witch, you hag, you baggage, you<lb/>
+polecat, you runyon! out, out! I'll conjure you,<lb/>
+I'll fortune-tell you.<lb/>
+
+
+</p><p><stage>Exit FALSTAFF</stage>
+
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>Are you not ashamed? I think you have killed the<lb/>
+poor woman.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p>Nay, he will do it. 'Tis a goodly credit for you.<lb/>
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>Hang her, witch!<lb/>
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p>By the yea and no, I think the 'oman is a witch<lb/>
+indeed: I like not when a 'oman has a great peard;<lb/>
+I spy a great peard under his muffler.<lb/>
+
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>Will you follow, gentlemen? I beseech you, follow;<lb/>
+see but the issue of my jealousy: if I cry out thus<lb/>
+upon no trail, never trust me when I open again.<lb/>
+
+
+</p></sp><sp><speaker>PAGE</speaker>
+<p>Let's obey his humour a little further: come,<lb/>
+gentlemen.<lb/>
+
+
+</p><p><stage>Exeunt FORD, PAGE, SHALLOW, DOCTOR CAIUS, and	SIR HUGH EVANS</stage>
+
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>Trust me, he beat him most pitifully.<lb/>
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p>Nay, by the mass, that he did not; he beat him most<lb/>
+unpitifully, methought.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>I'll have the cudgel hallowed and hung o'er the<lb/>
+altar; it hath done meritorious service.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p>What think you? may we, with the warrant of<lb/>
+womanhood and the witness of a good conscience,<lb/>
+pursue him with any further revenge?<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>The spirit of wantonness is, sure, scared out of<lb/>
+him: if the devil have him not in fee-simple, with<lb/>
+fine and recovery, he will never, I think, in the<lb/>
+way of waste, attempt us again.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p>Shall we tell our husbands how we have served him?<lb/>
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>Yes, by all means; if it be but to scrape the<lb/>
+figures out of your husband's brains. If they can<lb/>
+find in their hearts the poor unvirtuous fat knight<lb/>
+shall be any further afflicted, we two will still be<lb/>
+the ministers.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p>I'll warrant they'll have him publicly shamed: and<lb/>
+methinks there would be no period to the jest,<lb/>
+should he not be publicly shamed.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>Come, to the forge with it then; shape it: I would<lb/>
+not have things cool.<lb/>
+
+
+</p></sp><p><stage>Exeunt</stage>
+
+
+
+</p></div2><div2 type="scene" n="3" id="d23">
+<head>Scene 3</head>
+
+<p><stage>A room in the Garter Inn.</stage>
+
+</p><p><stage>Enter Host and BARDOLPH</stage>
+
+
+</p><sp><speaker>BARDOLPH</speaker>
+<p>Sir, the Germans desire to have three of your<lb/>
+horses: the duke himself will be to-morrow at<lb/>
+court, and they are going to meet him.<lb/>
+
+
+</p></sp><sp><speaker>Host</speaker>
+<p>What duke should that be comes so secretly? I hear<lb/>
+not of him in the court. Let me speak with the<lb/>
+gentlemen: they speak English?<lb/>
+
+
+</p></sp><sp><speaker>BARDOLPH</speaker>
+<p>Ay, sir; I'll call them to you.<lb/>
+
+</p></sp><sp><speaker>Host</speaker>
+<p>They shall have my horses; but I'll make them pay;<lb/>
+I'll sauce them: they have had my house a week at<lb/>
+command; I have turned away my other guests: they<lb/>
+must come off; I'll sauce them. Come.<lb/>
+
+
+</p></sp><p><stage>Exeunt</stage>
+
+
+
+</p></div2><div2 type="scene" n="4" id="d24">
+<head>Scene 4</head>
+
+<p><stage>A room in FORD'S house.</stage>
+
+</p><p><stage>Enter PAGE, FORD, MISTRESS PAGE, MISTRESS FORD,	and SIR HUGH EVANS</stage>
+
+
+</p><sp><speaker>SIR HUGH EVANS</speaker>
+<p>'Tis one of the best discretions of a 'oman as ever<lb/>
+I did look upon.<lb/>
+
+
+</p></sp><sp><speaker>PAGE</speaker>
+<p>And did he send you both these letters at an instant?<lb/>
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>Within a quarter of an hour.<lb/>
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>Pardon me, wife. Henceforth do what thou wilt;<lb/>
+I rather will suspect the sun with cold<lb/>
+Than thee with wantonness: now doth thy honour stand<lb/>
+In him that was of late an heretic,<lb/>
+As firm as faith.<lb/>
+
+
+</p></sp><sp><speaker>PAGE</speaker>
+<p>'Tis well, 'tis well; no more:<lb/>
+Be not as extreme in submission<lb/>
+As in offence.<lb/>
+But let our plot go forward: let our wives<lb/>
+Yet once again, to make us public sport,<lb/>
+Appoint a meeting with this old fat fellow,<lb/>
+Where we may take him and disgrace him for it.<lb/>
+
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>There is no better way than that they spoke of.<lb/>
+
+</p></sp><sp><speaker>PAGE</speaker>
+<p>How? to send him word they'll meet him in the park<lb/>
+at midnight? Fie, fie! he'll never come.<lb/>
+
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p>You say he has been thrown in the rivers and has<lb/>
+been grievously peaten as an old 'oman: methinks<lb/>
+there should be terrors in him that he should not<lb/>
+come; methinks his flesh is punished, he shall have<lb/>
+no desires.<lb/>
+
+
+</p></sp><sp><speaker>PAGE</speaker>
+<p>So think I too.<lb/>
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p>Devise but how you'll use him when he comes,<lb/>
+And let us two devise to bring him thither.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>There is an old tale goes that Herne the hunter,<lb/>
+Sometime a keeper here in Windsor forest,<lb/>
+Doth all the winter-time, at still midnight,<lb/>
+Walk round about an oak, with great ragg'd horns;<lb/>
+And there he blasts the tree and takes the cattle<lb/>
+And makes milch-kine yield blood and shakes a chain<lb/>
+In a most hideous and dreadful manner:<lb/>
+You have heard of such a spirit, and well you know<lb/>
+The superstitious idle-headed eld<lb/>
+Received and did deliver to our age<lb/>
+This tale of Herne the hunter for a truth.<lb/>
+
+
+</p></sp><sp><speaker>PAGE</speaker>
+<p>Why, yet there want not many that do fear<lb/>
+In deep of night to walk by this Herne's oak:<lb/>
+But what of this?<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p>Marry, this is our device;<lb/>
+That Falstaff at that oak shall meet with us.<lb/>
+
+
+</p></sp><sp><speaker>PAGE</speaker>
+<p>Well, let it not be doubted but he'll come:<lb/>
+And in this shape when you have brought him thither,<lb/>
+What shall be done with him? what is your plot?<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>That likewise have we thought upon, and thus:<lb/>
+Nan Page my daughter and my little son<lb/>
+And three or four more of their growth we'll dress<lb/>
+Like urchins, ouphes and fairies, green and white,<lb/>
+With rounds of waxen tapers on their heads,<lb/>
+And rattles in their hands: upon a sudden,<lb/>
+As Falstaff, she and I, are newly met,<lb/>
+Let them from forth a sawpit rush at once<lb/>
+With some diffused song: upon their sight,<lb/>
+We two in great amazedness will fly:<lb/>
+Then let them all encircle him about<lb/>
+And, fairy-like, to-pinch the unclean knight,<lb/>
+And ask him why, that hour of fairy revel,<lb/>
+In their so sacred paths he dares to tread<lb/>
+In shape profane.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p>And till he tell the truth,<lb/>
+Let the supposed fairies pinch him sound<lb/>
+And burn him with their tapers.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>The truth being known,<lb/>
+We'll all present ourselves, dis-horn the spirit,<lb/>
+And mock him home to Windsor.<lb/>
+
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>The children must<lb/>
+Be practised well to this, or they'll ne'er do't.<lb/>
+
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p>I will teach the children their behaviors; and I<lb/>
+will be like a jack-an-apes also, to burn the<lb/>
+knight with my taber.<lb/>
+
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>That will be excellent. I'll go and buy them vizards.<lb/>
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>My Nan shall be the queen of all the fairies,<lb/>
+Finely attired in a robe of white.<lb/>
+
+
+</p></sp><sp><speaker>PAGE</speaker>
+<p>That silk will I go buy.<lb/>
+
+</p><p><stage>Aside</stage></p>
+
+
+<p>
+And in that time<lb/>
+Shall Master Slender steal my Nan away<lb/>
+And marry her at Eton. Go send to Falstaff straight.<lb/>
+
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>Nay I'll to him again in name of Brook<lb/>
+He'll tell me all his purpose: sure, he'll come.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>Fear not you that. Go get us properties<lb/>
+And tricking for our fairies.<lb/>
+
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p>Let us about it: it is admirable pleasures and fery<lb/>
+honest knaveries.<lb/>
+
+
+</p><p><stage>Exeunt PAGE, FORD, and SIR HUGH EVANS</stage>
+
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>Go, Mistress Ford,<lb/>
+Send quickly to Sir John, to know his mind.<lb/>
+
+
+</p><p><stage>Exit MISTRESS FORD</stage></p>
+
+
+<p>
+I'll to the doctor: he hath my good will,<lb/>
+And none but he, to marry with Nan Page.<lb/>
+That Slender, though well landed, is an idiot;<lb/>
+And he my husband best of all affects.<lb/>
+The doctor is well money'd, and his friends<lb/>
+Potent at court: he, none but he, shall have her,<lb/>
+Though twenty thousand worthier come to crave her.<lb/>
+
+
+</p></sp><p><stage>Exit</stage>
+
+
+
+</p></div2><div2 type="scene" n="5" id="d25">
+<head>Scene 5</head>
+
+<p><stage>A room in the Garter Inn.</stage>
+
+</p><p><stage>Enter Host and SIMPLE</stage>
+
+
+</p><sp><speaker>Host</speaker>
+<p>What wouldst thou have, boor? what: thick-skin?<lb/>
+speak, breathe, discuss; brief, short, quick, snap.<lb/>
+
+
+</p></sp><sp><speaker>SIMPLE</speaker>
+<p>Marry, sir, I come to speak with Sir John Falstaff<lb/>
+from Master Slender.<lb/>
+
+
+</p></sp><sp><speaker>Host</speaker>
+<p>There's his chamber, his house, his castle, his<lb/>
+standing-bed and truckle-bed; 'tis painted about<lb/>
+with the story of the Prodigal, fresh and new. Go<lb/>
+knock and call; hell speak like an Anthropophaginian<lb/>
+unto thee: knock, I say.<lb/>
+
+
+</p></sp><sp><speaker>SIMPLE</speaker>
+<p>There's an old woman, a fat woman, gone up into his<lb/>
+chamber: I'll be so bold as stay, sir, till she come<lb/>
+down; I come to speak with her, indeed.<lb/>
+
+
+</p></sp><sp><speaker>Host</speaker>
+<p>Ha! a fat woman! the knight may be robbed: I'll<lb/>
+call. Bully knight! bully Sir John! speak from<lb/>
+thy lungs military: art thou there? it is thine<lb/>
+host, thine Ephesian, calls.<lb/>
+
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p><stage>[Above]</stage></p><p>  How now, mine host!<lb/>
+
+</p></sp><sp><speaker>Host</speaker>
+<p>Here's a Bohemian-Tartar tarries the coming down of<lb/>
+thy fat woman. Let her descend, bully, let her<lb/>
+descend; my chambers are honourable: fie! privacy?<lb/>
+fie!<lb/>
+
+
+</p><p><stage>Enter FALSTAFF</stage>
+
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>There was, mine host, an old fat woman even now with<lb/>
+me; but she's gone.<lb/>
+
+
+</p></sp><sp><speaker>SIMPLE</speaker>
+<p>Pray you, sir, was't not the wise woman of<lb/>
+Brentford?<lb/>
+
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>Ay, marry, was it, mussel-shell: what would you with her?<lb/>
+
+</p></sp><sp><speaker>SIMPLE</speaker>
+<p>My master, sir, Master Slender, sent to her, seeing<lb/>
+her go through the streets, to know, sir, whether<lb/>
+one Nym, sir, that beguiled him of a chain, had the<lb/>
+chain or no.<lb/>
+
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>I spake with the old woman about it.<lb/>
+
+</p></sp><sp><speaker>SIMPLE</speaker>
+<p>And what says she, I pray, sir?<lb/>
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>Marry, she says that the very same man that<lb/>
+beguiled Master Slender of his chain cozened him of<lb/>
+it.<lb/>
+
+
+</p></sp><sp><speaker>SIMPLE</speaker>
+<p>I would I could have spoken with the woman herself;<lb/>
+I had other things to have spoken with her too from<lb/>
+him.<lb/>
+
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>What are they? let us know.<lb/>
+
+</p></sp><sp><speaker>Host</speaker>
+<p>Ay, come; quick.<lb/>
+
+</p></sp><sp><speaker>SIMPLE</speaker>
+<p>I may not conceal them, sir.<lb/>
+
+</p></sp><sp><speaker>Host</speaker>
+<p>Conceal them, or thou diest.<lb/>
+
+</p></sp><sp><speaker>SIMPLE</speaker>
+<p>Why, sir, they were nothing but about Mistress Anne<lb/>
+Page; to know if it were my master's fortune to<lb/>
+have her or no.<lb/>
+
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>'Tis, 'tis his fortune.<lb/>
+
+</p></sp><sp><speaker>SIMPLE</speaker>
+<p>What, sir?<lb/>
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>To have her, or no. Go; say the woman told me so.<lb/>
+
+</p></sp><sp><speaker>SIMPLE</speaker>
+<p>May I be bold to say so, sir?<lb/>
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>Ay, sir; like who more bold.<lb/>
+
+</p></sp><sp><speaker>SIMPLE</speaker>
+<p>I thank your worship: I shall make my master glad<lb/>
+with these tidings.<lb/>
+
+
+</p><p><stage>Exit</stage>
+
+
+</p></sp><sp><speaker>Host</speaker>
+<p>Thou art clerkly, thou art clerkly, Sir John. Was<lb/>
+there a wise woman with thee?<lb/>
+
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>Ay, that there was, mine host; one that hath taught<lb/>
+me more wit than ever I learned before in my life;<lb/>
+and I paid nothing for it neither, but was paid for<lb/>
+my learning.<lb/>
+
+
+</p><p><stage>Enter BARDOLPH</stage>
+
+
+</p></sp><sp><speaker>BARDOLPH</speaker>
+<p>Out, alas, sir! cozenage, mere cozenage!<lb/>
+
+</p></sp><sp><speaker>Host</speaker>
+<p>Where be my horses? speak well of them, varletto.<lb/>
+
+</p></sp><sp><speaker>BARDOLPH</speaker>
+<p>Run away with the cozeners; for so soon as I came<lb/>
+beyond Eton, they threw me off from behind one of<lb/>
+them, in a slough of mire; and set spurs and away,<lb/>
+like three German devils, three Doctor Faustuses.<lb/>
+
+
+</p></sp><sp><speaker>Host</speaker>
+<p>They are gone but to meet the duke, villain: do not<lb/>
+say they be fled; Germans are honest men.<lb/>
+
+
+</p><p><stage>Enter SIR HUGH EVANS</stage>
+
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p>Where is mine host?<lb/>
+
+</p></sp><sp><speaker>Host</speaker>
+<p>What is the matter, sir?<lb/>
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p>Have a care of your entertainments: there is a<lb/>
+friend of mine come to town tells me there is three<lb/>
+cozen-germans that has cozened all the hosts of<lb/>
+Readins, of Maidenhead, of Colebrook, of horses and<lb/>
+money. I tell you for good will, look you: you<lb/>
+are wise and full of gibes and vlouting-stocks, and<lb/>
+'tis not convenient you should be cozened. Fare you well.<lb/>
+
+
+</p><p><stage>Exit</stage>
+
+
+
+</p><p><stage>Enter DOCTOR CAIUS</stage>
+
+
+</p></sp><sp><speaker>DOCTOR CAIUS</speaker>
+<p>Vere is mine host de Jarteer?<lb/>
+
+</p></sp><sp><speaker>Host</speaker>
+<p>Here, master doctor, in perplexity and doubtful dilemma.<lb/>
+
+</p></sp><sp><speaker>DOCTOR CAIUS</speaker>
+<p>I cannot tell vat is dat: but it is tell-a me dat<lb/>
+you make grand preparation for a duke de Jamany: by<lb/>
+my trot, dere is no duke dat the court is know to<lb/>
+come. I tell you for good vill: adieu.<lb/>
+
+
+</p><p><stage>Exit</stage>
+
+
+</p></sp><sp><speaker>Host</speaker>
+<p>Hue and cry, villain, go! Assist me, knight. I am<lb/>
+undone! Fly, run, hue and cry, villain! I am undone!<lb/>
+
+
+</p><p><stage>Exeunt Host and BARDOLPH</stage>
+
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>I would all the world might be cozened; for I have<lb/>
+been cozened and beaten too. If it should come to<lb/>
+the ear of the court, how I have been transformed<lb/>
+and how my transformation hath been washed and<lb/>
+cudgelled, they would melt me out of my fat drop by<lb/>
+drop and liquor fishermen's boots with me; I warrant<lb/>
+they would whip me with their fine wits till I were<lb/>
+as crest-fallen as a dried pear. I never prospered<lb/>
+since I forswore myself at primero. Well, if my<lb/>
+wind were but long enough to say my prayers, I would repent.<lb/>
+
+
+</p><p><stage>Enter MISTRESS QUICKLY</stage></p>
+
+
+<p>
+Now, whence come you?<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS QUICKLY</speaker>
+<p>From the two parties, forsooth.<lb/>
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>The devil take one party and his dam the other! and<lb/>
+so they shall be both bestowed. I have suffered more<lb/>
+for their sakes, more than the villanous inconstancy<lb/>
+of man's disposition is able to bear.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS QUICKLY</speaker>
+<p>And have not they suffered? Yes, I warrant;<lb/>
+speciously one of them; Mistress Ford, good heart,<lb/>
+is beaten black and blue, that you cannot see a<lb/>
+white spot about her.<lb/>
+
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>What tellest thou me of black and blue? I was<lb/>
+beaten myself into all the colours of the rainbow;<lb/>
+and I was like to be apprehended for the witch of<lb/>
+Brentford: but that my admirable dexterity of wit,<lb/>
+my counterfeiting the action of an old woman,<lb/>
+delivered me, the knave constable had set me i' the<lb/>
+stocks, i' the common stocks, for a witch.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS QUICKLY</speaker>
+<p>Sir, let me speak with you in your chamber: you<lb/>
+shall hear how things go; and, I warrant, to your<lb/>
+content. Here is a letter will say somewhat. Good<lb/>
+hearts, what ado here is to bring you together!<lb/>
+Sure, one of you does not serve heaven well, that<lb/>
+you are so crossed.<lb/>
+
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>Come up into my chamber.<lb/>
+
+</p></sp><p><stage>Exeunt</stage>
+
+
+
+</p></div2><div2 type="scene" n="6" id="d26">
+<head>Scene 6</head>
+
+<p><stage>Another room in the Garter Inn.</stage>
+
+</p><p><stage>Enter FENTON and Host</stage>
+
+
+</p><sp><speaker>Host</speaker>
+<p>Master Fenton, talk not to me; my mind is heavy: I<lb/>
+will give over all.<lb/>
+
+
+</p></sp><sp><speaker>FENTON</speaker>
+<p>Yet hear me speak. Assist me in my purpose,<lb/>
+And, as I am a gentleman, I'll give thee<lb/>
+A hundred pound in gold more than your loss.<lb/>
+
+
+</p></sp><sp><speaker>Host</speaker>
+<p>I will hear you, Master Fenton; and I will at the<lb/>
+least keep your counsel.<lb/>
+
+
+</p></sp><sp><speaker>FENTON</speaker>
+<p>From time to time I have acquainted you<lb/>
+With the dear love I bear to fair Anne Page;<lb/>
+Who mutually hath answer'd my affection,<lb/>
+So far forth as herself might be her chooser,<lb/>
+Even to my wish: I have a letter from her<lb/>
+Of such contents as you will wonder at;<lb/>
+The mirth whereof so larded with my matter,<lb/>
+That neither singly can be manifested,<lb/>
+Without the show of both; fat Falstaff<lb/>
+Hath a great scene: the image of the jest<lb/>
+I'll show you here at large. Hark, good mine host.<lb/>
+To-night at Herne's oak, just 'twixt twelve and one,<lb/>
+Must my sweet Nan present the Fairy Queen;<lb/>
+The purpose why, is here: in which disguise,<lb/>
+While other jests are something rank on foot,<lb/>
+Her father hath commanded her to slip<lb/>
+Away with Slender and with him at Eton<lb/>
+Immediately to marry: she hath consented: Now, sir,<lb/>
+Her mother, ever strong against that match<lb/>
+And firm for Doctor Caius, hath appointed<lb/>
+That he shall likewise shuffle her away,<lb/>
+While other sports are tasking of their minds,<lb/>
+And at the deanery, where a priest attends,<lb/>
+Straight marry her: to this her mother's plot<lb/>
+She seemingly obedient likewise hath<lb/>
+Made promise to the doctor. Now, thus it rests:<lb/>
+Her father means she shall be all in white,<lb/>
+And in that habit, when Slender sees his time<lb/>
+To take her by the hand and bid her go,<lb/>
+She shall go with him: her mother hath intended,<lb/>
+The better to denote her to the doctor,<lb/>
+For they must all be mask'd and vizarded,<lb/>
+That quaint in green she shall be loose enrobed,<lb/>
+With ribands pendent, flaring 'bout her head;<lb/>
+And when the doctor spies his vantage ripe,<lb/>
+To pinch her by the hand, and, on that token,<lb/>
+The maid hath given consent to go with him.<lb/>
+
+
+</p></sp><sp><speaker>Host</speaker>
+<p>Which means she to deceive, father or mother?<lb/>
+
+</p></sp><sp><speaker>FENTON</speaker>
+<p>Both, my good host, to go along with me:<lb/>
+And here it rests, that you'll procure the vicar<lb/>
+To stay for me at church 'twixt twelve and one,<lb/>
+And, in the lawful name of marrying,<lb/>
+To give our hearts united ceremony.<lb/>
+
+
+</p></sp><sp><speaker>Host</speaker>
+<p>Well, husband your device; I'll to the vicar:<lb/>
+Bring you the maid, you shall not lack a priest.<lb/>
+
+
+</p></sp><sp><speaker>FENTON</speaker>
+<p>So shall I evermore be bound to thee;<lb/>
+Besides, I'll make a present recompense.<lb/>
+
+
+</p></sp><p><stage>Exeunt</stage></p>
+
+
+
+</div2>
+
+</div1>
+
+<div1 type="act" n="5" id="d27">
+<head>Act 5</head>
+
+<div2 type="scene" n="1" id="d28">
+<head>Scene 1</head>
+
+<p><stage>A room in the Garter Inn.</stage>
+
+</p><p><stage>Enter FALSTAFF and MISTRESS QUICKLY</stage>
+
+
+</p><sp><speaker>FALSTAFF</speaker>
+<p>Prithee, no more prattling; go. I'll hold. This is<lb/>
+the third time; I hope good luck lies in odd<lb/>
+numbers. Away I go. They say there is divinity in<lb/>
+odd numbers, either in nativity, chance, or death. Away!<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS QUICKLY</speaker>
+<p>I'll provide you a chain; and I'll do what I can to<lb/>
+get you a pair of horns.<lb/>
+
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>Away, I say; time wears: hold up your head, and mince.<lb/>
+
+</p><p><stage>Exit MISTRESS QUICKLY</stage>
+
+
+
+</p><p><stage>Enter FORD</stage></p>
+
+
+<p>
+How now, Master Brook! Master Brook, the matter<lb/>
+will be known to-night, or never. Be you in the<lb/>
+Park about midnight, at Herne's oak, and you shall<lb/>
+see wonders.<lb/>
+
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>Went you not to her yesterday, sir, as you told me<lb/>
+you had appointed?<lb/>
+
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>I went to her, Master Brook, as you see, like a poor<lb/>
+old man: but I came from her, Master Brook, like a<lb/>
+poor old woman. That same knave Ford, her husband,<lb/>
+hath the finest mad devil of jealousy in him,<lb/>
+Master Brook, that ever governed frenzy. I will tell<lb/>
+you: he beat me grievously, in the shape of a<lb/>
+woman; for in the shape of man, Master Brook, I fear<lb/>
+not Goliath with a weaver's beam; because I know<lb/>
+also life is a shuttle. I am in haste; go along<lb/>
+with me: I'll tell you all, Master Brook. Since I<lb/>
+plucked geese, played truant and whipped top, I knew<lb/>
+not what 'twas to be beaten till lately. Follow<lb/>
+me: I'll tell you strange things of this knave<lb/>
+Ford, on whom to-night I will be revenged, and I<lb/>
+will deliver his wife into your hand. Follow.<lb/>
+Strange things in hand, Master Brook! Follow.<lb/>
+
+
+</p></sp><p><stage>Exeunt</stage>
+
+
+
+</p></div2><div2 type="scene" n="2" id="d29">
+<head>Scene 2</head>
+
+<p><stage>Windsor Park.</stage>
+
+</p><p><stage>Enter PAGE, SHALLOW, and SLENDER</stage>
+
+
+</p><sp><speaker>PAGE</speaker>
+<p>Come, come; we'll couch i' the castle-ditch till we<lb/>
+see the light of our fairies. Remember, son Slender,<lb/>
+my daughter.<lb/>
+
+
+</p></sp><sp><speaker>SLENDER</speaker>
+<p>Ay, forsooth; I have spoke with her and we have a<lb/>
+nay-word how to know one another: I come to her in<lb/>
+white, and cry 'mum;' she cries 'budget;' and by<lb/>
+that we know one another.<lb/>
+
+
+</p></sp><sp><speaker>SHALLOW</speaker>
+<p>That's good too: but what needs either your 'mum'<lb/>
+or her 'budget?' the white will decipher her well<lb/>
+enough. It hath struck ten o'clock.<lb/>
+
+
+</p></sp><sp><speaker>PAGE</speaker>
+<p>The night is dark; light and spirits will become it<lb/>
+well. Heaven prosper our sport! No man means evil<lb/>
+but the devil, and we shall know him by his horns.<lb/>
+Let's away; follow me.<lb/>
+
+
+</p></sp><p><stage>Exeunt</stage>
+
+
+
+</p></div2><div2 type="scene" n="3" id="d30">
+<head>Scene 3</head>
+
+<p><stage>A street leading to the Park.</stage>
+
+</p><p><stage>Enter MISTRESS PAGE, MISTRESS FORD, and	DOCTOR CAIUS</stage>
+
+
+</p><sp><speaker>MISTRESS PAGE</speaker>
+<p>Master doctor, my daughter is in green: when you<lb/>
+see your time, take her by the band, away with her<lb/>
+to the deanery, and dispatch it quickly. Go before<lb/>
+into the Park: we two must go together.<lb/>
+
+
+</p></sp><sp><speaker>DOCTOR CAIUS</speaker>
+<p>I know vat I have to do. Adieu.<lb/>
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>Fare you well, sir.<lb/>
+
+</p><p><stage>Exit DOCTOR CAIUS</stage></p>
+
+
+<p>
+My husband will not rejoice so much at the abuse of<lb/>
+Falstaff as he will chafe at the doctor's marrying<lb/>
+my daughter: but 'tis no matter; better a little<lb/>
+chiding than a great deal of heart-break.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p>Where is Nan now and her troop of fairies, and the<lb/>
+Welsh devil Hugh?<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>They are all couched in a pit hard by Herne's oak,<lb/>
+with obscured lights; which, at the very instant of<lb/>
+Falstaff's and our meeting, they will at once<lb/>
+display to the night.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p>That cannot choose but amaze him.<lb/>
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>If he be not amazed, he will be mocked; if he be<lb/>
+amazed, he will every way be mocked.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p>We'll betray him finely.<lb/>
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>Against such lewdsters and their lechery<lb/>
+Those that betray them do no treachery.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p>The hour draws on. To the oak, to the oak!<lb/>
+
+</p></sp><p><stage>Exeunt</stage>
+
+
+
+</p></div2><div2 type="scene" n="4" id="d31">
+<head>Scene 4</head>
+
+<p><stage>Windsor Park.</stage>
+
+</p><p><stage>Enter SIR HUGH EVANS, disguised, with others as Fairies</stage>
+
+
+</p><sp><speaker>SIR HUGH EVANS</speaker>
+<p>Trib, trib, fairies; come; and remember your parts:<lb/>
+be pold, I pray you; follow me into the pit; and<lb/>
+when I give the watch-'ords, do as I pid you:<lb/>
+come, come; trib, trib.<lb/>
+
+
+</p></sp><p><stage>Exeunt</stage>
+
+
+
+</p></div2><div2 type="scene" n="5" id="d32">
+<head>Scene 5</head>
+
+<p><stage>Another part of the Park.</stage>
+
+</p><p><stage>Enter FALSTAFF disguised as Herne</stage>
+
+
+</p><sp><speaker>FALSTAFF</speaker>
+<p>The Windsor bell hath struck twelve; the minute<lb/>
+draws on. Now, the hot-blooded gods assist me!<lb/>
+Remember, Jove, thou wast a bull for thy Europa; love<lb/>
+set on thy horns. O powerful love! that, in some<lb/>
+respects, makes a beast a man, in some other, a man<lb/>
+a beast. You were also, Jupiter, a swan for the love<lb/>
+of Leda. O omnipotent Love! how near the god drew<lb/>
+to the complexion of a goose! A fault done first in<lb/>
+the form of a beast. O Jove, a beastly fault! And<lb/>
+then another fault in the semblance of a fowl; think<lb/>
+on 't, Jove; a foul fault! When gods have hot<lb/>
+backs, what shall poor men do? For me, I am here a<lb/>
+Windsor stag; and the fattest, I think, i' the<lb/>
+forest. Send me a cool rut-time, Jove, or who can<lb/>
+blame me to piss my tallow? Who comes here? my<lb/>
+doe?<lb/>
+
+
+</p><p><stage>Enter MISTRESS FORD and MISTRESS PAGE</stage>
+
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p>Sir John! art thou there, my deer? my male deer?<lb/>
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>My doe with the black scut! Let the sky rain<lb/>
+potatoes; let it thunder to the tune of Green<lb/>
+Sleeves, hail kissing-comfits and snow eringoes; let<lb/>
+there come a tempest of provocation, I will shelter me here.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p>Mistress Page is come with me, sweetheart.<lb/>
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>Divide me like a bribe buck, each a haunch: I will<lb/>
+keep my sides to myself, my shoulders for the fellow<lb/>
+of this walk, and my horns I bequeath your husbands.<lb/>
+Am I a woodman, ha? Speak I like Herne the hunter?<lb/>
+Why, now is Cupid a child of conscience; he makes<lb/>
+restitution. As I am a true spirit, welcome!<lb/>
+
+
+</p><p><stage>Noise within</stage>
+
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>Alas, what noise?<lb/>
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p>Heaven forgive our sins<lb/>
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>What should this be?<lb/>
+
+</p></sp><sp><speaker>MISTRESS FORD, MISTRESS PAGE</speaker>
+<p>Away, away!<lb/>
+
+</p><p><stage>They run off</stage>
+
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>I think the devil will not have me damned, lest the<lb/>
+oil that's in me should set hell on fire; he would<lb/>
+never else cross me thus.<lb/>
+
+
+</p><p><stage>Enter SIR HUGH EVANS, disguised as before; PISTOL,	as Hobgoblin; MISTRESS QUICKLY, ANNE PAGE, and	others, as Fairies, with tapers</stage>
+
+
+</p></sp><sp><speaker>MISTRESS QUICKLY</speaker>
+<p>Fairies, black, grey, green, and white,<lb/>
+You moonshine revellers and shades of night,<lb/>
+You orphan heirs of fixed destiny,<lb/>
+Attend your office and your quality.<lb/>
+Crier Hobgoblin, make the fairy oyes.<lb/>
+
+
+</p></sp><sp><speaker>PISTOL</speaker>
+<p>Elves, list your names; silence, you airy toys.<lb/>
+Cricket, to Windsor chimneys shalt thou leap:<lb/>
+Where fires thou find'st unraked and hearths unswept,<lb/>
+There pinch the maids as blue as bilberry:<lb/>
+Our radiant queen hates sluts and sluttery.<lb/>
+
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>They are fairies; he that speaks to them shall die:<lb/>
+I'll wink and couch: no man their works must eye.<lb/>
+
+
+</p><p><stage>Lies down upon his face</stage>
+
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p>Where's Bede? Go you, and where you find a maid<lb/>
+That, ere she sleep, has thrice her prayers said,<lb/>
+Raise up the organs of her fantasy;<lb/>
+Sleep she as sound as careless infancy:<lb/>
+But those as sleep and think not on their sins,<lb/>
+Pinch them, arms, legs, backs, shoulders, sides and shins.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS QUICKLY</speaker>
+<p>About, about;<lb/>
+Search Windsor Castle, elves, within and out:<lb/>
+Strew good luck, ouphes, on every sacred room:<lb/>
+That it may stand till the perpetual doom,<lb/>
+In state as wholesome as in state 'tis fit,<lb/>
+Worthy the owner, and the owner it.<lb/>
+The several chairs of order look you scour<lb/>
+With juice of balm and every precious flower:<lb/>
+Each fair instalment, coat, and several crest,<lb/>
+With loyal blazon, evermore be blest!<lb/>
+And nightly, meadow-fairies, look you sing,<lb/>
+Like to the Garter's compass, in a ring:<lb/>
+The expressure that it bears, green let it be,<lb/>
+More fertile-fresh than all the field to see;<lb/>
+And 'Honi soit qui mal y pense' write<lb/>
+In emerald tufts, flowers purple, blue and white;<lb/>
+Let sapphire, pearl and rich embroidery,<lb/>
+Buckled below fair knighthood's bending knee:<lb/>
+Fairies use flowers for their charactery.<lb/>
+Away; disperse: but till 'tis one o'clock,<lb/>
+Our dance of custom round about the oak<lb/>
+Of Herne the hunter, let us not forget.<lb/>
+
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p>Pray you, lock hand in hand; yourselves in order set<lb/>
+And twenty glow-worms shall our lanterns be,<lb/>
+To guide our measure round about the tree.<lb/>
+But, stay; I smell a man of middle-earth.<lb/>
+
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>Heavens defend me from that Welsh fairy, lest he<lb/>
+transform me to a piece of cheese!<lb/>
+
+
+</p></sp><sp><speaker>PISTOL</speaker>
+<p>Vile worm, thou wast o'erlook'd even in thy birth.<lb/>
+
+</p></sp><sp><speaker>MISTRESS QUICKLY</speaker>
+<p>With trial-fire touch me his finger-end:<lb/>
+If he be chaste, the flame will back descend<lb/>
+And turn him to no pain; but if he start,<lb/>
+It is the flesh of a corrupted heart.<lb/>
+
+
+</p></sp><sp><speaker>PISTOL</speaker>
+<p>A trial, come.<lb/>
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p>Come, will this wood take fire?<lb/>
+
+</p><p><stage>They burn him with their tapers</stage>
+
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>Oh, Oh, Oh!<lb/>
+
+</p></sp><sp><speaker>MISTRESS QUICKLY</speaker>
+<p>Corrupt, corrupt, and tainted in desire!<lb/>
+About him, fairies; sing a scornful rhyme;<lb/>
+And, as you trip, still pinch him to your time.<lb/>
+
+SONG.<lb/>
+Fie on sinful fantasy!<lb/>
+Fie on lust and luxury!<lb/>
+Lust is but a bloody fire,<lb/>
+Kindled with unchaste desire,<lb/>
+Fed in heart, whose flames aspire<lb/>
+As thoughts do blow them, higher and higher.<lb/>
+Pinch him, fairies, mutually;<lb/>
+Pinch him for his villany;<lb/>
+Pinch him, and burn him, and turn him about,<lb/>
+Till candles and starlight and moonshine be out.<lb/>
+
+
+</p><p><stage>During this song they pinch FALSTAFF. DOCTOR CAIUS	comes one way, and steals away a boy in green;	SLENDER another way, and takes off a boy in white;	and FENTON comes and steals away ANN PAGE.	A noise of hunting is heard within. All the	Fairies run away. FALSTAFF pulls off his buck's	head, and rises</stage>
+
+
+
+</p><p><stage>Enter PAGE, FORD, MISTRESS PAGE, and MISTRESS FORD</stage>
+
+
+</p></sp><sp><speaker>PAGE</speaker>
+<p>Nay, do not fly; I think we have watch'd you now<lb/>
+Will none but Herne the hunter serve your turn?<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>I pray you, come, hold up the jest no higher<lb/>
+Now, good Sir John, how like you Windsor wives?<lb/>
+See you these, husband? do not these fair yokes<lb/>
+Become the forest better than the town?<lb/>
+
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>Now, sir, who's a cuckold now? Master Brook,<lb/>
+Falstaff's a knave, a cuckoldly knave; here are his<lb/>
+horns, Master Brook: and, Master Brook, he hath<lb/>
+enjoyed nothing of Ford's but his buck-basket, his<lb/>
+cudgel, and twenty pounds of money, which must be<lb/>
+paid to Master Brook; his horses are arrested for<lb/>
+it, Master Brook.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS FORD</speaker>
+<p>Sir John, we have had ill luck; we could never meet.<lb/>
+I will never take you for my love again; but I will<lb/>
+always count you my deer.<lb/>
+
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>I do begin to perceive that I am made an ass.<lb/>
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>Ay, and an ox too: both the proofs are extant.<lb/>
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>And these are not fairies? I was three or four<lb/>
+times in the thought they were not fairies: and yet<lb/>
+the guiltiness of my mind, the sudden surprise of my<lb/>
+powers, drove the grossness of the foppery into a<lb/>
+received belief, in despite of the teeth of all<lb/>
+rhyme and reason, that they were fairies. See now<lb/>
+how wit may be made a Jack-a-Lent, when 'tis upon<lb/>
+ill employment!<lb/>
+
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p>Sir John Falstaff, serve Got, and leave your<lb/>
+desires, and fairies will not pinse you.<lb/>
+
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>Well said, fairy Hugh.<lb/>
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p>And leave your jealousies too, I pray you.<lb/>
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>I will never mistrust my wife again till thou art<lb/>
+able to woo her in good English.<lb/>
+
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>Have I laid my brain in the sun and dried it, that<lb/>
+it wants matter to prevent so gross o'erreaching as<lb/>
+this? Am I ridden with a Welsh goat too? shall I<lb/>
+have a coxcomb of frize? 'Tis time I were choked<lb/>
+with a piece of toasted cheese.<lb/>
+
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p>Seese is not good to give putter; your belly is all putter.<lb/>
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>'Seese' and 'putter'! have I lived to stand at the<lb/>
+taunt of one that makes fritters of English? This<lb/>
+is enough to be the decay of lust and late-walking<lb/>
+through the realm.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>Why Sir John, do you think, though we would have the<lb/>
+virtue out of our hearts by the head and shoulders<lb/>
+and have given ourselves without scruple to hell,<lb/>
+that ever the devil could have made you our delight?<lb/>
+
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>What, a hodge-pudding? a bag of flax?<lb/>
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>A puffed man?<lb/>
+
+</p></sp><sp><speaker>PAGE</speaker>
+<p>Old, cold, withered and of intolerable entrails?<lb/>
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>And one that is as slanderous as Satan?<lb/>
+
+</p></sp><sp><speaker>PAGE</speaker>
+<p>And as poor as Job?<lb/>
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>And as wicked as his wife?<lb/>
+
+</p></sp><sp><speaker>SIR HUGH EVANS</speaker>
+<p>And given to fornications, and to taverns and sack<lb/>
+and wine and metheglins, and to drinkings and<lb/>
+swearings and starings, pribbles and prabbles?<lb/>
+
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>Well, I am your theme: you have the start of me; I<lb/>
+am dejected; I am not able to answer the Welsh<lb/>
+flannel; ignorance itself is a plummet o'er me: use<lb/>
+me as you will.<lb/>
+
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>Marry, sir, we'll bring you to Windsor, to one<lb/>
+Master Brook, that you have cozened of money, to<lb/>
+whom you should have been a pander: over and above<lb/>
+that you have suffered, I think to repay that money<lb/>
+will be a biting affliction.<lb/>
+
+
+</p></sp><sp><speaker>PAGE</speaker>
+<p>Yet be cheerful, knight: thou shalt eat a posset<lb/>
+to-night at my house; where I will desire thee to<lb/>
+laugh at my wife, that now laughs at thee: tell her<lb/>
+Master Slender hath married her daughter.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p><stage>[Aside]</stage></p><p>  Doctors doubt that: if Anne Page be my<lb/>
+daughter, she is, by this, Doctor Caius' wife.<lb/>
+
+
+</p><p><stage>Enter SLENDER</stage>
+
+
+</p></sp><sp><speaker>SLENDER</speaker>
+<p>Whoa ho! ho, father Page!<lb/>
+
+</p></sp><sp><speaker>PAGE</speaker>
+<p>Son, how now! how now, son! have you dispatched?<lb/>
+
+</p></sp><sp><speaker>SLENDER</speaker>
+<p>Dispatched! I'll make the best in Gloucestershire<lb/>
+know on't; would I were hanged, la, else.<lb/>
+
+
+</p></sp><sp><speaker>PAGE</speaker>
+<p>Of what, son?<lb/>
+
+</p></sp><sp><speaker>SLENDER</speaker>
+<p>I came yonder at Eton to marry Mistress Anne Page,<lb/>
+and she's a great lubberly boy. If it had not been<lb/>
+i' the church, I would have swinged him, or he<lb/>
+should have swinged me. If I did not think it had<lb/>
+been Anne Page, would I might never stir!&mdash;and 'tis<lb/>
+a postmaster's boy.<lb/>
+
+
+</p></sp><sp><speaker>PAGE</speaker>
+<p>Upon my life, then, you took the wrong.<lb/>
+
+</p></sp><sp><speaker>SLENDER</speaker>
+<p>What need you tell me that? I think so, when I took<lb/>
+a boy for a girl. If I had been married to him, for<lb/>
+all he was in woman's apparel, I would not have had<lb/>
+him.<lb/>
+
+
+</p></sp><sp><speaker>PAGE</speaker>
+<p>Why, this is your own folly. Did not I tell you how<lb/>
+you should know my daughter by her garments?<lb/>
+
+
+</p></sp><sp><speaker>SLENDER</speaker>
+<p>I went to her in white, and cried 'mum,' and she<lb/>
+cried 'budget,' as Anne and I had appointed; and yet<lb/>
+it was not Anne, but a postmaster's boy.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>Good George, be not angry: I knew of your purpose;<lb/>
+turned my daughter into green; and, indeed, she is<lb/>
+now with the doctor at the deanery, and there married.<lb/>
+
+
+</p><p><stage>Enter DOCTOR CAIUS</stage>
+
+
+</p></sp><sp><speaker>DOCTOR CAIUS</speaker>
+<p>Vere is Mistress Page? By gar, I am cozened: I ha'<lb/>
+married un garcon, a boy; un paysan, by gar, a boy;<lb/>
+it is not Anne Page: by gar, I am cozened.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>Why, did you take her in green?<lb/>
+
+</p></sp><sp><speaker>DOCTOR CAIUS</speaker>
+<p>Ay, by gar, and 'tis a boy: by gar, I'll raise all Windsor.<lb/>
+
+</p><p><stage>Exit</stage>
+
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>This is strange. Who hath got the right Anne?<lb/>
+
+</p></sp><sp><speaker>PAGE</speaker>
+<p>My heart misgives me: here comes Master Fenton.<lb/>
+
+</p><p><stage>Enter FENTON and ANNE PAGE</stage></p>
+
+
+<p>
+How now, Master Fenton!<lb/>
+
+
+</p></sp><sp><speaker>ANNE PAGE</speaker>
+<p>Pardon, good father! good my mother, pardon!<lb/>
+
+</p></sp><sp><speaker>PAGE</speaker>
+<p>Now, mistress, how chance you went not with Master Slender?<lb/>
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>Why went you not with master doctor, maid?<lb/>
+
+</p></sp><sp><speaker>FENTON</speaker>
+<p>You do amaze her: hear the truth of it.<lb/>
+You would have married her most shamefully,<lb/>
+Where there was no proportion held in love.<lb/>
+The truth is, she and I, long since contracted,<lb/>
+Are now so sure that nothing can dissolve us.<lb/>
+The offence is holy that she hath committed;<lb/>
+And this deceit loses the name of craft,<lb/>
+Of disobedience, or unduteous title,<lb/>
+Since therein she doth evitate and shun<lb/>
+A thousand irreligious cursed hours,<lb/>
+Which forced marriage would have brought upon her.<lb/>
+
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>Stand not amazed; here is no remedy:<lb/>
+In love the heavens themselves do guide the state;<lb/>
+Money buys lands, and wives are sold by fate.<lb/>
+
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>I am glad, though you have ta'en a special stand to<lb/>
+strike at me, that your arrow hath glanced.<lb/>
+
+
+</p></sp><sp><speaker>PAGE</speaker>
+<p>Well, what remedy? Fenton, heaven give thee joy!<lb/>
+What cannot be eschew'd must be embraced.<lb/>
+
+
+</p></sp><sp><speaker>FALSTAFF</speaker>
+<p>When night-dogs run, all sorts of deer are chased.<lb/>
+
+</p></sp><sp><speaker>MISTRESS PAGE</speaker>
+<p>Well, I will muse no further. Master Fenton,<lb/>
+Heaven give you many, many merry days!<lb/>
+Good husband, let us every one go home,<lb/>
+And laugh this sport o'er by a country fire;<lb/>
+Sir John and all.<lb/>
+
+
+</p></sp><sp><speaker>FORD</speaker>
+<p>Let it be so. Sir John,<lb/>
+To Master Brook you yet shall hold your word<lb/>
+For he tonight shall lie with Mistress Ford.<lb/>
+
+
+</p></sp><p><stage>Exeunt</stage></p>
+
+
+
+</div2>
+
+</div1>
+
+</body>
+
+</text>
+
+</TEI.2>

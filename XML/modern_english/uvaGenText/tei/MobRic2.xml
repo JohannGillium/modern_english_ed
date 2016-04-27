@@ -1,0 +1,5035 @@
+<?xml version="1.0"?>
+
+<?dlps id="MobRic2"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOnum SYSTEM "http://text.lib.virginia.edu/charent/iso-num.ent"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+
+]>
+<TEI.2 id="MobRic2">
+<teiHeader type="migrated" creator="Etext">
+<fileDesc>
+<titleStmt>
+<title type="main">The Tragedy of King Richard II</title>
+<title type="sort">tragedy of king richard ii</title>
+<author>Shakespeare, William, 1564-1616</author>
+<editor>Clark, William George, 1821-1878; William Aldis Wright, 1831-1914</editor>
+<respStmt>
+<resp>Creation of machine-readable version:</resp>
+<name>Grady Ward, Moby Lexical Project</name>
+<resp>Conversion to TEI.2-conformant markup:</resp>
+<name>University of Virginia Library Electronic Text Center.</name>
+</respStmt>
+</titleStmt>
+<extent>ca. <num type="kilobytes">170</num> kilobytes</extent>
+<publicationStmt>
+<publisher>University of Virginia Library</publisher>
+<pubPlace>Charlottesville, Virginia</pubPlace>
+<idno type="ETC">MobRic2</idno>
+<date value="1998">1998</date>
+<availability status="public">
+<p n="copyright">Copyright &copy; 1998 by the Rector and Visitors of the University of Virginia</p>
+<p n="access">Publicly accessible</p>
+</availability>
+<idno type="uva-pid">uva-lib:476225</idno>
+</publicationStmt>
+<seriesStmt>
+<title>University of Virginia Library, Text collection</title>
+<idno type="uva-set">UVA-LIB-Text</idno>
+</seriesStmt>
+<notesStmt>
+<note>
+<p>We have been unable to verify conclusively the exact source of this
+electronic text, but we believe it to be "The Globe Edition" of the Works of
+William Shakespeare edited by William George Clark and William Aldis Wright.
+Error checking was done against the 1866 edition noted in the "Source
+Description" field.  These texts are public domain.</p>
+</note>
+</notesStmt>
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title type="main">The Tragedy of King Richard II</title>
+<title type="sort">tragedy of king richard ii</title>
+<author>Shakespeare, William, 1564-1616</author>
+<editor>Clark, William George, 1821-1878; William Aldis Wright, 1831-1914</editor>
+</titleStmt>
+<editionStmt>
+<p>The Globe Edition</p>
+</editionStmt>
+<extent>viii, 1075 p. 18 cm.</extent>
+<publicationStmt>
+<publisher>MacMillan and Co.</publisher>
+<pubPlace>Cambridge</pubPlace>
+<date value="1866">1866</date>
+<idno type="callNo">Print copy consulted: UVa Library, PR2753 .C6 1866</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+</projectDesc>
+<editorialDecl>
+<p>All unambiguous end-of-line hyphens have been removed, and the  trailing
+part of a word has been joined to the preceding line.</p>
+<p id="ETC">Some keywords in the header are a local Electronic Text Center
+scheme  to aid in establishing analytical groupings.</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date value="">
+<dateRange from="1593" to="1594">1593-1594</dateRange>
+</date>
+</creation>
+<langUsage>
+<language id="eng" usage="main">English</language>
+</langUsage>
+<textClass>
+<keywords>
+<term>fiction</term>
+<term>drama</term>
+<term>masculine</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change>
+<date value="1998-10">October 1998</date>
+<respStmt>
+<resp>corrector</resp>
+<name>Stephen Ramsay, Electronic Text Center</name>
+</respStmt>
+<item>Added TEI header and tags.</item>
+</change>
+<change>
+<date value="2005-07">July 2005</date>
+<respStmt>
+<resp>Corrector</resp>
+<name>John Ivor Carlson</name>
+</respStmt>
+<item>Converted to XML and/or checked tags.</item>
+</change>
+<change>
+<date value="2007-09">September 2007</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Ethan Gruber, University of Virginia Library</name>
+</respStmt>
+<item>Converted XML markup from TEI Lite to uva-dl-tei (TEI P4 with local customizations).</item>
+</change>
+<change>
+<date value="2008-01">January 2008</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Greg Murray, University of Virginia Library</name>
+</respStmt>
+<item>Programmatically updated TEI header markup (but not header content) for minimal compliance with current QA requirements.</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text id="d1">
+
+
+<front id="d2">
+
+<div1 type="play" id="d3"><head>Dramatis Personae</head>
+
+
+<list>
+<item>KING RICHARD   the Second.
+</item>
+<item>JOHN OF GAUNT Duke of Lancaster, EDMUND OF LANGLEY	Duke of York } uncles to the King.</item>
+<item>HENRY, surnamed BOLINGBROKE, Duke of Hereford, son to John of Gaunt; afterwards King Henry IV.</item>
+<item>DUKE OF AUMERLE   son to the Duke of York.
+</item>
+<item>THOMAS MOWBRAY   Duke of Norfolk.
+</item>
+<item>DUKE OF SURREY</item>
+<item>EARL OF SALISBURY</item>
+<item>LORD BERKELEY</item>
+<item>BUSHY, BAGOT, GREEN } servants to King Richard.</item>
+<item>EARL OF NORTHUMBERLAND    </item>
+<item>HENRY PERCY, surnamed HOTSPUR   his son.
+</item>
+<item>LORD ROSS</item>
+<item>LORD WILLOUGHBY</item>
+<item>LORD FITZWATER</item>
+<item>BISHOP OF CARLISLE</item>
+<item>Abbot Of Westminster    </item>
+<item>LORD MARSHAL
+</item>
+<item>SIR STEPHEN SCROOP</item>
+<item>SIR PIERCE OF EXTON    </item>
+<item>Captain of a band of Welshmen. </item>
+<item>QUEEN to King Richard    </item>
+<item>DUCHESS OF YORK
+</item>
+<item>DUCHESS OF GLOUCESTER    </item>
+<item>Lady attending on the Queen. </item>
+<item>Lords, Heralds, Officers, Soldiers, two Gardeners, Keeper, Messenger, Groom, and other Attendants. </item>
+
+
+</list>
+
+<p><stage>Scene: England and Wales.</stage></p>
+
+</div1>
+
+</front>
+
+<body id="d4">
+
+<div1 type="act" n="1" id="d5">
+<head>Act 1</head>
+
+<div2 type="scene" n="1" id="d6">
+<head>Scene 1</head><p><stage>London. KING RICHARD II's palace.</stage>
+
+</p><p><stage>Enter KING RICHARD II, JOHN OF GAUNT, with other	Nobles and Attendants</stage>
+
+
+</p><sp><speaker>KING RICHARD II</speaker>
+<p>Old John of Gaunt, time-honour'd Lancaster,<lb/>
+Hast thou, according to thy oath and band,<lb/>
+Brought hither Henry Hereford thy bold son,<lb/>
+Here to make good the boisterous late appeal,<lb/>
+Which then our leisure would not let us hear,<lb/>
+Against the Duke of Norfolk, Thomas Mowbray?<lb/>
+
+
+</p></sp><sp><speaker>JOHN OF GAUNT</speaker>
+<p>I have, my liege.<lb/>
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>Tell me, moreover, hast thou sounded him,<lb/>
+If he appeal the duke on ancient malice;<lb/>
+Or worthily, as a good subject should,<lb/>
+On some known ground of treachery in him?<lb/>
+
+
+</p></sp><sp><speaker>JOHN OF GAUNT</speaker>
+<p>As near as I could sift him on that argument,<lb/>
+On some apparent danger seen in him<lb/>
+Aim'd at your highness, no inveterate malice.<lb/>
+
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>Then call them to our presence; face to face,<lb/>
+And frowning brow to brow, ourselves will hear<lb/>
+The accuser and the accused freely speak:<lb/>
+High-stomach'd are they both, and full of ire,<lb/>
+In rage deaf as the sea, hasty as fire.<lb/>
+
+
+</p><p><stage>Enter HENRY BOLINGBROKE and THOMAS MOWBRAY</stage>
+
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>Many years of happy days befal<lb/>
+My gracious sovereign, my most loving liege!<lb/>
+
+
+</p></sp><sp><speaker>THOMAS MOWBRAY</speaker>
+<p>Each day still better other's happiness;<lb/>
+Until the heavens, envying earth's good hap,<lb/>
+Add an immortal title to your crown!<lb/>
+
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>We thank you both: yet one but flatters us,<lb/>
+As well appeareth by the cause you come;<lb/>
+Namely to appeal each other of high treason.<lb/>
+Cousin of Hereford, what dost thou object<lb/>
+Against the Duke of Norfolk, Thomas Mowbray?<lb/>
+
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>First, heaven be the record to my speech!<lb/>
+In the devotion of a subject's love,<lb/>
+Tendering the precious safety of my prince,<lb/>
+And free from other misbegotten hate,<lb/>
+Come I appellant to this princely presence.<lb/>
+Now, Thomas Mowbray, do I turn to thee,<lb/>
+And mark my greeting well; for what I speak<lb/>
+My body shall make good upon this earth,<lb/>
+Or my divine soul answer it in heaven.<lb/>
+Thou art a traitor and a miscreant,<lb/>
+Too good to be so and too bad to live,<lb/>
+Since the more fair and crystal is the sky,<lb/>
+The uglier seem the clouds that in it fly.<lb/>
+Once more, the more to aggravate the note,<lb/>
+With a foul traitor's name stuff I thy throat;<lb/>
+And wish, so please my sovereign, ere I move,<lb/>
+What my tongue speaks my right drawn sword may prove.<lb/>
+
+
+</p></sp><sp><speaker>THOMAS MOWBRAY</speaker>
+<p>Let not my cold words here accuse my zeal:<lb/>
+'Tis not the trial of a woman's war,<lb/>
+The bitter clamour of two eager tongues,<lb/>
+Can arbitrate this cause betwixt us twain;<lb/>
+The blood is hot that must be cool'd for this:<lb/>
+Yet can I not of such tame patience boast<lb/>
+As to be hush'd and nought at all to say:<lb/>
+First, the fair reverence of your highness curbs me<lb/>
+From giving reins and spurs to my free speech;<lb/>
+Which else would post until it had return'd<lb/>
+These terms of treason doubled down his throat.<lb/>
+Setting aside his high blood's royalty,<lb/>
+And let him be no kinsman to my liege,<lb/>
+I do defy him, and I spit at him;<lb/>
+Call him a slanderous coward and a villain:<lb/>
+Which to maintain I would allow him odds,<lb/>
+And meet him, were I tied to run afoot<lb/>
+Even to the frozen ridges of the Alps,<lb/>
+Or any other ground inhabitable,<lb/>
+Where ever Englishman durst set his foot.<lb/>
+Mean time let this defend my loyalty,<lb/>
+By all my hopes, most falsely doth he lie.<lb/>
+
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>Pale trembling coward, there I throw my gage,<lb/>
+Disclaiming here the kindred of the king,<lb/>
+And lay aside my high blood's royalty,<lb/>
+Which fear, not reverence, makes thee to except.<lb/>
+If guilty dread have left thee so much strength<lb/>
+As to take up mine honour's pawn, then stoop:<lb/>
+By that and all the rites of knighthood else,<lb/>
+Will I make good against thee, arm to arm,<lb/>
+What I have spoke, or thou canst worse devise.<lb/>
+
+
+</p></sp><sp><speaker>THOMAS MOWBRAY</speaker>
+<p>I take it up; and by that sword I swear<lb/>
+Which gently laid my knighthood on my shoulder,<lb/>
+I'll answer thee in any fair degree,<lb/>
+Or chivalrous design of knightly trial:<lb/>
+And when I mount, alive may I not light,<lb/>
+If I be traitor or unjustly fight!<lb/>
+
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>What doth our cousin lay to Mowbray's charge?<lb/>
+It must be great that can inherit us<lb/>
+So much as of a thought of ill in him.<lb/>
+
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>Look, what I speak, my life shall prove it true;<lb/>
+That Mowbray hath received eight thousand nobles<lb/>
+In name of lendings for your highness' soldiers,<lb/>
+The which he hath detain'd for lewd employments,<lb/>
+Like a false traitor and injurious villain.<lb/>
+Besides I say and will in battle prove,<lb/>
+Or here or elsewhere to the furthest verge<lb/>
+That ever was survey'd by English eye,<lb/>
+That all the treasons for these eighteen years<lb/>
+Complotted and contrived in this land<lb/>
+Fetch from false Mowbray their first head and spring.<lb/>
+Further I say and further will maintain<lb/>
+Upon his bad life to make all this good,<lb/>
+That he did plot the Duke of Gloucester's death,<lb/>
+Suggest his soon-believing adversaries,<lb/>
+And consequently, like a traitor coward,<lb/>
+Sluiced out his innocent soul through streams of blood:<lb/>
+Which blood, like sacrificing Abel's, cries,<lb/>
+Even from the tongueless caverns of the earth,<lb/>
+To me for justice and rough chastisement;<lb/>
+And, by the glorious worth of my descent,<lb/>
+This arm shall do it, or this life be spent.<lb/>
+
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>How high a pitch his resolution soars!<lb/>
+Thomas of Norfolk, what say'st thou to this?<lb/>
+
+
+</p></sp><sp><speaker>THOMAS MOWBRAY</speaker>
+<p>O, let my sovereign turn away his face<lb/>
+And bid his ears a little while be deaf,<lb/>
+Till I have told this slander of his blood,<lb/>
+How God and good men hate so foul a liar.<lb/>
+
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>Mowbray, impartial are our eyes and ears:<lb/>
+Were he my brother, nay, my kingdom's heir,<lb/>
+As he is but my father's brother's son,<lb/>
+Now, by my sceptre's awe, I make a vow,<lb/>
+Such neighbour nearness to our sacred blood<lb/>
+Should nothing privilege him, nor partialize<lb/>
+The unstooping firmness of my upright soul:<lb/>
+He is our subject, Mowbray; so art thou:<lb/>
+Free speech and fearless I to thee allow.<lb/>
+
+
+</p></sp><sp><speaker>THOMAS MOWBRAY</speaker>
+<p>Then, Bolingbroke, as low as to thy heart,<lb/>
+Through the false passage of thy throat, thou liest.<lb/>
+Three parts of that receipt I had for Calais<lb/>
+Disbursed I duly to his highness' soldiers;<lb/>
+The other part reserved I by consent,<lb/>
+For that my sovereign liege was in my debt<lb/>
+Upon remainder of a dear account,<lb/>
+Since last I went to France to fetch his queen:<lb/>
+Now swallow down that lie. For Gloucester's death,<lb/>
+I slew him not; but to my own disgrace<lb/>
+Neglected my sworn duty in that case.<lb/>
+For you, my noble Lord of Lancaster,<lb/>
+The honourable father to my foe<lb/>
+Once did I lay an ambush for your life,<lb/>
+A trespass that doth vex my grieved soul<lb/>
+But ere I last received the sacrament<lb/>
+I did confess it, and exactly begg'd<lb/>
+Your grace's pardon, and I hope I had it.<lb/>
+This is my fault: as for the rest appeall'd,<lb/>
+It issues from the rancour of a villain,<lb/>
+A recreant and most degenerate traitor<lb/>
+Which in myself I boldly will defend;<lb/>
+And interchangeably hurl down my gage<lb/>
+Upon this overweening traitor's foot,<lb/>
+To prove myself a loyal gentleman<lb/>
+Even in the best blood chamber'd in his bosom.<lb/>
+In haste whereof, most heartily I pray<lb/>
+Your highness to assign our trial day.<lb/>
+
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>Wrath-kindled gentlemen, be ruled by me;<lb/>
+Let's purge this choler without letting blood:<lb/>
+This we prescribe, though no physician;<lb/>
+Deep malice makes too deep incision;<lb/>
+Forget, forgive; conclude and be agreed;<lb/>
+Our doctors say this is no month to bleed.<lb/>
+Good uncle, let this end where it begun;<lb/>
+We'll calm the Duke of Norfolk, you your son.<lb/>
+
+
+</p></sp><sp><speaker>JOHN OF GAUNT</speaker>
+<p>To be a make-peace shall become my age:<lb/>
+Throw down, my son, the Duke of Norfolk's gage.<lb/>
+
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>And, Norfolk, throw down his.<lb/>
+
+</p></sp><sp><speaker>JOHN OF GAUNT</speaker>
+<p>When, Harry, when?<lb/>
+Obedience bids I should not bid again.<lb/>
+
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>Norfolk, throw down, we bid; there is no boot.<lb/>
+
+</p></sp><sp><speaker>THOMAS MOWBRAY</speaker>
+<p>Myself I throw, dread sovereign, at thy foot.<lb/>
+My life thou shalt command, but not my shame:<lb/>
+The one my duty owes; but my fair name,<lb/>
+Despite of death that lives upon my grave,<lb/>
+To dark dishonour's use thou shalt not have.<lb/>
+I am disgraced, impeach'd and baffled here,<lb/>
+Pierced to the soul with slander's venom'd spear,<lb/>
+The which no balm can cure but his heart-blood<lb/>
+Which breathed this poison.<lb/>
+
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>Rage must be withstood:<lb/>
+Give me his gage: lions make leopards tame.<lb/>
+
+
+</p></sp><sp><speaker>THOMAS MOWBRAY</speaker>
+<p>Yea, but not change his spots: take but my shame.<lb/>
+And I resign my gage. My dear dear lord,<lb/>
+The purest treasure mortal times afford<lb/>
+Is spotless reputation: that away,<lb/>
+Men are but gilded loam or painted clay.<lb/>
+A jewel in a ten-times-barr'd-up chest<lb/>
+Is a bold spirit in a loyal breast.<lb/>
+Mine honour is my life; both grow in one:<lb/>
+Take honour from me, and my life is done:<lb/>
+Then, dear my liege, mine honour let me try;<lb/>
+In that I live and for that will I die.<lb/>
+
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>Cousin, throw up your gage; do you begin.<lb/>
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>O, God defend my soul from such deep sin!<lb/>
+Shall I seem crest-fall'n in my father's sight?<lb/>
+Or with pale beggar-fear impeach my height<lb/>
+Before this out-dared dastard? Ere my tongue<lb/>
+Shall wound my honour with such feeble wrong,<lb/>
+Or sound so base a parle, my teeth shall tear<lb/>
+The slavish motive of recanting fear,<lb/>
+And spit it bleeding in his high disgrace,<lb/>
+Where shame doth harbour, even in Mowbray's face.<lb/>
+
+
+</p><p><stage>Exit JOHN OF GAUNT</stage>
+
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>We were not born to sue, but to command;<lb/>
+Which since we cannot do to make you friends,<lb/>
+Be ready, as your lives shall answer it,<lb/>
+At Coventry, upon Saint Lambert's day:<lb/>
+There shall your swords and lances arbitrate<lb/>
+The swelling difference of your settled hate:<lb/>
+Since we can not atone you, we shall see<lb/>
+Justice design the victor's chivalry.<lb/>
+Lord marshal, command our officers at arms<lb/>
+Be ready to direct these home alarms.<lb/>
+
+
+</p></sp><p><stage>Exeunt</stage>
+
+
+
+</p></div2><div2 type="scene" n="2" id="d7">
+<head>Scene 2</head>
+
+<p><stage>The DUKE OF LANCASTER'S palace.</stage>
+
+</p><p><stage>Enter JOHN OF GAUNT with DUCHESS</stage>
+
+
+</p><sp><speaker>JOHN OF GAUNT</speaker>
+<p>Alas, the part I had in Woodstock's blood<lb/>
+Doth more solicit me than your exclaims,<lb/>
+To stir against the butchers of his life!<lb/>
+But since correction lieth in those hands<lb/>
+Which made the fault that we cannot correct,<lb/>
+Put we our quarrel to the will of heaven;<lb/>
+Who, when they see the hours ripe on earth,<lb/>
+Will rain hot vengeance on offenders' heads.<lb/>
+
+
+</p></sp><sp><speaker>DUCHESS</speaker>
+<p>Finds brotherhood in thee no sharper spur?<lb/>
+Hath love in thy old blood no living fire?<lb/>
+Edward's seven sons, whereof thyself art one,<lb/>
+Were as seven vials of his sacred blood,<lb/>
+Or seven fair branches springing from one root:<lb/>
+Some of those seven are dried by nature's course,<lb/>
+Some of those branches by the Destinies cut;<lb/>
+But Thomas, my dear lord, my life, my Gloucester,<lb/>
+One vial full of Edward's sacred blood,<lb/>
+One flourishing branch of his most royal root,<lb/>
+Is crack'd, and all the precious liquor spilt,<lb/>
+Is hack'd down, and his summer leaves all faded,<lb/>
+By envy's hand and murder's bloody axe.<lb/>
+Ah, Gaunt, his blood was thine! that bed, that womb,<lb/>
+That metal, that self-mould, that fashion'd thee<lb/>
+Made him a man; and though thou livest and breathest,<lb/>
+Yet art thou slain in him: thou dost consent<lb/>
+In some large measure to thy father's death,<lb/>
+In that thou seest thy wretched brother die,<lb/>
+Who was the model of thy father's life.<lb/>
+Call it not patience, Gaunt; it is despair:<lb/>
+In suffering thus thy brother to be slaughter'd,<lb/>
+Thou showest the naked pathway to thy life,<lb/>
+Teaching stern murder how to butcher thee:<lb/>
+That which in mean men we intitle patience<lb/>
+Is pale cold cowardice in noble breasts.<lb/>
+What shall I say? to safeguard thine own life,<lb/>
+The best way is to venge my Gloucester's death.<lb/>
+
+
+</p></sp><sp><speaker>JOHN OF GAUNT</speaker>
+<p>God's is the quarrel; for God's substitute,<lb/>
+His deputy anointed in His sight,<lb/>
+Hath caused his death: the which if wrongfully,<lb/>
+Let heaven revenge; for I may never lift<lb/>
+An angry arm against His minister.<lb/>
+
+
+</p></sp><sp><speaker>DUCHESS</speaker>
+<p>Where then, alas, may I complain myself?<lb/>
+
+</p></sp><sp><speaker>JOHN OF GAUNT</speaker>
+<p>To God, the widow's champion and defence.<lb/>
+
+</p></sp><sp><speaker>DUCHESS</speaker>
+<p>Why, then, I will. Farewell, old Gaunt.<lb/>
+Thou goest to Coventry, there to behold<lb/>
+Our cousin Hereford and fell Mowbray fight:<lb/>
+O, sit my husband's wrongs on Hereford's spear,<lb/>
+That it may enter butcher Mowbray's breast!<lb/>
+Or, if misfortune miss the first career,<lb/>
+Be Mowbray's sins so heavy in his bosom,<lb/>
+They may break his foaming courser's back,<lb/>
+And throw the rider headlong in the lists,<lb/>
+A caitiff recreant to my cousin Hereford!<lb/>
+Farewell, old Gaunt: thy sometimes brother's wife<lb/>
+With her companion grief must end her life.<lb/>
+
+
+</p></sp><sp><speaker>JOHN OF GAUNT</speaker>
+<p>Sister, farewell; I must to Coventry:<lb/>
+As much good stay with thee as go with me!<lb/>
+
+
+</p></sp><sp><speaker>DUCHESS</speaker>
+<p>Yet one word more: grief boundeth where it falls,<lb/>
+Not with the empty hollowness, but weight:<lb/>
+I take my leave before I have begun,<lb/>
+For sorrow ends not when it seemeth done.<lb/>
+Commend me to thy brother, Edmund York.<lb/>
+Lo, this is all:&mdash;nay, yet depart not so;<lb/>
+Though this be all, do not so quickly go;<lb/>
+I shall remember more. Bid him&mdash;ah, what?&mdash;<lb/>
+With all good speed at Plashy visit me.<lb/>
+Alack, and what shall good old York there see<lb/>
+But empty lodgings and unfurnish'd walls,<lb/>
+Unpeopled offices, untrodden stones?<lb/>
+And what hear there for welcome but my groans?<lb/>
+Therefore commend me; let him not come there,<lb/>
+To seek out sorrow that dwells every where.<lb/>
+Desolate, desolate, will I hence and die:<lb/>
+The last leave of thee takes my weeping eye.<lb/>
+
+
+</p></sp><p><stage>Exeunt</stage>
+
+
+
+</p></div2><div2 type="scene" n="3" id="d8">
+<head>Scene 3</head>
+
+<p><stage>The lists at Coventry.</stage>
+
+</p><p><stage>Enter the Lord Marshal and the DUKE OF AUMERLE</stage>
+
+
+</p><sp><speaker>Lord Marshal</speaker>
+<p>My Lord Aumerle, is Harry Hereford arm'd?<lb/>
+
+</p></sp><sp><speaker>DUKE OF AUMERLE</speaker>
+<p>Yea, at all points; and longs to enter in.<lb/>
+
+</p></sp><sp><speaker>Lord Marshal</speaker>
+<p>The Duke of Norfolk, sprightfully and bold,<lb/>
+Stays but the summons of the appellant's trumpet.<lb/>
+
+
+</p></sp><sp><speaker>DUKE OF AUMERLE</speaker>
+<p>Why, then, the champions are prepared, and stay<lb/>
+For nothing but his majesty's approach.<lb/>
+
+
+</p><p><stage>The trumpets sound, and KING RICHARD enters with	his nobles, JOHN OF GAUNT, BUSHY, BAGOT, GREEN, and	others. When they are set, enter THOMAS MOWBRAY in	arms, defendant, with a Herald</stage>
+
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>Marshal, demand of yonder champion<lb/>
+The cause of his arrival here in arms:<lb/>
+Ask him his name and orderly proceed<lb/>
+To swear him in the justice of his cause.<lb/>
+
+
+</p></sp><sp><speaker>Lord Marshal</speaker>
+<p>In God's name and the king's, say who thou art<lb/>
+And why thou comest thus knightly clad in arms,<lb/>
+Against what man thou comest, and what thy quarrel:<lb/>
+Speak truly, on thy knighthood and thy oath;<lb/>
+As so defend thee heaven and thy valour!<lb/>
+
+
+</p></sp><sp><speaker>THOMAS MOWBRAY</speaker>
+<p>My name is Thomas Mowbray, Duke of Norfolk;<lb/>
+Who hither come engaged by my oath&mdash;<lb/>
+Which God defend a knight should violate!&mdash;<lb/>
+Both to defend my loyalty and truth<lb/>
+To God, my king and my succeeding issue,<lb/>
+Against the Duke of Hereford that appeals me<lb/>
+And, by the grace of God and this mine arm,<lb/>
+To prove him, in defending of myself,<lb/>
+A traitor to my God, my king, and me:<lb/>
+And as I truly fight, defend me heaven!<lb/>
+
+
+</p><p><stage>The trumpets sound. Enter HENRY BOLINGBROKE,	appellant, in armour, with a Herald</stage>
+
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>Marshal, ask yonder knight in arms,<lb/>
+Both who he is and why he cometh hither<lb/>
+Thus plated in habiliments of war,<lb/>
+And formally, according to our law,<lb/>
+Depose him in the justice of his cause.<lb/>
+
+
+</p></sp><sp><speaker>Lord Marshal</speaker>
+<p>What is thy name? and wherefore comest thou hither,<lb/>
+Before King Richard in his royal lists?<lb/>
+Against whom comest thou? and what's thy quarrel?<lb/>
+Speak like a true knight, so defend thee heaven!<lb/>
+
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>Harry of Hereford, Lancaster and Derby<lb/>
+Am I; who ready here do stand in arms,<lb/>
+To prove, by God's grace and my body's valour,<lb/>
+In lists, on Thomas Mowbray, Duke of Norfolk,<lb/>
+That he is a traitor, foul and dangerous,<lb/>
+To God of heaven, King Richard and to me;<lb/>
+And as I truly fight, defend me heaven!<lb/>
+
+
+</p></sp><sp><speaker>Lord Marshal</speaker>
+<p>On pain of death, no person be so bold<lb/>
+Or daring-hardy as to touch the lists,<lb/>
+Except the marshal and such officers<lb/>
+Appointed to direct these fair designs.<lb/>
+
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>Lord marshal, let me kiss my sovereign's hand,<lb/>
+And bow my knee before his majesty:<lb/>
+For Mowbray and myself are like two men<lb/>
+That vow a long and weary pilgrimage;<lb/>
+Then let us take a ceremonious leave<lb/>
+And loving farewell of our several friends.<lb/>
+
+
+</p></sp><sp><speaker>Lord Marshal</speaker>
+<p>The appellant in all duty greets your highness,<lb/>
+And craves to kiss your hand and take his leave.<lb/>
+
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>We will descend and fold him in our arms.<lb/>
+Cousin of Hereford, as thy cause is right,<lb/>
+So be thy fortune in this royal fight!<lb/>
+Farewell, my blood; which if to-day thou shed,<lb/>
+Lament we may, but not revenge thee dead.<lb/>
+
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>O let no noble eye profane a tear<lb/>
+For me, if I be gored with Mowbray's spear:<lb/>
+As confident as is the falcon's flight<lb/>
+Against a bird, do I with Mowbray fight.<lb/>
+My loving lord, I take my leave of you;<lb/>
+Of you, my noble cousin, Lord Aumerle;<lb/>
+Not sick, although I have to do with death,<lb/>
+But lusty, young, and cheerly drawing breath.<lb/>
+Lo, as at English feasts, so I regreet<lb/>
+The daintiest last, to make the end most sweet:<lb/>
+O thou, the earthly author of my blood,<lb/>
+Whose youthful spirit, in me regenerate,<lb/>
+Doth with a twofold vigour lift me up<lb/>
+To reach at victory above my head,<lb/>
+Add proof unto mine armour with thy prayers;<lb/>
+And with thy blessings steel my lance's point,<lb/>
+That it may enter Mowbray's waxen coat,<lb/>
+And furbish new the name of John a Gaunt,<lb/>
+Even in the lusty havior of his son.<lb/>
+
+
+</p></sp><sp><speaker>JOHN OF GAUNT</speaker>
+<p>God in thy good cause make thee prosperous!<lb/>
+Be swift like lightning in the execution;<lb/>
+And let thy blows, doubly redoubled,<lb/>
+Fall like amazing thunder on the casque<lb/>
+Of thy adverse pernicious enemy:<lb/>
+Rouse up thy youthful blood, be valiant and live.<lb/>
+
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>Mine innocency and Saint George to thrive!<lb/>
+
+</p></sp><sp><speaker>THOMAS MOWBRAY</speaker>
+<p>However God or fortune cast my lot,<lb/>
+There lives or dies, true to King Richard's throne,<lb/>
+A loyal, just and upright gentleman:<lb/>
+Never did captive with a freer heart<lb/>
+Cast off his chains of bondage and embrace<lb/>
+His golden uncontroll'd enfranchisement,<lb/>
+More than my dancing soul doth celebrate<lb/>
+This feast of battle with mine adversary.<lb/>
+Most mighty liege, and my companion peers,<lb/>
+Take from my mouth the wish of happy years:<lb/>
+As gentle and as jocund as to jest<lb/>
+Go I to fight: truth hath a quiet breast.<lb/>
+
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>Farewell, my lord: securely I espy<lb/>
+Virtue with valour couched in thine eye.<lb/>
+Order the trial, marshal, and begin.<lb/>
+
+
+</p></sp><sp><speaker>Lord Marshal</speaker>
+<p>Harry of Hereford, Lancaster and Derby,<lb/>
+Receive thy lance; and God defend the right!<lb/>
+
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>Strong as a tower in hope, I cry amen.<lb/>
+
+</p></sp><sp><speaker>Lord Marshal</speaker>
+<p>Go bear this lance to Thomas, Duke of Norfolk.<lb/>
+
+</p></sp><sp><speaker>First Herald</speaker>
+<p>Harry of Hereford, Lancaster and Derby,<lb/>
+Stands here for God, his sovereign and himself,<lb/>
+On pain to be found false and recreant,<lb/>
+To prove the Duke of Norfolk, Thomas Mowbray,<lb/>
+A traitor to his God, his king and him;<lb/>
+And dares him to set forward to the fight.<lb/>
+
+
+</p></sp><sp><speaker>Second Herald</speaker>
+<p>Here standeth Thomas Mowbray, Duke of Norfolk,<lb/>
+On pain to be found false and recreant,<lb/>
+Both to defend himself and to approve<lb/>
+Henry of Hereford, Lancaster, and Derby,<lb/>
+To God, his sovereign and to him disloyal;<lb/>
+Courageously and with a free desire<lb/>
+Attending but the signal to begin.<lb/>
+
+
+</p></sp><sp><speaker>Lord Marshal</speaker>
+<p>Sound, trumpets; and set forward, combatants.<lb/>
+
+</p><p><stage>A charge sounded</stage></p>
+
+
+<p>
+Stay, the king hath thrown his warder down.<lb/>
+
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>Let them lay by their helmets and their spears,<lb/>
+And both return back to their chairs again:<lb/>
+Withdraw with us: and let the trumpets sound<lb/>
+While we return these dukes what we decree.<lb/>
+
+
+</p><p><stage>A long flourish</stage></p>
+
+
+<p>
+Draw near,<lb/>
+And list what with our council we have done.<lb/>
+For that our kingdom's earth should not be soil'd<lb/>
+With that dear blood which it hath fostered;<lb/>
+And for our eyes do hate the dire aspect<lb/>
+Of civil wounds plough'd up with neighbours' sword;<lb/>
+And for we think the eagle-winged pride<lb/>
+Of sky-aspiring and ambitious thoughts,<lb/>
+With rival-hating envy, set on you<lb/>
+To wake our peace, which in our country's cradle<lb/>
+Draws the sweet infant breath of gentle sleep;<lb/>
+Which so roused up with boisterous untuned drums,<lb/>
+With harsh resounding trumpets' dreadful bray,<lb/>
+And grating shock of wrathful iron arms,<lb/>
+Might from our quiet confines fright fair peace<lb/>
+And make us wade even in our kindred's blood,<lb/>
+Therefore, we banish you our territories:<lb/>
+You, cousin Hereford, upon pain of life,<lb/>
+Till twice five summers have enrich'd our fields<lb/>
+Shall not regreet our fair dominions,<lb/>
+But tread the stranger paths of banishment.<lb/>
+
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>Your will be done: this must my comfort be,<lb/>
+Sun that warms you here shall shine on me;<lb/>
+And those his golden beams to you here lent<lb/>
+Shall point on me and gild my banishment.<lb/>
+
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>Norfolk, for thee remains a heavier doom,<lb/>
+Which I with some unwillingness pronounce:<lb/>
+The sly slow hours shall not determinate<lb/>
+The dateless limit of thy dear exile;<lb/>
+The hopeless word of 'never to return'<lb/>
+Breathe I against thee, upon pain of life.<lb/>
+
+
+</p></sp><sp><speaker>THOMAS MOWBRAY</speaker>
+<p>A heavy sentence, my most sovereign liege,<lb/>
+And all unlook'd for from your highness' mouth:<lb/>
+A dearer merit, not so deep a maim<lb/>
+As to be cast forth in the common air,<lb/>
+Have I deserved at your highness' hands.<lb/>
+The language I have learn'd these forty years,<lb/>
+My native English, now I must forego:<lb/>
+And now my tongue's use is to me no more<lb/>
+Than an unstringed viol or a harp,<lb/>
+Or like a cunning instrument cased up,<lb/>
+Or, being open, put into his hands<lb/>
+That knows no touch to tune the harmony:<lb/>
+Within my mouth you have engaol'd my tongue,<lb/>
+Doubly portcullis'd with my teeth and lips;<lb/>
+And dull unfeeling barren ignorance<lb/>
+Is made my gaoler to attend on me.<lb/>
+I am too old to fawn upon a nurse,<lb/>
+Too far in years to be a pupil now:<lb/>
+What is thy sentence then but speechless death,<lb/>
+Which robs my tongue from breathing native breath?<lb/>
+
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>It boots thee not to be compassionate:<lb/>
+After our sentence plaining comes too late.<lb/>
+
+
+</p></sp><sp><speaker>THOMAS MOWBRAY</speaker>
+<p>Then thus I turn me from my country's light,<lb/>
+To dwell in solemn shades of endless night.<lb/>
+
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>Return again, and take an oath with thee.<lb/>
+Lay on our royal sword your banish'd hands;<lb/>
+Swear by the duty that you owe to God&mdash;<lb/>
+Our part therein we banish with yourselves&mdash;<lb/>
+To keep the oath that we administer:<lb/>
+You never shall, so help you truth and God!<lb/>
+Embrace each other's love in banishment;<lb/>
+Nor never look upon each other's face;<lb/>
+Nor never write, regreet, nor reconcile<lb/>
+This louring tempest of your home-bred hate;<lb/>
+Nor never by advised purpose meet<lb/>
+To plot, contrive, or complot any ill<lb/>
+'Gainst us, our state, our subjects, or our land.<lb/>
+
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>I swear.<lb/>
+
+</p></sp><sp><speaker>THOMAS MOWBRAY</speaker>
+<p>And I, to keep all this.<lb/>
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>Norfolk, so far as to mine enemy:&mdash;<lb/>
+By this time, had the king permitted us,<lb/>
+One of our souls had wander'd in the air.<lb/>
+Banish'd this frail sepulchre of our flesh,<lb/>
+As now our flesh is banish'd from this land:<lb/>
+Confess thy treasons ere thou fly the realm;<lb/>
+Since thou hast far to go, bear not along<lb/>
+The clogging burthen of a guilty soul.<lb/>
+
+
+</p></sp><sp><speaker>THOMAS MOWBRAY</speaker>
+<p>No, Bolingbroke: if ever I were traitor,<lb/>
+My name be blotted from the book of life,<lb/>
+And I from heaven banish'd as from hence!<lb/>
+But what thou art, God, thou, and I do know;<lb/>
+And all too soon, I fear, the king shall rue.<lb/>
+Farewell, my liege. Now no way can I stray;<lb/>
+Save back to England, all the world's my way.<lb/>
+
+
+</p><p><stage>Exit</stage>
+
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>Uncle, even in the glasses of thine eyes<lb/>
+I see thy grieved heart: thy sad aspect<lb/>
+Hath from the number of his banish'd years<lb/>
+Pluck'd four away.<lb/>
+
+
+</p><p><stage>To HENRY BOLINGBROKE</stage></p>
+
+
+<p>
+Six frozen winter spent,<lb/>
+Return with welcome home from banishment.<lb/>
+
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>How long a time lies in one little word!<lb/>
+Four lagging winters and four wanton springs<lb/>
+End in a word: such is the breath of kings.<lb/>
+
+
+</p></sp><sp><speaker>JOHN OF GAUNT</speaker>
+<p>I thank my liege, that in regard of me<lb/>
+He shortens four years of my son's exile:<lb/>
+But little vantage shall I reap thereby;<lb/>
+For, ere the six years that he hath to spend<lb/>
+Can change their moons and bring their times about<lb/>
+My oil-dried lamp and time-bewasted light<lb/>
+Shall be extinct with age and endless night;<lb/>
+My inch of taper will be burnt and done,<lb/>
+And blindfold death not let me see my son.<lb/>
+
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>Why uncle, thou hast many years to live.<lb/>
+
+</p></sp><sp><speaker>JOHN OF GAUNT</speaker>
+<p>But not a minute, king, that thou canst give:<lb/>
+Shorten my days thou canst with sullen sorrow,<lb/>
+And pluck nights from me, but not lend a morrow;<lb/>
+Thou canst help time to furrow me with age,<lb/>
+But stop no wrinkle in his pilgrimage;<lb/>
+Thy word is current with him for my death,<lb/>
+But dead, thy kingdom cannot buy my breath.<lb/>
+
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>Thy son is banish'd upon good advice,<lb/>
+Whereto thy tongue a party-verdict gave:<lb/>
+Why at our justice seem'st thou then to lour?<lb/>
+
+
+</p></sp><sp><speaker>JOHN OF GAUNT</speaker>
+<p>Things sweet to taste prove in digestion sour.<lb/>
+You urged me as a judge; but I had rather<lb/>
+You would have bid me argue like a father.<lb/>
+O, had it been a stranger, not my child,<lb/>
+To smooth his fault I should have been more mild:<lb/>
+A partial slander sought I to avoid,<lb/>
+And in the sentence my own life destroy'd.<lb/>
+Alas, I look'd when some of you should say,<lb/>
+I was too strict to make mine own away;<lb/>
+But you gave leave to my unwilling tongue<lb/>
+Against my will to do myself this wrong.<lb/>
+
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>Cousin, farewell; and, uncle, bid him so:<lb/>
+Six years we banish him, and he shall go.<lb/>
+
+
+</p><p><stage>Flourish. Exeunt KING RICHARD II and train</stage>
+
+
+</p></sp><sp><speaker>DUKE OF AUMERLE</speaker>
+<p>Cousin, farewell: what presence must not know,<lb/>
+From where you do remain let paper show.<lb/>
+
+
+</p></sp><sp><speaker>Lord Marshal</speaker>
+<p>My lord, no leave take I; for I will ride,<lb/>
+As far as land will let me, by your side.<lb/>
+
+
+</p></sp><sp><speaker>JOHN OF GAUNT</speaker>
+<p>O, to what purpose dost thou hoard thy words,<lb/>
+That thou return'st no greeting to thy friends?<lb/>
+
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>I have too few to take my leave of you,<lb/>
+When the tongue's office should be prodigal<lb/>
+To breathe the abundant dolour of the heart.<lb/>
+
+
+</p></sp><sp><speaker>JOHN OF GAUNT</speaker>
+<p>Thy grief is but thy absence for a time.<lb/>
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>Joy absent, grief is present for that time.<lb/>
+
+</p></sp><sp><speaker>JOHN OF GAUNT</speaker>
+<p>What is six winters? they are quickly gone.<lb/>
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>To men in joy; but grief makes one hour ten.<lb/>
+
+</p></sp><sp><speaker>JOHN OF GAUNT</speaker>
+<p>Call it a travel that thou takest for pleasure.<lb/>
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>My heart will sigh when I miscall it so,<lb/>
+Which finds it an inforced pilgrimage.<lb/>
+
+
+</p></sp><sp><speaker>JOHN OF GAUNT</speaker>
+<p>The sullen passage of thy weary steps<lb/>
+Esteem as foil wherein thou art to set<lb/>
+The precious jewel of thy home return.<lb/>
+
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>Nay, rather, every tedious stride I make<lb/>
+Will but remember me what a deal of world<lb/>
+I wander from the jewels that I love.<lb/>
+Must I not serve a long apprenticehood<lb/>
+To foreign passages, and in the end,<lb/>
+Having my freedom, boast of nothing else<lb/>
+But that I was a journeyman to grief?<lb/>
+
+
+</p></sp><sp><speaker>JOHN OF GAUNT</speaker>
+<p>All places that the eye of heaven visits<lb/>
+Are to a wise man ports and happy havens.<lb/>
+Teach thy necessity to reason thus;<lb/>
+There is no virtue like necessity.<lb/>
+Think not the king did banish thee,<lb/>
+But thou the king. Woe doth the heavier sit,<lb/>
+Where it perceives it is but faintly borne.<lb/>
+Go, say I sent thee forth to purchase honour<lb/>
+And not the king exiled thee; or suppose<lb/>
+Devouring pestilence hangs in our air<lb/>
+And thou art flying to a fresher clime:<lb/>
+Look, what thy soul holds dear, imagine it<lb/>
+To lie that way thou go'st, not whence thou comest:<lb/>
+Suppose the singing birds musicians,<lb/>
+The grass whereon thou tread'st the presence strew'd,<lb/>
+The flowers fair ladies, and thy steps no more<lb/>
+Than a delightful measure or a dance;<lb/>
+For gnarling sorrow hath less power to bite<lb/>
+The man that mocks at it and sets it light.<lb/>
+
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>O, who can hold a fire in his hand<lb/>
+By thinking on the frosty Caucasus?<lb/>
+Or cloy the hungry edge of appetite<lb/>
+By bare imagination of a feast?<lb/>
+Or wallow naked in December snow<lb/>
+By thinking on fantastic summer's heat?<lb/>
+O, no! the apprehension of the good<lb/>
+Gives but the greater feeling to the worse:<lb/>
+Fell sorrow's tooth doth never rankle more<lb/>
+Than when he bites, but lanceth not the sore.<lb/>
+
+
+</p></sp><sp><speaker>JOHN OF GAUNT</speaker>
+<p>Come, come, my son, I'll bring thee on thy way:<lb/>
+Had I thy youth and cause, I would not stay.<lb/>
+
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>Then, England's ground, farewell; sweet soil, adieu;<lb/>
+My mother, and my nurse, that bears me yet!<lb/>
+Where'er I wander, boast of this I can,<lb/>
+Though banish'd, yet a trueborn Englishman.<lb/>
+
+
+</p></sp><p><stage>Exeunt</stage>
+
+
+
+</p></div2><div2 type="scene" n="4" id="d9">
+<head>Scene 4</head>
+
+<p><stage>The court.</stage>
+
+</p><p><stage>Enter KING RICHARD II, with BAGOT and GREEN at one	door; and the DUKE OF AUMERLE at another</stage>
+
+
+</p><sp><speaker>KING RICHARD II</speaker>
+<p>We did observe. Cousin Aumerle,<lb/>
+How far brought you high Hereford on his way?<lb/>
+
+
+</p></sp><sp><speaker>DUKE OF AUMERLE</speaker>
+<p>I brought high Hereford, if you call him so,<lb/>
+But to the next highway, and there I left him.<lb/>
+
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>And say, what store of parting tears were shed?<lb/>
+
+</p></sp><sp><speaker>DUKE OF AUMERLE</speaker>
+<p>Faith, none for me; except the north-east wind,<lb/>
+Which then blew bitterly against our faces,<lb/>
+Awaked the sleeping rheum, and so by chance<lb/>
+Did grace our hollow parting with a tear.<lb/>
+
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>What said our cousin when you parted with him?<lb/>
+
+</p></sp><sp><speaker>DUKE OF AUMERLE</speaker>
+<p>'Farewell:'<lb/>
+And, for my heart disdained that my tongue<lb/>
+Should so profane the word, that taught me craft<lb/>
+To counterfeit oppression of such grief<lb/>
+That words seem'd buried in my sorrow's grave.<lb/>
+Marry, would the word 'farewell' have lengthen'd hours<lb/>
+And added years to his short banishment,<lb/>
+He should have had a volume of farewells;<lb/>
+But since it would not, he had none of me.<lb/>
+
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>He is our cousin, cousin; but 'tis doubt,<lb/>
+When time shall call him home from banishment,<lb/>
+Whether our kinsman come to see his friends.<lb/>
+Ourself and Bushy, Bagot here and Green<lb/>
+Observed his courtship to the common people;<lb/>
+How he did seem to dive into their hearts<lb/>
+With humble and familiar courtesy,<lb/>
+What reverence he did throw away on slaves,<lb/>
+Wooing poor craftsmen with the craft of smiles<lb/>
+And patient underbearing of his fortune,<lb/>
+As 'twere to banish their affects with him.<lb/>
+Off goes his bonnet to an oyster-wench;<lb/>
+A brace of draymen bid God speed him well<lb/>
+And had the tribute of his supple knee,<lb/>
+With 'Thanks, my countrymen, my loving friends;'<lb/>
+As were our England in reversion his,<lb/>
+And he our subjects' next degree in hope.<lb/>
+
+
+</p></sp><sp><speaker>GREEN</speaker>
+<p>Well, he is gone; and with him go these thoughts.<lb/>
+Now for the rebels which stand out in Ireland,<lb/>
+Expedient manage must be made, my liege,<lb/>
+Ere further leisure yield them further means<lb/>
+For their advantage and your highness' loss.<lb/>
+
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>We will ourself in person to this war:<lb/>
+And, for our coffers, with too great a court<lb/>
+And liberal largess, are grown somewhat light,<lb/>
+We are inforced to farm our royal realm;<lb/>
+The revenue whereof shall furnish us<lb/>
+For our affairs in hand: if that come short,<lb/>
+Our substitutes at home shall have blank charters;<lb/>
+Whereto, when they shall know what men are rich,<lb/>
+They shall subscribe them for large sums of gold<lb/>
+And send them after to supply our wants;<lb/>
+For we will make for Ireland presently.<lb/>
+
+
+</p><p><stage>Enter BUSHY</stage></p>
+
+
+<p>
+Bushy, what news?<lb/>
+
+
+</p></sp><sp><speaker>BUSHY</speaker>
+<p>Old John of Gaunt is grievous sick, my lord,<lb/>
+Suddenly taken; and hath sent post haste<lb/>
+To entreat your majesty to visit him.<lb/>
+
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>Where lies he?<lb/>
+
+</p></sp><sp><speaker>BUSHY</speaker>
+<p>At Ely House.<lb/>
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>Now put it, God, in the physician's mind<lb/>
+To help him to his grave immediately!<lb/>
+The lining of his coffers shall make coats<lb/>
+To deck our soldiers for these Irish wars.<lb/>
+Come, gentlemen, let's all go visit him:<lb/>
+Pray God we may make haste, and come too late!<lb/>
+
+
+</p></sp><sp><speaker>All</speaker>
+<p>Amen.<lb/>
+
+</p></sp><p><stage>Exeunt</stage></p>
+
+
+
+</div2>
+
+</div1>
+
+<div1 type="act" n="2" id="d10">
+<head>Act 2</head>
+
+<div2 type="scene" n="1" id="d11">
+<head>Scene 1</head><p><stage>Ely House.</stage>
+
+</p><p><stage>Enter JOHN OF GAUNT sick, with the DUKE OF YORK,	&amp;c</stage>
+
+
+</p><sp><speaker>JOHN OF GAUNT</speaker>
+<p>Will the king come, that I may breathe my last<lb/>
+In wholesome counsel to his unstaid youth?<lb/>
+
+
+</p></sp><sp><speaker>DUKE OF YORK</speaker>
+<p>Vex not yourself, nor strive not with your breath;<lb/>
+For all in vain comes counsel to his ear.<lb/>
+
+
+</p></sp><sp><speaker>JOHN OF GAUNT</speaker>
+<p>O, but they say the tongues of dying men<lb/>
+Enforce attention like deep harmony:<lb/>
+Where words are scarce, they are seldom spent in vain,<lb/>
+For they breathe truth that breathe their words in pain.<lb/>
+He that no more must say is listen'd more<lb/>
+Than they whom youth and ease have taught to glose;<lb/>
+More are men's ends mark'd than their lives before:<lb/>
+The setting sun, and music at the close,<lb/>
+As the last taste of sweets, is sweetest last,<lb/>
+Writ in remembrance more than things long past:<lb/>
+Though Richard my life's counsel would not hear,<lb/>
+My death's sad tale may yet undeaf his ear.<lb/>
+
+
+</p></sp><sp><speaker>DUKE OF YORK</speaker>
+<p>No; it is stopp'd with other flattering sounds,<lb/>
+As praises, of whose taste the wise are fond,<lb/>
+Lascivious metres, to whose venom sound<lb/>
+The open ear of youth doth always listen;<lb/>
+Report of fashions in proud Italy,<lb/>
+Whose manners still our tardy apish nation<lb/>
+Limps after in base imitation.<lb/>
+Where doth the world thrust forth a vanity&mdash;<lb/>
+So it be new, there's no respect how vile&mdash;<lb/>
+That is not quickly buzzed into his ears?<lb/>
+Then all too late comes counsel to be heard,<lb/>
+Where will doth mutiny with wit's regard.<lb/>
+Direct not him whose way himself will choose:<lb/>
+'Tis breath thou lack'st, and that breath wilt thou lose.<lb/>
+
+
+</p></sp><sp><speaker>JOHN OF GAUNT</speaker>
+<p>Methinks I am a prophet new inspired<lb/>
+And thus expiring do foretell of him:<lb/>
+His rash fierce blaze of riot cannot last,<lb/>
+For violent fires soon burn out themselves;<lb/>
+Small showers last long, but sudden storms are short;<lb/>
+He tires betimes that spurs too fast betimes;<lb/>
+With eager feeding food doth choke the feeder:<lb/>
+Light vanity, insatiate cormorant,<lb/>
+Consuming means, soon preys upon itself.<lb/>
+This royal throne of kings, this scepter'd isle,<lb/>
+This earth of majesty, this seat of Mars,<lb/>
+This other Eden, demi-paradise,<lb/>
+This fortress built by Nature for herself<lb/>
+Against infection and the hand of war,<lb/>
+This happy breed of men, this little world,<lb/>
+This precious stone set in the silver sea,<lb/>
+Which serves it in the office of a wall,<lb/>
+Or as a moat defensive to a house,<lb/>
+Against the envy of less happier lands,<lb/>
+This blessed plot, this earth, this realm, this England,<lb/>
+This nurse, this teeming womb of royal kings,<lb/>
+Fear'd by their breed and famous by their birth,<lb/>
+Renowned for their deeds as far from home,<lb/>
+For Christian service and true chivalry,<lb/>
+As is the sepulchre in stubborn Jewry,<lb/>
+Of the world's ransom, blessed Mary's Son,<lb/>
+This land of such dear souls, this dear dear land,<lb/>
+Dear for her reputation through the world,<lb/>
+Is now leased out, I die pronouncing it,<lb/>
+Like to a tenement or pelting farm:<lb/>
+England, bound in with the triumphant sea<lb/>
+Whose rocky shore beats back the envious siege<lb/>
+Of watery Neptune, is now bound in with shame,<lb/>
+With inky blots and rotten parchment bonds:<lb/>
+That England, that was wont to conquer others,<lb/>
+Hath made a shameful conquest of itself.<lb/>
+Ah, would the scandal vanish with my life,<lb/>
+How happy then were my ensuing death!<lb/>
+
+
+</p><p><stage>Enter KING RICHARD II and QUEEN, DUKE OF AUMERLE,	BUSHY, GREEN, BAGOT, LORD ROSS, and LORD	WILLOUGHBY</stage>
+
+
+</p></sp><sp><speaker>DUKE OF YORK</speaker>
+<p>The king is come: deal mildly with his youth;<lb/>
+For young hot colts being raged do rage the more.<lb/>
+
+
+</p></sp><sp><speaker>QUEEN</speaker>
+<p>How fares our noble uncle, Lancaster?<lb/>
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>What comfort, man? how is't with aged Gaunt?<lb/>
+
+</p></sp><sp><speaker>JOHN OF GAUNT</speaker>
+<p>O how that name befits my composition!<lb/>
+Old Gaunt indeed, and gaunt in being old:<lb/>
+Within me grief hath kept a tedious fast;<lb/>
+And who abstains from meat that is not gaunt?<lb/>
+For sleeping England long time have I watch'd;<lb/>
+Watching breeds leanness, leanness is all gaunt:<lb/>
+The pleasure that some fathers feed upon,<lb/>
+Is my strict fast; I mean, my children's looks;<lb/>
+And therein fasting, hast thou made me gaunt:<lb/>
+Gaunt am I for the grave, gaunt as a grave,<lb/>
+Whose hollow womb inherits nought but bones.<lb/>
+
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>Can sick men play so nicely with their names?<lb/>
+
+</p></sp><sp><speaker>JOHN OF GAUNT</speaker>
+<p>No, misery makes sport to mock itself:<lb/>
+Since thou dost seek to kill my name in me,<lb/>
+I mock my name, great king, to flatter thee.<lb/>
+
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>Should dying men flatter with those that live?<lb/>
+
+</p></sp><sp><speaker>JOHN OF GAUNT</speaker>
+<p>No, no, men living flatter those that die.<lb/>
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>Thou, now a-dying, say'st thou flatterest me.<lb/>
+
+</p></sp><sp><speaker>JOHN OF GAUNT</speaker>
+<p>O, no! thou diest, though I the sicker be.<lb/>
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>I am in health, I breathe, and see thee ill.<lb/>
+
+</p></sp><sp><speaker>JOHN OF GAUNT</speaker>
+<p>Now He that made me knows I see thee ill;<lb/>
+Ill in myself to see, and in thee seeing ill.<lb/>
+Thy death-bed is no lesser than thy land<lb/>
+Wherein thou liest in reputation sick;<lb/>
+And thou, too careless patient as thou art,<lb/>
+Commit'st thy anointed body to the cure<lb/>
+Of those physicians that first wounded thee:<lb/>
+A thousand flatterers sit within thy crown,<lb/>
+Whose compass is no bigger than thy head;<lb/>
+And yet, incaged in so small a verge,<lb/>
+The waste is no whit lesser than thy land.<lb/>
+O, had thy grandsire with a prophet's eye<lb/>
+Seen how his son's son should destroy his sons,<lb/>
+From forth thy reach he would have laid thy shame,<lb/>
+Deposing thee before thou wert possess'd,<lb/>
+Which art possess'd now to depose thyself.<lb/>
+Why, cousin, wert thou regent of the world,<lb/>
+It were a shame to let this land by lease;<lb/>
+But for thy world enjoying but this land,<lb/>
+Is it not more than shame to shame it so?<lb/>
+Landlord of England art thou now, not king:<lb/>
+Thy state of law is bondslave to the law; And thou&mdash;<lb/>
+
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>A lunatic lean-witted fool,<lb/>
+Presuming on an ague's privilege,<lb/>
+Darest with thy frozen admonition<lb/>
+Make pale our cheek, chasing the royal blood<lb/>
+With fury from his native residence.<lb/>
+Now, by my seat's right royal majesty,<lb/>
+Wert thou not brother to great Edward's son,<lb/>
+This tongue that runs so roundly in thy head<lb/>
+Should run thy head from thy unreverent shoulders.<lb/>
+
+
+</p></sp><sp><speaker>JOHN OF GAUNT</speaker>
+<p>O, spare me not, my brother Edward's son,<lb/>
+For that I was his father Edward's son;<lb/>
+That blood already, like the pelican,<lb/>
+Hast thou tapp'd out and drunkenly caroused:<lb/>
+My brother Gloucester, plain well-meaning soul,<lb/>
+Whom fair befal in heaven 'mongst happy souls!<lb/>
+May be a precedent and witness good<lb/>
+That thou respect'st not spilling Edward's blood:<lb/>
+Join with the present sickness that I have;<lb/>
+And thy unkindness be like crooked age,<lb/>
+To crop at once a too long wither'd flower.<lb/>
+Live in thy shame, but die not shame with thee!<lb/>
+These words hereafter thy tormentors be!<lb/>
+Convey me to my bed, then to my grave:<lb/>
+Love they to live that love and honour have.<lb/>
+
+
+</p><p><stage>Exit, borne off by his Attendants</stage>
+
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>And let them die that age and sullens have;<lb/>
+For both hast thou, and both become the grave.<lb/>
+
+
+</p></sp><sp><speaker>DUKE OF YORK</speaker>
+<p>I do beseech your majesty, impute his words<lb/>
+To wayward sickliness and age in him:<lb/>
+He loves you, on my life, and holds you dear<lb/>
+As Harry Duke of Hereford, were he here.<lb/>
+
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>Right, you say true: as Hereford's love, so his;<lb/>
+As theirs, so mine; and all be as it is.<lb/>
+
+
+</p><p><stage>Enter NORTHUMBERLAND</stage>
+
+
+</p></sp><sp><speaker>NORTHUMBERLAND</speaker>
+<p>My liege, old Gaunt commends him to your majesty.<lb/>
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>What says he?<lb/>
+
+</p></sp><sp><speaker>NORTHUMBERLAND</speaker>
+<p>Nay, nothing; all is said<lb/>
+His tongue is now a stringless instrument;<lb/>
+Words, life and all, old Lancaster hath spent.<lb/>
+
+
+</p></sp><sp><speaker>DUKE OF YORK</speaker>
+<p>Be York the next that must be bankrupt so!<lb/>
+Though death be poor, it ends a mortal woe.<lb/>
+
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>The ripest fruit first falls, and so doth he;<lb/>
+His time is spent, our pilgrimage must be.<lb/>
+So much for that. Now for our Irish wars:<lb/>
+We must supplant those rough rug-headed kerns,<lb/>
+Which live like venom where no venom else<lb/>
+But only they have privilege to live.<lb/>
+And for these great affairs do ask some charge,<lb/>
+Towards our assistance we do seize to us<lb/>
+The plate, corn, revenues and moveables,<lb/>
+Whereof our uncle Gaunt did stand possess'd.<lb/>
+
+
+</p></sp><sp><speaker>DUKE OF YORK</speaker>
+<p>How long shall I be patient? ah, how long<lb/>
+Shall tender duty make me suffer wrong?<lb/>
+Not Gloucester's death, nor Hereford's banishment<lb/>
+Not Gaunt's rebukes, nor England's private wrongs,<lb/>
+Nor the prevention of poor Bolingbroke<lb/>
+About his marriage, nor my own disgrace,<lb/>
+Have ever made me sour my patient cheek,<lb/>
+Or bend one wrinkle on my sovereign's face.<lb/>
+I am the last of noble Edward's sons,<lb/>
+Of whom thy father, Prince of Wales, was first:<lb/>
+In war was never lion raged more fierce,<lb/>
+In peace was never gentle lamb more mild,<lb/>
+Than was that young and princely gentleman.<lb/>
+His face thou hast, for even so look'd he,<lb/>
+Accomplish'd with the number of thy hours;<lb/>
+But when he frown'd, it was against the French<lb/>
+And not against his friends; his noble hand<lb/>
+Did will what he did spend and spent not that<lb/>
+Which his triumphant father's hand had won;<lb/>
+His hands were guilty of no kindred blood,<lb/>
+But bloody with the enemies of his kin.<lb/>
+O Richard! York is too far gone with grief,<lb/>
+Or else he never would compare between.<lb/>
+
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>Why, uncle, what's the matter?<lb/>
+
+</p></sp><sp><speaker>DUKE OF YORK</speaker>
+<p>O my liege,<lb/>
+Pardon me, if you please; if not, I, pleased<lb/>
+Not to be pardon'd, am content withal.<lb/>
+Seek you to seize and gripe into your hands<lb/>
+The royalties and rights of banish'd Hereford?<lb/>
+Is not Gaunt dead, and doth not Hereford live?<lb/>
+Was not Gaunt just, and is not Harry true?<lb/>
+Did not the one deserve to have an heir?<lb/>
+Is not his heir a well-deserving son?<lb/>
+Take Hereford's rights away, and take from Time<lb/>
+His charters and his customary rights;<lb/>
+Let not to-morrow then ensue to-day;<lb/>
+Be not thyself; for how art thou a king<lb/>
+But by fair sequence and succession?<lb/>
+Now, afore God&mdash;God forbid I say true!&mdash;<lb/>
+If you do wrongfully seize Hereford's rights,<lb/>
+Call in the letters patent that he hath<lb/>
+By his attorneys-general to sue<lb/>
+His livery, and deny his offer'd homage,<lb/>
+You pluck a thousand dangers on your head,<lb/>
+You lose a thousand well-disposed hearts<lb/>
+And prick my tender patience, to those thoughts<lb/>
+Which honour and allegiance cannot think.<lb/>
+
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>Think what you will, we seize into our hands<lb/>
+His plate, his goods, his money and his lands.<lb/>
+
+
+</p></sp><sp><speaker>DUKE OF YORK</speaker>
+<p>I'll not be by the while: my liege, farewell:<lb/>
+What will ensue hereof, there's none can tell;<lb/>
+But by bad courses may be understood<lb/>
+That their events can never fall out good.<lb/>
+
+
+</p><p><stage>Exit</stage>
+
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>Go, Bushy, to the Earl of Wiltshire straight:<lb/>
+Bid him repair to us to Ely House<lb/>
+To see this business. To-morrow next<lb/>
+We will for Ireland; and 'tis time, I trow:<lb/>
+And we create, in absence of ourself,<lb/>
+Our uncle York lord governor of England;<lb/>
+For he is just and always loved us well.<lb/>
+Come on, our queen: to-morrow must we part;<lb/>
+Be merry, for our time of stay is short<lb/>
+
+
+</p><p><stage>Flourish. Exeunt KING RICHARD II, QUEEN, DUKE OF	AUMERLE, BUSHY, GREEN, and BAGOT</stage>
+
+
+</p></sp><sp><speaker>NORTHUMBERLAND</speaker>
+<p>Well, lords, the Duke of Lancaster is dead.<lb/>
+
+</p></sp><sp><speaker>LORD ROSS</speaker>
+<p>And living too; for now his son is duke.<lb/>
+
+</p></sp><sp><speaker>LORD WILLOUGHBY</speaker>
+<p>Barely in title, not in revenue.<lb/>
+
+</p></sp><sp><speaker>NORTHUMBERLAND</speaker>
+<p>Richly in both, if justice had her right.<lb/>
+
+</p></sp><sp><speaker>LORD ROSS</speaker>
+<p>My heart is great; but it must break with silence,<lb/>
+Ere't be disburden'd with a liberal tongue.<lb/>
+
+
+</p></sp><sp><speaker>NORTHUMBERLAND</speaker>
+<p>Nay, speak thy mind; and let him ne'er speak more<lb/>
+That speaks thy words again to do thee harm!<lb/>
+
+
+</p></sp><sp><speaker>LORD WILLOUGHBY</speaker>
+<p>Tends that thou wouldst speak to the Duke of Hereford?<lb/>
+If it be so, out with it boldly, man;<lb/>
+Quick is mine ear to hear of good towards him.<lb/>
+
+
+</p></sp><sp><speaker>LORD ROSS</speaker>
+<p>No good at all that I can do for him;<lb/>
+Unless you call it good to pity him,<lb/>
+Bereft and gelded of his patrimony.<lb/>
+
+
+</p></sp><sp><speaker>NORTHUMBERLAND</speaker>
+<p>Now, afore God, 'tis shame such wrongs are borne<lb/>
+In him, a royal prince, and many moe<lb/>
+Of noble blood in this declining land.<lb/>
+The king is not himself, but basely led<lb/>
+By flatterers; and what they will inform,<lb/>
+Merely in hate, 'gainst any of us all,<lb/>
+That will the king severely prosecute<lb/>
+'Gainst us, our lives, our children, and our heirs.<lb/>
+
+
+</p></sp><sp><speaker>LORD ROSS</speaker>
+<p>The commons hath he pill'd with grievous taxes,<lb/>
+And quite lost their hearts: the nobles hath he fined<lb/>
+For ancient quarrels, and quite lost their hearts.<lb/>
+
+
+</p></sp><sp><speaker>LORD WILLOUGHBY</speaker>
+<p>And daily new exactions are devised,<lb/>
+As blanks, benevolences, and I wot not what:<lb/>
+But what, o' God's name, doth become of this?<lb/>
+
+
+</p></sp><sp><speaker>NORTHUMBERLAND</speaker>
+<p>Wars have not wasted it, for warr'd he hath not,<lb/>
+But basely yielded upon compromise<lb/>
+That which his noble ancestors achieved with blows:<lb/>
+More hath he spent in peace than they in wars.<lb/>
+
+
+</p></sp><sp><speaker>LORD ROSS</speaker>
+<p>The Earl of Wiltshire hath the realm in farm.<lb/>
+
+</p></sp><sp><speaker>LORD WILLOUGHBY</speaker>
+<p>The king's grown bankrupt, like a broken man.<lb/>
+
+</p></sp><sp><speaker>NORTHUMBERLAND</speaker>
+<p>Reproach and dissolution hangeth over him.<lb/>
+
+</p></sp><sp><speaker>LORD ROSS</speaker>
+<p>He hath not money for these Irish wars,<lb/>
+His burthenous taxations notwithstanding,<lb/>
+But by the robbing of the banish'd duke.<lb/>
+
+
+</p></sp><sp><speaker>NORTHUMBERLAND</speaker>
+<p>His noble kinsman: most degenerate king!<lb/>
+But, lords, we hear this fearful tempest sing,<lb/>
+Yet see no shelter to avoid the storm;<lb/>
+We see the wind sit sore upon our sails,<lb/>
+And yet we strike not, but securely perish.<lb/>
+
+
+</p></sp><sp><speaker>LORD ROSS</speaker>
+<p>We see the very wreck that we must suffer;<lb/>
+And unavoided is the danger now,<lb/>
+For suffering so the causes of our wreck.<lb/>
+
+
+</p></sp><sp><speaker>NORTHUMBERLAND</speaker>
+<p>Not so; even through the hollow eyes of death<lb/>
+I spy life peering; but I dare not say<lb/>
+How near the tidings of our comfort is.<lb/>
+
+
+</p></sp><sp><speaker>LORD WILLOUGHBY</speaker>
+<p>Nay, let us share thy thoughts, as thou dost ours.<lb/>
+
+</p></sp><sp><speaker>LORD ROSS</speaker>
+<p>Be confident to speak, Northumberland:<lb/>
+We three are but thyself; and, speaking so,<lb/>
+Thy words are but as thoughts; therefore, be bold.<lb/>
+
+
+</p></sp><sp><speaker>NORTHUMBERLAND</speaker>
+<p>Then thus: I have from Port le Blanc, a bay<lb/>
+In Brittany, received intelligence<lb/>
+That Harry Duke of Hereford, Rainold Lord Cobham,<lb/>
+
+</p><p><stage>                                               </stage></p>
+
+
+<p>
+That late broke from the Duke of Exeter,<lb/>
+His brother, Archbishop late of Canterbury,<lb/>
+Sir Thomas Erpingham, Sir John Ramston,<lb/>
+Sir John Norbery, Sir Robert Waterton and Francis Quoint,<lb/>
+All these well furnish'd by the Duke of Bretagne<lb/>
+With eight tall ships, three thousand men of war,<lb/>
+Are making hither with all due expedience<lb/>
+And shortly mean to touch our northern shore:<lb/>
+Perhaps they had ere this, but that they stay<lb/>
+The first departing of the king for Ireland.<lb/>
+If then we shall shake off our slavish yoke,<lb/>
+Imp out our drooping country's broken wing,<lb/>
+Redeem from broking pawn the blemish'd crown,<lb/>
+Wipe off the dust that hides our sceptre's gilt<lb/>
+And make high majesty look like itself,<lb/>
+Away with me in post to Ravenspurgh;<lb/>
+But if you faint, as fearing to do so,<lb/>
+Stay and be secret, and myself will go.<lb/>
+
+
+</p></sp><sp><speaker>LORD ROSS</speaker>
+<p>To horse, to horse! urge doubts to them that fear.<lb/>
+
+</p></sp><sp><speaker>LORD WILLOUGHBY</speaker>
+<p>Hold out my horse, and I will first be there.<lb/>
+
+</p></sp><p><stage>Exeunt</stage>
+
+
+
+</p></div2><div2 type="scene" n="2" id="d12">
+<head>Scene 2</head>
+
+<p><stage>The palace.</stage>
+
+</p><p><stage>Enter QUEEN, BUSHY, and BAGOT</stage>
+
+
+</p><sp><speaker>BUSHY</speaker>
+<p>Madam, your majesty is too much sad:<lb/>
+You promised, when you parted with the king,<lb/>
+To lay aside life-harming heaviness<lb/>
+And entertain a cheerful disposition.<lb/>
+
+
+</p></sp><sp><speaker>QUEEN</speaker>
+<p>To please the king I did; to please myself<lb/>
+I cannot do it; yet I know no cause<lb/>
+Why I should welcome such a guest as grief,<lb/>
+Save bidding farewell to so sweet a guest<lb/>
+As my sweet Richard: yet again, methinks,<lb/>
+Some unborn sorrow, ripe in fortune's womb,<lb/>
+Is coming towards me, and my inward soul<lb/>
+With nothing trembles: at some thing it grieves,<lb/>
+More than with parting from my lord the king.<lb/>
+
+
+</p></sp><sp><speaker>BUSHY</speaker>
+<p>Each substance of a grief hath twenty shadows,<lb/>
+Which shows like grief itself, but is not so;<lb/>
+For sorrow's eye, glazed with blinding tears,<lb/>
+Divides one thing entire to many objects;<lb/>
+Like perspectives, which rightly gazed upon<lb/>
+Show nothing but confusion, eyed awry<lb/>
+Distinguish form: so your sweet majesty,<lb/>
+Looking awry upon your lord's departure,<lb/>
+Find shapes of grief, more than himself, to wail;<lb/>
+Which, look'd on as it is, is nought but shadows<lb/>
+Of what it is not. Then, thrice-gracious queen,<lb/>
+More than your lord's departure weep not: more's not seen;<lb/>
+Or if it be, 'tis with false sorrow's eye,<lb/>
+Which for things true weeps things imaginary.<lb/>
+
+
+</p></sp><sp><speaker>QUEEN</speaker>
+<p>It may be so; but yet my inward soul<lb/>
+Persuades me it is otherwise: howe'er it be,<lb/>
+I cannot but be sad; so heavy sad<lb/>
+As, though on thinking on no thought I think,<lb/>
+Makes me with heavy nothing faint and shrink.<lb/>
+
+
+</p></sp><sp><speaker>BUSHY</speaker>
+<p>'Tis nothing but conceit, my gracious lady.<lb/>
+
+</p></sp><sp><speaker>QUEEN</speaker>
+<p>'Tis nothing less: conceit is still derived<lb/>
+From some forefather grief; mine is not so,<lb/>
+For nothing had begot my something grief;<lb/>
+Or something hath the nothing that I grieve:<lb/>
+'Tis in reversion that I do possess;<lb/>
+But what it is, that is not yet known; what<lb/>
+I cannot name; 'tis nameless woe, I wot.<lb/>
+
+
+</p><p><stage>Enter GREEN</stage>
+
+
+</p></sp><sp><speaker>GREEN</speaker>
+<p>God save your majesty! and well met, gentlemen:<lb/>
+I hope the king is not yet shipp'd for Ireland.<lb/>
+
+
+</p></sp><sp><speaker>QUEEN</speaker>
+<p>Why hopest thou so? 'tis better hope he is;<lb/>
+For his designs crave haste, his haste good hope:<lb/>
+Then wherefore dost thou hope he is not shipp'd?<lb/>
+
+
+</p></sp><sp><speaker>GREEN</speaker>
+<p>That he, our hope, might have retired his power,<lb/>
+And driven into despair an enemy's hope,<lb/>
+Who strongly hath set footing in this land:<lb/>
+The banish'd Bolingbroke repeals himself,<lb/>
+And with uplifted arms is safe arrived<lb/>
+At Ravenspurgh.<lb/>
+
+
+</p></sp><sp><speaker>QUEEN</speaker>
+<p>Now God in heaven forbid!<lb/>
+
+</p></sp><sp><speaker>GREEN</speaker>
+<p>Ah, madam, 'tis too true: and that is worse,<lb/>
+The Lord Northumberland, his son young Henry Percy,<lb/>
+The Lords of Ross, Beaumond, and Willoughby,<lb/>
+With all their powerful friends, are fled to him.<lb/>
+
+
+</p></sp><sp><speaker>BUSHY</speaker>
+<p>Why have you not proclaim'd Northumberland<lb/>
+And all the rest revolted faction traitors?<lb/>
+
+
+</p></sp><sp><speaker>GREEN</speaker>
+<p>We have: whereupon the Earl of Worcester<lb/>
+Hath broke his staff, resign'd his stewardship,<lb/>
+And all the household servants fled with him<lb/>
+To Bolingbroke.<lb/>
+
+
+</p></sp><sp><speaker>QUEEN</speaker>
+<p>So, Green, thou art the midwife to my woe,<lb/>
+And Bolingbroke my sorrow's dismal heir:<lb/>
+Now hath my soul brought forth her prodigy,<lb/>
+And I, a gasping new-deliver'd mother,<lb/>
+Have woe to woe, sorrow to sorrow join'd.<lb/>
+
+
+</p></sp><sp><speaker>BUSHY</speaker>
+<p>Despair not, madam.<lb/>
+
+</p></sp><sp><speaker>QUEEN</speaker>
+<p>Who shall hinder me?<lb/>
+I will despair, and be at enmity<lb/>
+With cozening hope: he is a flatterer,<lb/>
+A parasite, a keeper back of death,<lb/>
+Who gently would dissolve the bands of life,<lb/>
+Which false hope lingers in extremity.<lb/>
+
+
+</p><p><stage>Enter DUKE OF YORK</stage>
+
+
+</p></sp><sp><speaker>GREEN</speaker>
+<p>Here comes the Duke of York.<lb/>
+
+</p></sp><sp><speaker>QUEEN</speaker>
+<p>With signs of war about his aged neck:<lb/>
+O, full of careful business are his looks!<lb/>
+Uncle, for God's sake, speak comfortable words.<lb/>
+
+
+</p></sp><sp><speaker>DUKE OF YORK</speaker>
+<p>Should I do so, I should belie my thoughts:<lb/>
+Comfort's in heaven; and we are on the earth,<lb/>
+Where nothing lives but crosses, cares and grief.<lb/>
+Your husband, he is gone to save far off,<lb/>
+Whilst others come to make him lose at home:<lb/>
+Here am I left to underprop his land,<lb/>
+Who, weak with age, cannot support myself:<lb/>
+Now comes the sick hour that his surfeit made;<lb/>
+Now shall he try his friends that flatter'd him.<lb/>
+
+
+</p><p><stage>Enter a Servant</stage>
+
+
+</p></sp><sp><speaker>Servant</speaker>
+<p>My lord, your son was gone before I came.<lb/>
+
+</p></sp><sp><speaker>DUKE OF YORK</speaker>
+<p>He was? Why, so! go all which way it will!<lb/>
+The nobles they are fled, the commons they are cold,<lb/>
+And will, I fear, revolt on Hereford's side.<lb/>
+Sirrah, get thee to Plashy, to my sister Gloucester;<lb/>
+Bid her send me presently a thousand pound:<lb/>
+Hold, take my ring.<lb/>
+
+
+</p></sp><sp><speaker>Servant</speaker>
+<p>My lord, I had forgot to tell your lordship,<lb/>
+To-day, as I came by, I called there;<lb/>
+But I shall grieve you to report the rest.<lb/>
+
+
+</p></sp><sp><speaker>DUKE OF YORK</speaker>
+<p>What is't, knave?<lb/>
+
+</p></sp><sp><speaker>Servant</speaker>
+<p>An hour before I came, the duchess died.<lb/>
+
+</p></sp><sp><speaker>DUKE OF YORK</speaker>
+<p>God for his mercy! what a tide of woes<lb/>
+Comes rushing on this woeful land at once!<lb/>
+I know not what to do: I would to God,<lb/>
+So my untruth had not provoked him to it,<lb/>
+The king had cut off my head with my brother's.<lb/>
+What, are there no posts dispatch'd for Ireland?<lb/>
+How shall we do for money for these wars?<lb/>
+Come, sister,&mdash;cousin, I would say&mdash;pray, pardon me.<lb/>
+Go, fellow, get thee home, provide some carts<lb/>
+And bring away the armour that is there.<lb/>
+
+
+</p><p><stage>Exit Servant</stage></p>
+
+
+<p>
+Gentlemen, will you go muster men?<lb/>
+If I know how or which way to order these affairs<lb/>
+Thus thrust disorderly into my hands,<lb/>
+Never believe me. Both are my kinsmen:<lb/>
+The one is my sovereign, whom both my oath<lb/>
+And duty bids defend; the other again<lb/>
+Is my kinsman, whom the king hath wrong'd,<lb/>
+Whom conscience and my kindred bids to right.<lb/>
+Well, somewhat we must do. Come, cousin, I'll<lb/>
+Dispose of you.<lb/>
+Gentlemen, go, muster up your men,<lb/>
+And meet me presently at Berkeley.<lb/>
+I should to Plashy too;<lb/>
+But time will not permit: all is uneven,<lb/>
+And every thing is left at six and seven.<lb/>
+
+
+</p><p><stage>Exeunt DUKE OF YORK and QUEEN</stage>
+
+
+</p></sp><sp><speaker>BUSHY</speaker>
+<p>The wind sits fair for news to go to Ireland,<lb/>
+But none returns. For us to levy power<lb/>
+Proportionable to the enemy<lb/>
+Is all unpossible.<lb/>
+
+
+</p></sp><sp><speaker>GREEN</speaker>
+<p>Besides, our nearness to the king in love<lb/>
+Is near the hate of those love not the king.<lb/>
+
+
+</p></sp><sp><speaker>BAGOT</speaker>
+<p>And that's the wavering commons: for their love<lb/>
+Lies in their purses, and whoso empties them<lb/>
+By so much fills their hearts with deadly hate.<lb/>
+
+
+</p></sp><sp><speaker>BUSHY</speaker>
+<p>Wherein the king stands generally condemn'd.<lb/>
+
+</p></sp><sp><speaker>BAGOT</speaker>
+<p>If judgement lie in them, then so do we,<lb/>
+Because we ever have been near the king.<lb/>
+
+
+</p></sp><sp><speaker>GREEN</speaker>
+<p>Well, I will for refuge straight to Bristol castle:<lb/>
+The Earl of Wiltshire is already there.<lb/>
+
+
+</p></sp><sp><speaker>BUSHY</speaker>
+<p>Thither will I with you; for little office<lb/>
+The hateful commons will perform for us,<lb/>
+Except like curs to tear us all to pieces.<lb/>
+Will you go along with us?<lb/>
+
+
+</p></sp><sp><speaker>BAGOT</speaker>
+<p>No; I will to Ireland to his majesty.<lb/>
+Farewell: if heart's presages be not vain,<lb/>
+We three here art that ne'er shall meet again.<lb/>
+
+
+</p></sp><sp><speaker>BUSHY</speaker>
+<p>That's as York thrives to beat back Bolingbroke.<lb/>
+
+</p></sp><sp><speaker>GREEN</speaker>
+<p>Alas, poor duke! the task he undertakes<lb/>
+Is numbering sands and drinking oceans dry:<lb/>
+Where one on his side fights, thousands will fly.<lb/>
+Farewell at once, for once, for all, and ever.<lb/>
+
+
+</p></sp><sp><speaker>BUSHY</speaker>
+<p>Well, we may meet again.<lb/>
+
+</p></sp><sp><speaker>BAGOT</speaker>
+<p>I fear me, never.<lb/>
+
+</p></sp><p><stage>Exeunt</stage>
+
+
+
+</p></div2><div2 type="scene" n="3" id="d13">
+<head>Scene 3</head>
+
+<p><stage>Wilds in Gloucestershire.</stage>
+
+</p><p><stage>Enter HENRY BOLINGBROKE and NORTHUMBERLAND, with Forces</stage>
+
+
+</p><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>How far is it, my lord, to Berkeley now?<lb/>
+
+</p></sp><sp><speaker>NORTHUMBERLAND</speaker>
+<p>Believe me, noble lord,<lb/>
+I am a stranger here in Gloucestershire:<lb/>
+These high wild hills and rough uneven ways<lb/>
+Draws out our miles, and makes them wearisome,<lb/>
+And yet your fair discourse hath been as sugar,<lb/>
+Making the hard way sweet and delectable.<lb/>
+But I bethink me what a weary way<lb/>
+From Ravenspurgh to Cotswold will be found<lb/>
+In Ross and Willoughby, wanting your company,<lb/>
+Which, I protest, hath very much beguiled<lb/>
+The tediousness and process of my travel:<lb/>
+But theirs is sweetened with the hope to have<lb/>
+The present benefit which I possess;<lb/>
+And hope to joy is little less in joy<lb/>
+Than hope enjoy'd: by this the weary lords<lb/>
+Shall make their way seem short, as mine hath done<lb/>
+By sight of what I have, your noble company.<lb/>
+
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>Of much less value is my company<lb/>
+Than your good words. But who comes here?<lb/>
+
+
+</p><p><stage>Enter HENRY PERCY</stage>
+
+
+</p></sp><sp><speaker>NORTHUMBERLAND</speaker>
+<p>It is my son, young Harry Percy,<lb/>
+Sent from my brother Worcester, whencesoever.<lb/>
+Harry, how fares your uncle?<lb/>
+
+
+</p></sp><sp><speaker>HENRY PERCY</speaker>
+<p>I had thought, my lord, to have learn'd his health of you.<lb/>
+
+</p></sp><sp><speaker>NORTHUMBERLAND</speaker>
+<p>Why, is he not with the queen?<lb/>
+
+</p></sp><sp><speaker>HENRY PERCY</speaker>
+<p>No, my good Lord; he hath forsook the court,<lb/>
+Broken his staff of office and dispersed<lb/>
+The household of the king.<lb/>
+
+
+</p></sp><sp><speaker>NORTHUMBERLAND</speaker>
+<p>What was his reason?<lb/>
+He was not so resolved when last we spake together.<lb/>
+
+
+</p></sp><sp><speaker>HENRY PERCY</speaker>
+<p>Because your lordship was proclaimed traitor.<lb/>
+But he, my lord, is gone to Ravenspurgh,<lb/>
+To offer service to the Duke of Hereford,<lb/>
+And sent me over by Berkeley, to discover<lb/>
+What power the Duke of York had levied there;<lb/>
+Then with directions to repair to Ravenspurgh.<lb/>
+
+
+</p></sp><sp><speaker>NORTHUMBERLAND</speaker>
+<p>Have you forgot the Duke of Hereford, boy?<lb/>
+
+</p></sp><sp><speaker>HENRY PERCY</speaker>
+<p>No, my good lord, for that is not forgot<lb/>
+Which ne'er I did remember: to my knowledge,<lb/>
+I never in my life did look on him.<lb/>
+
+
+</p></sp><sp><speaker>NORTHUMBERLAND</speaker>
+<p>Then learn to know him now; this is the duke.<lb/>
+
+</p></sp><sp><speaker>HENRY PERCY</speaker>
+<p>My gracious lord, I tender you my service,<lb/>
+Such as it is, being tender, raw and young:<lb/>
+Which elder days shall ripen and confirm<lb/>
+To more approved service and desert.<lb/>
+
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>I thank thee, gentle Percy; and be sure<lb/>
+I count myself in nothing else so happy<lb/>
+As in a soul remembering my good friends;<lb/>
+And, as my fortune ripens with thy love,<lb/>
+It shall be still thy true love's recompense:<lb/>
+My heart this covenant makes, my hand thus seals it.<lb/>
+
+
+</p></sp><sp><speaker>NORTHUMBERLAND</speaker>
+<p>How far is it to Berkeley? and what stir<lb/>
+Keeps good old York there with his men of war?<lb/>
+
+
+</p></sp><sp><speaker>HENRY PERCY</speaker>
+<p>There stands the castle, by yon tuft of trees,<lb/>
+Mann'd with three hundred men, as I have heard;<lb/>
+And in it are the Lords of York, Berkeley, and Seymour;<lb/>
+None else of name and noble estimate.<lb/>
+
+
+</p><p><stage>Enter LORD ROSS and LORD WILLOUGHBY</stage>
+
+
+</p></sp><sp><speaker>NORTHUMBERLAND</speaker>
+<p>Here come the Lords of Ross and Willoughby,<lb/>
+Bloody with spurring, fiery-red with haste.<lb/>
+
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>Welcome, my lords. I wot your love pursues<lb/>
+A banish'd traitor: all my treasury<lb/>
+Is yet but unfelt thanks, which more enrich'd<lb/>
+Shall be your love and labour's recompense.<lb/>
+
+
+</p></sp><sp><speaker>LORD ROSS</speaker>
+<p>Your presence makes us rich, most noble lord.<lb/>
+
+</p></sp><sp><speaker>LORD WILLOUGHBY</speaker>
+<p>And far surmounts our labour to attain it.<lb/>
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>Evermore thanks, the exchequer of the poor;<lb/>
+Which, till my infant fortune comes to years,<lb/>
+Stands for my bounty. But who comes here?<lb/>
+
+
+</p><p><stage>Enter LORD BERKELEY</stage>
+
+
+</p></sp><sp><speaker>NORTHUMBERLAND</speaker>
+<p>It is my Lord of Berkeley, as I guess.<lb/>
+
+</p></sp><sp><speaker>LORD BERKELEY</speaker>
+<p>My Lord of Hereford, my message is to you.<lb/>
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>My lord, my answer is&mdash;to Lancaster;<lb/>
+And I am come to seek that name in England;<lb/>
+And I must find that title in your tongue,<lb/>
+Before I make reply to aught you say.<lb/>
+
+
+</p></sp><sp><speaker>LORD BERKELEY</speaker>
+<p>Mistake me not, my lord; 'tis not my meaning<lb/>
+To raze one title of your honour out:<lb/>
+To you, my lord, I come, what lord you will,<lb/>
+From the most gracious regent of this land,<lb/>
+The Duke of York, to know what pricks you on<lb/>
+To take advantage of the absent time<lb/>
+And fright our native peace with self-born arms.<lb/>
+
+
+</p><p><stage>Enter DUKE OF YORK attended</stage>
+
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>I shall not need transport my words by you;<lb/>
+Here comes his grace in person. My noble uncle!<lb/>
+
+
+</p><p><stage>Kneels</stage>
+
+
+</p></sp><sp><speaker>DUKE OF YORK</speaker>
+<p>Show me thy humble heart, and not thy knee,<lb/>
+Whose duty is deceiveable and false.<lb/>
+
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>My gracious uncle&mdash;<lb/>
+
+</p></sp><sp><speaker>DUKE OF YORK</speaker>
+<p>Tut, tut!<lb/>
+Grace me no grace, nor uncle me no uncle:<lb/>
+I am no traitor's uncle; and that word 'grace.'<lb/>
+In an ungracious mouth is but profane.<lb/>
+Why have those banish'd and forbidden legs<lb/>
+Dared once to touch a dust of England's ground?<lb/>
+But then more 'why?' why have they dared to march<lb/>
+So many miles upon her peaceful bosom,<lb/>
+Frighting her pale-faced villages with war<lb/>
+And ostentation of despised arms?<lb/>
+Comest thou because the anointed king is hence?<lb/>
+Why, foolish boy, the king is left behind,<lb/>
+And in my loyal bosom lies his power.<lb/>
+Were I but now the lord of such hot youth<lb/>
+As when brave Gaunt, thy father, and myself<lb/>
+Rescued the Black Prince, that young Mars of men,<lb/>
+From forth the ranks of many thousand French,<lb/>
+O, then how quickly should this arm of mine.<lb/>
+Now prisoner to the palsy, chastise thee<lb/>
+And minister correction to thy fault!<lb/>
+
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>My gracious uncle, let me know my fault:<lb/>
+On what condition stands it and wherein?<lb/>
+
+
+</p></sp><sp><speaker>DUKE OF YORK</speaker>
+<p>Even in condition of the worst degree,<lb/>
+In gross rebellion and detested treason:<lb/>
+Thou art a banish'd man, and here art come<lb/>
+Before the expiration of thy time,<lb/>
+In braving arms against thy sovereign.<lb/>
+
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>As I was banish'd, I was banish'd Hereford;<lb/>
+But as I come, I come for Lancaster.<lb/>
+And, noble uncle, I beseech your grace<lb/>
+Look on my wrongs with an indifferent eye:<lb/>
+You are my father, for methinks in you<lb/>
+I see old Gaunt alive; O, then, my father,<lb/>
+Will you permit that I shall stand condemn'd<lb/>
+A wandering vagabond; my rights and royalties<lb/>
+Pluck'd from my arms perforce and given away<lb/>
+To upstart unthrifts? Wherefore was I born?<lb/>
+If that my cousin king be King of England,<lb/>
+It must be granted I am Duke of Lancaster.<lb/>
+You have a son, Aumerle, my noble cousin;<lb/>
+Had you first died, and he been thus trod down,<lb/>
+He should have found his uncle Gaunt a father,<lb/>
+To rouse his wrongs and chase them to the bay.<lb/>
+I am denied to sue my livery here,<lb/>
+And yet my letters-patents give me leave:<lb/>
+My father's goods are all distrain'd and sold,<lb/>
+And these and all are all amiss employ'd.<lb/>
+What would you have me do? I am a subject,<lb/>
+And I challenge law: attorneys are denied me;<lb/>
+And therefore, personally I lay my claim<lb/>
+To my inheritance of free descent.<lb/>
+
+
+</p></sp><sp><speaker>NORTHUMBERLAND</speaker>
+<p>The noble duke hath been too much abused.<lb/>
+
+</p></sp><sp><speaker>LORD ROSS</speaker>
+<p>It stands your grace upon to do him right.<lb/>
+
+</p></sp><sp><speaker>LORD WILLOUGHBY</speaker>
+<p>Base men by his endowments are made great.<lb/>
+
+</p></sp><sp><speaker>DUKE OF YORK</speaker>
+<p>My lords of England, let me tell you this:<lb/>
+I have had feeling of my cousin's wrongs<lb/>
+And laboured all I could to do him right;<lb/>
+But in this kind to come, in braving arms,<lb/>
+Be his own carver and cut out his way,<lb/>
+To find out right with wrong, it may not be;<lb/>
+And you that do abet him in this kind<lb/>
+Cherish rebellion and are rebels all.<lb/>
+
+
+</p></sp><sp><speaker>NORTHUMBERLAND</speaker>
+<p>The noble duke hath sworn his coming is<lb/>
+But for his own; and for the right of that<lb/>
+We all have strongly sworn to give him aid;<lb/>
+And let him ne'er see joy that breaks that oath!<lb/>
+
+
+</p></sp><sp><speaker>DUKE OF YORK</speaker>
+<p>Well, well, I see the issue of these arms:<lb/>
+I cannot mend it, I must needs confess,<lb/>
+Because my power is weak and all ill left:<lb/>
+But if I could, by Him that gave me life,<lb/>
+I would attach you all and make you stoop<lb/>
+Unto the sovereign mercy of the king;<lb/>
+But since I cannot, be it known to you<lb/>
+I do remain as neuter. So, fare you well;<lb/>
+Unless you please to enter in the castle<lb/>
+And there repose you for this night.<lb/>
+
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>An offer, uncle, that we will accept:<lb/>
+But we must win your grace to go with us<lb/>
+To Bristol castle, which they say is held<lb/>
+By Bushy, Bagot and their complices,<lb/>
+The caterpillars of the commonwealth,<lb/>
+Which I have sworn to weed and pluck away.<lb/>
+
+
+</p></sp><sp><speaker>DUKE OF YORK</speaker>
+<p>It may be I will go with you: but yet I'll pause;<lb/>
+For I am loath to break our country's laws.<lb/>
+Nor friends nor foes, to me welcome you are:<lb/>
+Things past redress are now with me past care.<lb/>
+
+
+</p></sp><p><stage>Exeunt</stage>
+
+
+
+</p></div2><div2 type="scene" n="4" id="d14">
+<head>Scene 4</head>
+
+<p><stage>A camp in Wales.</stage>
+
+</p><p><stage>Enter EARL OF SALISBURY and a Welsh Captain</stage>
+
+
+</p><sp><speaker>Captain</speaker>
+<p>My lord of Salisbury, we have stay'd ten days,<lb/>
+And hardly kept our countrymen together,<lb/>
+And yet we hear no tidings from the king;<lb/>
+Therefore we will disperse ourselves: farewell.<lb/>
+
+
+</p></sp><sp><speaker>EARL OF SALISBURY</speaker>
+<p>Stay yet another day, thou trusty Welshman:<lb/>
+The king reposeth all his confidence in thee.<lb/>
+
+
+</p></sp><sp><speaker>Captain</speaker>
+<p>'Tis thought the king is dead; we will not stay.<lb/>
+The bay-trees in our country are all wither'd<lb/>
+And meteors fright the fixed stars of heaven;<lb/>
+The pale-faced moon looks bloody on the earth<lb/>
+And lean-look'd prophets whisper fearful change;<lb/>
+Rich men look sad and ruffians dance and leap,<lb/>
+The one in fear to lose what they enjoy,<lb/>
+The other to enjoy by rage and war:<lb/>
+These signs forerun the death or fall of kings.<lb/>
+Farewell: our countrymen are gone and fled,<lb/>
+As well assured Richard their king is dead.<lb/>
+
+
+</p><p><stage>Exit</stage>
+
+
+</p></sp><sp><speaker>EARL OF SALISBURY</speaker>
+<p>Ah, Richard, with the eyes of heavy mind<lb/>
+I see thy glory like a shooting star<lb/>
+Fall to the base earth from the firmament.<lb/>
+Thy sun sets weeping in the lowly west,<lb/>
+Witnessing storms to come, woe and unrest:<lb/>
+Thy friends are fled to wait upon thy foes,<lb/>
+And crossly to thy good all fortune goes.<lb/>
+
+
+</p></sp><p><stage>Exit</stage></p>
+
+
+
+</div2>
+
+</div1>
+
+<div1 type="act" n="3" id="d15">
+<head>Act 3</head>
+
+<div2 type="scene" n="1" id="d16">
+<head>Scene 1</head><p><stage>Bristol. Before the castle.</stage>
+
+</p><p><stage>Enter HENRY BOLINGBROKE, DUKE OF YORK,	NORTHUMBERLAND, LORD ROSS, HENRY PERCY, LORD	WILLOUGHBY, with BUSHY and GREEN, prisoners</stage>
+
+
+</p><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>Bring forth these men.<lb/>
+Bushy and Green, I will not vex your souls&mdash;<lb/>
+Since presently your souls must part your bodies&mdash;<lb/>
+With too much urging your pernicious lives,<lb/>
+For 'twere no charity; yet, to wash your blood<lb/>
+From off my hands, here in the view of men<lb/>
+I will unfold some causes of your deaths.<lb/>
+You have misled a prince, a royal king,<lb/>
+A happy gentleman in blood and lineaments,<lb/>
+By you unhappied and disfigured clean:<lb/>
+You have in manner with your sinful hours<lb/>
+Made a divorce betwixt his queen and him,<lb/>
+Broke the possession of a royal bed<lb/>
+And stain'd the beauty of a fair queen's cheeks<lb/>
+With tears drawn from her eyes by your foul wrongs.<lb/>
+Myself, a prince by fortune of my birth,<lb/>
+Near to the king in blood, and near in love<lb/>
+Till you did make him misinterpret me,<lb/>
+Have stoop'd my neck under your injuries,<lb/>
+And sigh'd my English breath in foreign clouds,<lb/>
+Eating the bitter bread of banishment;<lb/>
+Whilst you have fed upon my signories,<lb/>
+Dispark'd my parks and fell'd my forest woods,<lb/>
+From my own windows torn my household coat,<lb/>
+Razed out my imprese, leaving me no sign,<lb/>
+Save men's opinions and my living blood,<lb/>
+To show the world I am a gentleman.<lb/>
+This and much more, much more than twice all this,<lb/>
+Condemns you to the death. See them deliver'd over<lb/>
+To execution and the hand of death.<lb/>
+
+
+</p></sp><sp><speaker>BUSHY</speaker>
+<p>More welcome is the stroke of death to me<lb/>
+Than Bolingbroke to England. Lords, farewell.<lb/>
+
+
+</p></sp><sp><speaker>GREEN</speaker>
+<p>My comfort is that heaven will take our souls<lb/>
+And plague injustice with the pains of hell.<lb/>
+
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>My Lord Northumberland, see them dispatch'd.<lb/>
+
+</p><p><stage>Exeunt NORTHUMBERLAND and others, with the	prisoners</stage></p>
+
+
+<p>
+Uncle, you say the queen is at your house;<lb/>
+For God's sake, fairly let her be entreated:<lb/>
+Tell her I send to her my kind commends;<lb/>
+Take special care my greetings be deliver'd.<lb/>
+
+
+</p></sp><sp><speaker>DUKE OF YORK</speaker>
+<p>A gentleman of mine I have dispatch'd<lb/>
+With letters of your love to her at large.<lb/>
+
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>Thank, gentle uncle. Come, lords, away.<lb/>
+To fight with Glendower and his complices:<lb/>
+Awhile to work, and after holiday.<lb/>
+
+
+</p></sp><p><stage>Exeunt</stage>
+
+
+
+</p></div2><div2 type="scene" n="2" id="d17">
+<head>Scene 2</head>
+
+<p><stage>The coast of Wales. A castle in view.</stage>
+
+</p><p><stage>Drums; flourish and colours. Enter KING RICHARD	II, the BISHOP OF CARLISLE, DUKE OF AUMERLE, and Soldiers</stage>
+
+
+</p><sp><speaker>KING RICHARD II</speaker>
+<p>Barkloughly castle call they this at hand?<lb/>
+
+</p></sp><sp><speaker>DUKE OF AUMERLE</speaker>
+<p>Yea, my lord. How brooks your grace the air,<lb/>
+After your late tossing on the breaking seas?<lb/>
+
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>Needs must I like it well: I weep for joy<lb/>
+To stand upon my kingdom once again.<lb/>
+Dear earth, I do salute thee with my hand,<lb/>
+Though rebels wound thee with their horses' hoofs:<lb/>
+As a long-parted mother with her child<lb/>
+Plays fondly with her tears and smiles in meeting,<lb/>
+So, weeping, smiling, greet I thee, my earth,<lb/>
+And do thee favours with my royal hands.<lb/>
+Feed not thy sovereign's foe, my gentle earth,<lb/>
+Nor with thy sweets comfort his ravenous sense;<lb/>
+But let thy spiders, that suck up thy venom,<lb/>
+And heavy-gaited toads lie in their way,<lb/>
+Doing annoyance to the treacherous feet<lb/>
+Which with usurping steps do trample thee:<lb/>
+Yield stinging nettles to mine enemies;<lb/>
+And when they from thy bosom pluck a flower,<lb/>
+Guard it, I pray thee, with a lurking adder<lb/>
+Whose double tongue may with a mortal touch<lb/>
+Throw death upon thy sovereign's enemies.<lb/>
+Mock not my senseless conjuration, lords:<lb/>
+This earth shall have a feeling and these stones<lb/>
+Prove armed soldiers, ere her native king<lb/>
+Shall falter under foul rebellion's arms.<lb/>
+
+
+</p></sp><sp><speaker>BISHOP OF CARLISLE</speaker>
+<p>Fear not, my lord: that Power that made you king<lb/>
+Hath power to keep you king in spite of all.<lb/>
+The means that heaven yields must be embraced,<lb/>
+And not neglected; else, if heaven would,<lb/>
+And we will not, heaven's offer we refuse,<lb/>
+The proffer'd means of succor and redress.<lb/>
+
+
+</p></sp><sp><speaker>DUKE OF AUMERLE</speaker>
+<p>He means, my lord, that we are too remiss;<lb/>
+Whilst Bolingbroke, through our security,<lb/>
+Grows strong and great in substance and in power.<lb/>
+
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>Discomfortable cousin! know'st thou not<lb/>
+That when the searching eye of heaven is hid,<lb/>
+Behind the globe, that lights the lower world,<lb/>
+Then thieves and robbers range abroad unseen<lb/>
+In murders and in outrage, boldly here;<lb/>
+But when from under this terrestrial ball<lb/>
+He fires the proud tops of the eastern pines<lb/>
+And darts his light through every guilty hole,<lb/>
+Then murders, treasons and detested sins,<lb/>
+The cloak of night being pluck'd from off their backs,<lb/>
+Stand bare and naked, trembling at themselves?<lb/>
+So when this thief, this traitor, Bolingbroke,<lb/>
+Who all this while hath revell'd in the night<lb/>
+Whilst we were wandering with the antipodes,<lb/>
+Shall see us rising in our throne, the east,<lb/>
+His treasons will sit blushing in his face,<lb/>
+Not able to endure the sight of day,<lb/>
+But self-affrighted tremble at his sin.<lb/>
+Not all the water in the rough rude sea<lb/>
+Can wash the balm off from an anointed king;<lb/>
+The breath of worldly men cannot depose<lb/>
+The deputy elected by the Lord:<lb/>
+For every man that Bolingbroke hath press'd<lb/>
+To lift shrewd steel against our golden crown,<lb/>
+God for his Richard hath in heavenly pay<lb/>
+A glorious angel: then, if angels fight,<lb/>
+Weak men must fall, for heaven still guards the right.<lb/>
+
+
+</p><p><stage>Enter EARL OF SALISBURY</stage></p>
+
+
+<p>
+Welcome, my lord	how far off lies your power?<lb/>
+
+
+</p></sp><sp><speaker>EARL OF SALISBURY</speaker>
+<p>Nor near nor farther off, my gracious lord,<lb/>
+Than this weak arm: discomfort guides my tongue<lb/>
+And bids me speak of nothing but despair.<lb/>
+One day too late, I fear me, noble lord,<lb/>
+Hath clouded all thy happy days on earth:<lb/>
+O, call back yesterday, bid time return,<lb/>
+And thou shalt have twelve thousand fighting men!<lb/>
+To-day, to-day, unhappy day, too late,<lb/>
+O'erthrows thy joys, friends, fortune and thy state:<lb/>
+For all the Welshmen, hearing thou wert dead.<lb/>
+Are gone to Bolingbroke, dispersed and fled.<lb/>
+
+
+</p></sp><sp><speaker>DUKE OF AUMERLE</speaker>
+<p>Comfort, my liege; why looks your grace so pale?<lb/>
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>But now the blood of twenty thousand men<lb/>
+Did triumph in my face, and they are fled;<lb/>
+And, till so much blood thither come again,<lb/>
+Have I not reason to look pale and dead?<lb/>
+All souls that will be safe fly from my side,<lb/>
+For time hath set a blot upon my pride.<lb/>
+
+
+</p></sp><sp><speaker>DUKE OF AUMERLE</speaker>
+<p>Comfort, my liege; remember who you are.<lb/>
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>I had forgot myself; am I not king?<lb/>
+Awake, thou coward majesty! thou sleepest.<lb/>
+Is not the king's name twenty thousand names?<lb/>
+Arm, arm, my name! a puny subject strikes<lb/>
+At thy great glory. Look not to the ground,<lb/>
+Ye favourites of a king: are we not high?<lb/>
+High be our thoughts: I know my uncle York<lb/>
+Hath power enough to serve our turn. But who comes here?<lb/>
+
+
+</p><p><stage>Enter SIR STEPHEN SCROOP</stage>
+
+
+</p></sp><sp><speaker>SIR STEPHEN SCROOP</speaker>
+<p>More health and happiness betide my liege<lb/>
+Than can my care-tuned tongue deliver him!<lb/>
+
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>Mine ear is open and my heart prepared;<lb/>
+The worst is worldly loss thou canst unfold.<lb/>
+Say, is my kingdom lost? why, 'twas my care<lb/>
+And what loss is it to be rid of care?<lb/>
+Strives Bolingbroke to be as great as we?<lb/>
+Greater he shall not be; if he serve God,<lb/>
+We'll serve Him too and be his fellow so:<lb/>
+Revolt our subjects? that we cannot mend;<lb/>
+They break their faith to God as well as us:<lb/>
+Cry woe, destruction, ruin and decay:<lb/>
+The worst is death, and death will have his day.<lb/>
+
+
+</p></sp><sp><speaker>SIR STEPHEN SCROOP</speaker>
+<p>Glad am I that your highness is so arm'd<lb/>
+To bear the tidings of calamity.<lb/>
+Like an unseasonable stormy day,<lb/>
+Which makes the silver rivers drown their shores,<lb/>
+As if the world were all dissolved to tears,<lb/>
+So high above his limits swells the rage<lb/>
+Of Bolingbroke, covering your fearful land<lb/>
+With hard bright steel and hearts harder than steel.<lb/>
+White-beards have arm'd their thin and hairless scalps<lb/>
+Against thy majesty; boys, with women's voices,<lb/>
+Strive to speak big and clap their female joints<lb/>
+In stiff unwieldy arms against thy crown:<lb/>
+The very beadsmen learn to bend their bows<lb/>
+Of double-fatal yew against thy state;<lb/>
+Yea, distaff-women manage rusty bills<lb/>
+Against thy seat: both young and old rebel,<lb/>
+And all goes worse than I have power to tell.<lb/>
+
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>Too well, too well thou tell'st a tale so ill.<lb/>
+Where is the Earl of Wiltshire? where is Bagot?<lb/>
+What is become of Bushy? where is Green?<lb/>
+That they have let the dangerous enemy<lb/>
+Measure our confines with such peaceful steps?<lb/>
+If we prevail, their heads shall pay for it:<lb/>
+I warrant they have made peace with Bolingbroke.<lb/>
+
+
+</p></sp><sp><speaker>SIR STEPHEN SCROOP</speaker>
+<p>Peace have they made with him indeed, my lord.<lb/>
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>O villains, vipers, damn'd without redemption!<lb/>
+Dogs, easily won to fawn on any man!<lb/>
+Snakes, in my heart-blood warm'd, that sting my heart!<lb/>
+Three Judases, each one thrice worse than Judas!<lb/>
+Would they make peace? terrible hell make war<lb/>
+Upon their spotted souls for this offence!<lb/>
+
+
+</p></sp><sp><speaker>SIR STEPHEN SCROOP</speaker>
+<p>Sweet love, I see, changing his property,<lb/>
+Turns to the sourest and most deadly hate:<lb/>
+Again uncurse their souls; their peace is made<lb/>
+With heads, and not with hands; those whom you curse<lb/>
+Have felt the worst of death's destroying wound<lb/>
+And lie full low, graved in the hollow ground.<lb/>
+
+
+</p></sp><sp><speaker>DUKE OF AUMERLE</speaker>
+<p>Is Bushy, Green, and the Earl of Wiltshire dead?<lb/>
+
+</p></sp><sp><speaker>SIR STEPHEN SCROOP</speaker>
+<p>Ay, all of them at Bristol lost their heads.<lb/>
+
+</p></sp><sp><speaker>DUKE OF AUMERLE</speaker>
+<p>Where is the duke my father with his power?<lb/>
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>No matter where; of comfort no man speak:<lb/>
+Let's talk of graves, of worms, and epitaphs;<lb/>
+Make dust our paper and with rainy eyes<lb/>
+Write sorrow on the bosom of the earth,<lb/>
+Let's choose executors and talk of wills:<lb/>
+And yet not so, for what can we bequeath<lb/>
+Save our deposed bodies to the ground?<lb/>
+Our lands, our lives and all are Bolingbroke's,<lb/>
+And nothing can we call our own but death<lb/>
+And that small model of the barren earth<lb/>
+Which serves as paste and cover to our bones.<lb/>
+For God's sake, let us sit upon the ground<lb/>
+And tell sad stories of the death of kings;<lb/>
+How some have been deposed; some slain in war,<lb/>
+Some haunted by the ghosts they have deposed;<lb/>
+Some poison'd by their wives: some sleeping kill'd;<lb/>
+All murder'd: for within the hollow crown<lb/>
+That rounds the mortal temples of a king<lb/>
+Keeps Death his court and there the antic sits,<lb/>
+Scoffing his state and grinning at his pomp,<lb/>
+Allowing him a breath, a little scene,<lb/>
+To monarchize, be fear'd and kill with looks,<lb/>
+Infusing him with self and vain conceit,<lb/>
+As if this flesh which walls about our life,<lb/>
+Were brass impregnable, and humour'd thus<lb/>
+Comes at the last and with a little pin<lb/>
+Bores through his castle wall, and farewell king!<lb/>
+Cover your heads and mock not flesh and blood<lb/>
+With solemn reverence: throw away respect,<lb/>
+Tradition, form and ceremonious duty,<lb/>
+For you have but mistook me all this while:<lb/>
+I live with bread like you, feel want,<lb/>
+Taste grief, need friends: subjected thus,<lb/>
+How can you say to me, I am a king?<lb/>
+
+
+</p></sp><sp><speaker>BISHOP OF CARLISLE</speaker>
+<p>My lord, wise men ne'er sit and wail their woes,<lb/>
+But presently prevent the ways to wail.<lb/>
+To fear the foe, since fear oppresseth strength,<lb/>
+Gives in your weakness strength unto your foe,<lb/>
+And so your follies fight against yourself.<lb/>
+Fear and be slain; no worse can come to fight:<lb/>
+And fight and die is death destroying death;<lb/>
+Where fearing dying pays death servile breath.<lb/>
+
+
+</p></sp><sp><speaker>DUKE OF AUMERLE</speaker>
+<p>My father hath a power; inquire of him<lb/>
+And learn to make a body of a limb.<lb/>
+
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>Thou chidest me well: proud Bolingbroke, I come<lb/>
+To change blows with thee for our day of doom.<lb/>
+This ague fit of fear is over-blown;<lb/>
+An easy task it is to win our own.<lb/>
+Say, Scroop, where lies our uncle with his power?<lb/>
+Speak sweetly, man, although thy looks be sour.<lb/>
+
+
+</p></sp><sp><speaker>SIR STEPHEN SCROOP</speaker>
+<p>Men judge by the complexion of the sky<lb/>
+The state and inclination of the day:<lb/>
+So may you by my dull and heavy eye,<lb/>
+My tongue hath but a heavier tale to say.<lb/>
+I play the torturer, by small and small<lb/>
+To lengthen out the worst that must be spoken:<lb/>
+Your uncle York is join'd with Bolingbroke,<lb/>
+And all your northern castles yielded up,<lb/>
+And all your southern gentlemen in arms<lb/>
+Upon his party.<lb/>
+
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>Thou hast said enough.<lb/>
+Beshrew thee, cousin, which didst lead me forth<lb/>
+
+
+</p><p><stage>To DUKE OF AUMERLE</stage></p>
+
+
+<p>
+Of that sweet way I was in to despair!<lb/>
+What say you now? what comfort have we now?<lb/>
+By heaven, I'll hate him everlastingly<lb/>
+That bids me be of comfort any more.<lb/>
+Go to Flint castle: there I'll pine away;<lb/>
+A king, woe's slave, shall kingly woe obey.<lb/>
+That power I have, discharge; and let them go<lb/>
+To ear the land that hath some hope to grow,<lb/>
+For I have none: let no man speak again<lb/>
+To alter this, for counsel is but vain.<lb/>
+
+
+</p></sp><sp><speaker>DUKE OF AUMERLE</speaker>
+<p>My liege, one word.<lb/>
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>He does me double wrong<lb/>
+That wounds me with the flatteries of his tongue.<lb/>
+Discharge my followers: let them hence away,<lb/>
+From Richard's night to Bolingbroke's fair day.<lb/>
+
+
+</p></sp><p><stage>Exeunt</stage>
+
+
+
+</p></div2><div2 type="scene" n="3" id="d18">
+<head>Scene 3</head>
+
+<p><stage>Wales. Before Flint castle.</stage>
+
+</p><p><stage>Enter, with drum and colours, HENRY BOLINGBROKE,	DUKE OF YORK, NORTHUMBERLAND, Attendants, and forces</stage>
+
+
+</p><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>So that by this intelligence we learn<lb/>
+The Welshmen are dispersed, and Salisbury<lb/>
+Is gone to meet the king, who lately landed<lb/>
+With some few private friends upon this coast.<lb/>
+
+
+</p></sp><sp><speaker>NORTHUMBERLAND</speaker>
+<p>The news is very fair and good, my lord:<lb/>
+Richard not far from hence hath hid his head.<lb/>
+
+
+</p></sp><sp><speaker>DUKE OF YORK</speaker>
+<p>It would beseem the Lord Northumberland<lb/>
+To say 'King Richard:' alack the heavy day<lb/>
+When such a sacred king should hide his head.<lb/>
+
+
+</p></sp><sp><speaker>NORTHUMBERLAND</speaker>
+<p>Your grace mistakes; only to be brief<lb/>
+Left I his title out.<lb/>
+
+
+</p></sp><sp><speaker>DUKE OF YORK</speaker>
+<p>The time hath been,<lb/>
+Would you have been so brief with him, he would<lb/>
+Have been so brief with you, to shorten you,<lb/>
+For taking so the head, your whole head's length.<lb/>
+
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>Mistake not, uncle, further than you should.<lb/>
+
+</p></sp><sp><speaker>DUKE OF YORK</speaker>
+<p>Take not, good cousin, further than you should.<lb/>
+Lest you mistake the heavens are o'er our heads.<lb/>
+
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>I know it, uncle, and oppose not myself<lb/>
+Against their will. But who comes here?<lb/>
+
+
+</p><p><stage>Enter HENRY PERCY</stage></p>
+
+
+<p>
+Welcome, Harry: what, will not this castle yield?<lb/>
+
+
+</p></sp><sp><speaker>HENRY PERCY</speaker>
+<p>The castle royally is mann'd, my lord,<lb/>
+Against thy entrance.<lb/>
+
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>Royally!<lb/>
+Why, it contains no king?<lb/>
+
+
+</p></sp><sp><speaker>HENRY PERCY</speaker>
+<p>Yes, my good lord,<lb/>
+It doth contain a king; King Richard lies<lb/>
+Within the limits of yon lime and stone:<lb/>
+And with him are the Lord Aumerle, Lord Salisbury,<lb/>
+Sir Stephen Scroop, besides a clergyman<lb/>
+Of holy reverence; who, I cannot learn.<lb/>
+
+
+</p></sp><sp><speaker>NORTHUMBERLAND</speaker>
+<p>O, belike it is the Bishop of Carlisle.<lb/>
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>Noble lords,<lb/>
+Go to the rude ribs of that ancient castle;<lb/>
+Through brazen trumpet send the breath of parley<lb/>
+Into his ruin'd ears, and thus deliver:<lb/>
+Henry Bolingbroke<lb/>
+On both his knees doth kiss King Richard's hand<lb/>
+And sends allegiance and true faith of heart<lb/>
+To his most royal person, hither come<lb/>
+Even at his feet to lay my arms and power,<lb/>
+Provided that my banishment repeal'd<lb/>
+And lands restored again be freely granted:<lb/>
+If not, I'll use the advantage of my power<lb/>
+And lay the summer's dust with showers of blood<lb/>
+Rain'd from the wounds of slaughter'd Englishmen:<lb/>
+The which, how far off from the mind of Bolingbroke<lb/>
+It is, such crimson tempest should bedrench<lb/>
+The fresh green lap of fair King Richard's land,<lb/>
+My stooping duty tenderly shall show.<lb/>
+Go, signify as much, while here we march<lb/>
+Upon the grassy carpet of this plain.<lb/>
+Let's march without the noise of threatening drum,<lb/>
+That from this castle's tatter'd battlements<lb/>
+Our fair appointments may be well perused.<lb/>
+Methinks King Richard and myself should meet<lb/>
+With no less terror than the elements<lb/>
+Of fire and water, when their thundering shock<lb/>
+At meeting tears the cloudy cheeks of heaven.<lb/>
+Be he the fire, I'll be the yielding water:<lb/>
+The rage be his, whilst on the earth I rain<lb/>
+My waters; on the earth, and not on him.<lb/>
+March on, and mark King Richard how he looks.<lb/>
+
+
+</p><p><stage>Parle without, and answer within. Then a flourish.	Enter on the walls, KING RICHARD II, the BISHOP OF	CARLISLE, DUKE OF AUMERLE, SIR STEPHEN SCROOP, and	EARL OF SALISBURY</stage></p>
+
+
+<p>
+See, see, King Richard doth himself appear,<lb/>
+As doth the blushing discontented sun<lb/>
+From out the fiery portal of the east,<lb/>
+When he perceives the envious clouds are bent<lb/>
+To dim his glory and to stain the track<lb/>
+Of his bright passage to the occident.<lb/>
+
+
+</p></sp><sp><speaker>DUKE OF YORK</speaker>
+<p>Yet looks he like a king: behold, his eye,<lb/>
+As bright as is the eagle's, lightens forth<lb/>
+Controlling majesty: alack, alack, for woe,<lb/>
+That any harm should stain so fair a show!<lb/>
+
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>We are amazed; and thus long have we stood<lb/>
+To watch the fearful bending of thy knee,<lb/>
+
+
+</p><p><stage>To NORTHUMBERLAND</stage></p>
+
+
+<p>
+Because we thought ourself thy lawful king:<lb/>
+And if we be, how dare thy joints forget<lb/>
+To pay their awful duty to our presence?<lb/>
+If we be not, show us the hand of God<lb/>
+That hath dismissed us from our stewardship;<lb/>
+For well we know, no hand of blood and bone<lb/>
+Can gripe the sacred handle of our sceptre,<lb/>
+Unless he do profane, steal, or usurp.<lb/>
+And though you think that all, as you have done,<lb/>
+Have torn their souls by turning them from us,<lb/>
+And we are barren and bereft of friends;<lb/>
+Yet know, my master, God omnipotent,<lb/>
+Is mustering in his clouds on our behalf<lb/>
+Armies of pestilence; and they shall strike<lb/>
+Your children yet unborn and unbegot,<lb/>
+That lift your vassal hands against my head<lb/>
+And threat the glory of my precious crown.<lb/>
+Tell Bolingbroke&mdash;for yond methinks he stands&mdash;<lb/>
+That every stride he makes upon my land<lb/>
+Is dangerous treason: he is come to open<lb/>
+The purple testament of bleeding war;<lb/>
+But ere the crown he looks for live in peace,<lb/>
+Ten thousand bloody crowns of mothers' sons<lb/>
+Shall ill become the flower of England's face,<lb/>
+Change the complexion of her maid-pale peace<lb/>
+To scarlet indignation and bedew<lb/>
+Her pastures' grass with faithful English blood.<lb/>
+
+
+</p></sp><sp><speaker>NORTHUMBERLAND</speaker>
+<p>The king of heaven forbid our lord the king<lb/>
+Should so with civil and uncivil arms<lb/>
+Be rush'd upon! Thy thrice noble cousin<lb/>
+Harry Bolingbroke doth humbly kiss thy hand;<lb/>
+And by the honourable tomb he swears,<lb/>
+That stands upon your royal grandsire's bones,<lb/>
+And by the royalties of both your bloods,<lb/>
+Currents that spring from one most gracious head,<lb/>
+And by the buried hand of warlike Gaunt,<lb/>
+And by the worth and honour of himself,<lb/>
+Comprising all that may be sworn or said,<lb/>
+His coming hither hath no further scope<lb/>
+Than for his lineal royalties and to beg<lb/>
+Enfranchisement immediate on his knees:<lb/>
+Which on thy royal party granted once,<lb/>
+His glittering arms he will commend to rust,<lb/>
+His barbed steeds to stables, and his heart<lb/>
+To faithful service of your majesty.<lb/>
+This swears he, as he is a prince, is just;<lb/>
+And, as I am a gentleman, I credit him.<lb/>
+
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>Northumberland, say thus the king returns:<lb/>
+His noble cousin is right welcome hither;<lb/>
+And all the number of his fair demands<lb/>
+Shall be accomplish'd without contradiction:<lb/>
+With all the gracious utterance thou hast<lb/>
+Speak to his gentle hearing kind commends.<lb/>
+We do debase ourselves, cousin, do we not,<lb/>
+
+
+</p><p><stage>To DUKE OF AUMERLE</stage></p>
+
+
+<p>
+To look so poorly and to speak so fair?<lb/>
+Shall we call back Northumberland, and send<lb/>
+Defiance to the traitor, and so die?<lb/>
+
+
+</p></sp><sp><speaker>DUKE OF AUMERLE</speaker>
+<p>No, good my lord; let's fight with gentle words<lb/>
+Till time lend friends and friends their helpful swords.<lb/>
+
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>O God, O God! that e'er this tongue of mine,<lb/>
+That laid the sentence of dread banishment<lb/>
+On yon proud man, should take it off again<lb/>
+With words of sooth! O that I were as great<lb/>
+As is my grief, or lesser than my name!<lb/>
+Or that I could forget what I have been,<lb/>
+Or not remember what I must be now!<lb/>
+Swell'st thou, proud heart? I'll give thee scope to beat,<lb/>
+Since foes have scope to beat both thee and me.<lb/>
+
+
+</p></sp><sp><speaker>DUKE OF AUMERLE</speaker>
+<p>Northumberland comes back from Bolingbroke.<lb/>
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>What must the king do now? must he submit?<lb/>
+The king shall do it: must he be deposed?<lb/>
+The king shall be contented: must he lose<lb/>
+The name of king? o' God's name, let it go:<lb/>
+I'll give my jewels for a set of beads,<lb/>
+My gorgeous palace for a hermitage,<lb/>
+My gay apparel for an almsman's gown,<lb/>
+My figured goblets for a dish of wood,<lb/>
+My sceptre for a palmer's walking staff,<lb/>
+My subjects for a pair of carved saints<lb/>
+And my large kingdom for a little grave,<lb/>
+A little little grave, an obscure grave;<lb/>
+Or I'll be buried in the king's highway,<lb/>
+Some way of common trade, where subjects' feet<lb/>
+May hourly trample on their sovereign's head;<lb/>
+For on my heart they tread now whilst I live;<lb/>
+And buried once, why not upon my head?<lb/>
+Aumerle, thou weep'st, my tender-hearted cousin!<lb/>
+We'll make foul weather with despised tears;<lb/>
+Our sighs and they shall lodge the summer corn,<lb/>
+And make a dearth in this revolting land.<lb/>
+Or shall we play the wantons with our woes,<lb/>
+And make some pretty match with shedding tears?<lb/>
+As thus, to drop them still upon one place,<lb/>
+Till they have fretted us a pair of graves<lb/>
+Within the earth; and, therein laid,&mdash;there lies<lb/>
+Two kinsmen digg'd their graves with weeping eyes.<lb/>
+Would not this ill do well? Well, well, I see<lb/>
+I talk but idly, and you laugh at me.<lb/>
+Most mighty prince, my Lord Northumberland,<lb/>
+What says King Bolingbroke? will his majesty<lb/>
+Give Richard leave to live till Richard die?<lb/>
+You make a leg, and Bolingbroke says ay.<lb/>
+
+
+</p></sp><sp><speaker>NORTHUMBERLAND</speaker>
+<p>My lord, in the base court he doth attend<lb/>
+To speak with you; may it please you to come down.<lb/>
+
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>Down, down I come; like glistering Phaethon,<lb/>
+Wanting the manage of unruly jades.<lb/>
+In the base court? Base court, where kings grow base,<lb/>
+To come at traitors' calls and do them grace.<lb/>
+In the base court? Come down? Down, court!<lb/>
+down, king!<lb/>
+For night-owls shriek where mounting larks<lb/>
+should sing.<lb/>
+
+
+</p><p><stage>Exeunt from above</stage>
+
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>What says his majesty?<lb/>
+
+</p></sp><sp><speaker>NORTHUMBERLAND</speaker>
+<p>Sorrow and grief of heart<lb/>
+Makes him speak fondly, like a frantic man<lb/>
+Yet he is come.<lb/>
+
+
+</p><p><stage>Enter KING RICHARD and his attendants below</stage>
+
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>Stand all apart,<lb/>
+And show fair duty to his majesty.<lb/>
+
+
+</p><p><stage>He kneels down</stage></p>
+
+
+<p>
+My gracious lord,&mdash;<lb/>
+
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>Fair cousin, you debase your princely knee<lb/>
+To make the base earth proud with kissing it:<lb/>
+Me rather had my heart might feel your love<lb/>
+Than my unpleased eye see your courtesy.<lb/>
+Up, cousin, up; your heart is up, I know,<lb/>
+Thus high at least, although your knee be low.<lb/>
+
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>My gracious lord, I come but for mine own.<lb/>
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>Your own is yours, and I am yours, and all.<lb/>
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>So far be mine, my most redoubted lord,<lb/>
+As my true service shall deserve your love.<lb/>
+
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>Well you deserve: they well deserve to have,<lb/>
+That know the strong'st and surest way to get.<lb/>
+Uncle, give me your hands: nay, dry your eyes;<lb/>
+Tears show their love, but want their remedies.<lb/>
+Cousin, I am too young to be your father,<lb/>
+Though you are old enough to be my heir.<lb/>
+What you will have, I'll give, and willing too;<lb/>
+For do we must what force will have us do.<lb/>
+Set on towards London, cousin, is it so?<lb/>
+
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>Yea, my good lord.<lb/>
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>Then I must not say no.<lb/>
+
+</p></sp><p><stage>Flourish. Exeunt</stage>
+
+
+
+</p></div2><div2 type="scene" n="4" id="d19">
+<head>Scene 4</head>
+
+<p><stage>LANGLEY. The DUKE OF YORK's garden.</stage>
+
+</p><p><stage>Enter the QUEEN and two Ladies</stage>
+
+
+</p><sp><speaker>QUEEN</speaker>
+<p>What sport shall we devise here in this garden,<lb/>
+To drive away the heavy thought of care?<lb/>
+
+
+</p></sp><sp><speaker>Lady</speaker>
+<p>Madam, we'll play at bowls.<lb/>
+
+</p></sp><sp><speaker>QUEEN</speaker>
+<p>'Twill make me think the world is full of rubs,<lb/>
+And that my fortune rubs against the bias.<lb/>
+
+
+</p></sp><sp><speaker>Lady</speaker>
+<p>Madam, we'll dance.<lb/>
+
+</p></sp><sp><speaker>QUEEN</speaker>
+<p>My legs can keep no measure in delight,<lb/>
+When my poor heart no measure keeps in grief:<lb/>
+Therefore, no dancing, girl; some other sport.<lb/>
+
+
+</p></sp><sp><speaker>Lady</speaker>
+<p>Madam, we'll tell tales.<lb/>
+
+</p></sp><sp><speaker>QUEEN</speaker>
+<p>Of sorrow or of joy?<lb/>
+
+</p></sp><sp><speaker>Lady</speaker>
+<p>Of either, madam.<lb/>
+
+</p></sp><sp><speaker>QUEEN</speaker>
+<p>Of neither, girl:<lb/>
+For of joy, being altogether wanting,<lb/>
+It doth remember me the more of sorrow;<lb/>
+Or if of grief, being altogether had,<lb/>
+It adds more sorrow to my want of joy:<lb/>
+For what I have I need not to repeat;<lb/>
+And what I want it boots not to complain.<lb/>
+
+
+</p></sp><sp><speaker>Lady</speaker>
+<p>Madam, I'll sing.<lb/>
+
+</p></sp><sp><speaker>QUEEN</speaker>
+<p>'Tis well that thou hast cause<lb/>
+But thou shouldst please me better, wouldst thou weep.<lb/>
+
+
+</p></sp><sp><speaker>Lady</speaker>
+<p>I could weep, madam, would it do you good.<lb/>
+
+</p></sp><sp><speaker>QUEEN</speaker>
+<p>And I could sing, would weeping do me good,<lb/>
+And never borrow any tear of thee.<lb/>
+
+
+</p><p><stage>Enter a Gardener, and two Servants</stage></p>
+
+
+<p>
+But stay, here come the gardeners:<lb/>
+Let's step into the shadow of these trees.<lb/>
+My wretchedness unto a row of pins,<lb/>
+They'll talk of state; for every one doth so<lb/>
+Against a change; woe is forerun with woe.<lb/>
+
+
+</p><p><stage>QUEEN and Ladies retire</stage>
+
+
+</p></sp><sp><speaker>Gardener</speaker>
+<p>Go, bind thou up yon dangling apricocks,<lb/>
+Which, like unruly children, make their sire<lb/>
+Stoop with oppression of their prodigal weight:<lb/>
+Give some supportance to the bending twigs.<lb/>
+Go thou, and like an executioner,<lb/>
+Cut off the heads of too fast growing sprays,<lb/>
+That look too lofty in our commonwealth:<lb/>
+All must be even in our government.<lb/>
+You thus employ'd, I will go root away<lb/>
+The noisome weeds, which without profit suck<lb/>
+The soil's fertility from wholesome flowers.<lb/>
+
+
+</p></sp><sp><speaker>Servant</speaker>
+<p>Why should we in the compass of a pale<lb/>
+Keep law and form and due proportion,<lb/>
+Showing, as in a model, our firm estate,<lb/>
+When our sea-walled garden, the whole land,<lb/>
+Is full of weeds, her fairest flowers choked up,<lb/>
+Her fruit-trees all upturned, her hedges ruin'd,<lb/>
+Her knots disorder'd and her wholesome herbs<lb/>
+Swarming with caterpillars?<lb/>
+
+
+</p></sp><sp><speaker>Gardener</speaker>
+<p>Hold thy peace:<lb/>
+He that hath suffer'd this disorder'd spring<lb/>
+Hath now himself met with the fall of leaf:<lb/>
+The weeds which his broad-spreading leaves did shelter,<lb/>
+That seem'd in eating him to hold him up,<lb/>
+Are pluck'd up root and all by Bolingbroke,<lb/>
+I mean the Earl of Wiltshire, Bushy, Green.<lb/>
+
+
+</p></sp><sp><speaker>Servant</speaker>
+<p>What, are they dead?<lb/>
+
+</p></sp><sp><speaker>Gardener</speaker>
+<p>They are; and Bolingbroke<lb/>
+Hath seized the wasteful king. O, what pity is it<lb/>
+That he had not so trimm'd and dress'd his land<lb/>
+As we this garden! We at time of year<lb/>
+Do wound the bark, the skin of our fruit-trees,<lb/>
+Lest, being over-proud in sap and blood,<lb/>
+With too much riches it confound itself:<lb/>
+Had he done so to great and growing men,<lb/>
+They might have lived to bear and he to taste<lb/>
+Their fruits of duty: superfluous branches<lb/>
+We lop away, that bearing boughs may live:<lb/>
+Had he done so, himself had borne the crown,<lb/>
+Which waste of idle hours hath quite thrown down.<lb/>
+
+
+</p></sp><sp><speaker>Servant</speaker>
+<p>What, think you then the king shall be deposed?<lb/>
+
+</p></sp><sp><speaker>Gardener</speaker>
+<p>Depress'd he is already, and deposed<lb/>
+'Tis doubt he will be: letters came last night<lb/>
+To a dear friend of the good Duke of York's,<lb/>
+That tell black tidings.<lb/>
+
+
+</p></sp><sp><speaker>QUEEN</speaker>
+<p>O, I am press'd to death through want of speaking!<lb/>
+
+</p><p><stage>Coming forward</stage></p>
+
+
+<p>
+Thou, old Adam's likeness, set to dress this garden,<lb/>
+How dares thy harsh rude tongue sound this unpleasing news?<lb/>
+What Eve, what serpent, hath suggested thee<lb/>
+To make a second fall of cursed man?<lb/>
+Why dost thou say King Richard is deposed?<lb/>
+Darest thou, thou little better thing than earth,<lb/>
+Divine his downfall? Say, where, when, and how,<lb/>
+Camest thou by this ill tidings? speak, thou wretch.<lb/>
+
+
+</p></sp><sp><speaker>Gardener</speaker>
+<p>Pardon me, madam: little joy have I<lb/>
+To breathe this news; yet what I say is true.<lb/>
+King Richard, he is in the mighty hold<lb/>
+Of Bolingbroke: their fortunes both are weigh'd:<lb/>
+In your lord's scale is nothing but himself,<lb/>
+And some few vanities that make him light;<lb/>
+But in the balance of great Bolingbroke,<lb/>
+Besides himself, are all the English peers,<lb/>
+And with that odds he weighs King Richard down.<lb/>
+Post you to London, and you will find it so;<lb/>
+I speak no more than every one doth know.<lb/>
+
+
+</p></sp><sp><speaker>QUEEN</speaker>
+<p>Nimble mischance, that art so light of foot,<lb/>
+Doth not thy embassage belong to me,<lb/>
+And am I last that knows it? O, thou think'st<lb/>
+To serve me last, that I may longest keep<lb/>
+Thy sorrow in my breast. Come, ladies, go,<lb/>
+To meet at London London's king in woe.<lb/>
+What, was I born to this, that my sad look<lb/>
+Should grace the triumph of great Bolingbroke?<lb/>
+Gardener, for telling me these news of woe,<lb/>
+Pray God the plants thou graft'st may never grow.<lb/>
+
+
+</p><p><stage>Exeunt QUEEN and Ladies</stage>
+
+
+</p></sp><sp><speaker>GARDENER</speaker>
+<p>Poor queen! so that thy state might be no worse,<lb/>
+I would my skill were subject to thy curse.<lb/>
+Here did she fall a tear; here in this place<lb/>
+I'll set a bank of rue, sour herb of grace:<lb/>
+Rue, even for ruth, here shortly shall be seen,<lb/>
+In the remembrance of a weeping queen.<lb/>
+
+
+</p></sp><p><stage>Exeunt</stage></p>
+
+
+
+</div2>
+
+</div1>
+
+<div1 type="act" n="4" id="d20">
+<head>Act 4</head>
+
+<div2 type="scene" n="1" id="d21">
+<head>Scene 1</head><p><stage>Westminster Hall.</stage>
+
+</p><p><stage>Enter, as to the Parliament, HENRY BOLINGBROKE,	DUKE OF AUMERLE, NORTHUMBERLAND, HENRY PERCY, LORD	FITZWATER, DUKE OF SURREY, the BISHOP OF CARLISLE,	the Abbot Of Westminster, and another Lord, Herald,	Officers, and BAGOT</stage>
+
+
+</p><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>Call forth Bagot.<lb/>
+Now, Bagot, freely speak thy mind;<lb/>
+What thou dost know of noble Gloucester's death,<lb/>
+Who wrought it with the king, and who perform'd<lb/>
+The bloody office of his timeless end.<lb/>
+
+
+</p></sp><sp><speaker>BAGOT</speaker>
+<p>Then set before my face the Lord Aumerle.<lb/>
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>Cousin, stand forth, and look upon that man.<lb/>
+
+</p></sp><sp><speaker>BAGOT</speaker>
+<p>My Lord Aumerle, I know your daring tongue<lb/>
+Scorns to unsay what once it hath deliver'd.<lb/>
+In that dead time when Gloucester's death was plotted,<lb/>
+I heard you say, 'Is not my arm of length,<lb/>
+That reacheth from the restful English court<lb/>
+As far as Calais, to mine uncle's head?'<lb/>
+Amongst much other talk, that very time,<lb/>
+I heard you say that you had rather refuse<lb/>
+The offer of an hundred thousand crowns<lb/>
+Than Bolingbroke's return to England;<lb/>
+Adding withal how blest this land would be<lb/>
+In this your cousin's death.<lb/>
+
+
+</p></sp><sp><speaker>DUKE OF AUMERLE</speaker>
+<p>Princes and noble lords,<lb/>
+What answer shall I make to this base man?<lb/>
+Shall I so much dishonour my fair stars,<lb/>
+On equal terms to give him chastisement?<lb/>
+Either I must, or have mine honour soil'd<lb/>
+With the attainder of his slanderous lips.<lb/>
+There is my gage, the manual seal of death,<lb/>
+That marks thee out for hell: I say, thou liest,<lb/>
+And will maintain what thou hast said is false<lb/>
+In thy heart-blood, though being all too base<lb/>
+To stain the temper of my knightly sword.<lb/>
+
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>Bagot, forbear; thou shalt not take it up.<lb/>
+
+</p></sp><sp><speaker>DUKE OF AUMERLE</speaker>
+<p>Excepting one, I would he were the best<lb/>
+In all this presence that hath moved me so.<lb/>
+
+
+</p></sp><sp><speaker>LORD FITZWATER</speaker>
+<p>If that thy valour stand on sympathy,<lb/>
+There is my gage, Aumerle, in gage to thine:<lb/>
+By that fair sun which shows me where thou stand'st,<lb/>
+I heard thee say, and vauntingly thou spakest it<lb/>
+That thou wert cause of noble Gloucester's death.<lb/>
+If thou deny'st it twenty times, thou liest;<lb/>
+And I will turn thy falsehood to thy heart,<lb/>
+Where it was forged, with my rapier's point.<lb/>
+
+
+</p></sp><sp><speaker>DUKE OF AUMERLE</speaker>
+<p>Thou darest not, coward, live to see that day.<lb/>
+
+</p></sp><sp><speaker>LORD FITZWATER</speaker>
+<p>Now by my soul, I would it were this hour.<lb/>
+
+</p></sp><sp><speaker>DUKE OF AUMERLE</speaker>
+<p>Fitzwater, thou art damn'd to hell for this.<lb/>
+
+</p></sp><sp><speaker>HENRY PERCY</speaker>
+<p>Aumerle, thou liest; his honour is as true<lb/>
+In this appeal as thou art all unjust;<lb/>
+And that thou art so, there I throw my gage,<lb/>
+To prove it on thee to the extremest point<lb/>
+Of mortal breathing: seize it, if thou darest.<lb/>
+
+
+</p></sp><sp><speaker>DUKE OF AUMERLE</speaker>
+<p>An if I do not, may my hands rot off<lb/>
+And never brandish more revengeful steel<lb/>
+Over the glittering helmet of my foe!<lb/>
+
+
+</p></sp><sp><speaker>Lord</speaker>
+<p>I task the earth to the like, forsworn Aumerle;<lb/>
+And spur thee on with full as many lies<lb/>
+As may be holloa'd in thy treacherous ear<lb/>
+From sun to sun: there is my honour's pawn;<lb/>
+Engage it to the trial, if thou darest.<lb/>
+
+
+</p></sp><sp><speaker>DUKE OF AUMERLE</speaker>
+<p>Who sets me else? by heaven, I'll throw at all:<lb/>
+I have a thousand spirits in one breast,<lb/>
+To answer twenty thousand such as you.<lb/>
+
+
+</p></sp><sp><speaker>DUKE OF SURREY</speaker>
+<p>My Lord Fitzwater, I do remember well<lb/>
+The very time Aumerle and you did talk.<lb/>
+
+
+</p></sp><sp><speaker>LORD FITZWATER</speaker>
+<p>'Tis very true: you were in presence then;<lb/>
+And you can witness with me this is true.<lb/>
+
+
+</p></sp><sp><speaker>DUKE OF SURREY</speaker>
+<p>As false, by heaven, as heaven itself is true.<lb/>
+
+</p></sp><sp><speaker>LORD FITZWATER</speaker>
+<p>Surrey, thou liest.<lb/>
+
+</p></sp><sp><speaker>DUKE OF SURREY</speaker>
+<p>Dishonourable boy!<lb/>
+That lie shall lie so heavy on my sword,<lb/>
+That it shall render vengeance and revenge<lb/>
+Till thou the lie-giver and that lie do lie<lb/>
+In earth as quiet as thy father's skull:<lb/>
+In proof whereof, there is my honour's pawn;<lb/>
+Engage it to the trial, if thou darest.<lb/>
+
+
+</p></sp><sp><speaker>LORD FITZWATER</speaker>
+<p>How fondly dost thou spur a forward horse!<lb/>
+If I dare eat, or drink, or breathe, or live,<lb/>
+I dare meet Surrey in a wilderness,<lb/>
+And spit upon him, whilst I say he lies,<lb/>
+And lies, and lies: there is my bond of faith,<lb/>
+To tie thee to my strong correction.<lb/>
+As I intend to thrive in this new world,<lb/>
+Aumerle is guilty of my true appeal:<lb/>
+Besides, I heard the banish'd Norfolk say<lb/>
+That thou, Aumerle, didst send two of thy men<lb/>
+To execute the noble duke at Calais.<lb/>
+
+
+</p></sp><sp><speaker>DUKE OF AUMERLE</speaker>
+<p>Some honest Christian trust me with a gage<lb/>
+That Norfolk lies: here do I throw down this,<lb/>
+If he may be repeal'd, to try his honour.<lb/>
+
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>These differences shall all rest under gage<lb/>
+Till Norfolk be repeal'd: repeal'd he shall be,<lb/>
+And, though mine enemy, restored again<lb/>
+To all his lands and signories: when he's return'd,<lb/>
+Against Aumerle we will enforce his trial.<lb/>
+
+
+</p></sp><sp><speaker>BISHOP OF CARLISLE</speaker>
+<p>That honourable day shall ne'er be seen.<lb/>
+Many a time hath banish'd Norfolk fought<lb/>
+For Jesu Christ in glorious Christian field,<lb/>
+Streaming the ensign of the Christian cross<lb/>
+Against black pagans, Turks, and Saracens:<lb/>
+And toil'd with works of war, retired himself<lb/>
+To Italy; and there at Venice gave<lb/>
+His body to that pleasant country's earth,<lb/>
+And his pure soul unto his captain Christ,<lb/>
+Under whose colours he had fought so long.<lb/>
+
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>Why, bishop, is Norfolk dead?<lb/>
+
+</p></sp><sp><speaker>BISHOP OF CARLISLE</speaker>
+<p>As surely as I live, my lord.<lb/>
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>Sweet peace conduct his sweet soul to the bosom<lb/>
+Of good old Abraham! Lords appellants,<lb/>
+Your differences shall all rest under gage<lb/>
+Till we assign you to your days of trial.<lb/>
+
+
+</p><p><stage>Enter DUKE OF YORK, attended</stage>
+
+
+</p></sp><sp><speaker>DUKE OF YORK</speaker>
+<p>Great Duke of Lancaster, I come to thee<lb/>
+From plume-pluck'd Richard; who with willing soul<lb/>
+Adopts thee heir, and his high sceptre yields<lb/>
+To the possession of thy royal hand:<lb/>
+Ascend his throne, descending now from him;<lb/>
+And long live Henry, fourth of that name!<lb/>
+
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>In God's name, I'll ascend the regal throne.<lb/>
+
+</p></sp><sp><speaker>BISHOP OF CARLISLE</speaker>
+<p>Marry. God forbid!<lb/>
+Worst in this royal presence may I speak,<lb/>
+Yet best beseeming me to speak the truth.<lb/>
+Would God that any in this noble presence<lb/>
+Were enough noble to be upright judge<lb/>
+Of noble Richard! then true noblesse would<lb/>
+Learn him forbearance from so foul a wrong.<lb/>
+What subject can give sentence on his king?<lb/>
+And who sits here that is not Richard's subject?<lb/>
+Thieves are not judged but they are by to hear,<lb/>
+Although apparent guilt be seen in them;<lb/>
+And shall the figure of God's majesty,<lb/>
+His captain, steward, deputy-elect,<lb/>
+Anointed, crowned, planted many years,<lb/>
+Be judged by subject and inferior breath,<lb/>
+And he himself not present? O, forfend it, God,<lb/>
+That in a Christian climate souls refined<lb/>
+Should show so heinous, black, obscene a deed!<lb/>
+I speak to subjects, and a subject speaks,<lb/>
+Stirr'd up by God, thus boldly for his king:<lb/>
+My Lord of Hereford here, whom you call king,<lb/>
+Is a foul traitor to proud Hereford's king:<lb/>
+And if you crown him, let me prophesy:<lb/>
+The blood of English shall manure the ground,<lb/>
+And future ages groan for this foul act;<lb/>
+Peace shall go sleep with Turks and infidels,<lb/>
+And in this seat of peace tumultuous wars<lb/>
+Shall kin with kin and kind with kind confound;<lb/>
+Disorder, horror, fear and mutiny<lb/>
+Shall here inhabit, and this land be call'd<lb/>
+The field of Golgotha and dead men's skulls.<lb/>
+O, if you raise this house against this house,<lb/>
+It will the woefullest division prove<lb/>
+That ever fell upon this cursed earth.<lb/>
+Prevent it, resist it, let it not be so,<lb/>
+Lest child, child's children, cry against you woe!<lb/>
+
+
+</p></sp><sp><speaker>NORTHUMBERLAND</speaker>
+<p>Well have you argued, sir; and, for your pains,<lb/>
+Of capital treason we arrest you here.<lb/>
+My Lord of Westminster, be it your charge<lb/>
+To keep him safely till his day of trial.<lb/>
+May it please you, lords, to grant the commons' suit.<lb/>
+
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>Fetch hither Richard, that in common view<lb/>
+He may surrender; so we shall proceed<lb/>
+Without suspicion.<lb/>
+
+
+</p></sp><sp><speaker>DUKE OF YORK</speaker>
+<p>I will be his conduct.<lb/>
+
+</p><p><stage>Exit</stage>
+
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>Lords, you that here are under our arrest,<lb/>
+Procure your sureties for your days of answer.<lb/>
+Little are we beholding to your love,<lb/>
+And little look'd for at your helping hands.<lb/>
+
+
+</p><p><stage>Re-enter DUKE OF YORK, with KING RICHARD II, and	Officers bearing the regalia</stage>
+
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>Alack, why am I sent for to a king,<lb/>
+Before I have shook off the regal thoughts<lb/>
+Wherewith I reign'd? I hardly yet have learn'd<lb/>
+To insinuate, flatter, bow, and bend my limbs:<lb/>
+Give sorrow leave awhile to tutor me<lb/>
+To this submission. Yet I well remember<lb/>
+The favours of these men: were they not mine?<lb/>
+Did they not sometime cry, 'all hail!' to me?<lb/>
+So Judas did to Christ: but he, in twelve,<lb/>
+Found truth in all but one: I, in twelve thousand, none.<lb/>
+God save the king! Will no man say amen?<lb/>
+Am I both priest and clerk? well then, amen.<lb/>
+God save the king! although I be not he;<lb/>
+And yet, amen, if heaven do think him me.<lb/>
+To do what service am I sent for hither?<lb/>
+
+
+</p></sp><sp><speaker>DUKE OF YORK</speaker>
+<p>To do that office of thine own good will<lb/>
+Which tired majesty did make thee offer,<lb/>
+The resignation of thy state and crown<lb/>
+To Henry Bolingbroke.<lb/>
+
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>Give me the crown. Here, cousin, seize the crown;<lb/>
+Here cousin:<lb/>
+On this side my hand, and on that side yours.<lb/>
+Now is this golden crown like a deep well<lb/>
+That owes two buckets, filling one another,<lb/>
+The emptier ever dancing in the air,<lb/>
+The other down, unseen and full of water:<lb/>
+That bucket down and full of tears am I,<lb/>
+Drinking my griefs, whilst you mount up on high.<lb/>
+
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>I thought you had been willing to resign.<lb/>
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>My crown I am; but still my griefs are mine:<lb/>
+You may my glories and my state depose,<lb/>
+But not my griefs; still am I king of those.<lb/>
+
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>Part of your cares you give me with your crown.<lb/>
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>Your cares set up do not pluck my cares down.<lb/>
+My care is loss of care, by old care done;<lb/>
+Your care is gain of care, by new care won:<lb/>
+The cares I give I have, though given away;<lb/>
+They tend the crown, yet still with me they stay.<lb/>
+
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>Are you contented to resign the crown?<lb/>
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>Ay, no; no, ay; for I must nothing be;<lb/>
+Therefore no no, for I resign to thee.<lb/>
+Now mark me, how I will undo myself;<lb/>
+I give this heavy weight from off my head<lb/>
+And this unwieldy sceptre from my hand,<lb/>
+The pride of kingly sway from out my heart;<lb/>
+With mine own tears I wash away my balm,<lb/>
+With mine own hands I give away my crown,<lb/>
+With mine own tongue deny my sacred state,<lb/>
+With mine own breath release all duty's rites:<lb/>
+All pomp and majesty I do forswear;<lb/>
+My manors, rents, revenues I forego;<lb/>
+My acts, decrees, and statutes I deny:<lb/>
+God pardon all oaths that are broke to me!<lb/>
+God keep all vows unbroke that swear to thee!<lb/>
+Make me, that nothing have, with nothing grieved,<lb/>
+And thou with all pleased, that hast all achieved!<lb/>
+Long mayst thou live in Richard's seat to sit,<lb/>
+And soon lie Richard in an earthly pit!<lb/>
+God save King Harry, unking'd Richard says,<lb/>
+And send him many years of sunshine days!<lb/>
+What more remains?<lb/>
+
+
+</p></sp><sp><speaker>NORTHUMBERLAND</speaker>
+<p>No more, but that you read<lb/>
+These accusations and these grievous crimes<lb/>
+Committed by your person and your followers<lb/>
+Against the state and profit of this land;<lb/>
+That, by confessing them, the souls of men<lb/>
+May deem that you are worthily deposed.<lb/>
+
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>Must I do so? and must I ravel out<lb/>
+My weaved-up folly? Gentle Northumberland,<lb/>
+If thy offences were upon record,<lb/>
+Would it not shame thee in so fair a troop<lb/>
+To read a lecture of them? If thou wouldst,<lb/>
+There shouldst thou find one heinous article,<lb/>
+Containing the deposing of a king<lb/>
+And cracking the strong warrant of an oath,<lb/>
+Mark'd with a blot, damn'd in the book of heaven:<lb/>
+Nay, all of you that stand and look upon,<lb/>
+Whilst that my wretchedness doth bait myself,<lb/>
+Though some of you with Pilate wash your hands<lb/>
+Showing an outward pity; yet you Pilates<lb/>
+Have here deliver'd me to my sour cross,<lb/>
+And water cannot wash away your sin.<lb/>
+
+
+</p></sp><sp><speaker>NORTHUMBERLAND</speaker>
+<p>My lord, dispatch; read o'er these articles.<lb/>
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>Mine eyes are full of tears, I cannot see:<lb/>
+And yet salt water blinds them not so much<lb/>
+But they can see a sort of traitors here.<lb/>
+Nay, if I turn mine eyes upon myself,<lb/>
+I find myself a traitor with the rest;<lb/>
+For I have given here my soul's consent<lb/>
+To undeck the pompous body of a king;<lb/>
+Made glory base and sovereignty a slave,<lb/>
+Proud majesty a subject, state a peasant.<lb/>
+
+
+</p></sp><sp><speaker>NORTHUMBERLAND</speaker>
+<p>My lord,&mdash;<lb/>
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>No lord of thine, thou haught insulting man,<lb/>
+Nor no man's lord; I have no name, no title,<lb/>
+No, not that name was given me at the font,<lb/>
+But 'tis usurp'd: alack the heavy day,<lb/>
+That I have worn so many winters out,<lb/>
+And know not now what name to call myself!<lb/>
+O that I were a mockery king of snow,<lb/>
+Standing before the sun of Bolingbroke,<lb/>
+To melt myself away in water-drops!<lb/>
+Good king, great king, and yet not greatly good,<lb/>
+An if my word be sterling yet in England,<lb/>
+Let it command a mirror hither straight,<lb/>
+That it may show me what a face I have,<lb/>
+Since it is bankrupt of his majesty.<lb/>
+
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>Go some of you and fetch a looking-glass.<lb/>
+
+</p><p><stage>Exit an attendant</stage>
+
+
+</p></sp><sp><speaker>NORTHUMBERLAND</speaker>
+<p>Read o'er this paper while the glass doth come.<lb/>
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>Fiend, thou torment'st me ere I come to hell!<lb/>
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>Urge it no more, my Lord Northumberland.<lb/>
+
+</p></sp><sp><speaker>NORTHUMBERLAND</speaker>
+<p>The commons will not then be satisfied.<lb/>
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>They shall be satisfied: I'll read enough,<lb/>
+When I do see the very book indeed<lb/>
+Where all my sins are writ, and that's myself.<lb/>
+
+
+</p><p><stage>Re-enter Attendant, with a glass</stage></p>
+
+
+<p>
+Give me the glass, and therein will I read.<lb/>
+No deeper wrinkles yet? hath sorrow struck<lb/>
+So many blows upon this face of mine,<lb/>
+And made no deeper wounds? O flattering glass,<lb/>
+Like to my followers in prosperity,<lb/>
+Thou dost beguile me! Was this face the face<lb/>
+That every day under his household roof<lb/>
+Did keep ten thousand men? was this the face<lb/>
+That, like the sun, did make beholders wink?<lb/>
+Was this the face that faced so many follies,<lb/>
+And was at last out-faced by Bolingbroke?<lb/>
+A brittle glory shineth in this face:<lb/>
+As brittle as the glory is the face;<lb/>
+
+
+</p><p><stage>Dashes the glass against the ground</stage></p>
+
+
+<p>
+For there it is, crack'd in a hundred shivers.<lb/>
+Mark, silent king, the moral of this sport,<lb/>
+How soon my sorrow hath destroy'd my face.<lb/>
+
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>The shadow of your sorrow hath destroy'd<lb/>
+The shadow or your face.<lb/>
+
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>Say that again.<lb/>
+The shadow of my sorrow! ha! let's see:<lb/>
+'Tis very true, my grief lies all within;<lb/>
+And these external manners of laments<lb/>
+Are merely shadows to the unseen grief<lb/>
+That swells with silence in the tortured soul;<lb/>
+There lies the substance: and I thank thee, king,<lb/>
+For thy great bounty, that not only givest<lb/>
+Me cause to wail but teachest me the way<lb/>
+How to lament the cause. I'll beg one boon,<lb/>
+And then be gone and trouble you no more.<lb/>
+Shall I obtain it?<lb/>
+
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>Name it, fair cousin.<lb/>
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>'Fair cousin'? I am greater than a king:<lb/>
+For when I was a king, my flatterers<lb/>
+Were then but subjects; being now a subject,<lb/>
+I have a king here to my flatterer.<lb/>
+Being so great, I have no need to beg.<lb/>
+
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>Yet ask.<lb/>
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>And shall I have?<lb/>
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>You shall.<lb/>
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>Then give me leave to go.<lb/>
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>Whither?<lb/>
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>Whither you will, so I were from your sights.<lb/>
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>Go, some of you convey him to the Tower.<lb/>
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>O, good! convey? conveyers are you all,<lb/>
+That rise thus nimbly by a true king's fall.<lb/>
+
+
+</p><p><stage>Exeunt KING RICHARD II, some Lords, and a Guard</stage>
+
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>On Wednesday next we solemnly set down<lb/>
+Our coronation: lords, prepare yourselves.<lb/>
+
+
+</p><p><stage>Exeunt all except the BISHOP OF CARLISLE, the Abbot	of Westminster, and DUKE OF AUMERLE</stage>
+
+
+</p></sp><sp><speaker>Abbot</speaker>
+<p>A woeful pageant have we here beheld.<lb/>
+
+</p></sp><sp><speaker>BISHOP OF CARLISLE</speaker>
+<p>The woe's to come; the children yet unborn.<lb/>
+Shall feel this day as sharp to them as thorn.<lb/>
+
+
+</p></sp><sp><speaker>DUKE OF AUMERLE</speaker>
+<p>You holy clergymen, is there no plot<lb/>
+To rid the realm of this pernicious blot?<lb/>
+
+
+</p></sp><sp><speaker>Abbot</speaker>
+<p>My lord,<lb/>
+Before I freely speak my mind herein,<lb/>
+You shall not only take the sacrament<lb/>
+To bury mine intents, but also to effect<lb/>
+Whatever I shall happen to devise.<lb/>
+I see your brows are full of discontent,<lb/>
+Your hearts of sorrow and your eyes of tears:<lb/>
+Come home with me to supper; and I'll lay<lb/>
+A plot shall show us all a merry day.<lb/>
+
+
+</p></sp><p><stage>Exeunt</stage></p>
+
+
+
+</div2>
+
+</div1>
+
+<div1 type="act" n="5" id="d22">
+<head>Act 5</head>
+
+<div2 type="scene" n="1" id="d23">
+<head>Scene 1</head><p><stage>London. A street leading to the Tower.</stage>
+
+</p><p><stage>Enter QUEEN and Ladies</stage>
+
+
+</p><sp><speaker>QUEEN</speaker>
+<p>This way the king will come; this is the way<lb/>
+To Julius Caesar's ill-erected tower,<lb/>
+To whose flint bosom my condemned lord<lb/>
+Is doom'd a prisoner by proud Bolingbroke:<lb/>
+Here let us rest, if this rebellious earth<lb/>
+Have any resting for her true king's queen.<lb/>
+
+
+</p><p><stage>Enter KING RICHARD II and Guard</stage></p>
+
+
+<p>
+But soft, but see, or rather do not see,<lb/>
+My fair rose wither: yet look up, behold,<lb/>
+That you in pity may dissolve to dew,<lb/>
+And wash him fresh again with true-love tears.<lb/>
+Ah, thou, the model where old Troy did stand,<lb/>
+Thou map of honour, thou King Richard's tomb,<lb/>
+And not King Richard; thou most beauteous inn,<lb/>
+Why should hard-favour'd grief be lodged in thee,<lb/>
+When triumph is become an alehouse guest?<lb/>
+
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>Join not with grief, fair woman, do not so,<lb/>
+To make my end too sudden: learn, good soul,<lb/>
+To think our former state a happy dream;<lb/>
+From which awaked, the truth of what we are<lb/>
+Shows us but this: I am sworn brother, sweet,<lb/>
+To grim Necessity, and he and I<lb/>
+Will keep a league till death. Hie thee to France<lb/>
+And cloister thee in some religious house:<lb/>
+Our holy lives must win a new world's crown,<lb/>
+Which our profane hours here have stricken down.<lb/>
+
+
+</p></sp><sp><speaker>QUEEN</speaker>
+<p>What, is my Richard both in shape and mind<lb/>
+Transform'd and weaken'd? hath Bolingbroke deposed<lb/>
+Thine intellect? hath he been in thy heart?<lb/>
+The lion dying thrusteth forth his paw,<lb/>
+And wounds the earth, if nothing else, with rage<lb/>
+To be o'erpower'd; and wilt thou, pupil-like,<lb/>
+Take thy correction mildly, kiss the rod,<lb/>
+And fawn on rage with base humility,<lb/>
+Which art a lion and a king of beasts?<lb/>
+
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>A king of beasts, indeed; if aught but beasts,<lb/>
+I had been still a happy king of men.<lb/>
+Good sometime queen, prepare thee hence for France:<lb/>
+Think I am dead and that even here thou takest,<lb/>
+As from my death-bed, thy last living leave.<lb/>
+In winter's tedious nights sit by the fire<lb/>
+With good old folks and let them tell thee tales<lb/>
+Of woeful ages long ago betid;<lb/>
+And ere thou bid good night, to quit their griefs,<lb/>
+Tell thou the lamentable tale of me<lb/>
+And send the hearers weeping to their beds:<lb/>
+For why, the senseless brands will sympathize<lb/>
+The heavy accent of thy moving tongue<lb/>
+And in compassion weep the fire out;<lb/>
+And some will mourn in ashes, some coal-black,<lb/>
+For the deposing of a rightful king.<lb/>
+
+
+</p><p><stage>Enter NORTHUMBERLAND and others</stage>
+
+
+</p></sp><sp><speaker>NORTHUMBERLAND</speaker>
+<p>My lord, the mind of Bolingbroke is changed:<lb/>
+You must to Pomfret, not unto the Tower.<lb/>
+And, madam, there is order ta'en for you;<lb/>
+With all swift speed you must away to France.<lb/>
+
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>Northumberland, thou ladder wherewithal<lb/>
+The mounting Bolingbroke ascends my throne,<lb/>
+The time shall not be many hours of age<lb/>
+More than it is ere foul sin gathering head<lb/>
+Shalt break into corruption: thou shalt think,<lb/>
+Though he divide the realm and give thee half,<lb/>
+It is too little, helping him to all;<lb/>
+And he shall think that thou, which know'st the way<lb/>
+To plant unrightful kings, wilt know again,<lb/>
+Being ne'er so little urged, another way<lb/>
+To pluck him headlong from the usurped throne.<lb/>
+The love of wicked men converts to fear;<lb/>
+That fear to hate, and hate turns one or both<lb/>
+To worthy danger and deserved death.<lb/>
+
+
+</p></sp><sp><speaker>NORTHUMBERLAND</speaker>
+<p>My guilt be on my head, and there an end.<lb/>
+Take leave and part; for you must part forthwith.<lb/>
+
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>Doubly divorced! Bad men, you violate<lb/>
+A twofold marriage, 'twixt my crown and me,<lb/>
+And then betwixt me and my married wife.<lb/>
+Let me unkiss the oath 'twixt thee and me;<lb/>
+And yet not so, for with a kiss 'twas made.<lb/>
+Part us, Northumberland; I toward the north,<lb/>
+Where shivering cold and sickness pines the clime;<lb/>
+My wife to France: from whence, set forth in pomp,<lb/>
+She came adorned hither like sweet May,<lb/>
+Sent back like Hallowmas or short'st of day.<lb/>
+
+
+</p></sp><sp><speaker>QUEEN</speaker>
+<p>And must we be divided? must we part?<lb/>
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>Ay, hand from hand, my love, and heart from heart.<lb/>
+
+</p></sp><sp><speaker>QUEEN</speaker>
+<p>Banish us both and send the king with me.<lb/>
+
+</p></sp><sp><speaker>NORTHUMBERLAND</speaker>
+<p>That were some love but little policy.<lb/>
+
+</p></sp><sp><speaker>QUEEN</speaker>
+<p>Then whither he goes, thither let me go.<lb/>
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>So two, together weeping, make one woe.<lb/>
+Weep thou for me in France, I for thee here;<lb/>
+Better far off than near, be ne'er the near.<lb/>
+Go, count thy way with sighs; I mine with groans.<lb/>
+
+
+</p></sp><sp><speaker>QUEEN</speaker>
+<p>So longest way shall have the longest moans.<lb/>
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>Twice for one step I'll groan, the way being short,<lb/>
+And piece the way out with a heavy heart.<lb/>
+Come, come, in wooing sorrow let's be brief,<lb/>
+Since, wedding it, there is such length in grief;<lb/>
+One kiss shall stop our mouths, and dumbly part;<lb/>
+Thus give I mine, and thus take I thy heart.<lb/>
+
+
+</p></sp><sp><speaker>QUEEN</speaker>
+<p>Give me mine own again; 'twere no good part<lb/>
+To take on me to keep and kill thy heart.<lb/>
+So, now I have mine own again, be gone,<lb/>
+That I might strive to kill it with a groan.<lb/>
+
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>We make woe wanton with this fond delay:<lb/>
+Once more, adieu; the rest let sorrow say.<lb/>
+
+
+</p></sp><p><stage>Exeunt</stage>
+
+
+
+</p></div2><div2 type="scene" n="2" id="d24">
+<head>Scene 2</head>
+
+<p><stage>The DUKE OF YORK's palace.</stage>
+
+</p><p><stage>Enter DUKE OF YORK and DUCHESS OF YORK</stage>
+
+
+</p><sp><speaker>DUCHESS OF YORK</speaker>
+<p>My lord, you told me you would tell the rest,<lb/>
+When weeping made you break the story off,<lb/>
+of our two cousins coming into London.<lb/>
+
+
+</p></sp><sp><speaker>DUKE OF YORK</speaker>
+<p>Where did I leave?<lb/>
+
+</p></sp><sp><speaker>DUCHESS OF YORK</speaker>
+<p>At that sad stop, my lord,<lb/>
+Where rude misgovern'd hands from windows' tops<lb/>
+Threw dust and rubbish on King Richard's head.<lb/>
+
+
+</p></sp><sp><speaker>DUKE OF YORK</speaker>
+<p>Then, as I said, the duke, great Bolingbroke,<lb/>
+Mounted upon a hot and fiery steed<lb/>
+Which his aspiring rider seem'd to know,<lb/>
+With slow but stately pace kept on his course,<lb/>
+Whilst all tongues cried 'God save thee,<lb/>
+Bolingbroke!'<lb/>
+You would have thought the very windows spake,<lb/>
+So many greedy looks of young and old<lb/>
+Through casements darted their desiring eyes<lb/>
+Upon his visage, and that all the walls<lb/>
+With painted imagery had said at once<lb/>
+'Jesu preserve thee! welcome, Bolingbroke!'<lb/>
+Whilst he, from the one side to the other turning,<lb/>
+Bareheaded, lower than his proud steed's neck,<lb/>
+Bespake them thus: 'I thank you, countrymen:'<lb/>
+And thus still doing, thus he pass'd along.<lb/>
+
+
+</p></sp><sp><speaker>DUCHESS OF YORK</speaker>
+<p>Alack, poor Richard! where rode he the whilst?<lb/>
+
+</p></sp><sp><speaker>DUKE OF YORK</speaker>
+<p>As in a theatre, the eyes of men,<lb/>
+After a well-graced actor leaves the stage,<lb/>
+Are idly bent on him that enters next,<lb/>
+Thinking his prattle to be tedious;<lb/>
+Even so, or with much more contempt, men's eyes<lb/>
+Did scowl on gentle Richard; no man cried 'God save him!'<lb/>
+No joyful tongue gave him his welcome home:<lb/>
+But dust was thrown upon his sacred head:<lb/>
+Which with such gentle sorrow he shook off,<lb/>
+His face still combating with tears and smiles,<lb/>
+The badges of his grief and patience,<lb/>
+That had not God, for some strong purpose, steel'd<lb/>
+The hearts of men, they must perforce have melted<lb/>
+And barbarism itself have pitied him.<lb/>
+But heaven hath a hand in these events,<lb/>
+To whose high will we bound our calm contents.<lb/>
+To Bolingbroke are we sworn subjects now,<lb/>
+Whose state and honour I for aye allow.<lb/>
+
+
+</p></sp><sp><speaker>DUCHESS OF YORK</speaker>
+<p>Here comes my son Aumerle.<lb/>
+
+</p></sp><sp><speaker>DUKE OF YORK</speaker>
+<p>Aumerle that was;<lb/>
+But that is lost for being Richard's friend,<lb/>
+And, madam, you must call him Rutland now:<lb/>
+I am in parliament pledge for his truth<lb/>
+And lasting fealty to the new-made king.<lb/>
+
+
+</p><p><stage>Enter DUKE OF AUMERLE</stage>
+
+
+</p></sp><sp><speaker>DUCHESS OF YORK</speaker>
+<p>Welcome, my son: who are the violets now<lb/>
+That strew the green lap of the new come spring?<lb/>
+
+
+</p></sp><sp><speaker>DUKE OF AUMERLE</speaker>
+<p>Madam, I know not, nor I greatly care not:<lb/>
+God knows I had as lief be none as one.<lb/>
+
+
+</p></sp><sp><speaker>DUKE OF YORK</speaker>
+<p>Well, bear you well in this new spring of time,<lb/>
+Lest you be cropp'd before you come to prime.<lb/>
+What news from Oxford? hold those justs and triumphs?<lb/>
+
+
+</p></sp><sp><speaker>DUKE OF AUMERLE</speaker>
+<p>For aught I know, my lord, they do.<lb/>
+
+</p></sp><sp><speaker>DUKE OF YORK</speaker>
+<p>You will be there, I know.<lb/>
+
+</p></sp><sp><speaker>DUKE OF AUMERLE</speaker>
+<p>If God prevent not, I purpose so.<lb/>
+
+</p></sp><sp><speaker>DUKE OF YORK</speaker>
+<p>What seal is that, that hangs without thy bosom?<lb/>
+Yea, look'st thou pale? let me see the writing.<lb/>
+
+
+</p></sp><sp><speaker>DUKE OF AUMERLE</speaker>
+<p>My lord, 'tis nothing.<lb/>
+
+</p></sp><sp><speaker>DUKE OF YORK</speaker>
+<p>No matter, then, who see it;<lb/>
+I will be satisfied; let me see the writing.<lb/>
+
+
+</p></sp><sp><speaker>DUKE OF AUMERLE</speaker>
+<p>I do beseech your grace to pardon me:<lb/>
+It is a matter of small consequence,<lb/>
+Which for some reasons I would not have seen.<lb/>
+
+
+</p></sp><sp><speaker>DUKE OF YORK</speaker>
+<p>Which for some reasons, sir, I mean to see.<lb/>
+I fear, I fear,&mdash;<lb/>
+
+
+</p></sp><sp><speaker>DUCHESS OF YORK</speaker>
+<p>What should you fear?<lb/>
+'Tis nothing but some bond, that he is enter'd into<lb/>
+For gay apparel 'gainst the triumph day.<lb/>
+
+
+</p></sp><sp><speaker>DUKE OF YORK</speaker>
+<p>Bound to himself! what doth he with a bond<lb/>
+That he is bound to? Wife, thou art a fool.<lb/>
+Boy, let me see the writing.<lb/>
+
+
+</p></sp><sp><speaker>DUKE OF AUMERLE</speaker>
+<p>I do beseech you, pardon me; I may not show it.<lb/>
+
+</p></sp><sp><speaker>DUKE OF YORK</speaker>
+<p>I will be satisfied; let me see it, I say.<lb/>
+
+</p><p><stage>He plucks it out of his bosom and reads it</stage></p>
+
+
+<p>
+Treason! foul treason! Villain! traitor! slave!<lb/>
+
+
+</p></sp><sp><speaker>DUCHESS OF YORK</speaker>
+<p>What is the matter, my lord?<lb/>
+
+</p></sp><sp><speaker>DUKE OF YORK</speaker>
+<p>Ho! who is within there?<lb/>
+
+</p><p><stage>Enter a Servant</stage></p>
+
+
+<p>
+Saddle my horse.<lb/>
+God for his mercy, what treachery is here!<lb/>
+
+
+</p></sp><sp><speaker>DUCHESS OF YORK</speaker>
+<p>Why, what is it, my lord?<lb/>
+
+</p></sp><sp><speaker>DUKE OF YORK</speaker>
+<p>Give me my boots, I say; saddle my horse.<lb/>
+Now, by mine honour, by my life, by my troth,<lb/>
+I will appeach the villain.<lb/>
+
+
+</p></sp><sp><speaker>DUCHESS OF YORK</speaker>
+<p>What is the matter?<lb/>
+
+</p></sp><sp><speaker>DUKE OF YORK</speaker>
+<p>Peace, foolish woman.<lb/>
+
+</p></sp><sp><speaker>DUCHESS OF YORK</speaker>
+<p>I will not peace. What is the matter, Aumerle.<lb/>
+
+</p></sp><sp><speaker>DUKE OF AUMERLE</speaker>
+<p>Good mother, be content; it is no more<lb/>
+Than my poor life must answer.<lb/>
+
+
+</p></sp><sp><speaker>DUCHESS OF YORK</speaker>
+<p>Thy life answer!<lb/>
+
+</p></sp><sp><speaker>DUKE OF YORK</speaker>
+<p>Bring me my boots: I will unto the king.<lb/>
+
+</p><p><stage>Re-enter Servant with boots</stage>
+
+
+</p></sp><sp><speaker>DUCHESS OF YORK</speaker>
+<p>Strike him, Aumerle. Poor boy, thou art amazed.<lb/>
+Hence, villain! never more come in my sight.<lb/>
+
+
+</p></sp><sp><speaker>DUKE OF YORK</speaker>
+<p>Give me my boots, I say.<lb/>
+
+</p></sp><sp><speaker>DUCHESS OF YORK</speaker>
+<p>Why, York, what wilt thou do?<lb/>
+Wilt thou not hide the trespass of thine own?<lb/>
+Have we more sons? or are we like to have?<lb/>
+Is not my teeming date drunk up with time?<lb/>
+And wilt thou pluck my fair son from mine age,<lb/>
+And rob me of a happy mother's name?<lb/>
+Is he not like thee? is he not thine own?<lb/>
+
+
+</p></sp><sp><speaker>DUKE OF YORK</speaker>
+<p>Thou fond mad woman,<lb/>
+Wilt thou conceal this dark conspiracy?<lb/>
+A dozen of them here have ta'en the sacrament,<lb/>
+And interchangeably set down their hands,<lb/>
+To kill the king at Oxford.<lb/>
+
+
+</p></sp><sp><speaker>DUCHESS OF YORK</speaker>
+<p>He shall be none;<lb/>
+We'll keep him here: then what is that to him?<lb/>
+
+
+</p></sp><sp><speaker>DUKE OF YORK</speaker>
+<p>Away, fond woman! were he twenty times my son,<lb/>
+I would appeach him.<lb/>
+
+
+</p></sp><sp><speaker>DUCHESS OF YORK</speaker>
+<p>Hadst thou groan'd for him<lb/>
+As I have done, thou wouldst be more pitiful.<lb/>
+But now I know thy mind; thou dost suspect<lb/>
+That I have been disloyal to thy bed,<lb/>
+And that he is a bastard, not thy son:<lb/>
+Sweet York, sweet husband, be not of that mind:<lb/>
+He is as like thee as a man may be,<lb/>
+Not like to me, or any of my kin,<lb/>
+And yet I love him.<lb/>
+
+
+</p></sp><sp><speaker>DUKE OF YORK</speaker>
+<p>Make way, unruly woman!<lb/>
+
+</p><p><stage>Exit</stage>
+
+
+</p></sp><sp><speaker>DUCHESS OF YORK</speaker>
+<p>After, Aumerle! mount thee upon his horse;<lb/>
+Spur post, and get before him to the king,<lb/>
+And beg thy pardon ere he do accuse thee.<lb/>
+I'll not be long behind; though I be old,<lb/>
+I doubt not but to ride as fast as York:<lb/>
+And never will I rise up from the ground<lb/>
+Till Bolingbroke have pardon'd thee. Away, be gone!<lb/>
+
+
+</p></sp><p><stage>Exeunt</stage>
+
+
+
+</p></div2><div2 type="scene" n="3" id="d25">
+<head>Scene 3</head>
+
+<p><stage>A royal palace.</stage>
+
+</p><p><stage>Enter HENRY BOLINGBROKE, HENRY PERCY, and other Lords</stage>
+
+
+</p><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>Can no man tell me of my unthrifty son?<lb/>
+'Tis full three months since I did see him last;<lb/>
+If any plague hang over us, 'tis he.<lb/>
+I would to God, my lords, he might be found:<lb/>
+Inquire at London, 'mongst the taverns there,<lb/>
+For there, they say, he daily doth frequent,<lb/>
+With unrestrained loose companions,<lb/>
+Even such, they say, as stand in narrow lanes,<lb/>
+And beat our watch, and rob our passengers;<lb/>
+Which he, young wanton and effeminate boy,<lb/>
+Takes on the point of honour to support<lb/>
+So dissolute a crew.<lb/>
+
+
+</p></sp><sp><speaker>HENRY PERCY</speaker>
+<p>My lord, some two days since I saw the prince,<lb/>
+And told him of those triumphs held at Oxford.<lb/>
+
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>And what said the gallant?<lb/>
+
+</p></sp><sp><speaker>HENRY PERCY</speaker>
+<p>His answer was, he would unto the stews,<lb/>
+And from the common'st creature pluck a glove,<lb/>
+And wear it as a favour; and with that<lb/>
+He would unhorse the lustiest challenger.<lb/>
+
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>As dissolute as desperate; yet through both<lb/>
+I see some sparks of better hope, which elder years<lb/>
+May happily bring forth. But who comes here?<lb/>
+
+
+</p><p><stage>Enter DUKE OF AUMERLE</stage>
+
+
+</p></sp><sp><speaker>DUKE OF AUMERLE</speaker>
+<p>Where is the king?<lb/>
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>What means our cousin, that he stares and looks<lb/>
+So wildly?<lb/>
+
+
+</p></sp><sp><speaker>DUKE OF AUMERLE</speaker>
+<p>God save your grace! I do beseech your majesty,<lb/>
+To have some conference with your grace alone.<lb/>
+
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>Withdraw yourselves, and leave us here alone.<lb/>
+
+</p><p><stage>Exeunt HENRY PERCY and Lords</stage></p>
+
+
+<p>
+What is the matter with our cousin now?<lb/>
+
+
+</p></sp><sp><speaker>DUKE OF AUMERLE</speaker>
+<p>For ever may my knees grow to the earth,<lb/>
+My tongue cleave to my roof within my mouth<lb/>
+Unless a pardon ere I rise or speak.<lb/>
+
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>Intended or committed was this fault?<lb/>
+If on the first, how heinous e'er it be,<lb/>
+To win thy after-love I pardon thee.<lb/>
+
+
+</p></sp><sp><speaker>DUKE OF AUMERLE</speaker>
+<p>Then give me leave that I may turn the key,<lb/>
+That no man enter till my tale be done.<lb/>
+
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>Have thy desire.<lb/>
+
+</p></sp><sp><speaker>DUKE OF YORK</speaker>
+<p><stage>[Within]</stage></p><p>  My liege, beware; look to thyself;<lb/>
+Thou hast a traitor in thy presence there.<lb/>
+
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>Villain, I'll make thee safe.<lb/>
+
+</p><p><stage>Drawing</stage>
+
+
+</p></sp><sp><speaker>DUKE OF AUMERLE</speaker>
+<p>Stay thy revengeful hand; thou hast no cause to fear.<lb/>
+
+</p></sp><sp><speaker>DUKE OF YORK</speaker>
+<p><stage>[Within]</stage></p><p>  Open the door, secure, foolhardy king:<lb/>
+Shall I for love speak treason to thy face?<lb/>
+Open the door, or I will break it open.<lb/>
+
+
+</p><p><stage>Enter DUKE OF YORK</stage>
+
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>What is the matter, uncle? speak;<lb/>
+Recover breath; tell us how near is danger,<lb/>
+That we may arm us to encounter it.<lb/>
+
+
+</p></sp><sp><speaker>DUKE OF YORK</speaker>
+<p>Peruse this writing here, and thou shalt know<lb/>
+The treason that my haste forbids me show.<lb/>
+
+
+</p></sp><sp><speaker>DUKE OF AUMERLE</speaker>
+<p>Remember, as thou read'st, thy promise pass'd:<lb/>
+I do repent me; read not my name there<lb/>
+My heart is not confederate with my hand.<lb/>
+
+
+</p></sp><sp><speaker>DUKE OF YORK</speaker>
+<p>It was, villain, ere thy hand did set it down.<lb/>
+I tore it from the traitor's bosom, king;<lb/>
+Fear, and not love, begets his penitence:<lb/>
+Forget to pity him, lest thy pity prove<lb/>
+A serpent that will sting thee to the heart.<lb/>
+
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>O heinous, strong and bold conspiracy!<lb/>
+O loyal father of a treacherous son!<lb/>
+Thou sheer, immaculate and silver fountain,<lb/>
+From when this stream through muddy passages<lb/>
+Hath held his current and defiled himself!<lb/>
+Thy overflow of good converts to bad,<lb/>
+And thy abundant goodness shall excuse<lb/>
+This deadly blot in thy digressing son.<lb/>
+
+
+</p></sp><sp><speaker>DUKE OF YORK</speaker>
+<p>So shall my virtue be his vice's bawd;<lb/>
+And he shall spend mine honour with his shame,<lb/>
+As thriftless sons their scraping fathers' gold.<lb/>
+Mine honour lives when his dishonour dies,<lb/>
+Or my shamed life in his dishonour lies:<lb/>
+Thou kill'st me in his life; giving him breath,<lb/>
+The traitor lives, the true man's put to death.<lb/>
+
+
+</p></sp><sp><speaker>DUCHESS OF YORK</speaker>
+<p><stage>[Within]</stage></p><p>  What ho, my liege! for God's sake,<lb/>
+let me in.<lb/>
+
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>What shrill-voiced suppliant makes this eager cry?<lb/>
+
+</p></sp><sp><speaker>DUCHESS OF YORK</speaker>
+<p>A woman, and thy aunt, great king; 'tis I.<lb/>
+Speak with me, pity me, open the door.<lb/>
+A beggar begs that never begg'd before.<lb/>
+
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>Our scene is alter'd from a serious thing,<lb/>
+And now changed to 'The Beggar and the King.'<lb/>
+My dangerous cousin, let your mother in:<lb/>
+I know she is come to pray for your foul sin.<lb/>
+
+
+</p></sp><sp><speaker>DUKE OF YORK</speaker>
+<p>If thou do pardon, whosoever pray,<lb/>
+More sins for this forgiveness prosper may.<lb/>
+This fester'd joint cut off, the rest rest sound;<lb/>
+This let alone will all the rest confound.<lb/>
+
+
+</p><p><stage>Enter DUCHESS OF YORK</stage>
+
+
+</p></sp><sp><speaker>DUCHESS OF YORK</speaker>
+<p>O king, believe not this hard-hearted man!<lb/>
+Love loving not itself none other can.<lb/>
+
+
+</p></sp><sp><speaker>DUKE OF YORK</speaker>
+<p>Thou frantic woman, what dost thou make here?<lb/>
+Shall thy old dugs once more a traitor rear?<lb/>
+
+
+</p></sp><sp><speaker>DUCHESS OF YORK</speaker>
+<p>Sweet York, be patient. Hear me, gentle liege.<lb/>
+
+</p><p><stage>Kneels</stage>
+
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>Rise up, good aunt.<lb/>
+
+</p></sp><sp><speaker>DUCHESS OF YORK</speaker>
+<p>Not yet, I thee beseech:<lb/>
+For ever will I walk upon my knees,<lb/>
+And never see day that the happy sees,<lb/>
+Till thou give joy; until thou bid me joy,<lb/>
+By pardoning Rutland, my transgressing boy.<lb/>
+
+
+</p></sp><sp><speaker>DUKE OF AUMERLE</speaker>
+<p>Unto my mother's prayers I bend my knee.<lb/>
+
+</p></sp><sp><speaker>DUKE OF YORK</speaker>
+<p>Against them both my true joints bended be.<lb/>
+Ill mayst thou thrive, if thou grant any grace!<lb/>
+
+
+</p></sp><sp><speaker>DUCHESS OF YORK</speaker>
+<p>Pleads he in earnest? look upon his face;<lb/>
+His eyes do drop no tears, his prayers are in jest;<lb/>
+His words come from his mouth, ours from our breast:<lb/>
+He prays but faintly and would be denied;<lb/>
+We pray with heart and soul and all beside:<lb/>
+His weary joints would gladly rise, I know;<lb/>
+Our knees shall kneel till to the ground they grow:<lb/>
+His prayers are full of false hypocrisy;<lb/>
+Ours of true zeal and deep integrity.<lb/>
+Our prayers do out-pray his; then let them have<lb/>
+That mercy which true prayer ought to have.<lb/>
+
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>Good aunt, stand up.<lb/>
+
+</p></sp><sp><speaker>DUCHESS OF YORK</speaker>
+<p>Nay, do not say, 'stand up;'<lb/>
+Say, 'pardon' first, and afterwards 'stand up.'<lb/>
+And if I were thy nurse, thy tongue to teach,<lb/>
+'Pardon' should be the first word of thy speech.<lb/>
+I never long'd to hear a word till now;<lb/>
+Say 'pardon,' king; let pity teach thee how:<lb/>
+The word is short, but not so short as sweet;<lb/>
+No word like 'pardon' for kings' mouths so meet.<lb/>
+
+
+</p></sp><sp><speaker>DUKE OF YORK</speaker>
+<p>Speak it in French, king; say, 'pardonne moi.'<lb/>
+
+</p></sp><sp><speaker>DUCHESS OF YORK</speaker>
+<p>Dost thou teach pardon pardon to destroy?<lb/>
+Ah, my sour husband, my hard-hearted lord,<lb/>
+That set'st the word itself against the word!<lb/>
+Speak 'pardon' as 'tis current in our land;<lb/>
+The chopping French we do not understand.<lb/>
+Thine eye begins to speak; set thy tongue there;<lb/>
+Or in thy piteous heart plant thou thine ear;<lb/>
+That hearing how our plaints and prayers do pierce,<lb/>
+Pity may move thee 'pardon' to rehearse.<lb/>
+
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>Good aunt, stand up.<lb/>
+
+</p></sp><sp><speaker>DUCHESS OF YORK</speaker>
+<p>I do not sue to stand;<lb/>
+Pardon is all the suit I have in hand.<lb/>
+
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>I pardon him, as God shall pardon me.<lb/>
+
+</p></sp><sp><speaker>DUCHESS OF YORK</speaker>
+<p>O happy vantage of a kneeling knee!<lb/>
+Yet am I sick for fear: speak it again;<lb/>
+Twice saying 'pardon' doth not pardon twain,<lb/>
+But makes one pardon strong.<lb/>
+
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>With all my heart<lb/>
+I pardon him.<lb/>
+
+
+</p></sp><sp><speaker>DUCHESS OF YORK</speaker>
+<p>A god on earth thou art.<lb/>
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>But for our trusty brother-in-law and the abbot,<lb/>
+With all the rest of that consorted crew,<lb/>
+Destruction straight shall dog them at the heels.<lb/>
+Good uncle, help to order several powers<lb/>
+To Oxford, or where'er these traitors are:<lb/>
+They shall not live within this world, I swear,<lb/>
+But I will have them, if I once know where.<lb/>
+Uncle, farewell: and, cousin too, adieu:<lb/>
+Your mother well hath pray'd, and prove you true.<lb/>
+
+
+</p></sp><sp><speaker>DUCHESS OF YORK</speaker>
+<p>Come, my old son: I pray God make thee new.<lb/>
+
+</p></sp><p><stage>Exeunt</stage>
+
+
+
+</p></div2><div2 type="scene" n="4" id="d26">
+<head>Scene 4</head>
+
+<p><stage>The same.</stage>
+
+</p><p><stage>Enter EXTON and Servant</stage>
+
+
+</p><sp><speaker>EXTON</speaker>
+<p>Didst thou not mark the king, what words he spake,<lb/>
+'Have I no friend will rid me of this living fear?'<lb/>
+Was it not so?<lb/>
+
+
+</p></sp><sp><speaker>Servant</speaker>
+<p>These were his very words.<lb/>
+
+</p></sp><sp><speaker>EXTON</speaker>
+<p>'Have I no friend?' quoth he: he spake it twice,<lb/>
+And urged it twice together, did he not?<lb/>
+
+
+</p></sp><sp><speaker>Servant</speaker>
+<p>He did.<lb/>
+
+</p></sp><sp><speaker>EXTON</speaker>
+<p>And speaking it, he wistly look'd on me,<lb/>
+And who should say, 'I would thou wert the man'<lb/>
+That would divorce this terror from my heart;'<lb/>
+Meaning the king at Pomfret. Come, let's go:<lb/>
+I am the king's friend, and will rid his foe.<lb/>
+
+
+</p></sp><p><stage>Exeunt</stage>
+
+
+
+</p></div2><div2 type="scene" n="5" id="d27">
+<head>Scene 5</head>
+
+<p><stage>Pomfret castle.</stage>
+
+</p><p><stage>Enter KING RICHARD</stage>
+
+
+</p><sp><speaker>KING RICHARD II</speaker>
+<p>I have been studying how I may compare<lb/>
+This prison where I live unto the world:<lb/>
+And for because the world is populous<lb/>
+And here is not a creature but myself,<lb/>
+I cannot do it; yet I'll hammer it out.<lb/>
+My brain I'll prove the female to my soul,<lb/>
+My soul the father; and these two beget<lb/>
+A generation of still-breeding thoughts,<lb/>
+And these same thoughts people this little world,<lb/>
+In humours like the people of this world,<lb/>
+For no thought is contented. The better sort,<lb/>
+As thoughts of things divine, are intermix'd<lb/>
+With scruples and do set the word itself<lb/>
+Against the word:<lb/>
+As thus, 'Come, little ones,' and then again,<lb/>
+'It is as hard to come as for a camel<lb/>
+To thread the postern of a small needle's eye.'<lb/>
+Thoughts tending to ambition, they do plot<lb/>
+Unlikely wonders; how these vain weak nails<lb/>
+May tear a passage through the flinty ribs<lb/>
+Of this hard world, my ragged prison walls,<lb/>
+And, for they cannot, die in their own pride.<lb/>
+Thoughts tending to content flatter themselves<lb/>
+That they are not the first of fortune's slaves,<lb/>
+Nor shall not be the last; like silly beggars<lb/>
+Who sitting in the stocks refuge their shame,<lb/>
+That many have and others must sit there;<lb/>
+And in this thought they find a kind of ease,<lb/>
+Bearing their own misfortunes on the back<lb/>
+Of such as have before endured the like.<lb/>
+Thus play I in one person many people,<lb/>
+And none contented: sometimes am I king;<lb/>
+Then treasons make me wish myself a beggar,<lb/>
+And so I am: then crushing penury<lb/>
+Persuades me I was better when a king;<lb/>
+Then am I king'd again: and by and by<lb/>
+Think that I am unking'd by Bolingbroke,<lb/>
+And straight am nothing: but whate'er I be,<lb/>
+Nor I nor any man that but man is<lb/>
+With nothing shall be pleased, till he be eased<lb/>
+With being nothing. Music do I hear?<lb/>
+
+
+</p><p><stage>Music</stage></p>
+
+
+<p>
+Ha, ha! keep time: how sour sweet music is,<lb/>
+When time is broke and no proportion kept!<lb/>
+So is it in the music of men's lives.<lb/>
+And here have I the daintiness of ear<lb/>
+To cheque time broke in a disorder'd string;<lb/>
+But for the concord of my state and time<lb/>
+Had not an ear to hear my true time broke.<lb/>
+I wasted time, and now doth time waste me;<lb/>
+For now hath time made me his numbering clock:<lb/>
+My thoughts are minutes; and with sighs they jar<lb/>
+Their watches on unto mine eyes, the outward watch,<lb/>
+Whereto my finger, like a dial's point,<lb/>
+Is pointing still, in cleansing them from tears.<lb/>
+Now sir, the sound that tells what hour it is<lb/>
+Are clamorous groans, which strike upon my heart,<lb/>
+Which is the bell: so sighs and tears and groans<lb/>
+Show minutes, times, and hours: but my time<lb/>
+Runs posting on in Bolingbroke's proud joy,<lb/>
+While I stand fooling here, his Jack o' the clock.<lb/>
+This music mads me; let it sound no more;<lb/>
+For though it have holp madmen to their wits,<lb/>
+In me it seems it will make wise men mad.<lb/>
+Yet blessing on his heart that gives it me!<lb/>
+For 'tis a sign of love; and love to Richard<lb/>
+Is a strange brooch in this all-hating world.<lb/>
+
+
+</p><p><stage>Enter a Groom of the Stable</stage>
+
+
+</p></sp><sp><speaker>Groom</speaker>
+<p>Hail, royal prince!<lb/>
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>Thanks, noble peer;<lb/>
+The cheapest of us is ten groats too dear.<lb/>
+What art thou? and how comest thou hither,<lb/>
+Where no man never comes but that sad dog<lb/>
+That brings me food to make misfortune live?<lb/>
+
+
+</p></sp><sp><speaker>Groom</speaker>
+<p>I was a poor groom of thy stable, king,<lb/>
+When thou wert king; who, travelling towards York,<lb/>
+With much ado at length have gotten leave<lb/>
+To look upon my sometimes royal master's face.<lb/>
+O, how it yearn'd my heart when I beheld<lb/>
+In London streets, that coronation-day,<lb/>
+When Bolingbroke rode on roan Barbary,<lb/>
+That horse that thou so often hast bestrid,<lb/>
+That horse that I so carefully have dress'd!<lb/>
+
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>Rode he on Barbary? Tell me, gentle friend,<lb/>
+How went he under him?<lb/>
+
+
+</p></sp><sp><speaker>Groom</speaker>
+<p>So proudly as if he disdain'd the ground.<lb/>
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>So proud that Bolingbroke was on his back!<lb/>
+That jade hath eat bread from my royal hand;<lb/>
+This hand hath made him proud with clapping him.<lb/>
+Would he not stumble? would he not fall down,<lb/>
+Since pride must have a fall, and break the neck<lb/>
+Of that proud man that did usurp his back?<lb/>
+Forgiveness, horse! why do I rail on thee,<lb/>
+Since thou, created to be awed by man,<lb/>
+Wast born to bear? I was not made a horse;<lb/>
+And yet I bear a burthen like an ass,<lb/>
+Spurr'd, gall'd and tired by jouncing Bolingbroke.<lb/>
+
+
+</p><p><stage>Enter Keeper, with a dish</stage>
+
+
+</p></sp><sp><speaker>Keeper</speaker>
+<p>Fellow, give place; here is no longer stay.<lb/>
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>If thou love me, 'tis time thou wert away.<lb/>
+
+</p></sp><sp><speaker>Groom</speaker>
+<p>What my tongue dares not, that my heart shall say.<lb/>
+
+</p><p><stage>Exit</stage>
+
+
+</p></sp><sp><speaker>Keeper</speaker>
+<p>My lord, will't please you to fall to?<lb/>
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>Taste of it first, as thou art wont to do.<lb/>
+
+</p></sp><sp><speaker>Keeper</speaker>
+<p>My lord, I dare not: Sir Pierce of Exton, who<lb/>
+lately came from the king, commands the contrary.<lb/>
+
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>The devil take Henry of Lancaster and thee!<lb/>
+Patience is stale, and I am weary of it.<lb/>
+
+
+</p><p><stage>Beats the keeper</stage>
+
+
+</p></sp><sp><speaker>Keeper</speaker>
+<p>Help, help, help!<lb/>
+
+</p><p><stage>Enter EXTON and Servants, armed</stage>
+
+
+</p></sp><sp><speaker>KING RICHARD II</speaker>
+<p>How now! what means death in this rude assault?<lb/>
+Villain, thy own hand yields thy death's instrument.<lb/>
+
+
+</p><p><stage>Snatching an axe from a Servant and killing him</stage></p>
+
+
+<p>
+Go thou, and fill another room in hell.<lb/>
+
+
+</p><p><stage>He kills another. Then Exton strikes him down</stage></p>
+
+
+<p>
+That hand shall burn in never-quenching fire<lb/>
+That staggers thus my person. Exton, thy fierce hand<lb/>
+Hath with the king's blood stain'd the king's own land.<lb/>
+Mount, mount, my soul! thy seat is up on high;<lb/>
+Whilst my gross flesh sinks downward, here to die.<lb/>
+
+
+</p><p><stage>Dies</stage>
+
+
+</p></sp><sp><speaker>EXTON</speaker>
+<p>As full of valour as of royal blood:<lb/>
+Both have I spill'd; O would the deed were good!<lb/>
+For now the devil, that told me I did well,<lb/>
+Says that this deed is chronicled in hell.<lb/>
+This dead king to the living king I'll bear<lb/>
+Take hence the rest, and give them burial here.<lb/>
+
+
+</p></sp><p><stage>Exeunt</stage>
+
+
+
+</p></div2><div2 type="scene" n="6" id="d28">
+<head>Scene 6</head>
+
+<p><stage>Windsor castle.</stage>
+
+</p><p><stage>Flourish. Enter HENRY BOLINGBROKE, DUKE OF YORK,	with other Lords, and Attendants</stage>
+
+
+</p><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>Kind uncle York, the latest news we hear<lb/>
+Is that the rebels have consumed with fire<lb/>
+Our town of Cicester in Gloucestershire;<lb/>
+But whether they be ta'en or slain we hear not.<lb/>
+
+
+</p><p><stage>Enter NORTHUMBERLAND</stage></p>
+
+
+<p>
+Welcome, my lord	what is the news?<lb/>
+
+
+</p></sp><sp><speaker>NORTHUMBERLAND</speaker>
+<p>First, to thy sacred state wish I all happiness.<lb/>
+The next news is, I have to London sent<lb/>
+The heads of Oxford, Salisbury, Blunt, and Kent:<lb/>
+The manner of their taking may appear<lb/>
+At large discoursed in this paper here.<lb/>
+
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>We thank thee, gentle Percy, for thy pains;<lb/>
+And to thy worth will add right worthy gains.<lb/>
+
+
+</p><p><stage>Enter LORD FITZWATER</stage>
+
+
+</p></sp><sp><speaker>LORD FITZWATER</speaker>
+<p>My lord, I have from Oxford sent to London<lb/>
+The heads of Brocas and Sir Bennet Seely,<lb/>
+Two of the dangerous consorted traitors<lb/>
+That sought at Oxford thy dire overthrow.<lb/>
+
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>Thy pains, Fitzwater, shall not be forgot;<lb/>
+Right noble is thy merit, well I wot.<lb/>
+
+
+</p><p><stage>Enter HENRY PERCY, and the BISHOP OF CARLISLE</stage>
+
+
+</p></sp><sp><speaker>HENRY PERCY</speaker>
+<p>The grand conspirator, Abbot of Westminster,<lb/>
+With clog of conscience and sour melancholy<lb/>
+Hath yielded up his body to the grave;<lb/>
+But here is Carlisle living, to abide<lb/>
+Thy kingly doom and sentence of his pride.<lb/>
+
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>Carlisle, this is your doom:<lb/>
+Choose out some secret place, some reverend room,<lb/>
+More than thou hast, and with it joy thy life;<lb/>
+So as thou livest in peace, die free from strife:<lb/>
+For though mine enemy thou hast ever been,<lb/>
+High sparks of honour in thee have I seen.<lb/>
+
+
+</p><p><stage>Enter EXTON, with persons bearing a coffin</stage>
+
+
+</p></sp><sp><speaker>EXTON</speaker>
+<p>Great king, within this coffin I present<lb/>
+Thy buried fear: herein all breathless lies<lb/>
+The mightiest of thy greatest enemies,<lb/>
+Richard of Bordeaux, by me hither brought.<lb/>
+
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>Exton, I thank thee not; for thou hast wrought<lb/>
+A deed of slander with thy fatal hand<lb/>
+Upon my head and all this famous land.<lb/>
+
+
+</p></sp><sp><speaker>EXTON</speaker>
+<p>From your own mouth, my lord, did I this deed.<lb/>
+
+</p></sp><sp><speaker>HENRY BOLINGBROKE</speaker>
+<p>They love not poison that do poison need,<lb/>
+Nor do I thee: though I did wish him dead,<lb/>
+I hate the murderer, love him murdered.<lb/>
+The guilt of conscience take thou for thy labour,<lb/>
+But neither my good word nor princely favour:<lb/>
+With Cain go wander through shades of night,<lb/>
+And never show thy head by day nor light.<lb/>
+Lords, I protest, my soul is full of woe,<lb/>
+That blood should sprinkle me to make me grow:<lb/>
+Come, mourn with me for that I do lament,<lb/>
+And put on sullen black incontinent:<lb/>
+I'll make a voyage to the Holy Land,<lb/>
+To wash this blood off from my guilty hand:<lb/>
+March sadly after; grace my mournings here;<lb/>
+In weeping after this untimely bier.<lb/>
+
+
+</p></sp><p><stage>Exeunt</stage></p>
+
+
+
+</div2>
+
+</div1>
+
+</body>
+
+</text>
+
+</TEI.2>

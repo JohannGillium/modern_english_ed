@@ -1,0 +1,554 @@
+<?xml version="1.0"?>
+
+<?dlps id="CanPlay"?>
+<?dlps page-images="color" figure-images="yes"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+
+
+
+<!ENTITY DSSR_000002643_0001 SYSTEM "000002643_0001" NDATA uvaHighRes>
+<!ENTITY DSSR_000002643_0002 SYSTEM "000002643_0002" NDATA uvaHighRes>
+<!ENTITY DSSR_000002643_0003 SYSTEM "000002643_0003" NDATA uvaHighRes>
+<!ENTITY DSSR_000002643_0004 SYSTEM "000002643_0004" NDATA uvaHighRes>
+<!ENTITY DSSR_000002643_0005 SYSTEM "000002643_0005" NDATA uvaHighRes>
+<!ENTITY DSSR_000002643_0006 SYSTEM "000002643_0006" NDATA uvaHighRes>
+<!ENTITY DSSR_000002643_0007 SYSTEM "000002643_0007" NDATA uvaHighRes>
+]>
+<TEI.2 id="CanPlay">
+<teiHeader type="migrated" creator="Etext">
+<fileDesc>
+<titleStmt>
+<title type="main">The Playmate</title>
+<title type="sort">playmate</title>
+<author>Canfield, Dorothy</author>
+<respStmt>
+<resp>Creation of machine-readable version:</resp>
+<name>Judy Boss</name>
+<resp>Creation of digital images:</resp>
+<name>Michele Ierardi</name>
+<resp>Conversion to TEI.2-conformant markup:</resp>
+<name>University of Virginia Library Electronic Text Center.</name>
+</respStmt>
+</titleStmt>
+<extent>ca. <num type="kilobytes">27</num> kilobytes</extent>
+<publicationStmt>
+<publisher>University of Virginia Library</publisher>
+<pubPlace>Charlottesville, Virginia</pubPlace>
+<idno type="ETC">CanPlay</idno>
+<date value="1996">1996</date>
+<availability status="public">
+<p n="copyright">Copyright &#xa9; 1996 by the Rector and Visitors of the University of Virginia</p>
+<p n="access">Publicly accessible</p>
+</availability>
+<idno type="uva-pid">uva-lib:476761</idno>
+</publicationStmt>
+<seriesStmt>
+<title>University of Virginia Library, Text collection</title>
+<idno type="uva-set">UVA-LIB-Text</idno>
+</seriesStmt>
+<notesStmt>
+<note>
+<p>Illustrations have been included from the print version. Images were scanned from printouts of the microfilm copy.</p>
+</note>
+<note>
+<p>Judy Boss has made the following changes: p.85, its] it's</p>
+</note>
+</notesStmt>
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title type="main">The Playmate</title>
+<title level="j">American Illustrated Magazine</title>
+<title type="sort">playmate</title>
+<author>Dorothy Canfield</author>
+</titleStmt>
+<editionStmt>
+<p>First Edition</p>
+</editionStmt>
+<extent>pp. 80-86</extent>
+<publicationStmt>
+<publisher>Colver Publishing House</publisher>
+<pubPlace>New York</pubPlace>
+<date value="1905-11">November 1905</date>
+<idno type="callNo">Copy consulted: UVA library call no. Micfilm S-147 reel 689</idno>
+</publicationStmt>
+<notesStmt>
+<note>
+<p>American Illustrated Magazine, vol. 61, no. 1.</p>
+</note>
+</notesStmt>
+</biblFull>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+</projectDesc>
+<editorialDecl>
+<p>All quotation marks retained as data.</p>
+<p>All unambiguous end-of-line hyphens have been removed, and the trailing part of a word has been joined to the preceding line.</p>
+<p>The images exist as archived TIFF images, one or more JPEG versions for general use, and thumbnail GIFs.</p>
+<p>Keywords in the header are a local Electronic Text Center scheme to aid in establishing analytical groupings.</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date value="1905">1905</date>
+</creation>
+<langUsage>
+<language id="eng" usage="main">English</language>
+</langUsage>
+<textClass>
+<keywords>
+<term>fiction; prose</term>
+<term>Women Writers</term>
+</keywords>
+<keywords>
+<term>O'Neill, Rose Cecil</term>
+<term>illustration</term>
+<term>256-shade greyscale, 400 dpi</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change>
+<date value="1996-09">September 1996</date>
+<respStmt>
+<resp>corrector</resp>
+<name>Michele Ierardi, Electronic Text Center</name>
+</respStmt>
+<item>Added TEI headers and tags.</item>
+</change>
+<change>
+<date value="2005-06">June 2005</date>
+<respStmt>
+<resp>corrector</resp>
+<name>John Ivor Carlson</name>
+</respStmt>
+<item>Converted sgml to xml.</item>
+</change>
+<change>
+<date value="2007-09">September 2007</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Ethan Gruber, University of Virginia Library</name>
+</respStmt>
+<item>Converted XML markup from TEI Lite to uva-dl-tei (TEI P4 with local customizations).</item>
+</change>
+<change>
+<date value="2008-01">January 2008</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Greg Murray, University of Virginia Library</name>
+</respStmt>
+<item>Programmatically updated TEI header markup (but not header content) for minimal compliance with current QA requirements.</item>
+</change>
+<change>
+<date value="2009-03">March 2009</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Scholarly Resources, University of Virginia Library</name>
+</respStmt>
+<item>Added and/or replaced the digital images accompanying the electronic text. Scanning of exterior and interior (ie. pages) of item was done only for items found in the University of Virginia Special Collections Library.</item>
+</change>
+</revisionDesc>
+</teiHeader>
+    
+    
+<text id="d1">
+<front id="d2">
+<div1 type="figure" id="d3">
+    <pb entity="DSSR_000002643_0001"/>
+<p rend="center">Mary felt a timid presence in the dark not far from her.</p>
+
+</div1>
+</front>
+
+
+<body id="d4">
+
+<div1 type="story" id="d5"><pb n="81"/>
+<head>
+
+<hi rend="bold">THE PLAYMATE.</hi>
+<lb/>
+By Dorothy Canfield
+<lb/>
+ILLUSTRATED BY Rose Cecil O'Neill
+
+</head>
+
+    <pb entity="DSSR_000002643_0002" n="81"/>
+
+<p>MRS. O'HERN looked about her with beaming eyes.  "Well, it may
+seem queer to think of living in a barn," she observed to her old
+friend, "but it suits me fine!  Ever since I left Ireland I've lived too
+much indoors, and it does seem good to be cooking half in the air
+again."
+</p><p>The older woman jangled her keys meditatively.  "I thought
+you were crazy when you first talked about it," she admitted, "but it
+does seem sort o' cozy like, and it'll be fine for the childer to be in
+the country this summer."
+</p><p>"Aye!  It'll be the makin' of Pollie that's growin' so fast, an'
+Patsy'll be away from them bad boys on the street.  Though we
+moved in but yesterday, I can see now what a grand time the
+childer'll have in the lovely grounds, an' it was the only way of
+being wid Pat while he's on that brick-layin' job on the new country
+house.  Sure it's a good friend you are, to lave us do it."
+</p><p>The old crone answered with a proprietary air.  "Oh, why not?
+There ain't been a soul in this barn for fifteen years, not since I
+begun takin' care of the big house, an' sure it can't hurt the old loft to
+have the beds of all the blessed childer in it instead of cobwebs, nor
+the open shed to have a stove set up, wid decent Irish praties cookin'
+over it.  I niver thought you cud make it look so like a real home&mdash;pictures of the saints and flowers and cushions and all."
+</p><p>Mrs. O'Hern laughed comfortably as she looked about the
+clean room where they sat, and out the open door into the wide-spreading orchard trees all a pink glory of blossom.  "Cud any place
+wid your eight childer and your own man be aught but home&mdash;barn
+or no barn?" she inquired.
+</p><p>The old woman nodded appreciatively, and for a few moments
+there was silence, broken only by the cooing of doves on the roof of
+the shed.  Then she spoke again.  "It's a good thing th' old man&mdash;him
+as owns the big house&mdash;niver comes a-near no more."
+</p><p>"Why?" asked Mrs. O'Hern.
+</p><p>"He'd have something to say about your camping out here!"
+</p><p>"We won't hurt his old barn!" cried the other.  "Look how
+clean I've made it, white curtains to the windys and all!"
+</p><p>"It's the swarmin' childer of ye he'd be mindin'.  He'd not care
+about his barn bein' used, because he's not that kind, but he niver
+could abide childer&mdash;it's my belief he niver cared a crumb for his
+own son, till he was half grown up&mdash;fifteen or sixteen.  An' that just
+the age whin sinsible folks is beginning to think less of thim and
+more of the babies!  It was fair enough to break a body's heart&mdash;the
+life that poor child led."
+</p><p>Mrs. O'Hern's black eyes flashed and the mother in her rose in
+indignation.  "Was he treated bad?" she asked hotly.
+</p><p>"Well, not to say <hi rend="italic">bad</hi>.  He had always two or three
+hired creatures to look after him, and enough to play wid to drive
+any well child mad, and governesses and perfessors and muzic
+lessons&mdash;oh, it was fair sickenin'!  An' him, the pale, little, skinny-legs,
+niver knowin' for wan minute what it was to be a child.  I don't
+suppose he <hi rend="italic">iver</hi> played&mdash;what ye might call <hi rend="italic">played</hi>&mdash;wan
+blessed minute in all his life.  Th' old man was always away
+makin' more money&mdash;not that <hi rend="italic">he</hi> would ha' been much to
+play wid&mdash;Heaven knows!"
+</p><p>The other's soft Irish eyes melted almost
+    <pb entity="DSSR_000002643_0003" n="82"/>
+to tears at the
+picture she saw, and she drew her little Denny to her and kissed him
+before she asked: "Did he die, the poor little boy?"
+</p><p>"Arrah!  That I don't know.  Whin it was time for him to begin
+to think of goin' to college, th' old man moved away an' I've niver
+heard of him since.  But I've a notion he's dead&mdash;he had that kind of
+eyes of them that do!"
+</p><p>The quick darkness of early spring evenings in New England
+shut down and the old gossip rose to go.  "Well, Mary, my dear,"
+she said affectionately, "it seems like living again to have some
+folks around.  I've been stark alone so long in that gloomy old house
+and grounds I'll be in the way of neighboring you to death with
+always dropping in."
+</p><p>As a matter of fact she did spend much time in the midst of the
+rosy, chattering, romping family of Irish-Americans who ran wild,
+like little Indians, in the grounds, and their own very considerable
+numbers augmented by battalions of cousins and regiments of
+friends filled to overflowing the big lofts of the deserted barn.
+</p><p>Mrs. O'Hern, for all her thirty-five years, matronly figure and
+eight children, ran and played with them like a girl.  Denny
+announced one day: "It didn't seem as though we could love mother
+more than we did in town, but out here I love her so it hurts."
+</p><p>Patrick O'Hern, busy with his brick-laying on a country house
+down the road, was only too glad to have his family with him, and
+loved and scolded and petted and stormed at his children with all
+the gusto of the true Irish parent.  They were a noisy family.  The
+mother said sometimes: "Now, for the love of Heaven, childer, can't
+ye quiet down a bit!  Remember ye're in a place where gentry has
+lived&mdash;can't ye try, just for a change, to have gentry manners?"  But
+almost always, when she had said that, she remembered the pale
+little boy, passing a joyless childhood in the big house, and had
+rejoiced in the wild peals of laughter from her own unruly brood.
+</p><p>It was quite soon after their arrival that she became aware of
+something strange about the place.  One evening, late, she had gone
+into the big room where the four youngest children slept, to make
+sure that Denny was covered.  The child had been a little feverish at
+supper, and she was anxious about him.  She laughed at herself as
+she felt her way up the steep stairs.
+</p><p>"'Tis only that it's Denny!  I'm that foolish about the child.
+He's different from the rest of us black Irish!  There do be times
+when I think he has the second-sight&mdash;like brother Tim that died."
+She pushed open the door and started, for, although the room was
+quite dark, she felt instantly that one of the children was out of bed.
+"Denny!" she called softly, fumbling for a match.  Denny answered
+from his cot at the other end of the room, and as she struck the
+match she saw that the four little beds were all occupied and the
+room was quite still.
+</p><p>Denny was wide awake, his big, blue eyes shining in the light
+of the match.  "Have you been in bed all the time?" asked his
+mother.  The child nodded his head without speaking.  "Queer," said
+Mary, dropping the half burned match.  "I thought one of yez was
+out on the floor as I came in."  Denny said nothing, and after
+settling the covers about his throat, his mother stooped to kiss him.
+As she did so, she felt suddenly that a child was standing close to
+her.  "Who's that?" she said sharply.  "One of the other ones playin'
+a trick on me!"  But the light of another match showed only the
+three black heads half buried in their pillows and Denny's soft eyes
+looking at her over the coverlet.  His lips moved and she bent over
+to hear what he said.  "Don't drive him away, mother; let him stay."
+</p><p>"Let <hi rend="italic">who</hi> stay?" she asked, bewildered, but Denny's
+eyes were drooping sleepily, and he said no more.
+</p><p>"Some queer child's fancy!" she thought as she groped her way
+from the darkened room.
+</p><p>The next day Denny was not quite himself and she made him
+stay in bed.  After the morning's work was done she went up to sit in
+the room with him, taking a big bag of the never-ending darning.
+The sun shone brightly on his fair head as he bent over a game of
+dominoes spread on the coverlet.
+</p><p>"Playin' dominoes all by yourself, dear?" asked his mother,
+tenderly, sitting down by the bed.
+</p><p>Denny looked up soberly and said, "No, I'm playing with a
+pretend little boy."
+    <pb entity="DSSR_000002643_0004" n="83"/>
+</p><p>Mary sometimes said, "After bringin' up a family of eight
+childer,&mdash;and Mary Mother only knows how many more to come,"&mdash;that
+no queer freak that could enter a child's head would surprise
+her.  "After Pollie's make-believe monkeys and little Pat's having
+conniptions over a table with five legs, and Anastasia's being that
+afraid of butterflies that she 'most fainted, you can't tell <hi rend="italic">me</hi>
+any tale about childer I won't believe.  They all have those queer
+spells, but they all get over them."  So at Denny's "pretend"
+domino-player she only smiled indulgently and said nothing.  Denny had
+counted on his mother's understanding, and went on with his game,
+murmuring disjointed bits of talk to himself.  Mary darned in the
+furious haste that is always upon the mother of eight children, and
+paid no attention to Denny, beyond glancing at him from time to
+time in great satisfaction with his improved looks.
+</p><p>She glanced up once in this manner and paused, her mouth
+open, and her darning needle suspended in the air.  "Denny!" she
+exclaimed, "Whatever are you doing?"  The child looked at her
+quietly, and did not answer.  Mrs. O'Hern's astonishment passed
+suddenly into incredulity, and she resumed her work.  "Your poor
+mother's getting that old!" she laughed.  "She's losing her senses!
+Sure!  I thought I saw one of them dominoes lift all by itself, and set
+down in a different place."
+</p><p>Denny's eyes gleamed with pleasure, and he turned to explain.
+"Isn't it fine, mother?  Sometimes he can do that when we're all
+alone and I want him to so very much.  Mostly he can only stand by
+and look,&mdash;though he likes that fine,&mdash;but once in a while he gets
+<hi rend="italic">so</hi> interested, and I want him <hi rend="italic">so</hi> to have a good time,
+he can do something himself.  But not very often, and never when
+we're all playing together."
+</p><p>Mrs. O'Hern looked at him in amazement and some alarm.
+The next moment he said sadly, "Oh, there!  We've frightened him
+away, and its always so hard to make him not afraid again."
+</p><p>Mary had begun to say something in her hasty, Irish way,
+about Denny's stopping such nonsense or she'd box his ears, when,
+as she afterwards told Father McGinn, "I can't tell you how it was,
+but I just felt another child there besides Denny, another child, and a
+scared little child, and so lonesome, and the first thing I knew
+Denny was crying as though his heart would break, and so was I!
+And Denny was saying, 'Oh mother, I'm so sorry for him!'  And
+then,&mdash;oh, I don't know,&mdash;Pat called me from the foot of the stairs,
+and the childer came busting in to know if they could go out in the
+boat, and&mdash;it was all over, everything just the way it always is, only
+Denny and me, with red noses.  'What's the matter, mother?' they all
+asked, and I said, 'I wish you could tell, for I can't.'"
+</p><p>That was the first time, and a week passed before Mary again
+felt a breath of mystery blow through her hearty, active life.  It was
+on an afternoon full of golden early June sunlight, and the children
+were playing with a host of cousins and little friends in the big
+orchard not far from the barn.  The delicious country air had gone to
+their heads, and they were half-mad with animal spirits, shouting
+and racing about, and laughing till they sank down exhausted on the
+soft grass in a happy ecstacy.  Denny was romping with the others,
+his shrill little treble ringing out in a high-pitched joy that made his
+mother smile in sympathy.  She was ironing in the cool, open room
+they had taken for kitchen, and looked out at the boisterous crowd
+of youthful bacchantes, intoxicated with freedom and fresh air, with
+a whimsical remembrance of her own happy childhood in County
+Kerry.  At the same time, there ran through her mind almost
+unconsciously, the steady and puzzled query as to the meaning of
+the odd experience in Denny's room.
+</p><p>Denny caught sight of his mother, passing to and fro, and came
+running to the barn, his loving little heart eager to share his joy with
+her.  "Oh, mother!" he cried, "We are having such a good time!  It's
+like a fairy story, so pretty out there, and we're laughing&mdash;
+laughing&mdash;"  He stopped, his child's vocabulary unable to cope with
+the exultation that glowed in his eyes and shone from his rosy
+cheeks.  As he stood, silent, Mary turned to the stove for a fresh
+iron, and it was suddenly as though someone else was going on with
+the story Danny could not tell.  The room was filled with the joyous
+elation of a child, so exquisite, so complete, that Mary's eyes
+    <pb entity="DSSR_000002643_0005" n="84"/>
+moistened.  Her heart swelled with a strange softness.
+</p><p>Denny spoke again.  "He's so glad,&mdash;he never had a good time
+here before!"  Mary did not dare to turn around.  Of a sudden she
+knew, and knowing, her mother soul yearned over the joy that now
+seemed so pathetic to her.  She could almost hear the rapid beats of
+a little heart fairly tired out in one of those bursts of delight in
+joyous companionship that sometimes overwhelm little children.
+When she finally turned back to her ironing board, Denny had
+slipped away, but the joyous presence lingered a moment longer, as
+though basking in her sympathy.  Then that too, vanished, and
+Mary, sitting down, wept tears of mingled sorrow, sympathy and
+comprehension.
+</p><p>That evening she and Denny sat by the fire, kindled because of
+the spring coolness that still lingered in the air.  The others were all
+gone for a moonlight walk.  The mother and her little son sat in
+silence, their Irish hearts very soft as they thought the same
+thoughts.  It was quite still.  The faint flicker of the fire showed the
+strong motherly hand resting on Denny's head, and occasionally
+stroking the yellow curls softly, but no word was spoken.  They
+were both waiting, with the Celtic sixth sense quiveringly alert.  All
+at once Denny gave a soft little cry&mdash;of welcome, it seemed, and
+Mary felt a timid presence standing in the dark not far from her.
+She did not look toward it, nor turn away from the fire, but her hand
+dropped to Denny's shoulder and gave him a little hug.  Denny rose
+to his knees and put his arm around her waist.  "Oh mother, I love
+you so!" he said, his child's voice quivering with emotion, "I love
+you so!  You always understand!"
+</p><p>"I love you, too, Denny," she answered, and then, choosing her
+words very carefully, "I love all little childer,&mdash;<hi rend="italic">all!"</hi>  She
+thought she heard a happy little sigh and went on, her arm around
+Denny, "The more I have the more I love them, and if one was
+unhappy or sorrowin' I'd love him the best of all."
+</p><p>There was a moment's silence, in which the fire dropped
+sleepily together and then Denny moved a little, as though to make
+room for someone else at his mother's knee.  After that no word was
+spoken, but in a brooding peace that filled Mary's heart, they sat
+quite still, until the returning children broke in, laughing at them for
+letting the fire go out.
+</p><p>After this Mary often felt the shy, gentle presence, and never
+without a glow at her mother's heart.  Once she asked herself why
+she was not afraid, and then all her Celtic mysticism overwhelmed
+the materialistic query.  That night, as she stepped into the
+children's room, she felt unusually tender and rejoiced to feel in the
+warm, quiet room a contented little fifth child, peacefully happy in
+the new-found companionship.
+</p><p>The summer slipped on,&mdash;a happy, busy, idle summer, and the
+early apples in the orchard were almost ripe when Mary had a great
+shock.  Their old neighbor of the big house dropped in with a bag-full of
+gossip to turn over.  After discussing several mutual
+acquaintances she said, "Do you remember my tellin' ye about the
+little lad that used to live here, and had such a miserable, mopy time
+of it?  Well, I had a letter from my cousin in New York, and he said
+he seen him."
+</p><p>Mary's amazed start and frightened gaze at her companion
+passed unnoticed in the twilight.  The old woman went on.  "My
+cousin has a foine place as ilivator-boy,&mdash;not but what he's grown up
+and has been these many years,&mdash;in the office buildin' where th' old
+man and his son has their offices, and he says he knew 'em the first
+time he took 'em up.  The son, for all he's got some gray hairs and
+looks as drawn-out as if he was fifty, looks just as he used to here,
+and th' old man, well, ye'd know he'd niver change in a thousand
+years."
+</p><p>There was a little pause, in which Mary tried to compose the
+confused and terrifying ideas that whirled through her head.  The
+other spoke again, "It gives me a queer turn, somehow, to think of
+his bein' alive,&mdash;the son, I mean,&mdash;because I'd always sort o'&mdash;"
+</p><p>Mary broke in breathlessly, "Why, he <hi rend="italic">must</hi> be dead!"
+</p><p>"There! that's just the way I feel about it.  My cousin says they
+tell awful queer stories about him,&mdash;that he's got kind o' fits or
+something,&mdash;times when he'll set an' stare in front of him and niver
+know a word you say to him.  The office byes don't think he's quite
+right.  I'm as sure as though the saints had told me that it's his queer
+bringin' up that did it."
+    <pb entity="DSSR_000002643_0006" n="85"/>
+</p><p>Mary interrupted with an eager question.  "How do you mean,
+&mdash;fits and spells?"
+</p><p>"Oh, I dunno," said the other comfortably, preparing to leave.
+"My cousin he niver seen him in one, and so I dunno.  The office
+byes says it's like as though he wasn't there at all, although his eyes
+is wide starin' open."
+</p><p>As she shuffled down the gravel path the woman she had left
+sank on the steps, an indefinite horror in her mind.  Denny came
+softly over the grass, dangling two tiny trout from a twig.  He
+looked tired, but very proud as he displayed them to his mother.
+</p><p>"They're only little fellers," he said, dropping into the speech
+of the country-side, "but they're the first I ever catched."  Then,
+lowering his voice, and making sure no one was near, he added
+confidentially, "It was the first time he'd ever been a-fishing, and he
+thought it was such bully fun!"  Denny rarely spoke of his "pretend"
+playmate, and then, only to his mother, whose understanding he
+knew to be limitless.
+</p><p>This time, however, Mary seized him by the shoulder and
+asked in a queer, strained voice: "Denny, who is he?  How do we
+know who he is?"  She was shivering in a terror of the unknown, her
+ignorant mind inflamed with half-remembered, ghastly tales of
+superstitious old women sitting over peat fires in County Kerry.
+She caught Denny up and held him close, as though she would
+protect him from the powers of evil.
+</p><p>The child struggled a little in her grasp and then said, in a low
+tone: "I thought you were sorry for all little, lonesome boys.  Do
+you have to know who they are?"  Mary started.  "No; but, Denny,
+you don't&mdash;"  She paused, aware in every finely attuned motherly
+fiber of a grieved little presence at her knee.  "Denny, aren't ye ever
+afraid, darlint?" she asked as if begging courage from her little son.
+Denny answered soberly: "No, mother, it makes him so glad."  And
+Mary, too, was no longer afraid.  But during the few weeks that they
+stayed in the country she had occasional, quick, shivering doubts
+that sent her out in a mad rush to see that Denny was safe, and when
+they moved to town she felt an acknowledged relief.
+</p><p>During the long hours, so curiously still, when the children
+were all away at school, she often sat lost in a maze of surmises and
+half explanations.  She had very little reasoning power&mdash;the warm-blooded,
+Irish-woman, all mother&mdash;and most of her thinking was
+done with her heart, which may have been the reason why she
+finally came out of her doubt and confusion, little by little, and
+arrived at a clear certainty.  With this glowing on her face, she took
+the long walk out to the big house.  Her old friend looked up
+surprised at a visitor in that lonely spot, and nodded drowsily as
+Mary said she wished to go up to the room in the barn the youngest
+children had used to get something they had left behind.
+</p><p>She opened the door gently, stepped into the now so desolate
+room and stood waiting.  Not for long.  In a moment she fell on her
+knees, her arms outstretched, the tears running down her face, and
+incoherent words forcing themselves between her sobs.  "Now I
+know&mdash;poor darlint! now I know.  'Tis the child in ye that could
+never pass away because it had never lived its life!  And to have me
+suspicionin' ye!  And now to leave you alone again!  Can't you
+come with&mdash;"  She stopped, sobbing violently, as she heard a forlorn
+little sigh, and felt the grieved and desolate presence of an utterly
+lonely child.  A moment later it vanished, and Mary, her face still
+distorted with grief, was shutting the door with reluctant hands.
+"Arrah!" she cried to herself, "it's like shutting in little Denny to
+long days alone."
+</p><p>The shadow rested on her broad, smooth face until the coming
+of the next summer.  In the midst of the wildest romps of her
+black-haired brood, the tears would come to her soft eyes and she would
+catch up little Denny for a passionate embrace.  Her old crony,
+sitting by the open window one day, observed one of these passing
+clouds with some impatience.  "What's the matter with ye, Mary,
+woman?" she demanded.  "Ye act like somebody that's lost a child
+and can't help thinkin' of him in sorrow all the time."  A moment
+later she added: "Speakin' of childer, did I tell ye I heard from my
+cousin in New York the other day that th' old man's a grandfather?
+The son's married, and they have got a baby&mdash;a boy.  My cousin says
+the new father looks like another man&mdash;all the queerness gone out of
+his eyes
+    <pb entity="DSSR_000002643_0007" n="86"/>
+like.  Sure I'm glad it's not th' old man that's to have
+the bringin' up of the kid.  Wherever are ye goin' at this time of the
+day?"  For Mary had snatched her shawl from a chair and was
+already darting down the street.
+</p><p>As she followed the long country road she talked half
+inarticulately to herself.  "Oh, surely now&mdash;with a child of his
+own&mdash;and a son&mdash;oh, Mother of Jesus! surely <hi rend="italic">now&mdash;!"</hi>  She did not
+venture to formulate her hope more clearly even to herself.  She half
+ran through the lower rooms and slipped rapidly up the steep stairs,
+but at the door she hesitated, and finally fell to her knees and
+murmured an Ave Maria, with her rosary at her lips, before she
+ventured to enter.
+</p><p>As she pushed open the door and went in she shivered a little,
+but soon stood very still, tears of joy welling in her eyes.  It was as
+she had hoped.  The bare, echoing room was quite, quite empty.
+
+</p>
+
+</div1>
+</body>
+</text>
+</TEI.2>

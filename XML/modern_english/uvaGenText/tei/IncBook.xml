@@ -1,0 +1,2615 @@
+<?xml version="1.0"?>
+
+<?dlps id="IncBook"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOnum SYSTEM "http://text.lib.virginia.edu/charent/iso-num.ent"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+
+]>
+<TEI.2 id="IncBook">
+<teiHeader type="migrated" creator="Etext">
+<fileDesc>
+<titleStmt>
+<title type="main">The verse-book of a homely woman</title>
+<title type="sort">verse book of a homely woman</title>
+<author>Inchfawn, Fay, 1880-</author>
+<respStmt>
+<resp>Creation of machine-readable version:</resp>
+<name>Judy Boss</name>
+<resp>Conversion to TEI.2-conformant markup:</resp>
+<name>University of Virginia Library Electronic Text Center.</name>
+</respStmt>
+</titleStmt>
+<extent>ca. <num type="kilobytes">72</num> kilobytes</extent>
+<publicationStmt>
+<publisher>University of Virginia Library</publisher>
+<pubPlace>Charlottesville, Virginia</pubPlace>
+<idno type="ETC">IncBook</idno>
+<date value="2000">2000</date>
+<availability status="public">
+<p n="copyright">Copyright &copy; 2000 by the Rector and Visitors of the University of Virginia</p>
+<p n="access">Publicly accessible</p>
+</availability>
+<idno type="uva-pid">uva-lib:476102</idno>
+</publicationStmt>
+<seriesStmt>
+<title>University of Virginia Library, Text collection</title>
+<idno type="uva-set">UVA-LIB-Text</idno>
+</seriesStmt>
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title type="main">The verse-book of a homely woman</title>
+<title type="sort">verse book of a homely woman</title>
+<author>Fay Inchfawn</author>
+</titleStmt>
+<editionStmt>
+<p>16th edition</p>
+</editionStmt>
+<extent>108 p. ; 18 cm.</extent>
+<publicationStmt>
+<publisher>The Religious Tract Society</publisher>
+<pubPlace>London</pubPlace>
+<date value="1920">1920?</date>
+<idno type="callNo">Source copy consulted:</idno>
+</publicationStmt>
+<notesStmt>
+<note>
+<p>Judy Boss made two changes to the text: on page 63, line 11, she added a terminal period after "Doulton"    and on page 90,
+line 4, she added a terminal period after "dresses"</p>
+</note>
+</notesStmt>
+</biblFull>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+</projectDesc>
+<editorialDecl>
+<p>All unambiguous end-of-line hyphens have been removed, and the  trailing part of a word has been joined to the preceding line.</p>
+<p id="ETC">Some keywords in the header are a local Electronic Text Center scheme  to aid in establishing analytical groupings.</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date value="1920">1920?</date>
+</creation>
+<langUsage>
+<language id="eng" usage="main">English</language>
+</langUsage>
+<textClass>
+<keywords>
+<term>fiction</term>
+<term>poetry</term>
+<term>feminine</term>
+<term>Women Writers</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change>
+<date value="2001-04">April 2001</date>
+<respStmt>
+<resp>corrector</resp>
+<name>Karen Wikander</name>
+</respStmt>
+<item>Added TEI header and tags</item>
+</change>
+<change>
+<date value="2005-07">July 2005</date>
+<respStmt>
+<resp>Corrector</resp>
+<name>John Ivor Carlson</name>
+</respStmt>
+<item>Converted SGML to XML. Fixed tagging.</item>
+</change>
+<change>
+<date value="2007-09">September 2007</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Ethan Gruber, University of Virginia Library</name>
+</respStmt>
+<item>Converted XML markup from TEI Lite to uva-dl-tei (TEI P4 with local customizations).</item>
+</change>
+<change>
+<date value="2008-01">January 2008</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Greg Murray, University of Virginia Library</name>
+</respStmt>
+<item>Programmatically updated TEI header markup (but not header content) for minimal compliance with current QA requirements.</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text id="d1">
+<front id="d2">
+
+<titlePage id="d3">
+	<pb/>
+<docTitle>
+<titlePart type="main">THE VERSE-BOOK OF A HOMELY WOMAN</titlePart>
+</docTitle>
+<byline>by
+<docAuthor>Fay Inchfawn</docAuthor>
+</byline>
+
+<docImprint>
+<pubPlace>London</pubPlace>
+<name>
+Religious Tract Society
+</name>
+<date value="1920">1920?</date>
+</docImprint>
+</titlePage>
+
+
+<div1 type="preface" id="d4">
+<p>THE thanks of the Author, for permission to reprint certain of the poems
+in this volume, are due to the Editors of the <hi rend="italic">Girls' Own Paper and
+Woman's Magazine</hi>, the <hi rend="italic">Windsor Magazine</hi>, <hi rend="italic">Country Life</hi>,
+the <hi rend="italic">Pall Mall Gazette</hi>, the <hi rend="italic">Queen</hi>, the <hi rend="italic">Quiver</hi>,
+<hi rend="italic">Our Home</hi>, and the <hi rend="italic">Lady</hi>.</p>
+</div1>
+
+
+<div1 type="contents" id="d5">
+<pb n="v"/>
+<head>CONTENTS: PART I<lb/>
+INDOORS</head>
+
+<list>
+
+<item>THE LONG VIEW    .  .  .  .  .     11
+
+</item><item>WITHIN MY HOUSE  .  .  .  .  .     13
+
+</item><item>THE HOUSEWIFE .  .  .  .  .  .     16
+
+</item><item>TO MOTHER .   .  .  .  .  .  .     18
+
+</item><item>IN SUCH AN HOUR  .  .  .  .  .     21
+
+</item><item>THE DAILY INTERVIEW .  .  .  .     23
+
+</item><item>THE LITTLE HOUSE .  .  .  .  .     28
+
+</item><item>THE HOUSE-MOTHER .  .  .  .  .     31
+
+</item><item>A WOMAN IN HOSPITAL .  .  .  .     33
+
+</item><item>IN CONVALESCENCE .  .  .  .  .     38
+
+</item><item>HOMESICK   .  .  .  .  .  .  .     40
+
+</item><item>ON WASHING DAY   .  .  .  .  .     43
+
+</item><item>WHEN BABY STRAYED   .  .  .  .     46
+
+</item><item>IF ONLY &mdash;  .  .  .  .  .  .     49
+
+<pb n="vi"/>
+
+</item><item>LISTENING  .  .  .  .  .  .  .     51
+
+</item><item>THE DEAR FOLKS IN DEVON   .  .     52
+
+</item><item>THE REASON .  .  .  .  .  .  .     54
+
+</item><item>TWO WOMEN  .  .  .  .  .  .  .     56
+
+</item><item>THE PRIZE FIGHT  .  .  .  .  .     58
+
+</item><item>THE HOME LIGHTS  .  .  .  .  .     61
+
+</item><item>TO AN OLD TEAPOT .  .  .  .  .     63
+
+</item><item>TO A REBELLIOUS DAUGHTER  .  .     65
+
+</item><item>FOR MOTHERING!   .  .  .  .  .     69
+
+</item><item>LITTLE FAN .  .  .  .  .  .  .     71
+
+</item><item>THE NAUGHTY DAY  .  .  .  .  .     73
+
+</item><item>TO A LITTLE WHITE BIRD .  .  .     75
+
+</item><item>BECAUSE .  .  .  .  .  .  .  .     76
+
+</item><item>WHEN HE COMES .  .  .  .  .  .     77</item>
+</list>
+</div1>
+
+<div1 type="contents" id="d6">
+<head>CONTENTS: PART II<lb/>
+OUT OF DOORS</head>
+
+<list>
+<item>EARLY SPRING  .  .  .  .  .  .     81
+
+</item><item>THE WITNESS   .  .  .  .  .  .     82
+
+</item><item>IN SOMERSET   .  .  .  .  .  .     83
+
+</item><item>SONG OF A WOODLAND STREAM .  .     84
+
+</item><item>LUGGAGE IN ADVANCE  .  .  .  .     86
+
+<pb n="vii"/>
+
+</item><item>AT THE CROSS ROADS  .  .  .  .     88
+
+</item><item>SUMMER MET ME    .  .  .  .  .     90
+
+</item><item>THE CARRIER   .  .  .  .  .  .     91
+
+</item><item>THE LAD'S LOVE BY THE GATE.  .     93
+
+</item><item>THE THRUSH    .  .  .  .  .  .     95
+
+</item><item>IN DORSET DEAR   .  .  .  .  .     97
+
+</item><item>THE FLIGHT OF THE FAIRIES .  .     98
+
+</item><item>THE STREET PLAYER   .  .  .  .    100
+
+</item><item>ON ALL SOULS' EVE   .  .  .  .    103
+
+</item><item>THE LOG FIRE  .  .  .  .  .  .    105
+
+</item><item>GOD SAVE THE KING   .  .  .  .    107</item>
+</list>
+</div1>
+
+
+<div1 type="dedication" id="d7">
+<pb n="viii"/>
+
+
+<p>Dedicated<lb/>
+TO<lb/>
+MY FIRST LOVE, MY MOTHER</p>
+</div1>
+</front>
+
+<body id="d8">
+<div1 type="part" n="1" id="d9">
+<head>Part I:<lb/>
+INDOORS</head>
+
+<pb n="10"/>
+
+<p>[page intentionally blank]</p>
+
+<pb n="11"/>
+
+<div2 type="poem" n="1" id="d10">
+<head>The Long View</head>
+
+<lg type="poem">
+<l>SOME day of days! Some dawning</l>
+<l>    yet to be</l>
+<l>I shall be clothed with immortality!</l>
+<lb/>
+
+<l>And, in that day, I shall not greatly care
+</l><l>That Jane spilt candle grease upon the
+</l><l>    stair.</l>
+<lb/>
+
+<l>It will not grieve me then, as once it did,
+</l><l>That careless hands have chipped my
+</l><l>    teapot lid.</l>
+<lb/>
+
+<l>I groan, being burdened. But, in that
+</l><l>    glad day,
+</l><l>I shall forget vexations of the way.</l>
+<lb/>
+
+<l>That needs were often great, when means
+</l><l>    were small,
+</l><l>Will not perplex me any more at all</l>
+
+<pb n="12"/>
+
+<l>A few short years at most (it may be less),
+</l><l>I shall have done with earthly storm and
+</l><l>    stress.</l>
+<lb/>
+
+<l>So, for this day, I lay me at Thy feet.
+</l><l>O, keep me sweet, my Master! Keep
+</l><l>    me sweet!</l>
+</lg>
+</div2>
+
+<pb n="13"/>
+
+<div2 type="poem" n="2" id="d11">
+<head>Within my House</head>
+
+<lg type="poem">
+
+<l>FIRST, there's the entrance, narrow,
+</l><l>    and so small,
+</l><l>The hat-stand seems to fill the tiny hall;
+</l><l>That staircase, too, has such an awkward
+</l><l>    bend,
+</l><l>The carpet rucks, and rises up on end!
+</l><l>Then, all the rooms are cramped and close
+</l><l>    together;
+</l><l>And there's a musty smell in rainy weather.
+</l><l>Yes, and it makes the daily work go hard
+</l><l>To have the only tap across a yard.
+</l><l>These creaking doors, these draughts, this
+</l><l>    battered paint,
+</l><l>Would try, I think, the temper of a saint,</l>
+
+<lb/>
+
+<l>How often had I railed against these
+</l><l>    things,
+</l><l>With envies, and with bitter murmurings</l>
+
+<pb n="14"/>
+
+<l>For spacious rooms, and sunny garden
+</l><l>    plots!
+</l><l>Until one day,
+</l><l>Washing the breakfast dishes, so I think,
+</l><l>I paused a moment in my work to pray;
+</l><l>And then and there
+</l><l>All life seemed suddenly made new and
+</l><l>    fair;
+</l><l>For, like the Psalmist's dove among the
+</l><l>    pots
+</l><l>(Those endless pots, that filled the tiny
+</l><l>    sink!),
+</l><l>My spirit found her wings.</l>
+<lb/>
+
+<l>"Lord" (thus I prayed), "it matters not
+</l><l>    at all
+</l><l>That my poor home is ill-arranged and
+</l><l>    small:
+</l><l>I, not the house, am straitened; Lord,
+</l><l>    'tis I!
+</l><l>Enlarge my foolish heart, that by-and-by
+</l><l>I may look up with such a radiant face
+</l><l>Thou shalt have glory even in this place.
+</l><l>And when I trip, or stumble unawares
+</l><l>In carrying water up these awkward stairs.</l>
+
+<pb n="15"/>
+
+<l>Then keep me sweet, and teach me day
+</l><l>    by day
+</l><l>To tread with patience Thy appointed
+</l><l>    way.
+</l><l>As for the house . . . . Lord, let it be
+</l><l>    my part
+</l><l>To walk within it with a perfect heart."</l>
+</lg>
+</div2>
+
+<pb n="16"/>
+
+<div2 type="poem" n="3" id="d12">
+<head>The Housewife</head>
+
+<lg type="poem">
+
+<l>SEE, I am cumbered, Lord,
+</l><l>   With serving, and with small vexatious
+</l><l>things.
+</l><l>Upstairs, and down, my feet
+</l><l>Must hasten, sure and fleet.
+</l><l>So weary that I cannot heed Thy word;
+</l><l>So tired, I cannot now mount up with
+</l><l>wings.
+</l><l>I wrestle &mdash; how I wrestle! &mdash; through the
+</l><l>hours.
+</l><l>Nay, not with principalities, nor powers &mdash;
+</l><l>Dark spiritual foes of God's and man's &mdash;
+</l><l>But with antagonistic pots and pans:
+</l><l>With footmarks in the hall,
+</l><l>With smears upon the wall,
+</l><l>With doubtful ears, and small unwashen
+</l><l>hands,
+</l><l>And with a babe's innumerable demands.</l>
+
+<pb n="17"/>
+
+<l>I toil with feverish haste, while tear-drops
+</l><l>glisten,</l>
+<lb/>
+
+<l>(O, child of mine, be still. And listen &mdash;
+</l><l>listen!)</l>
+<lb/>
+
+<l>At last, I laid aside
+</l><l>Important work, no other hands could do
+</l><l>So well (I thought), no skill contrive so
+</l><l>true.
+</l><l>And with my heart's door open &mdash; open
+</l><l>wide &mdash;
+</l><l>With leisured feet, and idle hands, I sat.
+</l><l>I, foolish, fussy, blind as any bat,
+</l><l>Sat down to listen, and to learn. And lo,
+</l><l>My thousand tasks were done the better so.</l>
+</lg>
+</div2>
+
+<pb n="18"/>
+
+<div2 type="poem" n="4" id="d13">
+<head>To Mother</head>
+
+<lg type="poem">
+
+<l>I WOULD that you should know,
+</l><l>Dear mother, that I love you &mdash; love
+</l><l>you so!
+</l><l>That I remember other days and years;
+</l><l>Remember childish joys and childish fears.
+</l><l>And this, because my baby's little hand
+</l><l>Opened my own heart's door and made
+</l><l>me understand.</l>
+<lb/>
+
+<l>I wonder how you could</l>
+<l>Be always kind and good!
+</l><l>So quick to hear; to tend
+</l><l>My smallest ills; to lend
+</l><l>Such sympathising ears
+</l><l>Swifter than ancient seer's.
+</l><l>I never yet knew hands so soft and kind,
+</l><l>Nor any cheek so smooth, nor any mind
+</l><l>So full of tender thoughts. . . . Dear
+</l><l>mother, now</l>
+
+<pb n="19"/>
+
+<l>I think that I can guess a little how
+</l><l>You must have looked for some response,
+</l><l>some sign,
+</l><l>That all my tiresome wayward heart was
+</l><l>thine.</l>
+<lb/>
+
+<l>And sure it was! You were my first dear
+</l><l>love!
+</l><l>You who first pointed me to God above;
+</l><l>You who seemed hearkening to my lightest
+</l><l>word,
+</l><l>And in the dark night seasons always
+</l><l>heard
+</l><l>When I came trembling, knocking at your
+</l><l>door.
+</l><l>Forgive me, mother, if my whims outwore
+</l><l>Your patient heart. Or if in later days
+</l><l>I sought out foolish unfamiliar ways;
+</l><l>If ever, mother dear, I loosed my hold
+</l><l>Of your loved hand; or, headstrong,
+</l><l>thought you cold,
+</l><l>Forgive me, mother! Oh, forgive me,
+</l><l>dear!
+</l><l>I am come back at last &mdash; you see me
+</l><l>here.</l>
+
+<pb n="20"/>
+
+<l>Your loving child. . . . And, mother,
+</l><l>on my knee
+</l><l>I pray that thus my child may think of
+</l><l>me!</l>
+</lg>
+</div2>
+
+<pb n="21"/>
+
+<div2 type="poem" n="5" id="d14">
+<head>In Such an Hour</head>
+
+<lg type="poem">
+
+<l>SOMETIMES, when everything goes
+</l><l>wrong:
+</l><l>When days are short, and nights are long;
+</l><l>When wash-day brings so dull a sky
+</l><l>That not a single thing will dry.
+</l><l>And when the kitchen chimney smokes,
+</l><l>And when there's naught so "queer" as
+</l><l>folks!
+</l><l>When friends deplore my faded youth,
+</l><l>And when the baby cuts a tooth.
+</l><l>While John, the baby last but one,
+</l><l>Clings round my skirts till day is done;
+</l><l>When fat, good-tempered Jane is glum,
+</l><l>And butcher's man forgets to come.</l>
+<lb/>
+
+<l>Sometimes, I say, on days like these,
+</l><l>I get a sudden gleam of bliss.
+</l><l>"Not on some sunny day of ease,
+</l><l>He'll come . . but on a day like this!"</l>
+
+<pb n="22"/>
+
+<l>And, in the twinkling of an eye,
+</l><l>These tiresome things will all go by!</l>
+<lb/>
+
+<l>And, 'tis a curious thing, but Jane
+</l><l>Is sure, just then, to smile again;
+</l><l>Or, out the truant sun will peep,
+</l><l>And both the babies fall asleep.
+</l><l>The fire burns up with roar sublime,
+</l><l>And butcher's man is just in time.
+</l><l>And oh! My feeble faith grows strong
+</l><l>Sometimes, when everything goes wrong!</l>
+</lg>
+</div2>
+
+<pb n="23"/>
+
+<div2 type="poem" n="6" id="d15">
+<head>The Daily Interview</head>
+
+<lg type="poem">
+
+<l>SUCH a sensation Sundays preacher
+</l><l>made.
+</l><l>"Christian!" he cried, "what is your stock-</l><l>in-trade?
+</l><l>Alas! Too often nil. No time to pray;
+</l><l>No interview with Christ from day to day,
+</l><l>A hurried prayer, maybe, just gabbled
+</l><l>through;
+</l><l>A random text &mdash; for any one will do."
+</l><l>Then gently, lovingly, with look intense,
+</l><l>He leaned towards us &mdash;
+</l><l>"Is this common sense?
+</l><l>No person in his rightful mind will try
+</l><l>To run his business so, lest by-and-by
+</l><l>The thing collapses, smirching his good
+</l><l>name,
+</l><l>And he, insolvent, face the world with
+</l><l>shame."</l>
+
+<pb n="24"/>
+
+<l>I heard it all; and something inly said
+</l><l>That all was true. The daily toil and press
+</l><l>Had crowded out my hopes of holiness.
+</l><l>Still, my old self rose, reasoning:
+</l><l>How can you,
+</l><l>With strenuous work to do &mdash;
+</l><l>Real slogging work &mdash; say, how can you
+</l><l>keep pace
+</l><l>With leisured folks? Why, you could
+</l><l>grow in grace
+</l><l>If you had time . . . the daily Interview
+</l><l>Was never meant for those who wash and
+</l><l>bake.</l>
+<lb/>
+
+<l>But yet a small Voice whispered:
+</l><l>"For My sake
+</l><l>Keep tryst with Me!
+</l><l>There are so many minutes in a day,
+</l><l>So spare Me ten.
+</l><l>It shall be proven, then,
+</l><l>Ten minutes set apart can well repay
+</l><l>You shall accomplish more
+</l><l>If you will shut your door
+</l><l>For ten short minutes just to watch and
+</l><l>pray."</l>
+
+<pb n="25"/>
+
+<l>"Lord, if I do
+</l><l>Set ten apart for You"
+</l><l>(I dared, yes dared, to reason thus with
+</l><l>Him)
+</l><l>"The baker's sure to come;
+</l><l>Or Jane will call
+</l><l>To say some visitor is in the hall;
+</l><l>Or I shall smell the porridge burning, yes,
+</l><l>And run to stop it in my hastiness.
+</l><l>There's not ten minutes, Lord, in all the
+</l><l>day
+</l><l>I can be sure of peace in which to watch
+</l><l>and pray."</l>
+<lb/>
+
+<l>But all that night,
+</l><l>With calm insistent might,
+</l><l>That gentle Voice spake softly, lovingly &mdash;
+</l><l>"Keep tryst with Me!
+</l><l>You have devised a dozen different ways
+</l><l>Of getting easy meals on washing days;
+</l><l>You spend much anxious thought on
+</l><l>hopeless socks;
+</l><l>On moving ironmould from tiny frocks;
+</l><l>'Twas you who found
+</l><l>A way to make the sugar lumps go round;</l>
+
+<pb n="26"/>
+
+<l>You, who invented ways and means of
+</l><l>making
+</l><l>Nice spicy buns for tea, hot from the baking,
+</l><l>When margarine was short . . . and cannot
+</l><l>you
+</l><l>Who made the time to join the butter queue
+</l><l>Make time again for Me?
+</l><l>Yes, will you not, with all your daily
+</l><l>striving,
+</l><l>Use woman's wit in scheming and contriving
+</l><l>To keep that tryst with Me?"</l>
+<lb/>
+
+<l>Like ice long bound
+</l><l>On powdered frosty ground,
+</l><l>My erring will all suddenly gave way.
+</l><l>The kind soft wind of His sweet pleading
+</l><l>blew,
+</l><l>And swiftly, silently, before I knew,
+</l><l>The warm love loosed and ran.
+</l><l>Life-giving floods began,
+</l><l>And so most lovingly I answered Him:
+</l><l>"Lord, yes, I will, and can.
+</l><l>I will keep tryst with Thee, Lord, come
+</l><l>what may!"</l>
+
+<pb n="27"/>
+
+<l><q>ENVOY.</q></l>
+
+<l>  It is a wondrous and surprising thing
+</l><l>  How that ten minutes takes the piercing
+</l><l>sting
+</l><l>  From vexing circumstance and poisonous
+</l><l>dart
+</l><l>  Hurled by the enemy straight at my
+</l><l>heart.
+</l><l>  So, to the woman tempest-tossed and
+</l><l>tried
+</l><l>  By household cares, and hosts of things
+</l><l>beside,
+</l><l>  With all my strength God bids me say
+</l><l>to you:
+</l><l>  "Dear soul, do try the daily Interview!"</l>
+</lg>
+</div2>
+
+<pb n="28"/>
+
+<div2 type="poem" n="7" id="d16">
+<head>The Little House</head>
+
+<lg type="poem">
+
+<l>ONE yestereve, in the waning light,
+</l><l>When the wind was still and the
+</l><l>gloaming bright,
+</l><l>There came a breath from a far countrie,
+</l><l>And the ghost of a Little House called
+</l><l>to me.</l>
+<lb/>
+
+<l>"Have you forgotten me?" "No!" I cried.
+</l><l>"Your hall was as narrow as this is wide,
+</l><l>Your roof was leaky, the rain came
+</l><l>through
+</l><l>Till a ceiling fell, on my new frock too!</l>
+<lb/>
+
+<l>"In your parlour flooring a loose board hid,
+</l><l>And wore the carpet, you know it did!
+</l><l>Your kitchen was small, and the shelves
+</l><l>were few,
+</l><l>While the fireplace smoked &mdash; and you
+</l><l>know it's true!"</l>
+
+<pb n="29"/>
+
+<l>The little ghost sighed: "Do you quite
+</l><l>forget
+</l><l>My window boxes of mignonette?
+</l><l>And the sunny room where you used to
+</l><l>sew
+</l><l>When a great hope came to you, long ago?</l>
+<lb/>
+
+<l>"Ah, me! How you used to watch the
+</l><l>door
+</l><l>Where a latch-key turned on the stroke
+</l><l>of four.
+</l><l>And you made the tea, and you poured
+</l><l>it out
+</l><l>From an old brown pot with a broken
+</l><l>spout</l>
+<lb/>
+
+<l>"Now, times have changed. And your
+</l><l>footman waits
+</l><l>With the silver urn, and the fluted plates.
+</l><l>But the little blind Love with the wings,
+</l><l>has flown,
+</l><l>Who used to sit by your warm hearthstone."</l>
+
+<pb n="30"/>
+
+<l>The little ghost paused. Then "Away!"
+</l><l>I said.
+</l><l>"Back to your place with the quiet dead.
+</l><l>Back to your place, lest my servants see,
+</l><l>That the ghost of a Little House calls
+</l><l>to me."</l>
+</lg>
+</div2>
+
+<pb n="31"/>
+
+<div2 type="poem" n="8" id="d17">
+<head>The House-Mother</head>
+
+<lg type="poem">
+
+<l>ACROSS the town the evening bell is
+</l><l>ringing;
+</l><l>Clear comes the call, through kitchen
+</l><l>windows winging!</l>
+<lb/>
+
+<l>Lord, knowing Thou art kind,
+</l><l>I heed Thy call to prayer.
+</l><l>I have a soul to save;
+</l><l>A heart which needs, I think, a double
+</l><l>share
+</l><l>Of sweetnesses which noble ladies crave.
+</l><l>Hope, faith and diligence, and patient
+</l><l>care,
+</l><l>With meekness, grace, and lowliness of
+</l><l>mind.
+</l><l>Lord, wilt Thou grant all these
+</l><l>To one who prays, but cannot sit at ease?</l>
+
+<pb n="32"/>
+
+<l>They do not know,
+</l><l>The passers-by, who go
+</l><l>Up to Thy house, with saintly faces set;
+</l><l>Who throng about Thy seat,
+</l><l>And sing Thy praises sweet,
+</l><l>Till vials full of odours cloud Thy feet;
+</l><l>They do not know . . .
+</l><l>And, if they knew, then would they greatly
+</l><l>care
+</l><l>That Thy tired handmaid washed the
+</l><l>children's hair;
+</l><l>Or, with red roughened hands, scoured
+</l><l>dishes well,
+</l><l>While through the window called the
+</l><l>evening bell?
+</l><l>And that her seeking soul looks upward
+</l><l>yet,
+</l><l><hi rend="italic">They</hi> do not know . . . but <hi rend="italic">Thou</hi> wilt
+</l><l>    not forget</l>
+</lg>
+</div2>
+
+<pb n="33"/>
+
+<div2 type="poem" n="9" id="d18">
+<head>A Woman in Hospital</head>
+
+<lg type="poem">
+
+<l><hi rend="italic">I KNOW it all . . . I know.
+</hi></l><l><hi rend="italic">For I am God. I am Jehovah, He
+</hi></l><l><hi rend="italic">Who made you what you are; and I can
+</hi></l><l><hi rend="italic">see
+</hi></l><l><hi rend="italic">The tears that wet your pillow night by
+</hi></l><l><hi rend="italic">night,
+</hi></l><l><hi rend="italic">When nurse has lowered that too-brilliant
+</hi></l><l><hi rend="italic">light;
+</hi></l><l><hi rend="italic">When the talk ceases, and the ward grows
+</hi></l><l><hi rend="italic">still,
+</hi></l><l><hi rend="italic">And you have doffed your will:
+</hi></l><l><hi rend="italic">I know the anguish and the helplessness.
+</hi></l><l><hi rend="italic">I know the fears that toss you to and fro.
+</hi></l><l><hi rend="italic">And how you wrestle, weariful,
+</hi></l><l><hi rend="italic">With hosts of little strings that pull
+</hi></l><l><hi rend="italic">About your heart, and tear it so.
+</hi></l><l><hi rend="italic">I know.</hi></l>
+
+<pb n="34"/>
+
+<l>Lord, do You know
+</l><l>I had no time to put clean curtains up;
+</l><l>No time to finish darning all the socks;
+</l><l>Nor sew clean frilling in the children's
+</l><l>frocks?
+</l><l>And do You know about my Baby's cold?
+</l><l>And how things are with my sweet three-</l><l>year-old?
+</l><l>Will Jane remember right
+</l><l>Their cough mixture at night?
+</l><l>And will she ever think
+</l><l>To brush the kitchen flues, or scrub the
+</l><l>sink?
+
+</l><l>And then, there's John! Poor tired
+</l><l>lonely John!
+</l><l>No one will run to put his slippers on.
+</l><l>And not a soul but me
+</l><l>Knows just exactly how he likes his tea.
+</l><l>It rends my heart to think I cannot go
+</l><l>And minister to him. . . .
+
+</l><l><hi rend="italic">I know. I know.</hi>
+
+</l><l>Then, there are other things,
+</l><l>Dear Lord . . . more little strings</l>
+
+<pb n="35"/>
+
+<l>That pull my heart. Now Baby feels her
+</l><l>feet
+</l><l>She loves to run outside into the street
+</l><l>And Jane's hands are so full, she'll never
+</l><l>see. . . .
+</l><l>And I'm quite sure the clean clothes won't
+</l><l>be aired &mdash;
+</l><l>At least, not properly.
+</l><l>And, oh, I can't, I really can't be spared &mdash;
+</l><l>My little house calls so!
+
+</l><l><hi rend="italic">I know.
+</hi></l><l><hi rend="italic">And I am waiting here to help and bless.
+</hi></l><l><hi rend="italic">Lay down your head. Lay down your hopelessness
+</hi></l><l><hi rend="italic">And let Me speak.
+</hi></l><l><hi rend="italic">You are so weary, child, you are so weak.
+</hi></l><l><hi rend="italic">But let us reason out
+</hi></l><l><hi rend="italic">The darkness and the doubt;
+</hi></l><l><hi rend="italic">This torturing fear that tosses you about.
+
+</hi></l><l><hi rend="italic">I hold the universe. I count the stars.
+</hi></l><l><hi rend="italic">And out of shortened lives I build the
+</hi></l><l><hi rend="italic">ages. . . .</hi></l>
+
+<pb n="36"/>
+
+<l>But, Lord, while such high things Thy
+</l><l>thought engages,
+</l><l>I fear &mdash; forgive me &mdash; lest
+</l><l>Amid those limitless eternal spaces
+</l><l>Thou shouldest, in the high and heavenly
+</l><l>places,
+</l><l>Pass over my affairs as things of nought.
+</l><l>There are so many houses just like mine.
+</l><l>And I so earth-bound, and Thyself Divine.
+</l><l>It seems impossible that Thou shouldst
+</l><l>care
+</l><l>Just what my babies wear;
+</l><l>And what John gets to eat; . . . and
+</l><l>can it be
+</l><l>A circumstance of great concern to Thee
+</l><l>Whether I live or die?
+
+</l><l><hi rend="italic">Have you forgotten then, My child, that I,
+</hi></l><l><hi rend="italic">The Infinite, the Limitless, laid down
+</hi></l><l><hi rend="italic">The method of existence that I knew,
+</hi></l><l><hi rend="italic">And took on Me a nature just like you?
+</hi></l><l><hi rend="italic">I laboured day by day
+</hi></l><l><hi rend="italic">In the same dogged way
+</hi></l><l><hi rend="italic">That you have tackled household tasks.
+</hi></l><l><hi rend="italic">And then,</hi></l>
+
+<pb n="37"/>
+
+<l><hi rend="italic">Remember, child, remember once again
+</hi></l><l><hi rend="italic">Your own beloveds . . . did you really
+</hi></l><l><hi rend="italic">think &mdash;
+</hi></l><l><hi rend="italic">(Those days you toiled to get their meat
+</hi></l><l><hi rend="italic">and drink,
+</hi></l><l><hi rend="italic">And made their clothes, and tried to understand
+</hi></l><l><hi rend="italic">Their little ailments) &mdash; did you think your
+</hi></l><l><hi rend="italic">hand,
+</hi></l><l><hi rend="italic">Your feeble hand, was keeping them from ill?
+</hi></l><l><hi rend="italic">I gave them life, and life is more than meat;
+</hi></l><l><hi rend="italic">Those little limbs, so comely and so sweet.
+</hi></l><l><hi rend="italic">You can make raiment for them, and are glad,
+</hi></l><l><hi rend="italic">But can you add
+</hi></l><l><hi rend="italic">One cubit to their stature? Yet they grow!
+</hi></l><l><hi rend="italic">Oh, child, hands off! Hands off! And
+</hi></l><l><hi rend="italic">leave them so.
+</hi></l><l><hi rend="italic">I guarded hitherto, I guard them still.
+<lb/>
+</hi></l><l>I have let go at last. I have let go.
+</l><l>And, oh, the rest it is, dear God, to know
+</l><l>My dear ones are so safe, for Thou wilt
+</l><l>keep.
+</l><l>Hands off, at last! Now, I can go to
+</l><l>sleep.</l>
+</lg>
+</div2>
+
+<pb n="38"/>
+
+<div2 type="poem" n="10" id="d19">
+<head>In Convalescence</head>
+
+<lg type="poem">
+
+<l>NOT long ago, I prayed for dying
+</l><l>grace,
+</l><l>For then I thought to see Thee face to
+</l><l>face.
+
+</l><l>And now I ask (Lord, 'tis a weakling's
+</l><l>cry)
+</l><l>That Thou wilt give me grace to live, not
+</l><l>die.
+
+</l><l>Such foolish prayers! I know. Yet
+</l><l>pray I must.
+</l><l>Lord help me &mdash; help me not to see the
+</l><l>dust!
+
+</l><l>And not to nag, nor fret because the blind
+</l><l>Hangs crooked, and the curtain sags behind.</l>
+
+<pb n="39"/>
+
+<l>But, oh! The kitchen cupboards! What a
+</l><l>sight!
+</l><l>'T'will take at least a month to get them
+</l><l>right.
+
+</l><l>And that last cocoa had a smoky taste,
+</l><l>And all the milk has boiled away to waste!
+
+</l><l>And &mdash; no, I resolutely will not think
+</l><l>About the saucepans, nor about the sink.
+
+</l><l>These light afflictions are but temporal
+</l><l>things &mdash;
+</l><l>To rise above them, wilt Thou lend me
+</l><l>wings?
+
+</l><l>Then I shall smile when Jane, with towzled
+</l><l>hair
+</l><l>(And lumpy gruel!), clatters up the stair.</l>
+</lg>
+</div2>
+
+<pb n="40"/>
+
+<div2 type="poem" n="11" id="d20">
+<head>Homesick</head>
+
+<lg type="poem">
+
+<l>I SHUT my eyes to rest 'em, just a bit
+</l><l>ago it seems,
+</l><l>An' back among the Cotswolds I were
+</l><l>wanderin' in me dreams.
+</l><l>I saw the old grey homestead, with the
+</l><l>rickyard set around,
+</l><l>An' catched the lowin' of the herd, a
+</l><l>pleasant, homelike sound.
+</l><l>Then on I went a-singin', through the
+</l><l>pastures where the sheep
+</l><l>Was lyin' underneath the elms, a-tryin' for
+</l><l>to sleep.
+
+</l><l>An' where the stream was tricklin' by, half
+</l><l>stifled by the grass,
+</l><l>Heaped over thick with buttercups, I saw
+</l><l>the corncrake pass.
+</l><l>For 'twas Summer, Summer, SUMMER!
+</l><l>An' the blue forget-me-nots</l>
+
+<pb n="41"/>
+
+<l>Wiped out this dusty city and the smoky
+</l><l>chimbley pots.
+</l><l>I clean forgot My Lady's gown, the
+</l><l>dazzlin' sights I've seen;
+</l><l>I was back among the Cotswolds, where
+</l><l>me heart has always been.
+
+</l><l>Then through the sixteen-acre on I went,
+</l><l>a stiffish climb,
+</l><l>Right to the bridge, where all our sheep
+</l><l>comes up at shearin' time.
+</l><l>There was the wild briar roses hangin'
+</l><l>down so pink an' sweet,
+</l><l>A-droppin' o' their fragrance on the clover
+</l><l>at my feet
+</l><l>An' here me heart stopped beatin', for
+</l><l>down by Gatcombe's Wood
+</l><l>My lad was workin' with his team, as only
+</l><l>my lad could!
+
+</l><l><hi rend="italic">"Come back!"</hi> was what the tricklin' brook
+</l><l>an' breezes seemed to say.
+</l><l><hi rend="italic">"'Tis lonesome on the Cotswolds now that</hi>
+</l><l><hi rend="italic">Mary Drew's away</hi>."</l>
+
+<pb n="42"/>
+
+<l>An' back again I'm goin' (for me wages
+</l><l>has been paid,
+</l><l>An' they're lookin' through the papers for
+</l><l>another kitchen maid).
+</l><l>Back to the old grey homestead, an' the
+</l><l>uplands cool an' green,
+</l><l>To my lad among the Cotswolds, where
+</l><l>me heart has always been!</l>
+</lg>
+</div2>
+
+<pb n="43"/>
+
+<div2 type="poem" n="12" id="d21">
+<head>On Washing Day</head>
+
+<lg type="poem">
+
+<l>"I'M going to gran'ma's for a bit
+</l><l>My mother's got the copper lit;
+</l><l>An' piles of clothes are on the floor,
+</l><l>An' steam comes out the wash-house door;
+</l><l>An' Mrs. Griggs has come, an' she
+</l><l>Is just as cross as she can be.
+</l><l>She's had her lunch, and ate a lot;
+</l><l>I saw her squeeze the coffee-pot.
+</l><l>An' when I helped her make the starch,
+</l><l>She said: 'Now, Miss, you just quick
+</l><l>march!
+</l><l>What? Touch them soap-suds if you
+</l><l>durst;
+</l><l>I'll see you in the blue-bag first!'
+</l><l>An' mother dried my frock, an' said:
+</l><l>'Come back in time to go to bed.'
+</l><l>I'm off to gran'ma's, for, you see,
+</l><l>At home, they can't put up with me.
+
+<pb n="44"/>
+
+</l><l>"But down at gran'ma's 'tis so nice.
+</l><l>If gran'ma's making currant-cake,
+</l><l>She'll let me put the ginger spice,
+</l><l>An' grease the tin, an' watch it bake;
+</l><l>An' then she says she thinks it fun
+</l><l>To taste the edges when it's done.</l>
+<lb/>
+
+<l>"That's gran'ma's house. Why, hip,
+</l><l>hooray!
+</l><l>My gran'ma's got a washing day;
+</l><l>For gran'pa's shirts are on the line,
+</l><l>An' stockings, too &mdash; six, seven, eight, nine!
+</l><l>She'll let me help her. Yes, she'll tie
+</l><l>Her apron round to keep me dry;
+</l><l>An' on her little stool I'll stand
+</l><l>Up to the wash-tub. 'Twill be grand!
+</l><l>There's no cross Mrs. Griggs to say,
+</l><l>'Young Miss is always in the way.'
+</l><l>An' me and gran'ma will have tea
+</l><l>At dinner-time &mdash; just her an' me &mdash;
+</l><l>An' eggs, I 'spect, an' treacle rice.
+</l><l>My goodness! Won't it all be nice?</l>
+<lb/>
+
+<l>"Gran'ma, I'm come to spend the day,
+</l><l>'Cause mother finds me in the way.</l>
+
+<pb n="45"/>
+
+<l>Gran'ma, I'll peg the hankies out;
+</l><l>Gran'ma, I'll stir the starch about;
+</l><l>Gran'ma, I'm come, because, you see,
+</l><l>At home, they can't put up with me."</l>
+</lg>
+</div2>
+
+<pb n="46"/>
+
+<div2 type="poem" n="13" id="d22">
+<head>When Baby Strayed</head>
+
+<lg type="poem">
+
+<l>WHEN Baby strayed, it seemed to
+</l><l>me,
+</l><l>Sun, moon and stars waned suddenly.
+<lb/>
+</l><l>At once, with frenzied haste, my feet
+</l><l>Ran up and down the busy street.
+<lb/>
+</l><l>If ever in my life I prayed,
+</l><l>It was the evening Baby strayed.
+<lb/>
+</l><l>And yet my great concern was this
+</l><l>(Not dread of losing Baby's kiss,
+<lb/>
+</l><l>And Baby's soft small hand in mine,
+</l><l>And Baby's comradeship divine),
+<lb/>
+</l><l>'Twas <hi rend="italic">Baby's</hi> terror, <hi rend="italic">Baby's</hi> fears!
+</l><l>Whose hand but mine could dry her
+</l><l>tears?
+
+<pb n="47"/>
+
+</l><l>I without Baby? In my need
+</l><l>I were a piteous soul indeed.
+<lb/>
+</l><l>But piteous far, beyond all other,
+</l><l>A little child without a mother.
+<lb/>
+</l><l>And God, in mercy, graciously
+</l><l>Gave my lost darling back to me.
+<lb/>
+</l><l>O high and lofty One!
+</l><l><hi rend="italic">Thou</hi> couldst have lived to all eternity
+</l><l>Apart from <hi rend="italic">me!</hi>
+</l><l>In majesty, upon that emerald throne.
+</l><l>Thou, with Thy morning stars,
+</l><l>Thy dawns, with golden bars,
+</l><l>And all the music of the heavenly train.
+</l><l>Possessing all things, what hadst Thou to
+</l><l>gain
+</l><l>By seeking me?
+</l><l>What was I? . . . and, what am I? . . .
+</l><l>less than nought.
+</l><l>And yet Thy mercy sought.
+</l><l>Yea, Thou hast set my feet
+</l><l>Upon the way of holiness, and sweet
+</l><l>It is, to seek Thee daily, unafraid . . .
+
+<pb n="48"/>
+
+</l><l>But (this I learnt the night that Baby
+</l><l>strayed)
+</l><l>Here was Thy chief, Thy great concern
+</l><l>for me:
+</l><l>My desolate estate, apart from Thee!</l>
+</lg>
+</div2>
+
+<pb n="49"/>
+
+<div2 type="poem" n="14" id="d23">
+<head>If Only &mdash;</head>
+
+<lg type="poem">
+
+<l>IF only dinner cooked itself,
+</l><l>And groceries grew upon the shelf;
+</l><l>If children did as they were told,
+</l><l>And never had a cough or cold;
+</l><l>And washed their hands, and wiped their
+</l><l>boots,
+</l><l>And never tore their Sunday suits,
+</l><l>But always tidied up the floor,
+</l><l>Nor once forgot to shut the door.
+<lb/>
+</l><l>If John remembered not to throw
+</l><l>His papers on the ground. And oh!
+</l><l>If he would put his pipes away,
+</l><l>And shake the ashes on the tray
+</l><l>Instead of on the floor close by;
+</l><l>And always spread his towel to dry,
+</l><l>And hung his hat upon the peg,
+</l><l>And never had bones in his leg.
+
+<pb n="50"/>
+
+</l><l>Then, there's another thing. If Jane
+</l><l>Would put the matches back again
+</l><l>Just where she found them, it would be
+</l><l>A save of time to her and me.
+</l><l>And if she never did forget
+</l><l>To put the dustbin out; nor yet
+</l><l>Contrive to gossip with the baker,
+</l><l>Nor need ten thunderbolts to wake her.
+<lb/>
+</l><l>Ahem! If wishes all came true,
+</l><l>I don't know what I'd find to do,
+</l><l>Because if no one made a mess
+</l><l>There'd be no need of cleanliness.
+</l><l>And things might work so blissfully,
+</l><l>In time &mdash; who knows? &mdash; they'd not need
+</l><l>me!
+<lb/>
+</l><l>And this being so, I fancy whether
+</l><l>I'll go on keeping things together.</l>
+</lg>
+</div2>
+
+<pb n="51"/>
+
+<div2 type="poem" n="51" id="d24">
+<head>Listening</head>
+
+<lg type="poem">
+
+<l>HIS step? Ah, no; 'tis but the rain
+</l><l>That hurtles on the window pane.
+</l><l>Let's draw the curtains close and sit
+</l><l>Beside the fire awhile and knit.
+</l><l>Two purl &mdash; two plain. A well-shaped
+</l><l>sock,
+</l><l>And warm. (I thought I heard a knock,
+</l><l>But 'twas the slam of Jones's door.)
+</l><l>Yes, good Scotch yarn is far before
+</l><l>The fleecy wools &mdash; a different thing,
+</l><l>And best for wear. (Was that his ring?)
+</l><l>No. 'Tis the muffin man I see;
+</l><l>We'll have threepennyworth for tea.
+</l><l>Two plain &mdash; two purl; that heel is neat.
+</l><l>(I hear his step far down the street.)
+</l><l>Two purl &mdash; two plain. The sock can
+</l><l>wait;
+</l><l>I'll make the tea. (He's at the gate!)</l>
+</lg>
+</div2>
+
+<pb n="52"/>
+
+<div2 type="poem" n="16" id="d25">
+<head>The Dear Folks in Devon</head>
+
+<lg type="poem">
+
+<l>BACK in the dear old country 'tis Christmas,
+</l><l>and to-night
+</l><l>I'm thinking of the mistletoe and holly
+</l><l>berries bright.
+</l><l>The smoke above our chimbley pots I'd
+</l><l>dearly love to see,
+</l><l>And those dear folks down in Devon,
+</l><l>how they'll talk and think of me.
+<lb/>
+</l><l>Owd Ben'll bring the letters, Christmas
+</l><l>morn, and if there's one
+</l><l>As comes across from Canada straight
+</l><l>from their absent son,
+</l><l>My Mother's hands'll tremble, and my
+</l><l>Dad'll likely say:
+</l><l>"Don't seem like Christmas time no more,
+</l><l>with our dear lad away."
+
+<pb n="53"/>
+
+</l><l>I can see 'em carve the Christmas beef,
+</l><l>and Brother Jimmy's wife
+</l><l>Will say her never tasted such, no, not in
+</l><l>all her life.
+</l><l>And Sister Martha's Christmas pies melt
+</l><l>in your mouth, 'tis true,
+</l><l>But 'twas Mother made the puddin', as
+</l><l>mothers always do!
+<lb/>
+</l><l>Ah me! If I could just have wings, and
+</l><l>in the dimsey light
+</l><l>Go stealing up the cobbled path this
+</l><l>lonesome Christmas night,
+</l><l>Lift up the latch with gentle hand &mdash; My!
+</l><l>What a shout there'd be!
+</l><l>From those dear folks down in Devon!
+</l><l>What a welcomin' for me!</l>
+</lg>
+</div2>
+
+<pb n="54"/>
+
+<div2 type="poem" n="17" id="d26">
+<head>The Reason</head>
+
+<lg type="poem">
+
+<l><q>"Why shouldest Thou be as a wayfaring man, that<lb/>
+turneth aside to tarry for a night?" &mdash; Jer. xiv. 8.</q></l>
+<lb/>
+<l>NAY, do not get the venison pasty
+</l><l>out;
+</l><l>I shall not greatly put myself about
+</l><l>Hungry, he may be; yes, and we shall
+</l><l>spare
+</l><l>Some bread and cheese, 'tis truly wholesome
+</l><l>fare.
+</l><l>We have to-morrow's dinner still to find;
+</l><l>It's well for you I have a frugal mind.
+<lb/>
+</l><l>Not the best bed! No, no. Whatever
+</l><l>next?
+</l><l>Why with such questionings should I be
+</l><l>vext?
+</l><l>The man is naught to us; why should
+</l><l>we care?
+</l><l>The little attic room will do; 'tis bare,
+
+<pb n="55"/>
+
+</l><l>But he'll be gone before to-morrow's light;
+</l><l>He has but come to tarry for a night.
+<lb/>
+</l><l>I shall not speak with him. Oh, no, not I,
+</l><l>Lest I should pity overmuch, or buy
+</l><l>Some paltry ware of his. Nay, I'll to
+</l><l>bed,
+</l><l>And he can sup alone, well warmed and
+</l><l>fed;
+</l><l>'Tis much to take him in a night like this.
+</l><l>Why should I fret me with concerns of
+</l><l>his?
+<lb/>
+</l><l>Grey morning came, and at the break of
+</l><l>day
+</l><l>The Man rose up and went upon his way</l>
+</lg>
+</div2>
+
+<pb n="56"/>
+
+<div2 type="poem" n="18" id="d27">
+<head>Two Women</head>
+
+<lg type="poem">
+
+<epigraph>
+<q>"I beseech Euodias, and beseech Syntyche, that they<lb/>
+be of the same mind in the Lord" &mdash; Phil. iv. 2,</q>
+</epigraph>
+
+<l><q>EUODIAS.</q></l>
+<lb/>
+<l>BUT if Paul heard her tattlings, I am
+</l><l>sure
+</l><l>He never would expect me to endure.
+</l><l>There is a something in her very face
+</l><l>Antagonistic to the work of grace.
+</l><l>And even when I would speak graciously
+</l><l>Somehow, Syntyche's manner ruffles me.
+<lb/>
+</l><l><q>SYNTYCHE.</q>
+<lb/>
+</l><l>No, not for worlds! Euodias has no
+</l><l>mind;
+</l><l>So slow she is, so spiritually blind.
+</l><l>Her tongue is quite unbridled, yet she
+</l><l>says
+</l><l>She grieves to see my aggravating ways
+</l><l>Ah, no one but myself knows perfectly
+</l><l>How odious Euodias can be!
+
+<pb n="57"/>
+
+</l><l><q>EUODIAS.</q></l>
+<lb/>
+<l>Yet, "in the Lord." Ah, that's another
+</l><l>thing!
+<lb/>
+</l><l><q>SYNTYCHE.</q>
+<lb/>
+</l><l>Yet, "in the Lord." That alters it indeed.
+<lb/>
+</l><l><q>EUODIAS.</q>
+<lb/>
+</l><l>For His sake I'll endure her whispering
+<lb/>
+</l><l><q>SYNTYCHE.</q>
+<lb/>
+</l><l>For His sake I'll consent to let her lead.
+<lb/>
+</l><l><q>EUODIAS.</q>
+<lb/>
+</l><l>Lord, teach me to forbear; yes, day by
+</l><l>day.
+<lb/>
+</l><l><q>SYNTYCHE.</q>
+<lb/>
+</l><l>Lord, keep me gentle now, and all the
+</l><l>way.</l>
+</lg>
+</div2>
+
+<pb n="58"/>
+
+<div2 type="poem" n="19" id="d28">
+<head>The Prize Fight</head>
+
+<lg type="poem">
+
+<epigraph><q>"I am a boxer, who does not inflict blows on the air,
+<lb/>but I hit hard and straight at my own body." &mdash; 1 Cor.
+<lb/>ix. 26 (WEYMOUTH'S Translation).</q></epigraph>
+
+<lb/>
+<l>'T'WAS breakfast time, and outside in
+</l><l>the street
+</l><l>The factory men went by with hurrying
+</l><l>feet.
+</l><l>And on the bridge, in dim December light,
+</l><l>The newsboys shouted of the great prize
+</l><l>fight.
+</l><l>Then, as I dished the bacon, and served
+</l><l>out
+</l><l>The porridge, all our youngsters gave
+</l><l>a shout.
+</l><l>The letter-box had clicked, and through
+</l><l>the din
+</l><l>The <hi rend="italic">Picture News</hi> was suddenly pushed in.
+
+<pb n="59"/>
+
+</l><l>John showed the lads the pictures, and
+</l><l>explained
+</l><l>Just how the fight took place, and what
+</l><l>was gained
+</l><l>By that slim winner. Then, he looked at me
+</l><l>As I sat, busy, pouring out the tea:
+</l><l>"Your mother is a boxer, rightly styled.
+</l><l>She hits the air sometimes, though," and
+</l><l>John smiled.
+</l><l>"Yet she fights on." Young Jack, with
+</l><l>widened eyes
+</l><l>Said: "Dad, how soon will mother get a
+</l><l>prize?"
+<lb/>
+</l><l>We laughed. And yet it set me thinking,
+</l><l>how
+</l><l>I beat the air, because a neighbour's cow
+</l><l>Munched at our early cabbages, and ate
+</l><l>The lettuce up, and tramped my mignonette!
+</l><l>And many a time I kicked against the
+</l><l>pricks
+</l><l>Because the little dog at number six
+</l><l>Disturbed my rest. And then, how cross
+</l><l>I got
+
+<pb n="60"/>
+
+</l><l>When Jane seemed discontented with her
+</l><l>lot.
+</l><l>Until poor John in desperation said
+</l><l>He wearied of the theme &mdash; and went to
+</l><l>bed!
+<lb/>
+</l><l>And how I vexed myself that day, when he
+</l><l>Brought people unexpectedly for tea,
+</l><l>Because the table-cloth was old and
+</l><l>stained,
+</l><l>And not a single piece of cake remained.
+</l><l>And how my poor head ached! Because,
+</l><l>well there!
+</l><l>It uses lots of strength to beat the air!
+<lb/>
+</l><l>"I am a boxer!" Here and now I pray
+</l><l>For grace to hit the self-life every day.
+</l><l>And when the old annoyance comes once
+</l><l>more
+</l><l>And the old temper rises sharp and sore,
+</l><l>I shall hit hard and straight, O Tender-</l><l>Wise,
+</l><l>And read approval in Thy loving eyes.</l>
+</lg>
+</div2>
+
+<pb n="61"/>
+
+<div2 type="poem" n="20" id="d29">
+<head>The Home Lights</head>
+
+<lg type="poem">
+
+<l>"IN my father's house!" The words
+</l><l>Bring sweet cadence to my ears.
+</l><l>Wandering thoughts, like homing birds,
+</l><l>Fly all swiftly down the years,
+</l><l>To that wide casement, where I always see
+</l><l>Bright love-lamps leaning out to welcome
+</l><l>me.
+<lb/>
+</l><l>Sweet it was, how sweet to go
+</l><l>To the worn, familiar door.
+</l><l>No need to stand a while, and wait,
+</l><l>Outside the well-remembered gate;
+</l><l>No need to knock;
+</l><l>The easy lock
+</l><l>Turned almost of itself, and so
+</l><l>My spirit was "at home" once more.
+</l><l>And then, within, how good to find
+</l><l>The same cool atmosphere of peace,
+
+<pb n="62"/>
+
+</l><l>Where I, a tired child, might cease
+</l><l>To grieve, or dread,
+</l><l>Or toil for bread.
+</l><l>I could forget
+</l><l>The dreary fret.
+</l><l>The strivings after hopes too high,
+</l><l>I let them every one go by.
+</l><l>The ills of life, the blows unkind,
+</l><l>These fearsome things were left behind.
+<lb/>
+</l><l><q>ENVOY.</q>
+<lb/>
+</l><l>  O trembling soul of mine,
+</l><l>  See how God's mercies shine!
+</l><l>  When thou shalt rise,
+</l><l>  And, stripped of earth, shall stand
+</l><l>  Within an Unknown Land;
+</l><l>  Alone, where no familiar thing
+</l><l>  May bring familiar comforting;
+</l><l>  Look up! 'Tis but thy Father's
+</l><l> House! And, see
+</l><l>  His love-lamps leaning out to welcome
+</l><l> thee!</l>
+</lg>
+</div2>
+
+<pb n="63"/>
+
+<div2 type="poem" n="21" id="d30">
+<head>To an Old Teapot</head>
+
+<lg type="poem">
+
+<l>NOW from the dust of half-forgotten
+</l><l>things,
+</l><l>You rise to haunt me at the year's Spring-</l><l>cleaning,
+</l><l>And bring to memory dim imaginings
+</l><l>Of mystic meaning.
+<lb/>
+</l><l>No old-time potter handled you, I ween,
+</l><l>Nor yet were you of gold or silver molten;
+</l><l>No Derby stamp, nor Worcester, can be
+</l><l>seen,
+</l><l>Nor Royal Doulton.
+<lb/>
+</l><l>You never stood to grace the princely
+</l><l>board
+</l><l>Of monarchs in some Oriental palace.
+</l><l>Your lid is chipped, your chubby side is
+</l><l>scored
+</l><l>As if in malice.
+
+<pb n="64"/>
+
+</l><l>I hesitate to say it, but your spout
+</l><l>Is with unhandsome rivets held together &mdash;
+</l><l>Mute witnesses of treatment meted out
+</l><l>In regions nether.
+<lb/>
+</l><l>O patient sufferer of many bumps!
+</l><l>I ask it gently &mdash; shall the dustbin hold
+</l><l>you?
+</l><l>And will the dust-heap, with its cabbage
+</l><l>stumps,
+</l><l>At last enfold you?
+<lb/>
+</l><l>It ought. And yet with gentle hands I
+</l><l>place
+</l><l>You with my priceless Delft and Dresden
+</l><l>china,
+</l><l>For sake of one who loved your homely
+</l><l>face
+</l><l>In days diviner.</l>
+</lg>
+</div2>
+
+<pb n="65"/>
+
+<div2 type="poem" n="22" id="d31">
+<head>To a Rebellious Daughter</head>
+
+<lg type="poem">
+
+<l>YOU call authority "a grievous thing."
+</l><l>With careless hands you snap the
+</l><l>leading string,
+</l><l>And, for a frolic (so it seems to you),
+</l><l>Put off the old love, and put on the new.
+<lb/>
+</l><l>For "What does Mother know of love?"
+</l><l>you say.
+</l><l>"Did her soul ever thrill?
+</l><l>Did little tendernesses ever creep
+</l><l>Into her dreams, and over-ride her will?
+</l><l>Did her eyes shine, or her heart ever leap
+</l><l>As my heart leaps to-day?
+</l><l>I, who am young; who long to try my
+</l><l>wings!
+<lb/>
+</l><l>How should she understand,
+</l><l>She, with her calm cool hand?
+
+<pb n="66"/>
+
+</l><l>She never felt such yearnings? And,
+</l><l>beside,
+</l><l>It's clear I can't be tied
+</l><l>For ever to my mother's apron strings."
+<lb/>
+</l><l>There are Infinities of Knowledge, dear.
+</l><l>And there are mysteries, not yet made
+</l><l>clear
+</l><l>To you, the Uninitiate. . . . Life's book
+</l><l>Is open, yes; but you may only look
+</l><l>At its first section. Youth
+</l><l>Is part, not all, the truth.
+</l><l>It is impossible that you should see
+</l><l>The end from the beginning perfectly.
+<lb/>
+</l><l>You answer: "Even so.
+</l><l>But how can Mother know,
+</l><l>Who meditates upon the price of bacon?
+</l><l>On 'liberties' the charwoman has taken,
+</l><l>And on the laundry's last atrocities?
+</l><l>She knows her cookery book,
+</l><l>And how a joint of English meat should
+</l><l>look.
+</l><l>But all such things as these
+
+<pb n="67"/>
+
+</l><l>Make up her life. She dwells in tents,
+</l><l>but I
+</l><l>In a vast temple open to the sky."
+<lb/>
+</l><l>Yet, time was, when that Mother stooped
+</l><l>to learn
+</l><l>The language written in your infant face.
+</l><l>For years she walked your pace,
+</l><l>And none but she interpreted your chatter.
+</l><l>Who else felt interest in such pitter-patter?
+</l><l>Or, weary, joined in all your games with
+</l><l>zest,
+</l><l>And managed with a minimum of rest?
+</l><l>Now, is it not your turn
+</l><l>To bridge the gulf, to span the gap between
+</l><l>you?
+</l><l>To-day, before Death's angel over-lean
+</l><l>you,
+</l><l>Before your chance is gone?
+</l><l>This is worth thinking on.
+<lb/>
+</l><l>"Are mothers blameless, then?" Nay,
+</l><l>dearie, nay.
+</l><l>Nor even tactful, always. Yet there may
+
+<pb n="68"/>
+
+</l><l>Come some grey dawning in the by
+</l><l>and by,
+</l><l>When, no more brave, nor sure, nor strong,
+</l><l>you'll cry
+</l><l>Aloud to God, for that despised thing,
+</l><l>The old dear comfort &mdash; Mother's apron
+</l><l>string.</l>
+</lg>
+</div2>
+
+<pb n="69"/>
+
+<div2 type="poem" n="23" id="d32">
+<head>For Mothering!</head>
+
+<lg type="poem">
+
+<l>UP to the Hall, my lady there'll wear
+</l><l>her satin gown,
+</l><l>For little Miss and Master'll be coming
+</l><l>down from town.
+</l><l>Oh ay, the childern's coming! The
+</l><l><hi rend="italic">childern</hi> did I say?
+</l><l>Of course, they're man and woman grown,
+</l><l>this many and many a day.
+</l><l>But still, my lady's mouth do smile, and
+</l><l>squire looks fit to sing,
+</l><l>As Master John and Miss Elaine is coming
+</l><l>Mothering.
+<lb/>
+</l><l>Then down to Farmer Westacott's, there's
+</l><l>doings fine and grand,
+</l><l>Because young Jake is coming home from
+</l><l>sea, you understand.
+</l><l>Put into port but yesternight, and when
+</l><l>he steps ashore,
+
+<pb n="70"/>
+
+</l><l>'Tis coming home the laddie is, to Somerset
+</l><l>once more.
+</l><l>And so her's baking spicy cakes, and stirring
+</l><l>raisins in,
+</l><l>To welcome of her only chick, who's
+</l><l>coming Mothering.
+<lb/>
+</l><l>And what of we? And ain't we got no
+</l><l>childern for to come?
+</l><l>Well, yes! There's Sam and Henery,
+</l><l>and they'll be coming home.
+</l><l>And Ned is very nigh six foot, and Joe is
+</l><l>six foot three!
+</l><l>But childern still to my good man, and
+</l><l>childern still to me!
+</l><l>And all the vi'lets seem to know, and all
+</l><l>the thrushes sing,
+</l><l>As how our Kate, and Bess and Flo is
+</l><l>coming Mothering.</l>
+</lg>
+</div2>
+
+<pb n="71"/>
+
+<div2 type="poem" n="24" id="d33">
+<head>Little Fan</head>
+
+<lg type="poem">
+
+<l>WHEN little Fanny came to town, I
+</l><l>felt as I could sing!
+</l><l>She were the sprackest little maid, the
+</l><l>sharpest, pertest thing.
+</l><l>Her mother were as proud as punch, and
+</l><l>as for I &mdash; well, there!
+</l><l>I never see sich gert blue eyes, I never
+</l><l>see sich hair!
+</l><l>"If all the weans in Somerset," says I,
+</l><l>"was standin' here,
+</l><l>Not one could hold a candle light, 'longside
+</l><l>our little dear."
+<lb/>
+</l><l>Now <hi rend="italic">Fanny's</hi> little Fan have come! She's
+</l><l>clingin' round my knees,
+</l><l>She's asking me for sups of tea, and bites
+</l><l>of bread and cheese.
+</l><l>She's climbing into grandma's bed, she's
+</l><l>stroking grandma's face.
+
+<pb n="72"/>
+
+</l><l>She's tore my paper into bits and strawed
+</l><l>it round the place.
+</l><l>"If all the weans in all the world," says
+</l><l>I, "was standin' here,
+</l><l>Not one could hold a farthin' dip to
+</l><l>Fanny's little dear!"
+</l><l>For Fanny's little Fanny &mdash; oh, she's took
+</l><l>the heart of me!
+</l><l>'Tis childern's childern is the <hi rend="italic">crown</hi> of
+</l><l>humble folk like we!</l>
+</lg>
+</div2>
+
+<pb n="73"/>
+
+<div2 type="poem" n="25" id="d34">
+<head>The Naughty Day</head>
+
+<lg type="poem">
+
+<l>I'VE had a naughty day to-day.
+</l><l>   I scrunched a biscuit in my hair,
+</l><l>And dipped my feeder in the milk,
+</l><l>   And spread my rusk upon a chair.
+<lb/>
+</l><l>When mother put me in my bath,
+</l><l>   I tossed the water all about,
+</l><l>And popped the soap upon my head,
+</l><l>   And threw the sponge and flannel out.
+<lb/>
+</l><l>I wouldn't let her put my hand
+</l><l>   Inside the arm-hole of my vest;
+</l><l>I held the sleeve until she said
+</l><l>   I really never <hi rend="italic">should</hi> be dressed.
+<lb/>
+</l><l>And while she made the beds, I found
+</l><l>   Her tidy, and took out the hairs;
+</l><l>And then I got the water-can
+</l><l>   And tipped it headlong down the stairs.
+
+<pb n="74"/>
+
+</l><l>I crawled along the kitchen floor,
+</l><l>   And got some coal out of the box,
+</l><l>And drew black pictures on the walls,
+</l><l>   And wiped my fingers on my socks.
+<lb/>
+</l><l>Oh, this <hi rend="italic">has</hi> been a naughty day!
+</l><l>   That's why they've put me off to bed.
+</l><l>"He <hi rend="italic">can't</hi> get into mischief there,
+</l><l>   Perhaps we'll have some peace," they
+</l><l>said.
+<lb/>
+</l><l>They put the net across my cot,
+</l><l>   Or else downstairs again I'd creep.
+</l><l>But, see, I'll suck the counterpane
+</l><l>   To <hi rend="italic">pulp</hi> before I go to sleep!</l>
+</lg>
+</div2>
+
+<pb n="75"/>
+
+<div2 type="poem" n="26" id="d35">
+<head>To a Little White Bird</head>
+
+<lg type="poem">
+
+<l>INTO the world you came, and I was
+</l><l>dumb,
+</l><l>  Because "God did it," so the wise ones
+</l><l>said;
+</l><l>I wonder sometimes "Did you really
+</l><l>come?"
+</l><l>  And "Are you truly . . . <hi rend="italic">dead</hi>?"
+<lb/>
+</l><l>Thus you went out &mdash; alone and uncaressed;
+</l><l>  O sweet, soft thing, in all your infant
+</l><l>grace,
+</l><l>I never held you in my arms, nor pressed
+</l><l>  Warm kisses on your face!
+<lb/>
+</l><l>But, in the Garden of the Undefiled,
+</l><l>  My soul will claim you . . . you, and
+</l><l>not another;
+</l><l>I shall hold out my arms, and say <hi rend="italic">"My</hi>
+</l><l><hi rend="italic">child!"</hi>
+</l><l>And you will call me <hi rend="italic">"Mother!"</hi></l>
+</lg>
+</div2>
+
+<pb n="76"/>
+
+<div2 type="poem" n="27" id="d36">
+<head>Because</head>
+
+<lg type="poem">
+
+<l>(PSALM CXVI.)
+<lb/>
+</l><l>BECAUSE He heard my voice, and
+</l><l>answered me,
+</l><l>Because He listened, ah, so patiently,
+</l><l>In those dark days, when sorrowful, alone,
+</l><l>I knelt with tears, and prayed Him for a
+</l><l>stone;
+</l><l>Because He said me "Nay," and then instead,
+</l><l>Oh, wonderful sweet truth! He gave me
+</l><l>bread,
+</l><l>Set my heart singing all in sweet accord;
+</l><l>Because of this, I love &mdash; I love the Lord!</l>
+</lg>
+</div2>
+
+<pb n="77"/>
+
+<div2 type="poem" n="28" id="d37">
+<head>When He Comes</head>
+
+<lg type="poem">
+
+<epigraph><q><l>"When He comes!
+</l><l> My sweetest 'When'!"</l></q>
+<bibl>C. ROSSETTI.</bibl></epigraph>
+
+<l>THUS may it be (I thought) at some
+</l><l>day's close,
+</l><l>Some lilac-haunted eve, when every rose
+</l><l>Breathes forth its incense. May He find
+</l><l>me there,
+</l><l>In holy leisure, lifting hands of prayer,
+</l><l>In some sweet garden place,
+</l><l>To catch the first dear wonder of His Face!
+<lb/>
+</l><l>Or, in my room above,
+</l><l>In silent meditation of His love,
+</l><l>  My soul illumined with a rapture rare.
+</l><l>It would be sweet, if even then, these eyes
+</l><l>Might glimpse Him coming in the Eastern
+</l><l>skies,
+</l><l>  And be caught up to meet Him in the
+</l><l>air.
+
+<pb n="78"/>
+
+</l><l>But now! Ah, now, the days
+</l><l>Rush by their hurrying ways!
+</l><l>No longer know I vague imaginings,
+</l><l>For every hour has wings.
+</l><l>Yet my heart watches . . . as I work I
+</l><l>say,
+</l><l>All simply, to Him: "Come! And if to-day,
+</l><l>Then wilt Thou find me thus: just as I
+</l><l>am &mdash;
+</l><l>Tending my household; stirring gooseberry
+</l><l>jam;
+</l><l>Or swiftly rinsing tiny vests and hose,
+</l><l>With puzzled forehead patching some one's
+</l><l>clothes;
+</l><l>Guiding small footsteps, swift to hear, and
+</l><l>run,
+</l><l>From early dawn till setting of the sun."
+<lb/>
+</l><l>And whensoe'er He comes, I'll rise and go,
+</l><l>Yes, all the gladlier that He found me so.</l>
+</lg>
+</div2>
+</div1>
+
+<div1 type="part" n="2" id="d38">
+<head>Part II:<lb/>
+OUT OF DOORS</head>
+
+<pb n="80"/>
+
+<p>[page intentionally blank]</p>
+
+<pb n="81"/>
+
+<div2 type="poem" n="1" id="d39">
+<head>Early Spring</head>
+
+<lg type="poem">
+
+<l>QUICK through the gates of Fairyland
+</l><l>   The South Wind forced his way.
+</l><l>'Twas his to make the Earth forget
+</l><l>   Her grief of yesterday.
+</l><l>"'Tis mine," cried he, "to bring her joy!"
+</l><l>   And on his lightsome feet
+</l><l>In haste he slung the snowdrop bells,
+</l><l>Pushed past the Fairy sentinels,
+</l><l>   And out with laughter sweet.
+<lb/>
+</l><l>Clear flames of Crocus glimmered on
+</l><l>   The shining way he went.
+</l><l>He whispered to the trees strange tales
+</l><l>   Of wondrous sweet intent,
+</l><l>When, suddenly, his witching voice
+</l><l>   With timbre rich and rare,
+</l><l>Rang through the woodlands till it cleft
+</l><l>Earth's silent solitudes, and left
+</l><l>   A Dream of Roses there!</l>
+</lg>
+</div2>
+
+<pb n="82"/>
+
+<div2 type="poem" n="2" id="d40">
+<head>The Witness</head>
+
+<lg type="poem">
+
+<l>THE Master of the Garden said;
+</l><l>"Who, now the Earth seems cold
+</l><l>and dead,
+</l><l>Will by his fearless witnessing
+</l><l>Hold men's hearts for the tardy spring?"
+<lb/>
+</l><l>"Not yet. I am but half awake,"
+</l><l>All drowsily the Primrose spake.
+</l><l>And fast the sleeping Daffodils
+</l><l>Had folded up their golden frills.
+<lb/>
+</l><l>"Indeed," the frail Anemone
+</l><l>Said softly, "'tis too cold for me."
+</l><l>Wood Hyacinths, all deeply set,
+</l><l>Replied: "No ice has melted yet."
+<lb/>
+</l><l>When suddenly, with smile so bright,
+</l><l>Up sprang a Winter Aconite,
+</l><l>And to the Master joyfully
+</l><l>She cried: "I will the witness be."</l>
+</lg>
+</div2>
+
+<pb n="83"/>
+
+<div2 type="poem" n="3" id="d41">
+<head>In Somerset</head>
+
+<lg type="poem">
+
+<l>IN Somerset they guide the plough
+</l><l>From early dawn till twilight now.
+</l><l>The good red earth smells sweeter yet,
+</l><l>Behind the plough, in Somerset.
+</l><l>The celandines round last year's mow
+</l><l>Blaze out . . . and with his old-time vow
+</l><l>The South Wind woos the Violet,
+</l><l>In Somerset.
+<lb/>
+</l><l>Then, every brimming dyke and trough
+</l><l>Is laughing wide with ripples now,
+</l><l>And oh, 'tis easy to forget
+</l><l>That wintry winds can sigh and sough,
+</l><l>When thrushes chant on every bough
+</l><l>In Somerset!</l>
+</lg>
+</div2>
+
+<pb n="84"/>
+
+<div2 type="poem" n="4" id="d42">
+<head>Song of a Woodland Stream</head>
+
+<lg type="poem">
+
+<l>SILENT was I, and so still,
+</l><l>As day followed day.
+</l><l>Imprisoned until
+</l><l>King Frost worked his will.
+</l><l>Held fast like a vice,
+</l><l>In his cold hand of ice,
+</l><l>For fear kept me silent, and lo
+</l><l>He had wrapped me around and about
+</l><l>with a mantle of snow.
+<lb/>
+</l><l>But sudden there spake
+</l><l>One greater than he.
+</l><l>Then my heart was awake,
+</l><l>And my spirit ran free.
+<lb/>
+</l><l>At His bidding my bands fell apart, He
+</l><l>had burst them asunder.
+
+<pb n="85"/>
+
+</l><l>I can feel the swift wind rushing by me,
+</l><l>once more the old wonder
+</l><l>Of quickening sap stirs my pulses &mdash; I
+</l><l>shout in my gladness,
+</l><l>Forgetting the sadness,
+</l><l>For the Voice of the Lord fills the air!
+<lb/>
+</l><l>And forth through the hollow I go, where
+</l><l>in glad April weather,
+</l><l>The trees of the forest break out into
+</l><l>singing together.
+</l><l>And here the frail windflowers will cluster,
+</l><l>with young ferns uncurling,
+</l><l>Where broader and deeper my waters go
+</l><l>eddying, whirling,
+</l><l>To meet the sweet Spring on her journey
+</l><l>&mdash; His servant to be,
+</l><l>Whose word set me free!</l>
+</lg>
+</div2>
+
+<pb n="86"/>
+
+<div2 type="poem" n="5" id="d43">
+<head>Luggage in Advance</head>
+
+<lg type="poem">
+
+<l>"THE Fairies must have come," I
+</l><l>said,
+</l><l>"For through the moist leaves, brown and
+</l><l>dead,
+</l><l>The Primroses are pushing up,
+</l><l>And here's a scarlet Fairy-cup.
+</l><l>They must have come, because I see
+</l><l>A single Wood Anemone,
+</l><l>The flower that everybody knows
+</l><l>The Fairies use to scent their clothes.
+</l><l>And hark! The South Wind blowing, fills
+</l><l>The trumpets of the Daffodils.
+</l><l>They <hi rend="italic">must</hi> have come!"
+<lb/>
+</l><l>                       Then loud to me
+</l><l>Sang from a budding cherry tree,
+</l><l>A cheerful Thrush . . . "I say! I say!
+</l><l>The Fairy Folk are on their way.
+
+<pb n="87"/>
+
+</l><l>Look out! Look out! Beneath your feet,
+</l><l>Are all their treasures: Sweet! Sweet!
+</l><l>Sweet!
+</l><l>They could not carry them, you see,
+</l><l>Those caskets crammed with witchery,
+</l><l>So ready for the first Spring dance,
+</l><l>They sent their Luggage in Advance!"</l>
+</lg>
+</div2>
+
+<pb n="88"/>
+
+<div2 type="poem" n="6" id="d44">
+<head>At the Cross Roads</head>
+
+<lg type="poem">
+
+<l>THERE I halted. Further down the
+</l><l>hollow
+</l><l>Stood the township, where my errand lay.
+</l><l>Firm my purpose, till a voice cried
+</l><l>(<hi rend="italic">Follow!</hi>
+</l><l><hi rend="italic">Come this way &mdash; I tell you &mdash; come this</hi>
+</l><l><hi rend="italic">way!</hi>)
+<lb/>
+</l><l>Silence, Thrush! You know I think of
+</l><l>buying
+</l><l>A Spring-tide hat; my frock is worn and
+</l><l>old.
+</l><l>So to the shops I go. What's that you're
+</l><l>crying?
+</l><l>(<hi rend="italic">Here! Come here! And gather primrose</hi>
+</l><l><hi rend="italic">gold</hi>.)
+</l><l>Well, yes. Some day I will; but time is
+</l><l>going.
+
+<pb n="89"/>
+
+</l><l>I haste to purchase silks and satins fair.
+</l><l>I'm all in rags. (<hi rend="italic">The Lady's Smock is</hi>
+</l><l><hi rend="italic">showing</hi>
+</l><l><hi rend="italic">Up yonder, in the little coppice there</hi>.)
+<lb/>
+</l><l>And wood anemones spread out their
+</l><l>laces;
+</l><l>Each celandine has donned a silken gown;
+</l><l>The violets are lifting shy sweet faces.
+</l><l>(<hi rend="italic">And there's a chiff-chaff, soft, and slim, and</hi>
+</l><l><hi rend="italic">brown</hi>.)
+<lb/>
+</l><l>But what about my hat? (<hi rend="italic">The bees are</hi>
+</l><l><hi rend="italic">humming</hi>.)
+</l><l>And my new frock? (<hi rend="italic">The hawthorn's</hi>
+</l><l><hi rend="italic">budding free!</hi>
+</l><l><hi rend="italic">Sweet! Oh, so sweet!</hi>) Well, have your
+</l><l>way. I'm coming!
+</l><l>And who's to blame for that? (<hi rend="italic">Why, me!</hi>
+</l><l><hi rend="italic">Me! Me!</hi>)</l>
+</lg>
+</div2>
+
+<pb n="90"/>
+
+<div2 type="poem" n="7" id="d45">
+<head>Summer met Me</head>
+
+<lg type="poem">
+
+<l>SUMMER met me in the glade,
+</l><l>   With a host of fair princesses,
+</l><l>Golden iris, foxgloves staid,
+</l><l>   Sunbeams flecked their gorgeous dresses.
+</l><l>Roses followed in her train,
+</l><l>   Creamy elder-flowers beset me,
+</l><l>Singing, down the scented lane,
+</l><l>   Summer met me!
+<lb/>
+</l><l>Summer met me! Harebells rang,
+</l><l>   Honeysuckle clustered near,
+</l><l>As the royal pageant sang
+</l><l>   Songs enchanting to the ear.
+</l><l>Rainy days may come apace,
+</l><l>   Nevermore to grieve or fret me,
+</l><l>Since, in all her radiant grace,
+</l><l>   Summer met me!</l>
+</lg>
+</div2>
+
+<pb n="91"/>
+
+<div2 type="poem" n="8" id="d46">
+<head>The Carrier</head>
+
+<lg type="poem">
+
+<l>"OWD John's got past his work," said
+</l><l>they,
+</l><l>Last week as ever was &mdash; "don't pay
+</l><l>To send by him. He's stoopid, too,
+</l><l>And brings things what won't never do.
+</l><l>We'll send by post, he is that slow.
+</l><l>And that owd hoss of his can't go."
+<lb/>
+</l><l>But 'smornin', well, 'twas fun to see
+</l><l>The gentlefolks run after we.
+</l><l>Squire's lady stopped I in the lane,
+</l><l>"Oh," says she, "goin' to town again?
+</l><l>You'll not mind calling into Bings
+</l><l>To fetch my cakes and buns and things?
+</l><l>I've got a party comin' on,
+</l><l>And nought to eat . . . so, <hi rend="italic">do</hi> 'ee, John."
+
+<pb n="92"/>
+
+</l><l>Then, up the street, who should I see,
+</l><l>But old Mam Bessant hail'n' me.
+</l><l>And Doctor's wife, and Mrs. Higgs
+</l><l>Was wantin' vittles for their pigs,
+</l><l>And would I bring some? (Well, what
+</l><l>nex'?)
+</l><l>And Granny Dunn has broke her specs,
+</l><l>And wants 'em mended up in town,
+</l><l>So would John call and bring 'em down
+</l><l>To-night . . . ? and so the tale goes on,
+</l><l>'Tis, "Sure you will, now <hi rend="italic">do</hi> 'ee, John."
+<lb/>
+</l><l>Well, 'tis a hevil wind that blows
+</l><l>Nobody any good; it shows
+</l><l>As owd John haves his uses yet,
+</l><l>Though now and then he do forget.
+</l><l>Gee up, owd gal. When strikes is on,
+</l><l>They're glad of pore owd stoopid John.</l>
+</lg>
+</div2>
+
+<pb n="93"/>
+
+<div2 type="poem" n="9" id="d47">
+<head>The Lad's Love by the Gate</head>
+
+<lg type="poem">
+
+<l>DOWN in the dear West Country,
+</l><l>there's a garden where I know
+</l><l>  The Spring is rioting this hour, though
+</l><l>I am far away &mdash;
+</l><l>Where all the glad flower-faces are old
+</l><l>loves of long ago,
+</l><l>  And each in its accustomed place is
+</l><l>blossoming to-day.
+<lb/>
+</l><l>The lilac drops her amethysts upon the
+</l><l>mossy wall,
+</l><l>  While in her boughs a cheerful thrush
+</l><l>is calling to his mate.
+</l><l>Dear breath of mignonette and stocks!
+</l><l>I love you, know you all.
+</l><l>  And, oh, the fragrant spices from the
+</l><l>lad's love by the gate!
+
+<pb n="94"/>
+
+</l><l>Kind wind from the West Country, wet
+</l><l>wind, but scented so,
+</l><l>  That straight from my dear garden
+</l><l>you seem but lately come,
+</l><l>Just tell me of the yellow broom, the
+</l><l>guelder rose's snow,
+</l><l>  And of the tangled clematis where
+</l><l>myriad insects hum.
+<lb/>
+</l><l>Oh, is there any heartsease left, or any
+</l><l>rosemary?
+</l><l>  And in their own green solitudes, say,
+</l><l>do the lilies wait?
+</l><l>I knew it! Gentle wind, but once &mdash;
+</l><l>speak low and tenderly &mdash;
+</l><l>  How fares it &mdash; tell me truly &mdash; with the
+</l><l>lad's love by the gate?</l>
+</lg>
+</div2>
+
+<pb n="95"/>
+
+<div2 type="poem" n="10" id="d48">
+<head>The Thrush</head>
+
+<lg type="poem">
+
+<l>ACROSS the land came a magic word
+</l><l>  When the earth was bare and
+</l><l>lonely,
+</l><l>And I sit and sing of the joyous spring,
+</l><l>  For 'twas I who heard, I only!
+</l><l>Then dreams came by, of the gladsome
+</l><l>days,
+</l><l>  Of many a wayside posy;
+</l><l>For a crocus peeps where the wild rose
+</l><l>sleeps,
+</l><l>  And the willow wands are rosy!
+<lb/>
+</l><l>Oh! the time to be! When the paths
+</l><l>are green,
+</l><l>  When the primrose-gold is lying
+</l><l>'Neath the hazel spray, where the catkins
+</l><l>sway,
+</l><l>  And the dear south wind comes sighing.
+
+<pb n="96"/>
+
+</l><l>My mate and I, we shall build a nest,
+</l><l>  So snug and warm and cosy,
+</l><l>When the kingcups gleam on the meadow
+</l><l>stream,
+</l><l>  Where the willow wands are rosy!</l>
+</lg>
+</div2>
+
+<pb n="97"/>
+
+<div2 type="poem" n="11" id="d49">
+<head>In Dorset Dear</head>
+
+<lg type="poem">
+
+<l>IN Dorset Dear they're making hay
+</l><l>In just the old West Country way.
+</l><l>With fork and rake and old-time gear
+</l><l>They make the hay in Dorset Dear.
+</l><l>From early morn till twilight grey
+</l><l>They toss and turn and shake the hay.
+</l><l>And all the countryside is gay
+</l><l>With roses on the fallen may,
+</l><l>For 'tis the hay-time of the year
+</l><l>In Dorset Dear.
+<lb/>
+</l><l>The loaded waggons wend their way
+</l><l>Across the pasture-lands, and stay
+</l><l>Beside the hedge where foxgloves peer;
+</l><l>And ricks that shall be fashioned here
+</l><l>Will be the sweetest stuff, they say,
+</l><l>In Dorset Dear!</l>
+</lg>
+</div2>
+
+<pb n="98"/>
+
+<div2 type="poem" n="12" id="d50">
+<head>The Flight of the Fairies</head>
+
+<lg type="poem">
+
+<l>THERE'S a rustle in the woodlands,
+</l><l>and a sighing in the breeze,
+</l><l>For the Little Folk are busy in the bushes
+</l><l>and the trees;
+</l><l>They are packing up their treasures, every
+</l><l>one with nimble hand,
+</l><l>Ready for the coming journey back to
+</l><l>sunny Fairyland.
+<lb/>
+</l><l>They have gathered up the jewels from
+</l><l>their beds of mossy green,
+</l><l>With all the dewy diamonds that summer
+</l><l>morns have seen;
+</l><l>The silver from the lichen and the
+</l><l>powdered gold dust, too,
+</l><l>Where the buttercups have flourished and
+</l><l>the dandelions grew.
+
+<pb n="99"/>
+
+</l><l>They packed away the birdies' songs,
+</l><l>then, lest we should be sad,
+</l><l>They left the Robin's carol out, to make
+</l><l>the winter glad;
+</l><l>They packed the fragrance of the flowers,
+</l><l>then, lest we should forget,
+</l><l>Out of the pearly scented box they
+</l><l>dropped a Violet.
+<lb/>
+</l><l>Then o'er a leafy carpet, by the silent
+</l><l>woods they came,
+</l><l>Where the golden bracken lingered and
+</l><l>the maples were aflame.
+</l><l>On the stream the starlight shimmered, o'er
+</l><l>their wings the moonbeams shone,
+</l><l>Music filtered through the forest &mdash; and the
+</l><l>Little Folk were gone!</l>
+</lg>
+</div2>
+
+<pb n="100"/>
+
+<div2 type="poem" n="13" id="d51">
+<head>The Street Player</head>
+
+<lg type="poem">
+
+<l>THE shopping had been tedious, and
+</l><l>the rain
+</l><l>Came pelting down as she turned home
+</l><l>again.
+<lb/>
+</l><l>The motor-bus swirled past with rush and
+</l><l>whirr,
+</l><l>Nought but its fumes of petrol left for
+</l><l>her.
+<lb/>
+</l><l>The bloaters in her basket, and the cheese
+</l><l>Malodorously mixed themselves with
+</l><l>these.
+<lb/>
+</l><l>And all seemed wrong. The world was
+</l><l>drab and grey
+</l><l>As the slow minutes wept themselves
+</l><l>away.
+<lb/>
+</l><l>And then, athwart the noises of the street,
+</l><l>A violin flung out an Irish air.
+
+<pb n="101"/>
+
+</l><l>"I'll take you home again, Kathleen."
+</l><l>Ah, sweet,
+</l><l>How tender-sweet those lilting phrases
+</l><l>were!
+<lb/>
+</l><l>They soothed away the weariness, and
+</l><l>brought
+</l><l>Such peace to one worn woman, overwrought,
+<lb/>
+</l><l>That she forgot the things which vexed
+</l><l>her so:
+</l><l>The too outrageous price of calico,
+<lb/>
+</l><l>The shop-girl's look of pitying insolence
+</l><l>Because she paused to count the dwindling
+</l><l>pence.
+<lb/>
+</l><l>The player stopped. But the rapt vision
+</l><l>stayed.
+</l><l>That woman faced life's worries unafraid.
+<lb/>
+</l><l>The sugar shortage now had ceased to be
+</l><l>An insurmountable calamity.
+
+<pb n="102"/>
+
+</l><l>Her kingdom was not bacon, no, nor
+</l><l>butter,
+</l><l>But things more costly still, too rare to
+</l><l>utter.
+<lb/>
+</l><l>And, over chimney-pots, so bare and tall,
+</l><l>The sun set gloriously, after all.</l>
+</lg>
+</div2>
+
+<pb n="103"/>
+
+<div2 type="poem" n="14" id="d52">
+<head>On All Souls' Eve</head>
+
+<lg type="poem">
+
+<l>OH, the garden ways are lonely!
+</l><l>Winds that bluster, winds that
+</l><l>shout,
+</l><l>Battle with the strong laburnum,
+</l><l>Toss the sad brown leaves about.
+</l><l>In the gay herbaceous border,
+</l><l>Now a scene of wild disorder,
+</l><l>The last dear hollyhock has flamed his
+</l><l>crimson glory out.
+<lb/>
+</l><l>Yet, upon this night of longing,
+</l><l>Souls are all abroad, they say.
+</l><l>Will they come, the dazzling blossoms,
+</l><l>That were here but yesterday?
+</l><l>Will the ghosts of radiant roses
+</l><l>And my sheltered lily-closes
+</l><l>Hold once more their shattered fragrance
+</l><l>now November's on her way?
+
+<pb n="104"/>
+
+</l><l>Wallflowers, surely you'll remember,
+</l><l>Pinks, recall it, will you not?
+</l><l>How I loved and watched and tended,
+</l><l>Made this ground a hallowed spot:
+</l><l>Pansies, with the soft meek faces,
+</l><l>Harebells, with a thousand graces:
+</l><l>Dear dead loves, I wait and listen. Tell
+</l><l>me, have you quite forgot?
+<lb/>
+</l><l><hi rend="italic">Hush! They come!</hi> For down the pathway
+</l><l>Steals a fragrance honey-sweet.
+</l><l>Larkspurs, lilies, stocks, and roses,
+</l><l>Hasten now my heart to greet.
+</l><l>Stay, oh, stay! My hands would hold
+</l><l>you . . .
+</l><l>But the arms that would enfold you
+</l><l>Crush the bush of lad's love growing in
+</l><l>the dusk beside my feet.</l>
+</lg>
+</div2>
+
+<pb n="105"/>
+
+<div2 type="poem" n="15" id="d53">
+<head>The Log Fire</head>
+
+<lg type="poem">
+
+<l>IN her last hour of life the tree
+</l><l>Gave up her glorious memories,
+</l><l>Wild scent of wood anemone,
+</l><l>The sapphire blue of April skies.
+<lb/>
+</l><l>With faint but ever-strength'ning flame,
+</l><l>The dew-drenched hyacinthine spires
+</l><l>Were lost, as red-gold bracken came,
+</l><l>With maple bathed in living fires.
+<lb/>
+</l><l>Grey smoke of ancient clematis
+</l><l>Towards the silver birch inclined,
+</l><l>And deep in thorny fastnesses
+</l><l>The coral bryony entwined.
+<lb/>
+</l><l>Then softly through the dusky room
+</l><l>They strayed, fair ghosts of other days,
+</l><l>With breath like early cherry bloom,
+</l><l>With tender eyes and gentle ways.
+
+<pb n="106"/>
+
+</l><l>They glimmered on the sombre walls,
+</l><l>They danced upon the oaken floor,
+</l><l>Till through the loudly silent halls
+</l><l>Joy reigned majestical once more.
+<lb/>
+</l><l>Up blazed the fire, and, dazzling clear,
+</l><l>One rapturous Spirit radiant stood.
+</l><l>'Twas you at last! Yes, <hi rend="italic">you</hi>, my dear.
+</l><l>We two were back in Gatcombe Wood!</l>
+</lg>
+</div2>
+
+<pb n="107"/>
+
+<div2 type="poem" n="16" id="d54">
+<head>God save the King</head>
+
+<lg type="poem">
+
+<l><hi rend="italic">GOD save our gracious King</hi>. (It
+</l><l>seems
+</l><l>The Church is full of bygone dreams.)
+<lb/>
+</l><l><hi rend="italic">Long live our noble King</hi>. (My own,
+</l><l>'Tis hard to stand here all alone.)
+<lb/>
+</l><l><hi rend="italic">God save the King</hi>. (But, sweetheart, you
+</l><l>Were always brave to dare and do.)
+<lb/>
+</l><l><hi rend="italic">Send him victorious</hi>. (For then,
+</l><l>My darling will come home again!)
+<lb/>
+</l><l><hi rend="italic">Happy and glorious</hi> ('Twill be
+</l><l>Like Heaven to him &mdash; and what to me?)
+<lb/>
+</l><l><hi rend="italic">Long to reign over us</hi>. (My dear!
+</l><l>And we'd been wedded one short year!)
+
+<pb n="108"/>
+
+</l><l><hi rend="italic">God save our King</hi>. (And Lord, I pray
+</l><l>Keep <hi rend="italic">my</hi> King safe this very day.)
+<lb/>
+</l><l>Forgive us, thou &mdash; great England's kingly
+</l><l>King
+</l><l>That thus do women National Anthems
+</l><l>sing.</l>
+</lg>
+
+</div2>
+</div1>
+</body>
+</text>
+</TEI.2>

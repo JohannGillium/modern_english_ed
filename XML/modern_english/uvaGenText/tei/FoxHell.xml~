@@ -1,0 +1,2350 @@
+<?xml version="1.0"?>
+
+<?dlps id="FoxHell"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOnum SYSTEM "http://text.lib.virginia.edu/charent/iso-num.ent"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+<!ENTITY copy "U+00A9">
+<!ENTITY ldquo "U+00A9">
+<!ENTITY rdquo "U+00A9">
+<!ENTITY mdash "U+00A9">
+]>
+
+
+<TEI.2 id="FoxHell">
+<teiHeader type="migrated" creator="Etext">
+<fileDesc>
+<titleStmt>
+<title type="main">Hell fer Sartain and Other Stories</title>
+<title type="sort">hell fer sartain and other stories</title>
+<author>Fox, John</author>
+<respStmt>
+<resp>Creation of machine-readable version</resp>
+<name>Charles Keller</name>
+</respStmt>
+<respStmt>
+<resp>Conversion to TEI-conformant markup</resp>
+<name>University of Virginia Library Electronic Text Center</name>
+</respStmt>
+</titleStmt>
+<extent>ca. <num type="kilobytes">75</num> kilobytes</extent>
+<publicationStmt>
+<publisher>University of Virginia Library</publisher>
+<pubPlace>Charlottesville, Virginia</pubPlace>
+<idno type="ETC">FoxHell</idno>
+<date value="1995">1995</date>
+<availability status="public">
+<p n="copyright">Copyright &copy; 1995 by the Rector and Visitors of the University of Virginia</p>
+<p n="access">Publicly accessible</p>
+</availability>
+<idno type="uva-pid">uva-lib:475962</idno>
+</publicationStmt>
+<seriesStmt>
+<title>University of Virginia Library, Text collection</title>
+<idno type="uva-set">UVA-LIB-Text</idno>
+</seriesStmt>
+<notesStmt>
+<note>
+<p>Electronic version from a 1968 reprint of 1897 edition:
+checked at UVa against a 1909 edition, published by Charles Scribner's Sons
+in New York.  PS1702.H42 1909 University of Virginia Library.</p>
+</note>
+</notesStmt>
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title type="main">"Hell fer Sartain" : and other stories</title>
+<title type="sort">hell fer sartain and other stories</title>
+<author>John Fox, Jr.</author>
+</titleStmt>
+<extent>118 p. ; 20 cm.</extent>
+<publicationStmt>
+<publisher>Garrett Press</publisher>
+<pubPlace>New York</pubPlace>
+<date value="1968">1968</date>
+</publicationStmt>
+<seriesStmt>
+<p>American short story series; v.14</p>
+</seriesStmt>
+</biblFull>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Prepared for the University of Virginia Library Electronic Text Center</p>
+</projectDesc>
+<editorialDecl>
+<p>All quotation marks retained as data</p>
+<p>Spell-check and verification made
+against printed text using WordPerfect spell checker</p>
+<p>All unambiguous end-of-line hyphens have been removed, and the
+trailing part of a word has been joined to the preceding line.</p>
+<p id="ETC">Keywords in the header are a local Electronic Text Center scheme
+to aid in establishing analytical groupings</p>
+</editorialDecl>
+<refsDecl>
+<p>ID elements are given for each page element and are composed
+of the text's unique cryptogram and the given page number, as in SpeFQue1 for
+page one of Spenser's Faerie Queene.</p>
+</refsDecl>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date value="1897">1897</date>
+</creation>
+<langUsage>
+<language id="eng" usage="main">English</language>
+</langUsage>
+<textClass>
+<keywords>
+<term>fiction, prose</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change>
+<date value="1995-04-28">April 28, 1995</date>
+<respStmt>
+<resp>corrector</resp>
+<name>Jackie Shieh, University of Virginia Library, Cataloging
+Services Dept.</name>
+</respStmt>
+<item>TEI header revised</item>
+</change>
+<change>
+<date value="1995-04">April 1995</date>
+<respStmt>
+<resp>corrector</resp>
+<name>Lorrie S. Chisholm, Electronic Text Center, University of
+Virginia Library System.</name>
+</respStmt>
+<item>General TEI mark-up, electronic spell check, and removed
+unambiguous line-end hyphenation.</item>
+</change>
+<change>
+<date value="2005-07">July 2005</date>
+<respStmt>
+<resp>Corrector</resp>
+<name>John Ivor Carlson</name>
+</respStmt>
+<item>Converted SGML to XML. Fixed tagging.</item>
+</change>
+<change>
+<date value="2007-09">September 2007</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Ethan Gruber, University of Virginia Library</name>
+</respStmt>
+<item>Converted XML markup from TEI Lite to uva-dl-tei (TEI P4 with local customizations).</item>
+</change>
+<change>
+<date value="2008-01">January 2008</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Greg Murray, University of Virginia Library</name>
+</respStmt>
+<item>Programmatically updated TEI header markup (but not header content) for minimal compliance with current QA requirements.</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text id="d1">
+
+<front id="d2">
+
+<titlePage id="d3"><pb/>
+<docAuthor>JOHN FOX, JR.</docAuthor>
+
+<titlePart type="main">`Hell fer Sartain' <lb/>
+and <lb/>
+Other Stories
+</titlePart>
+<docImprint>
+<hi rend="italic">Illustrated</hi>
+<lb/>
+<hi rend="italic">The American Short Story Series</hi>
+<lb/>
+VOLUME 14
+<lb/>
+GARRETT PRESS
+ <lb/>
+Library of Congress Catalog Card No. 68-55674
+ <lb/>
+<hi rend="italic">This volume was reprinted from the 1897 edition
+published by Harper &amp; Bros.
+ <lb/>
+First Garrett Press Edition published 1969
+The American Short Story Series</hi>
+Volume 14 <lb/>
+(C) 1968 <lb/>
+ <lb/>
+Manufactured in the United States of America
+<lb/>
+GARRETT PRESS, INC. <lb/>
+<hi rend="italic">Publishers</hi>
+<lb/>
+<lb/>
+250 West 54th Street, New York, N.Y. 10019
+</docImprint>
+</titlePage>
+
+<div1 type="dedication" id="d4">
+<p>TO <lb/>
+MY BROTHER <lb/>
+JAMES
+</p></div1>
+
+<div1 type="note" id="d5">
+<head>AUTHOR'S NOTE</head>
+
+<p>These stories were originally published in <hi rend="italic">Harper's
+Weekly, The Century, Southern Magazine</hi>, and <hi rend="italic">The
+Graphic</hi>, London.
+</p><p>&ldquo;Hell fer Sartain,&rdquo; included in &ldquo;A Cumberland
+Vendetta, and Other Stories,&rdquo; is reprinted here,
+because it is one of the series of similar monologues
+contained in this volume.
+</p>
+</div1>
+
+<div1 type="contents" id="d6">
+<head>CONTENTS</head>
+<list>
+<item>
+                                                   PAGE
+ON HELL-FER-SARTAIN CREEK. . . . . . . . . . . . . . 1
+</item><item>
+THROUGH THE GAP. . . . . . . . . . . . . . . . . . . 9
+</item><item>
+A TRICK O' TRADE . . . . . . . . . . . . . . . . . .19
+</item><item>
+GRAYSON'S BABY . . . . . . . . . . . . . . . . . . .27
+</item><item>
+COURTIN' ON CUTSHIN. . . . . . . . . . . . . . . . .41
+</item><item>
+THE MESSAGE IN THE SAND. . . . . . . . . . . . . . .53
+</item><item>
+THE SENATOR'S LAST TRADE . . . . . . . . . . . . . .61
+</item><item>
+PREACHIN' ON KINGDOM-COME. . . . . . . . . . . . . .71
+</item><item>
+THE PASSING OF ABRAHAM SHIVERS . . . . . . . . . . .81
+</item><item>
+A PURPLE RHODODENDRON. . . . . . . . . . . . . . . .89
+</item>
+</list>
+</div1>
+</front>
+
+<body id="d7">
+
+
+<div1 type="chapter" id="d8"><pb n="3"/>
+<head>ON HELL-FER-SARTAIN CREEK</head>
+
+<p>THAR was a dancin'-party Christmas
+night on &ldquo;Hell fer Sartain.&rdquo;  Jes tu'n
+up the fust crick beyond the bend thar,
+an' climb onto a stump, an' holler about
+<hi rend="italic">once</hi>, an' you'll see how the name come.
+Stranger, hit's <hi rend="italic">hell</hi> fer sartain!  Well,
+Rich Harp was thar from the head-waters, an' Harve Hall toted Nance
+Osborn clean across the Cumberlan'.
+Fust one ud swing Nance, an' then
+t'other.  Then they'd take a pull out'n
+the same bottle o' moonshine, an'&mdash;fust
+one an' then t'other&mdash;they'd swing her
+
+<pb n="4"/>
+
+agin.  An' Abe Shivers a-settin' thar
+by the fire a-bitin' his thumbs!
+</p><p>Well, things was sorter whoopin',
+when somebody ups an' tells Harve
+that Rich had said somep'n' agin
+Nance an' him, an' somebody ups an'
+tells Rich that Harve had said somep'n'
+agin Nance an' <hi rend="italic">him</hi>.  In a minute, stranger,
+hit was like two wild-cats in thar.
+Folks got 'em parted, though, but thar
+was no more a-swingin' of Nance that
+night.  Harve toted her back over the
+Cumberlan', an' Rich's kinsfolks tuk him
+up &ldquo;Hell fer Sartain&rdquo;; but Rich got
+loose, an' lit out lickety-split fer Nance
+Osborn's.  He knowed Harve lived too
+fer over Black Mountain to go home
+that night, an' he rid right across the
+river an' up to Nance's house, an'
+hollered fer Harve.  Harve poked his head
+
+<pb n="5"/>
+out'n the loft&mdash;he knowed whut was
+wanted&mdash;an' Harve says, &ldquo;Uh, come in
+hyeh an' go to bed.  Hit's too late!&rdquo;
+An' Rich seed him a-gapin' like a chicken,
+an' in he walked, stumblin' might'
+nigh agin the bed whar Nance was
+a-layin', listenin' an' not sayin' a word.
+</p><p>Stranger, them two fellers slept
+together plum frien'ly, an' they et together
+plum frien'ly next mornin', an' they sa'ntered
+down to the grocery plum frien'ly.
+An' Rich says, &ldquo;Harve,&rdquo; says he,
+&ldquo;let's have a drink.&rdquo;  &ldquo;All right, Rich,&rdquo;
+says Harve.  An' Rich says, &ldquo;Harve,&rdquo;
+says he, &ldquo;you go out'n that door an'
+I'll go out'n this door.&rdquo;  &ldquo;All right,
+Rich,&rdquo; says Harve, an' out they
+walked, steady, an' thar was two shoots
+shot, an' Rich an' Harve both drapped,
+an' in ten minutes they was stretched
+
+<pb n="6"/>
+out on Nance's bed an' Nance was
+a-lopin' away fer the yarb doctor.
+</p><p>The gal nussed 'em both plum faithful.
+Rich didn't hev much to say, an'
+Harve didn't hev much to say.  Nance
+was sorter quiet, an' Nance's mammy,
+ole Nance, jes grinned.  Folks come in
+to ax atter 'em right peart.  Abe Shivers
+come cl'ar 'cross the river&mdash;powerful
+frien'ly&mdash;an' ever' time Nance ud walk
+out to the fence with him.  One time
+she didn't come back, an' ole Nance
+fotched the boys thar dinner, an' ole
+Nance fotched thar supper, an' then
+Rich he axed whut was the matter
+with young Nance.  An' ole Nance jes
+snorted.  Atter a while Rich says:
+&ldquo;Harve,&rdquo; says he, &ldquo;who tol' you that
+I said that word agin you an' Nance?&rdquo;
+&ldquo;Abe Shivers,&rdquo; says Harve.  &ldquo;An' who
+
+<pb n="7"/>
+tol' you,&rdquo; says Harve, &ldquo;that I said that
+word agin Nance an' <hi rend="italic">you?</hi>&rdquo;  &ldquo;Abe Shivers,&rdquo;
+says Rich. An' both says, &ldquo;Well,
+damn me!&rdquo;  An' Rich tu'ned right
+over an' begun pullin' straws out'n the
+bed.  He got two out, an' he bit one
+off, an' he says:  &ldquo;Harve,&rdquo; says he, &ldquo;I
+reckon we better draw fer him.  The
+shortes' gits him.&rdquo;  An' they drawed.
+Well, nobody ever knowed which got
+the shortes' straw, stranger, but&mdash;
+</p><p>Thar'll be a dancin'-party comin'
+Christmas night on &ldquo;Hell fer Sartain.&rdquo;
+Rich Harp 'll be thar from the head-waters.  Harve Hall's a-goin' to tote
+the Widder Shivers clean across the
+Cumberlan'.  Fust one 'll swing Nance,
+an' then t'other.  Then they'll take a
+pull out'n the same bottle o' moonshine,
+an'&mdash;fust one an' then t'other&mdash;
+
+<pb n="8"/>
+they'll swing her agin, jes the same.
+<hi rend="italic">Abe</hi> won't be thar.  He's a-settin' by
+a bigger fire, I reckon ef he ain't in
+it, a-bitin' his thumbs!
+</p>
+
+</div1>
+
+
+
+
+<div1 type="chapter" id="d9"><pb n="11"/>
+<head>THROUGH THE GAP</head>
+
+<p>WHEN thistles go adrift, the sun sets
+down the valley between the hills;
+when snow comes, it goes down behind
+the Cumberland and streams through a
+great fissure that people call the Gap.
+Then the last light drenches the parson's
+cottage under Imboden Hill, and
+leaves an after-glow of glory on a
+majestic heap that lies against the east.
+Sometimes it spans the Gap with a
+rainbow.
+</p><p>Strange people and strange tales
+come through this Gap from the Kentucky
+
+<pb n="12"/>
+
+
+hills.  Through it came these
+two, late one day&mdash;a man and a woman&mdash;
+afoot.  I met them at the foot-bridge over Roaring Fork.
+</p><p>&ldquo;Is thar a preacher anywhar aroun'
+hyeh?&rdquo; he asked.  I pointed to the
+cottage under Imboden Hill.  The girl
+flushed slightly and turned her head
+away with a rather unhappy smile.
+Without a word, the mountaineer led
+the way towards town.  A moment
+more and a half-breed Malungian passed
+me on the bridge and followed
+them.
+</p><p>At dusk the next day I saw the
+mountaineer chopping wood at a shanty
+under a clump of rhododendron on
+the river-bank.  The girl was cooking
+supper inside.  The day following he
+was at work on the railroad, and on
+
+<pb n="13"/>
+
+Sunday, after church, I saw the parson.
+The two had not been to him.  Only
+that afternoon the mountaineer was
+on the bridge with another woman,
+hideously rouged and with scarlet ribbons
+fluttering from her bonnet.  Passing
+on by the shanty, I saw the Malungian
+talking to the girl.  She apparently
+paid no heed to him until, just as he
+was moving away, he said something
+mockingly, and with a nod of his
+head back towards the bridge.  She
+did not look up even then, but her
+face got hard and white, and, looking
+back from the road, I saw her slipping
+through the bushes into the dry bed of
+the creek, to make sure that what the
+half-breed told her was true.
+</p><p>The two men were working side by
+side on the railroad when I saw them
+
+<pb n="14"/>
+
+again, but on the first pay-day the doctor
+was called to attend the Malungian,
+whose head was split open with
+a shovel.  I was one of two who went
+out to arrest his assailant, and I had
+no need to ask who he was.  The
+mountaineer was a devil, the foreman
+said, and I had to club him with a
+pistol-butt before he would give in.
+He said he would get even with me;
+but they all say that, and I paid no
+attention to the threat.  For a week he
+was kept in the calaboose, and when I
+passed the shanty just after he was
+sent to the county-seat for trial, I
+found it empty.  The Malungian, too,
+was gone.  Within a fortnight the
+mountaineer was in the door of the
+shanty again.  Having no accuser, he
+had been discharged.  He went back
+
+<pb n="15"/>
+
+to his work, and if he opened his lips
+I never knew.  Every day I saw him
+at work, and he never failed to give
+me a surly look.  Every dusk I saw
+him in his door-way, waiting, and I
+could guess for what.  It was easy to
+believe that the stern purpose in his
+face would make its way through
+space and draw her to him again.
+And she did come back one day.  I
+had just limped down the mountain
+with a sprained ankle.  A crowd of
+women was gathered at the edge of
+the woods, looking with all their eyes
+to the shanty on the river-bank.  The
+girl stood in the door-way.  The
+mountaineer was coming back from work
+with his face down.
+</p><p>&ldquo;He hain't seed her yit,&rdquo; said one.
+&ldquo;He's goin' to kill her shore.  I tol'
+
+<pb n="16"/>
+
+her he would.  She said she reckoned
+he would, but she didn't keer.&rdquo;
+</p><p>For a moment I was paralyzed by
+the tragedy at hand.  She was in the
+door looking at him when he raised
+his head.  For one moment he stood
+still, staring, and then he started
+towards her with a quickened step.  I
+started too, then, every step a torture,
+and as I limped ahead she made a
+gesture of terror and backed into the
+room before him.  The door closed,
+and I listened for a pistol-shot and a
+scream.  It must have been done with
+a knife, I thought, and quietly, for
+when I was within ten paces of the
+cabin he opened the door again.  His
+face was very white; he held one hand
+behind him, and he was nervously
+fumbling at his chill with the other.
+
+<pb n="17"/>
+
+As he stepped towards me I caught the
+handle of a pistol in my side pocket
+and waited.  He looked at me sharply.
+</p><p>&ldquo;Did you say the preacher lived up
+thar?&rdquo; he asked.
+</p><p>&ldquo;Yes,&rdquo; I said, breathlessly.
+</p><p>In the door-way just then stood the
+girl with a bonnet in her hand, and at
+a nod from him they started up the
+hill towards the cottage.  They came
+down again after a while, he stalking
+ahead, and she, after the mountain
+fashion, behind.  And after this fashion
+I saw them at sunset next day pass
+over the bridge and into the mouth of
+the Gap whence they came.  Through
+this Gap come strange people and
+strange tales from the Kentucky hills.
+Over it, sometimes, is the span of a
+rainbow.
+</p>
+
+</div1>
+
+
+
+
+
+<div1 type="chapter" id="d10"><pb n="21"/>
+<head>A TRICK O' TRADE</head>
+
+<p>STRANGER, I'm a separ<hi rend="italic">ate</hi> man, an' I
+don't in<hi rend="italic">quiz</hi>ite into no man's business;
+but you ax me straight, an' I tell ye
+straight:  You watch ole Tom!
+</p><p>Now, I'll take ole Tom Perkins' word
+agin anybody's 'ceptin' when hit comes
+to a hoss trade ur a piece o' land.  Fer
+in the tricks o' sech, ole Tom 'lows&mdash;
+well, hit's diff'ent; an' I reckon, stranger,
+as how hit sorter is.  He was a-stayin'
+at Tom's house, the furriner was, a-dickerin'
+fer a piece o' lan'&mdash;the same
+piece, mebbe, that you're atter now&mdash;
+
+<pb n="22"/>
+
+an' Tom keeps him thar fer a week to
+beat him out'n a dollar, an' then won't
+let him pay nary a cent fer his boa'd.
+Now, stranger, that's Tom.
+</p><p>Well, Abe Shivers was a-workin' fer
+Tom&mdash;you've heerd tell o' Abe&mdash;an'
+the furriner wasn't more'n half gone
+afore Tom seed that Abe was up to
+some of his devil<hi rend="italic">mint</hi>.  Abe kin hatch
+up more devil<hi rend="italic">mint</hi> in a minit than Satan
+hisself kin in a week; so Tom jes got
+Abe out'n the stable under a hoe-handle,
+an' tol' him to tell the whole thing
+straight ur he'd have to go to glory
+right thar.  An' Abe tol'!
+</p><p>'Pears like Abe had foun' a streak o'
+iron ore on the lan', an' had racked his
+jinny right down to Hazlan an' tol' the
+furriner, who was thar a-buyin' wild
+lands right an' left.  Co'se, Abe was
+
+<pb n="23"/>
+
+goin' to make the furriner whack up
+fer gittin' the lan' so cheap.  Well,
+brother, the furriner come up to Tom's
+an' got Tom into one o' them new-fangled trades whut the furriners calls a
+option&mdash;t'other feller kin git out'n hit,
+but you can't.  The furriner 'lowed he'd
+send his podner up thar next day to
+put the thing in writin' an' close up the
+trade.  Hit looked like ole Tom was
+ketched fer shore, an' ef Tom didn't
+ra'r, I'd tell a man.  He jes let that hoe-handle drap on Abe fer 'bout haffen
+hour, jes to give him time to study, an'
+next day thar was ole Tom a-settin'
+on his orchard fence a-lookin' mighty
+unknowin', when the furriner's podner
+come a-prancin' up an' axed ef old Tom
+Perkins lived thar.
+</p><p>Ole Tom jes whispers.
+
+<pb n="24"/>
+
+</p><p>Now, I clean fergot to tell ye, stranger,
+that Abe Shivers nuver could talk out
+loud.  He tol' so many lies that the
+Lawd&mdash;jes to make things even&mdash;sorter
+fixed Abe, I reckon, so he couldn't lie
+on more'n one side o' the river at a
+time.  Ole Tom jes knowed t'other
+furriner had tol' this un 'bout Abe, an,'
+shore 'nough, the feller says, sorter soft,
+says he:
+</p><p>&ldquo;Aw, you air the feller whut foun'
+the ore?&rdquo;
+</p><p>Ole Tom&mdash;makin' like he was Abe,
+mind ye&mdash;jes whispers:  &ldquo;Thar hain't
+none thar.&rdquo;
+</p><p>Stranger, the feller mos' fell off'n his
+hoss.  &ldquo;Whut?&rdquo; says he.  Ole Tom kep'
+a-whisperin':  &ldquo;Thar hain't no coal&mdash;
+no nothing; ole Tom Perkins made me
+tell t'other furriner them lies.&rdquo;
+
+<pb n="25"/>
+
+</p><p>Well, sir, the feller <hi rend="italic">was</hi> mad.  &ldquo;Jes
+whut I tol' that fool podner of mine,&rdquo;
+he says, an' he pull out a dollar an' gives
+hit to Tom.  Tom jes sticks out his
+han' with his thum' turned in jes so,
+an' the furriner says, &ldquo;Well, ef you can't
+talk, you kin make purty damn good
+signs&rdquo;; but he forks over four mo' dollars
+he 'lowed ole Tom had saved him a
+pile o' money, an' turns his hoss an'
+pulls up agin.  He was a-gittin' the land
+so durned cheap that I reckon he jes
+hated to let hit go, an' he says, says he:
+&ldquo;Well, hain't the groun' rich?  Won't hit
+raise no tabaccy nur corn nur nothin'?&rdquo;
+</p><p>Ole Tom jes whispers:
+</p><p>&ldquo;To tell you the p'int-blank truth,
+stranger, that land's so durned pore that
+I hain't nuver been able to raise my
+voice.&rdquo;
+
+<pb n="26"/>
+
+</p><p>Now, brother, I'm a separ<hi rend="italic">ate</hi> man,
+an' I don't in<hi rend="italic">quiz</hi>ite into no man's business&mdash;
+but you ax me straight an' I tell
+ye straight.  Ole Tom Perkins kin trade
+with furriners, fer he have l'arned their
+ways.  You watch ole Tom!
+</p>
+
+</div1>
+
+
+
+
+<div1 type="chapter" id="d11"><pb n="29"/>
+<head>GRAYSON'S BABY</head>
+
+<p>THE first snow sifted in through the
+Gap that night, and in a &ldquo;shack&rdquo; of
+one room and a low loft a man was
+dead, a woman was sick to death, and
+four children were barely alive; and
+nobody even knew.  For they were hill
+people, who sicken, suffer, and sometimes
+die, like animals, and make no
+noise.
+</p><p>Grayson, the Virginian, coming down
+from the woods that morning, saw the
+big-hearted little doctor outside the door
+of the shack, walking up and down,
+
+<pb n="30"/>
+
+with his hands in his pockets.  He was
+whistling softly when Grayson got near,
+and, without stopping, pointed with his
+thumb within.  The oldest boy sat
+stolidly on the one chair in the room,
+his little brother was on the floor hard
+by, and both were hugging a greasy
+stove.  The little girl was with her
+mother in the bed, both almost out of
+sight under a heap of quilts.  The baby
+was in a cradle, with its face uncovered,
+whether dead or asleep Grayson could
+not tell.  A pine coffin was behind the
+door.  It would not have been possible
+to add to the disorder of the room, and
+the atmosphere made Grayson gasp.  He
+came out looking white.  The first man
+to arrive thereafter took away the eldest
+boy, a woman picked the baby girl from
+the bed, and a childless young couple
+
+<pb n="31"/>
+
+took up the pallid little fellow on the
+floor.  These were step-children.  The
+baby boy that was left was the woman's
+own.  Nobody came for that, and Grayson
+went in again and looked at it a
+long while.  So little, so old a human
+face he had never seen.  The brow
+was wrinkled as with centuries of pain,
+and the little drawn mouth looked as
+though the spirit within had fought
+its inheritance without a murmur, and
+would fight on that way to the end.  It
+was the pluck of the face that drew
+Grayson.  &ldquo;I'll take it,&rdquo; he said.  The
+doctor was not without his sense of humor
+even then, but he nodded.  &ldquo;Cradle and
+all,&rdquo; he said, gravely.  And Grayson put
+both on one shoulder and walked away.
+He had lost the power of giving further
+surprise in that town, and had he met
+
+<pb n="32"/>
+
+every man he knew, not one of them
+would have felt at liberty to ask him
+what he was doing.  An hour later the
+doctor found the child in Grayson's
+room, and Grayson still looking at it.
+</p><p>&ldquo;Is it going to live, doctor?&rdquo;
+</p><p>The doctor shook his head.  &ldquo;Doubtful.
+Look at the color.  It's starved.
+There's nothing to do but to watch it
+and feed it.  You can do that.&rdquo;
+</p><p>So Grayson watched it, with a
+fascination of which he was hardly
+conscious.  Never for one instant did its
+look change&mdash;the quiet, unyielding
+endurance that no faith and no philosophy
+could ever bring to him.  It was ideal
+courage, that look, to accept the inevitable
+but to fight it just that way.  Half
+the little mountain town was talking
+next day&mdash;that such a tragedy was possible
+
+<pb n="33"/>
+
+by the public road-side, with relief
+within sound of the baby's cry.  The
+oldest boy was least starved.  Might
+made right in an extremity like his, and
+the boy had taken care of himself.  The
+young couple who had the second lad
+in charge said they had been wakened
+at daylight the next morning by some
+noise in the room.  Looking up, they
+saw the little fellow at the fireplace
+breaking an egg.  He had built a fire,
+had got eggs from the kitchen, and was
+cooking his breakfast.  The little girl
+was mischievous and cheery in spite of
+her bad plight, and nobody knew of the
+baby except Grayson and the doctor.
+Grayson would let nobody else in.  As
+soon as it was well enough to be peevish
+and to cry, he took it back to its mother,
+who was still abed.  A long, dark
+mountaineer
+
+<pb n="34"/>
+
+was there, of whom the woman
+seemed half afraid.  He followed Grayson
+outside.
+</p><p>&ldquo;Say, podner,&rdquo; he said, with an
+unpleasant smile, &ldquo;ye don't go up to
+Cracker's Neck fer nothin', do ye?&rdquo;
+</p><p>The woman had lived at Cracker's
+Neck before she appeared at the Gap,
+and it did not come to Grayson what
+the man meant until he was half-way to
+his room.  Then he flushed hot and
+wheeled back to the cabin, but the
+mountaineer was gone.
+</p><p>&ldquo;Tell that fellow he had better keep
+out of my way,&rdquo; he said to the woman,
+who understood, and wanted to say
+something, but not knowing how, nodded
+simply.  In a few days the other children
+went back to the cabin, and day
+and night Grayson went to see the child,
+
+<pb n="35"/>
+
+until it was out of danger, and afterwards.
+It was not long before the women
+in town complained that the mother was
+ungrateful.  When they sent things to
+eat to her the servant brought back
+word that she had called out, &ldquo; `Set
+them over thar,' without so much as a
+thanky.&rdquo;  One message was that &ldquo;she
+didn' want no second-hand victuals from
+nobody's table.&rdquo;  Somebody suggested
+sending the family to the poor-house.
+The mother said &ldquo;she'd go out on her
+crutches and hoe corn fust, and that the
+people who talked 'bout sendin' her to
+the po'-house had better save their breath
+to make prayers with.&rdquo;  One day she
+was hired to do some washing.  The
+mistress of the house happened not to
+rise until ten o'clock.  Next morning
+the mountain woman did not appear
+
+<pb n="36"/>
+
+until that hour.  &ldquo;She wasn't goin' to
+work a lick while that woman was
+a-layin' in bed,&rdquo; she said, frankly.  And
+when the lady went down town, she too
+disappeared.  Nor would she, she
+explained to Grayson, &ldquo;while that woman
+was a-struttin' the streets.&rdquo;
+</p><p>After that, one by one, they let her
+alone, and the woman made not a word
+of complaint.  Within a week she was
+working in the fields, when she should
+have been back in bed.  The result
+was that the child sickened again.
+The old look came back to its face,
+and Grayson was there night and day.
+He was having trouble out in Kentucky
+about this time, and he went
+to the Blue Grass pretty often.  Always,
+however, he left money with
+me to see that the child was properly
+
+<pb n="37"/>
+
+buried if it should die while he was
+gone; and once he telegraphed to ask
+how it was.  He said he was sometimes
+afraid to open my letters for
+fear that he should read that the baby
+was dead.  The child knew Grayson's
+voice, his step.  It would go to him
+from its own mother.  When it was
+sickest and lying torpid it would move
+the instant he stepped into the room,
+and, when he spoke, would hold out
+its thin arms, without opening its eyes,
+and for hours Grayson would walk the
+floor with the troubled little baby over
+his shoulder.  I thought several times
+it would die when, on one trip, Grayson
+was away for two weeks.  One
+midnight, indeed, I found the mother
+moaning, and three female harpies
+about the cradle.  The baby was dying
+
+<pb n="38"/>
+
+this time, and I ran back for a
+flask of whiskey.  Ten minutes late
+with the whiskey that night would
+have been too late.  The baby got to
+know me and my voice during that
+fortnight, but it was still in danger
+when Grayson got back, and we went
+to see it together.  It was very weak,
+and we both leaned over the cradle,
+from either side, and I saw the pity
+and affection&mdash;yes, hungry, half-shamed
+affection&mdash;in Grayson's face.  The
+child opened its eyes, looked from
+one to the other, and held out its
+arms to <hi rend="italic">me</hi>.  Grayson should have
+known that the child forgot&mdash;that it
+would forget its own mother.  He
+turned sharply, and his face was a
+little pale.  He gave something to the
+woman, and not till then did I notice
+
+<pb n="39"/>
+
+that her soft black eyes never left
+him while he was in the cabin.  The
+child got well; but Grayson never
+went to the shack again, and he said
+nothing when I came in one night
+and told him that some mountaineer
+&mdash;a long, dark fellow-had taken the
+woman, the children, and the household
+gods of the shack back into the
+mountains.
+</p><p>&ldquo;They don't grieve long,&rdquo; I said,
+&ldquo;these people.&rdquo;
+</p><p>But long afterwards I saw the woman
+again along the dusty road that
+leads into the Gap.  She had heard
+over in the mountains that Grayson
+was dead, and had walked for two
+days to learn if it was true.  I pointed
+back towards Bee Rock, and told her
+that he had fallen from a cliff back
+
+<pb n="40"/>
+
+there.  She did not move, nor did her
+look change.  Moreover, she said nothing,
+and, being in a hurry, I had to ride
+on.
+</p><p>At the foot-bridge over Roaring
+Fork I looked back.  The woman was
+still there, under the hot mid-day sun
+and in the dust of the road, motionless.
+</p>
+
+</div1>
+
+
+
+<div1 type="chapter" id="d12"><pb n="43"/>
+<head>COURTIN' ON CUTSHIN</head>
+
+<p>HIT was this way, stranger.  When
+hit comes to handlin' a right peert gal,
+Jeb Somers air about the porest man
+on Fryin' Pan, I reckon; an' Polly Ann
+Sturgill have got the vineg'rest tongue
+on Cutshin or any other crick.
+</p><p>So the boys over on Fryin' Pan
+made it up to git 'em together.  Abe
+Shivers&mdash;you've heerd tell o' Abe&mdash;
+tol' Jeb that Polly Ann had seed him
+in Hazlan which she hadn't, of co'se,
+an' had said p'int-blank that he was
+the likeliest feller she'd seed in them
+
+<pb n="44"/>
+
+mountains.  An' he tol' Polly Ann
+that Jeb was ravin' crazy 'bout her.
+The pure misery of it jes made him
+plumb delirious, Abe said; an' 'f Polly
+Ann wanted to find her match fer languige
+an' talkin' out peert&mdash;well, she
+jes ought to strike Jeb Somers.  Fact
+is, stranger, Jeb Somers air might' nigh
+a idgit; but Jeb 'lowed he'd rack right
+over on Cutshin an' set up with Polly
+Ann Sturgill; an' Abe tells Polly Ann
+the king bee air comin'.  An' Polly
+Ann's cousin, Nance Osborn, comes
+over from Hell fer Sartain whut runs
+into Kingdom-Come to stay all night
+an' see the fun.
+</p><p>Now, I hain't been a-raftin' logs
+down to the settlemints o' Kaintuck
+fer nigh on to twenty year fer nothin',
+An' I know gallivantin' is diff'ent
+
+<pb n="45"/>
+
+with us mountain fellers an' you furriners,
+in the premises, anyways, as
+them lawyers up to court says; though
+I reckon hit's purty much the same
+atter the premises is over.  Whar you
+says &ldquo;courtin',&rdquo; now, we says &ldquo;talkin'
+to.&rdquo;  Sallie Spurlock over on Fryin'
+Pan is a-talkin' to Jim Howard now.
+Sallie's sister hain't nuver talked to no
+man.  An' whar you says &ldquo;makin' a
+call on a young lady,&rdquo; we says &ldquo;settin'
+up with a gal&rdquo;!  An', stranger, we does
+it.  We hain't got more'n one room
+hardly ever in these mountains, an'
+we're jes obleeged to set up to do any
+courtin' at all.
+</p><p>Well, you go over to Sallie's to stay
+all night some time, an' purty soon
+atter supper Jim Howard comes in.
+The ole man an' the ole woman goes
+
+<pb n="46"/>
+
+to bed, an' the chil'un an' you go to
+bed, an' ef you keeps one eye open
+you'll see Jim's cheer an' Sallie's cheer
+a-movin' purty soon, till they gets
+plumb together.  Then, stranger, hit
+begins.  Now I want ye to understand
+that settin' up means business.  We
+don't 'low no foolishness in these
+mountains; an' 'f two fellers happens
+to meet at the same house, they jes
+makes the gal say which one she likes
+best, an' t'other one gits!  Well, you'll
+see Jim put his arm 'round Sallie's neck
+an' whisper a long while&mdash;jes so.  Mebbe
+you've noticed whut fellers us mountain
+folks air fer whisperin'.  You've
+seed fellers a-whisperin' all over Hazlan
+on court day, hain't ye?  Ole
+Tom Perkins 'll put his arm aroun' yo'
+neck an' whisper in yo' year ef he's
+
+<pb n="47"/>
+
+ten mile out'n the woods.  I reckon
+thar's jes so much devilmint a-goin' on
+in these mountains, folks is naturely
+afeerd to talk out loud.
+</p><p>Well, Jim let's go an' Sallie puts her
+arm aroun' Jim's neck an' whispers a
+long while&mdash;jes so; an' 'f you happen
+to wake up anywhar to two o'clock in
+the mornin' you'll see jes that a-goin'
+on.  Brother, that's settin' up.
+</p><p>Well, Jeb Somers, as I was a-sayin'
+in the premises, 'lowed he'd rack right
+over on Cutshin an' set up with Polly
+Ann comin' Christmas night.  An' Abe
+tells Polly Ann Jeb says he aims to
+have her fer a Christmas gift afore
+mornin'.  Polly Ann jes sniffed sorter,
+but you know women folks air always
+mighty ambitious jes to <hi rend="italic">see</hi> a feller
+anyways, 'f he's a-pinin' fer 'em.  So
+
+<pb n="48"/>
+
+Jeb come, an' Jeb was fixed up now
+fittin' to kill.  Jeb had his hair oiled
+down nice an' slick, and his mustache
+was jes black as powder could make
+hit.  Naturely hit was red; but a feller
+can't do nothin' in these mountains
+with a red mustache; an' Jeb had a
+big black ribbon tied in the butt o'
+the bigges' pistol Abe Shivers could
+borrer fer him&mdash;hit was a badge o'
+death an' deestruction to his enemies,
+Abe said, an' I tell ye Jeb did look
+like a man.  He never opened his
+mouth atter he says &ldquo;howdy&rdquo;&mdash;Jeb
+never does say nothin'; Jeb's one o'
+them fellers whut hides thar lack o'
+brains by a-lookin' solemn an' a-keepin'
+still, but thar don't nobody say much
+tell the ole folks air gone to bed, an'
+Polly Ann jes 'lowed Jeb was a-waitin'.
+
+<pb n="49"/>
+
+Fact is, stranger, Abe Shivers had got
+Jeb a leetle disguised by liquer, an' he
+did look fat an' sassy, ef he couldn't
+talk, a-settin' over in the corner a-plunkin' the banjer an' a-knockin' off
+&ldquo;Sour-wood Mountain&rdquo; an' &ldquo;Jinny git
+aroun' &rdquo; an' &ldquo;Soapsuds over the Fence.&rdquo;
+
+ &ldquo;Chickens a-crowin' on Sour-wood Mountain,
+ </p><p>Heh-o-dee-um-dee-eedy-dahdy-dee!
+   Git yo' dawgs an' we'll go huntin',
+ </p><p>Heh-o-dee-um-dee-eedy-dahdy-dee!&rdquo;
+
+An' when Jeb comes to
+
+ &ldquo;I've got a gal at the head o' the holler,
+ </p><p>Heh-o-dee-um-dee-eedy-dahdy-dee!&rdquo;
+
+he jes turns one eye 'round on Polly
+Ann, an' then swings his chin aroun' as
+though he didn't give a cuss fer nothin'.
+
+ &ldquo;She won't come, an' I won't foller,
+ </p><p>Heh-o-dee-um-dee-eedy-dahdy-dee!&rdquo;
+
+<pb n="50"/>
+
+
+
+</p><p>Well, sir, Nance seed that Polly Ann
+was a-eyin' Jeb sort o' flustered like,
+an' she come might' nigh splittin' right
+thar an' a-sp'ilin' the fun, fer she
+knowed what a skeery fool Jeb was.
+An' when the ole folks goes to bed,
+Nance lays thar under a quilt a-watchin'
+an' a-listenin'.  Well, Jeb knowed
+the premises, ef he couldn't talk, an'
+purty soon Nance heerd Jeb's cheer
+creak a leetle, an' she says, Jeb's a-comin', and Jeb was; an' Polly Ann
+'lowed Jeb was jes a leetle <hi rend="italic">too</hi> resolute
+an' quick-like, an' she got her hand
+ready to give him one lick anyways
+fer bein' so brigaty.  I don't know as
+she'd 'a' hit him more'n <hi rend="italic">once</hi>.  Jeb had
+a farm, an' Polly Ann&mdash;well, Polly Ann
+was a-gittin' along.  But Polly Ann
+sot thar jes as though she didn't know
+
+<pb n="51"/>
+
+Jeb was a-comin', an' Jeb stopped once
+an' says,
+</p><p>&ldquo;You hain't got nothin' agin me, has
+ye?&rdquo;
+</p><p>An' Polly Ann says, sorter quick,
+</p><p>&ldquo;Naw; ef I had, I'd push it.&rdquo;
+</p><p>Well, Jeb mos' fell off his cheer, when,
+ef he hadn't been sech a skeery idgit,
+he'd 'a' knowed that Polly Ann was
+plain open an' shet a-biddin' fer him.
+But he sot thar like a knot on a log fer
+haffen hour, an' then he rickollected, I
+reckon, that Abe had tol' him Polly Ann
+was peppery an' he mustn't mind, fer
+Jeb begun a-movin' ag'in till he was
+slam-bang agin Polly Ann's cheer.  An'
+thar he sot like a punkin, not sayin' a
+word nur doin' nothin'.  An' while Polly
+Ann was a-wonderin' ef he was gone
+plumb crazy, blame me ef that durned
+
+<pb n="52"/>
+
+fool didn't turn roun' to that peppery
+gal an' say,
+</p><p>&ldquo;Booh, Polly Ann!&rdquo;
+</p><p>Well, Nance had to stuff the bedquilt
+in her mouth right thar to keep from
+hollerin' out loud, fer Polly Ann's hand
+was a-hangin' down by the cheer, jes
+a-waitin' fer a job, and Nance seed the
+fingers a-twitchin'.  An' Jeb waits
+another haffen hour an' Jeb says,
+</p><p>&ldquo;Ortern't I be killed?&rdquo;
+</p><p>&ldquo;Whut fer?&rdquo; says Polly Ann, sorter
+sharp.
+</p><p>An' Jeb says, &ldquo;Fer bein' so devilish.&rdquo;
+</p><p>Well, brother, Nance snorted right
+out thar, an' Polly Ann Sturgill's hand
+riz up jes once; an' I've heerd Jeb
+Somers say the next time he jumps out
+o' the Fryin' Pan he's a-goin' to take hell-fire 'stid o' Cutshin fer a place to light.
+</p>
+
+</div1>
+
+
+
+
+
+<div1 type="chapter" id="d13"><pb n="55"/>
+<head>THE MESSAGE IN THE SAND</head>
+
+<p>STRANGER, YOU furriners don't nuver
+seem to consider that a woman has
+always got the devil to fight in two
+people at once!  Hit's two agin one, I
+tell ye, an' hit hain't fa'r.
+</p><p>That's what I said more'n two year
+ago, when Rosie Branham was a-layin'
+up thar at Dave Hall's, white an' mos'
+dead.  An', <hi rend="italic">God</hi>, boys, I says, that leetle
+thing in thar by her shorely can't be to
+blame.
+</p><p>Thar hain't been a word agin Rosie
+sence; an', stranger, I reckon thar nuver
+
+<pb n="56"/>
+
+will be.  Fer, while the gal hain't got
+hide o' kith or kin, thar air two fellers
+up hyeh sorter lookin' atter Rosie; an'
+one of 'em is the shootin'es' man on
+this crick, I reckon, 'cept one; an',
+stranger, that's t'other.
+</p><p>Rosie kep' her mouth shet fer a long
+while; an' I reckon as how the feller
+'lowed she wasn't goin' to tell.  Co'se
+the woman folks got hit out'n her&mdash;they
+al'ays gits whut they want, as you know
+&mdash;an' thar the sorry cuss was&mdash;a-livin'
+up thar in the Bend, jes aroun' that
+bluff o' lorrel yander, a-lookin' pious, an'
+a-singin', an' a-sayin' Amen louder 'n
+anybody when thar was meetin'.
+</p><p>Well, my boy Jim an' a lot o' fellers
+jes went up fer him right away.  I don't
+know as the boys would 'a' killed him
+<hi rend="italic">exactly</hi> ef they had kotched him, though
+
+<pb n="57"/>
+
+they mought; but they got Abe Shivers,
+as tol' the feller they was a-comin'&mdash;
+you've heard tell o' Abe-an' they mos'
+beat Abraham Shivers to death.  Stranger,
+the sorry cuss was Dave.  Rosie
+hadn't no daddy an' no mammy; an'
+she was jes a-workin' at Dave's fer her
+victuals an' clo'es.  'Pears like the pore
+gal was jes tricked into evil.  Looked
+like she was sorter 'witched&mdash;an' anyways,
+stranger, she was a fightin' Satan
+in <hi rend="italic">herself</hi>, as well as in Dave.  Hit was
+two agin one, I tell ye, an' hit wasn't
+fa'r.
+</p><p>Co'se they turned Rosie right out in
+the road I hain't got a word to say
+agin Dave's wife fer that; an' atter a
+while the boys lets Dave come back, to
+take keer o' his ole mammy, of co'se,
+but I tell ye Dave's a-playin' a purty
+
+<pb n="58"/>
+
+lonesome tune.  He keeps purty shy <hi rend="italic">yit</hi>.
+He don't nuver sa'nter down this way.
+'Pears like he don't seem to think hit's
+healthy fer him down hyeh, an' I reckon
+Dave's right.
+</p><p>Rosie?  Oh, well, I sorter tuk Rosie
+in myself.  Yes, she's been livin' thar
+in the shack with me an' my boy Jim,
+an' the&mdash;  Why, thar he is now, stranger.
+That's him a-wallerin' out thar in the
+road.  Do you reckon thar'd be a single
+thing agin that leetle cuss ef he had to
+stan' up on Jedgment Day jes as he is
+now?
+</p><p>Look hyeh, stranger, whut you reckon
+the Lawd kep' a-writin' thar on the
+groun' that day when them fellers was
+a-pesterin' him 'bout that pore woman?
+Don't you jes know he was a writin'
+'bout sech as <hi rend="italic">him</hi>&mdash;an' Rosie?  I tell
+
+<pb n="59"/>
+
+ye, brother, he writ thar jes what I'm
+al'ays a-sayin'.
+</p><p>Hit hain't the woman's fault.  I said
+it more'n two year ago, when Rosie was
+up thar at ole Dave's, an' I said it
+yestiddy, when my boy Jim come to
+me an' 'lowed as how he aimed to
+take Rosie down to town to-day an'
+git married.
+</p><p>&ldquo;You ricollect, dad,&rdquo; says Jim, &ldquo;her
+mammy?&rdquo;
+</p><p>&ldquo;Yes, Jim,&rdquo; I says; &ldquo;all the better
+reason not to be too hard on Rosie.&rdquo;
+</p><p>I'm a-lookin' fer 'em both back right
+now, stranger; an' ef you will, I'll be
+mighty glad to have ye stay right hyeh
+to the infair this very night.  Thar nuver
+was a word agin Rosie afore, thar hain't
+been sence, an' you kin ride up an' down
+this river till the crack o' doom an' you'll
+
+<pb n="60"/>
+
+nuver hear a word agin her ag'in.  Fer,
+as I tol' you, my boy, Jim is the shoot-in'es' feller on this crick, I reckon, 'cept
+<hi rend="italic">one</hi>, an', stranger, that's <hi rend="italic">me!</hi>
+</p>
+
+</div1>
+
+
+
+<div1 type="chapter" id="d14"><pb n="63"/>
+<head>THE SENATOR'S LAST TRADE</head>
+
+<p>A DROVE of lean cattle were swinging
+easily over Black Mountain, and
+behind them came a big man with
+wild black hair and a bushy beard.
+Now and then he would gnaw at his
+mustache with his long, yellow teeth,
+or would sit down to let his lean horse
+rest, and would flip meaninglessly at
+the bushes with a switch.  Sometimes
+his bushy head would droop over on
+his breast, and he would snap it up
+sharply and start painfully on.  Robber,
+cattle-thief, outlaw he might have
+
+<pb n="64"/>
+
+been in another century; for he filled
+the figure of any robber hero in life
+or romance, and yet he was only the
+Senator from Bell, as he was known
+in the little Kentucky capital; or, as
+he was known in his mountain home,
+just the Senator, who had toiled and
+schemed and grown rich and grown poor;
+who had suffered long and was kind.
+</p><p>Only that Christmas he had gutted
+every store in town.  &ldquo;Give me everything
+you have, brother,&rdquo; he said, across
+each counter; and next day every man,
+woman, and child in the mountain
+town had a present from the Senator's
+hands.  He looked like a brigand that
+day, as he looked now, but he called
+every man his brother, and his eye,
+while black and lustreless as night, was
+as brooding and just as kind.
+
+<pb n="65"/>
+
+</p><p>When the boom went down, with it
+and with everybody else went the Senator.
+Slowly he got dusty, ragged,
+long of hair.  He looked tortured and
+ever-restless.  You never saw him still;
+always he swept by you, flapping his
+legs on his lean horse or his arms in
+his rickety buggy here, there, everywhere&mdash;
+turning, twisting, fighting his
+way back to freedom&mdash;and not a murmur.
+Still was every man his brother,
+and if some forgot his once open hand,
+he forgot it no more completely than
+did the Senator.  He went very far to
+pay his debts.  He felt honor bound,
+indeed, to ask his sister to give back
+the farm that he had given her, which,
+very properly people said, she declined
+to do.  Nothing could kill hope in the
+Senator's breast; he would hand back
+
+
+<pb n="66"/>
+
+the farm in another year, he said; but
+the sister was firm, and without a word
+still, the Senator went other ways and
+schemed through the nights, and worked
+and rode and walked and traded
+through the days, until now, when the
+light was beginning to glimmer, his
+end was come.
+</p><p>This was the Senator's last trade, and
+in sight, down in a Kentucky valley,
+was home.  Strangely enough, the Senator
+did not care at all, and he had
+just enough sanity left to wonder why,
+and to be worried.  It was the &ldquo;walking
+typhoid&rdquo; that had caught up with
+him, and he was listless, and he made
+strange gestures and did foolish things
+as he stumbled down the mountain.
+He was going over a little knoll now,
+and he could see the creek that ran
+
+<pb n="67"/>
+
+around his house, but he was not
+touched.  He would just as soon have
+lain down right where he was, or have
+turned around and gone back, except
+that it was hot and he wanted to get
+to the water.  He remembered that it
+was nigh Christmas; he saw the snow
+about him and the cakes of ice in the
+creek.  He knew that he ought not to
+be hot, and yet he was&mdash;so hot that
+he refused to reason with himself even
+a minute, and hurried on.  It was odd
+that it should be so, but just about
+that time, over in Virginia, a cattle
+dealer, nearing home, stopped to tell
+a neighbor how he had tricked some
+black-whiskered fool up in the mountains.
+It may have been just when he
+was laughing aloud over there, that the
+Senator, over here, tore his woollen
+
+<pb n="68"/>
+
+shirt from his great hairy chest and
+rushed into the icy stream, clapping
+his arms to his burning sides and
+shouting in his frenzy.
+</p><p>&ldquo;If he had lived a little longer,&rdquo; said
+a constituent, &ldquo;he would have lost the
+next election.  He hadn't the money,
+you know.&rdquo;
+</p><p>&ldquo;If he had lived a little longer,&rdquo; said
+the mountain preacher high up on Yellow
+Creek, &ldquo;I'd have got that trade I
+had on hand with him through.  Not
+that I wanted him to die, but if he
+had to&mdash;why&mdash;&rdquo;
+</p><p>&ldquo;If he had lived a little longer,&rdquo;
+said the Senator's lawyer, &ldquo;he would
+have cleaned off the score against
+him.&rdquo;
+</p><p>&ldquo;If he had lived a little longer,&rdquo; said
+the Senator's sister, not meaning to
+
+<pb n="69"/>
+
+be unkind, &ldquo;he would have got all I
+have.&rdquo;
+</p><p>That was what life held for the
+Senator.  Death was more kind.
+</p>
+
+</div1>
+
+
+<div1 type="chapter" id="d15"><pb n="73"/>
+<head>PREACHIN' ON KINGDOM-COME</head>
+
+<p>I'VE told ye, stranger, that Hell fer
+Sartain empties, as it oughter, of co'se,
+into Kingdom-Come.  You can ketch
+the devil 'most any day in the week on
+Hell fer Sartain, an' sometimes you can
+git Glory everlastin' on Kingdom-Come.
+Hit's the only meetin'-house thar in
+twenty miles aroun'.
+</p><p>Well, the reg'lar rider, ole Jim Skaggs,
+was dead, an' the bretherin was a-lookin'
+aroun' fer somebody to step into ole
+Jim's shoes.  Thar'd been one young
+feller up thar from the settlemints, a-cavortin'
+
+<pb n="74"/>
+aroun', an' they was studyin'
+'bout gittin' him.
+</p><p>&ldquo;Bretherin' an' sisteren,&rdquo; I says, atter
+the leetle chap was gone, &ldquo;he's got the
+fortitood to speak an' he shorely is well
+favored.  He's got a mighty good hawk
+eye fer spyin' out evil&mdash;an' the gals; he
+can outholler ole Jim; an' <hi rend="italic">if</hi>,&rdquo; I says,
+&ldquo;any <hi rend="italic">idees</hi> ever comes to him, he'll be
+a hell-rouser shore&mdash;but they ain't comin'!&rdquo;
+An', so sayin', I takes my foot in
+my hand an' steps fer home.
+</p><p>Stranger, them fellers over thar hain't
+seed much o' this world.  Lots of 'em
+nuver seed the cyars; some of 'em nuver
+seed a wagon.  An' atter jowerin' an'
+noratin' fer 'bout two hours, what you
+reckon they said they aimed to do?
+They believed they'd take that ar man
+Beecher, ef they could git him to come.
+
+<pb n="75"/>
+
+They'd heerd o' Henry endurin' the war,
+an' they knowed he was agin the rebs,
+an' they wanted Henry if they could
+jes git him to come.
+</p><p>Well, I snorted, an' the feud broke
+out on Hell fer Sartain betwixt the Days
+an' the Dillons.  Mace Day shot Daws
+Dillon's brother, as I rickollect&mdash;somep'n's
+al'ays a-startin' up that plaguey
+war an' a-makin' things frolicsome over
+thar&mdash;an' ef it hadn't a-been fer a tall
+young feller with black hair an' a scar
+across his forehead, who was a-goin'
+through the mountains a-settlin' these
+wars, blame me ef I believe thar ever
+would 'a' been any mo' preachin' on
+Kingdom-Come.  This feller comes over
+from Hazlan an' says he aims to hold a
+meetin' on Kingdom-Come.  &ldquo;Brother,&rdquo;
+I says, &ldquo;that's what no preacher have
+
+<pb n="76"/>
+
+ever did whilst this war is a-goin' on.&rdquo;
+An' he says, sort o' quiet, &ldquo;Well, then, I
+reckon I'll have to do what no preacher
+have ever did.&rdquo;  An' I ups an' says:
+&ldquo;Brother, an ole jedge come up here
+once from the settlemints to hold couht.
+`Jedge,' I says, `that's what no jedge
+have ever did without soldiers since this
+war's been a-goin' on.'  An', brother, the
+jedge's words was yours, p'int-blank.
+`All right,' he says, `then I'll have to do
+what no other jedge have ever did.'
+An', brother,&rdquo; says I to the preacher,
+&ldquo;the jedge done it shore.  He jes laid
+under the couht-house fer two days whilst
+the boys fit over him.  An' when I sees
+the jedge a-makin' tracks fer the settlemints,
+I says, `Jedge,' I says, `you spoke
+a parable shore.' &rdquo;
+</p><p>Well, sir, the long preacher looked
+
+<pb n="77"/>
+
+jes as though he was a-sayin' to hisself,
+&ldquo;Yes, I hear ye, but I don't heed ye,&rdquo;
+an' when he says, &ldquo;Jes the same, I'm
+a-goin' to hold a meetin' on Kingdom-Come,&rdquo; why, I jes takes my foot in my
+hand an' ag'in I steps fer home.
+</p><p>That night, stranger, I seed another
+feller from Hazlan, who was a-tellin' how
+this here preacher had stopped the war
+over thar, an' had got the Marcums an'
+Braytons to shakin' hands; an' next day
+ole Tom Perkins stops in an' says that
+<hi rend="italic">wharas</hi> there mought 'a' been preachin'
+somewhar an' sometime, thar nuver had
+been <hi rend="italic">preachin</hi>' afore on Kingdom-Come.
+So I goes over to the meetin' house, an'
+they was all thar&mdash;Daws Dillon an'
+Mace Day, the leaders in the war, an'
+Abe Shivers you've heerd tell o' Abe
+who was a-carryin' tales from one side to
+
+<pb n="78"/>
+
+t'other an' a-stirrin' up hell ginerally, as
+Abe most al'ays is; an' thar was Daws
+on one side o' the meetin'-house an'
+Mace on t'other, an' both jes a-watchin'
+fer t'other to make a move, an' thar'd
+'a' been billy-hell to pay right thar!
+Stranger, that long preacher talked jes
+as easy as I'm a-talkin' now, an' hit was
+p'int-blank as the feller from Hazlan
+said.  You jes ought 'a' heerd him tellin'
+about the Lawd a-bein' as pore as any
+feller thar, an' a-makin' barns an' fences
+an' ox-yokes an' sech like; an' not
+a-bein' able to write his own name&mdash;
+havin' to make his mark mebbe&mdash;when
+he started out to save the world.  An'
+how they tuk him an' nailed him onto
+a cross when he'd come down fer nothin'
+but to save 'em; an' stuck a spear big as
+a corn-knife into his side, an' give him
+
+<pb n="79"/>
+
+vinegar; an' his own mammy a-standin'
+down thar on the ground a-cryin' an'
+a-watchin' him an' he a-fergivin' all of
+'em then an' thar!
+</p><p>Thar nuver had been nothin' like that
+afore on Kingdom-Come, an' all along I
+heerd fellers a-layin' thar guns down;
+an when the preacher called out fer
+sinners, blame me ef the fust feller that
+riz wasn't Mace Day.  An' Mace says,
+&ldquo;Stranger, 'f what you say is true, I
+reckon the Lawd 'll fergive me too, but
+I don't believe Daws Dillon ever will,&rdquo;
+an' Mace stood thar lookin' around fer
+Daws.  An' all of a sudden the preacher
+got up straight an' called out, &ldquo;Is thar
+a human in this house mean an' sorry
+enough to stand betwixt a man an' his
+Maker&rdquo;?  An' right thar, stranger, Daws
+riz.  &ldquo;Naw, by God, thar hain' t!&rdquo; Daws
+
+<pb n="80"/>
+
+says, an' he walks up to Mace a-holdin'
+out his hand, an' they all busts out
+cryin' an' shakin' hands&mdash;Days an' Dillons&mdash;
+jes as the preacher had made 'em
+do over in Hazlan.  An' atter the thing
+was over, I steps up to the preacher an'
+I says:
+</p><p>&ldquo;Brother,&rdquo; I says, &ldquo;<hi rend="italic">you</hi> spoke a
+parable, shore.&rdquo;
+</p>
+
+</div1>
+
+
+
+<div1 type="chapter" id="d16"><pb n="83"/>
+<head>THE PASSING OF ABRAHAM SHIVERS</head>
+
+<p>&ldquo;I TELL ye, boys, hit hain t often a
+feller has the chance o' doin' so much
+good jes by <hi rend="italic">dyin'</hi>.  Fer 'f Abe Shivers
+air gone, shorely gone, the rest of us&mdash;
+every durn one of us&mdash;air a-goin' to be
+saved.  Fer Abe Shivers&mdash;you hain't
+heerd tell o' <hi rend="italic">Abe?</hi>  Well, you must be a
+stranger in these mountains o' Kaintuck,
+shore.
+</p><p>&ldquo;I don't know, stranger, as Abe ever
+was borned; nobody in these mountains
+knows it 'f he was.  The fust time I ever
+
+<pb n="84"/>
+
+heerd tell o' Abe he was a-hollerin' fer his
+rights one mawnin' at daylight, endurin'
+the war, jes outside o' ole Tom Perkins'
+door on Fryin' Pan.  Abe was left thar
+by some home-gyard, I reckon.  Well,
+nobody air ever turned out'n doors in
+these mountains, as you know, an' Abe
+got his rights that mawin', an' he's been
+a-gittin' 'em ever sence.  Tom already
+had a houseful, but 'f any feller got the
+bigges' hunk o' corn-bread, that feller was
+Abe; an' ef any feller got a-whalin',
+hit wasn't Abe.
+</p><p>&ldquo;Abe tuk to lyin' right naturely&mdash;
+looked like&mdash;afore he could talk.  Fact
+is, Abe nuver could do nothin' but jes
+whisper.  Still, Abe could manage to
+send a lie furder with that rattlin'
+whisper than ole Tom could with
+that big horn o' hisn what tells the
+
+<pb n="85"/>
+
+boys the revenoos air comin' up Fryin'
+Pan.'
+</p><p>&ldquo;Didn't take Abe long to git to braggin'
+an' drinkin' an' naggin' an' hectorin'
+&mdash;everything, 'mos', 'cept fightin'.  Nobody
+ever drawed Abe Shivers into a
+fight.  I don't know as he was afeerd;
+looked like Abe was a-havin' sech a
+tarnation good time with his devilmint he
+jes didn't want to run no risk o' havin'
+hit stopped.  An' sech devilmint!  Hit
+ud take a coon's age, I reckon, to tell
+ye.
+</p><p>&ldquo;The boys was a-goin' up the river
+one night to git ole Dave Hall fer trickin'
+Rosie Branham into evil.  Some feller
+goes ahead an' tells ole Dave they's
+a-comin.'  Hit was Abe.  Some feller
+finds a streak o' ore on ole Tom Perkins'
+land, an' racks his jinny down to town,
+
+<pb n="86"/>
+
+an' tells a furriner thar, an' Tom comes
+might' nigh sellin' the land fer nothin'.
+Now Tom raised Abe, but, jes the same,
+the feller was Abe.
+</p><p>&ldquo;One night somebody guides the
+revenoos in on Hell fer Sartain, an' they
+cuts up four stills.  Hit was Abe.  The
+same night, mind ye, a feller slips in
+among the revenoos while they's asleep,
+and cuts off their hosses' manes an'
+tails&mdash;muled every durned critter uv
+'em.  Stranger, hit was Abe.  An' as
+fer women-folks&mdash;well, Abe was the
+ill favoredest feller I ever see, an' he
+couldn't talk; still, Abe was sassy, an'
+you know how sass counts with the gals;
+an' Abe's whisperin' come in jes as
+handy as any feller's settin' up; so 'f
+ever you seed a man with a Winchester
+a-lookin' fer the feller who had cut
+
+<pb n="87"/>
+
+him out, stranger, he was a-lookin' fer
+Abe.
+</p><p>&ldquo;Somebody tells Harve Hall, up thar
+at a dance on Hell-fer-Sartain one Christmas
+night, that Rich Harp had said
+somep'n' agin him an' Nance Osborn.
+An' somebody tells Rich that Harve had
+said sompe'n' agin Nance an' <hi rend="italic">him</hi>.  Hit
+was one an' the same feller, stranger, an'
+the feller was Abe.  Well, while Rich
+an' Harve was a-gittin' well, somebody
+runs off with Nance.  Hit was Abe.
+Then Rich an' Harve jes draws straws
+fer a feller.  Stranger, they drawed fer
+Abe.  Hit's purty hard to believe that
+Abe air gone, 'cept that Rich Harp an'
+Harve Hall don't never draw no straws
+fer nothin'; but 'f by the grace o' Goddle-mighty Abe air gone, why, as I was
+a-sayin', the rest of us&mdash;every durned one
+
+<pb n="88"/>
+
+of us air a-goin' to be saved, shore.
+Fer Abe's gone fust, an' ef thar's only
+one Jedgment Day, the Lawd 'll nuver
+git to us.&rdquo;
+</p>
+
+</div1>
+
+
+
+<div1 type="chapter" id="d17"><pb n="91"/>
+<head>A PURPLE RHODODENDRON</head>
+
+<p>THE purple rhododendron is rare.
+Up in the Gap here, Bee Rock, hung
+out over Roaring Rock, blossoms with
+it&mdash;as a gray cloud purples with the
+sunrise.  This rock was tossed lightly
+on edge when the earth was young, and
+stands vertical.  To get the flowers you
+climb the mountain to one side, and,
+balancing on the rock's thin edge, slip
+down by roots and past rattlesnake dens
+till you hang out over the water and
+reach for them.  To avoid snakes it is
+best to go when it is cool, at daybreak.
+
+<pb n="92"/>
+
+</p><p>I know but one other place in this
+southwest corner of Virginia where
+there is another bush of purple
+rhododendron, and one bush only is there.
+This hangs at the throat of a peak not
+far away, whose ageless gray head is
+bent over a ravine that sinks like a
+spear thrust into the side of the
+mountain.  Swept only by high wind and
+eagle wings as this is, I yet knew one
+man foolhardy enough to climb to it
+for a flower.  He brought one blossom
+down: and to this day I do not know
+that it was not the act of a coward;
+yes, though Grayson did it, actually
+smiling all the way from peak to ravine,
+and though he was my best friend
+&mdash;best loved then and since.  I believe
+he was the strangest man I have ever
+known, and I say this with thought;
+
+<pb n="93"/>
+
+for his eccentricities were sincere.  In
+all he did I cannot remember having
+even suspected anything theatrical but
+once.
+</p><p>We were all Virginians or Kentuckians
+at the Gap, and Grayson was a
+Virginian.  You might have guessed
+that he was a Southerner from his voice
+and from the way he spoke of women
+&mdash;but no more.  Otherwise, he might
+have been a Moor, except for his color,
+which was about the only racial
+characteristic he had.  He had been educated
+abroad and, after the English habit, had
+travelled everywhere.  And yet I can
+imagine no more lonely way between
+the eternities than the path Grayson
+trod alone.
+</p><p>He came to the Gap in the early
+days, and just why he came I never
+
+
+<pb n="94"/>
+
+knew.  He had studied the iron question
+a long time, he told me, and what
+I thought reckless speculation was, it
+seems, deliberate judgment to him.  His
+money &ldquo;in the dirt,&rdquo; as the phrase was,
+Grayson got him a horse and rode the
+hills and waited.  He was intimate with
+nobody.  Occasionally he would play
+poker with us and sometimes he drank
+a good deal, but liquor never loosed his
+tongue.  At poker his face told as little
+as the back of his cards, and he won more
+than admiration&mdash;even from the Kentuckians,
+who are artists at the game;
+but the money went from a free hand,
+and, after a diversion like this, he was
+apt to be moody and to keep more to
+himself than ever.  Every fortnight or
+two he would disappear, always over
+Sunday.  In three or four days he
+
+<pb n="95"/>
+
+would turn up again, black with brooding,
+and then he was the last man to
+leave the card-table or he kept away
+from it altogether.  Where he went nobody
+knew; and he was not the man
+anybody would question.
+</p><p>One night two of us Kentuckians
+were sitting in the club, and from a
+home paper I read aloud the rumored
+engagement of a girl we both knew&mdash;
+who was famous for beauty in the Bluegrass,
+as was her mother before her and
+the mother before her&mdash;to an unnamed
+Virginian.  Grayson sat near, smoking a
+pipe; and when I read the girl's name
+I saw him take the meerschaum from
+his lips, and I felt his eyes on me.  It
+was a mystery how, but I knew at once
+that Grayson was the man.  He sought
+me out after that and seemed to want
+
+<pb n="96"/>
+
+to make friends.  I was willing, or, rather
+he made me more than willing; for
+he was irresistible to me, as I imagine
+he would have been to anybody.  We
+got to walking together and riding
+together at night, and we were soon rather
+intimate; but for a long time he never
+so much as spoke the girl's name.  Indeed,
+he kept away from the Bluegrass
+for nearly two months; but when he
+did go he stayed a fortnight.
+</p><p>This time he came for me as soon as
+he got back to the Gap.  It was just
+before midnight, and we went as usual
+back of Imboden Hill, through moon-dappled beeches, and Grayson turned
+off into the woods where there was
+no path, both of us silent.  We rode
+through tremulous, shining leaves&mdash;
+Grayson's horse choosing a way for
+himself&mdash;
+
+<pb n="97"/>
+and, threshing through a patch
+of high, strong weeds, we circled past an
+amphitheatre of deadened trees whose
+crooked arms were tossed out into the
+moonlight, and halted on the spur.  The
+moon was poised over Morris's farm;
+South Fork was shining under us like a
+loop of gold, the mountains lay about in
+tranquil heaps, and the moon-mist rose
+luminous between them.  There Grayson
+turned to me with an eager light in
+his eyes that I had never seen before.
+</p><p>&ldquo;This has a new beauty to-night!&rdquo;
+he said; and then &ldquo;I told her about
+you, and she said that she used to know
+you&mdash;well.&rdquo;  I was glad my face was in
+shadow&mdash;I could hardly keep back a
+brutal laugh&mdash;and Grayson, unseeing,
+went on to speak of her as I had never
+heard any man speak of any woman.  In
+
+<pb n="98"/>
+
+the end, he said that she had just promised
+to be his wife.  I answered nothing.
+Other men, I knew, had said that
+with the same right, perhaps, and had
+gone from her to go back no more.
+And I was one of them.  Grayson had
+met her at White Sulphur five years
+before, and had loved her ever since.
+She had known it from the first, he
+said, and I guessed then what was going
+to happen to him.  I marvelled, listening
+to the man, for it was the star of
+constancy in her white soul that was
+most lustrous to him&mdash;and while I
+wondered the marvel became a commonplace.
+Did not every lover think his
+loved one exempt from the frailty that
+names other women?  There is no ideal
+of faith or of purity that does not live
+in countless women to-day.  I believe
+
+<pb n="99"/>
+
+that; but could I not recall one friend
+who walked with Divinity through pine
+woods for one immortal spring, and who,
+being sick to death, was quite finished
+&mdash;learning her at last?  Did I not know
+lovers who believed sacred to themselves,
+in the name of love, lips that
+had been given to many another without
+it?  And now did I not know&mdash;but
+I knew too much, and to Grayson I said
+nothing.
+</p><p>That spring the &ldquo;boom&rdquo; came.  Grayson's
+property quadrupled in value and
+quadrupled again.  I was his lawyer, and
+I plead with him to sell; but Grayson
+laughed.  He was not speculating; he
+had invested on judgment; he would
+sell only at a certain figure.  The figure
+was actually reached, and Grayson let
+half go.  The boom fell, and Grayson
+
+<pb n="100"/>
+
+took the tumble with a jest.  It would
+come again in the autumn, he said, and
+he went off to meet the girl at White
+Sulphur.
+</p><p>I worked right hard that summer, but
+I missed him, and I surely was glad
+when he came back.  Something was
+wrong; I saw it at once.  He did not
+mention her name, and for a while he
+avoided even me.  I sought him then,
+and gradually I got him into our old
+habit of walking up into the Gap and of
+sitting out after supper on a big rock in
+the valley, listening to the run of the
+river and watching the afterglow over
+the Cumberland, the moon rise over
+Wallen's Ridge and the stars come out.
+Waiting for him to speak, I learned for
+the first time then another secret of his
+wretched melancholy.  It was the hopelessness
+
+<pb n="101"/>
+
+of that time, perhaps, that disclosed
+it.  Grayson had lost the faith
+of his childhood.  Most men do that at
+some time or other, but Grayson had
+no business, no profession, no art in
+which to find relief.  Indeed, there was
+but one substitute possible, and that
+came like a gift straight from the God
+whom he denied.  Love came, and Grayson's
+ideals of love, as of everything
+else, were morbid and quixotic.  He
+believed that he owed it to the woman
+he should marry never to have loved
+another.  He had loved but one woman,
+he said, and he should love but one.
+I believed him then literally when he
+said that his love for the Kentucky
+girl was his religion now&mdash;the only
+anchor left him in his sea of troubles,
+the only star that gave him guiding
+
+<pb n="102"/>
+
+light.  Without this love, what
+then?
+</p><p>I had a strong impulse to ask him,
+but Grayson shivered, as though he
+divined my thought, and, in some
+relentless way, our talk drifted to the
+question of suicide.  I was not surprised
+that he rather defended it.  Neither of
+us said anything new, only I did not
+like the way he talked.  He was too
+deliberate, too serious, as though he
+were really facing a possible fact.  He
+had no religious scruples, he said, no
+family ties; he had nothing to do with
+bringing himself into life; why&mdash;if it
+was not worth living, not bearable&mdash;
+why should he not end it?  He gave
+the usual authority, and I gave the
+usual answer.  Religion aside, if we did
+not know that we were here for some
+
+<pb n="103"/>
+
+purpose, we did not know that we were
+not; and here we were anyway, and
+our duty was plain.  Desertion was the
+act of a coward, and that Grayson could
+not deny.
+</p><p>That autumn the crash of '91 came
+across the water from England, and
+Grayson gave up.  He went to
+Richmond, and came back with money
+enough to pay off his notes, and I
+think it took nearly all he had.  Still,
+he played poker steadily now&mdash;for poker
+had been resumed when it was no longer
+possible to gamble in lots&mdash;he drank
+a good deal, and he began just at this
+time to take a singular interest in our
+volunteer police guard.  He had always
+been on hand when there was trouble,
+and I sha'n't soon forget him the day
+Senator Mahone spoke, when we were
+
+<pb n="104"/>
+
+punching a crowd of mountaineers back
+with cocked Winchesters.  He had lost
+his hat in a struggle with one giant; he
+looked half crazy with anger, and yet
+he was white and perfectly cool, and I
+noticed that he never had to tell a man
+but once to stand back.  Now he was
+the first man to answer a police whistle.
+When we were guarding Talt Hall, he
+always volunteered when there was any
+unusual risk to run.  When we raided
+the Pound to capture a gang of
+desperadoes, he insisted on going ahead as
+spy; and when we got restless lying
+out in the woods waiting for daybreak,
+and the captain suggested a charge on
+the cabin, Grayson was by his side when
+it was made.  Grayson sprang through
+the door first, and he was the man who
+thrust his reckless head up into the loft
+
+<pb n="105"/>
+
+and lighted a match to see if the murderers
+were there.  Most of us did foolish
+things in those days under stress
+of excitement, but Grayson, I saw, was
+weak enough to be reckless.  His trouble
+with the girl, whatever it was, was
+serious enough to make him apparently
+care little whether he were alive or dead.
+And still I saw that not yet even had
+he lost hope.  He was having a sore
+fight with his pride, and he got body-worn and heart-sick over it.  Of course
+he was worsted, and in the end, from
+sheer weakness, he went back to her
+once more.
+</p><p>I shall never see another face like his
+when Grayson came back that last time.
+I never noticed before that there were
+silver hairs about his temples.  He stayed
+in his room, and had his meals sent to
+
+<pb n="106"/>
+
+him.  He came out only to ride, and then
+at night.  Waking the third morning at
+daybreak, I saw him through the window
+galloping past, and I knew he had spent
+the night on Black Mountain.  I went
+to his room as soon as I got up, and
+Grayson was lying across his bed with
+his face down, his clothes on, and in his
+right hand was a revolver.  I reeled
+into a chair before I had strength enough
+to bend over him, and when I did I
+found him asleep.  I left him as he was,
+and I never let him know that I had
+been to his room; but I got him out on
+the rock again that night, and I turned
+our talk again to suicide.  I said it was
+small, mean, cowardly, criminal,
+contemptible!  I was savagely in earnest,
+and Grayson shivered and said not a
+word.  I thought he was in better mind
+
+<pb n="107"/>
+
+after that.  We got to taking night
+rides again, and I stayed as closely to
+him as I could, for times got worse and
+trouble was upon everybody.  Notes fell
+thicker than snowflakes, and, through
+the foolish policy of the company,
+foreclosures had to be made.  Grayson went
+to the wall like the rest of us.  I asked
+him what he had done with the money
+he had made.  He had given away a
+great deal to poorer kindred; he had
+paid his dead father's debts; he had
+played away a good deal, and he had
+lost the rest.  His faith was still
+imperturbable.  He had a dozen rectangles of
+&ldquo;dirt,&rdquo; and from these, he said, it would
+all come back some day.  Still, he felt
+the sudden poverty keenly, but he faced
+it as he did any other physical fact in
+life&mdash;dauntless.  He used to be fond of
+
+<pb n="108"/>
+
+saying that no one thing could make
+him miserable.  But he would talk with
+mocking earnestness about some much-dreaded combination; and a favorite
+phrase of his&mdash;which got to have peculiar
+significance&mdash;was &ldquo;the cohorts of hell,&rdquo;
+who closed in on him when he was sick
+and weak, and who fell back when he
+got well.  He had one strange habit,
+too, from which I got comfort.  He
+would deliberately walk into and defy
+any temptation that beset him.  That
+was the way he strengthened himself,
+he said.  I knew what his temptation
+was now, and I thought of this habit
+when I found him asleep with his
+revolver, and I got hope from it now,
+when the dreaded combination whatever
+that was seemed actually to have come.
+</p><p>I could see now that he got worse
+
+<pb n="109"/>
+
+daily.  He stopped his mockeries, his
+occasional fits of reckless gayety.  He
+stopped poker&mdash;resolutely&mdash;he couldn't
+afford to lose now; and, what puzzled me,
+he stopped drinking.  The man simply
+looked tired, always hopelessly tired;
+and I could believe him sincere in all
+his foolish talk about his blessed Nirvana:
+which was the peace he craved,
+which was end enough for him.
+</p><p>Winter broke.  May drew near; and
+one afternoon, when Grayson and I took
+our walk up through the Gap, he carried
+along a huge spy-glass of mine, which
+had belonged to a famous old desperado,
+who watched his enemies with it from the
+mountain-tops.  We both helped capture
+him, and I defended him.  He was
+sentenced to hang&mdash;the glass was my fee.
+We sat down opposite Bee Rock, and
+
+<pb n="110"/>
+
+for the first time Grayson told me of
+that last scene with her.  He spoke
+without bitterness, and he told me what
+she said, word for word, without a breath
+of blame for her.  I do not believe that
+he judged her at all; she did not know&mdash;
+he always said; she did not <hi rend="italic">know</hi>; and
+then, when I opened my lips, Grayson
+reached silently for my wrist, and I can
+feel again the warning crush of his fingers,
+and I say nothing against her now.
+</p><p>I asked Grayson what his answer was.
+</p><p>&ldquo;I asked her,&rdquo; he said, solemnly, &ldquo;if
+she had ever seen a purple rhododendron.&rdquo;
+</p><p>I almost laughed, picturing the scene
+&mdash;the girl bewildered by his absurd question&mdash;
+Grayson calm, superbly courteous.
+It was a mental peculiarity of his&mdash;this
+irrelevancy&mdash;and it was like him to end
+
+<pb n="111"/>
+
+a matter of life and death in just that
+way.
+</p><p>&ldquo;I told her I should send her one.
+I am waiting for them to come out,&rdquo; he
+added; and he lay back with his head
+against a stone and sighted the telescope
+on a dizzy point, about which buzzards
+were circling.
+</p><p>&ldquo;There is just one bush of rhododendron
+up there,&rdquo; he went on.  &ldquo;I saw it
+looking down from the Point last spring.
+I imagine it must blossom earlier than
+that across there on Bee Rock, being
+always in the sun.  No, it's not budding
+yet,&rdquo; he added, with his eye to the glass.
+</p><p>&ldquo;You see that ledge just to the left?  I
+dropped a big rock from the Point square
+on a rattler who was sunning himself
+there last spring.  I can see a foothold
+all the way up the cliff.  It can be done,&rdquo;
+
+<pb n="112"/>
+
+he concluded, in a tone that made me
+turn sharply upon him.
+</p><p>&ldquo;Do you really mean to climb up
+there?&rdquo; I asked, harshly.
+</p><p>&ldquo;If it blossoms first up there&mdash;I'll get
+it where it blooms first.&rdquo;  In a moment
+I was angry and half sick with suspicion,
+for I knew his obstinacy; and
+then began what I am half ashamed to
+tell.
+</p><p>Every day thereafter Grayson took
+that glass with him, and I went along
+to humor him.  I watched Bee Rock,
+and he that one bush at the throat of
+the peak&mdash;neither of us talking over the
+matter again.  It was uncanny, that
+rivalry&mdash;sun and wind in one spot, sun
+and wind in another&mdash;Nature herself
+casting the fate of a half-crazed fool
+with a flower.  It was utterly absurd,
+
+<pb n="113"/>
+
+but I got nervous over it&mdash;apprehensive,
+dismal.
+</p><p>A week later it rained for two days,
+and the water was high.  The next
+day the sun shone, and that afternoon
+Grayson smiled, looking through the
+glass, and handed it to me.  I knew
+what I should see.  One purple cluster,
+full blown, was shaking in the wind.
+Grayson was leaning back in a dream
+when I let the glass down.  A cool
+breath from the woods behind us
+brought the odor of roots and of black
+earth; up in the leaves and sunlight
+somewhere a wood-thrush was singing,
+and I saw in Grayson's face what
+I had not seen for a long time, and
+that was peace&mdash;the peace of stubborn
+purpose.  He did not come
+for me the next day, nor the next;
+
+<pb n="114"/>
+
+but the next he did, earlier than
+usual.
+</p><p>&ldquo;I am going to get that rhododendron,&rdquo;
+he said.  &ldquo;I have been half-way
+up&mdash;it can be reached.&rdquo;  So had I been
+half-way up.  With nerve and agility
+the flower could be got, and both these
+Grayson had.  If he had wanted to
+climb up there and drop, he could have
+done it alone, and he would have known
+that I should have found him.  Grayson
+was testing himself again, and, angry
+with him for the absurdity of the thing
+and with myself for humoring it, but
+still not sure of him, I picked up my hat
+and went.  I swore to myself silently
+that it was the last time I should pay
+any heed to his whims.  I believed this
+would be the last.  The affair with the
+girl was over.  The flower sent, I knew
+
+<pb n="115"/>
+
+Grayson would never mention her name
+again.
+</p><p>Nature was radiant that afternoon.
+The mountains had the leafy luxuriance
+of June, and a rich, sunlit haze
+drowsed on them between the shadows
+starting out over the valley and the
+clouds so white that the blue of the sky
+looked dark.  Two eagles shot across
+the mouth of the Gap as we neared it,
+and high beyond buzzards were sailing
+over Grayson's rhododendron.
+</p><p>I went up the ravine with him and
+I climbed up behind him&mdash;Grayson
+going very deliberately and whistling
+softly.  He called down to me when he
+reached the shelf that looked half-way.
+</p><p>&ldquo;You mustn't come any farther than
+this,&rdquo; he said.  &ldquo;Get out on that rock
+and I'll drop them down to you.&rdquo;
+
+<pb n="116"/>
+
+</p><p>Then he jumped from the ledge and
+caught the body of a small tree close
+to the roots, and my heart sank at such
+recklessness and all my fears rose again.
+I scrambled hastily to the ledge, but I
+could get no farther.  I might possibly
+make the jump he had made&mdash;but how
+should I ever get back?  How would
+he?  I called angrily after him now,
+and he wouldn't answer me.  I called
+him a fool, a coward; I stamped the
+ledge like a child&mdash;but Grayson kept
+on, foot after hand, with stealthy
+caution, and the purple cluster nodding
+down at him made my head whirl.  I
+had to lie down to keep from tumbling
+from the ledge; and there on my side,
+gripping a pine bush, I lay looking up
+at him.  He was close to the flowers
+now, and just before he took the last
+
+<pb n="117"/>
+
+upward step he turned and looked
+down that awful height with as calm a
+face as though he could have dropped
+and floated unhurt to the ravine beneath.
+</p><p>Then with his left hand he caught
+the ledge to the left, strained up, and,
+holding thus, reached out with his right.
+The hand closed about the cluster, and
+the twig was broken.  Grayson gave a
+great shout then.  He turned his head
+as though to drop them, and, that far
+away, I heard the sibilant whir of
+rattles.  I saw a snake's crest within a
+yard of his face, and, my God!  I saw
+Grayson loose his left hand to guard it!
+The snake struck at his arm, and Grayson
+reeled and caught back once at the
+ledge with his left hand.  He caught
+once, I say, to do him full justice; then,
+
+<pb n="118"/>
+
+without a word, he dropped&mdash;and I
+swear there was a smile on his face
+when he shot down past me into the
+trees.
+
+</p><p>I found him down there in the ravine
+with nearly every bone in his body
+crushed.  His left arm was under him,
+and outstretched in his right hand was
+the shattered cluster, with every
+blossom gone but one.  One white half of
+his face was unmarked, and on it was
+still the shadow of a smile.  I think it
+meant more than that Grayson believed
+that he was near peace at last.  It
+meant that Fate had done the deed for
+him and that he was glad.  Whether he
+would have done it himself, I do not
+know; and that is why I say that
+though Grayson brought the flower
+
+
+<pb n="119"/>
+down&mdash;smiling from peak to ravine&mdash;
+I do not know that he was not, after
+all, a coward.
+</p><p>That night I wrote to the woman in
+Kentucky.  I told her that Grayson
+had fallen from a cliff while climbing
+for flowers; and that he was dead.
+Along with these words, I sent a purple
+rhododendron.
+</p>
+
+<trailer>THE END</trailer>
+
+</div1>
+</body>
+</text>
+</TEI.2>

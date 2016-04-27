@@ -1,0 +1,599 @@
+<?xml version="1.0"?>
+
+<?dlps id="BurPlai"?>
+<?dlps page-images="color" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOlat1 SYSTEM "http://text.lib.virginia.edu/charent/iso-lat1.ent"> %ISOlat1;
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+<!ENTITY DSSR_000002641_0001 SYSTEM "000002641_0001" NDATA uvaHighRes>
+<!ENTITY DSSR_000002641_0002 SYSTEM "000002641_0002" NDATA uvaHighRes>
+<!ENTITY DSSR_000002641_0003 SYSTEM "000002641_0003" NDATA uvaHighRes>
+<!ENTITY DSSR_000002641_0004 SYSTEM "000002641_0004" NDATA uvaHighRes>
+<!ENTITY DSSR_000002641_0005 SYSTEM "000002641_0005" NDATA uvaHighRes>
+<!ENTITY DSSR_000002641_0006 SYSTEM "000002641_0006" NDATA uvaHighRes>
+]>
+<TEI.2 id="BurPlai">
+    <teiHeader type="migrated" creator="Etext">
+        <fileDesc>
+            <titleStmt>
+                <title type="main">The Plain Miss Burnie</title>
+                <title type="sort">plain miss burnie</title>
+                <author>Burnett, Frances Hodgson</author>
+                <respStmt>
+                    <resp>Creation of machine-readable version:</resp>
+                    <name>Judy Boss</name>
+                    <resp>Creation of digital images:</resp>
+                    <name>Michele Ierardi</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>University of Virginia Library Electronic Text Center.</name>
+                </respStmt>
+            </titleStmt>
+            <extent>ca. <num type="kilobytes">33</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>University of Virginia Library</publisher>
+                <pubPlace>Charlottesville, Virginia</pubPlace>
+                <idno type="ETC">BurPlai</idno>
+                <date value="1996">1996</date>
+                <availability status="public">
+                    <p n="copyright">Copyright &#xa9; 1996 by the Rector and Visitors of the
+                        University of Virginia</p>
+                    <p n="access">Publicly accessible</p>
+                </availability>
+                <idno type="uva-pid">uva-lib:476748</idno>
+            </publicationStmt>
+            <seriesStmt>
+                <title>University of Virginia Library, Text collection</title>
+                <idno type="uva-set">UVA-LIB-Text</idno>
+            </seriesStmt>
+            <notesStmt>
+                <note>
+                    <p>Illustrations have been included from the print version. These illustrations
+                        were scanned from printouts of the microfilm copy.</p>
+                </note>
+                <note>
+                    <p>Judy Boss made the following changes: p. 243, para. 25: so bad so] so bad as;
+                        p. 244, para. 5: Goodness] "Goodness; p. 246, para. 22: vail fell] veil
+                        fell.</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title type="main">The Plain Miss Burnie</title>
+                        <title level="j">Frank Leslie's Popular Monthly</title>
+                        <title type="sort">plain miss burnie</title>
+                        <author>Frances Hodgson Burnett</author>
+                    </titleStmt>
+                    <extent>pp. 242-7</extent>
+                    <publicationStmt>
+                        <publisher>Frank Leslie Publishing House</publisher>
+                        <pubPlace>New York</pubPlace>
+                        <date value="1880-02">February 1880</date>
+                        <idno type="callNo">Print copy consulted: UVA library call no: Micfilm S-147
+                            reel 677</idno>
+                    </publicationStmt>
+                    <notesStmt>
+                        <note>
+                            <p>Frank Leslie's Popular Monthly, 9 (Feb. 1880): 242-247.</p>
+                        </note>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>All quotation marks retained as data.</p>
+                <p>All unambiguous end-of-line hyphens have been removed, and the trailing part of a
+                    word has been joined to the preceding line.</p>
+                <p>The images exist as archived TIFF images, one or more JPEG versions for general
+                    use, and thumbnail GIFs.</p>
+                <p>Keywords in the header are a local Electronic Text Center scheme to aid in
+                    establishing analytical groupings.</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date value="1880">1880</date>
+            </creation>
+            <langUsage>
+                <language id="eng" usage="main">English</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term>fiction; prose</term>
+                    <term>Women Writers</term>
+                    <term>Young Readers</term>
+                </keywords>
+                <keywords>
+                    <term type="visual work">illustration</term>
+                    <term type="format">256-shade greyscale</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date value="1996-11">November 1996</date>
+                <respStmt>
+                    <resp>corrector</resp>
+                    <name>Michele Ierardi</name>
+                </respStmt>
+                <item>Added TEI header and tags.</item>
+            </change>
+            <change>
+                <date value="2005-06">June 2005</date>
+                <respStmt>
+                    <resp>corrector</resp>
+                    <name>John Ivor Carlson</name>
+                </respStmt>
+                <item>Converted sgml to xml.</item>
+            </change>
+            <change>
+                <date value="2007-09">September 2007</date>
+                <respStmt>
+                    <resp>Migration</resp>
+                    <name>Ethan Gruber, University of Virginia Library</name>
+                </respStmt>
+                <item>Converted XML markup from TEI Lite to uva-dl-tei (TEI P4 with local
+                    customizations).</item>
+            </change>
+            <change>
+                <date value="2008-01">January 2008</date>
+                <respStmt>
+                    <resp>Migration</resp>
+                    <name>Greg Murray, University of Virginia Library</name>
+                </respStmt>
+                <item>Programmatically updated TEI header markup (but not header content) for
+                    minimal compliance with current QA requirements.</item>
+            </change>
+<change>
+<date value="2009-03">March 2009</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Scholarly Resources, University of Virginia Library</name>
+</respStmt>
+<item>Added and/or replaced the digital images accompanying the electronic text. Scanning of exterior and interior (ie. pages) of item was done only for items found in the University of Virginia Special Collections Library.</item>
+</change>
+        </revisionDesc>
+    </teiHeader>
+
+    <text id="d1">
+
+        <body id="d2">
+
+
+            <div1 type="story" id="d3">
+                <pb entity="DSSR_000002641_0001" n="242"/>
+                <head>"THE PLAIN MISS BURNIE." <lb/>BY THE AUTHOR OF "THAT LASS O' LOWRIE'S." </head>
+
+                <p>SHE stopped reading for a minute, to listen. </p>
+                <p>"It is a child crying," she said, "or it sounds very much like one." And then she
+                    listened again. </p>
+                <p>Very few girls of her age would have given attention to such a trivial thing as
+                    the fancied sound of a child's cry in a distant room; but, as her sister said,
+                    "Brenda was always peculiar." So Brenda listened until she had made sure she was
+                    not mistaken, and then closed her book and went out of her room to follow the
+                    sound and inquire into the cause of it. </p>
+                <p>She did not know the house well, as it was an old-fashioned country-seat, full of
+                    winding galleries and corridors, and, moreover, she was only a lately-arrived
+                    visitor; but the pitiful little far-away wail was too much for her to bear
+                    quietly; it flushed her cheeks and quickened her breath and excited her just
+                    sufficiently to make her forget that it was rather a singular thing for a young
+                    lady who was only a visitor to be wandering about the establishment without a
+                    guide. </p>
+                <p>"It is up-stairs, somewhere," she said, when she had stood in the corridor for a
+                    minute; "but it seems to be very high up&mdash;on the next flight, I should
+                    think." </p>
+                <p>Accordingly, she made her way up the big rambling staircase, letting the sobs
+                    guide her, and winding about until at last a sudden bend revealed to her the
+                    object of her search, all at once. </p>
+                <p>"I thought so," she said, stopping and looking upward with perfect gravity; "it
+                        <hi rend="italic">is</hi> a child." </p>
+                <p>And so it was. On the very top step of the flight sat a chubby little mortal,
+                    about four years old, sobbing and shivering, in a remarkably tight white
+                    night-dress. </p>
+                <p>Brenda went to her at once. </p>
+                <p>"What is the matter?" she asked, as seriously as if she had been speaking to a
+                    grown-up man or woman. </p>
+                <p>"Told an' 'f'aid," sobbed the child, with chattering teeth. </p>
+                <p>Brenda knelt down on the steps, and looked at her with a sudden softening of her
+                    whole expression. </p>
+                <p>"Cold and afraid," she said. "I don't wonder at your being cold; but what are you
+                    afraid of bairnie?" </p>
+                <p>"Dosts," was the answer, with another shuddering little burst of sobs. </p>
+                <p>"Mercy on us!" ejaculated the peculiar one. "Who has been talking to the child?
+                    What is your name?" </p>
+                <p>"Yosie." </p>
+                <p>"Yosie," repeated her interlocutor&mdash;"that is infantine Sanskrit for
+                    Rosie, I suppose. Well, whose are you, Yosie?" </p>
+                <p>"Nobody's." </p>
+                <p>The girl stooped down and kissed her, with a queer, impulsive swiftness. </p>
+                <p>"Dear, dear!" she said, almost nervously. "Who <hi rend="italic">has</hi> been
+                    talking to her? I shall be obliged to find out where she came from, and carry
+                    her back, or she will catch cold. I say, Miss Yosie, will you come to me?" </p>
+                <p>And she held out her hands, as she had seen people do to children, though it must
+                    be confessed she hesitated a little, in some fear as to whether she might not be
+                    presuming too much upon so slight an acquaintance. Perhaps she was "peculiar."
+                    At any rate, she had a peculiar respect for people's fancies, and it even
+                    extended to this shivering little mite in the scant night-dress. </p>
+                <p>"Will you come to me?" </p>
+                <p>The child looked at her for an instant, as children have a fashion of doing at
+                    people who talk to them&mdash;silently, solemnly,
+                    questioningly&mdash;and then she held out her arms, too. </p>
+                <p>Brenda took her up, and folded her close and warm&mdash;even folded the cold,
+                    small feet in her dress before she resumed her investigations. The child was
+                    nothing remarkable&mdash;only a pretty, chubby little morsel, with light,
+                        <pb entity="DSSR_000002641_0002" n="243"/> crumpled hair and round eyes; but somehow or other, the girl
+                    felt a subtle chord in her heart touched by the mere sight of her childish
+                    forlornness. </p>
+                <p>With the help of some brisk cross-examination, she found out that she was an
+                    inmate of the house, and that, having been put to bed by her nurse, she had been
+                    frightened, and so had made her way to the lighted staircase, in hope of making
+                    somebody or other hear her. </p>
+                <p>"Well," said Brenda, when she had learned this much, "we will go back to the
+                    nursery and have a light there, and I will stay with you, so that you won't be
+                    frightened again." </p>
+                <p>Yosie was consoled at once. She clasped two short arms around her friend's neck,
+                    and nestled down on to her shoulder, as they journeyed down the long gallery, in
+                    search of the nursery. When it was found, Brenda re-lighted the gas and stirred
+                    the fire, and then sat down with her charge on her knee. </p>
+                <p>She had only been in the house two days, but her mother and sisters had known its
+                    master, Sir Michael Thorwald, ever since he had become a widower, four years
+                    before; and it was because they knew him so well as an eligible <hi
+                        rend="italic">parti</hi>, that they had been kind enough to accept his
+                    invitation to spend Christmas at his country-seat, with a dozen other visitors,
+                    in the good old-fashioned way. </p>
+                <p>Cecilia and Lucy, being beauties, were supposed to have an interest in eligible
+                    individuals, whether widowers or bachelors. They had a right to such an
+                    interest; but Brenda, who was the youngest, and not a beauty at
+                    all&mdash;simply a "peculiar," quiet girl or nineteen or
+                    twenty&mdash;was only one of the unavoidable accompaniments of the party.
+                    She was not needed particularly, and had never spoken to Sir Michael a dozen
+                    times in her life; but, as the discreet Mrs. Burnie said to her two charming
+                    eldest, "It would not look well to leave Brenda at home." </p>
+                <p>So Brenda had been packed up with the rest of the baggage, and carried down to
+                    Thorwald Holm; and here she had been for two days, reading and crocheting in
+                    quiet corners, unnoticed and uncared-for, and not enjoying herself very
+                    outrageously, it must be admitted. At first, the sight of the small apparition
+                    on the staircase had been a great puzzle to her; but after she was settled in
+                    the nursery, she began to recollect dimly that she had once heard her mother
+                    mention the fact of Sir Michael's wife having left a baby only a few days old at
+                    the time of her death. </p>
+                <p>"And this must be the one," she said, aloud, looking down at the plump figure
+                    making itself comfortable on her lap. </p>
+                <p>"And it says it belongs to nobody. Poor little bairnie!" And she sighed over it
+                    as honestly and deeply as if she had been a soft-hearted matron of forty,
+                    instead of a very ordinary young lady of scarce twenty years. She was very much
+                    inclined to think that Sir Michael might have taken better care of his little
+                    daughter, if he were a man. He was old enough. Sir Michael was nearly forty
+                    himself, be it known. </p>
+                <p>Still, she saw, on looking round, that the nursery was complete
+                    enough&mdash;even elegant enough, as far as nursery appointments go. It was
+                    spacious and handsomely furnished, and there were plenty of toys strewn on the
+                    carpet. But it had a lonely look. Her small waif was not very communicative, but
+                    she was at least affectionate. She lay in her friend's arms, quiet but
+                    observant, and regarding her admiringly as she talked. </p>
+                <p>It was not the easiest thing in the world, at first, for Brenda to talk to her.
+                    She was not used to children&mdash;not used to talking to any one much, the
+                    fact was, but some quiet latent instinct ripened her conversational powers on
+                    this occasion, and she managed to make herself quite interesting and
+                    intelligible. She told one or two little stories about impossible fairies, and
+                    sang two or three pretty little gurgling baby-songs&mdash;all rhyme and no
+                    time&mdash;but suited exactly to the comprehension of her listener; and
+                    finally, finding that Yosie was warm enough, she persuaded her to permit herself
+                    to be tucked up in bed again. </p>
+                <p>"I will come to see you in the morning," she said, after she had made her
+                    comfortable. "My name is Brenda Burnie, and I am one of your papa's visitors;
+                    so, while I stay here, you shall belong to me&mdash;if you will. Will you?" </p>
+                <p>"Yes," answered Yosie, with a gravity as sincere as Brenda's own. </p>
+                <p>"Very well, then. Before I go away, suppose you tell me whose you are now?" </p>
+                <p>"Benda Burnie's," said Yosie. "You's her." </p>
+                <p>And, for the first time in their acquaintance, Brenda was suddenly awakened to
+                    recognition of her babyhood, and laughed at it for sheer pleasure. </p>
+                <p>"I found Sir Michael's little daughter last night," she said to her mother, the
+                    next day. "She was out in the cold on the top flight of stairs, crying, because
+                    she was afraid of ghosts; so I carried her back to the nursery and warmed her,
+                    and put her to bed again." </p>
+                <p>The estimable Mrs. Burnie settled her sharp-looking spectacles on her aquiline
+                    nose, and stared aghast. </p>
+                <p><hi rend="italic">"What</hi> was that, may I ask?" she inquired. </p>
+                <p>Brenda repeated her speech, with an addition. </p>
+                <p>"I think Sir Michael ought to see that her nurses attend to her more closely,"
+                    she said, practically. "Her feet were as cold as ice, mamma." </p>
+                <p>"Her feet!" gasped Mrs. Burnie. "I should really like, Brenda, to hear you
+                    explain what your object is in making yourself conspicuous in a strange
+                    establishment after such a Quixotic fashion. I should really like to know what
+                    the servants would think if they saw you. I should really like to know what Sir
+                    Michael would say to such a piece of interference. I should really like to
+                    know&mdash;" </p>
+                <p>But Brenda stopped her there&mdash;without looking up from her sewing,
+                    however. </p>
+                <p>"I don't believe it would matter much what they thought, mamma," she said. "I
+                    should certainly do it again under the same circumstances. It was right, whether
+                    it was conspicuous or not; and as to Sir Michael&mdash;well, if it had been
+                    Lucy or Cecilia it might be different, but I am only Brenda, you know." </p>
+                <p>"And being only Brenda," said Mrs. Burnie, with brisk acidity, "you are going to
+                    disgrace us all." </p>
+                <p>"Oh, dear, no," returned that young lady, quietly. "I shall do nothing so bad as
+                    that, I hope." </p>
+                <p>She was by no means as devoid of spirit as the family Cinderella ought to be, and
+                    generally is, when she plays the part of the heroine of a story; on the
+                    contrary, "the plain Miss Burnie," as people called her, was pretty well
+                    calculated to hold her own in a placid, practical way. She was never crushed by
+                    sarcasms, nor subdued by snubbings; when she was neglected she amused herself,
+                    and when she was by chance noticed (which was not often), she really managed to
+                    make herself reasonably agreeable. Very few people ever discovered her
+                    attractions (thanks to her elder sisters), but when any one did discover them,
+                    it was sometimes observed that the impression she made was a lasting one, and
+                    there had been daring individuals who had actually remarked that the "plain Miss
+                    Burnie" was not so plain, after all. Something of her disadvantages might
+                    perhaps be adduced to the fact of her being not only the "plain one" but also
+                    the young one. </p>
+                <p>Lucy and Cecilia must be married now, but Brenda had <pb entity="DSSR_000002641_0003" n="244"/>
+                </p>
+             
+                <p> plenty of time before her; consequently, Lucy and Cecilia were brought forward
+                    with all the power of the estimable Mrs. Burnie's excessively Scotch shrewdness,
+                    but Brenda was held in the background. And it did not hurt Brenda very much, on
+                    the whole. She was a reticent, large-brained, self-contained girl, observant and
+                    quick-witted. Books, and human nature&mdash;as she obtained a looker's-on
+                    impression of it&mdash;amused her, and not being of a meek temperament, she
+                    was healthful-minded enough to parry the family slights without receiving any
+                    very deep wounds. There were scratches now and then, of course, but they never
+                    rankled, and always healed in the end without a scar. </p>
+                <p>She kept her promise to her <hi rend="italic">prot&eacute;g&eacute;e</hi>
+                    the next morning, and, going to the nursery, found the nurse there. </p>
+                <p>"I have just found out from Miss Rosie here what happened last night," said that
+                    person, obsequiously. "I hadn't any idea but what she was safe in bed, mum.
+                    Bless my life! I wouldn't have Sir Michael hear of it for the world. It would be
+                    more than my place is worth to me." </p>
+                <p>Brenda decided to give her a hint, and gave her one accordingly. </p>
+                <p>"Then you had better be more careful, or he will find out for himself without
+                    being told," she cried. "I heard her crying from my room at the other end of the
+                    house, and came to see what was the matter." </p>
+                <p>"Goodness alive!"&mdash;nervously. "Whoever heard the like! I hope you won't
+                    mention it, miss. I'll take care it doesn't happen again. He'd be powerful put
+                    out, Sir Michael would, if he doesn't take much notice of her." </p>
+                <p>"Doesn't he take much notice of her?" Brenda asked, betrayed for a moment into
+                    excusable curiosity. </p>
+                <p>"Well, no, Miss," was the answer. "Not as some men do of their children, though
+                    he's very particular about her being well attended to. But it's no wonder, you
+                    know, considering, for they do say as he never was over fond of her mother, and
+                    only married her to please his father&mdash;though he treated her well
+                    enough, for that matter." </p>
+                <p>Brenda made no comment upon this. It was no affair of hers, she thought, and she
+                    never interfered with other people's concerns, so she turned her attention to
+                    the child, to the complete ignoring of her host's domestic history. Still,
+                    slight as was the notice she gave it, the idea conveyed to her aroused in her
+                    mind some latent pity for the man, simply because he had not been as happy as
+                    she had hitherto fancied. </p>
+                <p>In this manner it came about that Sir Michael Thorwald's little daughter became
+                    the chief amusement of the plain Miss Burnie. She fell into the habit of
+                    spending a great deal of time with the child, and in trying to render her happy.
+                    She gained a great influence over her before long, and, almost unconsciously to
+                    herself, this influence had its own almost maternal quality. She learned how to
+                    pet the little creature, and proved herself an adept in </p>
+               
+                <p>
+                    <pb entity="DSSR_000002641_0004" n="245"/> nursery ways. She could talk to her and tell her stories, and sing
+                    lullabies&mdash;though it must be owned that at first she did such things
+                    with a grave reticence. </p>
+                <p>Nobody missed her where Lucy and Cecilia were, so she could run up to the nursery
+                    half-a-dozen times a day, and rejoice her small <hi rend="italic"
+                        >prot&eacute;g&eacute;e's</hi> heart. It was about this time that
+                    Mrs. Burnie was somewhat nonplussed. She was beginning to feel dubious about the
+                    success of her maternal plans. The fact was that Sir Michael was not acting as
+                    it was clearly his duty to do. He was amiably following her rather sharp lead in
+                    the </p>
+               
+                <p> game of hearts, but he was not showing his hand. His attentions were not
+                    "particular" enough. He chatted with Lucy, the brown-eyed, and delicately
+                    flattered Cecilia, the blonde; he sang duets with the one, and openly admired
+                    the playing of the other. He was too open, in fact, Mrs. Burnie thought. If he
+                    had been a trifle less open, it would have made the case look better than it
+                    did; but as it was, he was making himself equally agreeable to both, and
+                    committing himself to neither. Of course, this was trying, after having carried
+                    them away from town right in the middle of the season. Mrs. Burnie was
+                    reasonably irate, after the manner of old soldiers. Mrs. Burnie was a very old
+                    soldier. The girls themselves were not in the best of humors, either, if the
+                    truth must be told, though, of course, they were discreet enough to hide their
+                    slight discomfiture. They had come to Thorwald Holm ostensibly to celebrate
+                    Christmas with the rest in the good old style, but though they were not more
+                    calculating than the generality of girls, and were modest enough in their way,
+                    there is something more than a possibility that both of them had secretly
+                    cherished a decorously faint hope that the festivities might not end without
+                    some record of a comfortable triumph. And yet, here they had been for more than
+                    a week conducting themselves with all the discretion in the world, and still
+                    without even the shadow of a decided result. Really, they were not even as well
+                    content as Brenda, who had cherished no hopes at all, and merely regarded her
+                    host as a handsome, middle-aged man, who could make himself very agreeable, but
+                    with whom she herself had as yet nothing in common. But the time came at last
+                    when the state of affairs was materially altered. </p>
+                <p>Among two or three other solitary and half-melancholy habits Sir Michael had
+                    contracted, was the one of strolling about the terraces in the evening, with a
+                    cigar as his sole companion; and it so happened that on one occasion, about a
+                    fortnight after the Burnies had arrived, he was promenading up and down a walk
+                    near the house, when his attention was suddenly drawn to the fact that some one
+                    was singing in a room high above him, and the some one in question, whoever she
+                    might be, had a remarkably full, sweet and flexible voice. </p>
+                <p>It was a woman, of course. No man had ever sung such a pretty, lilting air, in
+                    such a pretty style; but, then, who could it be? None of the servants, surely,
+                    or he would have heard her sing before; and he knew it was none of the guests.
+                    He stood listening for a minute or so, holding his cigar between his fingers,
+                    and letting its fragrance die out upon the chill air, and then he turned toward
+                    the hall-door again. </p>
+                <p>"It is in the nursery, most certainly," he said, pausing for another instant.
+                    "Yes, it is in the nursery. I will go and see who it is." </p>
+                <p>In consequence of which resolution, he made his way up the staircase rapidly and
+                    lightly, until he had reached the upper flight, and stood upon the landing,
+                    looking in&mdash;positively staring in, at the picture the dancing firelight
+                    revealed to him. </p>
+                <p>There was a queer, old-fashioned, deep-seated rocking-chair drawn up to the
+                    hearth, and in this chair a young lady was seated&mdash; a young lady whose
+                    cheeks were flushed prettily by the warmth of the fire, and whose abundant
+                    reddish-brown hair was tumbling loose over her throat and shoulders, evidently
+                    disordered by childish fingers; for this young lady held his little daughter in
+                    her arms, and as she rocked to and fro, looking down at the child's face, and
+                    singing her nursery song, he recognized in her, to his great astonishment, no
+                    less&mdash;or rather no greater&mdash;a person than the "plain Miss
+                    Burnie." A moment more, and the child's quick ear caught the sound of some
+                    slight stirring, and she looked up. </p>
+                <p>"Brenda," she said, a trifle timidly, "dere's my papa!" </p>
+                <p>Then Sir Michael came forward, not having quite overcome his feeling of surprise,
+                    however. </p>
+                <p>"Don't rise, I beg of you," he said. "I&mdash;the fact is, I was smoking on
+                    the walk beneath the window here, and I heard you singing, and came to see who
+                    it was. Why did I never hear you sing before?" </p>
+                <p>Brenda gave him a quiet little smile. If she had been other than the "plain Miss
+                    Burnie," she might have been unpleasantly conscious of her disordered hair and
+                    rumpled collar; but as it was, she really did not care much. </p>
+                <p>"I don't think anybody has asked me to sing since I came here," she answered.
+                    "Lucy and Cecilia make a science of music, you know&mdash;I do not." </p>
+                <p>"But," stammered Sir Michael, in a half-bewildered fashion&mdash; "but you
+                    sing as the birds sing. Your voice is perfect." <pb entity="DSSR_000002641_0005" n="246"/>
+                </p>
+                <p>"Oh, dear, no," she said; "but you are very kind to say so, nevertheless." </p>
+                <p>Then, while he stared at her, and wondered at himself for being such an insane
+                    simpleton, she set Yosie down out of her arms upon the hearthrug. </p>
+                <p>"Yosie," she said, in a pretty, matter-of-fact way, "go and kiss your papa." </p>
+                <p>The child did as she was told, without any hesitation&mdash;it seemed as if
+                    she was accustomed to obeying the girl&mdash;but there was something deeper
+                    than ordinary shyness in her manner, something that made it very evident that
+                    the new-comer was a stranger, and represented to her childish mind nothing more
+                    than the merest acquaintance, before whom she was bound to be nothing more than
+                    tractable and well-behaved. The recognition of this, it may be, emboldened the
+                    "plain Miss Burnie." </p>
+                <p>"She does not see you very often," she said, quietly&mdash;"does she?" </p>
+                <p>He hesitated slightly, under his consciousness of the girl's frankly speaking
+                    face. Brenda Burnie's face was a very frank one. </p>
+                <p>"No," he answered&mdash;"not often." And for the first time in his life he
+                    wished he could have answered differently. </p>
+                <p>Brenda held out her arms again, and Yosie came back to her favorite
+                    resting-place. She was not a remarkable child, as I have said before, but she
+                    was wonderfully loving, and almost pathetically quiet, in a babyish way. </p>
+                <p>Brenda took one of the small, fat hands, and began to pat it softly against her
+                    own, with an almost ungirlish reflectiveness in her eyes. </p>
+                <p>"She told me, when I first found her, that she belonged to nobody," she said,
+                    "and I suppose that was why we fraternized so warmly. We are very good friends
+                    now, of nearly two weeks' standing." </p>
+                <p>Sir Michael forgot to smile. The fact was, he was just making a discovery. He was
+                    finding out all at once&mdash;as if a flash of lightning had revealed it to
+                    him&mdash;that there was something indescribable and oddly charming just at
+                    this moment about the "plain Miss Burnie." She had a small, light, round figure;
+                    she had great, honest hazel eyes, and her hair was real, at least. He had felt
+                    some slight doubts concerning Lucy's elaborate coiffure and Cecilia's blonde
+                    puffs and braids, but there could be no mistake about this profusion. She was
+                    not a beauty, of course, but there was something quite attractive in her
+                    self-reliant voice and those honest eyes. How was it that he had not found it
+                    out before? </p>
+                <p>And, after a conversation of half an hour's length, he discovered something
+                    more&mdash;namely, that she was even more inviting than she looked. No
+                    platitudes from her, no young-ladylike speeches, no nonsense, or lassoing for
+                    flirtation. She talked to him in a bright, straightforward fashion, spiritedly
+                    and girlishly, yet as sensibly as if she had been his mother or his aunt, or any
+                    other essentially sensible female relation. What a mistake he had made hitherto
+                    in flirting languidly, and letting himself be angled for by the other two, while
+                    this charming, piquant little woman was left in the corner to her crocheting! </p>
+                <p>And before they separated she gave him a brave little hint. </p>
+                <p>"Are you fond of children?" he had asked of her. </p>
+                <p>"I never knew until I came here," she answered him. "I never had anything to do
+                    with children before. But I think I must be. I am sorry for this one." </p>
+                <p>And her great, honest eyes met his squarely. She knew he would understand her. </p>
+                <p>He received the womanlike rebuke almost humbly. He would have resented it as an
+                    interference from any one else, but coming from such a girl as this&mdash;so
+                    young, so frank, so womanly&mdash;it touched his heart. </p>
+                <p>"I have not taken care of her, you mean," he returned. "Perhaps you are right. We
+                    men do not understand these things." </p>
+                <p>"If her mother had lived," Brenda answered, "she would not have let people
+                    frighten her with ghosts, and tell her she belonged to nobody. I do not think
+                    she ought to be left alone so much. Children need friends," staidly. </p>
+                <p>He thanked her gravely and courteously, and went down-stairs, thinking the matter
+                    over; but by the time he reached the bottom step he had wandered unconsciously
+                    far away from the original subject, and was lingering with a curious sense of
+                    pleasure over the little homely picture he had seen through the opened nursery
+                    door&mdash;the picture of the light, round figure in the rocking-chair,
+                    holding his motherless child in its arms, and rocking to and fro to the sound of
+                    a nursery song. </p>
+                <p>That night the "plain Miss Burnie" was rescued from her corner and her
+                    crocheting. To Mrs. Burnie's great bewilderment, Sir Michael brought her forth
+                    to sing for him, and stood near her as she sung, turning the leaves of her
+                    music, and looking at her as he had never in his life looked at Lucy or Cecilia.
+                    He looked fairly like a man who had fallen upon a novel pleasure, and was
+                    enjoying it in no half-way measure. </p>
+                <p>And as the days went by the veil fell from the business-like matron's eyes, and
+                    she awakened suddenly to a new consciousness. She had diplomatized and struggled
+                    sharply, after a soldierly fashion, for her elder daughters, and her struggles
+                    had availed nothing; but she had left Brenda alone, even thrusting her into the
+                    shade, and here it appeared that in spite of all this Brenda had made an
+                    impression, and Sir Michael's usually erratic attentions were becoming
+                    "particular." It was brisk discipline, but it held its own consolation. She had
+                    not made a favorite of her youngest daughter, but it is likely that if Cecilia
+                    and Lucy were off her hands, she would have been almost as sharp in her maternal
+                    solicitude for "the plain one" as she was now for them. So, though her patience
+                    was somewhat tried, she was not sorry to see some shadow of a prospect in store
+                    for Brenda. Beauties are always marketable, and she had anticipated trouble in
+                    "selling" Brenda, which she had known would arise just as much from her spirit
+                    and self-reliance as from her lack of beauty. </p>
+                <p>This was what passed through the maternal Burnie's mind when she first began to
+                    note the growth of Sir Michael's totally unexpected fancy; but Brenda herself
+                    had few thoughts upon the subject, if any. Not being a beauty, attentions did
+                    not mean much to her, and consequently when Sir Michael began to single her out
+                    from the rest, and exert himself to please her, she merely enjoyed the change in
+                    a quiet, unromantic fashion, and felt a little happier for feeling herself of
+                    some slight importance to somebody. </p>
+                <p>So the days passed pleasantly enough, until they had achieved the object for the
+                    furtherance of which so many of them had flocked down to Thorwald
+                    Holm&mdash;namely, the keeping of Christmas in the good old style; and at
+                    last people were beginning to drop away, one by one, and among the rest the
+                    Burnies were going. </p>
+                <p>It was the very last hour of their stay, and while the rest were bustling about
+                    here and there among baggage and toilets, Brenda Burnie had run up-stairs to the
+                    nursery to take her last farewell of her favorite. </p>
+                <p>She was kneeling on the hearth, in her had and sacque, with her arms around the
+                    child, when she heard some one <pb entity="DSSR_000002641_0006" n="247"/> enter the room through the door
+                    behind her, and she looked up to face Sir Michael. She gave him a
+                    smile&mdash;only a faint one, however, for she found it rather a hard thing
+                    to bear this farewell she was taking of Yosie. </p>
+                <p>"We are bidding each other good-by, Sir Michael," she said&mdash;"Yosie and
+                    I." </p>
+                <p>He came to the fire, and stood looking down at her upturned face, speaking
+                    hurriedly. </p>
+                <p>"Brenda," he said, "don't say good-by to her at all&mdash;why should you?" </p>
+                <p>She started slightly at his eagerness and rapidity of speech, but her honest eyes
+                    met his so gently that he went on. </p>
+                <p>"Listen to me for a moment," he said. "I followed you here to say something to
+                    you. The past few weeks have been a revelation to me&mdash;I have found a
+                    woman I love. Nay, Brenda, do not look startled, or it will seem like a
+                    reproach. I do not ask anything of you yet; I know you can have nothing yet to
+                    give me. I am not young; I am years your senior, and I have a sad enough
+                    heart-history in my past; but that you are my first love, and the only woman on
+                    earth to me, you may rest assured. Just now I only ask you to say 'yes' or 'no'
+                    to two questions: May I come to town this Winter? and will you promise that you
+                    will not say good-by to the child here before I am sure that my efforts must be
+                    in vain?" </p>
+                <p>The "plain Miss Burnie" hesitated a moment, with the ungirlish reflectiveness
+                    peculiar to herself. Then she loosened her hold upon her <hi rend="italic"
+                        >prot&eacute;g&eacute;e</hi>, and spoke to her in a soft, quiet
+                    tone: </p>
+                <p>"Yosie," she said, "go to your papa, and tell him that my answer to both of his
+                    questions is&mdash;'Yes.'" </p>
+                <p> * * * * * * * </p>
+                <p>It is easy enough to guess at the end. Sir Michael Thorwald went to town from
+                    Westmoreland with a purpose, and, being a man of taste and strength of will and
+                    spirit, he was not unsuccessful. He sued with a will, and did not sue in vain. </p>
+                <p>Discovering that their <hi rend="italic">Chateau en Espagne</hi> had crumbled to
+                    the dust, Lucy and Cecilia discreetly applied themselves to industry more likely
+                    to be rewarded. And so it came to pass that a year later the beauties of the
+                    family officiated when the "plain Miss Burnie" was married. </p>
+
+            </div1>
+        </body>
+    </text>
+</TEI.2>

@@ -1,0 +1,2526 @@
+<?xml version="1.0"?>
+
+<?dlps id="BysEngl"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOnum SYSTEM "http://text.lib.virginia.edu/charent/iso-num.ent"> %ISOnum;
+<!ENTITY % ISOlat1 SYSTEM "http://text.lib.virginia.edu/charent/iso-lat1.ent"> %ISOlat1;
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+
+]>
+<TEI.2 id="BysEngl">
+<teiHeader type="migrated" creator="Etext">
+<fileDesc>
+<titleStmt>
+<title type="main">The Art of English Poetry</title>
+<title type="sort">art of english poetry</title>
+<author>Bysshe, Edward</author>
+<respStmt>
+<resp>Creation of machine-readable version:</resp>
+<name>The Electronic Text Center</name>
+<resp>Conversion to TEI.2-conformant markup:</resp>
+<name>University of Virginia Library Electronic Text Center.</name>
+</respStmt>
+</titleStmt>
+<extent>ca. <num type="kilobytes">100</num> kilobytes</extent>
+<publicationStmt>
+<publisher>University of Virginia Library</publisher>
+<pubPlace>Charlottesville, Virginia</pubPlace>
+<idno type="ETC">BysEngl</idno>
+<date value="2000">2000</date>
+<availability status="public">
+<p n="copyright">Copyright &copy; 2000 by the Rector and Visitors of the University of Virginia</p>
+<p n="access">Publicly accessible</p>
+</availability>
+<idno type="uva-pid">uva-lib:475776</idno>
+</publicationStmt>
+<seriesStmt>
+<title>University of Virginia Library, Text collection</title>
+<idno type="uva-set">UVA-LIB-Text</idno>
+</seriesStmt>
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title type="main">The Art of English Poetry</title>
+<title type="sort">art of english poetry</title>
+<author>Edward Bysshe</author>
+</titleStmt>
+<extent>38 pages</extent>
+<publicationStmt>
+<publisher>Printed for R. Knaplock At the Angel in St. Paul`s Church-Yard; E. Castle next Scotland-Yard-Gate by White-Hall; and B.
+Tooke at the Middle-Temple-Gate in Fleetstreet</publisher>
+<pubPlace>London</pubPlace>
+<date value="1702">1702</date>
+<idno type="callNo">Source copy consulted:   Alderman Library PE 1519.B9 1702a</idno>
+</publicationStmt>
+<notesStmt>
+<note>
+<p>/web/data/ENEC982</p>
+</note>
+</notesStmt>
+</biblFull>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+</projectDesc>
+<editorialDecl>
+<p>All unambiguous end-of-line hyphens have been removed, and the  trailing part of a word has been joined to the preceding line.</p>
+<p id="ETC">Some keywords in the header are a local Electronic Text Center scheme  to aid in establishing analytical groupings.</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date value="1702">1702</date>
+</creation>
+<langUsage>
+<language id="eng" usage="main">English</language>
+</langUsage>
+<textClass>
+<keywords>
+<term>nonfiction</term>
+<term>prose</term>
+<term>masculine</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change>
+<date value="2001-02">February, 2001</date>
+<respStmt>
+<resp>corrector</resp>
+<name>Andrew Rouner, The Electronic Text Center</name>
+</respStmt>
+<item/>
+</change>
+<change>
+<date value="2005-06">June 2005</date>
+<respStmt>
+<resp>corrector</resp>
+<name>John Ivor Carlson</name>
+</respStmt>
+<item>Converted sgml to xml.</item>
+</change>
+<change>
+<date value="2007-09">September 2007</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Ethan Gruber, University of Virginia Library</name>
+</respStmt>
+<item>Converted XML markup from TEI Lite to uva-dl-tei (TEI P4 with local customizations).</item>
+</change>
+<change>
+<date value="2008-01">January 2008</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Greg Murray, University of Virginia Library</name>
+</respStmt>
+<item>Programmatically updated TEI header markup (but not header content) for minimal compliance with current QA requirements.</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text id="d1">
+<front id="d2">
+
+<titlePage id="d3">
+	<pb/>
+<titlePart type="main">
+THE<lb/>
+ART<lb/>
+OF<lb/>
+ENGLISH POETRY<lb/>
+<lb/><lb/>
+CONTAINING,
+</titlePart>
+<titlePart type="sub">
+I. Rules for making Verses.<lb/>
+II. A Dictionary of Rhymes.<lb/>
+III. A Collection of the most Natural, <lb/>
+Agreeable, and Noble <hi rend="italic">Thoughts</hi>, <lb/>
+viz. Allusions, Similes, Descriptions, and <lb/>
+Characters, of Persons and Things; that are <lb/>
+to be found in the best <hi rend="italic">English Poets</hi>.
+</titlePart>
+
+<byline>BY
+<docAuthor>
+<hi rend="italic">By</hi> EDW. BYSSHE, <hi rend="italic">Gent.</hi>
+</docAuthor>
+</byline>
+
+<epigraph>
+<cit><q><lg type="stanza"><l>
+<hi rend="italic">Munus &amp; Officium, nil scribens ipse, docebo;</hi></l><l>
+<hi rend="italic">Unde parentur opes; quit alat, formetque Poetam:</hi></l><l>
+<hi rend="italic">Quid deceat, quid non: quo Virtus, quo ferat Error.</hi></l>
+</lg></q>
+<bibl>Horat.</bibl>
+</cit></epigraph>
+
+<docImprint>
+<pubPlace>LONDON</pubPlace>,<lb/>
+Printed for R. <unclear>Knaplock</unclear> At the <hi rend="italic">Angel</hi>
+in St. <hi rend="italic">Paul's Church-Yard; E. Castle</hi> next
+<hi rend="italic">Scotland-Yard-Gate</hi> by <hi rend="italic">White-Hall;</hi>
+and <hi rend="italic">B. Tooke</hi> at the <hi rend="italic">Middle-Temple-Gate</hi> in <hi rend="italic">Fleetstreet</hi>, <date value="1702">1702</date>.
+</docImprint>
+</titlePage>
+
+<div1 type="dedication" id="d4">
+<pb/>
+<head>TO<lb/>
+EDMUND DUNCH, <hi rend="italic">Esq</hi>;<lb/>
+OF<lb/>
+<hi rend="italic">Little Wittenham ,</hi><lb/>
+IN<lb/>
+<hi rend="italic">BERKSHIRE.</hi>
+</head>
+
+<salute><hi rend="bold"> SIR</hi>,</salute>
+<p><hi rend="italic">I Have not presum'd to make you this Publick Address,
+without reflecting, that of all Writers those who treat of Poetry ought to
+be the most scrupulous in their Choice of a Patron. For, a Man to whom a Book
+is Dedicated either in Law, Divinity, or Physick, may have made that Subject
+his Profession, and then he is suppos'd of Course to be a proper Judge of it;
+or if it treat of History, Ethicks, or Politicks; those are Subjects that fall
+within the reach of Good Sense;</hi> <hi rend="italic">in any of these Cases
+therefore People seldom </hi>
+
+<pb n="ii"/>
+
+<hi rend="italic">give themselves the trouble of inquiring into the Merits
+of the Patron: But the Publick are not a little inquisitive about the Person
+to whom a Book of Poetry is inscrib'd, for indeed, there go so many excellent
+Qualifications to the making of a good Judge of Poetry, that he that is possess'd
+of them is well worth inquiring after</hi>; <hi rend="italic">few being ignorant
+that such a Man must be of an elevated Mind, founded on a great Compass of
+Knowledge, on a generous Education, on reading of the best Authors, and on a
+Conversation with Men of the first Rank and Fortunes</hi>: <hi rend="italic">All
+which must concur to give him that Readiness and Clearness of Apprehension, that
+Fine and Just Taste of what is Natural and Great, that Elegance and Depth of
+Thought</hi>; <hi rend="italic">in a Word, that happy Turn of Soul and Race of
+Judgment, which distinguish him from the Vulgar in every thing he Speaks and Acts.
+This, Sir, is the Character that you have gain'd among the most accomplish'd and
+discerning Part of Mankind, and which has drawn upon you this Dedication; but would
+have protected you from it; had any considerable Part of the Work, been mine. The
+Share I have in it may be of some Use and Entertainment to others, tho I do not
+think </hi>
+
+<pb n="iii"/>
+
+<hi rend="italic">it worth mentioning to you. But I perswade my Self, that
+what is made up by other Hands cannot be an unwelcome Present to you. The
+Minds of meaner Men are seldom in a due Situation to relish the Charm of
+good Verse; the Poets therefore always chose to be read by Men in such a flow
+of Happiness as you are blest with.</hi>
+</p>
+
+<lg type="stanza"><l>
+Non tu Corpus eras fine Pectore. Di tibi formam, </l><l>
+Di tibi Divitias dederunt, artemque fruendi.</l></lg>
+<bibl><hi rend="italic">Horat.</hi></bibl>
+
+<p>
+<hi rend="italic">The</hi> Melange<hi rend="italic"> of so many different
+Subjects, and such a Variety of Thoughts upon them (which, if I am not
+deceiv'd, give an agreeable</hi> Go&ucirc;t <hi rend="italic">to the Whole)
+may not satisfie you so well as a Composition perfect in its kind on one intire
+Subject; but possibly it may divert and amuse you better, for here is no thread
+of Story, nor connexion of one Part with another, to keep the Mind intent, and
+constrain you to any length of Reading; This is a Book that may be taken up and
+laid down at Pleasure, and would rather choose to lye about in a With-drawing-Room,
+or a Grove, than be set up in a Closet.</hi>
+</p>
+
+<pb n="iii"/>
+
+<p>
+<hi rend="italic">But that I may not trespass upon your Patience in this
+Dedication; when I pretend to have consulted your Ease in the Book; I will
+conclude, with professing my self,</hi><lb/>
+SIR,
+</p>
+
+<closer>
+Your most Obedient<lb/>
+Humble Servant,<lb/>
+<signed>
+E. Bysshe.
+</signed>
+</closer>
+</div1>
+
+<div1 type="contents" id="d5">
+<pb n="1"/>
+<head>RULES<lb/>
+For making<lb/>
+ENGLISH VERSE.</head>
+
+<p><hi rend="small-caps">In</hi> the English Versification there are Two
+Things chiefly to be consider'd;</p>
+
+<list type="ordered">
+<item n="1">1. The Verses.</item>
+<item n="2">2. The several Sorts of Poems or Compositions in Verse.</item>
+</list>
+
+<p>
+But because in the Verses there are also two Things to be observ'd; The
+Structure of the Verse; and the Rhyme, this Treatise shall be divided into
+three Chapters:
+</p>
+
+<list type="ordered">
+<item n="1">I. Of the Structure of English Verses.</item>
+<item n="2">II. Of Rhyme.</item>
+<item n="3">III. Of the several Sorts of Poems and Compositions in Verse.</item>
+</list>
+
+</div1>
+</front>
+
+<body id="d6">
+<div1 type="chapter" n="1" id="d7">
+<head>CHAP. I.<lb/>
+<hi rend="italic">Of the Structure of English Verses.</hi>
+</head>
+<div2 type="section" id="d8">
+
+
+<p>
+<hi rend="small-caps">The</hi> Structure of our Verses, whether Blank or
+in Rhyme, consists in a certain Number of Syllables; and not in Feet compos'd
+of long and short syllables, as the Verses of the Greeks and Romans. And tho'
+some Ingenious Persons formerly puzzled themselves in prescribing Rules for
+the quantity of English Syllables, and, in Imitation of the Latins, compos'd
+Verses by the measure of <hi rend="italic">Spondees, Dactyls,</hi> &amp;c;
+yet the
+
+<pb n="2"/>
+
+Success of their Undertaking has fully evinc'd the Vainness of their Attempt,
+and given ground to suspect that they had not thoroughly weigh'd what the
+Genius of our Language would bear; nor reflected that each Tongue has its
+peculiar Beauties, and that what is agreeable and natural to one, is very
+often disagreeable, nay, inconsistent with another. But that Design being
+now wholly exploded, it is sufficient to have mention'd it.
+</p><p>
+Our Verses therefore consist in a certain Number of Syllables; but the Verses
+of double Rhyme require a Syllable more than those of single Rhyme. Thus in a
+Poem, whose Verses consist of ten Syllables, those of the same Poem that are
+accented upon the last save one, which we call Verses of double Rhyme, must
+have Eleven; as may be seen by these Verses.
+</p>
+
+<lg type="stanza"><l>
+<hi rend="italic">A Man so various that he seem'd to be</hi></l><l>
+<hi rend="italic">Not one, but all Mankind's Epitome :</hi></l><l>
+<hi rend="italic">Stiff in Opinions, always in the Wrong,</hi></l><l>
+<hi rend="italic">Was ev'ry thing by starts, and nothing long :</hi></l><l>
+<hi rend="italic">But, in the course of one revolving Moon,</hi></l><l>
+<hi rend="italic">Was Fidler, Chymist, Statesman, and Buffoon.</hi></l><l>
+<hi rend="italic">Then all for Women, Painting, Rhyming, Drinking</hi></l><l>
+<hi rend="italic">Besides Ten thousand Freaks that dy'd in Thinking.</hi></l><l>
+<hi rend="italic">Praising and railing were his usual Themes,</hi></l><l>
+<hi rend="italic">And both, to shew his Judgment, in extreams.</hi></l><l>
+<hi rend="italic">So over violent or over Civil,</hi></l><l>
+<hi rend="italic">That every Man with him was God or Devil.</hi></l>
+</lg><lb/>
+<bibl>Dryd.</bibl>
+
+<p>
+Where the 4 Verses that are accented on the <hi rend="italic">Penultima </hi>
+have 11 Syllables, the others, accented upon the last, but 10.
+</p><p>
+In a Poem whose Verses consist of 8, the double Rhymes require 9. as,
+</p>
+
+<lg type="stanza"><l>
+<hi rend="italic">When hard Words, Jealousies and Fears,</hi></l><l>
+<hi rend="italic">Set Folks together by the Ears;</hi></l><l>
+<hi rend="italic">And made 'em fight, like mad, or drunk,</hi></l><l>
+<hi rend="italic">For Dame Religion, as for Punk;</hi></l><l>
+<hi rend="italic">Whose Honesty they all durst swear for,</hi></l><l>
+<hi rend="italic">Tho' not a Man of 'em knew wherefore.</hi></l><l>
+<hi rend="italic">Then did Sir Knight abandon dwelling,</hi></l><l>
+<hi rend="italic">And out he rode a Collonelling.</hi></l>
+</lg><lb/>
+<bibl>Hud.</bibl>
+
+<pb n="3"/>
+
+<p>
+In a Poem whose Verses consist of 7, the double Rhymes require 8. as,
+</p>
+
+<lg type="stanza"><l>
+<hi rend="italic">All thy Verse is softer far</hi></l><l>
+<hi rend="italic">Than the Downy Feathers are</hi></l><l>
+<hi rend="italic">Of my Wings, or of my Arrows,</hi></l><l>
+<hi rend="italic">Of my Mother's Doves or Sparrows.</hi></l></lg><lb/>
+<bibl>Cowl.</bibl>
+
+<p>
+This must also be observ'd in Blank Verse.
+</p>
+
+<lg type="stanza"><l>
+<hi rend="italic">Yet not for those,</hi></l><l>
+<hi rend="italic">Nor what the Potent Victor in his Rage</hi></l><l>
+<hi rend="italic">Can else inflict, do I repent or change,</hi></l><l>
+<hi rend="italic">Tho' chang'd in outward Lustre: that fix'd Mind</hi></l><l>
+<hi rend="italic">And High Disdain from sense of Injur'd Merit,</hi></l><l>
+<hi rend="italic">That with the Mightiest rais'd me to contend,</hi></l><l>
+<hi rend="italic">And to the fierce Contention brought along</hi></l><l>
+<hi rend="italic">Innumerable Force of Spirits arm'd,</hi></l><l>
+<hi rend="italic">That durst dislike his Reign, and me preferring</hi></l>
+</lg><lb/>
+<bibl>(Milt.</bibl>
+
+<p>
+And this Verse of the same Poet,
+</p>
+
+<lg><l><hi rend="italic">Void of all Succour and needful Comfort,</hi></l></lg>
+
+<p>
+wants a Syllable; for, being accented on the last save one, it ought to have
+Eleven, as two Verses of the preceeding Example have: But if we transpose
+the Words thus,
+</p>
+
+<lg><l><hi rend="italic">Of Succour, and all needful Comfort void,</hi></l></lg>
+
+<p>
+it becomes a true Verse, and wants nothing of its due Measure, because
+it is accented on the last Syllable.
+</p>
+</div2>
+
+<div2 type="section" n="1" id="d9">
+<head>SECT. I.</head>
+<p>
+<hi rend="italic">Of the several sorts of Verses, and first of those of 10
+Syllables, and of the due Observation of the</hi> Accent,<hi rend="italic">
+and of the</hi> Pause.
+</p>
+
+<p>
+Our Poetry admits for the most part but of three sorts of Verses; that is
+to say, of Verses of 10, 8, or 7 Syllables: Those of 4, 6, 9, 11, 12, and 14,
+are generally imploy'd in Masks and Operas, and in the Stanzas of Lyrick and
+Pindarick Odes, and we have few intire Poems compos'd in any of those sorts
+of Verses. But those of 12 and 14 Syllables
+
+<pb n="4"/>
+
+are frequently inserted in our Poems in Heroick Verse, and when rightly made
+use of, carry a peculiar Grace with them. See <hi rend="italic">Sect</hi>. 2.
+towards the end.
+</p><p>
+The Verses of 10 Syllables, which are our Heroick, are us'd in Heroick Poems,
+in Tragedies, Comedies, Pastorals, Elegies, &amp;c. and sometimes in Burlesque.
+</p><p>
+In these Verses two things are chiefly to be consider'd.
+</p>
+
+<list>
+<item n="1">1. The Seat of the Accent. </item>
+<item n="2">2. The Pause. </item>
+</list>
+
+<p>For, 'tis not enough that Verses have their just Number of Syllables: the
+true Harmony of them depends on a due Observation of the Accent and Pause.
+</p><p>
+The Accent is an Elevation of the Voice on a certain Syllable of a Word.
+</p><p>
+The Pause is a Rest or Stop that is made in pronouncing the Verse, and that
+divides it, as it were, into two parts; each of which is call'd an Hemistich,
+or half Verse.
+</p><p>
+But this Division is not always equal, that is to say, one of the Half-verses
+does not always contain the same Number of Syllables as the other: and this
+Inequality proceeds from the Seat of the Accent that is strongest, and prevails
+most in the first Half-verse. For, the Pause must be observ'd at the end of the
+Word where such Accent happens to be, or at the end of the following Word, as
+shall be shewn immediately.
+</p><p>
+Now in a Verse of 10 Syllables, this Accent must
+be either on the 2d, 4th, or 6th; which produces 5 several Pauses, that is to
+say at the 3d,4th, 5th, 6th, or 7th Syllables of the Verse; For,
+</p><p>
+When it happens to be on the 2d, the Pause will be either at the 3d, or 4th.
+</p><p>
+At the 3d in two manners;
+</p>
+
+<list>
+<item n="1">1. When the Syllable of the Accent happens to be the last save
+one of a Word; as,
+</item></list>
+<lg><l><hi rend="italic">As Busy&mdash;as Intentive Emmets are;</hi></l><l>
+<hi rend="italic">Or Cities&mdash;whom unlook'd for Sieges scare.</hi></l></lg>
+<bibl>Dav.</bibl><lb/>
+
+<list>
+<item n="2">2. Or, when the Accent is on the last of a Word, and that the
+next be a Monosyllable that may be sunk in its Pronunciation, and whose
+Construction is Govern'd by that word on which the Accent is; as,<lb/>
+</item></list>
+<lg><l><hi rend="italic">Despise it,</hi>&mdash;<hi rend="italic">And more
+noble Thoughts pursue.</hi></l></lg>
+<bibl>Dryd.</bibl>
+
+<pb n="5"/>
+
+<p>
+When the Accent falls on the 2d Syllable of the Verse, and the last save
+two of a Word, the Pause will be at the 4th; as,
+</p>
+
+<lg><l><hi rend="italic">The Covetous</hi>&mdash;<hi rend="italic">toil long
+for an Estate.</hi></l></lg>
+
+<p>
+When the Accent is on the 4th of a Verse, the Pause will be either at the
+same Syllable, or at the 5th or 6th.
+</p>
+
+<p>
+At the same, when the Syllable of the Accent happens to be the last of a
+Word; as,
+</p>
+
+<lg><l><hi rend="italic">Such huge Extreams&mdash;inhabit thy great
+Mind,</hi></l><l>
+<hi rend="italic">God-like, unmov'd,&mdash;and yet like Woman,
+kind.</hi></l></lg>
+<bibl>Wall.</bibl>
+
+<p>
+At the 5th in 2 manners.
+</p>
+
+<list>
+<item n="1">1. When it happens to be the last save one of a Word , as,
+</item></list>
+
+<lg type="stanza"><l>
+<hi rend="italic">Light Bright Aurora&mdash;whose refulgent Ray</hi></l><l>
+<hi rend="italic">Foretells the Fervour&mdash;of ensuing Day,</hi></l><l>
+<hi rend="italic">And warns the Shepherd&mdash;with his Flocks, retreat</hi></l><l>
+<hi rend="italic">To leafy shadows&mdash;from the threaten'd Heat.</hi></l></lg>
+<bibl>Wall.</bibl><lb/>
+
+<list>
+<item n="2">2. Or the last of the Word, and that the following one be a
+Monosyllable govern'd by it, and that may be lower'd in its Pronunciation; as,
+</item></list>
+
+<lg><l><hi rend="italic">So fresh the Wound is&mdash; and the Grief so
+vast.</hi></l></lg>
+<bibl>Wall.</bibl>
+
+<p>
+At the 6th, when the Syllable of the Accent happens to be the last save
+two of a Word; as,
+</p>
+
+<lg><l><hi rend="italic">Those Seeds of Luxury&mdash;Debate and Pride.</hi></l></lg>
+<bibl>Wall.</bibl>
+
+<p>
+Lastly, When the Accent is upon the 6th Syllable of the Verse, the Pause
+will be either at the same Syllable, or at the 7th.
+</p><p>
+At the same, when the Syllable of the Accent happens tobe the last of a Word;
+as,
+</p>
+
+<lg><l><hi rend="italic">She meditates Revenge&mdash;resolv'd to dye.</hi></l></lg>
+<bibl>Wall.</bibl>
+
+<p>
+At the 7th in two manners.
+</p>
+
+<list>
+<item n="1">1. When it happens to be the last save one of a Word; as,
+</item></list>
+
+<lg><l><hi rend="italic">Mirrors are taught to flatter</hi>&mdash;
+<hi rend="italic">but our Springs.</hi></l></lg>
+<bibl>Wall.</bibl><lb/>
+
+<list>
+<item n="2">2. Or the last of a Word, if the following one be a
+Monosyllable that may be funk in pronouncing, and whose Construction
+depends on the preceeding Word on which the Accent is; as,
+</item></list>
+
+<lg><l><hi rend="italic">And since he could not save her</hi>&mdash;
+<hi rend="italic">with her dy'd.</hi></l></lg>
+<bibl>Dryd.</bibl>
+
+
+<pb n="6"/>
+
+<p>
+From all this it appears, that the Pause is determined by the Seat of the Accent, but if
+it should happen that the Accents on the 2d, 4th,or 6th Syllable of a Verse be equally
+strong, the Sence and Construction of the Words must then guide to the observance of
+the Pause: For Example; In the Verse I cited as an Instance of it at the 7th Syllable.
+</p>
+
+<lg><l><hi rend="italic">Mirrors are taught&mdash;to flatter, but our
+Springs,</hi></l></lg>
+
+<p>
+The Accent is as strong on <hi rend="italic">Taught,</hi> as on the first
+Syllable of <hi rend="italic">Flatter,</hi> and if the Pause were observ'd
+at the 4th Syllable of the Verse, it would have nothing disagreable in its
+Sound; as,
+</p>
+
+<lg><l><hi rend="italic">Mirrors are taught&mdash;to flatter, but our
+Springs,</hi></l></lg>
+
+<p>
+Which tho' it be no Violence to the Ear, yet it is to the Sense, and that ought always
+carefully to be avoided in repeating Verses.
+</p>
+
+<p>
+For this Reason it is, that the Construction or Sence should never end, at a Syllable
+where the Pause ought not to be made; as at the 8th and 2d in the two
+following Verses:
+</p>
+
+<lg><l><hi rend="italic">Bright Hesper twinkles from afar:&mdash;Away</hi></l><l>
+<hi rend="italic">My Kids!&mdash;for you have had a Feast to day.</hi></l></lg>
+<bibl>Staff.</bibl>
+
+<p>
+Which Verses have nothing disagreeable in their Structure but the Pause, which in the
+first of them must be observ'd at the 8th Syllable, in the 2d at the 2d, and so unequal a
+Division can produce no true Harmony.
+</p>
+
+<p>
+The foregoing Rules ought indispensably to be follow'd in all our Verses of 10
+Syllables, and the observation of them, like that of Right Time in Musick, will
+produce Harmony; the neglect of them Harshness and Discord, as appears by the
+following Verses,
+</p>
+
+<lg><l><hi rend="italic">None think Rewards render'd worthy their Worth,</hi></l><l>
+<hi rend="italic">And both Lovers, both thy Disciples were.</hi></l></lg>
+<bibl>Dav.</bibl>
+
+<p>
+Where tho' the true Number of Syllables be observ'd, yet neither of them have
+so much as the sound of a Verse: Now their disagreeableness proceeds from the
+undue Seat of the Accent: For Example, the first of them is accented on the 5th
+and 7th Syllables; but if we change the Words, and remove the Accent from thence,
+the Verse will become smooth and easie; as,
+</p>
+
+<pb n="6"/>
+
+<lg><l><hi rend="italic">None think Rewards are equal to their Worth.</hi></l></lg>
+
+<p>
+<hi rend="italic"></hi> The harshness of the last of them proceeds from its being
+accented on the 3d Syllable, which may be mended thus, by transposing only one
+Word;
+</p>
+
+<lg><l><hi rend="italic">And Lovers both, both thy Disciples were.</hi></l></lg>
+
+<p>
+In like manner the following Verses
+</p>
+
+<lg><l><hi rend="italic">To be Massacred, not in Battle stain.</hi></l></lg>
+<bibl>Blac.</bibl>
+<lg><l><hi rend="italic">But forc'd, harsh, and uneasie unto all.</hi></l></lg>
+<bibl>Cowl.</bibl>
+<lg><l><hi rend="italic">Against the Insults of the Wind and Tide.</hi></l></lg>
+<bibl>Blac.</bibl>
+<lg><l><hi rend="italic">A second Essay will the Pow'rs appease.</hi></l></lg>
+<bibl>Blac.</bibl>
+<lg><l><hi rend="italic">With</hi> Scythians <hi rend="italic">expert in
+the Dart and Bow.</hi></l></lg>
+<bibl>Dryd.</bibl>
+
+<p>
+are rough, because the foregoing Rules are not observ'd in their Structure; for
+Example, the first, where the Pause is the 5th Syllable, and the Accent at the 3d, is
+contrary to the Rule that says, that the Accent that determines the Pause must be on
+the 2d, 4th, or 6th Syllable of the Verse; and to mend that Verse we need only place
+the Accent on the 4th, and then the Pause at the 5th will have nothing disagreeable,
+as,
+</p>
+
+<lg><l><hi rend="italic">Thus to be murder'd, not in Battle stain.</hi></l></lg>
+
+<p>
+The Second Verse is accented on the 3d Syllable, and the Pause is there too;
+which makes it indeed the thing it expresses, forc'd, harsh, and uneasie; it
+may be mended thus,
+</p>
+
+<lg><l><hi rend="italic">But forc'd and harsh, uneasie unto all.</hi></l></lg>
+
+<p>
+The 3d, 4th, and 6th of those Verses have like faults, for the Pauses are at the 5th, and
+the Accent there too, which is likewise contrary to the foregoing Rules: Now they will
+become smooth and flowing, by taking the Accent from the 5th, and altering the Seat
+of the Pause; as
+</p>
+
+<lg><l><hi rend="italic">Against th' Insults both of the Wind and Tide.</hi></l><l>
+<hi rend="italic">A Second Tryal will the Pow'rs appease.</hi></l><l>
+<hi rend="italic">With</hi> Scythians <hi rend="italic">skilful in the
+Dart and Bow.</hi></l></lg>
+
+<p>
+From whence we may gather, that in all Verses of 10 Syllables, the most
+prevailing Accents ought to be on the 2d, 4th, and 6th Syllables; for if
+they are on the 3d, 5th, or 7th, the Verse will be rough and disagreeable,
+ashas been prov'd by the preceeding Instances.
+</p>
+
+<pb n="8"/>
+
+<p>
+In short, the wrong placing of the Accent is as great a fault in our
+Versification, as false Quantity was in that of the Ancients, and therefore
+we ought to take an equal care to avoid it, and endeavour to to dispose the
+Words as may create a certain Melody in the Ear, without Labour to the Tongue,
+or Violence to the Sence.
+</p>
+</div2>
+
+<div2 type="section" n="2" id="d10">
+<head>SECT. II.</head>
+<p>
+<hi rend="italic">Of the other sorts of Verses that are us'd in our
+Poetry.</hi>
+</p>
+
+<p>
+After the Verses of 10 Syllables, those of 8 are most frequent, and we have many
+intire Poems compos'd in them.
+</p><p>
+In the Structure of these Verses, as well as of those of <hi rend="italic">7</hi>
+Syllables, we must take care that the most prevailing Accent be neither on the 3d, nor
+5th Syllables of them.
+</p><p>
+They also require a Pause to be observ'd in pronouncing them, which is generally at
+the 3d, 4th, or 5th Syllable; and the true Seat of it may be discover'd by the Rules
+already prescrib'd in the preceeding Section.
+</p><p>
+The Verses of Nine, and of Eleven Syllables, are of two sorts; one of those that are
+accented upon the last save one, which are only the Verses of double Rhyme that
+belong to those of 8 and 10 Syllables, of which Examples have already been given.
+The other of those that are accented on the last Syllable, which are employ'd only in
+Musical Compositions, and in the lowest sort of Burlesque Poetry, the
+disagreeableness of their Measure, having wholy excluded
+them from grave and serious Subjects. Those who desire to see Examples of them,
+may find some scatter'd here and there in our Masques, and Operas, and in our
+Burlesque Writers. I will give you but two.
+</p>
+
+<lg><l>Hilas, O Hilas, <hi rend="italic">why sit we mute?</hi></l><l>
+<hi rend="italic">Now that each Bird saluteth the Spring.</hi></l></lg>
+<bibl>Wall.</bibl>
+
+<lg><l><hi rend="italic">Apart let me view then each Heavenly Fair,</hi></l><l>
+<hi rend="italic">For three at a time there's no Mortal can bear.</hi></l></lg>
+<bibl>Congr.</bibl>
+
+<pb n="9"/>
+
+<p>
+The Verses of 12 Syllables are truly Heroick, both in their Measure and Sound; tho
+we have no intire Works compos'd in them; and they are so far from being a Blemish
+to the Poems they are in, that on the contrary, when rightly imploy'd, they conduce
+not a little to the Ornament pf them; particularly in the following Rencounters.
+</p>
+
+<list>
+<item n="1">1. When they conclude an Episode in an Heroick Poem: Thus <hi rend="italic">Stafford</hi> ends his Translation of that of <hi
+rend="italic">Camilla</hi> from the 11th &AElig;neid, by a Verse of 12 Syllables,
+</item></list>
+
+<lg><l><hi rend="italic">The ling'ring Soul th' unwelcom Doom receives,</hi></l><l>
+<hi rend="italic">And murm'ring with Disdain&mdash;the beauteous Body
+leaves.</hi></l></lg>
+
+<list>
+<item n="2">2. When they conclude a Triplet and full Sence together, as,
+</item></list>
+
+<lg><l><hi rend="italic">Millions of opening Mouths to Fame belong;</hi></l><l>
+<hi rend="italic">And every Mouth is furnish'd with a Tongue;</hi></l><l>
+<hi rend="italic">And round with list'ning Ears&mdash;the flying Plague is hung.</hi></l></lg>
+<bibl>(Dryd.</bibl>
+
+<p>
+(But here we may observe by the way, that whenever a Triplet is made use of in an
+Heroick Poem, it is a fault not to close the Sence at the end of the Triplet, but to
+continue it on to the beginning of the next Line , as <hi rend="italic">Dryden</hi>
+has done in his Translation of the 11th &AElig;neid in these Lines:
+</p>
+
+<lg type="stanza">
+<l><hi rend="italic">With Olives Crown'd the Presents they shall bear</hi></l><l>
+<hi rend="italic">A Purple Robe, a Royal Iv'ry Chair,</hi></l><l>
+<hi rend="italic">And all the Marks of Sway, that</hi> Latian
+<hi rend="italic">Monarchs wear,</hi> </l><l>
+<hi rend="italic">And Sums of Gold,</hi> &amp;c.</l></lg>
+
+<p>
+And in the 7th &AElig;neid he has committed the like fault.
+</p>
+
+<lg type="stanza"><l>
+<hi rend="italic">Then they, whose Mothers, Frantick with their Fear,</hi></l><l>
+<hi rend="italic">In Woods and Wilds the Flags of Bacchus bear,</hi></l><l>
+<hi rend="italic">And lead his Dances with dishevel'd Hair,</hi></l><l>
+<hi rend="italic">Increase the Clamour</hi></l></lg>
+
+<p>
+But the Sence is not confin'd to the Couplet, for the Close of it may fall into the
+middle of the next Verse, that is the Third, and sometimes farther off. Examplesof this
+are so frequent, that it is needless to give any.)
+</p>
+
+<pb n="10"/>
+
+<list>
+<item n="3">
+3. When they conclude the Stanzas of Lyrick or Pindarick Odes; Examples
+of which are frequently seen in <hi rend="italic">Dryden,</hi> and others.
+</item></list>
+
+<p>
+In these Verses the Pause ought to be at the 6th Syllable, as may be seen in
+the foregoing Examples.
+</p><p>
+We sometimes find it, tho' very rarely, at the 7th; as,
+</p>
+
+<lg><l><hi rend="italic">That such a cursed Creature&mdash;lives so long a
+space,</hi></l></lg>
+
+<p>
+When it is at the 4th, the Verse will be rough; as,
+</p>
+
+<lg><l><hi rend="italic">And Midwife Time&mdash;the ripen'd Plot to Murder
+brought.</hi></l></lg>
+<bibl>Dry.</bibl>
+
+<lg><l><hi rend="italic">Like a swoln Flood&mdash;from some steep Mountain
+pours along.</hi></l></lg>
+<bibl>Cow.</bibl>
+
+<p>
+In the last of which it is very apparent, that if the Sence and Construction
+would allow us to make the Pause at the 6th Syllable,
+</p>
+
+<lg><l><hi rend="italic">Like a swoln Flood from some&mdash;steep Mountain
+pours along.</hi></l></lg>
+
+<p>
+the Verse would be much more flowing and easie.
+</p>
+
+<p>
+The Verses of 14 Syllables are less frequent than those of 12;<hi rend="italic">,
+</hi> they are likewise inserted in Heroick Poems, &amp;c. and are agreeable
+enough when they conclude a Triplet and Sence, and follow a Verse of 12; as,
+</p>
+
+<lg type="stanza">
+<l><hi rend="italic">For Thee the Land in fragrant Flow'rs is drest;</hi></l><l>
+<hi rend="italic">For Thee the Ocean smiles, and smooths her wavy Breast,</hi></l><l>
+<hi rend="italic">And Heav'n it self with more serene and purer Light is blest.</hi></l></lg>
+<bibl>(Dryd.</bibl>
+
+<p>
+But if they follow one of 10 Syllables, the Inequality of
+the Measure renders them less agreeable; as,</p>
+
+<lg><l><hi rend="italic">While all thy Province, Nature, I survey,</hi></l><l>
+<hi rend="italic">And sing to</hi> Memmius <hi rend="italic">an Immortal Lay</hi></l><l>
+<hi rend="italic">Of Heav'n and earth; and every where thy wondrous (Pow'r display. </hi></l></lg>
+<bibl>Dryd.</bibl>
+
+<p>
+Especially if it be the last of a Couplet only; as,
+</p>
+
+<lg><l><hi rend="italic">With Court Informers haunts and Royal Spies,</hi></l><l>
+<hi rend="italic">Things done relates, not done she feigns, and mingles Truth with
+Lies.</hi></l></lg>
+<bibl>Dryd.</bibl>
+
+<pb n="11"/>
+
+<p>
+But this is only in Heroicks, for in Pindaricks and Lyricks Verses of 12 or 14
+Syllables are frequently and gracefully plac'd after those that are not only of 12,
+or 10, but even of any other number of Syllables whatsoever.
+</p><p>
+The Verses of 4 and 6 Syllables have nothing worth observing, and therefore I shall
+content my self with having made mention of them. They are as I said before, us'd
+only in Operas, and Masks, and in Lyrick and Pindarick Odes. Take one Example of
+them,
+</p>
+
+<lg type="stanza"><l>
+<hi rend="italic">A Mind that's truly brave</hi></l><l>
+<hi rend="italic">Stands despising,</hi></l><l>
+<hi rend="italic">Storms arising,</hi></l><l>
+<hi rend="italic">And can't be made a Slave.</hi></l></lg>
+</div2>
+
+<div2 type="section" n="3" id="d11">
+<head>SECT. III.</head>
+<p>
+<hi rend="italic">Several Rules conducing to the beauty of our Versification.</hi>
+</p>
+
+<p>
+Our Poetry being very much polish'd and refin'd since the Days of
+<hi rend="italic">Chaucer</hi>, <hi rend="italic">Spencer</hi>, and
+the other Ancient Poets, some Rules which they neglected, and that conduce
+very much to the Ornament of it, have beep practis'd by the best of the Moderns.
+</p><p>
+The first is, to avoid as much as possible the Concourse of Vowels, which occasions
+a certain ill-sounding Gaping, call'd by the Latins <hi rend="italic">Hiatus,</hi>
+and which they thought so disagreeable to the Ear, that, to avoid it, whenever a Word
+ended in a Vowel, and the next began by one, they never, even in Prose, sounded the
+Vowel of the first Word, but lost it in the Pronunciation, and it is a fault in our
+Poets not to do the like, whenever our Language will admit of it.
+</p><p>
+For this Reason the <hi rend="italic">e</hi> of the Particle <hi rend="italic">
+The,</hi> ought always to be cut off before the Words that begin by a
+Vowel;  as,
+</p>
+
+<lg><l><hi rend="italic">With weeping Eyes she heard th' unwelcome News. </hi></l></lg>
+<bibl>Dryd.</bibl>
+
+<p>
+And it is a fault to make <hi rend="italic">The</hi> and the first Syllable of the
+following word two distinct Syllables, as in this:
+</p>
+
+<lg><l><hi rend="italic">Restrain'd a while by the unwelcome Night.</hi></l></lg>
+<bibl>Wall.</bibl>
+
+<pb n="12"/>
+
+<p>
+A second sort of <hi rend="italic">Hiatus</hi>, and that ought no less to be
+avoided, is, when a Word that ends in a Vowel that cannot be cut off, is plac'd
+before one that begins by the same Vowel, or one that has the like Sound; as,
+</p>
+
+<lg><l><hi rend="italic">Should thy Iambicks swell into a Book.</hi></l></lg>
+<bibl>Wall.</bibl>
+
+<p>
+The second Rule is, to contract the two last Syllables of the Preter-Perfect
+Tenses of all the Verbs that will admit of it; which are all the Regular Verbs
+whatsoever, except only those in D and T, and in DE and TE. And it is a fault to
+make <hi rend="italic">Amazed</hi> of three Syllables, and <hi rend="italic">
+Loved</hi> of two; instead of <hi rend="italic">Amaz'd</hi> of two, and
+<hi rend="italic">Lov'd</hi> of one.
+</p><p>
+And the second Person of the Present and Preterperfect Tenses of all Verbs
+ought to be contracted in like manner, as <hi rend="italic">Thou Lov'st</hi>,
+for <hi rend="italic">thou lovest</hi>, &amp;c.
+</p><p>
+The third Rule is, not to make use of several Words in a Verse, that begin by the same
+Letter; as,
+</p>
+
+<lg><l><hi rend="italic">The Court he knew to steer in Storms of State.</hi></l></lg>
+<bibl>Dav.</bibl>
+
+<lg><l><hi rend="italic">He in these Miracles Design Discern'd.</hi></l></lg>
+<bibl>Dryd.</bibl>
+
+<p>
+The fourth is, to avoid ending a Verse by an Adjective whose Substantive begins the
+following one; as,
+</p>
+
+<lg><l><hi rend="italic">Some lost their quiet Rivals, some their kind Parents,</hi>
+&amp;c.</l></lg>
+<bibl>Dav.</bibl>
+
+<p>
+Or, by a Preposition when the Case it governs begins the Verse that follows; as,
+</p>
+
+<lg><l><hi rend="italic">The daily less'ning of our Life shews by</hi></l><l>
+<hi rend="italic">A little dying, how outright to dye.</hi></l></lg>
+<bibl>Wall.</bibl>
+
+<p>
+The fifth is to avoid the frequent use of Words of many Syllables, which are proper
+enough to Prose, but come not into Verse without a certain Violence altogether
+disagreeable; particularly those whose Accent is on the fourth Syllable
+from the last.
+</p><pb n="13"/>
+</div2>
+
+<div2 type="section" n="4" id="d12">
+<head>SECT. IV.</head>
+<p>
+<hi rend="italic">Doubts concerning the Number of Syllables of certain
+Words.</hi>
+</p>
+
+<p>
+There is no Language whatsoever that so often joyns several Vowels together to make
+Dipthongs of them as ours; this appears from our having several compos'd of three
+different Vowels: as EAU, and EOU in <hi rend="italic">Beauteous</hi>:  IOU in
+<hi rend="italic">Glorious,</hi> UAI in <hi rend="italic">Acquaint,</hi> and
+several others.
+</p><p>
+Now from hence may arise some Difficulties concerning the true Pronunciation of
+those Vowels: Whether they ought to be founded separately in two Syllables, or
+joyntly in one.
+</p><p>
+The Ancient Poets made them sometimes of two Syllables, sometimes but of one,
+as the Measure of their Verse requir'd ; but they are now become to be but of
+one, and it is a fault to make them of two: From whence we may draw this general
+Rule;
+</p><p>
+That whenever one Syllable of a Word ends in a Vowel, and the next begins by
+one, provided the first of those Syllables be not that on which the Word is
+accented; those two Syllables ought in Verse to be contracted and made but one.
+Thus <hi rend="italic">Beauteous</hi> is but of two Syllables, <hi rend="italic">
+Victorious</hi> but of three, and it is a fault in <hi rend="italic">Dryden,</hi>
+to make it of four, as he has done in this Verse:
+</p>
+
+<lg><l><hi rend="italic">Your Arms are on the</hi> Rhine <hi rend="italic">
+Victorious.</hi></l></lg>
+
+<p>
+To prove that this Verse wants a Syllable of its due Measure, we have but to add
+one to it, as,
+</p>
+
+<lg><l><hi rend="italic">Tour Arms are on thee</hi> Rhine <hi rend="italic">Victorious now.</hi></l></lg>
+
+<p>
+Where tho' the Syllable <hi rend="italic">now</hi> be added to the Verse, it
+has no more than its due number of Syllables, which plainly proves the other
+wanted it.
+</p><p>
+But if the Accent be upon the first of these Syllables, they cannot be
+contracted to make a Dipthong, but must be computed as two distinct Syllables:
+Thus <hi rend="italic">Poet, Lyon, Quiet</hi>, and the like, must always be of
+two Syllables: <hi rend="italic">Poetry</hi> and the like, of three.
+</p>
+
+<pb n="14"/>
+
+<p>
+And it is a fault to make <hi rend="italic">Riot</hi>, (for Example,) but of
+one Syllable, as <hi rend="italic">Milton</hi> has done in this Verse.
+</p>
+
+<lg><l><hi rend="italic">Their Riot ascends above their lofty Tow'rs</hi>.</l></lg>
+
+<p>
+And the same Poet has in another place made use of the same Word twice in one
+Verse, and made it of two Syllables each time.
+</p>
+
+<lg><l><hi rend="italic">With Riot upon Riot, Rout on Rout.</hi></l></lg>
+
+<p>
+And any Ear may discover that this last has its true Measure, the other not.
+</p><p>
+But there are some words that may be excepted; as <hi rend="italic">Diamond,
+Violet, Violent, Diadem,</hi> and perhaps some others, which though they are
+accented upon the first Vowel, are sometimes us'd but as two Syllables, as in
+the following Verses,
+</p>
+
+<lg><l><hi rend="italic">From Diamond Quarries hewn, and Rocks of Gold.</hi></l></lg>
+<bibl>Milt.</bibl>
+<lg><l><hi rend="italic">With Poppies, Daffadils, and Violets joyn'd.</hi></l></lg>
+<bibl>Tate.</bibl>
+<lg><l><hi rend="italic">With Vain, but Violent Force their Darts they flung.</hi></l></lg>
+<bibl>Cowl.</bibl>
+<lg><l><hi rend="italic">His Ephod, Mitre, well-cut Diadem on.</hi></l></lg>
+<bibl>Cowl.</bibl>
+
+<p>
+Sometimes three; as,
+</p>
+
+<lg><l><hi rend="italic">A Mount of Rocky Diamond did rise.</hi></l></lg>
+<bibl>Blac.</bibl>
+<lg><l><hi rend="italic">Hence the blue Violet and blushing Rose.</hi></l></lg>
+<bibl>Gar.</bibl>
+
+<p>
+But this Contraction is not always made of Syllables of the same Word; for the
+Particle <hi rend="italic">A</hi> being plac'd after a Word that ends in a Vowel,
+will sometimes admit of the like Contradiction: For Example, after the Word
+<hi rend="italic">Many</hi>; as,
+</p>
+
+<lg><l><hi rend="italic">I have attended many a Winter Night.</hi></l></lg>
+<bibl>Dryd.</bibl>
+<lg><l><hi rend="italic">They many a Trophy gain'd with many a Wound.</hi></l></lg>
+<bibl>Dav.</bibl>
+
+<p>
+After <hi rend="italic">To</hi>; as
+</p>
+
+<lg><l><hi rend="italic">Can he to a Friend, to a Son so bloody grow.</hi></l></lg>
+<bibl>Cowl.</bibl>
+
+<pb n="15"/>
+
+<p>
+After <hi rend="italic">They</hi>; as,
+</p>
+
+<lg><l><hi rend="italic">From thee their long-known King they a King desire.</hi></l></lg>
+<bibl>Cowl.</bibl>
+
+<p>
+After <hi rend="italic">By</hi>; as,
+</p>
+
+<lg><l><hi rend="italic">When we by a foolish Figure say.</hi></l></lg>
+<bibl>Cowl.</bibl>
+
+<p>
+And perhaps after some others.
+</p>
+
+<p>
+There are also many other Words whose Syllables are sometimes contracted,
+sometimes not: As <hi rend="italic">Bower</hi>, <hi rend="italic">Heaven,
+Prayer, Nigher, Towards</hi>, and many other of the like nature: But they generally
+ought to be us'd but as one Syllable; and then they suffer an Elision of the e that
+preceedes their final Consonant, and ought to be written thus: <hi
+rend="italic">Pow'r,</hi> <hi rend="italic">Heav'n, Pray'r, </hi>&amp;c.
+</p><p>
+The Termination ISM is always us'd but as one Syllable; as,
+</p>
+
+<lg><l><hi rend="italic">Where griefly Schism and raging Strife appear.</hi></l></lg>
+<bibl>Cowl.</bibl>
+
+<lg><l><hi rend="italic">And Rhumatisms I send to rack the Joynts.</hi></l></lg>
+<bibl>Dryd.</bibl>
+
+<p>
+And, indeed, considering that it has but one Vowel, it may seem absurd to assert that
+it ought to be reckon'd two Syllables; and yet in my Opinion, those Verses seem to
+have a Syllable more than their due Measure, and would run better if we took a
+Syllable from them; as,
+</p>
+
+<l><hi rend="italic">Where griefly Schism, raging Strife appear,</hi></l><l>
+<hi rend="italic">I Rhumatisms send to rack the Joynts.</hi></l>
+
+<p>
+But this Opinion being contrary to the constant practice of our Poets, I shall
+not presume to advance it as a Rule for others to follow, but propose it only to
+the consideration of such as are better Judges of Poetical Numbers, and whose Ears
+are more Musical than mine. The like too may be said of the Terminations ASM and OSM.
+</p><pb n="16"/>
+</div2>
+
+<div2 type="section" n="5" id="d13">
+<head>SECT. V.</head>
+<p>
+<hi rend="italic">Of the Elisions that are admitted in our Versification.</hi>
+</p>
+
+<p>
+Our Verses consisting only of a certain Number of Syllables, nothing can be of more
+ease, or greater use to our Poets than the retaining or cutting off a Syllable from a
+Verse, according as the measure of it requires; and therefore it will be requisite to
+treat of the Elisions that are allowable in our Poetry, some of which have been already
+taken notice of in the preceeding Article.
+</p><p>
+By Elision I mean the cutting off one or more Letters from a. Word, whereby two
+Syllables come to be contracted into one, or the taking away an entire Syllable; Now
+when in a Word of more than two Syllables, which is accented upon the last save two,
+any of the Liquids L, M, N, or R, happen to be between two Vowels, that which
+preceedes the Liquid admits of an Elision. Of this nature are all the Words in LOUS,
+MOUS, NOUS, and ROUS preceded by a Vowel; as <hi rend="italic">Fabulous,
+Amorous,</hi> which are Words of three Syllables, and often us'd as such in Verse:
+But they may also be contracted into two, by cutting off the Vowel that preceedes the
+Liquid; as <hi rend="italic">Fab'lous, Am'rous.</hi>
+</p><p>
+Observe, that I said accented upon the last save two, for if the Word be accented on
+the last save one; that is to say, upon the Vowel that precedes the Liquid, that Vowel
+may not be cut off. And therefore it is a fault in some Poets to make, for Example, <hi
+rend="italic">Sonorous</hi> of two Syllables, as in this Verse;
+</p>
+
+<lg><l><hi rend="italic">With Son'rous Metals wak'd the drowsie Day.</hi></l></lg>
+<bibl>Blac.</bibl>
+
+<p>
+Which always ought to be of three; as in this,
+</p>
+
+<lg><l><hi rend="italic">Sonorous Metals blowing Martial Sounds.</hi></l></lg>
+<bibl>Milt.</bibl>
+
+<p>
+There are also many Words in RY, that admit of the like Elisions; as <hi
+rend="italic">Vot'ry, Vict'ry,</hi> or <hi rend="italic">Votary, Victory,</hi>
+&amp;c.
+</p><p>
+To these may be added the Gerunds of all Verbs whose Infinitives end in any of the
+Liquids, preceeded by a Vowel or Dipthong, and that are accented upon the last save
+one,
+
+<pb n="17"/>
+
+for the Gerunds being form'd by adding the Syllable ING to the Infinitive, the Liquid,
+that was their final Letter, comes thereby to be between two Vowels, and the Accent
+that was upon the last save one of the Infinitive, comes to be on the last save two of
+the Gerund, and therefore the Vowel or Dipthong that preceeds the Liquid may be cut
+off, by means whereof the Gerund of three Syllables comes to be but of two, as from
+<hi rend="italic">Travel, Travelling,</hi> or <hi rend="italic">Trav'ling,</hi>
+from <hi rend="italic">Endeavour, Endeavouring,</hi> or <hi
+rend="italic">Endeav'ring,</hi> and many others.
+</p><p>
+But if the Accent be upon the last Syllable of such a Verb, its Gerund will not
+suffer such an Elision: Thus the Gerund of <hi rend="italic">Devour</hi> must
+always be of 3 Syllables, <hi rend="italic">Devouring,</hi>not <hi rend="italic">
+Dev'ring,</hi> because all Derivatives still retain the Accent of their Primitives,
+that is, upon the same Syllable, and the Accent always obliges the Syllable upon
+which it is to remain intire.
+</p><p>
+Whenever the Letter S happens to be between two Vowels in words of the like Nature,
+that is to say, that are Accented upon the last save one, one of the Vowels will
+admit of the like Elision; as <hi rend="italic">Pris'ner, Bus'ness,</hi> &amp;c.
+</p><p>
+Or the Letter C when it is sounded like S, that is to say, whenever it preceeds
+the Vowels <hi rend="italic">e</hi>, or <hi rend="italic">i,</hi> as, <hi
+rend="italic">Med'cine</hi> for <hi rend="italic">Medicine,</hi> &amp;c.
+</p><p>
+Whenever V Consonant happens to be between two Vowles, the last of them may be
+cut off, as <hi rend="italic">Ev'n, Ev'ry</hi>, &amp;c. But <hi
+rend="italic">Never, Ever, Over,</hi> lose their Consonant, and are contracted
+thus: <hi rend="italic">Ne'er, E'er, O'er.</hi>
+</p><p>
+Lastly, to these may be added the Gerunds of the Verbs in OW, that are Accented
+upon the last save one, as <hi rend="italic">Follow, Wallow,</hi> &amp;c. All
+which will suffer an Elision of the O that preceeds the W; as <hi
+rend="italic">Foll'wing, Wall'wing,</hi> &amp;c.
+</p>
+</div2>
+
+<div2 type="section" n="6" id="d14">
+<head>SECT. VI.</head>
+<p>
+<hi rend="italic">Some other Elisions that are frequently us'd in our
+Versification; and particularly of the Particles</hi> It, Is, To, Are,
+Will, He, She, We, Would, Have, His, Am, Not, In, The, Who, By.
+</p>
+
+<p>
+The Particle <hi rend="italic">It</hi> admits of an Elision of its I, when
+it is plac'd after any word that ends in a Vowel ; as <hi rend="italic">by't</hi>
+for <hi rend="italic">by it,</hi> <hi rend="italic">do't</hi> for <hi rend="italic">
+do it,</hi> &amp;c. Or that ends in any of the Consonants
+
+<pb n="18"/>
+
+that can be pronounc'd after the Letter T, as <hi rend="italic">Was't</hi> for
+<hi rend="italic">Was it, In't</hi> for <hi rend="italic">In it</hi>, and the
+like.
+</p><p>
+Or when it is plac'd before any Word. that begins by a Vowel, or by any of
+the Consonants that the Letter T can be sounded before, as <hi rend="italic">`Tis</hi>
+for <hi rend="italic">It is</hi>, <hi rend="italic">T'wouId</hi> for
+<hi rend="italic">It would,</hi> &amp;c.
+</p><p>
+The Particle <hi rend="italic">Is</hi> may lose its I after any Word that ends
+in a Vowel, or in any of the Consonants after which the 'Letter S may be sounded;
+<hi rend="italic">she's</hi> for <hi rend="italic">she is</hi>: The
+<hi rend="italic">Air's</hi> for the <hi rend="italic">Air is,</hi> &amp;c.
+</p><p>
+<hi rend="italic">To</hi> (sign of the Infinitive) may lose its O before any
+Word that begins by a Vowel; as <hi rend="italic">T' amaze, t' undo</hi>, &amp;c.
+</p><p>
+<hi rend="italic">Are</hi> may lose its A after the Pronouns Personal <hi
+rend="italic">We, You, They,</hi> as <hi rend="italic">We're, You're,
+They're</hi>: And thus it is that this Elision ought to be made, and not as some do,
+by cutting offthe Final Vowels of the Pronouns Personal; <hi rend="italic">W'are,
+Y'are</hi>,<hi rend="italic"> Th'are</hi>: It also loses its A after <hi
+rend="italic">Who</hi>: <hi rend="italic">Who're</hi> for <hi
+rend="italic">Who are</hi>.
+</p><p>
+<hi rend="italic">Will</hi> and <hi rend="italic">Would</hi> may lose all their
+first Letters, and retain only their final one, after any of the Pronouns Personal; as <hi
+rend="italic">I'll</hi> for I will, <hi rend="italic">He'd</hi> for <hi
+rend="italic">He would,</hi> &amp;c. or after <hi rend="italic">Who,</hi> as
+<hi rend="italic">who'll</hi> for <hi rend="italic">who will, who'd</hi> for <hi
+rend="italic">who would.</hi>
+</p><p>
+<hi rend="italic">He, She, We,</hi> may lose their E before any Verb that begins
+by a Vowel; as <hi rend="italic">Sh' exposes</hi>, <hi
+rend="italic">W'aim</hi>,&amp;c. And sometimes before other words, as in this
+Verse of <hi rend="italic">Cowley.</hi>
+</p>
+
+<lg><l><hi rend="italic">Shame and Woe to us, if w' our Wealth obey.</hi></l></lg>
+
+<p>
+<hi rend="italic">Have</hi>, may lose its two first Letters after
+<hi rend="italic">I, You, We, They</hi>; as <hi rend="italic">I've, You've,
+We've, They've.</hi>
+</p><p>
+<hi rend="italic">Not,</hi> loses its two first Letters after can; <hi
+rend="italic">Can't</hi> for <hi rend="italic">Can not.</hi>
+</p><p>
+<hi rend="italic">Am,</hi> may lose its A after I: <hi rend="italic">I'm</hi> for
+<hi rend="italic">I am.</hi>
+</p><p>
+<hi rend="italic">Us</hi>, its U after Let, <hi rend="italic">Let's</hi> for <hi
+rend="italic">let us.</hi>
+</p><p>
+<hi rend="italic">Taken</hi>, its K, as <hi rend="italic">Ta'en</hi>, for so it
+ought to be writ not <hi rend="italic">ta'ne.</hi>
+</p><p>
+In some of our Poets we find the Particle <hi rend="italic">His</hi> lose its two
+first Letters after any word that ends in a Vowel; as <hi rend="italic">To's</hi>,
+<hi rend="italic">by's,</hi> &amp;c. for <hi rend="italic">to his, by his,</hi>
+&amp;c. Or after any word that ends in a Consonant, after which the Letter S can be
+pronounc'd, as <hi rend="italic">In's, for's,</hi> for <hi rend="italic">In his, for
+his, </hi>&amp;c This is frequent in <hi rend="italic">Cowley,</hi> who I must
+confess often makes Contractions that are scarce allowable; as <hi rend="italic">t'
+your</hi> for <hi rend="italic">to your, t' which</hi> for <hi rend="italic">to
+which,</hi> and many others; In which we must be cautious of following his
+Example: But the Contracting the Particle <hi rend="italic">His</hi> in the manner
+I have mention'd, is not wholly to be Condemn'd.
+</p><p>
+We sometimes find the word <hi rend="italic">Who,</hi> contracted before words
+that begin by a Vowel; As,
+</p>
+
+<pb n="19"/>
+
+<lg><l><hi rend="italic">Wh' expose to scorn and hate both them and it.</hi></l></lg>
+<bibl>Cowley.</bibl>
+
+<p>
+And the Preposition <hi rend="italic">By</hi> in like manner; As,
+</p>
+
+<lg><l><hi rend="italic">B' unequal Fate, and Providence's Crime.</hi></l></lg>
+<bibl>Dryd.</bibl>
+
+<p>
+But these and the like Contractions are very rare in our most Correct Poets, and
+ought but sparingly to be follow'd.
+</p><p>
+I have already spoken of the Contraction of the Particle <hi rend="italic">The</hi>
+before Vowels, in the Third Section of this Chapter, but it will be requisite to take
+notice that it sometimes loses its Vowel when it is before a Word that begins by a
+ConSonant; and then its two remaining Letters are join'd to the preceeding word; as
+<hi rend="italic">to th' Wall,</hi> for <hi rend="italic">to the Wall, by th'
+Wall.</hi> for <hi rend="italic">by the Wall,</hi> &amp;c.
+</p><p>
+It may also be cut off before words that begin by the Letter H, when it is not
+strongly aspir'd, and particularly, when the H is follow'd by another E; As,
+</p>
+
+<lg><l><hi rend="italic">Th' Heroick Prince's Courage or his Love.</hi></l></lg>
+<bibl>Wall.</bibl>
+
+<lg><l><hi rend="italic">Th' Hesperean Fruit and made the Dragon sleep.</hi></l></lg>
+<bibl>Wall.</bibl>
+
+<p>
+The Particles <hi rend="italic">In, of,</hi> and <hi rend="italic">on,</hi> and
+some others of like Nature sometimes lose their Consonants, and are join'd to the
+Particle <hi rend="italic">The</hi> in like manner; as <hi rend="italic">i'th',
+o'th',</hi> for <hi rend="italic">In the, of the.</hi>
+</p><p>
+Some words admit of an Elision of their first Syllable; as <hi rend="italic">`Tween,
+`Twixt, `Mong, `Mongst, `Gainst, `Bove, `cause, `fore, `gins, `gan,</hi> for<hi
+rend="italic"></hi> for <hi rend="italic">Between, Betwixt, Among, Amongst,
+Because, Before, Begins, Began, </hi> and perhaps some others that may be observ'd
+in reading our Poets.
+</p>
+</div2>
+</div1>
+
+<div1 type="chapter" n="2" id="d15">
+<head>CHAP. II.<lb/>
+<hi rend="italic">Of Rhyme.</hi>
+</head>
+
+<div2 type="section" n="1" id="d16">
+<head>SECT. I.</head>
+<p>
+<hi rend="italic">What Rhyme is, and the several sorts of it.</hi>
+</p>
+
+<p>
+Rhyme is only a sameness of sound at the end of words. I say, of Sound,
+not of Letters; for as the Office of Rhyme is to content and please the
+Ear, and not the Eye, the sound only is to be regarded, not the Writing:
+Thus <hi rend="italic">Maid</hi> and <hi rend="italic">Perswade</hi>,
+<hi rend="italic">Laugh</hi>, and <hi rend="italic">Quaff</hi>, tho'
+they differ in
+
+<pb n="20"/>
+
+Writing, Rhyme very well: But <hi rend="italic">Plough</hi> and <hi
+rend="italic">Cough, Chang'd</hi> and <hi rend="italic">Hang'd,</hi> tho'
+written alike, Rhyme not at all.
+</p><p>
+In our Versification we may observe 3 several sorts of Rhyme; Single, Double, and
+Treble.
+</p><p>
+The single Rhyme is of two sorts: One of the words that are accented upon the last
+Syllable: Another, of those that have their Accent upon the last save two.
+</p><p>
+The words accented upon the last Syllable, if they end in a Consonant or mute E,
+oblige the Rhyme to begin at the Vowel that preceeds their last Consonant, and to
+continue to the end of the word: In a Consonant; As,
+</p>
+
+<lg><l><hi rend="italic">Here might be seen that Beauty, Wealth and Wit,</hi>
+<hi rend="italic">And Prowess to the Pow'r of Love Submit.</hi></l></lg>
+<bibl>Dryd.</bibl>
+
+<p>
+In mute E; As,
+</p>
+
+<lg><l><hi rend="italic">A spark of Virtue, by the deepest shade</hi></l><l>
+<hi rend="italic">Of sad Adversity, is fairer made.</hi></l></lg>
+<bibl>Wall.</bibl>
+
+<p>
+But if a Dipthong preceed the last Consonant, the Rhyme
+must begin at that Vowel of it whose sound most prevails; As,                .
+</p>
+
+<lg><l><hi rend="italic">Next to the Pow'r of making Tempests cease,</hi></l><l>
+<hi rend="italic">Was in that Storm to have so calm a Peace.</hi></l></lg>
+<bibl>Wall.</bibl>
+
+<p>
+If the words accented upon the last Syllable end in any of the Vowels, except mute E,
+or in a Dipthong, the Rhyme is made only to that Vowel or Dipthong, to the Vowel; As,
+</p>
+
+<lg><l><hi rend="italic">So wing'd with praise we penetrate the Sky,</hi> </l><l>
+<hi rend="italic">Teach Clouds and Stars to praise him as we fly.</hi></l></lg>
+<bibl>Wall.</bibl>
+
+<p>
+To the Dipthong; As,
+</p>
+
+<lg><l><hi rend="italic">So hungry Wolves, tho' greedy of their Prey,</hi></l><l>
+<hi rend="italic">Stop when they find a Lyon in the way.</hi></l></lg>
+<bibl>Wall.</bibl>
+
+<p>
+The other sort of single Rhyme is of the words that have their Accent upon the last
+Syllable, save two; And these Rhyme to each other in the same manner as the former;
+that is to say, if they end in any of the Vowels, except mute E, the Rhyme is made
+only to that Vowel; As,
+</p>
+
+<lg><l><hi rend="italic">So seems to speak the Youthful Deity;</hi></l><l>
+<hi rend="italic">Voice, Colour, Hair, and all like Mercury.</hi></l></lg>
+<bibl>Wall.</bibl>
+
+<p>
+But if they end in a Consonant or mute E, the Rhyme must begin at the Vowel that
+preceeds that Consonant, and continue to the end of the word.
+</p><p>
+But we must take notice that all the words that are accented upon the last save two,
+will Rhyme not only to one another, but also to all the words whose Terminations
+have
+
+<pb n="21"/>
+
+the same sound, tho' they are accented upon the last Syllable. Thus <hi rend="italic">
+Tenderness</hi> Rhymes not only to <hi rend="italic">Poetess, Wretchedness</hi> and
+the like, that are accented upon the last save two, but also to <hi rend="italic">
+Confess, Express, </hi>&amp;c. that are accented upon the last; As,
+</p>
+
+<lg><l><hi rend="italic">Thou art my Father now, these words confess</hi></l><l>
+<hi rend="italic">That Name, and that indulgent Tenderness.</hi></l></lg>
+<bibl>Dryd.</bibl>
+</div2>
+
+<div2 type="section" n="2" id="d17">
+<head>SECT. II.</head>
+<p>
+<hi rend="italic">Of Double and Treble Rhymes.</hi>
+</p>
+
+<p>All words that are accented on the last save one, require the Rhyme to begin
+at the Vowel of that Syllable, and to continue to the end of the word, and
+this is what we call Double Rhyme; as,
+</p>
+
+<lg><l><hi rend="italic">Then all for Women, Painting, Rhyming, Drinking,</hi></l><l>
+<hi rend="italic">Besides ten Thousand freaks that dy'd in thinking.</hi></l></lg>
+<bibl>Dryd.</bibl>
+
+<p>
+But it is convenient to take notice that the Ancient Poets have not always
+observ'd this Rule, and took care only that the last Syllable of the words
+should be alike in sound, without any regard to the Seat of the Accent. Thus
+<hi rend="italic">Nation</hi> and <hi rend="italic">Affection, Tenderness</hi>
+and <hi rend="italic">Hapless, Villany</hi> and <hi rend="italic">Gentry,
+Follow</hi> and <hi rend="italic">Willow,</hi> and the like were allow'd as
+Rhymes to each other, in the Days of <hi rend="italic">Chaucer, Spencer,</hi>
+and the rest of the Ancients; but this is now become a fault in our Versification;
+and these two Verses of <hi rend="italic">Cowley</hi> Rhyme not at all.
+</p>
+
+<lg><l><hi rend="italic">A clean and lively brown was</hi> Merab's
+<hi rend="italic">Dye</hi></l><l>
+<hi rend="italic">Such as the proudest Colours might envy.</hi></l></lg>
+
+<p>
+Nor these of <hi rend="italic">Dryden.</hi>
+</p>
+
+<lg><l><hi rend="italic">Thus Air was void of light and Earth unstable,</hi></l><l>
+<hi rend="italic">And Waters dark Abyss unnavigable.</hi></l></lg>
+
+<p>
+Because we may not place an Accent on the last Syllable of <hi rend="italic">
+Envy,</hi> nor on the last save one of <hi rend="italic">Unnavigable;</hi> which
+nevertheless we must be oblig'd to do, if we make the first of them Rhyme to
+<hi rend="italic">Dye,</hi> the last to <hi rend="italic">Unstable.</hi>
+</p><p>
+But we must take notice that in Burlesque Poetry, it is permitted to place an
+Accent upon a Syllable that naturally has none; as,
+</p>
+
+<lg><l><hi rend="italic">When Pulpit, Drum Ecclesiastick,</hi></l><l>
+<hi rend="italic">Was beat with fist instead of a stick.</hi></l></lg>
+<bibl>Hudib.</bibl>
+
+<pb n="22"/>
+
+<p>
+Where unless we pronounce the Particle A with a strong Accent upon it,
+and make it sound like the Vowel A. in the last Syllable but one of
+<hi rend="italic">Ecclesiastick;</hi> the Verse will lose all its Beauty
+and Rhyme. But this is allowable in Burlesque Poetry only.
+</p><p>
+Observe that these double Rhymes may be Compos'd of two several words; provided
+the Accent be upon the last Syllable of the first of them; as in these Verses of
+<hi rend="italic">Cowley</hi>, speaking of Gold,
+</p>
+
+<lg><l><hi rend="italic">A Curse on him who did refine it,</hi></l><l>
+<hi rend="italic">A Curse on him who first did coin it.</hi></l></lg>
+
+<p>
+Or one of the Verses may end in an intire word, and the Rhyme to it be Compos'd of
+several; as,
+</p>
+
+<lg><l><hi rend="italic">Tho' stor'd with Deletery Med'cines,</hi></l><l>
+<hi rend="italic">Which whosoever took is dead since.</hi></l></lg>
+<bibl>Hudib.</bibl>
+
+<p>
+The Treble Rhyme is, when in words Accented upon the last save two we
+begin the Rhyme at the Vowel of that Syllable, and continue it to the
+end of the word. Thus <hi rend="italic">Charity</hi> and <hi rend="italic">
+Parity</hi>, <hi rend="italic">Tenderness</hi> and <hi rend="italic">
+Slenderness</hi>, &amp;c. are treble Rhymes; And there too, as well as
+the double; may be composed of several words; as,
+</p>
+
+<lg><l><hi rend="italic">There was an Ancient sage Philosopher,</hi></l><l>
+<hi rend="italic">That had read</hi> Alexander Ross <hi rend="italic">
+over</hi>.</l></lg>
+<bibl>Hudib.</bibl>
+
+<p>
+The Treble Rhyme is very seldom us'd, and ought wholy to be excluded from
+serious subjects; for it has a certain flatness, unworthy the gravity requir'd
+in Heroick Verse. In which <hi rend="italic">Dryden</hi> was of opinion that
+even the double Rhymes ought very cautiously to find place; and in all his
+Translation of <hi rend="italic">Virgil</hi> he has, I think, made use of
+none except only in such words as admit of a Contraction, and therefore cannot
+properly be said to be double Rhymes; as <hi rend="italic">Giv'n</hi>,
+<hi rend="italic">Driv'n</hi>, <hi rend="italic">Tow'r</hi>, <hi rend="italic">
+Pow'r</hi>, and the like. And indeed, considering that their measure is different
+from that of an Heroick Verse, which consists but of 10 Syllables, they ought not
+to be too frequently us'd in Heroick Poems; but they are very graceful in the
+Lyrick, to which, as well as to the Burlesque, those Rhymes more properly belong.
+</p><pb n="23"/>
+</div2>
+
+<div2 type="section" n="3" id="d18">
+<head>SECT. III.</head>
+<p>
+<hi rend="italic">Some other Instructions concerning the Rhyme.</hi>
+</p>
+
+<p>
+<hi rend="italic"></hi>The Consonants, that preceed the Vowels where the
+Rhyme begins, must be different in sound, and not the same; for then the Rhyme
+will be too perfect; as <hi rend="italic">Light, Delight</hi>; <hi rend="italic">
+Vice, Advice,</hi> and the like; for tho' such Rhymes were allowable in the Days
+of <hi rend="italic">Spencer</hi> and the other old Poets, they are not so now;
+nor can there be any Musick in one single Note. <hi rend="italic">Cowley</hi>
+himself owns, that they ought not to be employ'd except in Pindarick Odes, which
+is a free sort of Poetry, and there too very sparingly, and not without a third
+Rhyme to Answer to both; as,
+</p>
+
+<lg><l><hi rend="italic">In Barren Age wild and unglorious lye,</hi></l><l>
+<hi rend="italic">And boast of past fertility,</hi></l><l>
+<hi rend="italic">The poor Relief of present poverty.</hi></l></lg>
+<bibl>Cowley.</bibl>
+
+<p>
+Where the words <hi rend="italic">Fertility</hi> and <hi rend="italic">
+Poverty</hi> Rhyme very well to the last Word of the first Verse,
+<hi rend="italic">Ly</hi> ; but cannot Rhyme to each other, because the
+Consonants that preceed the last Vowel are the same, both in writing and
+sound. But this is yet less allowable if the Accent be upon the Syllable
+of the Rhyme; as,
+</p>
+
+<lg><l><hi rend="italic">Her Language melts Omnipotence, arrests</hi></l><l>
+<hi rend="italic">His hand, and thence the vengeful Lightning wrests.</hi></l></lg>
+<bibl>Blac.</bibl>
+
+<p>
+From hence it follows that a word cannot Rhyme to it self, tho' the
+signification be different; as <hi rend="italic">He Leaves</hi> to
+<hi rend="italic">The Leaves,</hi> &amp;c.
+</p><p>
+Nor the words that differ both in Writing and Sence, if they have the same
+sound, as <hi rend="italic">Maid</hi> and <hi rend="italic">Made, Prey</hi>
+and <hi rend="italic">Pray</hi>, <hi rend="italic">to Bow</hi> and <hi
+rend="italic">a Bough</hi>: as,
+</p>
+
+<lg><l><hi rend="italic">How Gawdy Fate may be in Presents sent</hi></l><l>
+<hi rend="italic">And creep insensibly by touch or scent.</hi></l></lg>
+<bibl>Oldh.</bibl>
+
+<p>
+Nor a Compound to its simple; as <hi rend="italic">Move</hi> to <hi
+rend="italic">Remove</hi>, <hi rend="italic">taught</hi> to <hi
+rend="italic">untaught,</hi> &amp;c.
+</p><p>
+Nor the Compounds of the same words to one another; as <hi rend="italic">
+Disprove</hi> to <hi rend="italic">Approve</hi>, and the like. All which
+proceeds from what I said before, because the Consonants chat preceed the
+Vowel where the Rhyme begins, must not be the same in sound, but different.
+</p>
+
+<pb n="24"/>
+
+<p>
+We must take care not to place a word at the middle of the Verse, that
+Rhymes to the last word of it; as,
+</p>
+
+<lg><l><hi rend="italic">So young in show, as if he still should grow.</hi></l></lg>
+
+<p>
+But this fault is yet more inexcusable, if the second Verse Rhyme to the
+middle and end of the first; as,
+</p>
+
+<lg><l><hi rend="italic">Knowledge he only sought, and so soon caught,</hi></l><l>
+<hi rend="italic">As if for him Knowledge had rather sought.</hi></l></lg>
+<bibl>Cowl.</bibl>
+
+<lg><l><hi rend="italic">Here Passion sways; but there the Muse shall raise</hi></l><l>
+<hi rend="italic">Eternal Monuments of louder Praise.</hi></l></lg>
+<bibl>Wall.</bibl>
+
+<p>
+Or both the middle and end of the second to the last word of the first; as,
+</p>
+
+<lg><l><hi rend="italic">Farewell, she cry'd, my Sister, thou dear Part,</hi></l><l>
+<hi rend="italic">Thou sweetest part of my divided Heart.</hi></l></lg>
+<bibl>Dryd.</bibl>
+
+</div2>
+</div1>
+
+<div1 type="chapter" n="3" id="d19">
+<head>CHAP. III.<lb/>
+<hi rend="italic">Of the several sorts of Poems, or Compositions in Verse.</hi>
+</head>
+<p>
+All our Poems may be divided into two sorts; the first of those that are
+Compos'd in Couplets; the second of those that are Compos'd in Stanzas
+consisting of several Verses.
+</p>
+
+<div2 type="section" n="1" id="d20">
+<head>SECT. I.</head>
+<p>
+<hi rend="italic">Of the Poems compos'd in Couplets.</hi>
+</p>
+
+<p>
+In the Poems Compos'd in Couplets, the Rhymes follow one another and end
+at each Couplet, that is to say, the 2d Verse Rhymes to the 1st, the 4th to
+the 3d, the 6th to the 5th, and in like manner to the end of the Poem. The
+Verses employ'd in this sort of Poems, are either Verses of 10 Syllables; as,
+</p>
+
+<lg type="stanza">
+<l><hi rend="italic">Oh! Could I flow like thee, and make thy Stream</hi></l><l>
+<hi rend="italic">My Great Example, as it is my Theme;</hi></l><l>
+<hi rend="italic">Tho' deep, yet clear; to' gentle, yet not dull:</hi></l><l>
+<hi rend="italic">Strong, without Rage, without o'erflowing, full.</hi></l></lg>
+<bibl>Denh.</bibl>
+
+<pb n="25"/>
+
+<p>Or of 8; as</p>
+
+<lg type="stanza"><l>
+<hi rend="italic">Anger in hasty Words or Blows</hi></l><l>
+<hi rend="italic">It self discharges on our Foes:</hi></l><l>
+<hi rend="italic">And Sorrow too finds some Relief</hi></l><l>
+<hi rend="italic">In Tears that wait upon our Grief;</hi></l><l>
+<hi rend="italic">Thus every Passion, but fond Love,</hi></l><l>
+<hi rend="italic">Unto its own Redress does move, </hi></l></lg>
+<bibl>Wall.</bibl>
+
+<p>Or of 7; as</p>
+
+<lg type="stanza">
+<l><hi rend="italic">Phillis, why should we delay</hi></l><l>
+<hi rend="italic">Pleasures shorter than the day;</hi></l><l>
+<hi rend="italic">Could we, which we never can,</hi></l><l>
+<hi rend="italic">Stretch our Lives beyond their Span.</hi></l><l>
+<hi rend="italic">Beauty like a Shadow flies,</hi></l><l>
+<hi rend="italic">And our Youth before us dies,</hi></l><l>
+<hi rend="italic">Or would Youth and Beauty stay,</hi></l><l>
+<hi rend="italic">Love has Wings and will away, &amp;c.</hi></l></lg>
+<bibl>Wall.</bibl>
+
+<p>
+But the second Verse of the Couplet does not always contain a like
+number of Syllables with the first; as
+</p>
+
+<lg type="stanza"><l>
+<hi rend="italic">What shall I do to be for ever known,</hi></l><l>
+<hi rend="italic">And make the Age to come my own.</hi></l><l>
+<hi rend="italic">I shall like Beasts and common People dye,</hi></l><l>
+<hi rend="italic">Unless you write my Elegy, &amp;c.</hi></l></lg>
+</div2>
+
+<div2 type="section" n="2" id="d21">
+<head>SECT. II.</head>
+<p>
+<hi rend="italic">Of the Poems compos'd in Stanzas: And First, of the
+Stanzas consisting of three and of four Verses.</hi>
+</p>
+
+<p>
+In the Poems compos'd in Stanzas, each Stanza contains a certain
+number of Verses compos'd for the most part of a different number of
+Syllables: And a Poem that is in several Stanzas, we generally call
+an Ode, and this is Lyrick Poetry.
+</p><p>
+But we must not forget to observe that our Ancient Poets frequently made use
+of intermixt Rhyme in their Heroick Poems, which they dispos'd into Stanzas and
+Cantos. Thus the <hi rend="italic">Troilus</hi> and <hi rend="italic">Cressida
+</hi>of<hi rend="italic"> Chaucer</hi> is compos'd in Stanzas consisting of 7
+Verses;<hi rend="italic"></hi> the <hi rend="italic">Fairy Queen</hi> of<hi
+rend="italic"> Spencer</hi> in Stanzas of 9, &amp;c. And this they took from the
+Italians, whose Heroick Poems generally consist in Stanzas of 8. But this is now
+wholly laid aside and <hi rend="italic">Davenant,</hi> who compos'd
+
+<pb n="26"/>
+
+his <hi rend="italic">Gondibert,</hi> in Stanzas of 4 Verses in Alternate Rhyme,
+was the last that follow'd their Example of intermingling Rhymes in Heroick Poems.
+</p><p>
+The Stanzas employ'd in our Poetry cannot consist of less than three, and seldom
+of more than 12 Verses, except in Pindarick Odes, where the Stanzas are different
+from one another in number of Verses, as shall be shewn hereafter.
+</p><p>
+But to treat of all the different Stanzas that are employ'd, or may be admitted
+in our Poetry, would be a labour no less tedious than useless, it being easie to
+demonstrate that they may be vary'd almost to an Infinity, that would be different
+from one another, either in the Number of the Verses of each Stanza, or in the Number
+of the Syllables of each Verse, or lastly, in the various intermingling of the Rhyme.
+I shall therefore confine my self to mention only such as are most frequently us'd by
+the best of our Modern Poets. And first of the Stanzas consisting of three Verses.
+</p><p>
+In the Stanzas of three Verses, or Triplets, the Verses of each Stanza rhyme to one
+another, and are either Herorick; as
+</p>
+
+<lg><l><hi rend="italic">Nothing, thou Elder Brother ev'n to shade!</hi></l><l>
+<hi rend="italic">Thou hadst a being e'er the World was made;</hi></l><l>
+<hi rend="italic">And, (well-fix'd) art alone of ending not afraid.</hi></l></lg>
+<bibl>Roch.</bibl>
+
+<p>
+Or else they consist of 8 Syllables; as these of <hi
+rend="italic">Waller,</hi> Of a fair Lady playing with a Snake.
+</p>
+
+<lg><l><hi rend="italic">Strange that such Horrour and such Grace</hi></l><l>
+<hi rend="italic">Should dwell together in one place,</hi></l><l>
+<hi rend="italic">A Fury's Arm, an Angel's Face.</hi></l></lg>
+
+<p>
+In the Stanzas of 4 Verses the Rhyme may be intermixt in two different
+manners: For either the 1st and 3d Verse may rhyme to each other, and by
+consequence the 2d and 4th, and this is call'd Alternate Rhyme; or the 1st
+and 4th may rhyme, and by consequence the 2d and 3d.
+</p><p>
+But there are some Poems in Stanzas of four Verses, where the Rhymes follow
+one another, and the Verses differ in number of Syllables only; as in <hi rend="italic">
+Cowley's</hi> Hymn to the Light, which begins thus:
+</p>
+
+<lg type="stanza">
+<l><hi rend="italic">First born of</hi> Chaos!<hi rend="italic"> Who so
+fair didst come</hi></l><l>
+<hi rend="italic">From the old</hi> Negro's<hi rend="italic"> darksome
+Womb:</hi></l><l>
+<hi rend="italic">Which when it saw the lovely Child,</hi></l><l>
+<hi rend="italic">The melancholly Mass put on kind Looks and smil'd.</hi></l></lg>
+
+<p>
+But these Stanzas are generally in Alternate Rhymes, and
+
+<pb n="27"/>
+
+the Verses consist either of 10 Syllables, as
+</p>
+
+<lg type="stanza"><l>
+<hi rend="italic">She ne'er saw Courts, but Courts could have undone</hi></l><l>
+<hi rend="italic">With untaught Looks, and an unpractis'd Heart:</hi></l><l>
+<hi rend="italic">Her Nets the most prepar'd could never shun;</hi></l><l>
+<hi rend="italic">For Nature spread them in the scorn of Art.</hi></l></lg>
+<bibl>Dav.</bibl>
+
+<p>Or of 8, as </p>
+
+<lg type="stanza">
+<l><hi rend="italic">Had Echo with so sweet a Grace,</hi></l><l>
+Narcissus <hi rend="italic">loud complaints return'd;</hi>
+<hi rend="italic">Not for Reflection of his Face,</hi></l><l>
+<hi rend="italic">But of his Voice the Boy had burn'd.</hi></l></lg>
+<bibl>Wall.</bibl>
+
+<p>
+Or of 10 and 8, that is to say, the 1st and 3d of 10; the 2d and 4th of 8; as
+</p>
+
+<lg type="stanza"><l>
+<hi rend="italic">Love from Time's Wings has stol'n the Feathers sure,</hi></l><l>
+<hi rend="italic">He has, and put them to his own:</hi></l><l>
+<hi rend="italic">For Hours of late as long as Days endure,</hi></l><l>
+<hi rend="italic">And very Minutes Hours are grown.</hi></l></lg>
+<bibl>Cowl.</bibl>
+
+<p>Or of 8 and 6 in the like manner; as </p>
+
+<lg type="stanza">
+<l><hi rend="italic">Then ask not Bodies doom'd to dye</hi></l><l>
+<hi rend="italic">To what abode they go:</hi></l><l>
+<hi rend="italic">Since Knowledge is but Sorrow's Spy,</hi></l><l>
+<hi rend="italic">`Tis better not to know.</hi></l></lg>
+<bibl>Dav.</bibl>
+
+<p>Or of 7; as </p>
+
+<lg type="stanza">
+<l><hi rend="italic">Not the silver Doves that fly,</hi></l><l>
+<hi rend="italic">Yoak'd in</hi> Cytherea's <hi rend="italic">Car;</hi></l><l>
+<hi rend="italic">Nor the Wings that lift so high,</hi></l><l>
+<hi rend="italic">And convey her Son so far.</hi></l><l>
+<hi rend="italic">Are so lovely sweet and fair,</hi></l><l>
+<hi rend="italic">Or do more ennoble Love;</hi></l><l>
+<hi rend="italic">Are so choicely match'd a pair,</hi></l><l>
+<hi rend="italic">Or with more consent do move.</hi></l></lg>
+<bibl>Wall.</bibl>
+
+<p>
+<hi rend="italic">Note,</hi> That it is absolutely necessary that both the
+Construction and Sence should end with the Stanza, and not fall into the beginning of
+the following one, as it does in the laft Example, which is a fault wholly to be
+avoided.
+</p></div2>
+
+<div2 type="section" n="3" id="d22">
+<head>SECT. III.</head>
+<p>
+<hi rend="italic">Of the Stanzas of Six Verses.</hi>
+</p>
+
+<p>
+The Stanzas of 6 Verses are generally only one of the before-mention'd
+Quadrans or Stanzas of 4 Verses, with two Verses at the end that rhyme to
+one another; as
+</p>
+
+<pb n="28"/>
+
+<lg type="stanza">
+<l><hi rend="italic">A Rural Judge dispos'd of Beautie's Prize,</hi></l><l>
+<hi rend="italic">A simple Shepherd was prefer'd to</hi> Jove<hi rend="italic">;</hi></l><l>
+<hi rend="italic">Down to the Mountains from the Partial Skies</hi></l><l>
+<hi rend="italic">Came</hi> Juno<hi rend="italic">,</hi> Pallas<hi rend="italic">,
+and the Queen of Love,</hi></l><l>
+<hi rend="italic">To plead for that which was so justly giv'n</hi></l><l>
+<hi rend="italic">To the bright Carlisle of the Courts of Heav'n.</hi></l></lg>
+<bibl>Wall.</bibl>
+
+<p>
+Where the 4 first Verses are only a Quadran, whose Verses consist of 10 Syllables in
+Alternate Rhyme. The following Stanza in like manner is compos'd of a Quadran,
+whose Verses consist of 8 Syllables, and to which 2, Verses that rhyme to one another
+are added at the end, as
+</p>
+
+<lg type="stanza"><l>
+<hi rend="italic">Hope waits upon the flowry Prime,</hi></l><l>
+<hi rend="italic">And Summer, tho' it be less gay,</hi></l><l>
+<hi rend="italic">Yet is not look'd on as a time</hi></l><l>
+<hi rend="italic">Of Declination and Decay,</hi></l><l>
+<hi rend="italic">For with a full Hand that does bring</hi></l><l>
+<hi rend="italic">All that was promis'd by the Spring.</hi></l></lg>
+<bibl>Wall.</bibl>
+
+<p>
+Sometimes the Quadran ends the Stanza; and the two Lines of the same Rhyme
+begin it; as
+</p>
+
+<lg type="stanza">
+<l><hi rend="italic">Here's to thee Dick, this whining Love despise:</hi></l><l>
+<hi rend="italic">Pledge me my Friend, and drink till thou be'st wise.</hi></l><l>
+<hi rend="italic">It sparkles brighter far than she;</hi></l><l>
+<hi rend="italic">`Tis pure and right without Deceit;</hi></l><l>
+<hi rend="italic">And such no Woman e'er can be;</hi></l><l>
+<hi rend="italic">No, they are all Sophisticate.</hi></l></lg>
+
+<p>
+Or as in these where the first and last Verses of the Stanza consist of 10
+Syllables;
+</p>
+
+<lg type="stanza">
+<l><hi rend="italic">When Chance or cruel Bus'ness parts us two,</hi></l><l>
+<hi rend="italic">What do our Souls, I wonder do?</hi></l><l>
+<hi rend="italic">While steep does our dull Bodies tie,</hi></l><l>
+<hi rend="italic">Methinks at home they should not stay</hi></l><l>
+<hi rend="italic">Content with Dreams, but boldly fly</hi></l><l>
+<hi rend="italic">Abroad, and meet each other half the way.</hi></l></lg>
+<bibl>Cowl.</bibl>
+
+<p>
+Or as in the following Stanza, where the 4th and 5th Verses rhyme to each
+other, and the 3d and 6th.
+</p>
+
+<lg type="stanza">
+<l><hi rend="italic">While what I write I do not see,</hi></l><l>
+<hi rend="italic">I dare thus even to you write Poetry,</hi></l><l>
+<hi rend="italic">Ah foolish Muse! That dost so high aspire,</hi></l><l>
+<hi rend="italic">And knows't her Judgment well,</hi></l><l>
+<hi rend="italic">How much it does thy Power excel;</hi></l><l>
+<hi rend="italic">Yet dar'st be read by thy just doom the fire.</hi></l></lg>
+<bibl>Cowl.</bibl>
+
+<p>
+(<hi rend="italic">Written in Juice of Lemon.</hi>
+</p><p>
+But in some of these Stanzas the Rhymes follow one another; as
+</p>
+
+<pb n="29"/>
+
+<lg type="stanza">
+<l><hi rend="italic">I came, I saw, and was undone;</hi></l><l>
+<hi rend="italic">Lightning did through my Bones and Marrow run</hi></l><l>
+<hi rend="italic">A pointed Pain peirc'd deep my Heart;</hi></l><l>
+<hi rend="italic">A swift cold trembling seiz'd on ev'ry part.</hi></l><l>
+<hi rend="italic">My Head turn'd round, nor could it bear</hi></l><l>
+<hi rend="italic">The Poison that was enter'd there.</hi></l></lg>
+<bibl>Cowl.</bibl>
+</div2>
+
+<div2 type="section" n="4" id="d23">
+<head>SECT. IV.</head>
+<p>
+<hi rend="italic">Of the Stanzas of 8 Verses.</hi>
+</p>
+
+<p>
+I have already said that the Italians compose their Heroick Poems in Stanzas of 8
+Verses, where the Rhyme is dispos'd as follows; the 1st 3d and 5th Verses rhyme to
+each other, and the 2d 4th and 6th, the two last always rhyme to one another. Now our
+Translators of their Heroick Poems have observed the same Stanza and Disposition of
+Rhyme; of which take the following Example from <hi rend="italic">Fairfax's
+</hi>Translation of <hi rend="italic">Tasso's</hi> Goffredo, <hi
+rend="italic">Cant. </hi>1. Stan. 3d.
+</p>
+
+<lg type="stanza">
+<l><hi rend="italic">Thither thou know'st the world is best inclin'd,</hi></l><l>
+<hi rend="italic">Where luring</hi> Parnass <hi rend="italic">most his Beams imparts;</hi></l><l>
+<hi rend="italic">And Truth convey'd in Verse of gentlest kind,</hi></l><l>
+<hi rend="italic">To read sometimes, will move the dullest Hearts.</hi></l><l>
+<hi rend="italic">So we, if Children Young diseas'd we find,</hi></l><l>
+<hi rend="italic">Anoint with Sweets the Vessels foremost parts,</hi></l><l>
+<hi rend="italic">To make them taste the Potions sharp we give;</hi></l><l>
+<hi rend="italic">They drink deceiv'd and so deceiv'd they live.</hi></l></lg>
+
+<p>
+But our Poets seldom imploy this Stanza in Compositions of their own; where
+the following ones of 8 Verses are most frequent.
+</p>
+
+<lg type="stanza"><l>
+<hi rend="italic">Some others may with safety tell</hi></l><l>
+<hi rend="italic">The mod'rate Flames which in them dwell;</hi></l><l>
+<hi rend="italic">And either find some Med'cine there,</hi></l><l>
+<hi rend="italic">Or cure themselves ev'n by despair.</hi></l><l>
+<hi rend="italic">My Love's so great, that it might prove</hi></l><l>
+<hi rend="italic">Dang'rous to tell her that I love.</hi></l><l>
+<hi rend="italic">So tender is my Wound, it cannot bear</hi></l><l>
+<hi rend="italic">Any Salute, tho' of the kindest Air.</hi></l></lg>
+<bibl>Cowl.</bibl>
+
+<p>
+Where the Rhymes follow one another, and the Six first Verses consist of 8
+Syllables each, the two last of 10.
+</p><p>
+We have another sort of Stanza of 8 Verses, where the 4th rhymes to the 1st, the 3d to
+the 2d, and the four last
+
+<pb n="30"/>
+
+are two Couplets; and where the 1st, 4th, 6th and 8th, are of 10 Syllables each, the 4
+others but of 8; as
+</p>
+
+<lg type="stanza">
+<l><hi rend="italic">I've often wish'd to love: What shall I do?</hi></l><l>
+<hi rend="italic">Me still the cruel Boy does spare;</hi></l><l>
+<hi rend="italic">And I a double task must bear,</hi></l><l>
+<hi rend="italic">First to wooe him, and then a Mistress too.</hi></l><l>
+<hi rend="italic">Come at last, and strike for shame</hi></l><l>
+<hi rend="italic">If thou art any thing besides a Name;</hi></l><l>
+<hi rend="italic">I'll think thee else no God to be,</hi></l><l>
+<hi rend="italic">But Poets, rather, Gods, who first created thee.</hi></l></lg>
+<bibl>Cowley.</bibl>
+
+<p>
+Another when the 2 first and 2 last Verses consist of 10 Syllables each, and Rhyme
+to one another, the 4 other but of 8 in alternate Rhyme.
+</p>
+
+<lg type="stanza">
+<l><hi rend="italic">Tho' you be absent hence, I needs must say,</hi></l><l>
+<hi rend="italic">The Trees as beauteous are and Flow'rs as gay,</hi></l><l>
+<hi rend="italic">As ever they were wont to be:</hi></l><l>
+<hi rend="italic">Nay the Birds rural Musick too</hi></l><l>
+<hi rend="italic">Is as melodious and free,</hi></l><l>
+<hi rend="italic">As if they sung to pleasure you.</hi></l><l>
+<hi rend="italic">I saw a Rose bud ope this Morn; I'll swear</hi></l><l>
+<hi rend="italic">The Blushing Morning open'd not more fair.</hi></l></lg>
+<bibl>Cowley.</bibl>
+
+<p>
+Another where the 4 first Verses are two Couplets, the 4 last in
+alternate Rhyme; as in <hi rend="italic">Cowley's</hi> Ode, Of a Lady
+that made Posies for Rings.
+</p>
+
+<lg type="stanza">
+<l><hi rend="italic">I little thought the time would ever be</hi></l><l>
+<hi rend="italic">That I should wit in dwarfish Posies see.</hi></l><l>
+<hi rend="italic">As all words in few Letters live,</hi></l><l>
+<hi rend="italic">Thou to few words all sence dost give.</hi></l><l>
+<hi rend="italic">`Twas Nature taught you this rare Art,</hi></l><l>
+<hi rend="italic">In such a little much to shew;</hi></l><l>
+<hi rend="italic">Who all the Good she did impart</hi></l><l>
+<hi rend="italic">To Womankind Epitomiz'd in you.</hi></l></lg>
+</div2>
+
+<div2 type="section" n="5" id="d24">
+<head>SECT. V.</head>
+<p>
+<hi rend="italic">Of the Stanzas of 10 and 12 Verses.</hi>
+</p>
+
+<p>
+The Stanzas of 10 and it Verses are seldom employ'd in our Poetry,
+it being very difficult to confine our selves to a certain Disposition
+of Rhyme, and measure of Verse for so many lines together; for which
+Reason those of 4, 6, and 8 Verses are the most frequent. However we
+sometimes find
+
+<pb n="31"/>
+
+some of 10 and 12; as in <hi rend="italic">Cowley's</hi> Ode which he
+calls, <hi rend="italic">Verses</hi> <hi rend="italic">lost upon a
+Wager</hi>, where the Rhymes follow one another, but the Verses differ
+in Number of Syllables.
+</p>
+
+<lg type="stanza">
+<l><hi rend="italic">As soon hereafter will I lay</hi></l><l>
+<hi rend="italic">`Gainst what an Oracle shall say.</hi></l><l>
+<hi rend="italic">Fool that I was to venture to deny</hi></l><l>
+<hi rend="italic">A Tongue so us'd to Victory.</hi></l><l>
+<hi rend="italic">A Tongue so blest by nature and by Art,</hi></l><l>
+<hi rend="italic">That never yet it spoke, but gain'd a heart.</hi></l><l>
+<hi rend="italic">Tho' what you said had not been true</hi></l><l>
+<hi rend="italic">If spoke by any else but you:</hi></l><l>
+<hi rend="italic">Your Speech will govern Destiny,</hi></l><l>
+<hi rend="italic">And Fate will change rather than you should ly.</hi></l></lg>
+
+<p>
+The same Poet furnishes us with an Example of a Stanza of 12 Verses in
+the Ode he calls <hi rend="italic">the Prophet</hi>, where the Rhymes are
+observ'd in the same manner as in the former  Example:
+</p>
+
+<lg type="stanza">
+<l><hi rend="italic">Teach me to Love! Go teach thy self more wit:</hi></l><l>
+<hi rend="italic">I chief Professor am of it.</hi></l><l>
+<hi rend="italic">Teach Craft to</hi> Scots<hi rend="italic">, and thrift to
+</hi>Jews<hi rend="italic">,</hi></l><l>
+<hi rend="italic">Teach boldness to the</hi> Stews<hi rend="italic">.</hi></l><l>
+<hi rend="italic">In Tyrants Courts teach supple flattery,</hi></l><l>
+<hi rend="italic">Teach</hi> Jesuits <hi rend="italic">that have Travell'd far to
+ly.</hi></l><l>
+<hi rend="italic">Teach Fire to burn, and Winds to blow,</hi></l><l>
+<hi rend="italic">Teach restless Fountains how to flow.</hi></l><l>
+<hi rend="italic">Teach the dull Earth fixt to abide,</hi></l><l>
+<hi rend="italic">Teach Womankind Inconstancy and Pride.</hi></l><l>
+<hi rend="italic">See if your diligence there will useful prove;</hi></l><l>
+<hi rend="italic">But, prithee, teach not me to love.</hi></l></lg>
+</div2>
+
+<div2 type="section" n="6" id="d25">
+<head>SECT. VI.</head>
+<p>
+<hi rend="italic">Of the Stanzas that consist of an odd Number of Verses.</hi>
+</p>
+
+<p>
+We have also Stanzas that consist of an odd number of Verses, as of 5, 7, 9,
+and 11, in all which it of necessity follows that three Verses of the Stanza
+must rhyme to one another, or that one of them must be a blank Verse.
+</p><p>
+In the Stanzas of 5 Verses, the 1st and 3d may rhyme, and the 2d and two
+last; as,
+</p>
+
+<lg><l><hi rend="italic">Sees not my Love how Time resumes</hi></l><l>
+<hi rend="italic">The Glory which he lent these Flow'rs:</hi></l></lg>
+
+<pb n="31"/>
+
+<lg><l><hi rend="italic">Tho' none should taste of their Perfumes,</hi></l><l>
+<hi rend="italic">Yet they must live but some few Hours:</hi></l><l>
+<hi rend="italic">Time, what we forbear, devours.</hi></l></lg>
+<bibl>Wall.</bibl>
+
+<p>
+Which is only a Stanza of 4 Verses in Alternate Rhyme, to which a 5th
+Verse is added that rhymes to the 2d and 4th.
+</p><p>
+See also an Instance of a Stanza of 5 Verses where the Rhymes are intermix'd
+in the same manner as the former, but the 1st and 3d Verses are compos'd but
+of 4 Syllables each
+</p>
+
+<lg type="stanza">
+<l><hi rend="italic">Go lovely Rose,</hi></l><l>
+<hi rend="italic">Tell her that wastes her time and me,</hi></l><l>
+<hi rend="italic">That now she knows,</hi></l><l>
+<hi rend="italic">When I resemble her to thee,</hi></l><l>
+<hi rend="italic">How sweet and fair she seems to be.</hi></l></lg>
+<bibl>Wall.</bibl>
+
+<p>
+In the following Example the two first Verses rhyme, and the three last.
+</p>
+
+<lg type="stanza">
+<l><hi rend="italic">`Tis well, `tis well with them, said I,</hi></l><l>
+<hi rend="italic">Whose short-liv'd passions with themselves can dy.</hi></l><l>
+<hi rend="italic">For none can be unhappy, who</hi></l><l>
+<hi rend="italic">`Midst all his ills a Time does know,</hi></l><l>
+<hi rend="italic">Tho' ne'er so long, when he shall not be so.</hi></l></lg>
+<bibl>Cowl.</bibl>
+
+<p>
+In this Stanza, the 2 first and the last, and the 3d and 4th, Rhyme to
+one another.
+</p>
+
+<lg type="stanza"><l>
+<hi rend="italic">It is enough, enough of time and pain</hi></l><l>
+<hi rend="italic">Hast thou consum'd in vain:</hi></l><l>
+<hi rend="italic">Leave, wretched</hi> Cowley, <hi rend="italic">leave,</hi></l><l>
+<hi rend="italic">Thy self with shadows to deceive.</hi></l><l>
+<hi rend="italic">Think that already lost which thou must never gain.</hi></l></lg>
+
+<p>
+The Stanzas of 7 Verses are frequent enough in our Poetry, especially among the
+Ancients, who compos'd many of their Poems in this sort of Stanza: See an Example
+of one of them taken from <hi rend="italic">Spencer</hi> in <hi rend="italic">the
+Ruins of time,</hi> where the 1st and 3d Verse rhyme to One another, the 2d, 4th,
+and 5th, and the two last.
+</p>
+
+<lg type="stanza">
+<l><hi rend="italic">But Fame with golden Wings aloft doth fly</hi></l><l>
+<hi rend="italic">Above the reach of ruinous decay,</hi></l><l>
+<hi rend="italic">And with brave Plumes does beat the Azure Sky;</hi></l><l>
+<hi rend="italic">Admir'd of baseborn Men from far away;</hi></l><l>
+<hi rend="italic">Then whoso will with virtuous Deeds essay</hi></l><l>
+<hi rend="italic">To mount to Heav'n, on</hi> Pegasus <hi rend="italic">must
+ride,</hi></l><l>
+<hi rend="italic">And in sweet Poets Verse be glorify'd.</hi></l></lg>
+
+<pb n="33"/>
+
+<p>
+I have the rather chosen to take notice of this Stanza, because that Poet
+and <hi rend="italic">Chaucer</hi> have made use of it in many bf their
+Poems, but have not been follow'd by any of the Moderns; whose Stanzas of 7
+Verses are commonly compos'd as follows.
+</p><p>
+Either the four first Verses are a Quadran in Alternate Rhymes, and the
+three last rhyme to one another, as
+</p>
+
+<lg type="stanza">
+<l><hi rend="italic">Now by my Love, the greatest Oath that is,</hi></l><l>
+<hi rend="italic">None loves you half so well as I,</hi></l><l>
+<hi rend="italic">I do not ask your love for this,</hi></l><l>
+<hi rend="italic">But for Heaven's sake believe me or I dye.</hi></l><l>
+<hi rend="italic">No Servant e'er but did deserve</hi></l><l>
+<hi rend="italic">His Master should believe that he did serve;</hi></l><l>
+<hi rend="italic">And I'll ask no more Wages tho' I starve.</hi></l></lg>
+<bibl>Cowl.</bibl>
+
+<p>
+Or the four first are two Couplets, and the three last a Triplet; as
+</p>
+
+<lg type="stanza">
+<l><hi rend="italic">Indeed I must confess,</hi></l><l>
+<hi rend="italic">When Souls mix `tis a Happiness,</hi></l><l>
+<hi rend="italic">But not compleat till Bodies too combine,</hi></l><l>
+<hi rend="italic">And closely as our Minds together joyn.</hi></l><l>
+<hi rend="italic">But half of Heav'n the Souls in Glory taste;</hi></l><l>
+<hi rend="italic">Till by Love in Heav'n at last,</hi></l><l>
+<hi rend="italic">Their Bodies too are plac'd.</hi></l><l>
+<hi rend="italic">Now by my Love, the greatest Oath that is,</hi></l><l>
+<hi rend="italic">None loves you half so well as I,</hi></l><l>
+<hi rend="italic">I do not ask your love for this,</hi></l><l>
+<hi rend="italic">But for Heaven's sake believe me or I dye.</hi></l></lg>
+<bibl>Cowl.</bibl>
+
+<p>
+Or, on the contrary, the three first may rhyme, and the four last be in Rhymes
+that follow one another; as
+</p>
+
+<lg type="stanza">
+<l><hi rend="italic">From Hate, Fear, Hope, Anger, and Envy free,</hi></l><l>
+<hi rend="italic">And all the Passions else that be,</hi></l><l>
+<hi rend="italic">In vain I boast of Liberty:</hi></l><l>
+<hi rend="italic">In vain this State a Freedom call,</hi></l><l>
+<hi rend="italic">Since I have Love, and Love is all.</hi></l><l>
+<hi rend="italic">Sot that I am! who think it fit to brag</hi></l><l>
+<hi rend="italic">That I have no Disease besides the Plague.</hi></l></lg>
+<bibl>Cowl.</bibl>
+
+<p>
+Or the 1st may rhyme to the two last, the 2d to the 5th, and the 3d
+and 4th to one another; as
+</p>
+
+<lg type="stanza">
+<l><hi rend="italic">In vain thou Drowsie God I thee invoke,</hi></l><l>
+<hi rend="italic">For thou who dost from Fumes arise,</hi></l><l>
+<hi rend="italic">Thou who Man's Soul dost overshade</hi></l><l>
+<hi rend="italic">With a thick Cloud, by Vapours made,</hi></l><l>
+<hi rend="italic">Canst have no pow'r to shut his Eyes,</hi></l><l>
+<hi rend="italic">Or passage of his Spirits to choak,</hi></l><l>
+<hi rend="italic">Whose Flame's so pure, that it sends up no smoke.</hi></l></lg>
+<bibl>Cowl.</bibl>
+
+<pb n="34"/>
+
+<p>
+Or lastly, the four first and two last may be in following Rhyme, and
+the 5th a blank Verse; as
+</p>
+
+<lg type="stanza">
+<l><hi rend="italic">Thou rob'st my days of Bus'ness and Delights,</hi></l><l>
+<hi rend="italic">Of Sleep thou rob'st my Nights:</hi></l><l>
+<hi rend="italic">Ah lovely Thief! what wilt thou do?</hi></l><l>
+<hi rend="italic">What, rob me of Heav'n too!</hi></l><l>
+<hi rend="italic">Thou ev'n my Pray'rs dost from me steal,</hi></l><l>
+<hi rend="italic">And I with wild Idolatry</hi></l><l>
+<hi rend="italic">Begin to God, and end them all in thee.</hi></l></lg>
+<bibl>Cowl.</bibl>
+
+<p>
+The Stanzas of 9 and of 11 Syllables are not so frequent as those of 5 and of 7, <hi
+rend="italic">Spencer</hi> has compos'd his <hi rend="italic">Fairy Queen</hi>
+in Stanzas of 9 Verses, where the 1st rhymes to the 3d, the 2d to the 4th, 5th, and 7th;
+and the 6th to the two last. But this Stanza is very difficult to maintain, and the
+unlucky choice of it reduc'd him often to the necessity of making use of many
+exploded Words; nor has he, I think, been follow'd in it by any of the Moderns;
+whose 6 first Verses of the Stanzas that consist of 9, are generally in Rhymes that
+follow one another, and the three last a Triplet; as
+</p>
+
+<lg type="stanza">
+<l><hi rend="italic">Beauty, thou wild fantastick Ape,</hi></l><l>
+<hi rend="italic">Who dost in ev'ry Country change thy Shape:</hi></l><l>
+<hi rend="italic">Here Black, there Brown, here Tawny, and there White,</hi></l><l>
+<hi rend="italic">Thou Flatt'rer which comply'st with ev'ry sight.</hi></l><l>
+<hi rend="italic">Thou</hi> Babel<hi rend="italic"> which confound'st the Eye</hi></l><l>
+<hi rend="italic">With unintelligible Variety:</hi></l><l>
+<hi rend="italic">Who hast no certain What nor Where,</hi></l><l>
+<hi rend="italic">But vary'st still, and dost thy self declare</hi></l><l>
+<hi rend="italic">Inconstant, as thy She-Professors are.</hi></l></lg>
+<bibl>Cowl.</bibl>
+
+<p>
+In the following Example the like Rhyme is observ'd, but the Verses differ in
+Measure from the former.
+</p>
+
+<lg type="stanza">
+<l><hi rend="italic">Beneath this gloomy Shade,</hi></l><l>
+<hi rend="italic">By Nature only for my Sorrows made,</hi></l><l>
+<hi rend="italic">I'll spend this Voice in Cries;</hi></l><l>
+<hi rend="italic">In Tears I'll waste these Eyes,</hi></l><l>
+<hi rend="italic">By Love so vainly fed,</hi></l><l>
+<hi rend="italic">So Lust of old the Deluge punished.</hi></l><l>
+<hi rend="italic">Ah wretched youth! said I;</hi></l><l>
+<hi rend="italic">Ah wretched Youth! twice did I sadly cry;</hi></l><l>
+<hi rend="italic">Ah wretched Youth! the Fields and Floods reply.</hi></l></lg>
+<bibl>Cowl.</bibl>
+
+<p>
+The Stanzas consisting of 11 Verses are yet less frequent than those
+of 9, and have nothing particular to be observ'd
+
+<pb n="35"/>
+
+in them. See an Example of one of them, where the 8 first Verses are
+in following Rhyme, the three last rhyme to one another, and where
+the 4th, 7th, and the last Verse are of 10 Syllables each, the others of 8.
+</p>
+
+<lg type="stanza">
+<l><hi rend="italic">No, to what purpose should I speak?</hi></l><l>
+<hi rend="italic">No wretched Heart, swell till you break:</hi></l><l>
+<hi rend="italic">She cannot love me if she would;</hi></l><l>
+<hi rend="italic">And, to say Truth, `twere pity that she should.</hi></l><l>
+<hi rend="italic">No, to the Grave thy Sorrows bear,</hi></l><l>
+<hi rend="italic">As silent as they will be there:</hi></l><l>
+<hi rend="italic">Since that lov'd Hand this mortal Wound does give,</hi></l><l>
+<hi rend="italic">So handsomly the thing contrive,</hi></l><l>
+<hi rend="italic">That she may guitless of it live:</hi></l><l>
+<hi rend="italic">So perish, that her killing thee</hi></l><l>
+<hi rend="italic">May a chance-medley, and no Murther be.</hi></l></lg>
+<bibl>Cowl.</bibl>
+</div2>
+
+<div2 type="section" n="7" id="d26">
+<head>SECT. VII.</head>
+<p>
+<hi rend="italic">Of Pindarick Odes, and Poems in Blank Verse.</hi>
+</p>
+
+<p>
+The Stanzas of Pindarick Odes are neither confin'd to a certain number
+of Verses, nor the Verses to a certain number of Syllables, nor the Rhyme
+to a certain Distance. Some Stanzas contain 50 Verses or more, others not
+above 10: Some Verses 14, nay 16 Syllables, others not above 4: Sometimes
+the Rhymes follow one another for several Couplets together, sometimes they
+are remov'd 6 Verses from each other; and all this in the same Stanza.
+<hi rend="italic">Cowley</hi> was the first who introduc'd this sort of
+Poetry into our Language, nor can the Nature of it be better describ'd than
+he himself has done it, in one of the Stanzas of the Ode he has written upon
+<hi rend="italic">Liberty,</hi> which I will transcribe, not as an Example,
+for none can properly be said to be given, where no Rule can be prescribed,
+but to give an Idea of the Nature of this sort of Poetry.
+</p>
+
+<lg type="stanza"><l>
+<hi rend="italic">If Life should a well-order'd Poem be,</hi></l><l>
+<hi rend="italic">In which he only hits the White,</hi></l><l>
+<hi rend="italic">Who joyns true Profit with the best Delight,</hi></l><l>
+<hi rend="italic">The more Heroick Strain let others take,</hi></l><l>
+<hi rend="italic">Mine the Pindarick way I'll make,</hi></l>
+
+<pb n="36"/>
+
+<l><hi rend="italic">The Matter shall be Grave, the Numbers loose and free;</hi></l><l>
+<hi rend="italic">It shall not keep one setled pace of Time,</hi></l><l>
+<hi rend="italic">In the same Tune it shall not always chime,</hi></l><l>
+<hi rend="italic">Nor shall each day just to his Neighbour rhyme.</hi></l><l>
+<hi rend="italic">A thousand Liberties it shall dispence,</hi></l><l>
+<hi rend="italic">And yet shall manage all without Offence,</hi></l><l>
+<hi rend="italic">Or to the sweetness of the Sound, or greatness of the Sence,</hi></l><l>
+<hi rend="italic">Nor shall it never from one Subject start,</hi></l><l>
+<hi rend="italic">Nor seek Transitions to depart:</hi></l><l>
+<hi rend="italic">Nor its set way oe'r Stiles and Bridges make,</hi></l><l>
+<hi rend="italic">Nor thro' Lanes a Compass take,</hi></l><l>
+<hi rend="italic">As if it fear'd some Trespass to commit,</hi></l><l>
+<hi rend="italic">When the wide Air's a Road for it.</hi></l><l>
+<hi rend="italic">So the Imperial Eagle does not stay</hi></l><l>
+<hi rend="italic">Till the whole Carcass he devour,</hi></l><l>
+<hi rend="italic">That's fallen into its Pow'r,</hi></l><l>
+<hi rend="italic">As if his generous Hunger understood,</hi></l><l>
+<hi rend="italic">That he can never want plenty of Food,</hi></l><l>
+<hi rend="italic">He only sucks the tastful Blood,</hi></l><l>
+<hi rend="italic">And to fresh Game flies chearfully away;</hi></l><l>
+<hi rend="italic">To Kites and meaner Birds he leaves the mangled Prey.</hi></l></lg>
+
+<p>
+This sort of Poetry is employ'd in all manner of Subjects; in Pleasant,
+in Grave, in Amorous, in Heroick, in Philosophical, in Mortal and in Divine.
+</p><p>
+Blank Verse is where the Measure is exactly kept without Rhyme; and it was
+<hi rend="italic">Shakespear,</hi> who to avoid the troublesome constraint
+of Rhyme, first invented it; our Poets since him have made use of it in many
+of their Tragedies and Comedies; but the most celebrated Poem in this kind of
+Verse is the Paradise Lost of <hi rend="italic">Milton;</hi> from the 5th
+Book of which I have taken the following Lines for an example of Blank Verse.
+</p>
+
+<lg type="stanza">
+<l><hi rend="italic">These are thy glorious Works, Parent of Good!</hi></l><l>
+<hi rend="italic">Almighty! thine this Universal Frame,</hi></l><l>
+<hi rend="italic">Thus wondrous fair! thy self how wondrous then!</hi></l><l>
+<hi rend="italic">Speak you, who best can tell, ye Sons of Light,</hi></l><l>
+<hi rend="italic">Angels! for you behold him, and with Songs,</hi></l><l>
+<hi rend="italic">And Choral Symphonies, Day without Night</hi></l><l>
+<hi rend="italic">Circle his Throne rejoycing, you in Heaven.</hi></l>
+
+<pb n="37"/>
+
+<l><hi rend="italic">On Earth, joyn all ye Creatures, to extol</hi></l><l>
+<hi rend="italic">Him first, him last, him midst, and without end.</hi></l><l>
+<hi rend="italic">Fairest of Stars! last in the Train of Night;</hi></l><l>
+<hi rend="italic">If better thou belong'st not to the Dawn,</hi></l><l>
+<hi rend="italic">Sure Pledge of day that crown'st the smiling Morn,</hi></l><l>
+<hi rend="italic">With thy bright Circlet, raise him in thy Sphere,</hi></l><l>
+<hi rend="italic">While Day arises, that sweet Hour of Prime.</hi></l><l>
+<hi rend="italic">Thou Sun! of this Great World; both Eye and Soul,</hi></l><l>
+<hi rend="italic">Acknowledge him thy Greater, sound his Praise</hi></l><l>
+<hi rend="italic">In thy Eternal Course, both when thou climb'st</hi></l><l>
+<hi rend="italic">And when high Noon hast gain'd, and when thou fall'st.</hi></l><l>
+<hi rend="italic">Moon! that now meet'st the Orient Sun, now fly'st</hi></l><l>
+<hi rend="italic">With the fixt Stars, fixt in their Orb that flies,</hi></l><l>
+<hi rend="italic">And ye five other wand'ring Fires! that move</hi></l><l>
+<hi rend="italic">In Mystick Dance, not without Song, resound</hi></l><l>
+<hi rend="italic">His Praise, who out of Darkness call'd up Light.</hi></l><l>
+<hi rend="italic">Air! and ye Elements! the eldest Birth</hi></l><l>
+<hi rend="italic">Of Nature's Womb, that in Quaternion run</hi></l><l>
+<hi rend="italic">Perpetual Circle, multiform; and mix</hi></l><l>
+<hi rend="italic">And nourish all things, let your ceaseless Change</hi></l><l>
+<hi rend="italic">Vary to our Great Maker still new Praise.</hi></l><l>
+<hi rend="italic">Ye Mists and Exhalations! that now rise</hi></l><l>
+<hi rend="italic">From Hill or steaming Lake, Dusky or Grey,</hi></l><l>
+<hi rend="italic">Till the Sun paint your fleecy Skirts with Gold,</hi></l><l>
+<hi rend="italic">In honour to the World's great Author rise,</hi></l><l>
+<hi rend="italic">Whether to deck with Clouds th' uncolour'd Sky,</hi></l><l>
+<hi rend="italic">Or wet the thirsty Earth with falling Showers,</hi></l><l>
+<hi rend="italic">Rising or falling, still advance his Praise.</hi></l><l>
+<hi rend="italic">His Praise, ye Winds! that from four Quarters blow,</hi></l><l>
+<hi rend="italic">Breathe soft or loud; and wave your Tops, ye Pines!</hi></l><l>
+<hi rend="italic">With ev'ry Plant, in sign of Worship, wave.</hi></l><l>
+<hi rend="italic">Fountains! and ye that warble as you flow</hi></l><l>
+<hi rend="italic">Melodious Murmurs, warbling tune his Praise.</hi></l><l>
+<hi rend="italic">Joyn Voices all ye living Souls, ye Birds!</hi></l><l>
+<hi rend="italic">That singing, up to Heaven's high Gate ascend,</hi></l><l>
+<hi rend="italic">Bear on your Wings, and in your Notes his Praise.</hi></l><l>
+<hi rend="italic">Ye that in Waters glide! and ye that walk,</hi></l><l>
+<hi rend="italic">The Earth! and stately Tread, or lowly Creep;</hi></l><l>
+<hi rend="italic">Witness if I be silent, Ev'n or Morn,</hi></l><l>
+<hi rend="italic">To Hill or Valley, Fountain or fresh Shade,</hi></l><l>
+<hi rend="italic">Made Vocal by my Song, and taught his Praise.</hi></l></lg>
+
+<pb n="38"/>
+
+<p>
+Thus I have given a short Account of all the sorts of Poems, that are
+most us'd in our Language, The Acrosticks, Emblems, Anagrams, &amp;c.
+deserve not to be mention'd, and we may say of them what an Ancient Poet
+said long ago,
+</p>
+
+<lg><l><hi rend="italic">Stultum est difficiles habere Nugas,</hi></l><l>
+<hi rend="italic">Et stultus Labor est ineptiarum.</hi></l></lg>
+
+<trailer>FINIS.</trailer>
+
+</div2>
+</div1>
+</body>
+</text>
+</TEI.2>

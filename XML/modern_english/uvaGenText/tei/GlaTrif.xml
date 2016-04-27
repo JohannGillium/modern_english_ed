@@ -1,0 +1,1394 @@
+<?xml version="1.0"?>
+
+<?dlps id="GlaTrif"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOnum SYSTEM "http://text.lib.virginia.edu/charent/iso-num.ent"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+<TEI.2 id="GlaTrif">
+<teiHeader type="migrated" creator="Etext">
+<fileDesc>
+<titleStmt>
+<title type="main">Trifles: A Play in One Act</title>
+<title type="sort">trifles a play in one act</title>
+<author>Glaspell, Susan, 1882-1948</author>
+<respStmt>
+<resp>Creation of machine-readable version:</resp>
+<name>Judy Boss</name>
+<resp>Conversion to TEI.2-conformant markup:</resp>
+<name>University of Virginia Library Electronic Text Center.</name>
+</respStmt>
+</titleStmt>
+<extent>ca. <num type="kilobytes">44</num> kilobytes</extent>
+<publicationStmt>
+<publisher>University of Virginia Library</publisher>
+<pubPlace>Charlottesville, Virginia</pubPlace>
+<idno type="ETC">GlaTrif</idno>
+<date value="1996">1996</date>
+<availability status="public">
+<p n="copyright">Copyright &copy; 1996 by the Rector and Visitors of the University of Virginia</p>
+<p n="access">Publicly accessible</p>
+</availability>
+<idno type="uva-pid">uva-lib:475991</idno>
+</publicationStmt>
+<seriesStmt>
+<title>University of Virginia Library, Text collection</title>
+<idno type="uva-set">UVA-LIB-Text</idno>
+</seriesStmt>
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title type="main">Trifles: A Play in One Act</title>
+<title level="a">Plays</title>
+<title type="sort">trifles a play in one act</title>
+<author>Susan Glaspell</author>
+</titleStmt>
+<editionStmt>
+<p>Sixth Edition</p>
+</editionStmt>
+<publicationStmt>
+<pubPlace>Boston</pubPlace>
+<date value="1927">1927</date>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Prepared for the University of Virginia Library Electronic Text
+Center.</p>
+</projectDesc>
+<editorialDecl>
+<p>All quotation marks retained as data.</p>
+<p>Spell-check and verification made
+against printed text using WordPerfect spell checker.</p>
+<p>All unambiguous end-of-line hyphens have been removed, and the
+trailing part of a word has been joined to the preceding line.</p>
+<p id="ETC">Keywords in the header are a local Electronic Text Center scheme
+to aid in establishing analytical groupings.</p>
+</editorialDecl>
+<refsDecl>
+<p>ID elements are given for each page element and are composed of the text's
+unique cryptogram and the given page number, as in AusEmma1 for page one of
+Jane Austen's Emma.</p>
+</refsDecl>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date value="1920">1920</date>
+</creation>
+<langUsage>
+<language id="eng" usage="main">English</language>
+</langUsage>
+<textClass>
+<keywords>
+<term>fiction; drama</term>
+<term>Women Writers</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change>
+<date value="1996-05-02">May 2, 1996</date>
+<respStmt>
+<resp>corrector</resp>
+<name>Jennifer Hanna</name>
+</respStmt>
+<item>Added TEI-compatible header and tags.</item>
+</change>
+<change>
+<date value="2005-07">July 2005</date>
+<respStmt>
+<resp>Corrector</resp>
+<name>John Ivor Carlson</name>
+</respStmt>
+<item>Converted SGML to XML. Fixed tagging.</item>
+</change>
+<change>
+<date value="2007-09">September 2007</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Ethan Gruber, University of Virginia Library</name>
+</respStmt>
+<item>Converted XML markup from TEI Lite to uva-dl-tei (TEI P4 with local customizations).</item>
+</change>
+<change>
+<date value="2008-01">January 2008</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Greg Murray, University of Virginia Library</name>
+</respStmt>
+<item>Programmatically updated TEI header markup (but not header content) for minimal compliance with current QA requirements.</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text id="d1">
+
+<front id="d2">
+<pb n="2"/>
+<div1 type="section" id="d3">
+<head>TRIFLES<lb/>
+A PLAY IN ONE ACT</head>
+
+<p>First Performed by the Provincetown Players at the Wharf Theatre,
+Provincetown, Mass., August 8, 1916 </p>
+
+<list>
+<head>ORIGINAL CAST</head>
+<item>GEORGE HENDERSON, <hi rend="italic">County Attorney</hi> . . . ROBERT ROGERS
+</item><item>HENRY PETERS, <hi rend="italic">Sheriff</hi> . . . ROBERT CONVILLE
+</item><item>LEWIS HALE, <hi rend="italic">A Neighboring Farmer</hi> . . . GEORGE CRAM COOK
+</item><item>MRS. PETERS . . . ALICE HALL
+</item><item>MRS. HALE . . . SUSAN GLASPELL
+</item></list>
+</div1>
+</front>
+
+<body id="d4">
+<div1 type="play" id="d5">
+<pb n="3"/>
+<head>TRIFLES</head>
+
+<stage>SCENE: <hi rend="italic">The kitchen in the now abandoned farmhouse
+of</hi> JOHN WRIGHT, <hi rend="italic">a gloomy kitchen, and left
+without having been put in order   &mdash;   unwashed pans
+under the sink, a loaf of bread outside the bread-box,
+a dish-towel on the table   &mdash;   other signs of incompleted
+work.  At the rear the outer door opens and the</hi>
+SHERIFF <hi rend="italic">comes in followed by the</hi> COUNTY ATTORNEY
+<hi rend="italic">and</hi> HALE.  <hi rend="italic">The</hi> SHERIFF <hi rend="italic">and</hi> HALE <hi rend="italic">are men in middle
+life, the</hi> COUNTY ATTORNEY <hi rend="italic">is a young man; all are
+much bundled up and go at once to the stove.  They
+are followed by the two women   &mdash;   the</hi> SHERIFF'S <hi rend="italic">wife
+first; she is a slight wiry woman, a thin nervous face.</hi>
+MRS. HALE <hi rend="italic">is larger and would ordinarily be called
+more comfortable looking, but she is disturbed now
+and looks fearfully about as she enters.  The women
+have come in slowly, and stand close together near the
+door.</hi></stage>
+
+<sp><speaker>COUNTY ATTORNEY</speaker>
+
+<l><stage>[<hi rend="italic">Rubbing his hands.</hi>]</stage>
+This feels good.  Come up to the fire, ladies.
+
+</l></sp><sp><speaker>MRS. PETERS</speaker>
+
+<l><stage>[<hi rend="italic">After taking a step forward.</hi>]</stage>
+I'm not   &mdash;   cold.
+
+</l></sp><sp><speaker>SHERIFF</speaker>
+
+<l><stage>[<hi rend="italic">Unbuttoning his overcoat and stepping away from
+the stove as if to mark the beginning of official business.</hi>]</stage>
+Now, Mr. Hale, before we move things about,
+
+<pb n="4"/>
+
+you explain to Mr. Henderson just what you saw
+when you came here yesterday morning.
+
+</l></sp><sp><speaker>COUNTY ATTORNEY</speaker>
+
+<l>By the way, has anything been moved?  Are things
+just as you left them yesterday?
+
+</l></sp><sp><speaker>SHERIFF</speaker>
+
+<l><stage>[<hi rend="italic">Looking about.</hi>]</stage>
+It's just the same.  When it
+dropped below zero last night I thought I'd better
+send Frank out this morning to make a fire for us   &mdash;
+no use getting pneumonia with a big case on, but I
+told him not to touch anything except the stove   &mdash;
+and you know Frank.
+
+</l></sp><sp><speaker>COUNTY ATTORNEY</speaker>
+
+<l>Somebody should have been left here yesterday.
+
+</l></sp><sp><speaker>SHERIFF</speaker>
+
+<l>Oh   &mdash;   yesterday.  When I had to send Frank to
+Morris Center for that man who went crazy   &mdash;   I want
+you to know I had my hands full yesterday.  I knew
+you could get back from Omaha by today and as
+long as I went over everything here myself   &mdash;
+
+
+</l></sp><sp><speaker> COUNTY ATTORNEY</speaker>
+
+<l>Well, Mr. Hale, tell just what happened when you
+came here yesterday morning.
+
+
+</l></sp><sp><speaker> HALE</speaker>
+
+<l>Harry and I had started to town with a load of
+potatoes.  We came along the road from my place
+and as I got here I said, "I'm going to see if I can't
+
+<pb n="5"/>
+
+get John Wright to go in with me on a party telephone."
+I spoke to Wright about it once before and he put
+me off, saying folks talked too much anyway, and all
+he asked was peace and quiet   &mdash;   I guess you know
+about how much he talked himself; but I thought
+maybe if I went to the house and talked about it before
+his wife, though I said to Harry that I didn't know
+as what his wife wanted made much difference to
+John   &mdash;
+
+</l></sp><sp><speaker>COUNTY ATTORNEY</speaker>
+
+<l>Let's talk about that later, Mr. Hale.  I do want
+to talk about that, but tell now just what happened
+when you got to the house.
+
+
+</l></sp><sp><speaker> HALE</speaker>
+
+<l>I didn't hear or see anything; I knocked at the
+door, and still it was all quiet inside.  I knew they
+must be up, it was past eight o'clock.  So I knocked
+again, and I thought I heard somebody say, "Come in."
+I wasn't sure, I'm not sure yet, but I opened the door
+   &mdash;   this door <stage>[<hi rend="italic">indicating the door by which the two
+women are still standing</hi>]</stage> and there in that rocker   &mdash;
+<stage>[<hi rend="italic">pointing to it</hi>]</stage> sat Mrs. Wright.
+</l></sp>
+<stage>[<hi rend="italic">They all look at the rocker.</hi></stage>
+
+<sp><speaker> COUNTY ATTORNEY</speaker>
+
+<l>What   &mdash;   was she doing?
+
+
+</l></sp><sp><speaker> HALE</speaker>
+
+<l>She was rockin' back and forth.  She had her apron
+in her hand and was kind of   &mdash;   pleating it.
+
+<pb n="6"/>
+
+</l></sp><sp><speaker> COUNTY ATTORNEY</speaker>
+
+<l>And how did she   &mdash;   look?
+
+
+</l></sp><sp><speaker> HALE</speaker>
+
+<l>Well, she looked queer.
+
+
+</l></sp><sp><speaker> COUNTY ATTORNEY</speaker>
+
+<l>How do you mean   &mdash;   queer?
+
+
+</l></sp><sp><speaker> HALE</speaker>
+
+<l>Well, as if she didn't know what she was going
+to do next.  And kind of done up.
+
+
+</l></sp><sp><speaker> COUNTY ATTORNEY</speaker>
+
+<l>How did she seem to feel about your coming?
+
+
+</l></sp><sp><speaker> HALE</speaker>
+
+<l>Why, I don't think she minded   &mdash;   one way or other.
+She didn't pay much attention.  I said, "How do,
+Mrs. Wright, it's cold, ain't it?"  And she said, "Is
+it?"   &mdash;   and went on kind of pleating at her apron.
+Well, I was surprised; she didn't ask me to come up
+to the stove, or to set down, but just sat there, not even
+looking at me, so I said, "I want to see John."  And
+then she   &mdash;   laughed.  I guess you would call it a laugh.
+I thought of Harry and the team outside, so I said
+a little sharp: "Can't I see John?"  "No," she
+says, kind o' dull like.  "Ain't he home?" says I.
+"Yes," says she, "he's home."  "Then why can't I
+see him?" I asked her, out of patience.  "'Cause
+he's dead," says she.  <hi rend="italic">"Dead?"</hi> says I.  She just
+nodded her head, not getting a bit excited, but rockin'
+back and forth.  "Why   &mdash;   where is he?" says I, not
+
+<pb n="7"/>
+
+knowing what to say.  She just pointed upstairs   &mdash;
+like that <stage>[<hi rend="italic">himself pointing to the room above</hi>]</stage>.  I
+got up, with the idea of going up there.  I walked
+from there to here   &mdash;   then I says, "Why, what did
+he die of?"  "He died of a rope round his neck,"
+says she, and just went on pleatin' at her apron.  Well,
+I went out and called Harry.  I thought I might   &mdash;
+need help.  We went upstairs and there he was lyin'   &mdash;
+
+
+</l></sp><sp><speaker> COUNTY ATTORNEY</speaker>
+
+<l>I think I'd rather have you go into that upstairs,
+where you can point it all out.  Just go on now with
+the rest of the story.
+
+
+</l></sp><sp><speaker> HALE</speaker>
+
+<l>Well, my first thought was to get that rope off.  It
+looked . . . <stage>[<hi rend="italic">Stops, his face twitches</hi>]</stage> . . . but Harry,
+he went up to him, and he said, "No, he's dead all
+right, and we'd better not touch anything."  So we
+went back down stairs.  She was still sitting that same
+way.  "Has anybody been notified?" I asked.  "No,"
+says she, unconcerned.  "Who did this, Mrs.
+Wright?" said Harry.  He said it business-like   &mdash;
+and she stopped pleatin' of her apron.  "I don't
+know," she says.  "You don't <hi rend="italic">know?</hi>" says Harry.
+"No," says she.  "Weren't you sleepin' in the bed
+with him?" says Harry.  "Yes," says she, "but I
+was on the inside."  "Somebody slipped a rope round
+his neck and strangled him and you didn't wake up?"
+says Harry.  "I didn't wake up," she said after him.
+We must 'a looked as if we didn't see how that could
+be, for after a minute she said, "I sleep sound."
+Harry was going to ask her more questions but I said
+maybe we ought to let her tell her story first to the
+
+<pb n="8"/>
+
+coroner, or the sheriff, so Harry went fast as he could
+to Rivers' place, where there's a telephone.
+
+
+</l></sp><sp><speaker> COUNTY ATTORNEY</speaker>
+
+<l>And what did Mrs. Wright do when she knew that
+you had gone for the coroner?
+
+
+</l></sp><sp><speaker> HALE</speaker>
+
+<l>She moved from that chair to this one over here
+<stage>[<hi rend="italic">Pointing to a small chair in the corner</hi>]</stage> and just sat
+there with her hands held together and looking down.
+I got a feeling that I ought to make some conversation,
+so I said I had come in to see if John wanted to put
+in a telephone, and at that she started to laugh, and
+then she stopped and looked at me   &mdash;   scared.  <stage>[<hi rend="italic">The</hi>
+COUNTY ATTORNEY, <hi rend="italic">who has had his notebook out,
+makes a note.</hi>]</stage>  I dunno, maybe it wasn't scared.  I
+wouldn't like to say it was.  Soon Harry got back, and
+then Dr. Lloyd came, and you, Mr. Peters, and so I
+guess that's all I know that you don't.
+
+
+</l></sp><sp><speaker> COUNTY ATTORNEY</speaker>
+
+<l><stage>[<hi rend="italic">Looking around.</hi>]</stage>  I guess we'll go upstairs first
+   &mdash;   and then out to the barn and around there.  <stage>[<hi rend="italic">To
+the</hi> SHERIFF.]</stage>  You're convinced that there was nothing
+important here   &mdash;   nothing that would point to any
+motive.
+
+
+</l></sp><sp><speaker>SHERIFF</speaker>
+
+<l>Nothing here but kitchen things.</l></sp>
+<stage>[<hi rend="italic">The</hi> COUNTY ATTORNEY, <hi rend="italic">after again
+looking around the kitchen, opens
+the door of a cupboard closet.  He
+gets up on a chair and looks on a
+shelf.  Pulls his hand away, sticky.</hi></stage>
+
+<pb n="9"/>
+
+<sp><speaker> COUNTY ATTORNEY</speaker>
+
+<l>Here's a nice mess.
+</l></sp>
+<stage>[<hi rend="italic">The women draw nearer.</hi></stage>
+
+<sp><speaker>   MRS. PETERS</speaker>
+
+<l><stage>[<hi rend="italic">To the other woman.</hi>]</stage>  Oh, her fruit; it did freeze.
+<stage>[<hi rend="italic">To the</hi> LAWYER.]</stage>  She worried about that when it
+turned so cold.  She said the fire'd go out and her
+jars would break.
+
+</l></sp><sp><speaker>SHERIFF</speaker>
+
+<l>Well, can you beat the women!  Held for murder
+and worryin' about her preserves.
+
+</l></sp><sp><speaker> COUNTY ATTORNEY</speaker>
+
+<l>I guess before we're through she may have something more serious
+than preserves to worry about.
+
+</l></sp><sp><speaker> HALE</speaker>
+
+<l>Well, women are used to worrying over trifles.</l></sp>
+
+<stage>[<hi rend="italic">The two women move a little closer
+together.</hi></stage>
+
+<sp><speaker> COUNTY ATTORNEY</speaker>
+
+<l><stage>[<hi rend="italic">With the gallantry of a young politician.</hi>]</stage>  And
+yet, for all their worries, what would we do without
+the ladies?  <stage>[<hi rend="italic">The women do not unbend.  He goes
+to the sink, takes a dipperful of water from the pail
+and pouring it into a basin, washes his hands.  Starts
+to wipe them on the roller-towel, turns it for a cleaner
+place.</hi>]</stage>  Dirty towels!  <stage>[<hi rend="italic">Kicks his foot against the
+pans under the sink.</hi>]</stage>  Not much of a housekeeper,
+would you say, ladies?
+
+<pb n="10"/>
+
+</l></sp><sp><speaker>    MRS. HALE</speaker>
+
+<l><stage>[<hi rend="italic">Stiffly.</hi>]</stage>  There's a great deal of work to be done
+on a farm.
+
+</l></sp><sp><speaker> COUNTY ATTORNEY</speaker>
+
+<l>To be sure.  And yet <stage>[<hi rend="italic">With a little bow to her</hi>]</stage> I
+know there are some Dickson county farmhouses which
+do not have such roller towels.</l></sp>
+
+<stage>[<hi rend="italic">He gives it a pull to expose its full
+length again.</hi></stage>
+
+<sp><speaker>    MRS. HALE</speaker>
+
+<l>Those towels get dirty awful quick.  Men's hands
+aren't always as clean as they might be.
+
+</l></sp><sp><speaker> COUNTY ATTORNEY</speaker>
+
+<l>Ah, loyal to your sex, I see.  But you and Mrs.
+Wright were neighbors.  I suppose you were friends,
+too.
+
+</l></sp><sp><speaker>    MRS. HALE</speaker>
+
+<l><stage>[<hi rend="italic">Shaking her head.</hi>]</stage>  I've not seen much of her of
+late years.  I've not been in this house   &mdash;   it's more
+than a year.
+
+
+</l></sp><sp><speaker> COUNTY ATTORNEY</speaker>
+
+<l>And why was that?  You didn't like her?
+
+
+</l></sp><sp><speaker>    MRS. HALE</speaker>
+
+<l>I liked her well enough.  Farmers' wives have
+their hands full, Mr. Henderson.  And then   &mdash;
+
+
+</l></sp><sp><speaker> COUNTY ATTORNEY</speaker>
+
+<l>Yes   &mdash;   ?
+
+<pb n="11"/>
+
+</l></sp><sp><speaker>    MRS. HALE</speaker>
+
+<l><stage>[<hi rend="italic">Looking about.</hi>]</stage>  It never seemed a very cheerful
+place.
+
+
+</l></sp><sp><speaker> COUNTY ATTORNEY</speaker>
+
+<l>No   &mdash;   it's not cheerful.  I shouldn't say she had the
+homemaking instinct.
+
+
+</l></sp><sp><speaker>    MRS. HALE</speaker>
+
+<l>Well, I don't know as Wright had, either.
+
+
+</l></sp><sp><speaker> COUNTY ATTORNEY</speaker>
+
+<l>You mean that they didn't get on very well?
+
+
+</l></sp><sp><speaker>    MRS. HALE</speaker>
+
+<l>No, I don't mean anything.  But I don't think a
+place'd be any cheerfuller for John Wright's being
+in it.
+
+
+</l></sp><sp><speaker> COUNTY ATTORNEY</speaker>
+
+<l>I'd like to talk more of that a little later.  I want
+to get the lay of things upstairs now.</l></sp>
+
+<stage>[<hi rend="italic">He goes to the left, where three steps
+lead to a stair door.</hi></stage>
+
+<sp><speaker>SHERIFF</speaker>
+
+<l>I suppose anything Mrs. Peters does'll be all right.
+She was to take in some clothes for her, you know,
+and a few little things.  We left in such a hurry
+yesterday.
+
+
+</l></sp><sp><speaker> COUNTY ATTORNEY</speaker>
+
+<l>Yes, but I would like to see what you take, Mrs.
+
+<pb n="12"/>
+
+Peters, and keep an eye out for anything that might
+be of use to us.
+
+</l></sp><sp><speaker>   MRS. PETERS</speaker>
+
+<l>Yes, Mr. Henderson.</l></sp>
+
+<stage>[<hi rend="italic">The women listen to the men's steps
+on the stairs, then look about the
+kitchen.</hi></stage>
+
+<sp><speaker>    MRS. HALE</speaker>
+
+<l>I'd hate to have men coming into my kitchen, snooping
+around and criticising.</l></sp>
+
+<stage>[<hi rend="italic">She arranges the pans under sink which
+the</hi> LAWYER <hi rend="italic">had shoved out of place.</hi></stage>
+
+<sp><speaker>MRS. PETERS</speaker>
+
+<l>Of course it's no more than their duty.
+
+</l></sp><sp><speaker>MRS. HALE</speaker>
+
+<l>Duty's all right, but I guess that deputy sheriff that
+came out to make the fire might have got a little of
+this on.  <stage>[<hi rend="italic">Gives the roller towel a pull.</hi>]</stage>  Wish I'd
+thought of that sooner.  Seems mean to talk about
+her for not having things slicked up when she had
+to come away in such a hurry.
+
+</l></sp><sp><speaker>   MRS. PETERS</speaker>
+
+<l><stage>[<hi rend="italic">Who has gone to a small table in the left rear
+corner of the room, and lifted one end of a towel
+that covers a pan.</hi>]</stage>  She had bread set.
+<stage>[<hi rend="italic">Stands still.</hi></stage>
+
+</l></sp><sp><speaker>    MRS. HALE</speaker>
+
+<l><stage>[<hi rend="italic">Eyes fixed on a loaf of bread beside the bread-box,
+
+<pb n="13"/>
+
+which is on a low shelf at the other side of the
+room.  Moves slowly toward it.</hi>]</stage>  She was going to
+put this in there.  <stage>[<hi rend="italic">Picks up loaf, then abruptly drops
+it.  In a manner of returning to familiar things.</hi>]</stage>  It's
+a shame about her fruit.  I wonder if it's all gone.
+<stage>[<hi rend="italic">Gets up on the chair and looks.</hi>]</stage>  I think there's
+some here that's all right, Mrs. Peters.  Yes   &mdash;   here;
+<stage>[<hi rend="italic">Holding it toward the window</hi>]</stage> this is cherries, too.
+<stage>[<hi rend="italic">Looking again.</hi>]</stage>  I declare I believe that's the only
+one.  <stage>[<hi rend="italic">Gets down, bottle in her hand.  Goes to the
+sink and wipes it off on the outside.</hi>]</stage>  She'll feel
+awful bad after all her hard work in the hot weather.
+I remember the afternoon I put up my cherries last
+summer.</l></sp>
+
+<stage>[<hi rend="italic">She puts the bottle on the big kitchen
+table, center of the room.  With a
+sigh, is about to sit down in the
+rocking-chair.  Before she is seated
+realizes what chair it is; with a slow
+look at it, steps back.  The chair
+which she has touched rocks back
+and forth.</hi></stage>
+
+<sp><speaker>   MRS. PETERS</speaker>
+
+<l>Well, I must get those things from the front room
+closet.  <stage>[<hi rend="italic">She goes to the door at the right, but after
+looking into the other room, steps back.</hi>]</stage>  You coming
+with me, Mrs. Hale?  You could help me carry
+them.</l></sp>
+
+<stage>[<hi rend="italic">They go in the other room; reappear,</hi>
+MRS. PETERS <hi rend="italic">carrying a dress and
+skirt,</hi> MRS. HALE <hi rend="italic">following with a
+pair of shoes.</hi></stage>
+
+<pb n="14"/>
+
+<sp><speaker>   MRS. PETERS</speaker>
+
+<l>My, it's cold in there.</l>
+<stage>[<hi rend="italic">She puts the clothes on the big table,
+and hurries to the stove.</hi></stage>
+
+
+</sp><sp><speaker>    MRS. HALE</speaker>
+
+<l><stage>[<hi rend="italic">Examining the skirt.</hi>]</stage>  Wright was close.  I think
+maybe that's why she kept so much to herself.  She
+didn't even belong to the Ladies Aid.  I suppose she
+felt she couldn't do her part, and then you don't
+enjoy things when you feel shabby.  She used to wear
+pretty clothes and be lively, when she was Minnie
+Foster, one of the town girls singing in the choir.
+But that   &mdash;   oh, that was thirty years ago.  This all
+you was to take in?
+
+
+</l></sp><sp><speaker>   MRS. PETERS</speaker>
+
+<l>She said she wanted an apron.  Funny thing to
+want, for there isn't much to get you dirty in jail,
+goodness knows.  But I suppose just to make her feel
+more natural.  She said they was in the top drawer in
+this cupboard.  Yes, here.  And then her little shawl
+that always hung behind the door.  <stage>[<hi rend="italic">Opens stair door
+and looks.</hi>]</stage>  Yes, here it is.
+<stage>[<hi rend="italic">Quickly shuts door leading upstairs.</hi></stage>
+
+
+</l></sp><sp><speaker>    MRS. HALE</speaker>
+
+<l><stage>[<hi rend="italic">Abruptly moving toward her.</hi>]</stage>  Mrs. Peters?
+
+
+</l></sp><sp><speaker>   MRS. PETERS</speaker>
+
+<l>Yes, Mrs. Hale?
+
+
+</l></sp><sp><speaker>    MRS. HALE</speaker>
+
+<l>Do you think she did it?
+
+<pb n="15"/>
+
+</l></sp><sp><speaker>   MRS. PETERS</speaker>
+
+<l><stage>[<hi rend="italic">In a frightened voice.</hi>]</stage>  Oh, I don't know.
+
+
+</l></sp><sp><speaker>    MRS. HALE</speaker>
+
+<l>Well, I don't think she did.  Asking for an apron
+and her little shawl.  Worrying about her fruit.
+
+
+</l></sp><sp><speaker>   MRS. PETERS</speaker>
+
+<l><stage>[<hi rend="italic">Starts to speak, glances up, where footsteps are
+heard in the room above.  In a low voice.</hi>]</stage>  Mr.
+Peters says it looks bad for her.  Mr. Henderson is
+awful sarcastic in a speech and he'll make fun of her
+sayin' she didn't wake up.
+
+
+</l></sp><sp><speaker>    MRS. HALE</speaker>
+
+<l>Well, I guess John Wright didn't wake when they
+was slipping that rope under his neck.
+
+
+</l></sp><sp><speaker>   MRS. PETERS</speaker>
+
+<l>No, it's strange.  It must have been done awful
+crafty and still.  They say it was such a   &mdash;   funny way
+to kill a man, rigging it all up like that.
+
+
+</l></sp><sp><speaker>    MRS. HALE</speaker>
+
+<l>That's just what Mr. Hale said.  There was a gun
+in the house.  He says that's what he can't understand.
+
+
+</l></sp><sp><speaker>   MRS. PETERS</speaker>
+
+<l>Mr. Henderson said coming out that what was
+needed for the case was a motive; something to show
+anger, or   &mdash;   sudden feeling.
+
+<pb n="16"/>
+
+</l></sp><sp><speaker>    MRS. HALE</speaker>
+
+<l><stage>[<hi rend="italic">Who is standing by the table.</hi>]</stage>  Well, I don't see
+any signs of anger around here.  <stage>[<hi rend="italic">She puts her hand
+on the dish towel which lies on the table, stands looking down
+at table, one half of which is clean, the
+other half messy.</hi>]</stage>  It's wiped to here.  <stage>[<hi rend="italic">Makes a
+move as if to finish work, then turns and looks at loaf
+of bread outside the breadbox.  Drops towel.  In that
+voice of coming back to familiar things.</hi>]</stage>  Wonder
+how they are finding things upstairs.  I hope she had
+it a little more red-up up there.  You know, it seems
+kind of <hi rend="italic">sneaking</hi>.  Locking her up in town and then
+coming out here and trying to get her own house to
+turn against her!
+
+</l></sp><sp><speaker>   MRS. PETERS</speaker>
+
+<l>But Mrs. Hale, the law is the law.
+
+</l></sp><sp><speaker>    MRS. HALE</speaker>
+
+<l>I s'pose 'tis.  <stage>[<hi rend="italic">Unbuttoning her coat.</hi>]</stage>  Better
+loosen up your things, Mrs. Peters.  You won't feel
+them when you go out.</l></sp>
+
+<stage>[MRS. PETERS <hi rend="italic">takes off her fur tippet,
+goes to hang it on hook at back of
+room, stands looking at the under
+part of the small corner table.</hi></stage>
+
+<sp><speaker>   MRS. PETERS</speaker>
+
+<l>She was piecing a quilt.</l></sp>
+<stage>[<hi rend="italic">She brings the large sewing basket and
+they look at the bright pieces.</hi></stage>
+
+<pb n="17"/>
+
+<sp><speaker>    MRS. HALE</speaker>
+
+<l>It's her log cabin pattern.  Pretty, isn't it?  I wonder
+if she was goin' to quilt it or just knot it?</l></sp>
+
+<stage>[<hi rend="italic">Footsteps have been heard coming down
+the stairs.  The</hi> SHERIFF <hi rend="italic">enters followed by</hi> HALE <hi rend="italic">and
+the</hi> COUNTY ATTORNEY.</stage>
+
+<sp><speaker>SHERIFF</speaker>
+
+<l>They wonder if she was going to quilt it or just
+knot it!</l></sp>
+
+<stage>[<hi rend="italic">The men laugh, the women look
+abashed.</hi></stage>
+
+<sp><speaker>COUNTY ATTORNEY</speaker>
+
+<l><stage>[<hi rend="italic">Rubbing his hands over the stove.</hi>]</stage>  Frank's fire
+didn't do much up there, did it?  Well, let's go out
+to the barn and get that cleared up.
+</l></sp>
+
+<stage>[<hi rend="italic">The men go outside.</hi></stage>
+
+<sp><speaker>    MRS. HALE</speaker>
+
+<l><stage>[<hi rend="italic">Resentfully.</hi>]</stage>  I don't know as there's anything so
+strange, our takin' up our time with little things while
+we're waiting for them to get the evidence.  <stage>[<hi rend="italic">She sits
+down at the big table smoothing out a block with decision.</hi>]
+</stage>  I don't see as it's anything to laugh about.
+
+</l></sp><sp><speaker>   MRS. PETERS</speaker>
+
+<l><stage>[<hi rend="italic">Apologetically.</hi>]</stage>  Of course they've got awful
+important things on their minds.</l></sp>
+
+<stage>[<hi rend="italic">Pulls up a chair and joins</hi> MRS. HALE
+<hi rend="italic">at the table.</hi></stage>
+
+<pb n="18"/>
+
+<sp><speaker>    MRS. HALE</speaker>
+
+<l><stage>[<hi rend="italic">Examining another block.</hi>]</stage>  Mrs. Peters, look at
+this one.  Here, this is the one she was working on,
+and look at the sewing!  All the rest of it has been
+so nice and even.  And look at this!  It's all over
+the place!  Why, it looks as if she didn't know what
+she was about!</l></sp>
+
+<stage>[<hi rend="italic">After she has said this they look at
+each other, then start to glance back
+at the door.  After an instant</hi> MRS.
+HALE <hi rend="italic">has pulled at a knot and ripped
+the sewing.</hi></stage>
+
+<sp><speaker>   MRS. PETERS</speaker>
+
+<l>Oh, what are you doing, Mrs. Hale?
+
+
+</l></sp><sp><speaker>    MRS. HALE</speaker>
+
+<l><stage>[<hi rend="italic">Mildly.</hi>]</stage>  Just pulling out a stitch or two that's
+not sewed very good.  <stage>[<hi rend="italic">Threading a needle.</hi>]</stage>  Bad
+sewing always made me fidgety.
+
+</l></sp><sp><speaker>   MRS. PETERS</speaker>
+
+<l><stage>[<hi rend="italic">Nervously.</hi>]</stage>  I don't think we ought to touch
+things.
+
+
+</l></sp><sp><speaker>    MRS. HALE</speaker>
+
+<l>I'll just finish up this end.  <stage>[<hi rend="italic">Suddenly stopping and
+leaning forward.</hi>]</stage>  Mrs. Peters?
+
+
+</l></sp><sp><speaker>   MRS. PETERS</speaker>
+
+<l>Yes, Mrs. Hale?
+
+
+</l></sp><sp><speaker>    MRS. HALE</speaker>
+
+<l>What do you suppose she was so nervous about?
+
+<pb n="19"/>
+
+</l></sp><sp><speaker>   MRS. PETERS</speaker>
+
+<l>Oh   &mdash;   I don't know.  I don't know as she was
+nervous.  I sometimes sew awful queer when I'm just
+tired.  <stage>[MRS. HALE <hi rend="italic">starts to say something, looks at</hi>
+MRS. PETERS, <hi rend="italic">then goes on sewing.</hi>]</stage>  Well I must get
+these things wrapped up.  They may be through
+sooner than we think.  <stage>[<hi rend="italic">Putting apron and other
+things together.</hi>]</stage>  I wonder where I can find a piece
+of paper, and string.
+
+</l></sp><sp><speaker>    MRS. HALE</speaker>
+
+<l>In that cupboard, maybe.
+
+
+</l></sp><sp><speaker>   MRS. PETERS</speaker>
+
+<l><stage>[<hi rend="italic">Looking in cupboard.</hi>]</stage>  Why, here's a bird-cage.
+<stage>[<hi rend="italic">Holds it up.</hi></stage>  Did she have a bird, Mrs. Hale?
+
+</l></sp><sp><speaker>    MRS. HALE</speaker>
+
+<l>Why, I don't know whether she did or not   &mdash;   I've
+not been here for so long.  There was a man around
+last year selling canaries cheap, but I don't know as
+she took one; maybe she did.  She used to sing real
+pretty herself.
+
+</l></sp><sp><speaker>   MRS. PETERS</speaker>
+
+<l><stage>[<hi rend="italic">Glancing around.</hi>]</stage>  Seems funny to think of a bird
+here.  But she must have had one, or why would
+she have a cage?  I wonder what happened to it.
+
+</l></sp><sp><speaker>    MRS. HALE</speaker>
+
+<l>I s'pose maybe the cat got it.
+
+<pb n="20"/>
+
+</l></sp><sp><speaker>   MRS. PETERS</speaker>
+
+<l>No, she didn't have a cat.  She's got that feeling
+some people have about cats   &mdash;   being afraid of them.
+My cat got in her room and she was real upset and
+asked me to take it out.
+
+</l></sp><sp><speaker>    MRS. HALE</speaker>
+
+<l>My sister Bessie was like that.  Queer, ain't it?
+
+
+</l></sp><sp><speaker>   MRS. PETERS</speaker>
+
+<l><stage>[<hi rend="italic">Examining the cage.</hi>]</stage>  Why, look at this door.
+It's broke.  One hinge is pulled apart.
+
+
+</l></sp><sp><speaker>    MRS. HALE</speaker>
+
+<l><stage>[<hi rend="italic">Looking too.</hi>]</stage>  Looks as if someone must have
+been rough with it.
+
+
+</l></sp><sp><speaker>   MRS. PETERS</speaker>
+
+<l>Why, yes.
+<stage>[<hi rend="italic">She brings the cage forward and puts
+it on the table.</hi></stage>
+
+
+</l></sp><sp><speaker>    MRS. HALE</speaker>
+
+<l>I wish if they're going to find any evidence they'd
+be about it.  I don't like this place.
+
+</l></sp><sp><speaker>   MRS. PETERS</speaker>
+
+<l>But I'm awful glad you came with me, Mrs. Hale.
+It would be lonesome for me sitting here alone.
+
+</l></sp><sp><speaker>    MRS. HALE</speaker>
+
+<l>It would, wouldn't it?  <stage>[<hi rend="italic">Dropping her sewing.</hi>]</stage>
+But I tell you what I do wish, Mrs. Peters.  I wish
+
+<pb n="21"/>
+
+I had come over sometimes when <hi rend="italic">she</hi> was here.  I   &mdash;
+<stage>[<hi rend="italic">Looking around the room</hi>]</stage>   &mdash;   wish I had.
+
+
+</l></sp><sp><speaker>   MRS. PETERS</speaker>
+
+<l>But of course you were awful busy, Mrs. Hale   &mdash;
+your house and your children.
+
+</l></sp><sp><speaker>    MRS. HALE</speaker>
+
+<l>I could've come.  I stayed away because it weren't
+cheerful   &mdash;   and that's why I ought to have come.  I   &mdash;
+I've never liked this place.  Maybe because it's down
+in a hollow and you don't see the road.  I dunno
+what it is, but it's a lonesome place and always was.
+I wish I had come over to see Minnie Foster sometimes.
+I can see now   &mdash;
+<stage>[<hi rend="italic">Shakes her head.</hi></stage>
+
+</l></sp><sp><speaker>   MRS. PETERS</speaker>
+
+<l>Well, you mustn't reproach yourself, Mrs. Hale.
+Somehow we just don't see how it is with other folks
+until   &mdash;   something comes up.
+
+
+</l></sp><sp><speaker>    MRS. HALE</speaker>
+
+<l>Not having children makes less work   &mdash;   but it makes
+a quiet house, and Wright out to work all day, and no
+company when he did come in.  Did you know John
+Wright, Mrs. Peters?
+
+
+</l></sp><sp><speaker>   MRS. PETERS</speaker>
+
+<l>Not to know him; I've seen him in town.  They
+say he was a good man.
+
+
+</l></sp><sp><speaker>    MRS. HALE</speaker>
+
+<l>Yes   &mdash;   good; he didn't drink, and kept his word as
+
+
+<pb n="22"/>
+
+well as most, I guess, and paid his debts.  But he
+was a hard man, Mrs. Peters.  Just to pass the time
+of day with him   &mdash;     <stage>[<hi rend="italic">Shivers.</hi>]</stage>  Like a raw wind that
+gets to the bone.  <stage>[<hi rend="italic">Pauses, her eye falling on the
+cage.</hi>]</stage>  I should think she would 'a wanted a bird.
+But what do you suppose went with it?
+
+
+</l></sp><sp><speaker>   MRS. PETERS</speaker>
+
+<l>I don't know, unless it got sick and died.</l></sp>
+
+<stage>[<hi rend="italic">She reaches over and swings the broken
+door, swings it again, both women
+watch it.</hi></stage>
+
+<sp><speaker>    MRS. HALE</speaker>
+
+<l>You weren't raised round here, were you?  <stage>[MRS.
+PETERS <hi rend="italic">shakes her head.</hi>]</stage>  You didn't know   &mdash;   her?
+
+
+</l></sp><sp><speaker>   MRS. PETERS</speaker>
+
+<l>Not till they brought her yesterday.
+
+
+</l></sp><sp><speaker>    MRS. HALE</speaker>
+
+<l>She   &mdash;   come to think of it, she was kind of like a
+bird herself   &mdash;   real sweet and pretty, but kind of timid
+and   &mdash;   fluttery.  How   &mdash;   she   &mdash;   did   &mdash;   change.
+<stage>[<hi rend="italic">Silence; then as if struck by a happy thought and
+relieved to get back to every day things.</hi>]</stage>  Tell you
+what, Mrs. Peters, why don't you take the quilt in
+with you?  It might take up her mind.
+
+</l></sp><sp><speaker>   MRS. PETERS</speaker>
+
+<l>Why, I think that's a real nice idea, Mrs. Hale.
+There couldn't possibly be any objection to it, could
+
+
+<pb n="23"/>
+
+there?  Now, just what would I take?  I wonder if
+her patches are in here   &mdash;   and her things.
+</l></sp>
+<stage>[<hi rend="italic">They look in the sewing basket.</hi></stage>
+
+<sp><speaker>    MRS. HALE</speaker>
+
+<l>Here's some red.  I expect this has got sewing
+things in it.  <stage>[<hi rend="italic">Brings out a fancy box.</hi>]</stage>  What a
+pretty box.  Looks like something somebody would
+give you.  Maybe her scissors are in here.  <stage>[<hi rend="italic">Opens
+box.  Suddenly puts her hand to her nose.</hi>]</stage>  Why   &mdash;
+<stage>[MRS. PETERS <hi rend="italic">bends nearer, then turns her face away.</hi>]</stage>
+There's something wrapped up in this piece of silk.
+
+</l></sp><sp><speaker>   MRS. PETERS</speaker>
+
+<l>Why, this isn't her scissors.
+
+
+</l></sp><sp><speaker>    MRS. HALE</speaker>
+
+<l><stage>[<hi rend="italic">Lifting the silk.</hi>]</stage>  Oh, Mrs. Peters   &mdash;   its   &mdash;
+</l></sp>
+<stage>[MRS. PETERS <hi rend="italic">bends closer.</hi></stage>
+
+<sp><speaker>   MRS. PETERS</speaker>
+
+<l>It's the bird.
+
+
+</l></sp><sp><speaker>    MRS. HALE</speaker>
+
+<l><stage>[<hi rend="italic">Jumping up.</hi>]</stage>  But, Mrs. Peters   &mdash;   look at it!  It's
+neck!  Look at its neck!  It's all   &mdash;   other side <hi rend="italic">to</hi>.
+
+</l></sp><sp><speaker>   MRS. PETERS</speaker>
+
+<l>Somebody   &mdash;   wrung   &mdash;   its   &mdash;   neck.</l></sp>
+
+<stage>[<hi rend="italic">Their eyes meet.  A look of growing
+comprehension, of horror.  Steps
+are heard outside.</hi>  MRS. HALE <hi rend="italic">slips
+box under quilt pieces, and sinks
+into her chair.  Enter</hi> SHERIFF <hi rend="italic">and</hi>
+
+<pb n="24"/>
+
+COUNTY ATTORNEY.  MRS. PETERS
+<hi rend="italic">rises.</hi></stage>
+
+<sp><speaker> COUNTY ATTORNEY</speaker>
+
+<l><stage>[<hi rend="italic">As one turning from serious things to little
+pleasantries.</hi>]</stage>  Well, ladies, have you decided whether she
+was going to quilt it or knot it?
+
+</l></sp><sp><speaker>   MRS. PETERS</speaker>
+
+<l>We think she was going to   &mdash;   knot it.
+
+</l></sp><sp><speaker> COUNTY ATTORNEY</speaker>
+
+<l>Well, that's interesting, I'm sure.  <stage>[<hi rend="italic">Seeing the
+birdcage.</hi>]</stage>  Has the bird flown?
+
+
+</l></sp><sp><speaker>    MRS. HALE</speaker>
+
+<l><stage>[<hi rend="italic">Putting more quilt pieces over the box.</hi>]</stage>  We think
+the   &mdash;   cat got it.
+
+</l></sp><sp><speaker> COUNTY ATTORNEY</speaker>
+
+<l><stage>[<hi rend="italic">Preoccupied.</hi>]</stage>  Is there a cat?</l></sp>
+
+<stage>[MRS. HALE <hi rend="italic">glances in a quick covert
+way at</hi> MRS. PETERS.</stage>
+
+<sp><speaker>   MRS. PETERS</speaker>
+
+<l>Well, not <hi rend="italic">now</hi>.  They're superstitious, you know.
+They leave.
+
+</l></sp><sp><speaker> COUNTY ATTORNEY</speaker>
+
+<l><stage>[<hi rend="italic">To</hi> SHERIFF PETERS, <hi rend="italic">continuing an interrupted
+conversation.</hi>]</stage>  No sign at all of anyone having come
+from the outside.  Their own rope.  Now let's go
+up again and go over it piece by piece.  <stage>[<hi rend="italic">They start
+
+<pb n="25"/>
+
+upstairs.</hi>]</stage>  It would have to have been someone who
+knew just the   &mdash;   </l></sp>
+
+<stage>[MRS. PETERS <hi rend="italic">sits down.  The two
+women sit there not looking at one
+another, but as if peering into
+something and at the same time holding
+back.  When they talk now it is in
+the manner of feeling their way over
+strange ground, as if afraid of what
+they are saying, but as if they can
+not help saying it.</hi></stage>
+
+<sp><speaker>    MRS. HALE</speaker>
+
+<l>She liked the bird.  She was going to bury it in
+that pretty box.
+
+</l></sp><sp><speaker>   MRS. PETERS</speaker>
+
+<l><stage>[<hi rend="italic">In a whisper.</hi>]</stage>  When I was a girl   &mdash;   my kitten
+   &mdash;   there was a boy took a hatchet, and before my eyes
+   &mdash;   and before I could get there   &mdash;   <stage>[<hi rend="italic">Covers her face an
+instant.</hi>]</stage>  If they hadn't held me back I would have   &mdash;
+<stage>[<hi rend="italic">Catches herself, looks upstairs where steps are heard,
+falters weakly</hi>]</stage>   &mdash;   hurt him.
+
+</l></sp><sp><speaker>    MRS. HALE</speaker>
+
+<l><stage>[<hi rend="italic">With a slow look around her.</hi>]</stage>  I wonder how it
+would seem never to have had any children around.
+<stage>[<hi rend="italic">Pause.</hi>]</stage>  No, Wright wouldn't like the bird   &mdash;   a thing
+that sang.  She used to sing.  He killed that, too.
+
+</l></sp><sp><speaker>   MRS. PETERS</speaker>
+
+<l><stage>[<hi rend="italic">Moving uneasily.</hi>]</stage>  We don't know who killed the
+bird.
+
+<pb n="26"/>
+
+</l></sp><sp><speaker>    MRS. HALE</speaker>
+
+<l>I knew John Wright.
+
+</l></sp><sp><speaker>   MRS. PETERS</speaker>
+
+<l>It was an awful thing was done in this house that
+night, Mrs. Hale.  Killing a man while he slept,
+slipping a rope around his neck that choked the life out
+of him.
+
+</l></sp><sp><speaker>    MRS. HALE</speaker>
+
+<l>His neck.  Choked the life out of him.
+<stage>[<hi rend="italic">Her hand goes out and rests on the
+bird-cage.</hi></stage>
+
+
+</l></sp><sp><speaker>   MRS. PETERS</speaker>
+
+<l><stage>[<hi rend="italic">With rising voice.</hi>]</stage>  We don't know who killed
+him.  We don't <hi rend="italic">know</hi>.
+
+</l></sp><sp><speaker>    MRS. HALE</speaker>
+
+<l><stage>[<hi rend="italic">Her own feeling not interrupted.</hi>]</stage>  If there'd been
+years and years of nothing, then a bird to sing to you,
+it would be awful   &mdash;   still, after the bird was still.
+
+
+</l></sp><sp><speaker>   MRS. PETERS</speaker>
+
+<l><stage>[<hi rend="italic">Something within her speaking.</hi>]</stage>  I know what
+stillness is.  When we homesteaded in Dakota, and my
+first baby died   &mdash;   after he was two years old, and me
+with no other then   &mdash;
+
+
+</l></sp><sp><speaker>    MRS. HALE</speaker>
+
+<l><stage>[<hi rend="italic">Moving.</hi>]</stage>  How soon do you suppose they'll be
+through, looking for the evidence?
+
+<pb n="27"/>
+
+</l></sp><sp><speaker>   MRS. PETERS</speaker>
+
+<l>I know what stillness is.  <stage>[<hi rend="italic">Pulling herself back.</hi>]</stage>
+The law has got to punish crime, Mrs. Hale.
+
+</l></sp><sp><speaker>    MRS. HALE</speaker>
+
+<l><stage>[<hi rend="italic">Not as if answering that.</hi>]</stage>  I wish you'd seen
+Minnie Foster when she wore a white dress with blue
+ribbons and stood up there in the choir and sang.  <stage>[<hi rend="italic">A
+look around the room.</hi>]</stage> Oh, I <hi
+rend="italic">wish</hi> I'd come over
+here once in a while!  That was a crime!  That was
+a crime!  Who's going to punish that?
+
+
+</l></sp><sp><speaker>   MRS. PETERS</speaker>
+
+<l><stage>[<hi rend="italic">Looking upstairs.</hi>]</stage>  We mustn't   &mdash;   take on.
+
+
+</l></sp><sp><speaker>    MRS. HALE</speaker>
+
+<l>I might have known she needed help!  I know how
+things can be   &mdash;   for women.  I tell you, it's queer,
+Mrs. Peters.  We live close together and we live far
+apart.  We all go through the same things   &mdash;   it's all
+just a different kind of the same thing.  <stage>[<hi rend="italic">Brushes
+her eyes, noticing the bottle of fruit, reaches out for it.</hi>]</stage>
+If I was you I wouldn't tell her her fruit was gone.
+Tell her it <hi rend="italic">ain't</hi>.  Tell her it's all
+right.  Take this in to prove it to her.  She   &mdash;   she may never know
+whether it was broke or not.
+
+</l></sp><sp><speaker>   MRS. PETERS</speaker>
+
+<l><stage>[<hi rend="italic">Takes the bottle, looks about for something to wrap
+it in; takes petticoat from the clothes brought from
+the other room, very nervously begins winding this
+around the bottle.  In a false voice.</hi>]</stage>  My, it's a good
+thing the men couldn't hear us.  Wouldn't they just
+
+<pb n="28"/>
+
+laugh!  Getting all stirred up over a little thing like
+a   &mdash;   dead canary.  As if that could have anything
+to do with   &mdash;   with   &mdash;   wouldn't they <hi rend="italic">laugh!</hi>
+</l></sp>
+<stage>[<hi rend="italic">The men are heard coming down stairs.</hi></stage>
+
+<sp><speaker>    MRS. HALE</speaker>
+
+<l><stage>[<hi rend="italic">Under her breath.</hi>]</stage>  Maybe they would   &mdash;   maybe
+they wouldn't.
+
+
+</l></sp><sp><speaker> COUNTY ATTORNEY</speaker>
+
+<l>No, Peters, it's all perfectly clear except a reason
+for doing it.  But you know juries when it comes to
+women.  If there was some definite thing.  Something
+to show   &mdash;   something to make a story about   &mdash;   a thing
+that would connect up with this strange way of doing
+it   &mdash;   </l></sp>
+
+<stage>[<hi rend="italic">The women's eyes meet for an instant.
+Enter</hi> HALE <hi rend="italic">from outer door.</hi></stage>
+
+<sp><speaker> HALE</speaker>
+
+<l>Well, I've got the team around.  Pretty cold out
+there.
+
+
+</l></sp><sp><speaker> COUNTY ATTORNEY</speaker>
+
+<l>I'm going to stay here a while by myself.  <stage>[<hi rend="italic">To the</hi>
+SHERIFF.]</stage>  You can send Frank out for me, can't
+you?  I want to go over everything.  I'm not satisfied
+that we can't do better.
+
+
+</l></sp><sp><speaker>SHERIFF</speaker>
+
+<l>Do you want to see what Mrs. Peters is going to
+take in?</l></sp>
+
+<stage>[<hi rend="italic">The</hi> LAWYER <hi rend="italic">goes to the table, picks up
+the apron, laughs.</hi></stage>
+
+<pb n="29"/>
+
+<sp><speaker> COUNTY ATTORNEY</speaker>
+
+<l>Oh, I guess they're not very dangerous things the
+ladies have picked out.  <stage>[<hi rend="italic">Moves a few things about,
+disturbing the quilt pieces which cover the box.  Steps
+back.</hi>]</stage>  No, Mrs. Peters doesn't need supervising.
+For that matter, a sheriff's wife is married to the
+law.  Ever think of it that way, Mrs. Peters?
+
+</l></sp><sp><speaker>   MRS. PETERS</speaker>
+
+<l>Not   &mdash;   just that way.
+
+
+</l></sp><sp><speaker>SHERIFF</speaker>
+
+<l><stage>[<hi rend="italic">Chuckling.</hi>]</stage>  Married to the law.  <stage>[<hi rend="italic">Moves
+toward the other room.</hi>]</stage>  I just want you to come in
+here a minute, George.  We ought to take a look at
+these windows.
+
+</l></sp><sp><speaker> COUNTY ATTORNEY</speaker>
+
+<l><stage>[<hi rend="italic">Scoffingly.</hi>]</stage>  Oh, windows!
+
+</l></sp><sp><speaker>SHERIFF</speaker>
+
+<l>We'll be right out, Mr. Hale.</l></sp>
+
+<stage>[HALE <hi rend="italic">goes outside.  The</hi> SHERIFF
+<hi rend="italic">follows the</hi> COUNTY ATTORNEY <hi rend="italic">into the
+other room.  Then</hi> MRS. HALE <hi rend="italic">rises,
+hands tight together, looking
+intensely at</hi> MRS. PETERS, <hi rend="italic">whose eyes
+make a slow turn, finally meeting</hi>
+MRS. HALE'S.  <hi rend="italic">A moment</hi> MRS.
+HALE <hi rend="italic">holds her, then her own eyes
+point the way to where the box is
+concealed.  Suddenly</hi> MRS. PETERS
+<hi rend="italic">throws back quilt pieces and tries
+to put the box in the bag she is
+<pb n="30"/>
+
+wearing.  It is too big.  She opens
+box, starts to take bird out, cannot
+touch it, goes to pieces, stands there
+helpless.  Sound of a knob turning
+in the other room.</hi>  MRS. HALE
+<hi rend="italic">snatches the box and puts it in the
+pocket of her big coat.  Enter</hi>
+COUNTY ATTORNEY <hi rend="italic">and</hi> SHERIFF.</stage>
+
+<sp><speaker>COUNTY ATTORNEY</speaker>
+
+<l><stage>[<hi rend="italic">Facetiously.</hi>]</stage>  Well, Henry, at least we found out
+that she was not going to quilt it.  She was going
+to   &mdash;   what is it you call it, ladies?
+
+</l></sp><sp><speaker>MRS. HALE</speaker>
+
+<l><stage>[<hi rend="italic">Her hand against her pocket.</hi>]</stage>  We call it   &mdash;   knot
+it, Mr. Henderson.</l></sp>
+
+<stage>(CURTAIN)</stage>
+</div1>
+
+</body>
+</text>
+</TEI.2>
+
+

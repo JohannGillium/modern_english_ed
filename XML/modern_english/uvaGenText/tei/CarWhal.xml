@@ -1,0 +1,562 @@
+<?xml version="1.0"?>
+
+<?dlps id="CarWhal"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOnum SYSTEM "http://text.lib.virginia.edu/charent/iso-num.ent"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+
+]>
+
+
+<TEI.2 id="CarWhal">
+<teiHeader type="migrated" creator="Etext">
+<fileDesc>
+<titleStmt>
+<title type="main">The Whale</title>
+<title type="sort">whale</title>
+<author>Carleton, S.</author>
+<respStmt>
+<resp>Creation of machine-readable version:</resp>
+<name>Judy Boss</name>
+<resp>Conversion to TEI.2-conformant markup:</resp>
+<name>University of Virginia Library Electronic Text Center</name>
+</respStmt>
+</titleStmt>
+<extent>ca. <num type="kilobytes">29</num> kilobytes</extent>
+<publicationStmt>
+<publisher>University of Virginia Library</publisher>
+<pubPlace>Charlottesville, Virginia</pubPlace>
+<idno type="ETC">CarWhal</idno>
+<date value="1995">1995</date>
+<availability status="public">
+<p n="copyright">Copyright &copy; 1995 by the Rector and Visitors of the University of Virginia</p>
+<p n="access">Publicly accessible</p>
+</availability>
+<idno type="uva-pid">uva-lib:475793</idno>
+</publicationStmt>
+<seriesStmt>
+<title>University of Virginia Library, Text collection</title>
+<idno type="uva-set">UVA-LIB-Text</idno>
+</seriesStmt>
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title type="main">The Whale</title>
+<title level="j">Atlantic Monthly</title>
+<title type="sort">whale</title>
+<author>S. Carleton</author>
+</titleStmt>
+<publicationStmt>
+<publisher>Atlantic Monthly</publisher>
+<pubPlace>Boston</pubPlace>
+<date value="1906">1906</date>
+</publicationStmt>
+<seriesStmt>
+<p>volume 98</p>
+</seriesStmt>
+<notesStmt>
+<note>
+<p>Carleton, S.  "The Whale."  <hi rend="italic">Atlantic Monthly</hi> 98 (1906): 118-125.</p>
+</note>
+</notesStmt>
+</biblFull>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Prepared for the University of Virginia Library Electronic Text Center</p>
+</projectDesc>
+<editorialDecl>
+<p>All quotation marks retained as data</p>
+<p>All unambiguous end-of-line hyphens have been removed, and the
+trailing part of a word has been joined to the preceding line.</p>
+<p id="ETC">Keywords in the header are a local Electronic Text Center scheme
+to aid in establishing analytical groupings</p>
+</editorialDecl>
+<refsDecl>
+<p>ID elements are given for each page element and are composed of the text's
+unique cryptogram and the given page number, as in AusEmma1 for page one of
+Jane Austen's Emma.</p>
+</refsDecl>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date value="1906">1906</date>
+</creation>
+<langUsage>
+<language id="eng" usage="main">English</language>
+</langUsage>
+<textClass>
+<keywords>
+<term>fiction; prose</term>
+<term>Native American</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change>
+<date value="1996-03">March 1996</date>
+<respStmt>
+<resp>corrector</resp>
+<name>Jamie L Spriggs, Electronic Text Center, University of Virginia</name>
+</respStmt>
+<item>Added header; Tagged with TEI.2-compatible SGML; Parsed against local
+"teilite" dtd</item>
+</change>
+<change>
+<date value="2005-06">June 2005</date>
+<respStmt>
+<resp>corrector</resp>
+<name>John Ivor Carlson</name>
+</respStmt>
+<item>Converted sgml to xml.</item>
+</change>
+<change>
+<date value="2007-09">September 2007</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Ethan Gruber, University of Virginia Library</name>
+</respStmt>
+<item>Converted XML markup from TEI Lite to uva-dl-tei (TEI P4 with local customizations).</item>
+</change>
+<change>
+<date value="2008-01">January 2008</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Greg Murray, University of Virginia Library</name>
+</respStmt>
+<item>Programmatically updated TEI header markup (but not header content) for minimal compliance with current QA requirements.</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text id="d1">
+
+<front id="d2">
+
+<titlePage id="d3"><pb n="118"/><docTitle>
+<titlePart type="main">THE WHALE</titlePart></docTitle>
+<byline> BY <docAuthor>S. CARLETON</docAuthor></byline>
+</titlePage>
+</front>
+<body id="d4">
+<div1 type="story" id="d5">
+<p>"KWA!" I called, standing outside Andrew Paul's house in the
+rain.
+</p><p>I stood also in the wind, but manners are manners, and a
+hostess must have her opportunity to say "not at home."  If I were
+not wanted, I knew the procedure.  A voice would ask who I was, and
+what was my business.  After that there would be nothing for it but
+to state my errand and go away.  But no such cold-blooded thing
+happened to me.  The door flew open on Mrs. Paul, gorgeous to
+behold in a green plaid shawl pinned with a <hi rend="italic"> niskaman </hi>, or clasp
+of rank, as big as a saucer, and solid silver at that.  Mrs. Paul
+is a captain's wife, and lets you know it.
+</p><p>"Well, it gives me happy thoughts to see you," she said in
+Indian.  "Come in; sit down; dry yourself!"
+</p><p>I did all three.  The one-roomed house was as neat as a new
+pin, except for the litter of moccasin-making.  My moccasins were
+done, and I paid for them; after which there was a great brewing of
+tea.  One of the grandchildren, who sat, oily-eyed, behind the
+stove, said something, and was promptly hushed.  Mrs. Paul looked
+at me apologetically.
+</p><p>"We was just telling them a few old <pb n="119"/>  story," she said;
+"they wants me to go on with them.  I say to them where their
+manners?  The <hi rend="italic"> sakamow </hi>, he don't care for Indian story."
+</p><p>"Old Joe Brooks"&mdash;I began; and the name was electric.
+</p><p>"Him!" cried Mrs. Paul; for a moment scorn choked her.  "Him!
+He don't know 'em right!  Me, I got them straight down from my
+grandmother, and her mother, Philip Bernard was her man.  And he
+was a Frenchman,&mdash;he was kepture by us when we was fighting with
+you people,&mdash;and my grandmother's mother she marry him.  He have
+great story-telling to his camp every night of every winter, got
+story-tellers in from miles round; and every story he tell to my
+grandmother, and she tell to me, word for word.  There isn't no
+Indian story that I don't know, nor that I don't know right.  I
+tell you one now,&mdash;right this minute.  Old Joe Brooks&mdash;  Ho, I make
+him feel funny if I catch him story-telling!  And"&mdash;she looked at
+me with the last pride of the accomplished&mdash;  "I tell you it in
+English, too.  I can't sound him out like I do in Indian, but there
+isn't one woman alive that could do this but me."
+</p><p>If I had had time, I would have produced tobacco, but she
+forestalled me, and lit her own.  There was no light but the fire
+from the open stove.  It glittered on the silver of her <hi rend="italic"> niskaman </hi>, and on the oily eyes of the silent children.  In the
+quiet I heard the rain against the house wall.
+</p><p>"The name of this story," said Mrs. Paul&mdash;she looked at me
+between two puffs of her really remarkable tobacco&mdash;"is The Whale.
+Seems to me," she added reflectively, "that in those times the
+animals were all talking loud,&mdash;like people,&mdash;but we git to that by
+and by!  First:&mdash;
+</p><p>"There was a time a family lived in the woods.  I don't know
+if they was the only family in the world, but it seems so.  Anyhow,
+nobody ever came near where they were, and they never knowed there
+was any people in the world but themselves.  There was an Old Man
+and an Old Woman, and they got two children, boy and girl; girl was
+the oldest.
+</p><p>"Old Man he used to have traps in one direction; Old Woman she
+had her traps in 'nother direction.  They live on what they ketch
+in those traps; meat, fowls, and everything.  And maple sugar,&mdash;one
+year to 'nother year they had maple sugar all along!  And they
+gather up the fishes in the spring to do them till next spring; and
+meat, they keep it from one year to other end of year.  In the
+spring they used to plant the corn; and in the summer they used to
+pick wild potatoes,&mdash;just like sweet potatoes," she broke off,
+"only leaves and flowers like morning-glory, open and shut just the
+same way; and roots all strung on one string.  Then they gather up
+a lot of stuff what's growin'; peppermint, yellow lilies&mdash;their
+buds just like onion, and boil like onion&mdash;so they never mind
+anything about white man, what he eat now,&mdash;they got plenty of
+their own.  Their clothing it was of fur and leather.  But they had
+three prayers every day; one at morning, one at noon, and one at
+night.  They train their children to this, till every action they
+had their children had it.  Children stayed with them till they was
+grown up, able to do for themselves.
+</p><p>"One day Old Man sick.  Old Woman go to work to try to get
+some kind of root to cure Old Man; but she couldn't cure him.  He
+died.  Old Woman was very lonesome, and she made up her mind to
+tell the children what they must do if she was dead.  She told them
+to not go no place; told the Boy to take his father's traps, and
+the Girl to take her own traps, and to be together always and not
+parted.  She told Girl, 'You care for your Brother best way you
+kin,' and she told Boy, 'You take care your Sister, so no <hi rend="italic"> boooin </hi> (and that's what you call witchcraft) 'can get hold of
+her.'  They both make very good promise; and, that very next day,
+Old Woman she die.
+</p><p>"Well, the Brother and Sister was there for good many years,
+'long themselves.  Then one night they was saying their <pb n="120"/>
+prayers, and after they finish their prayers the Boy says:&mdash;
+</p><p>"Sister, there must be somebody in the world like us, because
+these prayers what we got says, <hi rend="italic">" Kesoolk</hi>, our Maker and Great
+chief, take care of them all,"&mdash;and if there was only us two in
+this world they would say, "take care of them two."'  Says he: 'Our
+prayers tells us to think of our neighbors as we do ourselves.  You
+say these birds and beasts they have no souls, and we shouldn't
+pray for them: so why wouldn't there be no more people than us?'
+</p><p>"Well, Girl begin to turn round, and told him: 'Well, you have
+a queer notion, to think about people, when we are very well
+contented here with the two of us, and we needn't complain.  We eat
+any time we are hungry; we can kneel down and say our prayers; when
+we want to we can sleep, just as comfortable as if we had a
+thousand people round us.'
+</p><p>"Boy said: 'I want to find out if there is more people in this
+world than us.  We must start and look for them, till we find out.'
+</p><p>"The Girl told him, 'I'll do as you say, if you'll do as I say
+afterwards.'
+</p><p>"So he make good promise, and she got ready to start and look
+for the people.  They made some kind of rule, that they'll go one
+way all along; they put a stick in the ground in the middle of the
+day, and wherever the shadow was on the ground in the middle of the
+day they took that direction always.  They traveled good many days,
+till winter sets in; and they found nobody yet, not the sign of
+nobody.  One day they'll put up their camp to prepare what they'll
+eat, and the Boy will be restless; when they finish what they have
+to eat, he'll make her gather up and start; they do like that all
+winter.  And before that winter was quite over they found the
+tracks of Somebody; but it was such an old track they lost that
+track.  But when they did they sat down and made their camp, and
+they said, 'We'll stay here; and p'raps Somebody'll come along.'
+</p><p>"One day, while the Boy was hunting, he found a place where a
+moose had been killed that Somebody killed.  When he come home,
+says he: 'I found where They killed a moose, but I daresn't go too
+far, for I was frightened I might see Them.  Good many,' says he,
+'that don't afraid, have brought themselves into trouble!'
+</p><p>"So they stay there till spring, and start again.  They found
+a place pretty soon, where Somebody had been all winter; good many
+camps were left empty where the people they had moved from that
+place.  Still, they went ahead to try and find them out, where they
+had gone to, till they come out on a river.  When they come there
+they found a camp where Somebody had been making sugar; trees were
+all tapped; troughs were all put away into one camp, for next
+spring.  Boy says:&mdash;
+</p><p>"'We're getting handy to Them!  We found out that there was
+more people than us in this world.'  And they went along, following
+the river till they got to salt water; and there they found a place
+where Somebody had moved from.  Canoes had all landed, and start
+again from beach; children's tracks, and women's tracks, and men's
+tracks,&mdash;they see them all in the sand.
+</p><p>"Girl said: 'We needn't go hurry.  Let me make our clothing,
+so we'll have all new clothing, and everything nice and neat;
+because we are strangers.'
+</p><p>"So she begin to make their clothing, and the Boy was making
+sacks himself for carrying things; sacks made of leather.  And he
+put flowers on them, with all the things that had happened to him
+and his Sister since they left home to look for people.  Time he
+found tracks first and looked down at them, he put his picture down
+of that; how he found out what a track was, he put that down; what
+kind of way They killed the moose he found first; and when he found
+the winter camps with no one in them,&mdash;he put all them things down
+on them sacks; and how he stood himself when he come to <pb n="121"/>  the
+salt water, and see all those tracks on the sand and shore of it.
+</p><p>"So they made up their clothes, and they started in the
+morning.  In the evening they come to a little cove, and right
+opposite them they seen fires on the other shore of it; first
+fires, and then people.  Some made their own camps, and some they
+stayed overnight without camps.  The Boy and Girl they went round
+this little cove till they come to the first camp.
+</p><p>"Well, in that first camp the people was Old Bear and Young
+Marten.  Next was Old Chief's,&mdash;and he had awful big eyes,&mdash;but he
+was Old Owl, you know; in them days just same as people!  'Nother
+camp was a widow woman's; she had a lot of girls, and she was Mis'
+Mink.  She had a smart boy to help her, name Weasel.
+</p><p>"When Boy and Girl come to Old Bear's camp they stayed, for
+Old Bear she ask them.  Girl was helping Old Bear best way she kin,
+and the young fellow her Brother was getting wood the best way he
+kin, and helping Marten.  They worked awful well; better than Old
+Bear ever had seen.
+</p><p>"One day Old Chief was saying: 'We ought to get this Boy and
+Girl to be camping with us always.  They work awful hard work, and
+they are company for us because we can understand them; they talk
+our language.'
+</p><p>"So the people in those camps asks them, 'if they would get
+married there if they got the man and got the woman?'  Says they,
+'No!  Because we have to go back home, not knowing how soon.'
+</p><p>"Old Chief said (and he let them go out first, before he said
+it): 'What we'll do, we'll make it so he never kin go back, and
+then his Sister she stay with him.  We'll get'"&mdash;
+</p><p>The old lady broke off.  "I don' know what I'm going to call
+what they get."  She said an Indian word that I knew to mean "the
+great reptile," and translated it, "Great big lizard, kind of
+horned, awful deep jaw&mdash;one of them&mdash;I think most like crocodile!"
+(It was the first thing I had ever heard in support of the
+tradition that the Micmacs came north from Florida, and if I might
+have substituted alligator for crocodile, I held my tongue.)  She
+continued with decision:&mdash;
+</p><p>"'We'll get crocodile and we'll take the horns off it.'"  (I
+am an unlearned person, and there may be crocodiles with horns; I
+make no stipulations about it); "'and we'll get the old Witch to
+wish those horns on the Boy's head, so they can't come off.  But
+how we kin do it?'
+</p><p>"Well, he think and think.  Says he: 'We'll make party; only
+for men, not for women, so that Girl she can't come.  Every man
+will have his form of arm what he'll use when he's hunting, and
+what he'll use in war with strange Indians; bow an' arrows and
+spears, and little tommy-hawk and butcher's knife.  We'll get up
+after we done eating, and we'll sing'"&mdash;  She interrupted herself.
+"What'll I call <hi rend="italic"> neskowa </hi>?  I don't know that word in English.
+Not war'<hi rend="italic"> hup </hi>,"&mdash;she said it indescribably, with a cold and
+rising inflection; and I interrupted.  I know <hi rend="italic"> neskowa </hi>, it means
+to dance a magic dance, chanting the while a chant which is not
+used in churches; each man takes his turn at it, every one making
+his own song of what he has done, and what he will do,&mdash;and at this
+present day it is well known that during the duration of his <hi rend="italic"> neskowa </hi> the singer is impervious to bullets.  It is not a blood-warming performance, even now.  I said, <hi rend="italic">" Kejeek</hi>, I know it!"
+</p><p>The old lady nodded.  "My Mr. Paul, he knows all them old
+songs," she said casually.  "You get him some day; tell him, '
+<hi rend="italic"> neskowa </hi> a little for me.'"  And Mr. Paul is a pillar of the
+church, and respected.  They are not pretty songs.
+</p><p>Mrs. Paul puffed at her pipe, and thought a little.
+</p><p>"Well," she continued, "well, says Old Chief, 'we'll get up
+and <hi rend="italic"> neskowa </hi>; every man'll make his own song of what he would
+do, and every one'll go round and shake hands; and while we shake
+hands we'll put those horns on that boy.'
+</p><p>"Well, Girl she told her Brother: 'My <pb n="122"/>  dear, they call
+each other together to put up some rig on you.  That's what you
+were wishing for when you wish for people.  But when you must go to
+this party don't forget me, not even for one minute; while you
+remember me nobody kin get at you.'
+</p><p>"But the Boy went away quite cheerful to the party.  And when
+they was done eating, Old Chief done like he said he would.  He got
+up, and he sing that <hi rend="italic"> neskowa </hi> all round the camp; and the rest
+of them all put those crocodile's horns on their heads, turn by
+turn, and say, 'How would I look if I had these horns on my head?'
+An' 'nother one would do the same, till they got all through.  The
+Boy was the last one.
+</p><p>"And when he put those horns on, he couldn't took them off.
+He forgot all about his Sister, and these horns stuck on his head.
+Old Chief and all his men were so pleased to get those horns stuck
+on his head, that they made an awful hurrah, all of them.  And then
+all those men and women they cleared out their camps, and moved
+away from that place in canoes: since the Boy and his Sister would
+not marry one of them nor be one of their people, they could stay
+now where they were, alone.
+</p><p>"The Boy came home to his Sister.  He looked very sad.
+</p><p>"She told him: 'Well, you got what you were seeking for when
+you wished to see other people.  You always said that you liked me
+and would never forget me; and now it shows that you did forget me.
+Now you brought us here to those people, and they leave us,&mdash;no
+camp, not anybody left,&mdash;and you not able to go home because of
+those horns fixed on your head.'
+</p><p>"He sat down by an elm tree, and she was making a camp of the
+leavings of those people that had gone away; and while she was
+making it her Brother's horns growed that fast they twisted round
+the elm tree, so tight he couldn't get them off.  He got to sit
+there.  Then his Sister made little shed for him, round the elm
+tree, and she finished her camp for herself.  And he sits there in
+his little shed, and she in her camp.
+</p><p>"She feel pretty bad.  She feel worse than if she had stayed
+at home, and never seen nobody.  One day she feel so bad she went
+to work and washed herself, and combed her hair, and put on her
+best clothing, and painted her cheeks; and she went over to where
+there was a flat rock stuck out into the sea, and was sitting down
+there and singing lonesome tunes to herself.  She commenced to cry,
+and she cried till by and by she went to sleep.  While she was
+sleeping there was a Whale going beside the rock, for there was
+deep water round it, and what he seen was a little young girl
+laying down; and he never see any prettier girl than that.  He
+stopped, and he change himself into a man in a canoe.
+</p><p>"And this," said Mrs. Paul, "is where I don't understand 'bout
+the ten and animals; seems like as if you couldn't tell always
+which was which.  So I don't believe 'em now when they say that
+birds and the beasts they don't have no souls,&mdash;but I don' <hi rend="italic"> know </hi>, and you don' know!
+</p><p>"That man that was a Whale, he took his paddle and lifted up
+the Girl with it, and he put her in his canoe.  Then he paddled
+home to his own house.
+</p><p>"He got a Mother and Sister.  When he get home he say to his
+Sister:&mdash;
+</p><p>"'You go down to my canoe and wake up your sister-in-law; and
+tell her to come to her dinner.'
+</p><p>"This Whale-girl she was so pleased that she run; she'd never
+had no company at all, where she lived.  Looking in canoe, there
+was the girl, just waking up.  Says the Whale-girl:&mdash;
+</p><p>"'My dear sister-in-law, get up and come home.'
+</p><p>"They went home together, and when they got in the old Whale-woman look up.  Says she, 'Well, daughter-in-law, go up 'long side
+of your man.'
+</p><p>"And that's the way," said Mrs. Paul, "that us Indians used to
+get married before we knew the Scriptures.  The old <pb n="123"/>  people,
+you know, they sit at home; and when their son bring in a girl, if
+they like her they says, 'Come up to the back part of camp,
+daughter-in-law,'&mdash;that the place of honor.  After that, they make
+good cheer, and feast for wedding; and that's the way the Whale-woman did.
+</p><p>"So that Girl she was married, and she got so contented that
+her mind was put away from her Brother.  She had company, and they
+used her very well.  She liked the place, and she liked the people,
+and she liked her man very well; with him she was awfully pleased.
+She had her own prayers yet; the Whales they never pray, but they
+wouldn't hinder her from saying her prayers.  She knowed a great
+deal, and she used to tell them stories about <hi rend="italic"> Kesoolk</hi>, our
+Creator and Great Chief, as well as she kin.  They got into her
+way, every one of 'em, to honor their Maker.  She was thankful to
+<hi rend="italic"> Kesoolk</hi> for everything she had got; but these Whales used to
+grab everything, and never thank for it till she learned them.
+They got so that they got along real good together.
+</p><p>"She got a baby, little boy.  By and by the baby was one year
+old; and one day, looking at the baby, something struck her that
+she remembered her Brother.  She couldn't help herself, and she was
+crying.
+</p><p>"Old Woman Whale badly struck when she seen her daughter-in-law crying; she thought she was sick.
+</p><p>"'My dear child,' she says, 'what wrong with you?  You sick?'
+</p><p>"'No, dear mother.'
+</p><p>"'Are you feel lonesome about your man?'  Cause, you see, he
+was out every day from before sunrise till after sundown,&mdash;that was
+his life.  Old Woman Whale thinks then 'Maybe my daughter-in-law is
+lonesome!  She told her own daughter, 'Go some place, and get the
+roots for making a canoe.'
+</p><p>"The Whale-girl told her sister-in-law, 'What make you cry?'
+</p><p>"The Girl said: 'Well, I'm just a-going to tell you now!  I
+got a Brother where I come from, and he was wished them crocodile
+horns on his head; when I came away they were growing so fast they
+were growing round the tree he was sat down under.  By this time he
+must be dead; and I'm so wishing to see him once more.'
+</p><p>"'Ho,' the Whale-girl says, 'those horns can be cured off!  I
+got simple cure to cure them off.  When my brother come home to-night, if the sun goes down in red cloud, you pinch little baby;
+make him cry whole evening.  If my brother he ask you what wrong
+with the child, you tell him, "He's foolish!  He's crying after
+that red cloud he see when sun was down."'
+</p><p>"Well, this Girl carried the child out to meet his father,
+because he's sure to come home after sundown; and when she look at
+the cloud it was red.  So when her man come home she pinched the
+young one.  He cried, and cried, and cried.
+</p><p>"Her man says, 'What wrong with the child?'
+</p><p>"Girl told him, 'He has such a simple notion that he cried
+after that red cloud he see, when the sun was down.'
+</p><p>"'Is that all?' said her man, and he laugh.  'Well, we see
+about that in the morning!'
+</p><p>"The child stop crying, because his mother didn't pinch him
+any more, and in the morning the Whale-man he start for that red
+cloud;&mdash;and he brought it home, mind you; that next night!  Child
+didn't play with it, 'cause of course he never thinking nothing
+about it.  But his mother she put it away carefully rolled up in a
+little bark box.  Next night says the Whale-girl:&mdash;
+</p><p>"'Yellow cloud to-night.  You pinch this child hard, so to
+make him cry for this yellow cloud which comes now with sundown,
+and to-morrow morning his father he go and fetch it for him.  And
+to-morrow morning you must get up early, soon as he has gone, and
+make ready to do whatever I tell you.'
+</p><p>"So when the Whale-man gone, the Whale-girl and her sister-in-law were <pb n="124"/>  ready.  They went off by themselves in the canoe
+the Whale-woman had told them to make when she see her daughter-in-law cry, and took the child in his little cradle, laced up like
+Indian child is carried.  The Whale-girl says to her mother, 'We
+going over to little island to see if we kin pick few berries.'
+But they started for good, and they went over to the Girl's home.
+</p><p>"Whale-girl told her, 'I know your home where the Whale my
+brother got you;' and she steer canoe herself.  They paddle hard.
+</p><p>"But just when this Whale-man got that yellow cloud the baby
+cry for, he begin to feel bad; he know something wrong in his home.
+He begin hurry for home.  When he got there, they wasn't there; not
+the Whale-girl, nor the child and his mother.
+</p><p>"Old Woman Whale said, 'They started for picking berries, ever
+since you started in the morning.'
+</p><p>"Says he, 'They'll not picking berries!  My sister she takes
+her sister-in-law home.  They made some plan up for to take her
+home.'  He started after them.
+</p><p>"Says the Whale-girl to her sister-in-law, 'My dear, he coming
+after us!  Very fast.'  Wasn't she frightened!  'But he'll not kill
+us; only take us back.  If he comes handy, you drop the cradle in
+water, and paddle away all you kin.'
+</p><p>"And he was coming so handy they saw the water raised up where
+he blow.  But next time he blow was right handy.  The Whale-girl
+told her, 'He's coming fast!'
+</p><p>"At that she threw the cradle into the water, and he hollered,
+'This poor little baby's cradle fall into the water!'  And he
+caught it, and pet it up, and sing songs to it, till they went very
+far, and he put it into his bosom.  And then they only could see
+the place where they were going.
+</p><p>"When he be too handy again the Girl went and throw the stick
+that raised the veil from off her baby's face, and he pick that up.
+When he come handy again she took her baby's little clothes and
+throw them in the sea; and he taking so much time to pick them all
+up.  Then once more he will overtake them, if they hadn't anything
+more to put in the water.  Thinking about her baby's pillow, she
+emptied all the feathers out of it in the water.  When he picked
+them up, one by one, they were at the shore.
+</p><p>"The Whale he won't come too handy to shore, and he stopped;
+and advised her to take good care of that child, and not to cross
+water of any distance wide, because he sure to catch her crossing.
+The Whale-girl she took that little box what the red cloud was in,
+and says she,&mdash;
+</p><p>"'My sister-in-law, when we come to your Brother's shed what
+you built over him, don't look at him, don't stop at all, don't
+feel sorry for him,&mdash;make your own way to your own camp what you
+built that same day.'
+</p><p>"But when she passed her Brother spoke to her.  'My dear
+sister, I'm living yet; very miserable, very poor, very hungry, and
+very tired sitting.'
+</p><p>"She never looked at him, nor touched her heart for him saying
+this.  She passed by.
+</p><p>"This Whale-girl she went and looked at him.  She anointed him
+with the red cloud out of the little box, and rubbed him in it, and
+melted some of it in water, and gave it to him to drink.  When he
+was sitting there he was nothing but skeleton, but after she rubbed
+him, he was filled out all over.  Then he stood up, and his horns
+was off, and hair was where his horns had growed; and she dressed
+him with fine clothes.  He thanked her for doing this for him, and
+call her his dear wife,"&mdash;and that was another quick marriage!&mdash;"He
+come in to the camp where his Sister was waiting, and oh, they was
+proud to see one another!
+</p><p>"They made good home for to stay there; and they stay there
+till it was winter.  There was a little cove there, and one day
+they went to it for boughs for their camp; the Girl went, too, with
+her baby on her back.  This little cove was kind of narrow, but
+long and deep, with ice on it.  They went round it, but the Girl
+thought she would carry home boughs across it; her sister-in-law,
+the Whale-girl went across it, and she went after her.  First two
+steps she make on the ice, she went under,&mdash;and the Whale grabbed
+her.  Took her and her little boy, and stand her on his back, and
+her carrying her baby in her arms.  And away he went to his home."
+
+</p><p>"Is that the end?" asked a solemn grandchild.
+</p><p>The old lady laughed.  "Well, then," she said, "I went home
+myself.  I went with them just that far."  It was a delicate hint,
+for she turned as I rose.  "Next time you come I tell you about the
+Partridge and his Wife."
+</p>
+
+</div1>
+</body>
+</text>
+</TEI.2>
+
+

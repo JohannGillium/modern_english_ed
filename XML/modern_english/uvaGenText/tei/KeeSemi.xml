@@ -1,0 +1,1335 @@
+<?xml version="1.0"?>
+
+<?dlps id="KeeSemi"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOnum SYSTEM "http://text.lib.virginia.edu/charent/iso-num.ent"> %ISOnum;
+<!ENTITY % ISOlat1 SYSTEM "http://text.lib.virginia.edu/charent/iso-lat1.ent"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "http://text.lib.virginia.edu/charent/iso-lat2.ent"> %ISOlat2;
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+
+]>
+<TEI.2 id="KeeSemi">
+<teiHeader type="migrated" creator="Etext">
+<fileDesc>
+<titleStmt>
+<title type="main">Semimaru</title>
+<title type="sort">semimaru</title>
+<author>Keene translation: Matisoff, Susan</author>
+<respStmt>
+<resp>Creation of machine-readable version:</resp>
+<name>Charlotte Robertson and Winnie Chan</name>
+<resp>Creation of digital images:</resp>
+<name/>
+<resp>Conversion to TEI.2-conformant markup:</resp>
+<name>University of Virginia Library Electronic Text Center.</name>
+</respStmt>
+</titleStmt>
+<extent>ca. <num type="kilobytes">37</num> kilobytes</extent>
+<publicationStmt>
+<publisher>University of Virginia Library</publisher>
+<pubPlace>Charlottesville, Virginia</pubPlace>
+<idno type="ETC">KeeSemi</idno>
+<date value="1997">1997</date>
+<availability status="public">
+<p n="copyright">Copyright &copy; 1997 by the Rector and Visitors of the University of Virginia</p>
+<p n="access">Publicly accessible</p>
+</availability>
+<idno type="uva-pid">uva-lib:476135</idno>
+</publicationStmt>
+<seriesStmt>
+<title>University of Virginia Library, Text collection</title>
+<idno type="uva-set">UVA-LIB-Text</idno>
+</seriesStmt>
+<seriesStmt>
+<p>Japanese Text Initiative</p>
+</seriesStmt>
+<notesStmt>
+<note>
+<p>(ETC) The text has been given an id of KeeSemi because this
+edition is commonly referred to as the Keene translation.</p>
+</note>
+</notesStmt>
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title type="main">Semimaru</title>
+<title level="m">Twenty Plays of the N&omacr; Theatre</title>
+<title type="sort">semimaru</title>
+<author>Susan Matisoff</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Donald Keene</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<p>1st Edition</p>
+</editionStmt>
+<extent>pp. 15-34</extent>
+<publicationStmt>
+<publisher>Columbia University Press</publisher>
+<pubPlace>New York</pubPlace>
+<date value="1970">1970</date>
+<idno type="callNo">Print copy consulted: UVa Library call number PL 782 .E5K4</idno>
+</publicationStmt>
+<seriesStmt>
+<p>Records of Civilization: Sources and Studies, number LXXXV</p>
+</seriesStmt>
+<notesStmt>
+<note>
+<p>From <hi rend="italic">
+<hi rend="bold">Twenty Plays of the No Theatre</hi>
+</hi> edited
+by Donald Keene.  Copyright (c) 1970 Columbia University Press.
+Reprinted with permission of the publisher.  To order the
+paperback edition of this book please call 1-800-944-8648 or
+click on to the Web page:  http://www.cc.columbia.edu/cu/cup.</p>
+</note>
+</notesStmt>
+</biblFull>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+</projectDesc>
+<editorialDecl>
+<p>All quotation marks retained as data.</p>
+<p>All unambiguous end-of-line hyphens have been removed, and the trailing part of a word has been joined to the preceding line.</p>
+<p>Keywords in the header are a local Electronic Text Center scheme to aid in establishing analytical groupings.</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<langUsage>
+<language id="eng" usage="main">English</language>
+<language id="rj">Romaji</language>
+</langUsage>
+<textClass>
+<keywords>
+<term>drama; poetry; prose</term>
+<term>Literature in Translation</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change>
+<date value="1997-08">August 1997</date>
+<respStmt>
+<resp>corrector</resp>
+<name>Catherine Tousignant, Electronic Text Center</name>
+</respStmt>
+<item>Added milestones to correspond with ZeaSemi.</item>
+</change>
+<change>
+<date value="1997-02">February 1997</date>
+<respStmt>
+<resp>corrector</resp>
+<name>Winnie Chan</name>
+</respStmt>
+<item>Added TEI header and tags.</item>
+</change>
+<change>
+<date value="2005-07">July 2005</date>
+<respStmt>
+<resp>Corrector</resp>
+<name>John Ivor Carlson</name>
+</respStmt>
+<item>Converted to XML and/or checked tags.</item>
+</change>
+<change>
+<date value="2007-09">September 2007</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Ethan Gruber, University of Virginia Library</name>
+</respStmt>
+<item>Converted XML markup from TEI Lite to uva-dl-tei (TEI P4 with local customizations).</item>
+</change>
+<change>
+<date value="2008-01">January 2008</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Greg Murray, University of Virginia Library</name>
+</respStmt>
+<item>Programmatically updated TEI header markup (but not header content) for minimal compliance with current QA requirements.</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text id="d1">
+
+<front id="d2">
+
+<pb n="100"/>
+
+<div1 type="introduction" id="d3">
+<head>INTRODUCTION</head>
+
+<p>
+<hi rend="italic">Semimaru,</hi> a work of the fourth category, was
+written by Zeami.  The story of Semimaru, the blind <hi rend="italic">biwa</hi>
+player&mdash;the <hi rend="italic">biwa</hi>
+is a kind of lute&mdash;appears as early as the
+twelfth-century collection of tales, <hi rend="italic">Konjaku
+Monogatari</hi>, but apparently has no historical basis.  The <hi rend="italic">Konjaku
+Monogatari</hi> version relates that Semimaru lived
+near the barrier of &Omacr;saka, between Kyoto and Lake Biwa.  Once he had been
+in the service of a courtier, a famous <hi rend="italic">biwa</hi>
+master, and learned to play by listening to his master.  Minamoto Hakuga,
+the son of a prince, heard of Semimaru's skill and wished to bring him to
+the Capital.  Semimaru, however, refused.  So eager was he to hear
+Semimaru's <hi rend="italic">biwa</hi> that Hakuga journeyed to Mt.
+Osaka, a wild and distant place in those days, though today a half-hour
+journey from Kyoto.
+</p>
+
+<p>
+By the time of the writing of the <hi rend="italic">Heike Monogatari,
+</hi>a century later, Semimaru had become known as the fourth son of the
+Emperor Daigo (r. 897-930).  Like the Semimaru of the <hi rend="italic">Konjaku
+Monogatari</hi>, he lived by a barrier, but it was
+the one at Shinomiya Kawara.  A man named Hakuga no Sammi was so anxious
+to hear him play that he visited Semimaru's hut every day, rain or shine,
+for three years without fail.
+</p>
+
+
+<pb n="101"/>
+<p>
+Zeami borrowed from various versions of the legend of Semimaru as known in
+his day, but especially from the <hi rend="italic">Heike Monogatari</hi>.
+No previous version of the story, however, mentions Princess Sakagami, who
+was apparently Zeami's creation.  <hi rend="italic">Semimaru</hi> is one
+of the rare plays in which the <hi rend="italic">tsure</hi>
+(Semimaru) is nearly as important as the <hi rend="italic">shite</hi>
+(Sakagami); another such play is <hi rend="italic">Komachi of the Hundred Nights.</hi>
+</p>
+
+<p>
+<hi rend="italic">Semimaru</hi> is perhaps the most tragic play of the
+entire No repertory.  Unlike <hi rend="italic">The Sought-for Grave</hi>,
+in which Unai returns to earth to tell of her endless torments in hell,
+the tragedy of <hi rend="italic">Semimaru</hi> takes place in this world,
+and involves two human beings who are nearly as real and immediate to us
+as characters in Western drama.
+</p>
+
+<p>
+During the height of the fanatical nationalism of the 1930s and 1940s <hi rend="italic">Semimaru</hi>
+was banned from the stage for its alleged
+disrespect to the Imperial Family, but today it is performed by all
+schools of N&omacr;.
+</p>
+</div1>
+
+<div1 type="section" id="d4">
+<pb n="102"/>
+<list>
+<head>PERSONS</head>
+<item>Prince Semimaru <hi rend="italic">(tsure)</hi></item>
+<item>Kiyotsura, an imperial
+envoy <hi rend="italic">(waki)</hi></item>
+<item>Two Palanquin Bearers <hi rend="italic">(wakizure)</hi></item>
+<item>Hakuga No Sammi <hi rend="italic">(ky&omacr;gen)</hi></item>
+<item>Princess Sakagami, Semimaru's
+sister <hi rend="italic">(shite)</hi></item>
+</list>
+</div1>
+
+<div1 type="section" id="d5">
+<p>PLACE</p>
+<p>Mt. Osaka in &Omacr;mi Province</p>
+
+<p>TIME</p>
+<p>The Reign of Emperor Daigo; the eighth month</p>
+</div1>
+</front>
+
+
+
+<body id="d6">
+
+<div1 type="play" id="d7"><pb n="103"/>
+<head>SEMIMARU</head>
+<stage>
+The stage assistant places a representation of a hut at the waki-position.
+Semimaru enters, wearing the semimaru
+mask.  He is flanked by two Palanquin Bearers
+who hold a canopy over him.  Kiyotsura follows them.
+</stage>
+
+<milestone unit="speech" n="Semi1"/>
+<sp>
+<speaker>Kiyotsura</speaker>
+<lg type="poem">
+<l>The world is so unsure, unknowable;</l>
+<l>Who knows&mdash;our griefs may hold our greatest hopes.</l>
+<milestone unit="speech" n="Semi2"/>
+<l>This nobleman is the Prince Semimaru</l>
+<l>Fourth child of the Emperor Daigo.</l>
+</lg>
+</sp>
+
+<sp>
+<speaker>Kiyotsura and Attendants</speaker>
+<lg type="poem">
+<l>Truly in this uncertain world</l>
+<l>All that befalls us comes our way</l>
+<l>As recompense for what we've done before.</l>
+<l>In his previous existence</l>
+<l>He observed intently the laws of Buddha</l>
+<l>And in this life was born a prince,</l>
+<l>Yet why was it&mdash;ever since he lay,</l>
+<l>An infant wrapped in swaddling clothes</l>
+<l>His eyes have both been blind: For him</l>
+<l>The sun and moon in heaven have no light;</l>
+<l>In the black of night his lamp is dark;</l>
+<l>The rain before the dawn never ends.</l>
+</lg>
+</sp>
+
+<sp>
+<speaker>Kiyotsura</speaker>
+<lg type="poem">
+<l>His nights and days have been spent this way,</l>
+<l>But now what plan has the Emperor conceived?</l>
+<l>He ordered us to escort the Prince in secret,</l>
+<l>To abandon him on Mount &Omacr;saka</l>
+<l>And to shave his head in priestly tonsure.</l>
+<l>The Emperor's words, once spoken</l>
+<l>Are final&mdash;what immense pity I feel!</l>
+<l>Yet, such being the command, I am powerless;</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Semi3"/>
+<sp>
+<speaker>Kiyotsura and Attendants</speaker>
+<lg type="poem">
+<l>Like lame-wheeled carriages</l>
+<l>We creep forth reluctantly</l>
+<l>On the journey from the Capital;</l>
+<l>How hard it is to say farewell</l>
+
+
+<pb n="104"/>
+<milestone unit="speech" n="Semi4"/>
+<l>As dawn clouds streak the east!</l>
+<l>Today lie first departs the Capital</l>
+<l>When again to return?  His chances are as fragile</l>
+<l>As unraveled threads too thin to intertwine.</l>
+<l>Friendless, his destination is unknown.</l>
+<l>Even without an affliction</l>
+<l>Good fortune is elusive in this world,</l>
+<l>Like the floating log the turtle gropes for</l>
+<l>Once a century: The path is in darkness</l>
+<l>And he, a blind turtle, must follow it.
+<ref target="n104.1">[1]</ref></l>
+<l>Now as the clouds of delusion rise</l>
+<l>We have reached Mount Osaka</l>
+<l>We have reached Mount Osaka.</l>
+</lg>
+</sp>
+
+<stage>
+Semimaru sits on a stool before the Chorus.  Kiyotsura kneels at the
+shite-pillar.  The Bearers exit through the
+slit door.
+</stage>
+
+<milestone unit="speech" n="Semi5"/>
+<sp>
+<speaker>Semimaru</speaker>
+<p>
+Kiyotsura!
+</p>
+</sp>
+
+<milestone unit="speech" n="Semi6"/>
+<sp>
+<speaker>Kiyotsura</speaker>
+<p>
+I am before you.
+</p>
+</sp>
+
+<stage>
+From his kneeling position, he bows deeply.
+</stage>
+
+<milestone unit="speech" n="Semi7"/>
+<sp>
+<speaker>Semimaru</speaker>
+<p>
+Are you to leave me on this mountain?
+</p>
+</sp>
+
+<milestone unit="speech" n="Semi8"/>
+<sp>
+<speaker>Kiyotsura</speaker>
+<p>
+Yes, your highness.  So the Emperor has commanded, and I have brought you
+this far.  But I wonder just where I should leave you.
+</p>
+
+<lg type="poem">
+<l>Since the days of the ancient sage kings</l>
+<l>Our Emperors have ruled the country wisely,</l>
+<l>Looking after its people with compassion&mdash;</l>
+<l>But what can his Majesty have had in mind?</l>
+<l>Nothing could have caught me so unprepared.</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Semi9"/>
+<sp>
+<speaker>Semimaru</speaker>
+<p>
+What a foolish thing to say, Kiyotsura.  I was born blind because I was
+lax in my religious duties in a former life.
+</p>
+
+<lg type="poem">
+<l>That is why the Emperor, my father,</l>
+<l>Ordered you to leave me in the wilderness,</l>
+<l>Heartless this would seem, but it's his plan</l>
+<l>To purge in this world my burden from the past,</l>
+<l>And spare me suffering in the world to come.</l>
+<l>This is a father's true kindness.</l>
+<l>You should not bewail his decree.</l>
+</lg>
+</sp>
+
+
+<pb n="105"/>
+<milestone unit="speech" n="Semi10"/>
+<sp>
+<speaker>Kiyotsura</speaker>
+<lg type="poem">
+<l>Now I shall shave your head.</l>
+<l>His Majesty has so commanded.</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Semi11"/>
+<sp>
+<speaker>Semimaru</speaker>
+<p>
+What does this act signify?
+</p>
+</sp>
+
+<milestone unit="speech" n="Semi12"/>
+<sp>
+<speaker>Kiyotsura</speaker>
+<lg type="poem">
+<l>It means you have become a priest,</l>
+<l>A most joyous event.</l>
+</lg>
+</sp>
+
+<stage>
+Semimaru rises, The stage assistant removes his nobleman's outer robe and
+places a priest's hat on his head.
+</stage>
+
+<milestone unit="speech" n="Semi13"/>
+<sp>
+<speaker>Semimaru</speaker>
+<p>
+Surely Seishi's poem described such a scene:
+</p>
+<lg type="poem">
+<l>"I have cut my fragrant scented hair</l>
+<l>My head is pillowed half on sandalwood,"
+<ref target="n105.2">[2]</ref></l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Semi14"/>
+<sp>
+<speaker>Kiyotsura</speaker>
+<lg type="poem">
+<l>Such splendid clothes will summon thieves, I fear.</l>
+<l>Allow me to take your robe and give you instead</l>
+<l>This cloak of straw they call a <hi rend="italic">mino</hi>.</l>
+</lg>
+</sp>
+
+<stage>
+Semimaru mimes receiving the mino.
+</stage>
+
+<milestone unit="speech" n="Semi15"/>
+<sp>
+<speaker>Semimaru</speaker>
+<lg type="poem">
+<l>Is this the <hi rend="italic">mino</hi> mentioned in the
+lines.</l>
+<l>"I went to Tamino Island when it rained"?
+<ref target="n105.3">[3]</ref></l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Semi16"/>
+<sp>
+<speaker>Kiyotsura</speaker>
+<lg type="poem">
+<l>And I give you this <hi rend="italic">kasa</hi> rainhat</l>
+<l>To protect you also from the rain and dew.</l>
+</lg>
+</sp>
+
+<stage>
+He takes a kasa from the stage assistant and
+hands it to Semimaru.
+</stage>
+
+<milestone unit="speech" n="Semi17"/>
+<sp>
+<speaker>Semimaru</speaker>
+<lg type="poem">
+<l>Then this must be the <hi rend="italic">kasa</hi> of the poem</l>
+<l>"Samurai&mdash;take a <hi rend="italic">kasa</hi> for your lord."
+<ref target="n105.4">[4]</ref></l>
+</lg>
+</sp>
+
+<stage>
+Semimaru puts down the kasa.
+</stage>
+
+<milestone unit="speech" n="Semi18"/>
+<sp>
+<speaker>Kiyotsura</speaker>
+<lg type="poem">
+<l>And this staff will guide you on your way.</l>
+<l>Please take it in your hands.</l>
+</lg>
+</sp>
+
+<stage>
+He takes a staff from the stage assistant and hands it to Semimaru.
+</stage>
+
+<milestone unit="speech" n="Semi19"/>
+<sp>
+<speaker>Semimaru</speaker>
+<lg type="poem">
+<l>Is this the staff about which Henj&omacr; wrote:</l>
+<l>"Since my staff was fashioned by the gods</l>
+<l>I can cross the mountain of a thousand years"?
+<ref target="n105.5">[5]</ref></l>
+</lg>
+</sp>
+
+<stage>
+Kiyotsura kneels at the shite-pillar.
+</stage>
+
+<milestone unit="speech" n="Semi20"/>
+<sp>
+<speaker>Kiyotsura</speaker>
+<lg type="poem">
+<l>His staff brought a thousand prosperous years,
+<ref target="n105.6">[6]</ref></l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Semi21"/>
+<sp>
+<speaker>Semimaru</speaker>
+<lg type="poem">
+<l>But here the place is Mount &Omacr;saka,</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Semi22"/>
+<sp>
+<speaker>Kiyotsura</speaker>
+<lg type="poem">
+<l>A straw-thatched hut by the barrier;</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Semi23"/>
+<sp>
+<speaker>Semimaru</speaker>
+<lg type="poem">
+<l>Bamboo pillars and staff, my sole support.</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Semi24"/>
+<sp>
+<speaker>Kiyotsura</speaker>
+<lg type="poem">
+<l>By your father, the Emperor,</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Semi25"/>
+<sp>
+<speaker>Semimaru</speaker>
+<lg type="poem">
+<l>Abandoned,</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Semi26"/>
+<sp>
+<speaker>Chorus</speaker>
+<lg type="poem">
+<l>I meet my unsure fate at Mount &Omacr;saka.</l>
+<l>You who know me, you who know me not
+<ref target="n105.7">[7]</ref></l>
+
+
+<pb n="106"/>
+<l>Behold&mdash;this is how a prince, Daigo's son,</l>
+<l>Has reached the last extremity of grief.</l>
+</lg>
+
+<stage>
+He lowers his head to give a sad expression to his mask.
+</stage>
+
+<lg type="poem">
+<l>Travelers and men on horses</l>
+<l>Riding to and from the Capital,</l>
+<l>Many people, dressed for their journeys,</l>
+<l>Will drench their sleeves in sudden showers</l>
+<l>How hard it is to abandon him,</l>
+<l>To leave him all alone&mdash;</l>
+<l>How hard it is to abandon him,</l>
+<l>To tear ourselves away.</l>
+</lg>
+
+<stage>
+Kiyotsura bows to Semimaru.
+</stage>
+
+<lg type="poem">
+<l>But even farewells must have an end;</l>
+<l>By the light of the daybreak moon</l>
+<l>Stifling tears that have no end, they depart.</l>
+</lg>
+
+<stage>
+Weeping, Kiyotsura goes to the bridgeway.
+</stage>
+
+<lg type="poem">
+<l>Semimaru, the Prince, left behind alone,</l>
+<l>Takes in his arms his lute, his one possession,</l>
+<l>Clutches his staff and falls down weeping.</l>
+</lg>
+</sp>
+
+<stage>
+Semimaru picks up the staff and <hi rend="italic">kasa</hi>, comes
+forward, and turns toward the departing Kiyotsura.  Kiyotsura stops at the
+second pine and looks back at him, then exits.  Semimaru retreats, kneels,
+drops his <hi rend="italic">kasa</hi> and staff, and weeps.  Hakuga
+no Sammi enters and stands at the naming-place.
+</stage>
+
+<sp>
+<speaker>Hakuga</speaker>
+<p>
+I am Hakuga no Sammi.
+<ref target="n106.8">[8]</ref>
+I have learned that Prince Semimaru has been abandoned on Mount &Omacr;saka and
+it pains me so much to think of him at the mercy of the rain and dew that
+I have decided to build a straw hut where he may live.
+<stage>
+He opens the door, of the hut, then goes to Semimaru at the <hi rend="italic">shite</hi>-pillar.
+</stage>
+The hut is ready at last, I shall inform him of this.
+<stage>
+He bows to Semimaru.
+</stage>
+Pardon me, sir; Hakuga is before you.  If you stay here in this way, you
+will be soaked by the rain.  I have built you a straw hut and I hope you
+will live in it.  Please, come with me.
+<stage>
+He takes Semimaru's hand and leads him inside the hut, then steps back and
+bows.
+</stage>
+If ever you need anything, you have only to summon me, Hakuga no Sammi.  I
+shall always be ready to serve you.  I take my leave of you for now.
+</p>
+</sp>
+
+<stage>
+He closes the door of the hut, then exits.  Sakagami enters
+
+
+<pb n="107"/>
+wearing the <hi rend="italic">z&omacr;</hi> mask.  Her robe is folded back
+from her right shoulder indicating that she is deranged.  She stops at the
+first pine.
+</stage>
+
+<milestone unit="speech" n="Semi27"/>
+<sp>
+<speaker>Sakagami</speaker>
+<lg type="poem">
+<l>I am the third child of the Emperor Daigo,</l>
+<l>The one called Sakagami, Unruly Hair.</l>
+<l>Though born a princess, some deed of evil</l>
+<l>From my unknown past in former lives</l>
+<l>Causes my mind at times to act deranged.</l>
+<l>And in my madness I wander distant ways.</l>
+<l>My blueblack hair grows skywards;</l>
+<l>Though I stroke it, it will not lie flat.</l>
+</lg>
+
+<stage>
+She smooths down her hair
+</stage>
+
+<lg type="poem">
+<l>Those children over there-what are they laughing at?</l>
+</lg>
+
+<stage>
+She looks to the right as if watching passersby.
+</stage>
+
+<lg type="poem">
+<l>What?  You find it funny that my hair stands on end?  Yes,</l>
+<l>I suppose hair that grows upside down is funny.</l>
+<l>My hair is disordered, but much less than you&mdash;</l>
+<l>Imagine, commoners laughing at me!</l>
+</lg>
+
+<p>
+How extraordinary it is that so much before our eyes is upside down.
+Flower seeds buried in the ground rise up to grace the branches of a
+thousand trees.  The moon hangs high in the heavens, but its light sinks
+to the bottom of countless waters.
+</p>
+
+<stage>
+She looks up and down.
+</stage>
+
+<lg type="poem">
+<l>I wonder which of all these should be said to go in the</l>
+<l>proper direction and which is upside down?</l>
+<l>I am a princess, yet I have fallen,</l>
+<l>And mingle with the ruck of common men;</l>
+</lg>
+
+<stage>
+She proceeds to the stage while chanting.
+</stage>
+
+<lg type="poem">
+<l>My hair, rising upward from my body,</l>
+<l>Turns white with the touch of stars and frost:</l>
+<l>The natural order or upside down?</l>
+<l>How amazing that both should be within me!</l>
+</lg>
+<stage>
+She enters the stage.
+</stage>
+
+<lg type="poem">
+<l>The wind combs even the willows' hair</l>
+<milestone unit="speech" n="Semi28"/>
+<l>But neither can the wind untangle,</l>
+<milestone unit="speech" n="Semi29"/>
+<l>Nor my hand separate this hair.</l>
+</lg>
+
+<stage>
+She takes hold of her hair and looks at it.
+</stage>
+
+<lg type="poem">
+<l>Shall I rip it from my head?  Throw it away?</l>
+
+
+<pb n="108"/>
+<milestone unit="speech" n="Semi30"/>
+<l>I lift my sleeved hands&mdash;what is this?</l>
+<milestone unit="speech" n="Semi31"/>
+<l>The hair-tearing dance?
+<ref target="n108.9">[9]</ref> How demeaning!</l>
+</lg>
+</sp>
+
+<stage>
+She begins to dance, in a deranged manner.
+</stage>
+
+<milestone unit="speech" n="Semi32"/>
+<sp>
+<speaker>Chorus</speaker>
+<lg type="poem">
+<l>As I set forth from the flowery Capital</l>
+<l>From the flowery Capital,</l>
+<l>At Kamo River what were those mournful cries?
+<ref target="n108.10">[10]</ref></l>
+<l>The river ducks?  Not knowing where I went</l>
+<l>I crossed the river Shirakawa</l>
+<l>And when I reached Awataguchi, I wondered,</l>
+<l>"Whom shall I meet now at Matsuzaka?"
+<ref target="n108.11">[11]</ref></l>
+<l>I thought I had yet to pass the barrier</l>
+<l>But soon Mount Otowa fell behind me</l>
+<l>How sad it was to leave the Capital!</l>
+<l>Pine crickets, bell crickets, grasshoppers,</l>
+<l>How they cried in the dusk at Yamashina!</l>
+<l>I begged the villagers, "Don't scold me, too!"</l>
+<l>I may be mad, but you should know</l>
+<l>My heart is a pure rushing stream:</l>
+<milestone unit="speech" n="Semi33"/>
+<l>"When in the clear water</l>
+<l>At &Omacr;saka Barrier</l>
+<l>It sees its reflection</l>
+<milestone unit="speech" n="Semi34"/>
+<l>The tribute horse from Mochizuki</l>
+<l>Will surely shy away."
+<ref target="n108.12">[12]</ref></l>
+<l>Have my wanderings brought me to the same place?</l>
+<l>In the running stream I see my reflection.</l>
+<l>Though my own face, it horrifies me:</l>
+<l>Hair like tangled briers crowns my head</l>
+<l>Eyebrows blackly twist&mdash;yes, that is really</l>
+<l>Sakagami's reflection in the water.</l>
+<l>Water, they say, is a mirror,</l>
+<l>But twilight ripples distort my face.</l>
+</lg>
+</sp>
+
+<stage>
+Sakagami sits at the stage assistant's position, indicating she has
+arrived at Mount &Omacr;saka.  Semimaru, inside the hut,opens his fan and holds
+it in his left hand as if playing his lute.
+</stage>
+
+<milestone unit="speech" n="Semi35"/>
+<sp>
+<speaker>Semimaru</speaker>
+<lg type="poem">
+<l>The first string and the second wildly sound
+<ref target="n108.13">[13]</ref></l>
+<l>The autumn wind brushes the pines and falls</l>
+<l>With broken notes; the third string and the fourth</l>
+<l>The fourth is myself, Semimaru,</l>
+<l>And four are the strings of the lute I play</l>
+
+
+<pb n="109"/>
+<l>As sudden strings of rain drive down on me </l>
+<l>How dreadful is this night!</l>
+<l>"All things in life</l>
+<l>In the end are alike;</l>
+<l>Whether in a palace or a hovel</l>
+<l>We cannot live forever."
+<ref target="n109.14">[14]</ref></l>
+</lg>
+</sp>
+
+<stage>
+While Semimaru is speaking Sakagami comes before the <hi rend="italic">shite</hi>-pillar.
+Semimaru inclines his head toward her as she speaks.
+</stage>
+
+<milestone unit="speech" n="Semi36"/>
+<sp>
+<speaker>Sakagami</speaker>
+<lg type="poem">
+<l>How strange&mdash;I hear music from this straw-thatched hut,</l>
+<l>The sounds of a <hi rend="italic">biwa</hi>, elegantly
+plucked&mdash;</l>
+<l>To think a hovel holds such melodies!</l>
+<l>But why should the notes evoke this sharp nostalgia?</l>
+<l>With steps silent, as the rain beating on the thatch</l>
+<l>She stealthily approaches, stops and listens.</l>
+</lg>
+</sp>
+
+<stage>
+She silently comes to stage center.  Semimaru folds his fan.
+</stage>
+
+<milestone unit="speech" n="Semi37"/>
+<sp>
+<speaker>Semimaru</speaker>
+<lg type="poem">
+<l>Who is there?  Who's making that noise outside my hut?</l>
+<l>Hakuga no Sammi, lately you've been coming</l>
+<l>From time to time to visit me&mdash;is that you?</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Semi38"/>
+<sp>
+<speaker>Sakagami</speaker>
+<lg type="poem">
+<l>As I approach and listen carefully&mdash;that's the voice of my
+brother, the Prince!</l>
+<l>It's Sakagami! I'm here!</l>
+<l>Semimaru, is that you inside?</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Semi39"/>
+<sp>
+<speaker>Semimaru</speaker>
+<lg type="poem">
+<l>Can it be my sister, the Princess?</l>
+<l>Amazed, he opens the door of his hut.</l>
+</lg>
+</sp>
+
+<stage>
+Taking his staff he rises and opens the door.
+</stage>
+
+<milestone unit="speech" n="Semi40"/>
+<sp>
+<speaker>Sakagami</speaker>
+<p>
+Oh&mdash;how wretched you look!
+</p>
+</sp>
+
+<stage>
+She comes up to Semimaru as he emerges from the hut.
+</stage>
+
+<milestone unit="speech" n="Semi41"/>
+<sp>
+<speaker>Semimaru</speaker>
+<lg type="poem">
+<l>They take each other hand in hand</l>
+</lg>
+</sp>
+
+<stage>
+They place their hands on each other's shoulders and kneel.
+</stage>
+
+<milestone unit="speech" n="Semi42"/>
+<sp>
+<speaker>Sakagami</speaker>
+<lg type="poem">
+<l>My royal brother,</l>
+<l>is that indeed you?</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Semi43"/>
+<sp>
+<speaker>Semimaru</speaker>
+<lg type="poem">
+<l>My royal sister,</l>
+<l>is that indeed you?</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Semi44"/>
+<sp>
+<speaker>Chorus</speaker>
+<lg type="poem">
+<l>They speak each other's names as in one voice.</l>
+<l>Birds are also crying, here at &Omacr;saka,</l>
+<l>Barrier of meeting&mdash;but no barrier</l>
+
+
+<pb n="110"/>
+<l>Holds back the tears that soak each other's sleeves.</l>
+</lg>
+</sp>
+
+<stage>
+Both weep.  During the following passage Sakagami returns to the middle of
+the stage and kneels.
+</stage>
+
+<milestone unit="speech" n="Semi45"/>
+<sp>
+<speaker>Chorus</speaker>
+<lg type="poem">
+<l>They say that sandalwood reveals its fragrance</l>
+<l>From the first two leaves
+<ref target="n110.15">[15]</ref>mdash;but how much closer still</l>
+<l>Are we who sheltered beneath a single tree!
+<ref target="n110.16">[16]</ref></l>
+<l>The wind rising in the orange blossoms
+<ref target="n110.17">[17]</ref></l>
+<l>Awakens memories we shall preserve</l>
+<l>We who flowered once on linking branches!</l>
+<milestone unit="speech" n="Semi46"/>
+<l>The love between brothers is told abroad:</l>
+<l>J&omacr;z&omacr; and J&omacr;gen, S&omacr;ri and Sokuri;
+<ref target="n110.18">[18]</ref></l>
+<l>And nearer at hand, in Japan</l>
+<l>The children of Emperor &Omacr;jin,</l>
+<milestone unit="speech" n="Semi47"/>
+<l>The princes Naniwa and Uji,
+<ref target="n110.19">[19]</ref></l>
+<l>Who yielded the throne, each to the other:</l>
+<l>All these were brothers and sisters</l>
+<l>Bound in love, like us, like linking branches.</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Semi48"/>
+<sp>
+<speaker>Sakagami</speaker>
+<lg type="poem">
+<l>But did I imagine my brother</l>
+<l>Would ever live in such a hovel?</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Semi49"/>
+<sp>
+<speaker>Chorus</speaker>
+<lg type="poem">
+<l>Had no music come from that straw-thatched hut</l>
+<l>How should I have known?  But I was drawn</l>
+<l>By the music of those four strings,</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Semi50"/>
+<sp>
+<speaker>Sakagami</speaker>
+<lg type="poem">
+<l>Drawn like the water offered to the gods</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Semi51"/>
+<sp>
+<speaker>Chorus</speaker>
+<lg type="poem">
+<l>From deep wells of love and far-reaching ties.</l>
+<milestone unit="speech" n="Semi52"/>
+<l>The world may have reached its final phase
+<ref target="n110.20">[2O]</ref></l>
+<l>But the sun and moon have not dropped to the ground.</l>
+<l>Things are still in their accustomed place, I thought,</l>
+<l>But how can it be, then, that you and I</l>
+<l>Should cast away our royalty and live like this,</l>
+<l>Unable even to mingle with common men?</l>
+<l>A mad woman, I have come wandering now</l>
+<l>Far from the Capital girdled by clouds,</l>
+<l>To these rustic scenes, a wretched beggar,</l>
+<l>By the roads and forests, my only hope</l>
+<l>The charity of rustics and travelers.</l>
+<l>To think it was only yesterday you lived</l>
+<l>In jeweled pavilions and golden halls;</l>
+<l>You walked on polished floors and wore bright robes.</l>
+<l>In less time than it takes to wave your sleeve,</l>
+
+
+<pb n="111"/>
+<l>Today a hovel is your sleeping-place.</l>
+<l>Bamboo posts and bamboo fence, crudely fashioned</l>
+<l>Eaves and door: straw your window, straw the roof,</l>
+<l>And over your bed, the quilts are mats of straw:</l>
+<l>Pretend they are your silken sheets of old.</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Semi53"/>
+<sp>
+<speaker>Semimaru</speaker>
+<lg type="poem">
+<l>My only visitors&mdash;how rarely they come&mdash;</l>
+<milestone unit="speech" n="Semi54"/>
+<l>Are monkeys on the peak, swinging in the trees;</l>
+<l>Their doleful cries soak my sleeve with tears.</l>
+<l>I tune my lute to the sound of the showers,</l>
+<l>I play for solace, but tears obscure the sounds.</l>
+<l>Even rain on the straw roof makes no noise.</l>
+<l>Through breaks in the eaves moonlight seeps in.</l>
+<l>But in my blindness, the moon and I are strangers.</l>
+<l>In this hut I cannot even hear the rain&mdash;</l>
+<l>How painful to contemplate life in this hut!</l>
+</lg>
+</sp>
+
+<stage>
+Both weep.
+</stage>
+
+<milestone unit="speech" n="Semi55"/>
+<sp>
+<speaker>Sakagami</speaker>
+<lg type="poem">
+<l>Now I must go; however long I stayed</l>
+<l>The pain of parting never would diminish.</l>
+<l>Farewell, Semimaru.</l>
+</lg>
+</sp>
+
+<stage>
+Both rise.
+</stage>
+
+<milestone unit="speech" n="Semi56"/>
+<sp>
+<speaker>Semimaru</speaker>
+<lg type="poem">
+<l>If sheltering under a single tree</l>
+<l>Were our only tie, parting would still be sad;</l>
+<l>How much sadder to let my sister go!</l>
+<l>Imagine what it means to be alone!</l>
+</lg>
+</sp>
+
+<stage>
+Sakagami moves toward the <hi rend="italic">shite</hi>-pillar.
+</stage>
+
+<milestone unit="speech" n="Semi57"/>
+<sp>
+<speaker>Sakagami</speaker>
+<lg type="poem">
+<l>Truly I pity you; even the pain</l>
+<l>Of wandering may provide distraction,</l>
+<l>But remaining here&mdash;how lonely it will be!</l>
+<l>Even as I speak the evening clouds have risen,</l>
+<l>I rise and hesitate; I stand in tears.</l>
+</lg>
+</sp>
+
+<stage>
+She weeps.
+</stage>
+
+<milestone unit="speech" n="Semi58"/>
+<sp>
+<speaker>Semimaru</speaker>
+<lg type="poem">
+<l>The evening crows call on the barrier road,</l>
+<l>Their hearts unsettled</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Semi59"/>
+<sp>
+<speaker>Sakagami</speaker>
+<lg type="poem">
+<l>As my raven hair,</l>
+<l>My longing unabated, I must go.</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Semi60"/>
+<sp>
+<speaker>Semimaru</speaker>
+<lg type="poem">
+<l>Barrier of Meeting, don't let her leave!</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Semi61"/>
+<sp>
+<speaker>Sakagami</speaker>
+<lg type="poem">
+<l>As I pass by the grove of cedars</l>
+</lg>
+</sp>
+
+<stage>She goes to the first pine.
+</stage>
+
+<milestone unit="speech" n="Semi62"/>
+<sp>
+<speaker>Semimaru</speaker>
+<lg type="poem">
+<l>Her voice grows distant. . .</l>
+</lg>
+</sp>
+
+
+<pb n="112"/>
+<milestone unit="speech" n="Semi63"/>
+<sp>
+<speaker>Sakagami</speaker>
+<lg type="poem">
+<l>By the eaves of the straw hut. . .</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Semi64"/>
+<sp>
+<speaker>Semimaru</speaker>
+<lg type="poem">
+<l>I stand hesitant.</l>
+</lg>
+</sp>
+
+<sp>
+<speaker>Chorus</speaker>
+<lg type="poem">
+<l>"Farewell," she calls to him, and he responds,</l>
+<l>"Please visit me as often as you can."</l>
+</lg>
+
+<stage>
+Sakagami goes to the third pine and turns back to look at Semimaru.
+</stage>
+
+<lg type="poem">
+<l>Her voice grows faint but still he listens,</l>
+</lg>
+
+<stage>
+Sakagami starts to exit.  Semimaru takes a few steps forward, stops and
+listens.  His blind eyes gaze in her direction.
+</stage>
+
+<lg type="poem">
+<l>She turns a final time to look at him.</l>
+<l>Weeping, weeping they have parted,</l>
+<l>Weeping, weeping they have parted.</l>
+</lg>
+</sp>
+
+<stage>
+Sakagami exits, weeping.  Semimaru also weeps.
+</stage>
+</div1>
+</body>
+
+
+
+<back id="d8">
+
+<div1 type="notes" id="d9">
+<head>Notes</head><pb n="113"/>
+
+<note id="n104.1"><seg type="note-symbol">1.</seg> <p> In certain Buddhist texts the rarity of meeting a Buddha is compared to
+the difficulty of a blind sea-turtle's chances of bumping into a log to
+float on.  The turtle emerges to the surface only once a century and tries
+to clutch the log, but it has a hole and eludes his grasp; this was a
+simile for the difficulty of obtaining good fortune.
+</p></note>
+
+<note id="n105.2"><seg type="note-symbol">2.</seg> <p> The poem referred to is by Li Ho and is actually a description of
+Hsi-shih (Seishi) rather than a poem by her.  The meaning of the original
+verses was that Seishi's fragrant locks rivaled the perfume of cloves or
+sandalwood; however, the dramatist here misunderstood the Chinese and
+interpreted it as meaning she had cut her locks and now would have to rest
+her head on a hard pillow of sandalwood. (See commentary by Tanaka Makoto
+in <hi rend="italic">Y&omacr;kyoku Sh&umacr;</hi>, 111, 205 [Nihon Koten Zensho
+series].)
+</p></note>
+
+<note id="n105.3"><seg type="note-symbol">3.</seg> <p> From the poem by Ki no Tsurayuki, no. 918 in the <hi rend="italic">Kokinsh&umacr;</hi>.
+</p></note>
+
+<note id="n105.4"><seg type="note-symbol">4.</seg> <p> From the anonymous poem, no. 1091 in the <hi rend="italic">Kokinsh&umacr;</hi>.
+</p></note>
+
+<note id="n105.5"><seg type="note-symbol">5.</seg> <p>From the poem by the priest Henjo, no. 348 in the <hi rend="italic">Kokinsh&umacr;</hi>.
+</p></note>
+
+<note id="n105.6"><seg type="note-symbol">6.</seg> <p>There is a pivot-word embedded here: <hi rend="italic">chitose no
+saka</hi>, the slope of a thousand years; and <hi rend="italic">saka
+yuku tsue</hi>, the staff that brings steady prosperity.
+</p></note>
+
+<note id="n105.7"><seg type="note-symbol">7.</seg> <p> An allusion to the poem, attributed to Semimaru himself, no. 1091 in
+the <hi rend="italic">Gosensh&umacr;</hi>.  The poem, about the Barrier
+of &Omacr;saka, originally had a meaning something like: "This is the Barrier
+where people come and go exchanging farewells; for friends and strangers
+alike this is Meeting Barrier."
+</p></note>
+
+<note id="n106.8"><seg type="note-symbol">8.</seg> <p> Hakuga no Sammi was in fact the grandson of the Emperor Daigo; and
+lived from 919 to 980; but here he is demoted to the position of a rustic,
+in inverse proportion to Semimaru's rise in position from being a menial
+to being Daigo's son.
+</p></note>
+
+<note id="n108.9"><seg type="note-symbol">9.</seg> <p>The bat&omacr; dance is described thus in <hi rend="italic">The Pillow Book
+of Sei Sh&omacr;nagon</hi> (translation by Ivan Morris): "In the Dance of the
+Pulled Head the dancer's hair is in disorder and he has a fierce look in
+his eyes; but the music is delightful."
+</p></note>
+
+<note id="n108.10"><seg type="note-symbol">10. </seg> <p>The name of the river, <hi rend="italic">kamo</hi>, meant a species of duck.
+</p></note>
+
+<note id="n108.11"><seg type="note-symbol">11.</seg> <p> The name Matsuzaka contains the familiar pivot-word <hi rend="italic">matsu</hi>,
+to wait.
+</p></note>
+
+<note id="n108.12"><seg type="note-symbol">12.</seg> <p> A poem by Ki no Tsurayuki, no. 118 in the <hi rend="italic">Sh&umacr;ish&umacr;</hi>.
+The horse referred to was presented as
+tribute to the moon in a special ceremony
+
+
+<pb n="114"/>
+held at the height of autumn on the night of the full moon. The headnote
+in <hi rend="italic">Shuish&umacr;</hi> attributes this practice to the
+reign of the Emperor Daigo.
+</p></note>
+
+<note id="n108.13"><seg type="note-symbol">13.</seg> <p>An allusion to the poem by Po Ch&uuml;-i, no. 463 in the <hi rend="italic">Wakan
+R&omacr;ei Sh&umacr;</hi>
+</p></note>
+
+<note id="n109.14"><seg type="note-symbol">14.</seg> <p> From the poem attributed to Semimaru, no. 1851 in the <hi rend="italic">Shinkokinsh&umacr;</hi>
+</p></note>
+
+<note id="n110.15"><seg type="note-symbol">15.</seg> <p> An expression used proverbially to indicate that genius can be
+recognized even in early youth.  Here used to mean that a noble person
+reveals his character spontaneously.
+</p></note>
+
+<note id="n110.16"><seg type="note-symbol">16.</seg> <p>Taking shelter beneath the same tree was an illustration of the
+concept that even casual contact in a previous existence might bring a
+karmic connection between people in their next incarnation.  Because of
+some connection in a previous life Semimaru and Sakagami were born in this
+life as brother and sister.
+</p></note>
+
+<note id="n110.17"><seg type="note-symbol">17.</seg> <p> The fragrance of orange (<hi rend="italic">tachibana</hi>)
+blossoms was believed to summon up remembrance of people one once knew;
+here the memories are those shared by brother and sister.
+</p></note>
+
+<note id="n110.18"><seg type="note-symbol">18.</seg> <p> J&omacr;z&omacr; and J&omacr;gen were siblings mentioned in the
+<hi rend="italic">Lotus Sutra</hi>.  S&omacr;ri and Sokuri were the son and
+daughter of a Brahman king of southern India.  They were abandoned by their
+stepmother.  After their death, their father found and recognized their skeletons
+on the island where they had been abandoned.  The story is mentioned in the <hi rend="italic">Taiheiki</hi> and the
+Gempei <hi rend="italic">Seisuiki</hi>.
+</p></note>
+
+<note id="n110.19"><seg type="note-symbol">19.</seg> <p> Sons of the Emperor &Omacr;jin.  The younger, Prince Uji, had been
+designated by &Omacr;jin as his heir, but declined, saying the office belonged
+by rights to his elder brother.  Prince Uji died first, and the empire
+went to Prince Naniwa, known posthumously as Emperor Nintoku.
+</p></note>
+
+<note id="n110.20"><seg type="note-symbol">20.</seg> <p> A familiar concept.  Believers in the medieval Pure Land Buddhism were
+convinced that the world had reached the period of the end of the Buddhist
+Law (<hi rend="italic">mapp&omacr;</hi>).  According to one method of
+calculation, this period began about 1000 A.D., and was to continue for
+another thousand years.
+</p></note>
+
+</div1>
+
+</back>
+</text>
+</TEI.2>
+

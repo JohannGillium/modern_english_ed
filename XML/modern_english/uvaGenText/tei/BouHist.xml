@@ -1,0 +1,555 @@
+<?xml version="1.0"?>
+
+<?dlps id="BouHist"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOnum SYSTEM "http://text.lib.virginia.edu/charent/iso-num.ent"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+
+]>
+
+
+<TEI.2 id="BouHist">
+<teiHeader type="migrated" creator="Etext">
+<fileDesc>
+<titleStmt>
+<title type="main">"The Negro's Place in History"</title>
+<title type="sort">the negros place in history</title>
+<author>Boughton, Willis, 1854-1942</author>
+<respStmt>
+<resp>Creation of machine-readable version:</resp>
+<name>Judy Boss</name>
+<resp>Conversion to TEI.2-conformant markup:</resp>
+<name>Jennifer Hanna University of Virginia Library Electronic Text Center</name>
+</respStmt>
+</titleStmt>
+<extent>ca. <num type="kilobytes">27</num> kilobytes</extent>
+<publicationStmt>
+<publisher>University of Virginia Library</publisher>
+<pubPlace>Charlottesville, Virginia</pubPlace>
+<idno type="ETC">BouHist</idno>
+<date value="1995">1995</date>
+<availability status="public">
+<p n="copyright">Copyright &copy; 1995 by the Rector and Visitors of the University of Virginia</p>
+<p n="access">Publicly accessible</p>
+</availability>
+<idno type="uva-pid">uva-lib:475745</idno>
+</publicationStmt>
+<seriesStmt>
+<title>University of Virginia Library, Text collection</title>
+<idno type="uva-set">UVA-LIB-Text</idno>
+</seriesStmt>
+<notesStmt>
+<note>
+<p>This article first appeared in <hi rend="italic">The Arena</hi> 16 (Sept. 1896): 612&mdash;621.</p>
+</note>
+<note>
+<p>Copy consulted: UVa. Library call number: AP 2 .A6</p>
+</note>
+</notesStmt>
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title type="main">"The Negro's Place in History"</title>
+<title level="j">The Arena</title>
+<title type="sort">the negros place in history</title>
+<author>by Prof. Willis Boughton of Ohio State University</author>
+</titleStmt>
+<extent>41 v. : ill. ; 26 cm.</extent>
+<publicationStmt>
+<publisher>Arena Publishing Co.</publisher>
+<pubPlace>Boston, MA</pubPlace>
+<date value="1896">1896</date>
+</publicationStmt>
+<notesStmt>
+<note>
+<p>This article appeared in vol. 16 (June-Nov. 1896),
+p. 612-621.</p>
+</note>
+</notesStmt>
+</biblFull>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Prepared for the University of Virginia Library Electronic Text Center</p>
+</projectDesc>
+<editorialDecl>
+<p>All quotation marks retained as data</p>
+<p>All unambiguous end-of-line hyphens have been removed, and the
+trailing part of a word has been joined to the preceding line.</p>
+<p id="ETC">Keywords in the header are a local Electronic Text Center scheme
+to aid in establishing analytical groupings</p>
+</editorialDecl>
+<refsDecl>
+<p>ID elements are given for each page element and are composed of the text's
+unique cryptogram and the given page number, as in AusEmma1 for page one of
+Jane Austen's Emma.</p>
+</refsDecl>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date value="1896">1896</date>
+</creation>
+<langUsage>
+<language id="eng" usage="main">English</language>
+</langUsage>
+<textClass>
+<keywords>
+<term>non-fiction; prose</term>
+<term>African American</term>
+</keywords>
+<keywords>
+<term>LCSH</term>
+<term>Afro-Americans|xSocial conditions|y19th century.</term>
+<term>Social change|zUnited States|xHistory|y19th century.</term>
+<term type="Field651">United States|xSocial conditions|y1865-1918.</term>
+<term>Slavery|zUnited States|xHistory|y19th century.</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change>
+<date value="1996-10-01">Oct. 1, 1996</date>
+<respStmt>
+<resp>Cataloger</resp>
+<name>Jackie Shieh, University of Virginia Library, Cataloging
+Services Dept.</name>
+</respStmt>
+<item>TEI header revised.  Access points and subject headings
+added.</item>
+</change>
+<change>
+<date value="1995-11-27">November 27, 1995</date>
+<respStmt>
+<resp>corrector</resp> 
+<name>Jennifer Hanna</name>
+</respStmt>
+<item>Added TEI compatible header and tags.</item>
+</change>
+<change>
+<date value="2005-06">June 2005</date>
+<respStmt>
+<resp>corrector</resp>
+<name>John Ivor Carlson</name>
+</respStmt>
+<item>Converted sgml to xml.</item>
+</change>
+<change>
+<date value="2007-09">September 2007</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Ethan Gruber, University of Virginia Library</name>
+</respStmt>
+<item>Converted XML markup from TEI Lite to uva-dl-tei (TEI P4 with local customizations).</item>
+</change>
+<change>
+<date value="2008-01">January 2008</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Greg Murray, University of Virginia Library</name>
+</respStmt>
+<item>Programmatically updated TEI header markup (but not header content) for minimal compliance with current QA requirements.</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text id="d1">
+<body id="d2">
+
+<div1 type="essay" id="d3">
+	<pb n="612"/>
+<head type="main">THE NEGRO'S PLACE IN HISTORY.</head>
+<head type="sub">BY PROF. WILLIS BOUGHTON OF OHIO STATE UNIVERSITY.</head>
+
+<p>During the life of mankind every generation has been
+confronted with one or more grave social questions the solution of
+which seemed, at the time, to be of vital importance to the
+progress of civilization.  So, too, every age has had its
+alarmists, who have preached wars and desolation and the utter
+destruction of existing institutions.  But civilization has moved
+onward.  Every age and every generation has indeed proved equal to
+its emergencies.  Though the champions of a principle be tried by
+the crucial test of wars, though French revolutions and American
+rebellions enact their bloody scenes, the fittest survives, the
+most vigorous principle conquers, the world advances in culture.
+Only the extreme pessimist will deny that the world is to-day
+better than it has ever been before, that people are more cultured,
+more humane, more Christ-like.  The nations of our day are better
+able to grapple with difficult social problems than were their
+ancestors.  Under the most threatening portents there is no
+occasion for undue alarm.  Regulated by the laws of universal
+progress, the right principle will, in the end, prevail, for
+mankind will not rush madly onward to the destruction of cherished
+institutions.
+</p><p>Honest agitators are necessary to the solution of any social
+problem; but the negro question has been the hobby of the American
+alarmist ever since the first cargo of black slaves was landed at
+Jamestown.  There is, however, a bright side to the entire history
+of the American negro.  The African is brought to our shores as a
+rude, uncultured savage; he is forced into the most intimate social
+relations with a highly civilized class of whites; he imbibes much
+from contact with the culture of one of the most enlightened
+nations of the world; the females become the mothers of numbers of
+half-white slave children; the race itself, under the moulding
+influence of peculiar environment, becomes a new race, lighter in
+color, stronger in intellect, superior in culture&mdash;"the Afro-American race." </p>
+<pb n="613"/>
+
+<p>By the abolishment of slavery our country made a great stride
+in the line of progress.  That cursed institution removed, the
+whole land seemed to rise from the ashes of war with phoenix-like
+vigor, to flourish with a lusty strength unknown under the blight
+of slavery, and to lead the world in enterprising undertakings.
+But what a great change for the negro!  Just at the right moment,
+when the slave had risen as high in culture as he could under the
+restraining laws of bondage, when the dusky savage had become a new
+being, the fetters of servitude were stricken asunder, and a future
+was opened to the Afro-American whereby he might aspire to the
+highest attainable condition of enlightenment.
+</p><p>Having been made a free man and an American citizen, the
+progress of the negro has been phenomenal.  Without original
+capital even to the amount of that unfortunate one talent, many
+individual members of this despised race are accumulating fortunes;
+forbidden to learn to read or write, thousands are becoming as
+proficient in those accomplishments as are their white neighbors;
+taught that laws of marriage and of morality had no place in the
+social creed of the slave, there are now thousands who are leading
+purer and more moral lives than are numbers of our own proud,
+superior race; born, every one of them, bastards, there is now not
+a greater percentage of illegitimate births among the negro
+population of the black belt of Alabama than there is among the
+inhabitants of the kingdom of Bavaria.  (Mayo in Mohonk Conference
+Report, 1890, page 44.)  Surely the alarmist must look elsewhere
+for material with which to intimidate the thoughtful.
+</p><p>But pass for a moment into details.  It may be said without
+charge of hyperbole that the progress of these negroes during their
+quarter of a century of freedom has been phenomenal.  "The colored
+people of the South," says Judge Tourgee in a recent speech, "have
+accomplished more in twenty-five years, from an industrial point of
+view, than any people on the face of the earth ever before achieved
+under anything like such unfavorable conditions."  Biddle
+University, North Carolina, was built under the management of a
+colored master carpenter.  Though both white and colored laborers
+were employed, he was of all by far the best workman.  As a penman
+the negro excels.  One of the two teachers of penmanship employed
+in the Cincinnati public schools is a colored man, and he is
+universally liked and
+<pb n="614"/>
+respected by the white pupils who
+come under his instruction.  There is a very successful colored
+physician in Nashville.  In Atlanta there is a colored dentist,
+many of whose patrons are prominent white people.  W. E. Dubois has
+not only won the first oratorical prize, but a three-hundred-dollar
+scholarship as well&mdash;and this too at Harvard, "where the
+contestants are the <hi rend="italic">elite</hi> students of the white race in that
+ancient seat of learning."  But still more encouraging is the
+astonishing fact that there are sixteen thousand negro school
+teachers employed in the South in the work of educating their
+fellows.  These are only ripples, but they harbinger the flood that
+is to follow, or rather prove the current that flows deep and
+strong beneath.
+</p><p>In the midst of such proofs of the progressive tendency of the
+race arises the question of the fitness of the negro for United
+States citizenship.  The ballot has undoubtedly been one of the
+greatest educators of the colored people.  In order to cast the
+ballot with a degree of intelligibility equal to that of the
+whites, numbers have been induced to sacrifice many comforts in
+order to learn to read and write.  Others, realizing that the
+avenues to power are open to the educated only, have sought a
+preparation that would fit them, as well as members of the more
+favored race, for positions of honor or of power.  Great numbers
+are now qualified intelligently to exercise the right of suffrage,
+while the masses are just as capable of voting as are the ruling
+elements in our great cities.  Indeed, it can be no more galling to
+the white man of the black belt of the South to submit to negro
+rule, than it is for the truly conscientious American citizen in
+our great cities to realize that his precinct is controlled by the
+votes of the vicious from the scum of European life.  The policy of
+our government in giving the negro the ballot has not been a
+mistaken one.  It was best for these colored people to receive at
+once their freedom and the ballot; it is still best for them to
+remain full citizens of our country; it will ennoble their future
+and make them a race of men.  They are deserving of the full rights
+of citizenship.  "You cannot find one dynamiter among them, you
+cannot find a single socialist or anarchist among them, nor a
+secret society of any kind whose object is to undermine our
+Christian institutions.  You have these classes all over your
+northern country.  These eight million colored men are loyal to our
+government."  (Mohonk Conference Report, 1890, page 17.)
+</p>
+<pb n="615"/>
+
+<p>In our own country, then, the negro race has proved itself
+progressive without limitation.  Advancement in culture has been
+continuous ever since the first handful was landed on our shores&mdash;
+and that too under discouragements such as no other people have
+encountered.  Thus far we can rejoice in the happy solution of one
+of our most difficult social problems.  The hand that has guided
+these people has not led them astray.  Their paths have been dark,
+but the day dawns.  The alarmist, however, does not care to recall
+the past; he prefers to view, with a disordered imagination, the
+future, and his visions are painted with the gloomiest forebodings.
+Let us, then, look into the future.  But in order to realize the
+capabilities of the negro race, we must fully understand the remote
+past history of the blacks as a race.
+</p><p>The question "Has the negro race at any period of time or in
+any country on the globe been a factor in the history-making of the
+world?" has, in the course of the agitation of the race question,
+been asked repeatedly.  Most assuredly he has been an important
+element in the history-making of the entire globe.  Though such a
+statement be surprising to some and contrary to the commonly
+accepted belief, it is nevertheless true.  Whenever the above
+question is asked, the imagination of man forthwith pictures the
+naked savage in the heart of the African continent as an example of
+the negro at the summit of his attainments in all that goes to make
+what we call civilization.  So even, with just as great a claim to
+reason, may the Chinese mandarin point to the semi-savage Galchan
+of the Hindu Kush region to illustrate the highest type of Aryan
+culture, because this child of the mountains may have redder hair
+and whiter skin than the ordinary representative of the Aryan race
+in southern Europe.
+</p><p>The black race has a history.  In fact all history is full of
+traces of the black element.  It is now usually recognized as the
+oldest race of which we have any knowledge.  The wanderings of
+these people since prehistoric history began have not been confined
+to the African continent.  In Paleolithic times the black man
+roamed at will over all the fairer portions of the Old World.
+Europe as well as Asia and Africa acknowledged his sway.  No white
+man had as yet appeared to dispute his authority in the vine-clad
+valleys of France or Germany or upon the classic hills of Greece or
+Rome.  The black man preceded all others and
+<pb n="616"/>
+carried Paleolithic culture to its very height.  But the history of all
+lands has been only a record of succeeding races.  Old races have
+often been supplanted by those of inferior culture but of superior
+energy.  More often, however, by fusion of different racial types
+and by the mingling of various tribes and peoples, have been
+evolved new races superior to any of the original types.
+</p><p>The blacks were a fundamental element in the origin not only
+of the primitive races of southern Europe, but of the civilized
+races of antiquity as well.  History may be said to begin in
+ancient Egypt, and recede into the dim past just as far as records
+and inscriptions lend us light; still in the Nile valley we find a
+civilization that has drawn from all succeeding ages expressions of
+wonder and admiration.  This first example of a civilization was an
+isolated one; it had evolved right there in that wondrously happy
+region.  Surely these ancient Egyptians were a remarkable people;
+but who were they?  The ruling tribes are called Hamites&mdash;the
+"sunburnt" family according to Dr. Winchell; of Negritic origin,
+says Canon Rawlinson.  But back of these ruling Hamites were a
+"light-hearted" people,&mdash;"gay," "good-natured," "pleasant,"
+"sportive," "witty," "droll," "amorous,"&mdash;such are the descriptive
+terms used in telling the story of those primitive tribes who, Dr.
+Taylor says, lived peaceably in those regions for two thousand
+years before the advent of Asiatic invaders.  Suggestive as they
+may seem, such terms are truly descriptive of the inhabitants whom
+we would expect to find in the Nile valley in ancient times.  They
+were probably as purely Negritic as are the great mass of our own
+Afro-Americans.
+</p><p>If the colored Egyptian, beginning at the zero point of
+culture, could independently evolve a civilization, having had no
+model, what can we not hope from the American negro, who has for a
+model the highest civilization that the world has ever seen and who
+has already proved himself such an apt scholar?  Let no one, then,
+visit Egypt and view her pyramids, her obelisks, her temples, her
+tombs, her sphinx, and still claim that the blacks have no place in
+history.  They furnish the almost isolated example of a
+civilization developed without a model, even though other racial
+factors may have entered into that civilization.
+</p><p>When the Hamites and their kindred were at the height of their
+power, their influence extended to far greater limits
+<pb n="617"/>
+than is ordinarily supposed.  They pressed toward the confines of
+Europe; they entered and took possession of the land.  "The
+Iberians," says Dr. Winchell (<hi rend="italic">North American Review</hi>,
+September, 1884), "entered by the Pillars of Hercules.  They came
+from northern Africa at a time when the Hamitic Berbers were
+gaining possession.  They overran the Spanish peninsula, founded
+cities, built a navy, carried on commerce, extended their empire
+over Italy, as Sicanes, when Rome was founded, long before the sack
+of Troy, and from Italy passed into Sicily. . . .  The Pelasgic
+empire was at its meridian as early as 2500 B. C.  This people came
+from the islands of the AEgean, and more remotely from Asia Minor.
+They were originally a branch of the sunburnt Hamitic stock, that
+laid the basis of civilization in Canaan and Mesopotamia, destined
+later to be Semitized. . . .  Rome itself was Pelasgian from the
+fourteenth century to 428 B. C.  But in Italy and Greece the
+Hamitic stock was displaced and absorbed by Aryan, as in Asia it
+had been by Semitic."
+</p><p>The Hellenes were the Aryans first to be brought into contact
+with these sunburnt Hamites, who, let it be remembered, though
+classed as whites, were probably as strongly Negritic as are the
+Afro-Americans.  These Hellenes were savages or barbarians.  But
+Aryan strength and energy were thus brought into contact with
+Hamitic culture.  Then occurred that great struggle of centuries
+for social equality between the blond Aryan and the Pelasgian, the
+dark child of the soil.  Greece thus had her race social question
+to settle, and it was settled by <hi rend="italic">fusion</hi>.  Had it not been
+for that mixture of dark blood in the Greek composition, that race
+of poets, artists, and philosophers would never have existed.
+</p><p>Rome, even, had her race social problem.  There was also a
+struggle between the white and the dark races.  The oppressed
+Plebeians finally seceded to the Sacred Mount until their wrongs
+were in a measure redressed.  Intermarriage, or fusion, at last
+settled the question.  Such, too, is the story that Spanish
+ethnology tells.  "Clearly there does not exist in Europe a nation
+of tolerably pure ethnic character, nor do national boundaries mark
+the limits of such ethnic strains as remain discoverable.  The
+figment of a German nationality or a French, in any ethnic sense,
+is as baseless as that of an Austrian, a British, or an American.
+The mixture
+<pb n="618"/>
+
+is a conglomerate, not an alloy.  Ethnic
+peculiarities are everywhere protrusive; they refuse to be
+obliterated."  (Dr. Winchell, <hi rend="italic">Ibid.</hi>)  Those drops of cursed
+black blood were just as necessary to produce the ethnic character
+of the Spaniard or Roman as were the white, and generations
+probably passed away before it was noticeable as to which element
+predominated.  Still it would be deemed the height of discourtesy
+sneeringly to inquire, What makes the Greek, the Italian, or the
+Spaniard dark in color?  It is fitting that we realize, however,
+how great a factor the negro has been in the history-making of the
+world.
+</p><p>In our own country this race social question began under
+conditions somewhat different.  Ignorant and even barbarous blacks,
+from the uncultured regions of Africa, were made the slaves of an
+enlightened race of whites.  In slave times fusion became so rapid
+that, at their emancipation, there were great numbers in whose
+veins the blood of white and black mingled in about equal
+proportions.  Nor has this fusion ceased.  "The number of light-complexioned people of color," says the <hi rend="italic">Spectator</hi> (May 25,
+1889), "one sees everywhere in the South suggests painful
+reflections; and the fact that many of the light-complexioned are
+children shows that the process of miscegenation still goes on."
+There is nothing strange or surprising in this; it is simply God's
+way of creating a new race.  Two races have never yet dwelt
+together for any length of time without commingling; and fusion
+will no doubt be the final solution of the race problem in our
+country.
+</p><p>Though the above view of the question is unpopular and even
+repulsive, though some one has said that the "horror of
+amalgamation may be dismissed as a misbegotten goblin of folly and
+prejudice" (<hi rend="italic">Andover Review</hi>, December, 1889), theory points
+to the experience of the past, while practice seems to be
+confirming the inevitable teachings of history.  There is no
+occasion, however, for sounding the alarm.  Fusion has thus far
+gone on simply at the will of those parties who have found pleasure
+in such mingling.  It is very evident that a great many otherwise
+respectable white men have not found the idea of illegal fusion
+repulsive.  Is that man who could, in slave times, so deaden the
+instinctive tenderness of the parent as to send his own half-breed
+children to the auction block, degraded by becoming the lawful
+companion of the negro woman whom he compelled to minister
+<pb n="619"/>
+to his brutal nature?  Is that man who can, shamelessly and often
+openly, pass his leisure in the presence of his colored mistress,
+too supreme a being to be that woman's legal husband?  Is it more
+honorable for him to rear about him a brood of bastard offspring
+than to be the husband of the woman of his choice and the legal
+father of his children?  Which is the more repulsive?
+</p><p>In this matter of fusion there is no compulsion.  In a country
+like our own it is optional to every white man or woman to
+associate with the negro or not.  If any one finds gratification in
+such an alliance, why should those who differ from him in taste
+become horrified at his seeming depravity?  Even carrion is not
+repulsive to the buzzard.
+</p><p>Still the cry of the alarmist sounds in our ears, and he would
+have us believe that fusion will be complete within a generation or
+two.  Nothing of the kind.  It is a slow process; it has been in
+operation in southern Europe for twenty-five centuries, and still
+it is incomplete.  Eternity is long enough to produce this result.
+Five centuries hence, no doubt, the census enumerator will find
+thousands whom he shall be obliged to designate as "black," though
+it is hoped that the stigma attached thereto shall have been
+removed.  There is evolving in our land an American race&mdash;a race
+that shall be the product of more peoples mingled than have ever
+before met in any region of the earth.  Perhaps this alloy of negro
+blood is an essential element in our race formation, and has been
+placed here by the Creator to be used in producing a people that
+shall, in its day, be as peculiarly gifted as were the Greeks or
+Romans in their time.
+</p><p>In their ignorance and foolishness those who most deplore the
+social degradation of the times are removing the natural barriers
+against fusion.  In some of the southern States "there still exists
+an immoral and absurd law making penal the marriage of a white man
+with a colored woman&mdash;immoral, because it encourages concubinage;
+absurd, because it utterly fails to hinder that mixture of races
+which it is designed to prevent."  (<hi rend="italic">Spectator</hi>, May 25,
+1889.)  The very social ostracism into which it is intended to cast
+these unfortunate people will operate against those who profess to
+despise the negro.  So long as the negro race is made to feel that
+it is "despised and rejected of all men," so long will
+<pb n="620"/>
+the colored woman feel that she is socially elevating herself and her
+children by association with a white man, no matter if the
+connection be irregular according to the dictates of our Christian
+institutions.  So long as a "cultured Christian woman," chagrined
+at the knowledge that negro blood flows in her veins, can exclaim,
+"I would lie down and be flayed without a murmur, if I might only
+rise up white," so long are the whites holding out the strongest
+possible temptation to every colored woman, for her children's
+sake, to seek an alliance, however illicit, with a white man.
+</p><p>The barriers are being removed, though unconsciously, in other
+ways.  The negroes are becoming, through education, fitted for all
+positions and departments of life.  Individuals are even now
+attaining positions of rank and distinction.  Let a colored man
+reach a position of influence, and the road is open at once, if he
+so chooses, for his marriage with a very respectable white woman.
+Recall, if you will, a few years since, in our national capital,
+the marriage of the greatest of Afro-Americans.  Such examples are
+rare, but others of scarcely less note are known.
+</p><p>Were the alarmist to seek for a sign more foreboding than any
+other, he might find it in the rapidity with which this despised
+race is accumulating property.  Gold will remove even the curse of
+blood.  Let the negro become wealthy, and the doors of social
+equality will soon be thrown open for his entrance.  Had the
+colored maiden a dower of a few thousand dollars, there is many a
+white man who would fall at her feet and offer her legal marriage.
+Individual negroes are rapidly accumulating fortunes, and the above
+conditions are extremely probable.  The time may come when the
+American white girl, proud of her pure Teutonic lineage, will find
+the wealthy brunette of doubtful lineage a winning competitor in
+the purchase, for a husband, of a broken-down foreign nobleman.  So
+long as money is the chief consideration, such misalliance in
+either case would be revolting to the true American.
+</p><p>Foreign immigration will have a tendency to break down the
+barriers between the races.  The foreigner does not feel,
+naturally, an aversion toward such an alliance as does the
+American, who remembers the days of slavery.  Even the English
+emigrant who returns to his native land with a colored bride does
+not seem to be socially ostracized.  The Afro-American, modified by
+the peculiar environment of our
+<pb n="621"/>
+civilization, bleached by
+a semi-fusion already completed, educated, enlightened, above all
+possessed of some property, will become a fit subject for the
+cupidity of the great bulk of foreigners who become immigrants to
+our shores.  The one forms an alliance with a more highly respected
+race; the other obtains at once the gold for which he is so greedy.
+</p><p>Is there anything alarming or horrifying in this view of the
+question?  It is simply a matter of choice on the part of every
+individual who forms a misalliance.  Our own generation or the next
+will see no great change.  Let the work of education and
+enlightenment go forward; let the negro be fully prepared for
+places of distinction; let all laws forbidding the marriage of
+whites and blacks be swept from the statute books, so that whatever
+unions are formed may be legal and whatever children are born may
+be legitimate.  Then, should fusion take place, the colored element
+need not be totally degenerating.  This great question will be
+solved only when all men can say with Dr. Hall (Mohonk
+Conference Report, 1890): "I do not care whether a man is black or
+white or yellow or chocolate-colored, if he has in himself the idea
+of Christ, of doing as Christ did when He sat by the well in this
+low world of ours.  If he has time to visit the hungry and the
+weary and the sad, he is good enough for me."</p>
+
+</div1>
+</body>
+</text>
+</TEI.2>

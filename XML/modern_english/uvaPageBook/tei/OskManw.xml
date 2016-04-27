@@ -1,0 +1,544 @@
+<?xml version="1.0"?>
+
+<?dlps id="OskManw"?>
+<?dlps page-images="color" figure-images="yes"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+
+
+
+<!ENTITY DSSR_000002587_0001 SYSTEM "000002587_0001" NDATA uvaHighRes>
+<!ENTITY DSSR_000002587_0002 SYSTEM "000002587_0002" NDATA uvaHighRes>
+<!ENTITY DSSR_000002587_0003 SYSTEM "000002587_0003" NDATA uvaHighRes>
+<!ENTITY DSSR_000002587_0004 SYSTEM "000002587_0004" NDATA uvaHighRes>
+<!ENTITY DSSR_000002587_0005 SYSTEM "000002587_0005" NDATA uvaHighRes>
+<!ENTITY DSSR_000002587_0006 SYSTEM "000002587_0006" NDATA uvaHighRes>
+<!ENTITY DSSR_000002587_0007 SYSTEM "000002587_0007" NDATA uvaHighRes>
+]>
+<TEI.2 id="OskManw">
+<teiHeader type="migrated" creator="Etext">
+<fileDesc>
+<titleStmt>
+<title type="main">The Man Who Interfered</title>
+<title type="sort">man who interfered</title>
+<author>Oskison, John M.</author>
+<respStmt>
+<resp>Creation of machine-readable version:</resp>
+<name>Judy Boss</name>
+<resp>Creation of digital images:</resp>
+<name>Craig Simmons</name>
+<resp>Conversion to TEI.2-conformant markup:</resp>
+<name>University of Virginia Library Electronic Text Center.</name>
+</respStmt>
+</titleStmt>
+<extent>ca. <num type="kilobytes">20</num> kilobytes</extent>
+<publicationStmt>
+<publisher>University of Virginia Library</publisher>
+<pubPlace>Charlottesville, Virginia</pubPlace>
+<idno type="ETC">OskManw</idno>
+<date value="1996">1996</date>
+<availability status="public">
+<p n="copyright">Copyright &#xa9; 1996 by the Rector and Visitors of the University of Virginia</p>
+<p n="access">Publicly accessible</p>
+</availability>
+<idno type="uva-pid">uva-lib:477233</idno>
+</publicationStmt>
+<seriesStmt>
+<title>University of Virginia Library, Text collection</title>
+<idno type="uva-set">UVA-LIB-Text</idno>
+</seriesStmt>
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title type="main">The Man Who Interfered</title>
+<title level="j">The Southern Workman</title>
+<title type="sort">man who interfered</title>
+<author>John Oskison</author>
+</titleStmt>
+<editionStmt>
+<p>1st Edition</p>
+</editionStmt>
+<extent>pp. 557 -563</extent>
+<publicationStmt>
+<publisher>Hampton Normal and Agricultural Institute</publisher>
+<pubPlace>Hampton, Virginia</pubPlace>
+<date value="1915-10">October 1915</date>
+<idno type="callNo">Print copy consulted: UVa Library Call Number: LC2701 .S7</idno>
+</publicationStmt>
+<notesStmt>
+<note>
+<p>The Southern Workman, Vol. 44 No. 10 (Oct. 1915): 557-563.</p>
+</note>
+</notesStmt>
+</biblFull>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+</projectDesc>
+<editorialDecl>
+<p>All quotation marks retained as data.</p>
+<p>All unambiguous end-of-line hyphens have been removed, and the trailing part of a word has been joined to the preceding line.</p>
+<p>The images exist as archived TIFF images, one or more JPEG versions for general use, and thumbnail GIFs.</p>
+<p>Keywords in the header are a local Electronic Text Center scheme to aid in establishing analytical groupings.</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date value="1915-10">October 1915</date>
+</creation>
+<langUsage>
+<language id="eng" usage="main">English</language>
+</langUsage>
+<textClass>
+<keywords>
+<term>fiction; prose</term>
+<term>Native American</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change>
+<date value="1996-12">December 1996</date>
+<respStmt>
+<resp>corrector</resp>
+<name>Craig Simmons; Electronic Text Center at The University of Virginia</name>
+</respStmt>
+<item>Added TEI header and tags. Checked and parsed SGML tagging.</item>
+</change>
+<change>
+<date value="2005-07">July 2005</date>
+<respStmt>
+<resp>Corrector</resp>
+<name>John Ivor Carlson</name>
+</respStmt>
+<item>Converted to XML and/or checked tags.</item>
+</change>
+<change>
+<date value="2007-09">September 2007</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Ethan Gruber, University of Virginia Library</name>
+</respStmt>
+<item>Converted XML markup from TEI Lite to uva-dl-tei (TEI P4 with local customizations).</item>
+</change>
+<change>
+<date value="2008-01">January 2008</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Greg Murray, University of Virginia Library</name>
+</respStmt>
+<item>Programmatically updated TEI header markup (but not header content) for minimal compliance with current QA requirements.</item>
+</change>
+<change>
+<date value="2009-03">March 2009</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Scholarly Resources, University of Virginia Library</name>
+</respStmt>
+<item>Added and/or replaced the digital images accompanying the electronic text. Scanning of exterior and interior (ie. pages) of item was done only for items found in the University of Virginia Special Collections Library.</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text id="d1">
+ <!--
+ <front id="d2">
+<div1 type="frontispiece" id="d3">
+<p>
+<figure entity="OskManCP" pid="uva-lib:488075" rend="block">
+<figDesc>Digital image of The Southern Workman Vol. 44, No. 10
+cover page</figDesc>
+</figure></p>
+</div1>
+</front>-->
+
+<body id="d4">
+
+<div1 type="story" id="d5">
+ <pb entity="DSSR_000002587_0001"/>
+<head><hi rend="bold">THE MAN WHO INTERFERED</hi>
+<lb/><lb/>BY JOHN OSKISON
+</head>
+<p>
+UNTIL long after midnight Jim Freeman sat reading a battered,
+graceful old volume containing "Troilus and Cressida" and "Julius
+Caesar"&mdash;a book bound in leather for a Gentleman of Virginia in
+1771, and strayed from its mates of the set generations ago.  Its type
+was bold and clear, fit for failing eyes to peruse.
+
+</p><p>
+Hoof-beats sounded in the square, clattered across the frozen
+mud; a horse stopped at the sidewalk; Jim put down the book,
+changed his spectacles, and waited.  The rider dismounted, crossed
+the sagging boards outside the door, but there came no knock.  Jim
+threaded his way among the type-racks and piled miscellany of his
+small printing shop to confront his visitor.
+
+</p><p>As he came into the starlight, he could discern only that it was
+a woman who stood there.
+
+</p><p>"Howdy!" he greeted.  She shifted a little, but did not answer.
+
+</p><p>"Step inside&mdash;seems chilly out here, but I've got a little bit of
+fire left in the stove."  Jim opened the door wide; in his words had
+been neither surprise nor question.
+
+</p><p>The woman came in and sat down on the other side of the
+battered walnut desk from his own.  Jim sat down, too, and began to
+finger the book.
+
+</p><p>The editor of the Circletown <hi rend="italic">Round-Up</hi> was fifty-four,
+spectacled, and dingy.  He lived alone in a room partitioned off
+from his printing shop, and after supper every evening, by the
+yellow glow of a big oil lamp, he gave a concert on his
+fifteen-dollar music machine for the men who came to the post office next
+door for mail&mdash;every evening except Friday.  On Friday the
+<hi rend="italic">Round-Up</hi> was printed; and the job of wrapping it ready for
+Saturday's distribution to its four hundred subscribers lasted into the
+night.
+
+</p><p>He was a pioneer of the tiny Oklahoma town; he had come
+upon it when it was first taking shape as a yellow, pine-board blot
+on the prairie, and he loved it.  To the editor, Circletown was not
+what it seemed&mdash;merely a forlorn, drab outpost of civilization.
+Rather, it was a spot of splendid promise.  Some day a railroad
+would come, and some day, too, twenty-five hundred feet or so
+below the grass roots, somebody's oil rig would strike
+ <pb entity="DSSR_000002587_0002" n="558"/>  
+ the black, saturated sand which
+spells wealth and excitement.
+Meanwhile, in his heart dwelt a troubled consciousness that among
+his neighbors were some who failed to find peace and prosperity in
+Circletown and the district of which it was the center.
+
+</p><p>"Sometimes I sit up late reading," Jim remarked after a long
+silence.
+
+</p><p>"I am Lizzie Squirrel," said the woman finally.  She spoke very
+quietly.  "I am 'Wolf' Harper's wife."
+
+</p><p>"Yes; I knew you as soon as you came into the light.  In
+trouble?"
+
+</p><p>She nodded.
+
+</p><p>"About 'Wolf'?"
+
+</p><p>"Yes&mdash;I am leaving him."
+
+</p><p>"I saw him going out of town this evening."  Jim opened the
+book, fingering the leaves; after a moment he spoke:
+
+</p><p>"You got to the end, I reckon?"  She nodded.  "Well, it had to
+come.  Where you bound for?"
+
+</p><p>"Back to my home&mdash;my people live over yonder."  She bent her
+head toward the East.
+
+</p><p>"In the Spavinaw hills&mdash;yes.  It is thirty-five miles&mdash;a long
+ride."
+
+</p><p>"First I want to speak to my brother.  I saw your light, and I
+thought maybe you would go and wake Billy.  He is hard to wake."
+
+</p><p>"Yes, Billy <hi rend="italic">is</hi> hard to wake!"  Jim's mind held a picture
+of Lizzie Squirrel's brother, the Indian pool-hall loafer, as he had
+lurched home to his shack that evening.
+
+</p><p>"So, you put 'Wolf' to bed and pulled out?"
+
+</p><p>"No."  Lizzie Squirrel turned to study Jim Freeman's face by
+the light of the big lamp.  She was of the erect Indian breed, strong
+and comely; at thirty she still bore herself proudly and, in spirit, all
+but unscarred by the brutality of her husband.  Six years of alternate
+joy and humiliation had driven the light back from the front of her
+eyes, but had not extinguished it.  She wore a man's heavy overcoat,
+buttoned close under her chin, and a thick woolen scarf was
+wrapped about her head, almost concealing her black hair.
+
+</p><p>"Listen!"  She loosed the coat at her throat.  "When 'Wolf' got
+home this night he tried to beat me, but I fought with him; and
+because he was weak from drink I choked him until he lost his
+senses.  Then I tied his hands and locked him in the stable.  In one
+hour he came back to his senses and called to me to come and let
+him out.  But I did not&mdash;I was afraid.  So, I sat and thought what to
+do."
+</p>
+ <pb entity="DSSR_000002587_0003" n="559"/>
+
+<p>The woman's tight-balled hands were resting on the desk; she
+was leaning forward to watch the effect of her words on Jim
+Freeman.  He did not speak, but in his face Lizzie Squirrel read
+sympathy and a wish to understand.  Presently her hands relaxed,
+and she spoke calmly.
+
+</p><p>"So, I thought and thought about what to do, and at last I could
+only see one way&mdash;I will go back to my people in the hills.  There I
+will have peace.  Though I have not lived with my people since I
+went away to school as a young girl, I know that they will take me
+in.  They will take back the 'white girl'&mdash;you know they call me that
+because I went away to school among the whites and married a
+white man.  But they are good people, and they will give me peace
+anyway!"
+
+</p><p>"Peace!" echoed Jim Freeman.  "Yes, that would be good&mdash;but
+only for a while."
+
+</p><p>"Will you go and wake Billy now?  I must tell him to ride out
+and turn 'Wolf' loose."
+
+</p><p>"Yes, in a minute."  A conviction that he ought to stop this
+woman from going back to the hills, and to a family who would not
+understand her failure to find a niche in the white man's world was
+in Jim's mind, and he was searching for the reasons which lay
+behind it.  There was, of course, the general good which comes
+from preserving the social order; but beyond that was another
+argument, if he could only get it.  He looked across at Lizzie, at her
+puzzled, unmarred face.  Suddenly the argument came to his mind;
+she had not been beaten.
+
+</p><p>"Tonight," he asked, "did 'Wolf' hurt you?"
+
+</p><p>"No; I told you I whipped him and choked him&mdash;it was easy."
+
+</p><p>"Why then, you're leaving just when you don't have to!"  Jim
+Freeman smiled, as if a great load had been lifted.
+
+</p><p>"But 'Wolf' would kill me if I went back!"  Lizzie said it
+calmly.
+
+</p><p>"Maybe&mdash;this time.  But never again."
+
+</p><p>The woman's face lighted, and she laughed.
+
+</p><p>"Once would be enough!"
+
+</p><p>"No, no," Jim, protested, laughing too, "I mean, he might try
+this time, but never again.  And I will go with you."
+
+</p><p>She shook her head.
+
+</p><p>"Don't you see!  You beat him this time; you've got him tamed.
+He'll be a good old work horse after this.  After this, when he wants
+to go out and kick up his heels, go along with him and see that he
+don't bust things.  In your place, instead of running away, I'd sure
+stay and make a man out of 'Wolf' Harper."
+
+</p><p>Again the woman shook her head and spread her hands in a
+gesture of despair.
+</p>
+ <pb  entity="DSSR_000002587_0004" n="560"/>
+<p>
+
+"Anyhow," Jim Freeman went on, peering at Lizzie earnestly,
+"you ought to go back with me, and tell him why you're quitting
+him.  Going off this way won't do&mdash;he'll follow you and make
+trouble for your folks.  What do you say&mdash;we'll not bother to rouse
+Billy, but you and I'll ride out now?"
+
+</p><p>Lizzie's gaze met Jim's steadily, then she rose, buttoning the
+coat with shaking hands.
+
+</p><p>"Yes, I think I ought to tell him."
+
+</p><p>"Good!  We'll go and get a couple of horses out of Dick
+Grayson's barn."
+
+</p><p>Jim scrawled a note to be pinned to the door of Dick's stable,
+put out the light, and the two went into the cold, star-lit night.
+
+</p><p>Inspired by the dingy, lonely man who rode beside her, a
+battered derby crushed down almost to his spectacles and a knitted
+scarf about his throat to keep out the cold, Lizzie rode toward her
+home with the first genuine uplift of hope she had felt in years.
+
+</p><p>It was a raw November night, with high clouds driving before
+the wind.  Jim was cold and uncomfortable; he hated horseback
+riding.  He preferred a double-seated buggy, with two sedate horses
+jogging along at six miles an hour.  Astride Grayson's big sorrel, he
+looked grotesque and old and frayed, the literal Jim Freeman; but,
+underneath, lived another Jim Freeman, one who talked gaily,
+wisely, to Lizzie Squirrel, and who seemed to her as peaceful as the
+hills for whose shelter she yearned.  Jim spoke of the stars, in a
+strain to outrage an astronomer:
+
+</p><p>"Now, you take the 'Dipper'&mdash;it's my special, favorite
+constellation.  Round and round the North Star it goes, like a cup on
+a chain pump, dipping up a little drop of life every day and spilling
+it out over the world.  One day it's a storm, or a big fight somewhere
+in heathen parts, and next day it spills over us such a cupful of good
+luck (sunshine, or a baby boy, or a good price for the fat hog we've
+got to sell) that we forget the sorrow it brought up yesterday.  That's
+how it seems to me&mdash;it's a symbol of life."
+
+</p><p>Other constellations and particular stars Jim pointed out as
+they jogged over the frozen road.  After a time Lizzie interrupted:
+
+</p><p>"I do not know the stars; maybe I do not look up enough."
+
+</p><p>"You've got to look up if you take the 'Dipper' for a mascot.
+What it has for you must be spilled in your face, not on top of your
+head!  Study it if you want to find out what comes up out of the well
+of the world."
+
+</p><p>They rode through a depression, where the cold struck in and
+set them shivering; they crossed a mile of prairie which rose like
+
+ <pb  entity="DSSR_000002587_0005" n="561"/>
+
+ a backbone&mdash;over it the wind blew dry and stimulating.  Once
+Jim Freeman lifted his derby to let such a breeze tumble his
+thinning hair.
+
+</p><p>
+As they came close to the little weather-beaten house on the
+prairie where "Wolf" Harper and his Indian wife lived, Jim Freeman
+heard maudlin sounds coming from the log stable.  They were the
+cries of the enraged brute, sickeningly familiar to the man who had
+spent his life among people of primitive passions.  Men like "Wolf"
+Harper had almost shaken Jim Freeman's faith in his fellows&mdash;almost.
+
+</p><p>"I'm cold," said Jim Freeman, as they rode up to the gate of the
+wire-fenced enclosure, in which the house and barn stood, and
+dismounted.  "Could you just make a cup of coffee, while I go down
+and let 'Wolf' out?"
+
+</p><p>"Maybe I better go, too," suggested Lizzie, but Jim Freeman
+shook his head and said:
+
+</p><p>"No, you stay here; and while we drink some coffee, you and I
+and 'Wolf' can talk things over."
+
+</p><p>"Then you take the lantern," advised Lizzie, as she lighted it.
+
+</p><p>A ludicrous sort of a whistled tune marked Jim Freeman's
+progress toward the stable.  Hearing it, "Wolf" Harper broke into a
+spasm of shouted profanity; before Jim's hand touched the heavy
+wooden bar which Lizzie Squirrel had fastened across the door, he
+made out the words of the drunken man's tirade:
+
+</p><p>"I'm a wolf&mdash;that's what they call me!  And it's my night to
+howl!  Stand back there, an' let me at him!  Let me at him, I say!"
+Then the man laughed, wildly.  Jim Freeman was not fit to tackle a
+drunken man&mdash;he wasn't even sure that he had the courage to tackle
+one.  Sweat stood on his forehead as he fumbled with the bar&mdash;Jim
+Freeman knew that it was the sign of fear!  He trembled as the bar
+was thrown clear and the heavy door of the stable swung open.  He
+understood that he had to go to the drunken man, untie his hands
+and feet, and then deal with him as the fates directed.  He forced
+himself forward.
+
+</p><p>The lantern's light flashed in "Wolf" Harper's eyes, and he
+made a grotesque, squirming effort to leap upon the bearer of the
+light.  Then he saw that it was Jim Freeman who had come.
+Snarling, he babbled:
+
+</p><p>"So, it's you, 'Old Four-eyes.'  Well, what you goin' to do to
+me?"
+
+</p><p>"Going to turn you loose, 'Wolf,'" said Jim Freeman; and by
+some miracle of self-control the editor's voice was held steady.
+
+</p><p>"All right," promised "Wolf" Harper thickly, "an' then
+I'm a-goin' to kill you!  Let me at you, you old,
+four-eyed, interferin'&mdash;"
+</p>
+ <pb entity="DSSR_000002587_0006" n="562"/>
+<p>
+
+"Keep still till I get these ropes off you!"  Jim Freeman bent
+over the struggling man and began to drive unwilling fingers to the
+task of freeing him.
+
+</p><p>First, Jim took the ropes off the feet of the man on the ground;
+and instantly he had to dodge a sharp boot-heel swung blindly at his
+head.  "Wolf" got to his feet then, standing unsteadily and holding
+out his hands.  Jim got the rope free, and stepped back, picking up
+the lantern which he had set down close by.
+
+</p><p>"Now, &mdash; you, I'm goin' to clean you up!" cried "Wolf;" he
+sprang toward the battered man who stood with the sweat of fear
+beading his forehead.  But Jim Freeman did not flinch.
+
+</p><p>"Wolf" Harper bore the editor to the floor of the stable; as they
+went down, the lantern rolled out of Jim's hand, but, freakishly,
+righted itself near the door.  Its feeble glimmer shone upon the two
+as they struggled.
+
+</p><p>A crashing blow from "Wolf" Harper's fist shattered the
+editor's spectacles; but a cut on the cheek was the worst of that.
+"Thank heaven, they didn't get into my eyes!" muttered Jim.  He
+was holding on to the arms of the drunken man with all his strength.
+And with all the strength and frenzy of the drunken brute, "Wolf"
+Harper was struggling to get his fists free.
+
+</p><p>Jim Freeman was a battered man of fifty-four, unused to
+physical strain; the sweat on his forehead became a sign of
+exhaustion within a minute.  Suddenly he loosed his hold on "Wolf"
+Harper's arms, and, plunging swiftly, succeeded in getting from
+under.  His fingers sought the other's neck&mdash;sought and found an
+uncertain grip.
+
+</p><p>He held that grip with the desperation of a great fear and a
+great necessity.  "Wolf" Harper tried to beat him off, tried to fling
+him off with brutal kicks, tried to brain him with deliberate swings
+of his doubled fist.  But, battered, bleeding, with all but a flicker of
+consciousness gone, Jim Freeman contrived to hold on until the
+other was staggering and gasping for breath.
+
+</p><p>Lizzie Squirrel had lighted a fire in the stove and had put water
+on to boil before it occurred to her that the two men ought to be
+there.  She went to the door to listen, but heard no sound; she ran
+swiftly to the stable.
+
+</p><p>Just inside the door she found the lantern, shining feebly,
+peacefully, upon two unconscious men.  She swung its light across
+them, and fell back with a startled cry at the sight revealed.  She
+went to hang the lantern on its accustomed nail, then stooped to
+loosen the grip which Jim Freeman had never relaxed on the throat
+of her husband.  She sobbed as she tugged at the battered man's
+fingers; and when she pulled him free from "Wolf," the older man
+rolled inertly to her feet, his bruised and bleeding face upturned in
+the dim light.
+</p>
+ <pb  entity="DSSR_000002587_0007" n="563"/>
+ 
+<p>
+Lizzie Squirrel dragged the two men into the cold air and went
+to fetch water.  It was not a time for wailing; she worked with quiet
+effectiveness.  But when the clean, cold dawn came, and the sky
+grew pink where it met the prairie, only one man saw it.
+
+</p><p>"Wolf" Harper, sober and shaken, sat against the wall of the
+log stable gazing fearfully at his Indian wife as she worked over the
+battered form of the man who had interfered.  He said nothing, but,
+burning deep into his primitive soul, he heard the words which
+came like a prayer from his woman's lips:
+
+</p><p>Freeman&mdash;he has done it for me&mdash;and I was nothing to him!"
+As the sun rose and showed her the truth beyond the possibility of
+questioning, she went to lean her head against the door; over her
+tired, gray face the tears streamed.
+</p><p>&mdash;
+</p><p>
+Jim Freeman had believed in people.  To Lizzie Squirrel he
+had said:
+
+</p><p>"After this night, 'Wolf' will never beat you again&mdash;if I were
+you I'd sure stay with him and make a man out of him!"  Well, she
+could do that now; and the reconstructed life of a cow-country bum
+and wife-beater was perhaps the fittest memorial the editor of the
+<hi rend="italic">Round-Up</hi> could have wished.
+</p>
+
+</div1>
+</body>
+</text>
+</TEI.2>
+

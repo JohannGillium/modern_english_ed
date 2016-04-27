@@ -1,0 +1,1916 @@
+<?xml version="1.0"?>
+
+<?dlps id="MilBent"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOgrk1 SYSTEM "http://text.lib.virginia.edu/charent/iso-grk1.ent"> %ISOgrk1;
+<!ENTITY % ISOgrk2 SYSTEM "http://text.lib.virginia.edu/charent/iso-grk2.ent"> %ISOgrk2;
+<!ENTITY % ISOnum SYSTEM "http://text.lib.virginia.edu/charent/iso-num.ent"> %ISOnum;
+
+]>
+<TEI.2 id="MilBent">
+<teiHeader type="migrated" creator="Etext">
+<fileDesc>
+<titleStmt>
+<title type="main">Bentham</title>
+<title type="sort">bentham</title>
+<author>Mill, John Stuart, 1806-1873</author>
+<respStmt>
+<resp>Creation of machine-readable version:</resp>
+<name>McMaster University Archive for the History of Economic Thought</name>
+<resp>Conversion to TEI.2-conformant markup:</resp>
+<name>University of Virginia Library Electronic Text Center.</name>
+</respStmt>
+</titleStmt>
+<extent>ca. <num type="kilobytes">109</num> kilobytes</extent>
+<publicationStmt>
+<publisher>University of Virginia Library</publisher>
+<pubPlace>Charlottesville, Virginia</pubPlace>
+<idno type="ETC">MilBent</idno>
+<date value="2001">2001</date>
+<availability status="public">
+<p n="copyright">Copyright &copy; 2001 by the Rector and Visitors of the University of Virginia</p>
+<p n="access">Publicly accessible</p>
+</availability>
+<idno type="uva-pid">uva-lib:476185</idno>
+</publicationStmt>
+<seriesStmt>
+<title>University of Virginia Library, Text collection</title>
+<idno type="uva-set">UVA-LIB-Text</idno>
+</seriesStmt>
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title type="main">Bentham</title>
+<title level="m">Dissertations and Discussion, Vol. 1</title>
+<title type="sort">bentham</title>
+<author>John Stuart Mill</author>
+</titleStmt>
+<publicationStmt>
+<publisher>John W. Parker and Son</publisher>
+<pubPlace>London</pubPlace>
+<date value="1859">1859</date>
+<idno type="callNo">Source copy consulted: Alderman Library Call No. B 1603 .D6 1874 (American Edition)</idno>
+</publicationStmt>
+<notesStmt>
+<note>
+<p>Originally published in the London and Westminster Review, Aug. 1838</p>
+</note>
+</notesStmt>
+</biblFull>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+</projectDesc>
+<editorialDecl>
+<p>All unambiguous end-of-line hyphens have been removed, and the  trailing part of a word has been joined to the preceding line.</p>
+<p id="ETC">Some keywords in the header are a local Electronic Text Center scheme  to aid in establishing analytical groupings.</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date value="1838">1838</date>
+</creation>
+<langUsage>
+<language id="eng" usage="main">English</language>
+</langUsage>
+<textClass>
+<keywords>
+<term>nonfiction</term>
+<term>prose</term>
+<term>masculine</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change>
+<date value="2002-02">February, 2002</date>
+<respStmt>
+<resp>corrector</resp>
+<name>Jason Goldsmith, The Electronic Text Center at The University of Virginia</name>
+</respStmt>
+<item>Copy checked for content and structure against 1874 American edition of Dissertations and Discussion.    Added TEI header and
+tags.</item>
+</change>
+<change>
+<date value="2005-07">July 2005</date>
+<respStmt>
+<resp>Corrector</resp>
+<name>John Ivor Carlson</name>
+</respStmt>
+<item>Converted to XML and/or checked tags.</item>
+</change>
+<change>
+<date value="2007-09">September 2007</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Ethan Gruber, University of Virginia Library</name>
+</respStmt>
+<item>Converted XML markup from TEI Lite to uva-dl-tei (TEI P4 with local customizations).</item>
+</change>
+<change>
+<date value="2008-01">January 2008</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Greg Murray, University of Virginia Library</name>
+</respStmt>
+<item>Programmatically updated TEI header markup (but not header content) for minimal compliance with current QA requirements.</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+
+<text id="d1">
+
+<body id="d2">
+<div1 type="essay" id="d3">
+<head>Bentham</head>
+
+<p>There are two men, recently deceased, to whom their country
+is indebted not only for the greater part of the important ideas
+which have been thrown into circulation among its thinking men in
+their time, but for a revolution in its general modes of thought
+and investigation. These men, dissimilar in almost all else,
+agreed in being closet-students -- secluded in a peculiar degree,
+by circumstances and character, from the business and intercourse
+of the world: and both were, through a large portion of their
+lives, regarded by those who took the lead in opinion (when they
+happened to hear of them) with feelings akin to contempt. But
+they were destined to renew a lesson given to mankind by every
+age, and always disregarded -- to show that speculative
+philosophy, which to the superficial appears a thing so remote
+from the business of life and the outward interests of men, is in
+reality the thing on earth which most influences them, and in the
+long run overbears every other influence save those which it must
+itself obey. The writers of whom we speak have never been read by
+the multitude; except for the more slight of their works, their
+readers have been few.. but they have been the teachers of the
+teachers; there is hardly to be found in England an individual of
+any importance in the world of mind, who (whatever opinions he
+may have afterwards adopted) did not first learn to think from
+one of these two; and though their influences have but begun to
+diffuse themselves through these intermediate channels over
+society at large, there is already scarcely a publication of any
+consequence addressed to the educated classes, which, if these
+persons had not existed, would not have been different from what
+it is. These men are, Jeremy Bentham and Samuel Taylor Coleridge
+-- the two great seminal minds of England in their age.
+</p><p>No comparison is intended here between the minds or
+influences of these remarkable men: this was impossible unless
+there were first formed a complete judgment of each, considered
+apart. It is our intention to attempt, on the present occasion,
+an estimate of one of them; the only one, a complete edition of
+whose works is yet in progress, and who, in the classification
+which may be made of all writers into Progressive and
+Conservative, belongs to the same division with ourselves. For
+although they were far too great men to be correctly designated
+by either appellation exclusively, yet in the main, Bentham was a
+Progressive philosopher, Coleridge a Conservative one. The
+influence of the former has made itself felt chiefly on minds of
+the Progressive class; of the latter, on those of the
+Conservative: and the two systems of concentric circles which the
+shock given by them is spreading over the ocean of mind, have
+only just begun to meet and intersect. The writings of both
+contain severe lessons to their own side, on many of the errors
+and faults they are addicted to: but to Bentham it was given to
+discern more particularly those truths with which existing
+doctrines and institutions were at variance; to Coleridge, the
+neglected truths which lay <hi rend="italic">in</hi> them.
+</p><p>A man of great knowledge of the world, and of the highest
+reputation for practical talent and sagacity among the official
+men of his time (himself no follower of Bentham, nor of any
+partial or exclusive school whatever) once said to us, as the
+result of his observation, that to Bentham more than to any other
+source might be traced the questioning spirit, the disposition to
+demand the <hi rend="italic">why</hi> of everything, which had gained so much ground and
+was producing such important consequences in these times. The
+more this assertion is examined, the more true it will be found.
+Bentham has been in this age and country the great questioner of
+things established. It is by the influence of the modes of
+thought with which his writings inoculated a considerable number
+of thinking men, that the yoke of authority has been broken, and
+innumerable opinions, formerly received on tradition as
+incontestable, are put upon their defence, and required to give
+an account of themselves. Who, before Bentham (whatever
+controversies might exist on points of detail) dared to speak
+disrespectfully, in express terms, of the British Constitution,
+or the English Law? He did so; and his arguments and his example
+together encouraged others. We do not mean that his writings
+caused the Reform Bill, or that the Appropriation Clause owns him
+as its parent: the changes which have been made, and the greater
+changes which will be made, in our institutions, are not the work
+of philosophers, but of the interests and instincts of large
+portions of society recently grown into strength. But Bentham
+gave voice to those interests and instincts: until he spoke out,
+those who found our institutions unsuited to them did not dare to
+say so, did not dare consciously to think so; they had never
+heard the excellence of those institutions questioned by
+cultivated men, by men of acknowledged intellect; and it is not
+in the nature of uninstructed minds to resist the united
+authority of the instructed. Bentham broke the spell. It was not
+Bentham by his own writings; it was Bentham through the minds and
+pens which those writings fed -- through the men in more direct
+contact with the world, into whom his spirit passed. If the
+superstition about ancestorial wisdom has fallen into decay; if
+the public are grown familiar with the idea that their laws and
+institutions are in great part not the product of intellect and
+virtue, but of modern corruption grafted upon ancient barbarism;
+if the hardiest innovation is no longer scouted <hi rend="italic">
+because it is an</hi>
+innovation -- establishments no longer considered sacred because
+they are establishments -- it will be found that those who have
+accustomed the public mind to these ideas have learnt them in
+Bentham's school, and that the assault on ancient institutions
+has been, and is, carried on for the most part with his weapons.
+It matters not although these thinkers, or indeed thinkers of any
+description, have been but scantily found among the persons
+prominently and ostensibly at the head of the Reform movement.
+All movements, except directly revolutionary ones, are headed,
+not by those who originate them, but by those who know best how
+to compromise between the old opinions and the new. The father of
+English innovation both in doctrines and in institutions, is
+Bentham: he is the great <hi rend="italic">
+subversive</hi>, or, in the language of
+continental philosophers, the great <hi rend="italic">
+critical</hi>, thinker of his age and country.
+</p><p>We consider this, however, to be not his highest title to
+fame. Were this all, he were only to be ranked among the lowest
+order of the potentates of mind -- the negative, or destructive
+philosophers; those who can perceive what is false, but not what
+is true; who awaken the human mind to the inconsistencies and
+absurdities of time-sanctioned opinions and institutions, but
+substitute nothing in the place of what they take away. We have
+no desire to undervalue the services of such persons: mankind
+have been deeply indebted to them; nor will there ever be a lack
+of work for them, in a world in which so many false things are
+believed, in which so many which have been true, are believed
+long after they have ceased to be true. The qualities, however,
+which fit men for perceiving anomalies, without perceiving the
+truths which would rectify them, are not among the rarest of
+endowments. Courage, verbal acuteness, command over the forms of
+argumentation, and a popular style, will make, out of the
+shallowest man, with a sufficient lack of reverence, a
+considerable negative philosopher. Such men have never been
+wanting in periods of culture; and the period in which Bentham
+formed his early impressions was emphatically their reign, in
+proportion to its barrenness in the more noble products of the
+human mind. An age of formalism in the Church and corruption in
+the State, when the most valuable part of the meaning of
+traditional doctrines had faded from the minds even of those who
+retained from habit a mechanical belief in them, was the time to
+raise up all kinds of sceptical philosophy. Accordingly, France
+had Voltaire, and his school of negative thinkers, and England
+(or rather Scotland) had the profoundest negative thinker on
+record, David Hume: a man, the peculiarities of whose mind
+qualified him to detect failure of proof, and want of logical
+consistency, at a depth which French sceptics, with their
+comparatively feeble powers of analysis and abstractions stop far
+short of, and which German subtlety alone could thoroughly
+appreciate, or hope to rival.
+</p><p>If Bentham had merely continued the work of Hume, he would
+scarcely have been heard of in philosophy. for he was far
+inferior to Hume in Hume's qualities, and was in no respect
+fitted to excel as a metaphysician. We must not look for
+subtlety, or the power of recondite analysis, among his
+intellectual characteristics. In the former quality, few great
+thinkers have ever been so deficient; and to find the latter, in
+any considerable measure, in a mind acknowledging any kindred
+with his, we must have recourse to the late Mr. Mill -- a man who
+united the great qualities of the metaphysicians of the
+eighteenth century, with others of a different complexion,
+admirably qualifying him to complete and correct their work.
+Bentham had not these peculiar gifts; but he possessed others,
+not inferior, which were not possessed by any of his precursors;
+which have made him a source of light to a generation which has
+far outgrown their influence, and, as we called him, the chief
+subversive thinker of an age which has long lost all that they
+could subvert.
+</p><p>To speak of him first as a merely negative philosopher -- as
+one who refutes illogical arguments, exposes sophistry, detects
+contradiction and absurdity; even in that capacity there was a
+wide field left vacant for him by Hume, and which he has occupied
+to an unprecedented extent; the field of practical abuses. This
+was Bentham's peculiar province: to this he was called by the
+whole bent of his disposition: to carry the warfare against
+absurdity into things practical. His was an essentially practical
+mind. It was by practical abuses that his mind was first turned
+to speculation -- by the abuses of the profession which was
+chosen for him, that of the law. He has himself stated what
+particular abuse first gave that shock to his mind, the recoil of
+which has made the whole mountain of abuse totter; it was the
+custom of making the client pay for three attendances in the
+office of a Master in Chancery; when only one was given. The law,
+he found, on examination, was full of such things. But were these
+discoveries of his? No; they were known to every lawyer who
+practised, to every judge who sat on the bench, and neither
+before nor for long after did they cause any apparent uneasiness
+to the consciences of these learned persons, nor hinder them from
+asserting, whenever occasion offered, in books, in parliament, or
+on the bench, that the law was the perfection of reason. During
+so many generations, in each of which thousands of educated young
+men were successively placed in Bentham's position and with
+Bentham's opportunities, he alone was found with sufficient moral
+sensibility and self-reliance to say to himself that these
+things, however profitable they might be, were frauds, and that
+between them and himself there should be a gulf fixed. To this
+rare union of self-reliance and moral sensibility we are indebted
+for all that Bentham has done. Sent to Oxford by his father at
+the unusually early age of fifteen -- required, on admission, to
+declare his belief in the Thirty-nine Articles -- he felt it
+necessary to examine them; and the examination suggested
+scruples, which he sought to get removed, but instead of the
+satisfaction he expected was told that it was not for boys like
+him to set up their judgment against the great men of the Church.
+After a struggle, he signed; but the impression that he had done
+an immoral act, never left him; he considered himself to have
+committed a falsehood, and throughout life he never relaxed in
+his indignant denunciations of all laws which command such
+falsehoods, all institutions which attach rewards to them.
+</p><p>By thus carrying the war of criticism and refutation, the
+conflict with falsehood and absurdity, into the field of
+practical evils, Bentham, even if he had done nothing else, would
+have earned an important place in the history of intellect. He
+carried on the warfare without intermission. To this, not only
+many of his most piquant chapters, but some of the most finished
+of his entire works, are entirely devoted: the 'Defence of
+Usury'. the 'Book of Fallacies'; and the onslaught upon
+Blackstone, published anonymously under the title of ' A Fragment
+on Government', which, though a first production, and of a writer
+afterwards so much ridiculed for his style, excited the highest
+admiration no less for its composition than for its thoughts, and
+was attributed by turns to Lord Mansfield, to Lord Camden, and
+(by Dr. Johnson) to Dunning, one of the greatest masters of style
+among the lawyers of his day. These writings are altogether
+original; though of the negative school, they resemble nothing
+previously produced by negative philosophers; and would have
+sufficed to create for Bentham, among the subversive thinkers of
+modern Europe, a place peculiarly his own. But it is not these
+writings that constitute the real distinction between him and
+them. There was a deeper difference. It was that they were purely
+negative thinkers, he was positive: they only assailed error, he
+made it a point of conscience not to do so until he thought he
+could plant instead the corresponding truth. Their character was
+exclusively analytic, his was synthetic. They took for their
+starting-point the received opinion on any subject, dug round it
+with their logical implements, pronounced its foundations
+defective, and condemned it: he began <hi rend="italic">de novo</hi>
+, laid his own
+foundations deeply and firmly, built up his own structure, and
+bade mankind compare the two; it was when he had solved the
+problem himself, or thought he had done so, that he declared all
+other solutions to be erroneous. Hence, what they produced will
+not last; it must perish, much of it has already perished, with
+the errors which it exploded: what he did has its own value, by
+which it must outlast all errors to which it is opposed. Though
+we may reject, as we often must, his practical conclusions, yet
+his premises, the collections of facts and observations from
+which his conclusions were drawn, remain for ever, a part of the
+materials of philosophy.
+</p><p>A place, therefore, must be assigned to Bentham among the
+masters of wisdom, the great teachers and permanent intellectual
+ornaments of the human race. He is among those who have enriched
+mankind with imperishable gifts; and although these do not
+transcend all other gifts, nor entitle him to those honours
+'above all Greek, above all Roman fame', which by a natural
+reaction against the neglect and contempt of the ignorant, many
+of his admirers were once disposed to accumulate upon him, yet to
+refuse an admiring recognition of what he was, on account of what
+he was not, is a much worse error, and one which, pardonable in
+the vulgar, is no longer permitted to any cultivated and
+instructed mind.
+</p><p>If we were asked to say, in the fewest possible words, what
+we conceive to be Bentham's place among these great intellectual
+benefactors of humanity; what he was, and what he was not; what
+kind of service he did and did not render to truth; we should say
+he was not a great philosopher, but he was a great reformer in
+philosophy. He brought into philosophy something which it greatly
+needed, and for want of which it was at a stand. It was not his
+doctrines which did this, it was his mode of arriving at them. He
+introduced into morals and politics those habits of thought and
+modes of investigation, which are essential to the idea of
+science; and the absence of which made those departments of
+inquiry, as physics had been before Bacon, a field of
+interminable discussion, leading to no result. It was not his
+opinions, in short, but his method, that constituted the novelty
+and the value of what he did; a value beyond all price, even
+though we should reject the whole, as we unquestionably must a
+large part, of the opinions themselves.
+</p><p>Bentham's method may be shortly described as the method of
+detail; of treating wholes by separating them into their parts,
+abstractions by resolving them into Things, classes and
+generalities by distinguishing them into the individuals of which
+they are made up; and breaking every question into pieces before
+attempting to solve it. The precise amount of originality of this
+process, considered as a logical conception -- its degree of
+connexion with the methods of physical science, or with the
+previous labours of Bacon, Hobbes or Locke -- is not an essential
+consideration in this pace. Whatever originality there was in the
+method -- in the subjects he applied it to, and in the rigidity
+with which he adhered to it, there was the greatest. Hence his
+interminable classifications. Hence his elaborate demonstrations
+of the most acknowledged truths. That murder, incendiarism,
+robbery, are mischievous actions, he will not take for granted
+without proof; let the thing appear ever so self-evident, he will
+know the why and the how of it with the last degree of precision;
+he will distinguish all the different mischiefs of a crime,
+whether of the <hi rend="italic">first</hi>, the <hi rend="italic">
+second</hi> or the <hi rend="italic">third</hi> order, namely, 1.
+the evil to the sufferer, and to his personal connexions; 2. the
+<hi rend="italic">danger</hi> from example, and the <hi rend="italic">
+alarm</hi> or painful feeling of
+insecurity; and 3. the discouragement to industry and useful
+pursuits arising from the <hi rend="italic">alarm</hi>
+, and the trouble and resources which must be expended in warding
+off the <hi rend="italic">danger</hi>. After this
+enumeration, he will prove from the laws of human feeling, that
+even the first of these evils, the sufferings of the immediate
+victim, will on the average greatly outweigh the pleasure reaped
+by the offender; much more when all the other evils are taken
+into account. Unless this could be proved, he would account the
+infliction of punishment unwarrantable; and for taking the
+trouble to prove it formally, his defence is, 'there are truths
+which it is necessary to prove, not for their own sakes, because
+they are acknowledged, but that an opening may be made for the
+reception of other truths which depend upon them. It is in this
+manner we provide for the reception of first principles, which,
+once received, prepare the way for admission of all other
+truths.' To which may be added, that in this manner also we
+discipline the mind for practising the same sort of dissection
+upon questions more complicated and of more doubtful issue.
+</p><p>It is a sound maxim, and one which all close thinkers have
+felt, but which no one before Bentham ever so consistently
+applied, that error lurks in generalities: that the human mind is
+not capable of embracing a complex whole, until it has surveyed
+and catalogued the parts of which that whole is made up; that
+abstractions are not realities <hi rend="italic">per se</hi>,
+but an abridged mode of
+expressing facts, and that the only practical mode of dealing
+with them is to trace them back to the facts (whether of
+experience or of consciousness) of which they are the expression.
+Proceeding on this principle, Bentham makes short work with the
+ordinary modes of moral and political reasoning. These, it
+appeared to him, when hunted to their source, for the most part
+terminated in <hi rend="italic">phrases</hi>.
+In politics, liberty, social order,
+constitution, law of nature, social compact, etc., were the
+catchwords: ethics had its analogous ones. Such were the
+arguments on which the gravest questions of morality and policy
+were made to turn; not reasons, but allusions to reasons;
+sacramental expressions, by which a summary appeal was made to
+some general sentiment of mankind, or to some maxim in familiar
+use, which might be true or not, but the limitations of which no
+one had ever critically examined. And this satisfied other
+people; but not Bentham. He required something more than opinion
+as a reason for opinion. Whenever he found a <hi rend="italic">
+phrase</hi> used as an
+argument for or against anything, he insisted upon knowing what
+it meant; whether it appealed to any standard, or gave intimation
+of any matter of fact relevant to the question; and if he could
+not find that it did either, he treated it as an attempt on the
+part of the disputant to impose his own individual sentiment on
+other people, without giving them a reason for it; a '
+contrivance for avoiding the obligation of appealing to any
+external standard, and for prevailing upon the reader to accept
+of the author's sentiment and opinion as a reason, and that a
+sufficient one, for itself. Bentham shall speak for himself on
+this subject: the passage is from his first systematic work,
+'Introduction to the Principles of Morals and Legislation', and
+we could scarcely quote anything more strongly exemplifying both
+the strength and weakness of his mode of philosophizing:</p>
+
+<q>It is curious enough to observe the variety of inventions men
+have hit upon, and the variety of phrases they have brought
+forward, in order to conceal from the world, and, if possible,
+from themselves, this very general and therefore very pardonable
+self-sufficiency.
+</q>
+<q>1. One man says, he has a thing made on purpose to tell him
+what is right and what is wrong; and that is called a 'moral
+sense:' and then he goes to work at his ease, and says, such a
+thing is right, and such a thing is wrong -- why? 'Because my
+moral sense tells me it is.'
+</q>
+<q>2. Another man comes and alters the phrase; leaving out
+<hi rend="italic">moral</hi>, and putting in
+<hi rend="italic">common</hi> in the room of it. He then tells you
+that his common sense tells him what is right and wrong, as
+surely as the other's moral sense did; meaning by common sense a
+sense of some kind or other, which, he says, is possessed by all
+mankind: the sense of those whose sense is not the same as the
+author's being struck out as not worth taking. This contrivance
+does better than the other; for a moral sense being a new thing,
+a man may feel about him a good while without being able to find
+it out: but common sense is as old as the creation; and there is
+no man but would be ashamed to be thought not to have as much of
+it as his neighbours. It has another great advantage: by
+appearing to share power, it lessens envy; for when a man gets up
+upon this ground, in order to anathematize those who differ from
+him, it is not by a <hi rend="italic">sic volo sic jubeo</hi>,
+but by a <hi rend="italic">velitis jubeatis</hi>.
+</q>
+<q>3. Another man comes, and says, that as to a moral sense
+indeed, he cannot find that he has any such thing: that, however,
+he has an <hi rend="italic">understanding</hi>, which will do quite as well. This
+understanding, he says, is the standard of right and wrong: it
+tells him so and so. All good and wise men understand as he does:
+if other men's understandings differ in any part from his, so
+much the worse for them: it is a sure sign they are either
+defective or corrupt.
+</q>
+<q>4. Another man says, that there is an eternal and immutable
+Rule of Right: that the rule of right dictates so and so: and
+then he begins giving you his sentiments upon anything that comes
+uppermost: and these sentiments (you are to take for granted) are
+so many branches of the eternal rule of right.
+</q>
+<q>5. Another man, or perhaps the same man (it is no matter),
+says that there are certain practices conformable and others
+repugnant, to the Fitness of Things; and then he tells you, at
+his leisure, what practices are conformable, and what repugnant:
+just as he happens to like a practice or dislike it.
+</q>
+<q>6. A great multitude of people are continually talking of the
+Law of Nature; and then they go on giving you their sentiments
+about what is right and what is wrong: and these sentiments, you
+are to understand, are so many chapters and sections of the Law
+of Nature.
+</q>
+<q>7. Instead of the phrase, Law of Nature, you have sometimes
+Law of Reason, Right Reason, Natural Justice, Natural Equity,
+Good Order. Any of them will do equally well. This latter is most
+used in politics. The three last are much more tolerable than the
+others, because they do not very explicitly claim to be anything
+more than phrases: they insist but feebly upon their being looked
+upon as so many positive standards of themselves, and seem
+content to be taken, upon occasion, for phrases expressive of the
+conformity of the thing in question to the proper standards,
+whatever that may be. On most occasions, however, it will be
+better to say <hi rend="italic">utility: utility</hi>
+is clearer as referring more explicitly to pain and pleasure.
+</q>
+<q>8. We have one philosopher, who says, there is no harm in
+anything in the world but in telling a lie; and that if, for
+example, you were to murder your own father, this would only be a
+particular way of saying, he was not your father. Of course when
+this philosopher sees anything that he does not like, he says, it
+is a particular way of telling a lie. It is saying, that the act
+ought to be done, or may be done, when, <hi rend="italic">in
+truth</hi>, it ought not be done.
+</q>
+<q>9. The fairest and openest of them all is that sort of man
+who speaks out, and says, I am of the number of the elect: now
+God himself takes care to inform the elect what is right, and
+that with so good effect, and let them strive ever so, they
+cannot help not only knowing it but practising it. If therefore a
+man wants to know what is right and what is wrong, he has nothing
+to do but to come to me.
+</q>
+<p>Few will contend that this is a perfectly fair representation
+of the <hi rend="italic">animus</hi> of those who employ the various phrases so
+amusingly animadverted on; but that the phrases contain no
+argument, save what is grounded on the very feelings they are
+adduced to justify, is a truth which Bentham had the eminent
+merit of first pointing out.
+</p><p>It is the introduction into the philosophy of human conduct,
+of this method of detail -- of this practice of never reasoning
+about wholes until they have been resolved into their parts, nor
+about abstractions until they have been translated into realities
+-- that constitutes the originality of Bentham in philosophy, and
+makes him the great reformer of the moral and political branch of
+it. To what he terms the 'exhaustive method of classification',
+which is but one branch of this more general method, he himself
+ascribes everything original in the systematic and elaborate work
+from which we have quoted. The generalities of his philosophy
+itself have little or no novelty: to ascribe any to the doctrine
+that general utility is the foundation of morality, would imply
+great ignorance of the history of philosophy, of general
+literature, and of Bentham's own writings. He derived the idea,
+as he says himself, from Helvetius; and it was the doctrine no
+less, of the religious philosophers of that age, prior to Reid
+and Beattie. We never saw an abler defence of the doctrine of
+utility than in a book written in refutation of Shaftesbury, and
+now little read -- Brown's<ref target="n1"> [1] </ref>'Essays on the Characteristics'; and
+in Johnson's celebrated review of Soame Jenyns, the same doctrine
+is set forth as that both of the author and of the reviewer. In
+all ages of philosophy one of its schools has been utilitarian --
+not only from the time of Epicurus, but long before. It was by
+mere accident that this opinion became connected in Bentham with
+his peculiar method. The utilitarian philosophers antecedent to
+him had no more claims to the method than their antagonists. To
+refer, for instance, to the Epicurean philosophy, according to
+the most complete view we have of the moral part of it, by the
+most accomplished scholar of antiquity, Cicero; we ask any one
+who has read his philosophical writings, the 'De Finibus' for
+instance, whether the arguments of the Epicureans do not, just as
+much as those of the Stoics or Platonists, consist of mere
+rhetorical appeals to common notions, to
+&eacgr;&igr;&kgr;&#x1f40;&tgr;&agr; and
+&sgr;&eegr;&mgr;&egr;&iacgr;&agr;
+instead of
+&igr;&egr;&kgr;&mgr;&eeacgr;&rgr;&igr;&agr;,
+notions picked up as it were casually, and when true at all,
+never so narrowly looked into as to ascertain
+in what sense and under what limitations they are true. The
+application of a real inductive philosophy to the problems of
+ethics, is as unknown to the Epicurean moralists as to any of the
+other schools: they never take a question to pieces, and join
+issue on a definite point. Bentham certainly did not learn his
+sifting and anatomizing method from them.
+</p><p>This method Bentham has finally installed in philosophy; has
+made it henceforth imperative on philosophers of all schools. By
+it he has formed the intellects of many thinkers, who either
+never adopted, or have abandoned, many of his peculiar opinions.
+He has taught the method to men of the most opposite schools to
+his; he has made them perceive that if they do not test their
+doctrines by the method of detail, their adversaries will. He has
+thus, it is not too much to say, for the first time introduced
+precision of thought into moral and political philosophy. Instead
+of taking up their opinions by intuition, or by ratiocination
+from premises adopted on a mere rough view, and couched in
+language so vague that it is impossible to say exactly whether
+they are true or false, philosophers are now forced to understand
+one another, to break down the generality of their propositions,
+and join a precise issue in every dispute. This is nothing less
+than a revolution in philosophy. Its effect is gradually becoming
+evident in the writings of English thinkers of every variety of
+opinion, and will be felt more and more in proportion as
+Bentham's writings are diffused, and as the number of minds to
+whose formation they contribute is multiplied.
+</p><p>It will naturally be presumed that of the fruits of this
+great philosophical improvement some portion at least will have
+been reaped by its author. Armed with such a potent instrument,
+and wielding it with such singleness of aim; cultivating the
+field of practical philosophy with such unwearied and such
+consistent use of a method right in itself, and not adopted by
+his predecessors; it cannot he but that Bentham by his own
+inquiries must have accomplished something considerable. And so,
+it will be found, he has; something not only considerable, but
+extraordinary; though but little compared with what he has left
+undone, and far short of what his sanguine and almost boyish
+fancy made him flatter himself that he had accomplished. His
+peculiar method, admirably calculated to make clear thinkers, and
+sure ones to the extent of their materials, has not equal
+efficacy for making those materials complete. It is a security
+for accuracy, but not for comprehensiveness; or rather, it is a
+security for one sort of comprehensiveness, but not for another.
+</p><p>Bentham's method of laying out his subject is admirable as a
+preservative against one kind of narrow and partial views. He
+begins by placing before himself the whole of the field of
+inquiry to which the particular question belongs, and divides
+down till he arrives at the thing he is in search of; and thus by
+successively rejecting all which is <hi rend="italic">not</hi>
+ the thing, he gradually works out a definition of what it
+<hi rend="italic">is</hi>. This, which he calls the
+exhaustive method, is as old as philosophy itself. Plato owes
+everything to it, and does everything by it; and the use made of
+it by that great man in his Dialogues, Bacon, in one of those
+pregnant logical hints scattered through his writings, and so
+much neglected by most of his pretended followers, pronounces to
+be the nearest approach to a true inductive method in the ancient
+philosophy. Bentham was probably not aware that Plato had
+anticipated him in the process to which he too declared that he
+owed everything. By the practice of it, his speculations are
+rendered eminently systematic and consistent; no question, with
+him, is ever an insulated one; he sees every subject in connexion
+with all the other subjects with which in his view it is related,
+and from which it requires to be distinguished; and as all that
+he knows, in the least degree allied to the subject, has been
+marshalled in an orderly manner before him, he does not, like
+people who use a looser method, forget and overlook a thing on
+one occasion to remember it on another. Hence there is probably
+no philosopher of so wide a range, in whom there are so few
+inconsistencies. If any of the truths which he did not see, had
+come to be seen by him, he would have remembered it everywhere
+and at all times, and would have adjusted his whole system to it.
+And this is another admirable quality which he has impressed upon
+the best of the minds trained in his habits of thought: when
+those minds open to admit new truths, they digest them as fast as
+they receive them.
+</p><p>But this system, excellent for keeping before the mind of the
+thinker all that he knows, does not make him know enough; it does
+not make a knowledge of some of the properties of a thing suffice
+for the whole of it, nor render a rooted habit of surveying a
+complex object (though ever so carefully) in only one of its
+aspects, tantamount to the power of contemplating it in all. To
+give this last power, other qualities are required: whether
+Bentham possessed those other qualities we now have to see.
+</p><p>Bentham's mind, as we have already said, was eminently
+synthetical. He begins all his inquiries by supposing nothing to
+he known on the subject, and reconstructs all philosophy <hi rend="italic">ab
+initio</hi>, without reference to the opinions of his predecessors.
+But to build either a philosophy or anything else, there must be
+materials. For the philosophy of matter, the materials are the
+properties of matter; for moral and political philosophy, the
+properties of man, and of man's position in the world. The
+knowledge which any inquirer possesses of these properties,
+constitutes a limit beyond which, as a moralist or a political
+philosopher, whatever be his powers of mind, he cannot reach.
+Nobody's synthesis can be more complete than his analysis. If in
+his survey of human nature and life he has left any element out,
+then, wheresoever that element exerts any influence, his
+conclusions will fail, more or less, in their application. If he
+has left out many elements, and those very important, his labours
+may be highly valuable; he may have largely contributed to that
+body of partial truths which, when completed and corrected by one
+another, constitute practical truth; but the applicability of his
+system to practice in its own proper shape will be of an
+exceedingly limited range.
+</p><p>Human nature and human life are wide subjects, and whoever
+would embark in an enterprise requiring a thorough knowledge of
+them, has need both of large stores of his own, and of all aids
+and appliances from elsewhere. His qualifications for success
+will be proportional to two things: the degree in which his own
+nature and circumstances furnish them with a correct and complete
+picture of man's nature and circumstances; and his capacity of
+deriving light from other minds.
+</p><p>Bentham failed in deriving light from other minds. His
+writings contain few traces of the accurate knowledge of any
+schools of thinking but his own; and many proofs of his entire
+conviction that they could teach him nothing worth knowing. For
+some of the most illustrious of previous thinkers, his contempt
+was unmeasured. In almost the only passage of the 'Deontology'
+which, from its style, and from its having before appeared in
+print, may be known to be Bentham's, Socrates, and Plato are
+spoken of in terms distressing to his great admirers; and the
+incapacity to appreciate such men, is a fact perfectly in unison
+with the general habits of Bentham's mind. He had a phrase,
+expressive of the view he took of all moral speculations to which
+his method had not been applied, or (which he considered as the
+same thing) not founded on a recognition of utility as the moral
+standard; this phrase was 'vague generalities'. Whatever
+presented itself to him in such a shape, he dismissed as unworthy
+of notice, or dwelt upon only to denounce as absurd. He did not
+heed, or rather the nature of his mind prevented it from
+occurring to him, that these generalities contained the whole
+unanalysed experience of the human race.
+</p><p>Unless it can be asserted that mankind did not know anything
+until logicians taught it to them that until the last hand has
+been put to a moral truth by giving it a metaphysically precise
+expression, all the previous rough-hewing which it has undergone
+by the common intellect at the suggestion of common wants and
+common experience is to go for nothing; it must be allowed, that
+even the originality which can, and the courage which dares,
+think for itself, is not a more necessary part of the
+philosophical character than a thoughtful regard for previous
+thinkers, and for the collective mind of the human race. What has
+been the opinion of mankind, has been the opinion of persons of
+all tempers and dispositions, of all partialities and
+prepossessions, of all varieties in position, in education, in
+opportunities of observation and inquiry. No one inquirer is all
+this; every inquirer is either young or old, rich or poor, sickly
+or healthy, married or unmarried, meditative or active, a poet or
+a logician, an ancient or a modern, a man or a woman; and if a
+thinking person, has, in addition, the accidental peculiarities
+of his individual modes of thought. Every circumstance which
+gives a character to the life of a human being, carries with it
+its peculiar biases; its peculiar facilities for perceiving some
+things, and for missing or forgetting others. But, from points of
+view different from his, different things are perceptible; and
+none are more likely to have seen what he does not see, than
+those who do not see what he sees. The general opinion of mankind
+is the average of the conclusions of all minds, stripped indeed
+of their choicest and most recondite thoughts, but freed from
+their twists and partialities: a net result, in which everybody's
+point of view is represented, nobody's predominant. The
+collective mind does not penetrate below the surface, but it sees
+all the surface; which profound thinkers, even by reason of their
+profundity, often fail to do: their intenser view of a thing in
+some of its aspects diverting their attention from others.
+</p><p>The hardiest assertor, therefore, of the freedom of private
+judgment the keenest detector of the errors of his predecessors,
+and of the inaccuracies of current modes of thought -- is the
+very person who most needs to fortify the weak side of his own
+intellect, by study of the opinions of mankind in all ages and
+nations, and of the speculations of philosophers of the modes of
+thought most opposite to his own. It is there that he will find
+the experiences denied to himself -- the remainder of the truth
+of which he sees but half -- the truths, of which the errors he
+detects are commonly but the exaggerations. If, like Bentham, he
+brings with him an improved instrument of investigation, the
+greater is the probability that he will find ready prepared a
+rich abundance of rough ore, which was merely waiting for that
+instrument. A man of clear ideas errs grievously if he imagines
+that whatever is seen confusedly does not exist: it belongs to
+him, when he meets with such a thing, to dispel the mist, and fix
+the outlines of the vague form which is looming through it.
+</p><p>Bentham's contempt, then, of all other schools of thinkers;
+his determination to create a philosophy wholly out of the
+materials furnished by his own mind, and by minds like his own;
+was his first disqualification as a philosopher. His second, was
+the incompleteness of his own mind as a representative of
+universal human nature. In many of the most natural and strongest
+feelings of human nature he had no sympathy; from many of its
+graver experiences he was altogether cut off; and the faculty by
+which one mind understands a mind different from itself, and
+throws itself into the feelings of that other mind, was denied
+him by his deficiency of imagination.
+</p><p>With imagination in the popular sense, command of imagery and
+metaphorical expression, Bentham was, to a certain degree,
+endowed. For want, indeed, of poetical culture, the images with
+which his fancy supplied him were seldom beautiful, but they were
+quaint and humorous, or bold, forcible, and intense: passages
+might be quoted from him both of playful irony, and of
+declamatory eloquence, seldom surpassed in the writings of
+philosophers. The imagination which he had not, was that to which
+the name is generally appropriated by the best writers of the
+present day; that which enables us, by a voluntary effort, to
+conceive the absent as if it were present, the imaginary as if it
+were real, and to cloth it in the feelings which, if it were
+indeed real, it would bring along with it. This is the power by
+which one human being enters into the mind and circumstances of
+another. This power constitutes the poet, in so far as he does
+anything but melodiously utter his own actual feelings. It
+constitutes the dramatist entirely. It is one of the constituents
+of the historian; by it we understand other times; by it Guizot
+interprets to us the middle ages; Nisard, in his beautiful
+Studies on the later Latin poets, places us in the Rome of the
+Caesars; Michelet disengages the distinctive characters of the
+different races and generations of mankind from the facts of
+their history. Without it nobody knows even his own nature,
+further than circumstances have actually tried it and called it
+out; nor the nature of his fellow-creatures, beyond such
+generalizations as he may have been enabled to make from his
+observation of their outward conduct.
+</p><p>By these limits, accordingly, Bentham's knowledge of human
+nature is bounded. It is wholly empirical; and the empiricism of
+one who has had little experience. He had neither internal
+experience nor external; the quiet, even tenor of his life, and
+his healthiness of mind, conspired to exclude him from both. He
+never knew prosperity and adversity, passion nor satiety. he
+never had even the experiences which sickness gives; he lived
+from childhood to the age of eighty-five in boyish health. He
+knew no dejection, no heaviness of heart. He never felt life a
+sore and a weary burthen. He was a boy to the last.
+Self-consciousness, that daemon of the men of genius of our time,
+from Wordsworth to Byron, from Goethe to Chateaubriand, and to
+which this age owes so much both of its cheerful and its mournful
+wisdom, never was awakened in him. How much of human nature
+slumbered in him he knew not, neither can we know. He had never
+been made alive to the unseen influences which were acting on
+himself, nor consequently on his fellow-creatures. Other ages and
+other nations were a blank to him for purposes of instruction. He
+measured them but by one standard; their knowledge of facts, and
+their capability to take correct views of utility, and merge all
+other objects in it. His own lot was cast in a generation of the
+leanest and barrenest men whom England had yet produced, and he
+was an old man when a better race came in with the present
+century. He saw accordingly in man little but what the vulgarest
+eye can see; recognized no diversities of character but such as
+he who runs may read. Knowing so little of human feelings, he
+knew still less of the influences by which those feelings are
+formed: all the more subtle workings both of the mind upon
+itself, and of external things upon the mind, escaped him; and no
+one, probably, who, in a highly instructed age, ever attempted to
+give a rule to all human conduct, set out with a more limited
+conception either of the agencies by which human conduct <hi
+rend="italic">is</hi>, or of those by which it <hi rend="italic">
+should</hi> be, influenced.
+</p><p>This, then, is our idea of Bentham. He was a man both of
+remarkable endowments for philosophy, and of remarkable
+deficiencies for it: fitted, beyond almost any man, for drawing
+from his premises, conclusions not only correct, but sufficiently
+precise and specific to be practical: but whose general
+conception of human nature and life furnished him with an
+unusually slender stock of premises. It is obvious what would be
+likely to be achieved by such a man; what a thinker, thus gifted
+and thus disqualified, could do in philosophy. He could, with
+close and accurate logic, hunt half-truths to their consequences
+and practical applications, on a scale both of greatness and of
+minuteness not previously exemplified; and this is the character
+which posterity will probably assign to Bentham.
+</p><p>We express our sincere and well-considered conviction when we
+say, that there is hardly anything positive in Bentham's
+philosophy which is not true: that when his practical conclusions
+are erroneous, which in our opinion they are very often, it is
+not because the considerations which he urges are not rational
+and valid in themselves, but because some more important
+principle, which he did not perceive, supersedes those
+considerations, and turns the scale. The bad part of his writings
+is his resolute denial of all that he does not see, of all truths
+but those which he recognizes. By that alone has he exercised any
+bad influence upon his age; by that he has, not created a school
+of deniers, for this is an ignorant prejudice, but put himself at
+the head of the school which exists always, though it does not
+always find a great man to give it the sanction of philosophy.
+thrown the mantle of intellect over the natural tendency of men
+in all ages to deny or disparage all feelings and mental states
+of which they have no consciousness in themselves.
+</p><p>The truths which are not Bentham's, which his philosophy
+takes no account of, are many and important; but his
+non-recognition of them does not put them out of existence; they
+are still with us, and it is a comparatively easy task that is
+reserved for us, to harmonize those truths with his. To reject
+his half of the truth because he overlooked the other half, would
+be to fall into his error without having his excuse. For our own
+part, we have a large tolerance for one-eyed men, provided their
+one eye is a penetrating one: if they saw more, they probably
+would not see so keenly, nor so eagerly pursue one course of
+inquiry. Almost all rich veins of original and striking
+speculation have been opened by systematic half-thinkers: though
+whether these new thoughts drive out others as good, or are
+peacefully superadded to them, depends on whether these
+half-thinkers are or are not followed in the same track by
+complete thinkers. The field of man's nature and life cannot be
+too much worked, or in too many directions; until every clod is
+turned up the work is imperfect; no whole truth is possible but
+by combining the points of view of all the fractional truths,
+nor, therefore, until it has been fully seen what each fractional
+truth can do by itself.
+</p><p>What Bentham's fractional truths could do, there is no such
+good means of showing as by a review of his philosophy: and such
+a review, though inevitably a most brief and general one, it is
+now necessary to attempt.
+</p><p>The first question in regard to any man of speculation is,
+what is his theory of human life? In the minds of many
+philosophers, whatever theory they have of this sort is latent,
+and it would be a revelation to themselves to have it pointed out
+to them in their writings as others can see it, unconsciously
+moulding everything to its own likeness. But Bentham always knew
+his own premises, and made his reader know them: it was not his
+custom to leave the theoretic grounds of his practical
+conclusions to conjecture. Few great thinkers have afforded the
+means of assigning with so much certainty the exact conception
+which they had formed of man and of man's life.
+</p><p>Man is conceived by Bentham as a being susceptible of
+pleasures and pains, and governed in all his conduct partly by
+the different modifications of self-interest, and the passions
+commonly classed as selfish, partly by sympathies, or
+occasionally antipathies, towards other beings. And here
+Bentham's conception of human nature stops. He does not exclude
+religion; the prospect of divine rewards and punishments he
+includes under the head of 'self-regarding interest', and the
+devotional feeling under that of sympathy with God. But the whole
+of the impelling or restraining principles, whether of this or of
+another world, which he recognizes, are either self-love, or love
+or hatred towards other sentient beings. That there might be no
+doubt of what he thought on the subject, he has not left us to
+the general evidence of his writings, but has drawn out a 'Table
+of the Springs of Action', an express enumeration and
+classification of human motives, with their various names,
+laudatory, vituperative, and neutral: and this table, to be found
+in Part I of his collected works, we recommend to the study of
+those who would understand his philosophy.
+</p><p>Man is never recognized by him as a being capable of pursuing
+spiritual perfection as an end; of desiring, for its own sake,
+the conformity of his own character to his standard of
+excellence, without hope of good or fear of evil from other
+source than his own inward consciousness. Even in the more
+limited form of Conscience, this great fact in human nature
+escapes him. Nothing is more curious than the absence of
+recognition in any of his writings of the existence of
+conscience, as a thing distinct from philanthropy, from affection
+for God or man, and from self-interest in this world or in the
+next. There is a studied abstinence from any of the phrases
+which, in the mouths of others, import the acknowledgment of such
+a fact. <ref target="n2">[2]</ref>  If we find the words 'Conscience', 'Principle', 'Moral
+Rectitude', 'Moral Duty', in his Table of the Springs of Action,
+it is among the synonymes of the 'love of reputation'. with an
+intimation as to the two former phrases, that they are also
+sometimes synonymous with the <hi rend="italic">religious</hi>
+ motive, or the motive of <hi rend="italic">sympathy</hi>.
+The feeling of moral approbation or disapprobation
+properly so called, either towards ourselves or our
+fellow-creatures, he seems unaware of the existence of; and
+neither the word <hi rend="italic">self-respect</hi>, nor the idea to which that word is
+appropriated, occurs even once, so far as our recollection serves
+us, in his whole writings.
+</p><p>Nor is it only the moral part of man's nature, in the strict
+sense of the term -- the desire of perfection, or the feeling of
+an approving or of an accusing conscience -- that he overlooks;
+he but faintly recognizes, as a fact in human nature, the pursuit
+of any other ideal end for its own sake. The sense of
+<hi rend="italic">honour</hi>, and
+personal dignity -- that feeling of personal exaltation and
+degradation which acts independently of other people's opinion,
+or even in defiance of it; the love of <hi rend="italic">beauty</hi>
+, the passion of the artist; the love of <hi rend="italic">order</hi>
+, of congruity, of consistency in all
+things, and conformity to their end; the love of
+<hi rend="italic">power</hi>, not in
+the limited form of power over other human beings, but abstract
+power, the power of making our volitions effectual; the love of
+<hi rend="italic">action</hi>, the
+thirst for movement and activity, a principle
+scarcely of less influence in human life than its opposite, the
+love of ease: None of these powerful constituents of human nature
+are thought worthy of a place among the 'Springs of Action'; and
+though there is possibly no one of them of the existence of which
+an acknowledgment might not be found in some corner of Bentham's
+writings, no conclusions are ever founded on the acknowledgment.
+Man, that most complex being, is a very simple one in his eyes.
+Even under the head of <hi rend="italic">sympathy</hi>,
+his recognition does not extend
+to the more complex forms of the feeling -- the love of
+<hi rend="italic">loving</hi>,
+the need of a sympathizing support, or of objects of admiration
+and reverence. If he thought at all of any of the deeper feelings
+of human nature, it was but as idiosyncrasies of taste, with
+which the moralist no more than the legislator had any concern,
+further than to prohibit such as were mischievous among the
+actions to which they might chance to lead. To say either that
+man should, or that he should not, take pleasure in one thing,
+displeasure in another, appeared to him as much an act of
+despotism in the moralist as in the political ruler.
+</p><p>It would be most unjust to Bentham to surmise (as
+narrow-minded and passionate adversaries are apt in such cases to
+do) that this picture of human nature was copied from himself;
+that all those constituents of humanity which he rejected from
+his table of motives, were wanting in his own breast. The unusual
+strength of his early feelings of virtue, was, as we have seen,
+the original cause of all his speculations; and a noble sense of
+morality, and especially of justice, guides and pervades them
+all. But having been early accustomed to keep before his mind's
+eye the happiness of mankind (or rather of the whole sentient
+world), as the only thing desirable in itself, or which rendered
+anything else desirable, he confounded all disinterested feelings
+which he found in himself, with the desire of general happiness:
+just as some religious writers, who loved virtue for its own sake
+as much perhaps as men could do, habitually confounded their love
+of virtue with their fear of hell. It would have required greater
+subtlety than Bentham possessed, to distinguish from each other,
+feelings which, from long habit, always acted in the same
+direction; and his want of imagination prevented him from reading
+the distinction, where it is legible enough, in the hearts of
+others.
+</p><p>Accordingly, he has not been followed in this grand oversight
+by any of the able men who, from the extent of their intellectual
+obligations to him, have been regarded as his disciples. They may
+have followed him in his doctrine of utility, and in his
+rejection of a moral sense as the test of right and wrong: but
+while repudiating it as such, they have, with Hartley,
+acknowledged it as a fact in human nature; they have endeavoured
+to account for it, to assign its laws: nor are they justly
+chargeable either with undervaluing this part of our nature, or
+with any disposition to throw it into the background of their
+speculations. If any part of the influence of this cardinal error
+has extended itself to them, it is circuitously, and through the
+effect on their minds of other parts of Bentham's doctrines.
+</p><p>Sympathy, the only disinterested motive which Bentham
+recognized, he felt the inadequacy of, except in certain limited
+cases, as a security for virtuous action. Personal affection, he
+well knew, is as liable to operate to the injury of third
+parties, and requires as much to be kept under government, as any
+other feeling whatever: and general philanthropy, considered as a
+motive influencing mankind in general, he estimated at its true
+value when divorced from the feeling of duty -- as the very
+weakest and most unsteady of all feelings. There remained, as a
+motive by which mankind are influenced, and by which they may be
+guided to their good, only personal interest. Accordingly,
+Bentham's idea of the world is that of a collection of persons
+pursuing each his separate interest or pleasure, and the
+prevention of whom from jostling one another more than is
+unavoidable, may be attempted by hopes and fears derived from
+three sources -- the law, religion and public opinion. To these
+three powers, considered as binding human conduct, he gave the
+name of <hi rend="italic">sanctions</hi>, -- the
+<hi rend="italic">political</hi> sanction, operating by the
+rewards and penalties of the law; the <hi rend="italic">religious</hi>
+sanction, by those expected from the Ruler of the Universe; and the
+<hi rend="italic">popular</hi>
+which he characteristically calls also the <hi rend="italic">moral</hi>
+sanction, operating through the pains and pleasures arising from the favour
+or disfavour of our fellow-creatures.
+</p><p>Such is Bentham's theory of the world. And now, in a spirit
+neither of apology nor of censure, but of calm appreciation, we
+are to inquire how far this view of human nature and life will
+carry any one: how much it will accomplish in morals, and how
+much in political and social philosophy: what it will do for the
+individual, and what for society.
+</p><p>It will do nothing for the conduct of the individual, beyond
+prescribing some of the more obvious dictates of worldly
+prudence, and outward probity and beneficence. There is no need
+to expatiate on the deficiencies of a system of ethics which does
+not pretend to aid individuals in the formation of their own
+character. which recognizes no such wish as that of self culture,
+we may even say no such power, as existing in human nature; and
+if it did recognize, could furnish little assistance to that
+great duty, because it overlooks the existence of about half of
+the whole number of mental feelings which human beings are
+capable of, including all those of which the direct objects are
+states of their own mind.
+</p><p>Morality consists of two parts. One of these is
+self-education; the training, by the human being himself, of his
+affections and will. That department is a blank in Bentham's
+system. The other and co-equal part, the regulation of his
+outward actions, must be altogether halting and imperfect without
+the first; for how can we judge in what manner many an action
+will affect even the worldly interests of ourselves or others,
+unless we take in, as part of the question, its influence on the
+regulation of our, or their, affections and desires? A moralist
+on Bentham's principles may get as far as this, that he ought not
+to slay, burn, or steal; but what will be his qualifications for
+regulating the nicer shades of human behaviour, or for laying
+down even the greater moralities as to those facts in human life
+which tend to influence the depths of the character quite
+independently of any influence on worldly circumstances -- such,
+for instance, as the sexual relations, or those of family in
+general, or any other social and sympathetic connexions of an
+intimate kind? The moralities of these questions depend
+essentially on considerations which Bentham never so much as took
+into the account; and when he happened to be in the right, it was
+always, and necessarily, on wrong or insufficient grounds.
+</p><p>It is fortunate for the world that Bentham's taste lay rather
+in the direction of jurisprudential than of properly ethical
+inquiry. Nothing expressly of the latter kind has been published
+under his name, except the 'Deontology' -- a book scarcely ever,
+in our experience, alluded to by any admirer of Bentham without
+deep regret that it ever saw the light. We did not expect from
+Bentham correct systematic views of ethics, or a sound treatment
+of any question the moralities of which require a profound
+knowledge of the human heart; but we did anticipate that the
+greater moral questions would have been boldly plunged into, and
+at least a searching criticism produced of the received opinions;
+we did not expect that the <hi rend="italic">petite morale</hi>
+almost alone would have been treated, and that with the most pedantic minuteness, and on
+the <hi rend="italic">quid pro quo</hi> principles which regulate trade. The book has
+not even the value which would belong to an authentic exhibition
+of the legitimate consequences of an erroneous line of thought;
+for the style proves it to have been so entirely rewritten, that
+it is impossible to tell how much or how little of it is
+Bentham's. The collected edition, now in progress, will not, it
+is said, include Bentham's religious writings; these, although we
+think most of them of exceedingly small value, are at least his,
+and the world has a right to whatever light they throw upon the
+constitution of his mind. But the omission of the 'Deontology'
+would be an act of editorial discretion which we should seem
+entirely justifiable.
+</p><p>If Bentham's theory of life can do so little for the
+individual, what can it do for society?
+</p><p>It will enable a society which has attained a certain state
+of spiritual development, and the maintenance of which in that
+state is otherwise provided for, to prescribe the rules by which
+it may protect its material interests. It will do nothing (except
+sometimes as an instrument in the hands of a higher doctrine) for
+the spiritual interests of society; nor does it suffice of itself
+even for the material interests. That which alone causes any
+material interests to exist, which alone enables any body of
+human beings to exist as a society, is national character:
+<hi rend="italic">that</hi>
+it is, which causes one nation to succeed in what it attempts,
+another to fail; one nation to understand and aspire to elevated
+things, another to grovel in mean ones; which makes the greatness
+of one nation lasting, and dooms another to early and rapid
+decay. The true teacher of the fitting social arrangements for
+England, France, or America, is the one who can point out how the
+English, French or American character can be improved, and how it
+has been made what it is. A philosophy of laws and institutions,
+not founded on a philosophy of national character, is an
+absurdity. But what could Bentham's opinion be worth on national
+character? How could he, whose mind contained so few and so poor
+types of individual character, rise to that higher
+generalization? All he can do is but to indicate means by which,
+in any given state of the national mind, the material interests
+of society can be protected; saving the question, of which others
+must judge, whether the use of those means would have, on the
+national character, any injurious influence.
+</p><p>We have arrived, then, at a sort of estimate of what a
+philosophy like Bentham's can do. It can teach the means of
+organizing and regulating the merely <hi rend="italic">business</hi> part of the social
+arrangements. Whatever can be understood or whatever done without
+reference to moral influences, his philosophy is equal to; where
+those influences require to be taken into account, it is at
+fault. He committed the mistake of supposing that the business
+part of human affairs was the whole of them; all at least that
+the legislator and the moralist had to do with. Not that he
+disregarded moral influences when he perceived them; but his want
+of imagination, small experience of human feelings, and ignorance
+of the filiation and connexion of feelings with one another, made
+this rarely the case.
+</p><p>The business part is accordingly the only province of human
+affairs which Bentham has cultivated with any success; into which
+he had introduced any considerable number of comprehensive and
+luminous practical principles. That is the field of his
+greatness; and there he is indeed great. He has swept away the
+accumulated cobwebs of centuries -- he has untied knots which the
+efforts of the ablest thinkers, age after age, had only drawn
+tighter; and it is not exaggeration to say of him that over a
+great part of the field he was the first to shed the light of
+reason.
+</p><p>We turn with pleasure from what Bentham could not do, to what
+he did. It is an ungracious task to call a great benefactor of
+mankind to account for not being a greater -- to insist upon the
+errors of a man who has originated more new truths, has given to
+the world more sound practical lessons, than it ever received,
+except in a few glorious instances, from any other individual.
+The unpleasing part of our work is ended. We are now to show the
+greatness of the man; the grasp which his intellect took of the
+subjects with which it was fitted to deal; the giant's task which
+was before him, and the hero's courage and strength with which he
+achieved it. Nor let that which he did be deemed of small account
+because its province was limited: man has but the choice to go a
+little way in many paths, or a great way in only one. The field
+of Bentham's labours was like the space between two parallel
+lines; narrow to excess in one direction, in another it reached
+to infinity.
+</p><p>Bentham's speculations, as we are already aware, began with
+law; and in that department he accomplished his greatest
+triumphs. He found the philosophy of law a chaos, he left it a
+science; he found the practice of the law an Augean stable, he
+turned the river into it which is mining and sweeping away mound
+after mound of its rubbish.
+</p><p>Without joining in the exaggerated invectives against
+lawyers, which Bentham sometimes permitted to himself, or making
+one portion of society alone accountable for the fault of all, we
+may say that circumstances had made English lawyers in a peculiar
+degree liable to the reproach of Voltaire, who defines lawyers
+the 'conservators of ancient barbarous usages'. The basis of the
+English law was, and still is, the feudal system. That system,
+like all those which existed as custom before they were
+established as law, possessed a certain degree of suitableness to
+the wants of the society among whom it grew up -- that is to say,
+of a tribe of rude soldiers, holding a conquered people in
+subjection, and dividing its spoils among themselves. Advancing
+civilization had, however, converted this armed encampment of
+barbarous warriors in the midst of enemies reduced to slavery,
+into an industrious, commercial, rich, and free people. The laws
+which were suitable to the first of these states of society,
+could have no manner of relation to the circumstances of the
+second; which could not even have come into existence unless
+something had been done to adapt those laws to it. But the
+adaptation was not the result of thought and design; it arose not
+from any comprehensive consideration of the new state of society
+and its exigencies. What was done, was done by a struggle of
+centuries between the old barbarism and the new civilization;
+between the feudal aristocracy of conquerors, holding fast to the
+rude system they had established, and the conquered effecting
+their emancipation. The last was the growing power, but was never
+strong enough to break its bonds, though ever and anon some weak
+point gave way. Hence the law came to be like the costume of a
+full-grown man who had never put off the clothes made for him
+when he first went to school. Band after band had burst, and, as
+the rent widened, then, without removing anything except what
+might drop off of itself, the hole was darned, or patches of
+fresh law were brought from the nearest shop and stuck on. Hence
+all ages of English history have given one another rendezvous in
+English law; their several products may be seen all together, not
+interfused, but heaped one upon another, as many different ages
+of the earth may be read in some perpendicular section of its
+surface -- the deposits of each successive period not substituted
+but superimposed on those of the preceding. And in the world of
+law no less than in the physical world, every commotion and
+conflict of the elements has left its mark behind in some break
+or irregularity of the strata: every struggle which ever rent the
+bosom of society is apparent in the disjointed condition of the
+part of the field of law which covers the spot: nay, the very
+traps and pitfalls which one contending party set for another are
+still standing, and the teeth not of hyenas only, but of foxes
+and all cunning animals, are imprinted on the curious remains
+found in these antediluvian caves.
+</p><p>In the English law, as in the Roman before it, the
+adaptations of barbarous laws to the growth of civilized society
+were made chiefly by stealth. They were generally made by the
+courts of justice, who could not help reading the new wants of
+mankind in the cases between man and man which came before them;
+but who, having no authority to make new laws for those new
+wants, were obliged to do the work covertly, and evade the
+jealousy and opposition of an ignorant, prejudiced, and for the
+most part brutal and tyrannical legislature. Some of the most
+necessary of these improvements, such as the giving force of law
+to trusts, and the breaking up of entails, were effected in
+actual opposition to the strongly-declared will of Parliament,
+whose clumsy hands, no-match for the astuteness of judges, could
+not, after repeated trials, manage to make any law which the
+judges could not find a trick for rendering inoperative. The
+whole history of the contest about trusts may still be read in
+the words of a conveyance, as could the contest about entails,
+till the abolition of fine and recovery by a bill of the present
+Attorney-General; but dearly did the client pay for the cabinet
+of historical curiosities which he was obliged to purchase every
+time that he made a settlement of his estate. The result of this
+mode of improving social institutions was, that whatever new
+things were done had to be done in consistency with old forms and
+names; and the laws were improved with much the same effect as
+if, in the improvement of agriculture, the plough could only have
+been introduced by making it look like a spade; or as if, when
+the primeval practice of ploughing by the horse's tail gave way
+to the innovation of harness, the tail, for form's sake, had
+still remained attached to the plough.
+</p><p>When the conflicts were over, and the mixed mass settled down
+into something like a fixed state, and that state a very
+profitable and therefore a very agreeable one to lawyers, they,
+following the natural tendency of the human mind, began to
+theorize upon it, and, in obedience to necessity, had to digest
+it and give it a systematic form. It was from this thing of
+shreds and patches, in which the only part that approached to
+order or system was the early barbarous part, already more than
+half superseded, that English lawyers had to construct, by
+induction and abstraction, their philosophy of law; and without
+the logical habits and general intellectual cultivation which the
+lawyers of the Roman empire brought to a similar task. Bentham
+found the philosophy of law what English practising lawyers had
+made it, -- a jumble, in which <hi rend="italic">real</hi>
+and <hi rend="italic">personal property</hi>, <hi
+rend="italic">law</hi>
+and <hi rend="italic">equity, felony, praemunire, misprision</hi>,
+and <hi rend="italic">misdemeanour</hi>, --  words
+without a vestige of meaning when detached from the history of
+English institutions -- mere tide-marks to point out the line
+which the sea and the shore, in their secular struggles, had
+adjusted as their mutual boundary -- all passed for distinctions
+inherent in the nature of things; in which every absurdity, every
+lucrative abuse, had a reason found for it -- a reason which only
+now and then even pretended to be drawn from expediency. most
+commonly a technical reason, one of mere form, derived from the
+old barbarous system. While the theory of the law was in this
+state, to describe what the practice of it was would require the
+pen of a Swift, or of Bentham himself. The whole progress of a
+suit at law seemed like a series of contrivances for lawyers'
+profit, in which the suitors were regarded as the prey; and if
+the poor were not the helpless victims of every Sir Giles
+Overreach who could pay the price, they might thank opinion and
+manners for it, not the law.
+</p><p>It may be fancied by some people that Bentham did an easy
+thing in merely calling all this absurd, and proving it to be so.
+But he began the contest a young man, and he had grown old before
+he had any followers. History will one day refuse to give credit
+to the intensity of the superstition which, till very lately,
+protected this mischievous mess from examination or doubt --
+passed off the charming representations of Blackstone for a just
+estimate of the English law, and proclaimed the shame of human
+reason to be the perfection of it. Glory to Bentham that he has
+dealt to this superstition its deathblow -- that he has been the
+Hercules of this hydra, the St. George of this pestilent dragon!
+The honour is all his -- nothing but his peculiar qualities could
+have done it. There were wanted his indefatigable perseverance,
+his firm self-reliance, needing no support from other men's
+opinion; his intensely practical turn of mind, his synthetical
+habits -- above all, his peculiar method. Metaphysicians, armed
+with vague generalities, had often tried their hands at the
+subject, and left it no more advanced than they found it. Law is
+a matter of business; means and ends are the things to be
+considered in it, not abstractions: vagueness was not to be met
+by vagueness, but by definiteness and precision: details were not
+to be encountered with generalities, but with details. Nor could
+any progress be made, on such a subject, by merely showing that
+existing things were bad; it was necessary also to show how they
+might be made better. No great man whom we read of was qualified
+to do this thing except Bentham. He has done it, once and for
+ever.
+</p><p>Into the particulars of what Bentham has done we cannot
+enter. many hundred pages would be required to give a tolerable
+abstract of it. To sum up our estimate under a few heads. First:
+he has expelled mysticism from the philosophy of law, and set the
+example of viewing laws in a practical light, as means to certain
+definite and precise ends. Secondly. he has cleared up the
+confusion and vagueness attaching to the idea of law in general,
+to the idea of a body of laws, and the various general ideas
+therein involved. Thirdly: he demonstrated the necessity and
+practicability of <hi rend="italic">codification</hi>,
+or the conversion of all law into
+a written and systematically arranged Code: not like the code
+Napoleon, a code without a single definition, requiring a
+constant reference to anterior precedent for the meaning of its
+technical terms; but one containing within itself all that is
+necessary for its own interpretation, together with a perpetual
+provision for its own emendation and improvement. He has shown of
+what parts such a code would consist; the relation of those parts
+to one another; and by his distinctions and classifications has
+done very much towards showing what should be, or might be, its
+nomenclature and arrangement. What he has left undone, he had
+made it comparatively easy for others to do. Fourthly: he has
+taken a systematic view <ref target="n3">[3]</ref> of the exigencies of society for
+which the civil code is intended to provide, and of the
+principles of human nature by which its provisions are to be
+tested: and this view, defective (as we have already intimated)
+wherever spiritual interests require to be taken into account, is
+excellent for that large portion of the laws of any country which
+are designed for the protection of material interests. Fifthly:
+(to say nothing of the subject of punishment, for which something
+considerable had been done before) he found the philosophy of
+judicial procedure, including that of judicial establishments and
+of evidence, in a more wretched state than even any other part of
+the philosophy of law; he carried it at once almost to
+perfection. He left it with every one of its principles
+established, and little remaining to be done even in the
+suggestion of practical arrangements.
+</p><p>These assertions in behalf of Bentham may be left, without
+fear for the result, in the hands of those who are competent to
+judge of them. There are now even in the highest seats of
+justice, men to whom the claims made for him will not appear
+extravagant. Principle after principle of those propounded by him
+is moreover making its way by infiltration into the
+understandings most shut against his influence, and driving
+nonsense and prejudice from one corner of them to another. The
+reform of the laws of any country according to his principles,
+can only be gradual, and may be long ere it is accomplished; but
+the work is in process, and both parliament and the judges are
+every year doing something, and often something not
+inconsiderable, towards the forwarding of it.
+</p><p>It seems proper here to take notice of an accusation
+sometimes made both against Bentham and against the principle of
+codification -- as if they required one uniform suit of
+ready-made laws for all times and all states of society. The
+doctrine of codification, as the word imports, relates to the
+form only of the laws, not their substance; it does not concern
+itself with what the laws should be, but declares that whatever
+they are, they ought to be systematically arranged, and fixed
+down to a determinate form of words. To the accusation, so far as
+it affects Bentham, one of the essays in the collection of his
+works (then for the first time published in English) is a
+complete answer: that 'On the Influence of Time and Place in
+Matters of Legislation'. It may there be seen that the different
+exigencies of different nations with respect to law, occupied his
+attention as systematically as any other portion of the wants
+which render laws necessary: with the limitations, it is true,
+which were set to all his speculations by the imperfections of
+his theory of human nature. For, taking, as we have seen, next to
+no account of national character and the causes which form and
+maintain it, he was precluded from considering, except to a very
+limited extent, the laws of a country as an instrument of
+national culture: one of their most important aspects, and in
+which they must of course vary according to the degree and kind
+of culture already attained; as a tutor gives his pupil different
+lessons according to the process already made in his education.
+The same laws would not have suited our wild ancestors,
+accustomed to rude independence, and a people of Asiatics bowed
+down by military despotism: the slave needs to be trained to
+govern himself, the savage to submit to the government of others.
+The same laws will not suit the English, who distrust everything
+which emanates from general principles, and the French, who
+distrust whatever does not so emanate. Very different
+institutions are needed to train to the perfection of their
+nature, or to constitute into a united nation and social polity,
+an essentially <hi rend="italic">subjective</hi>
+people like the Germans, and an
+essentially <hi rend="italic">objective</hi> people like those of Northern and Central
+Italy. the one affectionate and dreamy, the other passionate and
+worldly. the one truthful and loyal, the other calculating and
+suspicious; the one not practical enough, the other overmuch; the
+one wanting individuality, the other fellow-feeling; the one
+failing for want of exacting enough for itself, the other for
+want of conceding enough to others. Bentham was little accustomed
+to look at institutions in their relation to these topics. The
+effects of this oversight must of course be perceptible
+throughout his speculations, but we do not think the errors into
+which it led him very material in the greater part of civil and
+penal law: it is in the department of constitutional legislation
+that they were fundamental.
+</p><p>The Benthamic theory of government has made so much noise in
+the world of late years; it has held such a conspicuous place
+among Radical philosophies, and Radical modes of thinking have
+participated so much more largely than any others in its spirit,
+that many worthy persons imagine there is no other Radical
+philosophy extant. Leaving such people to discover their mistake
+as they may, we shall expend a few words in attempting to
+discriminate between the truth and error of this celebrated
+theory.
+</p><p>There are three great questions in government. First, to what
+authority is it for the good of the people that they should be
+subject? Secondly, how are they to be induced to obey that
+authority? The answers to these two questions vary indefinitely,
+according to the degree and kind of civilization and cultivation
+already attained by a people, and their peculiar aptitudes for
+receiving more. Comes next a third question, not liable to so
+much variation, namely, by what means are the abuses of this
+authority to be checked? This third question is the only one of
+the three to which Bentham seriously applies himself, and he
+gives it the only answer it admits of Responsibility:
+responsibility to persons whose interest, whose obvious and
+recognizable interest, accords with the end in view -- good
+government. This being granted, it is next to be asked, in what
+body of persons this identity of interest with good government,
+that is, with the interest of the whole community, is to be
+found? In nothing less, says Bentham, than the numerical
+majority: nor, say we, even in the numerical majority itself; of
+no portion of the community less than all, will the interest
+coincide, at all times and in all respects, with the interest of
+all. But since power given to all, by a representative
+government, is in fact given to a majority; we are obliged to
+fall back upon the first of our three questions, namely, under
+what authority is it for the good of the people that they be
+placed? And if to this the answer be, under that of a majority
+among themselves, Bentham's system cannot be questioned. This one
+assumption being made, his 'Constitutional Code' is admirable.
+That extraordinary power which he possessed, of at once seizing
+comprehensive principles, and scheming out minute details, is
+brought into play with surpassing vigour in devising means for
+preventing rulers from escaping from the control of the majority;
+for enabling and inducing the majority to exercise that control
+unremittingly; and for providing them with servants of every
+desirable endowment, moral and intellectual, compatible with
+entire subservience to their will.
+</p><p>But is this fundamental doctrine of Bentham's political
+philosophy an universal truth? Is it, at all times and places,
+good for mankind to be under the absolute authority of the
+majority of themselves? We say the authority, not the political
+authority merely, because it is chimerical to suppose that
+whatever has absolute power over men's bodies will not arrogate
+it over their minds -- will not seek to control (not perhaps by
+legal penalties, but by the persecutions of society) opinions and
+feelings which depart from its standard; will not attempt to
+shape the eduction of the young by its model, and to extinguish
+all books, all schools, all combinations of individuals for joint
+action upon society, which may be attempted for the purpose of
+keeping alive a spirit at variance with its own. Is it, we say,
+the proper condition of man, in all ages and nations, to be under
+the despotism of Public Opinion?
+</p><p>It is very conceivable that such a doctrine should find
+acceptance from some of the noblest spirits, in a time of
+reaction against the aristocratic governments of modern Europe;
+governments founded on the entire sacrifice (except so far as
+prudence, and sometimes humane feeling interfere) of the
+community generally, to the self-interest and ease of a few.
+European reformers have been accustomed to see the numerical
+majority everywhere unjustly depressed, everywhere trampled upon,
+or at the best overlooked, by governments; nowhere possessing
+power enough to extort redress of their most positive grievances,
+provision for their mental culture, or even to prevent themselves
+from being taxed avowedly for the pecuniary profit of the ruling
+classes. To see these things, and to seek to put an end to them,
+by means (among other things) of giving more political power to
+the majority, constitutes Radicalism; and it is because so many
+in this age have felt this wish, and have felt that the
+realization of it was an object worthy of men's devoting their
+lives to it, that such a theory of government as Bentham's has
+found favour with them. But, though to pass from one form of bad
+government to another be the ordinary fate of mankind,
+philosophers ought not to make themselves parties to it, by
+sacrificing one portion of important truth to another.
+</p><p>The numerical majority of any society whatever, must consist
+of persons all standing in the same social position, and having,
+in the main, the same pursuits, namely, unskilled manual
+labourers; and we mean no disparagement to them: whatever we say
+to their disadvantage, we say equally of a numerical majority of
+shopkeepers, or of squires. Where there is identity of position
+and pursuits, there also will be identity of partialities,
+passions, and prejudices; and to give to any one set of
+partialities, passions and prejudices, absolute power, without
+counter-balance from partialities, passions and prejudices of a
+different sort, is the way to render the correction of any of
+those imperfections hopeless; to make one narrow, mean type of
+human nature universal and perpetual, and to crush every
+influence which tends to the further improvement of man's
+intellectual and moral nature. There must, we know, be some
+paramount power in society; and that the majority should be that
+power, is on the whole right, not as being just in itself, but as
+being less unjust than any other footing on which the matter can
+be placed. But it is necessary that the institutions of society
+should make provision for keeping up, in some form or other, as a
+corrective to partial views, and a shelter for freedom of thought
+and individuality of character, a perpetual and standing
+Opposition to the will of the majority. All countries which have
+long continued progressive, or been durably great, have been so
+because there has been an organized opposition to the ruling
+power, of whatever kind that power was: plebians to patricians,
+clergy to kings, freethinkers to clergy, kings to barons, commons
+to king and aristocracy. Almost all the greatest men who ever
+lived have formed part of such an Opposition. Wherever some such
+quarrel has not been going on -- wherever it has been terminated
+by the complete victory of one of the contending principles, and
+no new contest has taken the place of the old -- society has
+either hardened into a Chinese stationariness, or fallen into
+dissolution. A centre of resistance, round which all the moral
+and social elements which the ruling power views with disfavour
+may cluster themselves, and behind whose bulwarks they may find
+shelter from the attempts of that power to hunt them out of
+existence, is as necessary where the opinion of the majority is
+sovereign, as where the ruling power is a hierarchy or an
+aristocracy. Where no such <hi rend="italic">point d'appui</hi>
+exists, there the human
+race will inevitably degenerate; and the question, whether the
+United States, for instance, will in time sink into another China
+(also a most commercial and industrious nation), resolves itself,
+to us, into the question, whether such a centre of resistance
+will gradually evolve itself or not.
+</p><p>These things being considered, we cannot think that Bentham
+made the most useful employment which might have been made of his
+great powers, when, not content with enthroning the majority as
+sovereign, by means of universal suffrage without king or house
+of lords, he exhausted all the resources of ingenuity in devising
+means for riveting the yoke of public opinion closer and closer
+round the necks of all public functionaries, and excluding every
+possibility of the exercise of the slightest or most temporary
+influence either by a minority, or by the functionary's own
+notions of right. Surely when any power has been made the
+strongest power, enough has been done for it; care is thenceforth
+wanted rather to prevent that strongest power from swallowing up
+all others. Wherever all the forces of society act in one single
+direction, the just claims of the individual human being are in
+extreme peril. The power of the majority is salutary in so far as
+it is used defensively, not offensively -- as its exertion is
+tempered by respect for the personality of the individual, and
+deference to superiority of cultivated intelligence. If Bentham
+had employed himself in pointing out the means by which
+institutions fundamentally democratic might be best adapted to
+the preservation and strengthening of those two sentiments, he
+would have done something more permanently valuable, and more
+worthy of his great intellect. Montesquieu, with the lights of
+the present age, would have done it; and we are possibly destined
+to receive this benefit from the Montesquieu of our own times, M.
+de Tocqueville.
+</p><p>Do we then consider Bentham's political speculations useless?
+Far from it. We consider them only one-sided. He has brought out
+into a strong light, has cleared from a thousand confusions and
+misconceptions, and pointed out with admirable skill the best
+means of promoting, one of the ideal qualities of a perfect
+government -- identity of interest between the trustees and the
+community for whom they hold their power in trust. This quality
+is not attainable in its ideal perfection, and must moreover be
+striven for with a perpetual eye to all other requisites; but
+those other requisites must still more be striven for without
+losing sight of this: and when the slightest postponement is made
+of it to any other end, the sacrifice, often necessary, is never
+unattended with evil. Bentham has pointed out how complete this
+sacrifice is in modern European societies: how exclusively,
+partial and sinister interests are the ruling power there, with
+only such check as is imposed by public opinion -- which being
+thus, in the existing order of things, perpetually apparent as a
+source of good, he was led by natural partiality to exaggerate
+its intrinsic excellence. This sinister interest of rulers
+Bentham hunted through all its disguises, and especially through
+those which hide it from the men themselves who are influenced by
+it. The greatest service rendered by him to the philosophy of
+universal human nature, is, perhaps, his illustration of what he
+terms 'interest-begotten prejudice' -- the common tendency of man
+to make a duty and a virtue of following his self-interest. The
+idea, it is true, was far from being peculiarly Bentham's: the
+artifices by which we persuade ourselves that we are not yielding
+to our selfish inclinations when we are, had attracted the notice
+of all moralists, and had been probed by religious writers to a
+depth as much below Bentham's, as their knowledge of the
+profundities and windings of the human heart was superior to his.
+But it is selfish interest in the form of class-interest, and the
+class morality founded thereon, which Bentham has illustrated:
+the manner in which any set of persons who mix much together, and
+have a common interest, are apt to make that common interest
+their standard of virtue, and the social feelings of the members
+of the class are made to play into the hands of their selfish
+ones; whence the union so often exemplified in history, between
+the most heroic personal disinterestedness and the most odious
+class-selfishness. This was one of Bentham's leading ideas, and
+almost the only one by which he contributed to the elucidation of
+history: much of which, except so far as this explained it, must
+have been entirely inexplicable to him. The idea was given him by
+Helvetius, whose book, 'De l'Esprit', is one continued and most
+acute commentary on it; and, together with the other great idea
+of Helvetius, the influence of circumstances on character, it
+will make his name live by the side of Rousseau, when most of the
+other French metaphysicians of the eighteenth century will be
+extant as such only in literary history.
+</p><p>In the brief view which we have been able to give of
+Bentham's philosophy, it may surprise the reader that we have
+said so little about the first principle of it, with which his
+name is more identified than with anything else; the 'principle
+of utility', or, as he afterwards named it, 'the
+greatest-happiness principle'. It is a topic on which much were
+to be said, if there were room, or if it were in reality
+necessary for the just estimation of Bentham. On an occasion more
+suitable for a discussion of the metaphysics of morality, or on
+which the elucidations necessary to make an opinion on so
+abstract a subject intelligible could be conveniently given, we
+should be fully prepared to state what we think on this subject.
+At present we shall only say, that while, under proper
+explanations, we entirely agree with Bentham in his principle, we
+do not hold with him that all right thinking on the details of
+morals depends on its express assertion. We think utility, or
+happiness, much too complex and indefinite an end to be sought
+except through the medium of various secondary ends, conceding
+which there may be, and often is, agreement among persons who
+differ in their ultimate standard; and about which there does in
+fact prevail a much greater unanimity among thinking persons,
+than might be supposed from their diametrical divergence on the
+great questions of moral metaphysics. As mankind are much more
+nearly of one nature, than of one opinion about their own nature,
+they are more easily brought to agree in their intermediate
+principles--<hi rend="italic">vera illa et media axiomata</hi>,
+as Bacon says--than in
+their first principles: and the attempt to make the bearings of
+actions upon the ultimate end more evident than they can be made
+by referring them to the intermediate ends, and to estimate their
+value by a direct reference to human happiness, generally
+terminates in attaching most importance, not to those effects
+which are really the greatest, but to those which can most easily
+be pointed to and individually identified. Those who adopt
+utility as a standard can seldom apply it truly except through
+the secondary principles; those who reject it, generally do no
+more than erect those secondary principles into first principles.
+It is when two or more of the secondary principles conflict, that
+a direct appeal to some first principle becomes necessary; and
+then commences the practical importance of the utilitarian
+controversy; which is, in other respects, a question of
+arrangement and logical subordination rather than of practice;
+important principally in a purely scientific point of view, for
+the sake of the systematic unity and coherency of ethical
+philosophy. It is probable, however, that to the principle of
+utility we owe all that Bentham did; that it was necessary for
+him to find a first principle which he could receive as
+self-evident, and to which he could attach all his other
+doctrines as logical consequences: that to him systematic unity
+was an indispensable condition of his confidence in his Own
+intellect. And there is something further to be remarked. Whether
+happiness be or be not the end to which morality should be
+referred -- that it be referred to an <hi rend="italic">end</hi> of some sort, and not
+left in the dominion of vague feeling or inexplicable internal
+conviction, that it be made a matter of reason and calculation,
+and not merely of sentiment, is essential to the very idea of
+moral philosophy; is, in fact, what renders argument or
+discussion on moral questions possible. That the morality of
+actions depends on the consequences which they tend to produce,
+is the doctrine of rational persons of all schools; that the good
+or evil of those consequences is measured solely by pleasure or
+pain, is all of the doctrine of the school of utility, which is
+peculiar to it.
+</p><p>In so far as Bentham's adoption of the principle of utility
+induced him to fix his attention upon the consequences of actions
+as the consideration determining their morality, so far he was
+indisputably in the right path: though to go far in it without
+wandering, there was needed a greater knowledge of the formation
+of character, and of the consequences of actions upon the agent's
+own frame of mind, than Bentham possessed. His want of power to
+estimate this class of consequences, together with his want of
+the degree of modest deference which, from those who have not
+competent experience of their own, is due to the experience of
+others on that part of the subject, greatly limit the value of
+his speculations on questions of practical ethics.
+</p><p>He is chargeable also with another error, which it would be
+improper to pass over, because nothing has tended more to place
+him in opposition to the common feelings of mankind, and to give
+to his philosophy that cold, mechanical and ungenial air which
+characterizes the popular idea of a Benthamite. This error, or
+rather one-sidedness, belongs to him not as a utilitarian, but as
+a moralist by profession, and in common with almost all professed
+moralists, whether religious or philosophical: it is that of
+treating the <hi rend="italic">moral</hi> view of actions and characters, which is
+unquestionably the first and most important mode of looking at
+them, as if it were the sole one: whereas it is only one of
+three, by all of which our sentiments towards the human being may
+be, ought to be, and without entirely crushing our own nature
+cannot but be, materially influenced. Every human action has
+three aspects: its <hi rend="italic">moral</hi> aspect, or that of its
+<hi rend="italic">right</hi> and <hi rend="italic">wrong</hi>;
+its <hi rend="italic">aesthetic</hi> aspect, or that of its
+<hi rend="italic">beauty</hi>; its <hi rend="italic">sympathetic</hi>
+aspect, or that of its <hi rend="italic">loveableness</hi>.
+The first addresses itself
+to our reason and conscience; the second to our imagination; the
+third to our human fellow-feeling. According to the first, we
+approve or disapprove; according to the second, we admire, or
+despise; according to the third, we love, pity or dislike. The
+morality of an action depends on its foreseeable consequences;
+its beauty, and its loveableness, or the reverse, depend on the
+qualities which it is evidence of. Thus, a lie is
+<hi rend="italic">wrong</hi>, because
+its effect is to mislead, and because it tends to destroy the
+confidence of man in man; it is also
+<hi rend="italic">mean</hi>, because it is cowardly
+-- because it proceeds from not daring to face the consequences
+of telling the truth -- or at best is evidence of want of that
+<hi rend="italic">power</hi>
+to compass our ends by straightforward means, which is
+conceived as properly belonging to every person not deficient in
+energy or in understanding. The action of Brutus in sentencing
+his sons was <hi rend="italic">right</hi>, because it was executing a law essential to
+the freedom of his country, against persons of whose guilt there
+was no doubt: it was <hi rend="italic">admirable</hi>, because it evinced a rare degree
+of patriotism, courage and self-control; but there was nothing
+<hi rend="italic">loveable</hi> in it; it affords either no presumption in regard to
+loveable qualities, or a presumption of their deficiency. If one
+of the sons had engaged in the conspiracy from affection for the
+other, his action would have been loveable, though neither moral
+nor admirable. It is not possible for any sophistry to confound
+these three modes of viewing an action; but it is very possible
+to adhere to one of them exclusively, and lose sight of the rest.
+Sentimentality consists in setting the last two of the three
+above the first; the error of moralists in general, and of
+Bentham, is to sink the two latter entirely. This is
+pre-eminently the case with Bentham: he both wrote and felt as if
+the moral standard ought not only to be paramount (which it
+ought), but to be alone; as if it ought to be the sole master of
+all our actions, and even of all our sentiments; as if either to
+admire or like, or despise or dislike a person for any action
+which neither does good nor harm, or which does not do a good or
+a harm proportioned to the sentiment entertained, were an
+injustice and a prejudice. He carried this so far, that there
+were certain phrases which, being expressive of what he
+considered to be this groundless liking or aversion, he could not
+bear to hear pronounced in his presence. Among these phrases were
+those of <hi rend="italic">good</hi> and
+<hi rend="italic">bad</hi> taste. He thought it an insolent piece of
+dogmatism in one person to praise or condemn another in a matter
+of taste: as if men's likings and dislikings, on things in
+themselves indifferent, were not full of the most important
+inferences as to every point of their character; as if a person's
+tastes did not show him to be wise or a fool, cultivated or
+ignorant, gentle or rough, sensitive or callous, generous or
+sordid, benevolent or selfish, conscientious or depraved.
+</p><p>Connected with the same topic are Bentham's peculiar opinions
+on poetry. Much more has been said than there is any foundation
+for, about his contempt for the pleasures of imagination, and for
+the fine arts. Music was throughout life his favourite amusement;
+painting, sculpture and the other arts addressed to the eye, he
+was so far from holding in any contempt, that he occasionally
+recognizes them as means employable for important social ends;
+though his ignorance of the deeper springs of human character
+prevented him (as it prevents most Englishmen) from suspecting
+how profoundly such things enter into the moral nature of man,
+and into the education both of the individual and of the race.
+But towards poetry in the narrower sense, that which employs the
+language of words, he entertained no favour. Words, he thought,
+were perverted from their proper office when they were employed
+in uttering anything but precise logical truth. He says,
+somewhere in his works, that, 'quantity of pleasure being equal,
+push-pin is as good as poetry' -- but this is only a paradoxical
+way of stating what he would equally have said of the things
+which he most valued and admired. Another aphorism is attributed
+to him, which is much more characteristic of his view of this
+subject: 'All poetry is misrepresentation'. Poetry, he thought,
+consisted essentially in exaggeration for effect: in proclaiming
+some one view of a thing very emphatically, and suppressing all
+the limitations and qualifications. This trait of character seems
+to us a curious example of what Mr Carlyle strikingly calls 'the
+completeness of limited men'. Here is a philosopher who is happy
+within his narrow boundary as no man of indefinite range ever
+was: who flatters himself that he is so completely emancipated
+from the essential law of poor human intellect, by which it can
+only see one thing at a time well, that he can even turn round
+upon the imperfection and lay a solemn interdict upon it. Did
+Bentham really suppose that it is in poetry only that
+propositions cannot be exactly true, cannot contain in themselves
+all the limitations and qualifications with which they require to
+be taken when applied to practice? We have seen how far his own
+prose propositions are from realizing this Utopia: and even the
+attempt to approach it would be incompatible not with poetry
+merely, but with oratory, and popular writing of every kind.
+Bentham's charge is true to the fullest extent; all writing which
+undertakes to make men feel truths as well as see them, does take
+up one point at a time, does seek to impress that, to drive that
+home, to make it sink into and colour the whole mind of the
+reader or hearer. It is justified in doing so, if the portion of
+truth which it thus enforces be that which is called for by the
+occasion. All writing addressed to the feelings has a natural
+tendency to exaggeration; but Bentham should have remembered that
+in this, as in many things, we must aim at too much, to be
+assured of doing enough.
+</p><p>From the same principle in Bentham came the intricate and
+involved style, which makes his later writings books for the
+student only, not the general reader. It was from his perpetually
+aiming at impracticable precision. Nearly all his earlier and
+many parts of his later writings, are models, as we have already
+observed, of light, playful and popular style: a Benthamiana
+might be made of passages worthy of Addison or Goldsmith. But in
+his later years and more advanced studies, he fell into a Latin
+or German structure of sentence, foreign to the genius of the
+English language. He could not bear, for the sake of clearness
+and the reader's ease, to say, as ordinary men are content to do,
+a little more than the truth in one sentence, and correct it in
+the next. The whole of the qualifying remarks which he intended
+to make, he insisted upon imbedding as parentheses in the very
+middle of the sentence itself. And thus the sense being so long
+suspended, and attention being required to the accessory ideas
+before the principal idea had been properly seized, it became
+difficult, without some practice, to make out the train of
+thought. It is fortunate that so many of the most important parts
+of his writings are free from this defect. We regard it as a
+<hi rend="italic">reductio ad absurdum</hi> of his objection to poetry. In trying to
+write in a manner against which the same objection should not
+lie, he could stop nowhere short of utter unreadableness, and
+after all attained no more accuracy than is compatible with
+opinions as imperfect and one-sided as those of any poet or
+sentimentalist breathing. Judge then in what state literature and
+philosophy would be, and what chance they would have of
+influencing the multitude, if his objection were allowed, and all
+styles of writing banished which would not stand his test.
+</p><p>We must here close this brief and imperfect view of Bentham
+and his doctrines; in which many parts of the subject have been
+entirely untouched, and no part done justice to, but which at
+least proceeds from an intimate familiarity with his writings,
+and is nearly the first attempt at an impartial estimate of his
+character as a philosopher, and of the result of his labours to
+the world.
+</p><p>After every abatement, and it has been seen whether we have
+made our abatements sparingly -- there remains to Bentham an
+indisputable place among the great intellectual benefactors of
+mankind. His writings will long form an indispensable part of the
+education of the highest order of practical thinkers; and the
+collected edition of them ought to be in the hands of everyone
+who would either understand his age, or take any beneficial part
+in the great business of it.
+</p>
+
+<p>NOTE:</p>
+
+<p><note id="n1"><seg type="note-symbol">[1]</seg> <p>Author of another book, which made no little sensation
+when it first appeared, -- "An Estimate of the Manners of the
+Times."</p></note></p>
+
+<p><note id="n2"><seg type="note-symbol">[2]</seg> <p>In a passage in the last volume of his book on
+Evidence, and possibly in one or two other places, the "love of justice"
+is spoken of as a feeling inherent in almost all mankind. It is
+impossible, without explanations now unattainable, to ascertain what
+sense is to be put upon casual expressions so inconsistent with the
+general tenor of his philosophy.</p></note></p>
+
+<p><note id="n3"><seg type="note-symbol">[3]</seg> <p>See the "Principles of Civil Law," contained in Part II of his
+collected works.</p></note></p>
+
+</div1>
+</body>
+</text>
+</TEI.2>

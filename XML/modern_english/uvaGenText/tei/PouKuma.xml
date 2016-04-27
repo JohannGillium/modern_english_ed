@@ -1,0 +1,768 @@
+<?xml version="1.0"?>
+
+<?dlps id="PouKuma"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOnum SYSTEM "http://text.lib.virginia.edu/charent/iso-num.ent"> %ISOnum;
+<!ENTITY % ISOlat1 SYSTEM "http://text.lib.virginia.edu/charent/iso-lat1.ent"> %ISOlat1;
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+ 
+]> 
+<TEI.2 id="PouKuma"> 
+<teiHeader type="migrated" creator="Etext">
+<fileDesc>
+<titleStmt>
+<title type="main">Kumasaka</title>
+<title type="sort">kumasaka</title>
+<author>Pound, Ezra and Fenollosa, Ernest</author>
+<respStmt>
+<resp>Creation of machine-readable version:</resp>  
+<name>Winnie Chan</name>  
+<resp>Creation of digital images:</resp>  
+<name/>  
+<resp>Conversion to TEI.2-conformant markup:</resp>  
+<name>University of Virginia Library Electronic Text Center.</name>
+</respStmt>
+</titleStmt>  
+<extent>ca. <num type="kilobytes">18</num> kilobytes</extent>  
+<publicationStmt>
+<publisher>University of Virginia Library</publisher>
+<pubPlace>Charlottesville, Virginia</pubPlace>  
+<idno type="ETC">PouKuma</idno>  
+<date value="1997">1997</date>
+<availability status="public">
+<p n="copyright">Copyright &copy; 1997 by the Rector and Visitors of the University of Virginia</p>
+<p n="access">Publicly accessible</p>
+</availability>
+<idno type="uva-pid">uva-lib:476332</idno>
+</publicationStmt>
+<seriesStmt>
+<title>University of Virginia Library, Text collection</title>
+<idno type="uva-set">UVA-LIB-Text</idno>
+</seriesStmt>  
+<seriesStmt>
+<p>Japanese Text Initiative</p>
+</seriesStmt>  
+<notesStmt>
+<note>
+<p>Footnotes in the print source have been moved to the end of the 
+electronic document and numbered consecutively. For descriptive 
+purposes, words or phrases preceding footnote markers in the print 
+source have been added to the notes at the end of the electronic 
+document.</p>
+</note>
+</notesStmt>  
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title type="main">Kumasaka</title>
+<title level="m">"Noh" or Accomplishment: a Study of the Classical Stage in Japan</title>
+<title type="sort">kumasaka</title>
+<author>Ezra Pound and Ernest Fenollosa</author>
+</titleStmt>  
+<editionStmt>
+<p>1st Edition</p>
+</editionStmt>  
+<extent>pp. 63-78</extent>  
+<publicationStmt>
+<publisher>MacMillan</publisher>  
+<pubPlace>London</pubPlace>  
+<date value="1916">1916</date>  
+<idno type="callNo">Print copy consulted: UVa Library call number PL 735 .F4 1916</idno>
+</publicationStmt>  
+</biblFull>
+</sourceDesc>
+</fileDesc>  
+<encodingDesc>
+<projectDesc>
+<p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+</projectDesc>  
+<editorialDecl>
+<p>All quotation marks retained as data.</p>  
+<p>All unambiguous end-of-line hyphens have been removed, and the trailing part of a word has been joined to the preceding line.</p>  
+<p>Keywords in the header are a local Electronic Text Center scheme to aid in establishing analytical groupings.</p>
+</editorialDecl>  
+</encodingDesc>  
+<profileDesc>
+<creation>
+<date value="1916">1916</date>
+</creation>  
+<langUsage>
+<language id="eng" usage="main">English</language>
+</langUsage>  
+<textClass>
+<keywords>
+<term>drama; poetry; prose</term>
+</keywords>  
+</textClass>
+</profileDesc>  
+<revisionDesc>
+<change>
+<date value="1997-09">September 1997</date>  
+<respStmt>
+<resp>corrector</resp>  
+<name>Catherine Tousignant, Electronic Text Center</name>
+</respStmt>  
+<item>Added milestones to correspond with WalKuma.</item>
+</change>  
+<change>
+<date value="1997-01">January 1997</date>  
+<respStmt>
+<resp>corrector</resp>  
+<name>Winnie Chan</name>
+</respStmt>  
+<item>Added TEI header and tags</item>
+</change>  
+<change>
+<date value="2005-07">July 2005</date>
+<respStmt>
+<resp>Corrector</resp>
+<name>John Ivor Carlson</name>
+</respStmt>
+<item>Converted SGML to XML and/or corrected tagging.</item>
+</change>
+<change>
+<date value="2007-09">September 2007</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Ethan Gruber, University of Virginia Library</name>
+</respStmt>
+<item>Converted XML markup from TEI Lite to uva-dl-tei (TEI P4 with local customizations).</item>
+</change>
+<change>
+<date value="2008-01">January 2008</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Greg Murray, University of Virginia Library</name>
+</respStmt>
+<item>Programmatically updated TEI header markup (but not header content) for minimal compliance with current QA requirements.</item>
+</change>
+</revisionDesc>
+</teiHeader>  
+ 
+<text id="d1"> 
+<body id="d2"> 
+<div1 type="play" id="d3"> <pb n="67"/>  
+<head> 
+KUMASAKA<lb/> 
+A Play in two Acts, by Ujinobu, adopted son of Motokiyo 
+</head> 
+ 
+
+<list> 
+<head>CHARACTERS</head> 
+
+<item>A Priest.</item> 
+ 
+<item>First Shite, or Hero, the apparition of Kumasaka in the form of an old priest.</item> 
+ 
+<item>Second Shite, the apparition of Kumasaka in his true 
+form.</item>
+ 
+<item>Chorus. This chorus sometimes speaks what the chief characters are 
+thinking, sometimes it describes or interprets the meaning of their 
+movements.</item></list>
+
+<div2 type="section" id="d4"><p> 
+PLOT.   &mdash;   The ghost of Kumasaka makes reparation for his brigandage by 
+protecting the country. He comes back to praise the bravery of the young 
+man who had killed him in single combat. 
+</p>  
+</div2> 
+<div2 type="part" n="1" id="d5"> 
+
+<milestone unit="speech" n="Kuma1-1"/>  
+<sp> 
+<speaker>Priest</speaker> 
+<p> 
+Where shall I rest, wandering weary of the world? 
+<milestone unit="speech" n="Kuma1-2"/> 
+I am a city-bred priest, 
+I have not  
+ 
+ 
+<pb n="68"/>  
+seen the east counties, and I've a mind to go there. 
+<milestone unit="speech" n="Kuma1-3"/> 
+Crossing the hills, I 
+look on the lake of Omi, on the woods of Awatsu. Going over the long 
+bridge at Seta, I rested a night at Noji, and another at Shinohara, and at 
+the dawn I came to the green field, Awono in Miwo. I now pass Akasaka at 
+sunset. 
+</p> 
+</sp> 
+
+<milestone unit="speech" n="Kuma1-4"/> 
+<sp> 
+<speaker>Shite</speaker> 
+<stage> 
+in the form of an old priest 
+</stage> 
+ 
+<p> 
+I could tell that priest a thing or two. 
+</p> 
+</sp> 
+ 
+<milestone unit="speech" n="Kuma1-5"/> 
+<sp> 
+<speaker>Priest</speaker> 
+<p> 
+Do you mean me? What is it? 
+</p> 
+</sp> 
+
+<milestone unit="speech" n="Kuma1-6"/>  
+<sp> 
+<speaker>Shite</speaker> 
+<p> 
+A certain man died on this day. I ask you to pray for him. 
+</p> 
+</sp> 
+ 
+<milestone unit="speech" n="Kuma1-7"/> 
+<sp> 
+<speaker>Priest</speaker> 
+<p> 
+All right; but whom shall I pray for? 
+</p> 
+</sp> 
+
+<milestone unit="speech" n="Kuma1-8"/>  
+<sp> 
+<speaker>Shite</speaker> 
+<p> 
+I will not tell you his name, but his grave lies in the green field beyond 
+that tall pine tree. He cannot enter the gates of Paradise, and so I ask 
+you to pray. 
+</p> 
+</sp> 
+ 
+ 
+<pb n="69"/>  
+<milestone unit="speech" n="Kuma1-9"/> 
+<sp> 
+<speaker>Priest</speaker> 
+<p> 
+But I do not think it is right for me to pray unless you tell me his name. 
+</p> 
+</sp> 
+ 
+<milestone unit="speech" n="Kuma1-10"/> 
+<sp> 
+<speaker>Shite</speaker> 
+<p> 
+No, no; you can pray the prayer, Ho kai shujo biodo ri aku; that would do. 
+</p> 
+</sp> 
+
+<milestone unit="speech" n="Kuma1-11"/>  
+<sp> 
+<speaker>Priest</speaker> 
+ 
+<stage> 
+praying 
+</stage> 
+ 
+<p> 
+Unto all mortals let there be equal grace, to pass from this life of agony 
+by the gates of death into law; into the peaceful kingdom. 
+</p> 
+</sp> 
+
+<milestone unit="speech" n="Kuma1-12"/>  
+<sp> 
+<speaker>Shite</speaker> 
+ 
+<stage> 
+saying first a word or two 
+</stage> 
+ 
+<p> 
+If you pray for him,   &mdash;    
+</p> 
+</sp> 
+
+<milestone unit="speech" n="Kuma1-13"/>  
+<sp> 
+<speaker>Chorus</speaker> 
+ 
+<stage> 
+continuing the sentence 
+</stage> 
+ 
+<p> 
+   &mdash;   If you pray with the prayer of "Exeat" he will be thankful, and you 
+need not then know his name. They say that prayer can be heard for even 
+the grass and the plants, for even the sand and the soil here; and they 
+will surely hear it, if you pray for an unknown man. 
+ 
+</p> 
+</sp> 
+ 
+ 
+<pb n="70"/>  
+<milestone unit="speech" n="Kuma1-14"/> 
+<sp> 
+<speaker>Shite</speaker> 
+<p> 
+Will you come in? This is my cottage. 
+</p> 
+</sp> 
+ 
+<milestone unit="speech" n="Kuma1-15"/> 
+<sp> 
+<speaker>Priest</speaker> 
+<p> 
+This is your house? Very well, I will hold the service in your house; but 
+I see no picture of Buddha nor any wooden image in this 
+cottage   &mdash;   nothing but a long spear on one wall and an iron stick in 
+place of a priest's wand, and many arrows. What are these for? 
+</p> 
+</sp> 
+ 
+<milestone unit="speech" n="Kuma1-16"/> 
+<sp> 
+<speaker>Shite</speaker> 
+ 
+<stage> 
+thinking 
+</stage> 
+ 
+<p> 
+Yes, this priest is still in the first stage of faith. 
+ 
+<stage> 
+Aloud. 
+</stage> 
+ 
+As you see, there are many villages here: Tarui, Awohaka, and Akasaka. But 
+the tall grass of Awo-no-gahara grows round the roads between them, and 
+the forest is thick at Koyasu and Awohaka, and many robbers come out under 
+the rains. They attack the baggage on horseback, and take the clothing of 
+maids and servants who pass here. So I go out with his spear. 
+</p> 
+</sp> 
+ 
+<milestone unit="speech" n="Kuma1-17"/> 
+<sp> 
+<speaker>Priest</speaker> 
+<p> 
+That's very fine, isn't it ? 
+</p> 
+</sp> 
+ 
+ 
+<pb n="71"/>  
+<milestone unit="speech" n="Kuma1-18"/> 
+<sp> 
+<speaker>Chorus</speaker> 
+<p> 
+You will think it very strange for a priest to do this, but even Buddha 
+has the sharp sword of Mida, and Aizen Miowo has arrows, and Tamon, taking 
+his long spear, throws down the evil spirits. 
+</p> 
+</sp> 
+
+<milestone unit="speech" n="Kuma1-19"/>  
+<sp> 
+<speaker>Shite</speaker> 
+<p> 
+The deep love   &mdash;    
+</p> 
+</sp> 
+
+<milestone unit="speech" n="Kuma1-20"/>  
+<sp> 
+<speaker>Chorus</speaker> 
+<p> 
+   &mdash;   is excellent. Good feeling and keeping order are much more 
+excellent than the love of Bosatsu. "I think of these matters and know 
+little of anything else. It is from my own heart that I am lost, 
+wandering. But if I begin talking I shall keep on talking until dawn. Go 
+to bed, good father, I will sleep too." 
+</p> 
+ 
+<p> 
+He seemed to be going to his bedroom, but suddenly his figure disappeared, 
+and the cottage became a field of grass. The priest passes the night under 
+the pine trees. 
+</p> 
+</sp> 
+
+<milestone unit="speech" n="Kuma2-1"/> 
+<sp> 
+<speaker>Priest</speaker> 
+<p> 
+I cannot sleep out the night. Perhaps if I held my service during the 
+night under this pine tree   &mdash;    
+</p> 
+</sp> 
+ 
+<stage> 
+He begins his service for the dead man. 
+</stage> 
+ 
+ 
+<pb n="73"/>  
+ 
+</div2><div2 type="part" n="2" id="d6"> 
+<head>PART SECOND</head> 
+
+<milestone unit="speech" n="Kuma2-2"/>  
+<sp> 
+<speaker>Second Shite</speaker> 
+<p> 
+There are winds in the east and south; the clouds are not calm in the 
+west; and in the north the wind of the dark evening blusters; and under 
+the shade of the mountain   &mdash;    
+</p> 
+</sp> 
+
+<milestone unit="speech" n="Kuma2-3"/>  
+<sp> 
+<speaker>Chorus</speaker> 
+<p> 
+   &mdash;   there is a rustling of boughs and leaves. 
+</p> 
+</sp> 
+
+<milestone unit="speech" n="Kuma2-4"/>  
+<sp> 
+<speaker>Second Shite</speaker> 
+<p> 
+Perhaps there will be moonshine to-night, but the clouds veil the sky; the 
+moon will not break up their shadow. "Have at them!" "Ho, there!" "Dash 
+in!" That is the way I would shout, calling and ordering my men before and 
+behind, my bowmen and horsemen. I plundered men of their treasure, that 
+was my work in the world, and now I must go on; it is sorry work for a 
+spirit. 
+</p> 
+</sp> 
+
+<milestone unit="speech" n="Kuma2-5"/>  
+<sp> 
+<speaker>Priest</speaker> 
+<p> 
+Are you Kumasaka Chohan? Tell me the tale of your years. 
+</p> 
+</sp> 
+ 
+ 
+<pb n="73"/>  
+<milestone unit="speech" n="Kuma2-6"/> 
+<sp> 
+<speaker>Second Shite</speaker> 
+ 
+<stage> 
+now known as Kumasaka 
+</stage> 
+ 
+<p> 
+There were great merchants in Sanjo, Yoshitsugu, and Nobutaka; they 
+collected treasure each year; they sent rich goods up to Oku. It was then 
+I assailed their trains. Would you know what men were with me? 
+</p> 
+</sp> 
+ 
+<milestone unit="speech" n="Kuma2-7"/> 
+<sp> 
+<speaker>Priest</speaker> 
+<p> 
+Tell me the chief men; were they from many a province? 
+</p> 
+</sp> 
+ 
+<milestone unit="speech" n="Kuma2-8"/> 
+<sp> 
+<speaker>Kumasaka</speaker> 
+<p> 
+There was Kakusho of Kawachi, 
+<milestone unit="speech" n="Kuma2-9"/> 
+there were the two brothers Suriharitaro; 
+they have no rivals in fencing. 
+<ref target="n73.1">[1]</ref> 
+</p> 
+</sp> 
+
+<milestone unit="speech" n="Kuma2-10"/>  
+<sp> 
+<speaker>Priest</speaker> 
+<p> 
+What chiefs came to you from the city? 
+</p> 
+</sp> 
+ 
+<milestone unit="speech" n="Kuma2-11"/> 
+<sp> 
+<speaker>Kumasaka</speaker> 
+<p> 
+Emon of Sanjo, Kozari of Mibu. 
+</p> 
+</sp> 
+ 
+<milestone unit="speech" n="Kuma2-12"/> 
+<sp> 
+<speaker>Priest</speaker> 
+<p> 
+In the fighting with torches and in m&ecirc;l&eacute;e   &mdash;    
+</p> 
+</sp> 
+ 
+ 
+<pb n="74"/>  
+<milestone unit="speech" n="Kuma2-13"/> 
+<sp> 
+<speaker>Kumasaka</speaker> 
+<p> 
+   &mdash;   they had no equals. 
+</p> 
+</sp> 
+ 
+<milestone unit="speech" n="Kuma2-14"/> 
+<sp> 
+<speaker>Priest</speaker> 
+<p> 
+In northern Hakoku? 
+</p> 
+</sp> 
+
+<milestone unit="speech" n="Kuma2-15"/>  
+<sp> 
+<speaker>Kumasaka</speaker> 
+<p> 
+Were Aso no Matsuwaka and Mikune no Kuro. 
+</p> 
+</sp> 
+ 
+<milestone unit="speech" n="Kuma2-16"/> 
+<sp> 
+<speaker>Priest</speaker> 
+<p> 
+In Kaga? 
+</p> 
+</sp> 
+
+<milestone unit="speech" n="Kuma2-17"/>  
+<sp> 
+<speaker>Kumasaka</speaker> 
+<p> 
+No, Chohan was the head there. There were seventy comrades who were very 
+strong and skilful. 
+</p> 
+</sp> 
+
+<milestone unit="speech" n="Kuma2-18"/>  
+<sp> 
+<speaker>Chorus</speaker> 
+<p> 
+While Yoshitsugu was going along in the fields and on the mountains, we 
+set many spies to take him. 
+</p> 
+</sp> 
+
+<milestone unit="speech" n="Kuma2-19"/>  
+<sp> 
+<speaker>Kumasaka</speaker> 
+<p> 
+Let us say that he is come to the village of Akasaka. This is the best 
+place to attack him. There are many ways to escape if we are defeated, and 
+he has invited many guests and has had a great feast at the inn. 
+</p> 
+</sp> 
+ 
+ 
+<pb n="75"/>  
+<milestone unit="speech" n="Kuma2-20"/> 
+<sp> 
+<speaker>Priest</speaker> 
+<p> 
+When the night was advanced the brothers Yoshitsugu and Nobutaka fell 
+asleep. 
+</p> 
+</sp> 
+ 
+<milestone unit="speech" n="Kuma2-21"/> 
+<sp> 
+<speaker>Kumasaka</speaker> 
+<p> 
+But there was a small boy with keen eyes, about sixteen or seventeen years 
+old, and he was looking through a little hole in the partition, alert to 
+the slightest noise. 
+</p> 
+</sp> 
+
+<milestone unit="speech" n="Kuma2-22"/>  
+<sp> 
+<speaker>Priest</speaker> 
+<p> 
+He did not sleep even a wink. 
+</p> 
+</sp> 
+
+<milestone unit="speech" n="Kuma2-23"/>  
+<sp> 
+<speaker>Kumasaka</speaker> 
+<p> 
+We did not know it was Ushiwaka. 
+</p> 
+</sp> 
+
+<milestone unit="speech" n="Kuma2-24"/>  
+<sp> 
+<speaker>Priest</speaker> 
+<p> 
+It was fate. 
+</p> 
+</sp> 
+
+<milestone unit="speech" n="Kuma2-25"/>  
+<sp> 
+<speaker>Kumasaka</speaker> 
+<p> 
+The hour had come. 
+</p> 
+</sp> 
+
+<milestone unit="speech" n="Kuma2-26"/>  
+<sp> 
+<speaker>Priest</speaker> 
+<p> 
+Be quick! 
+</p> 
+</sp> 
+
+<milestone unit="speech" n="Kuma2-27"/>  
+<sp> 
+<speaker>Kumasaka</speaker> 
+<p> 
+Have at them! 
+</p> 
+</sp> 
+ 
+ 
+<pb n="76"/>  
+
+<milestone unit="speech" n="Kuma2-28"/> 
+<sp> 
+<speaker>Chorus</speaker> 
+ 
+<stage> 
+describing the original combat, now symbolized in the dance 
+</stage> 
+ 
+<p> 
+At this word they rushed in, one after another. They seized the torches; 
+it seemed as if gods could not face them. Ushiwaka stood unafraid; he 
+seized a small halberd and fought like a lion in earnest, like a tiger 
+rushing, like a bird swooping. He fought so cleverly that he felled the 
+thirteen who opposed him; many were wounded besides. They fled without 
+swords or arrows. Then Kumasaka said, "Are you the devil? Is it a god who 
+has struck down these men with such ease? Perhaps you are not a man. 
+However, dead men take no plunder, and I'd rather leave this truck of 
+Yoshitsugu's than my corpse." So he took his long spear and was about to 
+make off   &mdash;    
+</p> 
+</sp> 
+
+<milestone unit="speech" n="Kuma2-29"/>  
+<sp> 
+<speaker>Kumasaka</speaker> 
+<p> 
+   &mdash;   But Kumasaka thought   &mdash;    
+</p> 
+</sp> 
+ 
+<milestone unit="speech" n="Kuma2-30"/> 
+<sp> 
+<speaker>Chorus</speaker> 
+<stage> 
+taking it up 
+</stage> 
+ 
+<p> 
+   &mdash;   What can he do, that young chap, if I ply my secret arts freely? Be 
+he god or devil, I will grasp him and grind him. I will offer  
+ 
+ 
+<pb n="77"/>  
+his body as sacrifice to those whom he has slain. So he drew back, and 
+holding his long spear against his side, he hid himself behind the door 
+and stared at the young lad. Ushiwaka beheld him, and holding his bill at 
+his side, he crouched at a little distance. Kumasaka waited likewise. They 
+both waited, alertly; then Kumasaka stepped forth swiftly with his left 
+foot, and struck out with the long spear. It would have run through an 
+iron wall. Ushiwaka parried it lightly, swept it away, left volted. 
+Kumasaka followed and again lunged out with the spear, and Ushiwaka 
+parried the spear-blade quite lightly. Then Kumasaka turned the edge of 
+his spear-blade towards Ushiwaka and slashed at him, and Ushiwaka leaped 
+to the right. Kumasaka lifted his spear and the two weapons were twisted 
+together. Ushiwaka drew back his blade. Kumasaka swung with his spear. 
+Ushiwaka led up and stepped in shadow. 
+</p> 
+<milestone unit="speech" n="Kuma2-31"/>  
+<p> 
+Kumasaka tried to find him, and Ushiwaka slit through the back-chink of 
+his armour; this seemed the end of his course, and he was wroth to be 
+slain by such a young boy. 
+</p> 
+</sp> 
+
+<milestone unit="speech" n="Kuma2-32"/>  
+<sp> 
+<speaker>Kumasaka</speaker> 
+<p> 
+Slowly the wound   &mdash;    
+</p> 
+</sp> 
+ 
+ 
+<pb n="78"/>  
+<milestone unit="speech" n="Kuma2-33"/> 
+<sp> 
+<speaker>Chorus</speaker> 
+<p> 
+   &mdash;   seemed to pierce; his heart failed; weakness o'ercame him. 
+</p> 
+</sp> 
+
+<milestone unit="speech" n="Kuma2-34"/>  
+<sp> 
+<speaker>Kumasaka</speaker> 
+<p> 
+At the foot of this pine tree   &mdash;    
+</p> 
+</sp> 
+
+<milestone unit="speech" n="Kuma2-35"/>  
+<sp> 
+<speaker>Chorus</speaker> 
+<p> 
+   &mdash;   he vanished like a dew. 
+</p> 
+ 
+<p> 
+And so saying, he disappeared among the shades of the pine tree at 
+Akasaka, and night fell. 
+</p> 
+</sp> 
+</div2> 
+</div1> 
+</body> 
+ 
+<back id="d7"> 
+<div1 type="notes" id="d8"> 
+<head>Footnotes</head> 
+<note id="n73.1"><seg type="note-symbol">[1:</seg> <p>fencing] "Omoteuchi," face-to-face attack.</p></note> 
+</div1> 
+</back> 
+ 
+</text> 
+</TEI.2> 
+ 
+ 

@@ -1,0 +1,1176 @@
+<?xml version="1.0"?>
+
+<?dlps id="KeeNono"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOnum SYSTEM "http://text.lib.virginia.edu/charent/iso-num.ent"> %ISOnum;
+<!ENTITY % ISOlat1 SYSTEM "http://text.lib.virginia.edu/charent/iso-lat1.ent"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "http://text.lib.virginia.edu/charent/iso-lat2.ent"> %ISOlat2;
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+
+]>
+<TEI.2 id="KeeNono">
+<teiHeader type="migrated" creator="Etext">
+<fileDesc>
+<titleStmt>
+<title type="main">Nonomiya</title>
+<title type="sort">nonomiya</title>
+<author>Keene translation: Varley, H. Paul</author>
+<respStmt>
+<resp>Creation of machine-readable version:</resp>
+<name>Charlotte Robertson and Winnie Chan</name>
+<resp>Creation of digital images:</resp>
+<name/>
+<resp>Conversion to TEI.2-conformant markup:</resp>
+<name>University of Virginia Library Electronic Text Center.</name>
+</respStmt>
+</titleStmt>
+<extent>ca. <num type="kilobytes">30</num> kilobytes</extent>
+<publicationStmt>
+<publisher>University of Virginia Library</publisher>
+<pubPlace>Charlottesville, Virginia</pubPlace>
+<idno type="ETC">KeeNono</idno>
+<date value="1997">1997</date>
+<availability status="public">
+<p n="copyright">Copyright &copy; 1997 by the Rector and Visitors of the University of Virginia</p>
+<p n="access">Publicly accessible</p>
+</availability>
+<idno type="uva-pid">uva-lib:476133</idno>
+</publicationStmt>
+<seriesStmt>
+<title>University of Virginia Library, Text collection</title>
+<idno type="uva-set">UVA-LIB-Text</idno>
+</seriesStmt>
+<seriesStmt>
+<p>Japanese Text Initiative</p>
+</seriesStmt>
+<notesStmt>
+<note>
+<p>(ETC) The text has been given an id of KeeNono because this
+edition is commonly referred to as the Keene translation.</p>
+</note>
+</notesStmt>
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title type="main">Nonomiya</title>
+<title level="m">Twenty Plays of the N&omacr; Theatre</title>
+<title type="sort">nonomiya</title>
+<author>H. Paul Varley</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Donald Keene</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<p>1st Edition</p>
+</editionStmt>
+<extent>pp. 15-34</extent>
+<publicationStmt>
+<publisher>Columbia University Press</publisher>
+<pubPlace>New York</pubPlace>
+<date value="1970">1970</date>
+<idno type="callNo">Print copy consulted: UVa Library call number PL 782 .E5K4</idno>
+</publicationStmt>
+<seriesStmt>
+<p>Records of Civilization: Sources and Studies, number LXXXV</p>
+</seriesStmt>
+<notesStmt>
+<note>
+<p>From <hi rend="italic">
+<hi rend="bold">Twenty Plays of the No Theatre</hi>
+</hi> edited
+by Donald Keene.  Copyright (c) 1970 Columbia University Press.
+Reprinted with permission of the publisher.  To order the
+paperback edition of this book please call 1-800-944-8648 or
+click on to the Web page:  http://www.cc.columbia.edu/cu/cup.</p>
+</note>
+</notesStmt>
+</biblFull>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+</projectDesc>
+<editorialDecl>
+<p>All quotation marks retained as data.</p>
+<p>All unambiguous end-of-line hyphens have been removed, and the trailing part of a word has been joined to the preceding line.</p>
+<p>Keywords in the header are a local Electronic Text Center scheme to aid in establishing analytical groupings.</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<langUsage>
+<language id="eng" usage="main">English</language>
+<language id="rj">Romaji</language>
+</langUsage>
+<textClass>
+<keywords>
+<term>drama; poetry; prose</term>
+<term>Literature in Translation</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change>
+<date value="1997-08">August 1997</date>
+<respStmt>
+<resp>corrector</resp>
+<name>Catherine Tousignant, Electronic Text Center</name>
+</respStmt>
+<item>Added milestones to correspond with ZeaNono.</item>
+</change>
+<change>
+<date value="1997-02">February 1997</date>
+<respStmt>
+<resp>corrector</resp>
+<name>Winnie Chan</name>
+</respStmt>
+<item>Added TEI header and tags.</item>
+</change>
+<change>
+<date value="2005-07">July 2005</date>
+<respStmt>
+<resp>Corrector</resp>
+<name>John Ivor Carlson</name>
+</respStmt>
+<item>Converted to XML and/or checked tags.</item>
+</change>
+<change>
+<date value="2007-09">September 2007</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Ethan Gruber, University of Virginia Library</name>
+</respStmt>
+<item>Converted XML markup from TEI Lite to uva-dl-tei (TEI P4 with local customizations).</item>
+</change>
+<change>
+<date value="2008-01">January 2008</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Greg Murray, University of Virginia Library</name>
+</respStmt>
+<item>Programmatically updated TEI header markup (but not header content) for minimal compliance with current QA requirements.</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text id="d1">
+
+<front id="d2">
+
+<pb n="180"/>
+
+<div1 type="introduction" id="d3">
+<head>INTRODUCTION</head>
+<p>
+<hi rend="italic">The Shrine in the Fields</hi>, a play of the third
+category, has traditionally been ascribed to Zeami, but in recent years
+some scholars have expressed doubts about this attribution, largely for
+technical reasons of style. It is hard, however, to imagine who else but
+Zeami could have written so hauntingly evocative a work. Perhaps he wrote
+it in the last years of his life, a period not covered by the critical
+writings that are the firmest evidence for attribution; or perhaps, as
+Professor Konishi Jin'ichi has suggested, Zeami's second son, Motoyoshi,
+who is not credited with any plays in the repertory, may have written <hi rend="italic">The Shrine in the Fields</hi>,
+<hi rend="italic">Yuya</hi>, and various other masterpieces whose authorship
+is uncertain.
+</p>
+
+<p>
+The play recalls the love affair between Prince Genji and Lady
+Rokuj&omacr;, here called by her title, Miyasudokoro. Readers of <hi rend="italic">The Tale of Genji</hi> will remember Rokuj&omacr; mainly as
+the proud and elegant woman whose jealousy led to the death of Genji's
+wife, Aoi; this story is treated in the play <hi rend="italic">Aoi no
+Ue</hi>, translated by Arthur Waley in <hi rend="italic">The N&omacr;
+Plays of Japan</hi>. In <hi rend="italic">The Shrine in the Fields</hi>,
+however, Rokuj&omacr; is treated with the utmost sympathy, and
+
+
+<pb n="181"/>
+nothing suggests that her living ghost killed Aoi. The scenes from <hi rend="italic">The Tale of Genji</hi> which provided material for the play
+include: Genji's visit to Rokuj&omacr;; the humiliation of Rokuj&omacr;
+when Aoi's carriage forced back her own at the Kamo Festival; and the
+visit to Nonomiya, the Shrine in the Fields, by Genji, when Rokuj&omacr;'s
+daughter, the new Virgin of the Ise Shrine, was in residence there.
+</p>
+
+<p>
+The Emperor was always represented at Ise by a virgin of imperial blood.
+When a new virgin was appointed, before going to Ise she would reside for
+a considerable period just outside Kyoto at Nonomiya. (The word <hi rend="italic">miya</hi>
+primarily means a shrine, but can also mean a
+palace.) Nonomiya was intimately associated with Ise, the chief shrine of
+the Sun Goddess. It served its main function only intermittently, however,
+and was therefore built like a temporary shrine with a <hi rend="italic">torii</hi> of logs.
+</p>
+
+<p>
+The season is the end of autumn and an air of melancholy and impermanence
+dominates the play.
+</p>
+
+<p>
+<hi rend="italic">The Shrine in the Fields</hi> is performed by all
+schools of N&omacr;.
+</p>
+</div1>
+
+<div1 type="section" id="d4">
+<pb n="182"/>
+<list>
+<head>PERSONS</head>
+<item>A Traveling Priest (<hi rend="italic">waki</hi>)</item>
+<item>A Village Girl (<hi rend="italic">mae-jite</hi>)</item>
+<item>Miyasudokoro (<hi rend="italic">nochi-jite</hi>)</item>
+</list>
+</div1>
+
+
+<div1 type="section" id="d5">
+<p>PLACE</p>
+<p>Sagano in Yamashiro Province</p>
+<p>TIME</p>
+<p>Late autumn, the seventh day of the ninth month</p>
+</div1>
+
+
+</front>
+<body id="d6">
+
+
+
+<div1 type="play" id="d7"><pb n="183"/>
+<head>
+THE SHRINE IN THE FIELDS<lb/>
+(<hi rend="italic">NONOMIYA</hi>)
+</head>
+
+<stage>
+The stage assistant places a torii at the
+front of the stage. To either upright of the torii are attached short
+sections of fence made of brushwood twigs.
+<lb/>
+The Priest enters. He carries a rosary in his hand. He stands at the
+naming-place.
+</stage>
+
+<milestone unit="speech" n="Nono1-1"/>
+<sp>
+<speaker>Priest</speaker>
+<p>
+I am an itinerant priest. Recently I have been staying in the Capital,
+where I have visited all the famous sites and relics of the past. Autumn
+is nearing its close and Sagano will be lovely now. I think I shall go
+there for a visit.
+
+<stage>
+He turns towards the torii, indicating that he has already arrived in
+Sagano.
+</stage>
+
+When I asked people about this wood they told me it is the ancient site of
+the Shrine in the Fields. I would like to visit the place, though I am no
+more than a passing stranger.
+
+<stage>
+He advances to stage center, still facing the torii.)
+</stage>
+</p>
+
+<lg type="poem">
+<l>I enter the wood and I see</l>
+<l>A rustic log <hi rend="italic">torii</hi></l>
+<l>And a fence of brushwood twigs.</l>
+<l>Surely nothing has changed from the past!</l>
+<l>But why should time have spared this place?</l>
+<l>Be that as it may, how lucky I am</l>
+<l>To have come at this lovely time of year</l>
+<l>And to be able to worship at such a place.</l>
+</lg>
+
+<stage>
+He kneels and presses his palms together.
+</stage>
+
+<milestone unit="speech" n="Nono1-2"/>
+<lg type="poem">
+<l>The Great Shrine at Ise</l>
+<l>Makes no distinction</l>
+<l>Between gods and Buddhas:</l>
+<l>The teachings of the Buddhist Law</l>
+<l>Have guided me straight along the path,</l>
+<l>And I have arrived at the Shrine.</l>
+<l>My heart is pure in the evening light,</l>
+<l>Pure in the clear evening light!</l>
+</lg>
+</sp>
+
+<stage>
+The Girl enters. She wears the fukai mask and
+carries a branch of sakaki. She stands at the
+shite-position and faces the musicians.
+</stage>
+
+
+<pb n="184"/>
+<milestone unit="speech" n="Nono1-3"/>
+<sp>
+<speaker>Girl</speaker>
+<lg type="poem">
+<l>Shrine in the Fields</l>
+<l>Where I have lived with flowers;</l>
+<l>Shrine in the Fields</l>
+<l>Where I have lived with flowers&mdash;</l>
+<l>What will be left when autumn has passed?</l>
+</lg>
+
+<stage>
+She faces front.
+</stage>
+
+<milestone unit="speech" n="Nono1-4"/>
+<lg type="poem">
+<l>Now lonely autumn ends,</l>
+<l>But still my sleeves</l>
+<l>Wilt in a dew of tears;</l>
+<l>The dusk racks my body,</l>
+<l>And my heart of itself</l>
+<l>Takes on the fading colors</l>
+<l>Of the thousand flowers;</l>
+<l>It withers, as all things, with neglect.
+<ref target="n184.1">[1]</ref></l>
+</lg>
+
+<milestone unit="speech" n="Nono1-5"/>
+<lg type="poem">
+<l>Each year on this day,</l>
+<l>Unknown to anyone else,</l>
+<l>I return to the old remains.</l>
+<milestone unit="speech" n="Nono1-6"/>
+<l>In the wood at the Shrine in the Fields</l>
+<l>Autumn has drawn to a close</l>
+<l>And the harsh winds blow;</l>
+<l>Autumn has drawn to a close</l>
+<l>And the harsh winds blow;</l>
+<l>Colors so brilliant</l>
+<l>They pierced the senses</l>
+<l>Have faded and vanished;</l>
+<l>What remains now to recall</l>
+<l>The memories of the past
+<ref target="n184.2">[2]</ref></l>
+<l>What use was it to come here?</l>
+</lg>
+
+<stage>
+She takes a few steps to her right, then faces front.
+</stage>
+
+<lg type="poem">
+<l>Ahh&mdash;how I loathe the attachment</l>
+<l>That makes me go back and forth,</l>
+<l>Again and again on my journey</l>
+<l>To this meaningless, fugitive world.</l>
+</lg>
+</sp>
+
+<stage>
+The Priest rises and faces her.
+</stage>
+
+<milestone unit="speech" n="Nono1-7"/>
+<sp>
+<speaker>Priest</speaker>
+<p>
+As I was resting in the shade of the trees, thinking about the past and
+refreshing my mind, a charming young lady has suddenly appeared. Please
+tell me who you are.
+</p>
+</sp>
+
+<milestone unit="speech" n="Nono1-8"/>
+<sp>
+<speaker>Girl</speaker>
+<p>
+It would be more appropriate if I asked who you are. This
+
+
+<pb n="185"/>
+is Nonomiya, the Shrine in the Fields, where in ancient days the virgin
+designated as the Priestess of Ise was temporarily lodged. The custom has
+fallen into disuse, but today, the seventh day of the ninth month, is
+still a time for recalling the past. Each year, unknown to anyone else, I
+come to sweep the shrine and to perform a service. I do not know where you
+have come from, but your presence here is an intrusion. Please leave at
+once.
+</p>
+</sp>
+
+<stage>
+She takes two steps towards the Priest.
+</stage>
+
+<milestone unit="speech" n="Nono1-9"/>
+<sp>
+<speaker>Priest</speaker>
+<p>
+No, no. There can be no objection to my being here. I am only a wandering
+priest who has renounced the uncertain world. But tell me, why should you
+return here, to these old ruins, on this particular day each year in
+search of the past?
+</p>
+</sp>
+
+<milestone unit="speech" n="Nono1-10"/>
+<sp>
+<speaker>Girl</speaker>
+<p>
+This is the day when Genji the Shining One visited this place, the seventh
+day of the ninth month. He brought with him a twig of <hi rend="italic">sakaki</hi> and pushed it through the sacred fence.
+Miyasudokoro at once composed the poem:
+</p>
+
+<lg type="poem">
+<l>"This sacred enclosure</l>
+<l>Has no cypress to mark the spot;</l>
+<l>By some error you have picked</l>
+<l>A twig of <hi rend="italic">sakaki</hi> wood."
+<ref target="n185.3">[3]</ref></l>
+<l>It happened on this day!</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Nono1-11"/>
+<sp>
+<speaker>Priest</speaker>
+<lg type="poem">
+<l>That was truly a worthy poem.</l>
+<l>&mdash;And the <hi rend="italic">sakaki</hi> branch</l>
+<l>You hold in your hand</l>
+<l>Is the same color it was in the past.</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Nono1-12"/>
+<sp>
+<speaker>Girl</speaker>
+<lg type="poem">
+<l>The same color as in the past?</l>
+<l>How clever to put it that way!</l>
+<l>Only the <hi rend="italic">sakaki</hi> stays green forever,</l>
+<l>And in its unvarying shade,</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Nono1-13"/>
+<sp>
+<speaker>Priest</speaker>
+<lg type="poem">
+<l>On the pathways through the wood,</l>
+<l>The autumn deepens</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Nono1-14"/>
+<sp>
+<speaker>Girl</speaker>
+<lg type="poem">
+<l>And leaves turn crimson only to scatter.</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Nono1-15"/>
+<sp>
+<speaker>Priest</speaker>
+<lg type="poem">
+<l>In the weed-grown fields</l>
+</lg>
+</sp>
+
+<stage>
+She goes to the torii and places the sakaki branch there. The Priest
+kneels.
+</stage>
+
+<milestone unit="speech" n="Nono1-16"/>
+<sp>
+<speaker>Chorus</speaker>
+<lg type="poem">
+<l>The stalks and leaf tips wither;</l>
+
+
+<pb n="186"/>
+<l>Nonomiya, the Shrine in the Fields,</l>
+<l>Stands amidst the desolation</l>
+<l>Of withered stalks and leaves.</l>
+<l>The seventh day of the ninth month</l>
+<l>Has returned again today</l>
+<l>To this place of memories.</l>
+</lg>
+
+<stage>
+She moves to stage center.
+</stage>
+
+<lg type="poem">
+<l>How fragile it seemed at the time,</l>
+<l>This little fence of brushwood twigs.</l>
+</lg>
+
+<stage>
+She gazes at the fence.
+</stage>
+
+<lg type="poem">
+<l>And the house that looked so temporary</l>
+<l>Has now become the guardian's hut.
+<ref target="n186.4">[4]</ref></l>
+</lg>
+
+<stage>
+She turns towards the gazing-pillar.
+</stage>
+
+<lg type="poem">
+<l>A dim glow shines from inside:</l>
+<l>I wonder if the longing within me</l>
+<l>Reveals itself outwardly?</l>
+<l>How lonely a place is this shrine,</l>
+<l>How lonely a place is this palace!</l>
+</lg>
+
+<stage>
+She gazes across the front of the stage.
+</stage>
+</sp>
+
+<milestone unit="speech" n="Nono1-17"/>
+<sp>
+<speaker>Priest</speaker>
+<p>
+Please tell me more of the story of Miyasudokoro.
+</p>
+</sp>
+
+<stage>
+The Girl kneels at stage center.
+</stage>
+
+<milestone unit="speech" n="Nono1-18"/>
+<sp>
+<speaker>Chorus</speaker>
+<lg type="poem">
+<l>The lady known as Miyasudokoro</l>
+<l>Became the wife of the former Crown Prince,</l>
+<l>The brother of Kiritsubo's Emperor,
+<ref target="n186.5">[5]</ref></l>
+<l>A man at the height of his glory;</l>
+<l>They were like the color and perfume</l>
+<l>Of the same flower, indissolubly bound.</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Nono1-19"/>
+<sp>
+<speaker>Girl</speaker>
+<lg type="poem">
+<l>They knew, of course, the truth</l>
+<l>That those who meet must part&mdash;</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Nono1-20"/>
+<sp>
+<speaker>Chorus</speaker>
+<lg type="poem">
+<l>Why should it have surprised them?</l>
+<l>But it came so soon&mdash;like a nightmare&mdash;</l>
+<l>His death that left her alone.</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Nono1-21"/>
+<sp>
+<speaker>Girl</speaker>
+<lg type="poem">
+<l>She could not remain in that state,</l>
+<l>Helpless and given to tears;</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Nono1-22"/>
+<sp>
+<speaker>Chorus</speaker>
+<lg type="poem">
+<l>Soon Genji the Shining One</l>
+<l>Imposed his love and began</l>
+<l>Their clandestine meetings.</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Nono1-23"/>
+<sp>
+<speaker>Girl</speaker>
+<lg type="poem">
+<l>How did their love affair end?</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Nono1-24"/>
+<sp>
+<speaker>Chorus</speaker>
+<lg type="poem">
+<l>And why, after they separated,</l>
+
+
+<pb n="187"/>
+<l>Did his love never turn to hate?</l>
+<milestone unit="speech" n="Nono1-25"/>
+<l>With customary tenderness</l>
+<l>He made his way through the fields</l>
+<l>To distant Nonomiya.</l>
+<l>The autumn flowers had all withered,</l>
+<l>The voices of insects were sparse.</l>
+<l>Oh, the loneliness of that journey!</l>
+<l>Even the wind echoing in the pines</l>
+<l>Reminded him there is no end</l>
+<l>To the sadness of autumn.</l>
+<l>So the Prince visited her,</l>
+<l>And with the deepest affection</l>
+<l>Spoke his love in many ways;</l>
+<l>How noble and sensitive a man!</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Nono1-26"/>
+<sp>
+<speaker>Girl</speaker>
+<lg type="poem">
+<l>Later, by the Katsura River,</l>
+<l>She performed the cleansing rite,</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Nono1-27"/>
+<sp>
+<speaker>Speaker</speaker>
+<lg type="poem">
+<l>Setting the white-wrapped branches
+<ref target="n187.6">[6]</ref></l>
+<l>Adrift on the river waves;</l>
+<l>Herself like a drifting weed,</l>
+<l>No roots or destination,</l>
+<l>She moved at the water's will.
+<ref target="n187.7">[7]</ref></l>
+<l>"Through the waves of the eighty rapids</l>
+<l>Of Suzuka River to Ise,</l>
+<l>Who will worry if the waves wet me or no?"
+<ref target="n187.8">[8]</ref></l>
+<l>She wrote this poem to describe her journey.</l>
+<l>Never before had a mother</l>
+<l>Escorted her daughter, the Virgin,</l>
+<l>All the way to the Tak&eacute; Palace.
+<ref target="n187.9">[9]</ref></l>
+<l>Mother and daughter on the way</l>
+<l>Felt only the bitterness of regret.</l>
+</lg>
+
+<stage>
+for Priest
+</stage>
+
+<milestone unit="speech" n="Nono1-28"/>
+<lg type="poem">
+<l>Now that I have heard your tale,</l>
+<l>I am sure you are no ordinary woman.</l>
+<l>Please tell me your name.</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Nono1-29"/>
+<sp>
+<speaker>Girl</speaker>
+<lg type="poem">
+<l>Revealing my name</l>
+<l>Would serve no purpose;</l>
+<l>In my helplessness</l>
+<l>I am ashamed of myself.</l>
+<l>Sooner or later</l>
+
+
+<pb n="188"/>
+<l>My name will be known,</l>
+<l>It can't be helped;</l>
+<l>But now say a prayer for one nameless,</l>
+<l>And not of this world.</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Nono1-30"/>
+<sp>
+<speaker>Chorus</speaker>
+<stage>
+for Priest.
+</stage>
+<lg type="poem">
+<l>Not of this world?</l>
+<l>What strange words to heart</l>
+<l>Then, have you died and departed</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Nono1-31"/>
+<sp>
+<speaker>Girl</speaker>
+<lg type="poem">
+<l>This world, long ago,</l>
+<l>A name my only monument:</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Nono1-32"/>
+<sp>
+<speaker>Chorus</speaker>
+<lg type="poem">
+<l>Miyasudokoro</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Nono1-33"/>
+<sp>
+<speaker>Girl</speaker>
+<lg type="poem">
+<l>Is myself.</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Nono1-34"/>
+<sp>
+<speaker>Chorus</speaker>
+<lg type="poem">
+<l>Autumn winds rise at dusk;</l>
+</lg>
+
+<stage>
+She stands.
+</stage>
+
+<lg type="poem">
+<l>Through the forest branches</l>
+<l>The evening moonlight shines</l>
+</lg>
+
+<stage>
+She goes to the <hi rend="italic">shite</hi>-position.
+</stage>
+
+<lg type="poem">
+<l>Dimly illuminating,</l>
+<l>Under the trees,</l>
+</lg>
+
+<stage>
+She looks at the <hi rend="italic">torii</hi>.
+</stage>
+
+<lg type="poem">
+<l>The rustic logs of the <hi rend="italic">torii</hi>.</l>
+<l>She passes between the two pillars</l>
+<l>And vanishes without a trace;</l>
+<l>She has vanished without a trace.</l>
+</lg>
+</sp>
+
+<stage>
+She slowly exits. A Villager then enters and performs the ky&omacr;gen
+interlude, a lengthy recapitulation of Miyasudokoro's story. The Priest
+asks the Villager to tell what he knows, and then the two men agree that
+the Priest has just seen the ghost of Miyasudokoro. The Priest decides to
+stay and read the sutras and prayers for her. The Villager withd raws.
+</stage>
+
+<milestone unit="speech" n="Nono2-1"/>
+<sp>
+<speaker>Priest</speaker>
+<lg type="poem">
+<l>Alone I lie on the forest moss,</l>
+<l>A sleeve of my robe spread beneath me&mdash;</l>
+<l>Under forest trees, a mossy robe:
+<ref target="n188.10">[10]</ref></l>
+<l>My mat is grass of the same color.</l>
+<l>Unfolding my memories</l>
+<l>I shall offer prayers all night long;</l>
+<l>I shall pray for her repose.</l>
+</lg>
+</sp>
+
+<stage>
+The Girl, now revealed as Miyasudokoro, enters and stands at the <hi rend="italic">shite</hi>-position.
+</stage>
+
+
+<pb n="189"/>
+<milestone unit="speech" n="Nono2-2"/>
+<sp>
+<speaker>Miyasudokoro</speaker>
+<lg type="poem">
+<l>In this carriage,</l>
+<l>Lovely as the autumn flowers</l>
+<l>At Nonomiya,</l>
+<l>I too have returned to the past,</l>
+<l>To long ago.</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Nono2-3"/>
+<sp>
+<speaker>Priest</speaker>
+<lg type="poem">
+<l>How strange!</l>
+<l>In the faint moonlight</l>
+<l>The soft sounds</l>
+<l>Of an approaching carriage,</l>
+<l>A courtly carriage</l>
+<l>With reed blinds hanging&mdash;</l>
+<l>A sight of unimagined beauty!</l>
+<l>It must be you, Miyasudokoro!</l>
+<l>But what is the carriage you ride in?</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Nono2-4"/>
+<sp>
+<speaker>Miyasudokoro</speaker>
+<lg type="poem">
+<l>You ask about my carriage?</l>
+<l>I remember now</l>
+<l>That scene of long ago&mdash;</l>
+<l>The Kamo Festival,</l>
+<l>The jostling carriages.</l>
+<l>No one could tell</l>
+<l>Who their owners were,</l>
+<l>But thick as dewdrops</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Nono2-5"/>
+<sp>
+<speaker>Priest</speaker>
+<lg type="poem">
+<l>The splendid ranks crowded the place.</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Nono2-6"/>
+<sp>
+<speaker>Miyasudokoro</speaker>
+<lg type="poem">
+<l>Pleasure carriages of every description,</l>
+<l>And one among them of special magnificence,</l>
+<l>The Princess Aoi's.</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Nono2-7"/>
+<sp>
+<speaker>Priest</speaker>
+<lg type="poem">
+<l>"Make way for Her Highness's carriage!"</l>
+<l>The servants cried, clearing the crowd,</l>
+<l>And in the confusion</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Nono2-8"/>
+<sp>
+<speaker>Miyasudokoro</speaker>
+<lg type="poem">
+<l>I answered, "My carriage is small,</l>
+<l>I have nowhere else to put it."</l>
+<l>I stood my ground,</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Nono2-9"/>
+<sp>
+<speaker>Priest</speaker>
+<lg type="poem">
+<l>But around the carriage</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Nono2-10"/>
+<sp>
+<speaker>Miyasudokoro</speaker>
+<lg type="poem">
+<l>Men suddenly swarmed.</l>
+</lg>
+</sp>
+
+<stage>
+Her gestures suggest the actions described.
+</stage>
+
+<milestone unit="speech" n="Nono2-11"/>
+<sp>
+<speaker>Chorus</speaker>
+<lg type="poem">
+<l>Grasping the shafts,</l>
+<l>They pushed my carriage back</l>
+<l>Into the ranks of the servants.</l>
+<l>My carriage had come for no purpose,</l>
+
+
+<pb n="190"/>
+<l>My pleasure was gone,</l>
+<l>And I knew my helplessness.</l>
+<l>I realized now</l>
+<l>That all that happened</l>
+<l>Was surely retribution</l>
+<l>For the sins of former lives.</l>
+<l>Even now I am in agony:</l>
+<l>Like the wheels of my carriage</l>
+<l>I return again and again&mdash;</l>
+<l>How long must I still keep returning?</l>
+<l>I beg you, dispel this delusion!</l>
+<l>I beg you, dispel my suffering!</l>
+</lg>
+
+<stage>
+She presses her palms together in supplication.
+</stage>
+</sp>
+
+<milestone unit="speech" n="Nono2-12"/>
+<sp>
+<speaker>Miyasudokoro</speaker>
+<lg type="poem">
+<l>Remembering the vanished days</l>
+<l>I dance, waving at the moon</l>
+<l>My flowerlike sleeves,</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Nono2-13"/>
+<sp>
+<speaker>Chorus</speaker>
+<lg type="poem">
+<l>As if begging it to restore the past.</l>
+</lg>
+</sp>
+
+<stage>
+She goes to the <hi rend="italic">shite</hi>-position and begins to
+dance. As her dance ends, the text resumes.
+</stage>
+
+<milestone unit="speech" n="Nono2-14"/>
+<sp>
+<speaker>Miyasudokoro</speaker>
+<lg type="poem">
+<l>Even the moon</l>
+<l>At the Shrine in the Fields</l>
+<l>Must remember the past;</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Nono2-15"/>
+<sp>
+<speaker>Chorus</speaker>
+<lg type="poem">
+<l>Its light forlornly trickles</l>
+<l>Through the leaves to the forest dew.</l>
+<l>Through the leaves to the forest dew.</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Nono2-16"/>
+<sp>
+<speaker>Miyasudokoro</speaker>
+<lg type="poem">
+<l>This place, once my refuge,</l>
+<milestone unit="speech" n="Nono2-17"/>
+<l>This garden, still lingers</l>
+</lg>
+</sp>
+
+<sp>
+<speaker>Chorus</speaker>
+<lg type="poem">
+<l>Unchanged from long ago,</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Nono2-18"/>
+<sp>
+<speaker>Miyasudokoro</speaker>
+<lg type="poem">
+<l>A beauty nowhere else,</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Nono2-19"/>
+<sp>
+<speaker>Chorus</speaker>
+<lg type="poem">
+<l>Though transient, insubstantial</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Nono2-20"/>
+<sp>
+<speaker>Miyasudokoro</speaker>
+<lg type="poem">
+<l>As this little wooden fence</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Nono2-421"/>
+<sp>
+<speaker>Chorus</speaker>
+<lg type="poem">
+<l>From which he used to brush the dew.</l>
+</lg>
+
+<stage>
+She brushes the fence with her fan.
+</stage>
+
+<lg type="poem">
+<l>I, whom he visited,</l>
+<l>And he, my lover too,</l>
+<l>The whole world turned to dreams,</l>
+<l>To aging ruins;</l>
+<l>Whom shall I pine for now?</l>
+<l>The voices of pine-crickets</l>
+
+
+<pb n="191"/>
+<l>Trill <hi rend="italic">sin, sin,</hi></l>
+<l>The wind howls:</l>
+</lg>
+
+<stage>
+She advances to stage front. She gazes at the <hi rend="italic">torii</hi>.
+</stage>
+
+<lg type="poem">
+<l>How I remember</l>
+<l>Nights at the Shrine in the Fields!</l>
+</lg>
+</sp>
+
+<stage>
+Weeping, she withdraws to the area before the musicians and starts to
+dance. The text resumes when her dance has ended.
+</stage>
+
+<sp>
+<speaker>Chorus</speaker>
+<lg type="poem">
+<l>At this shrine we have always worshiped</l>
+<l>The divine wind that blows from Ise,</l>
+</lg>
+
+<stage>
+She goes before the <hi rend="italic">torii</hi>.
+</stage>
+
+<lg type="poem">
+<l>The Inner and Outer Shrines.</l>
+<l>As I pass to and fro through this <hi rend="italic">torii</hi></l>
+<l>I seem to wander on the path of delusion:</l>
+<l>I waver between life and death.</l>
+</lg>
+
+<stage>
+She passes back and forth through the <hi rend="italic">torii</hi>.
+</stage>
+
+<lg type="poem">
+<l>The gods will surely reject me!</l>
+<l>Again she climbs in her carriage and rides out</l>
+<l>The gate of the Burning House,</l>
+<l>The gate of the Burning House.
+<ref target="n191.11">[11]</ref></l>
+</lg>
+</sp>
+
+</div1>
+</body>
+
+<back id="d8">
+
+
+<div1 type="notes" id="d9"><pb n="192"/>
+
+<head>Notes</head>
+
+<note id="n184.1"><seg type="note-symbol">1.</seg><p> The passage above hints at the fading love of Genji for Miyasudokoro.
+</p></note>
+
+<note id="n184.2"><seg type="note-symbol">2.</seg> <p> The verb <hi rend="italic">shinobu</hi>, "to recall the past,"
+leads into the noun <hi rend="italic">shinobu no kusagoromo</hi>, a
+robe made of a kind of printed cloth, the design pressed from leaves. This
+cloth is mentioned effectively in <hi rend="italic">The Brocade
+Tree</hi>, but here it seems an extraneous ornament and is hence omitted
+from the translation.
+</p></note>
+
+<note id="n185.3"><seg type="note-symbol">3.</seg> <p> The poem is quoted from The <hi rend="italic">Tale of Genji</hi>,
+where it seems to mean that the visitor has come without invitation,
+pretending he had been invited. The poem is an allusive variation on poem
+no. 982 of the Kokinsh&umacr;: "My hut is at the foot of Mount Miwa. If
+you love me come and visit me; my gate is the one with the cedar by it."
+</p></note>
+
+<note id="n186.4"><seg type="note-symbol">4. </seg> <p>Commentators disagree on the nature of the hut, some taking it as the
+place where the guardian lives, others as a place where sacred food is
+prepared. The meaning in either case is that buildings which, like
+everything else at the Shrine in the Fields, seemed highly perishable have
+miraculously survived.
+</p></note>
+
+<note id="n186.5"><seg type="note-symbol">5.</seg> <p> Kiritsubo was Genji's mother.
+</p></note>
+
+<note id="n187.6"><seg type="note-symbol">6.</seg> <p> Streamers of paper or mulberry bark were inscribed with prayers and
+attached to <hi rend="italic">sakaki</hi> branches, then tossed into
+the stream.
+</p></note>
+
+<note id="n187.7"><seg type="note-symbol">7.</seg> <p> There are allusions here to the famous poem by Ono no Komachi in which
+she compares herself to a floating waterweed. See <hi
+rend="italic">Komachi at Sekidera</hi>.
+</p></note>
+
+<note id="n187.8"><seg type="note-symbol">8.</seg> <p> A slightly modified version of the poem Miyasudokoro sent to Genji at
+Nonomiya. Being wetted by the waves has the additional meaning of having
+her sleeves wetted by tears. In other words, she is sure nobody will care
+whether she weeps with sorrow or not.
+</p></note>
+
+<note id="n187.9"><seg type="note-symbol">9.</seg> <p> The Virgin resided at Ise in the Tak&eacute; Palace.
+</p></note>
+
+<note id="n188.10"><seg type="note-symbol">10.</seg> <p> A priest's robe was frequently called <hi rend="italic">kokegoromo</hi>, literally "moss robe." Here it has that
+meaning, but also refers to the moss on the ground. Because it is autumn
+the grass too is faded like the priest's robe.
+</p></note>
+
+<note id="n191.11"><seg type="note-symbol">11.</seg> <p> The Burning House is a familiar image for this world, which an
+enlightened person should flee as eagerly as from a burning house.
+</p></note>
+
+</div1>
+</back>
+</text>
+</TEI.2>
+
+
+

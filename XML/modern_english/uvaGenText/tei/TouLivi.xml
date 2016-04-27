@@ -1,0 +1,607 @@
+<?xml version="1.0"?>
+
+<?dlps id="TouLivi"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOlat1 SYSTEM "http://text.lib.virginia.edu/charent/iso-lat1.ent"> %ISOlat1;
+<!ENTITY % ISOnum SYSTEM "http://text.lib.virginia.edu/charent/iso-num.ent"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+ 
+]> 
+ 
+<TEI.2 id="TouLivi">
+	<teiHeader type="migrated" creator="Etext">
+<fileDesc>
+<titleStmt>
+<title type="main">The Living Mummy</title>
+<title type="sort">living mummy</title>
+<author>Turgenev, Ivan</author>
+<respStmt>
+<resp>Creation of machine-readable version:</resp>
+					<name>Judy Boss</name>
+					<resp>Creation of digital images:</resp>
+					<name/>
+					<resp>Conversion to TEI.2-conformant markup:</resp>
+					<name>University of Virginia Library Electronic Text Center.</name>
+</respStmt>
+</titleStmt>
+			<extent>ca. <num type="kilobytes">38</num> kilobytes</extent>
+			<publicationStmt>
+<publisher>University of Virginia Library</publisher>
+<pubPlace>Charlottesville, Virginia</pubPlace>
+				<idno type="ETC">TouLivi</idno>
+				<date value="1997">1997</date>
+<availability status="public">
+<p n="copyright">Copyright &copy; 1997 by the Rector and Visitors of the University of Virginia</p>
+<p n="access">Publicly accessible</p>
+</availability>
+<idno type="uva-pid">uva-lib:476399</idno>
+</publicationStmt>
+<seriesStmt>
+<title>University of Virginia Library, Text collection</title>
+<idno type="uva-set">UVA-LIB-Text</idno>
+</seriesStmt>
+			<notesStmt>
+<note>
+<p>The Electronic Text Center has regularized the spelling of the author's name
+					from Tourgu&eacute;neff to Turgenev, to maintain consistency with library
+					catalogues.</p>
+</note>
+				</notesStmt>
+			<sourceDesc>
+<biblFull>
+<titleStmt>
+<title type="main">The Living Mummy</title>
+<title level="j">Scribner's Monthly, Vol. 12, No. 4</title>
+<title type="sort">living mummy</title>
+<author>Ivan Turgenev</author>
+</titleStmt>
+					<extent>pp.563-569</extent>
+					<publicationStmt>
+<publisher>Scribner and Co.</publisher>
+						<pubPlace>New York</pubPlace>
+						<date value="1876">1876</date>
+						<idno type="callNo">Print copy consulted:UVa library, Call no: AP2.C4 V.13 1876-77</idno>
+</publicationStmt>
+					<notesStmt>
+<note>
+<p>The print source used to check the electronic text is Scribner's
+							Volume 13 which erroneously contains the content properly belonging to
+							Volume 12. However, this copy maintains the original pagination of "The
+							Living Mummy" as it should have appeared in Volume 12.</p>
+</note>
+						</notesStmt>
+</biblFull>
+</sourceDesc>
+</fileDesc>
+		<encodingDesc>
+<projectDesc>
+<p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+</projectDesc>
+			<editorialDecl>
+<p>All quotation marks retained as data.</p>
+				<p>All unambiguous end-of-line hyphens have been removed, and the trailing part of a
+					word has been joined to the preceding line.</p>
+				<p>The images exist as archived TIFF images, one or more JPEG versions for general
+					use, and thumbnail GIFs.</p>
+				<p>Keywords in the header are a local Electronic Text Center scheme to aid in
+					establishing analytical groupings.</p>
+</editorialDecl>
+			</encodingDesc>
+		<profileDesc>
+<creation>
+<date value="1876">1876</date>
+</creation>
+			<langUsage>
+<language id="eng" usage="main">English</language>
+</langUsage>
+			<textClass>
+<keywords>
+<term>prose; fiction</term>
+					<term>Literature in Translation</term>
+</keywords>
+				</textClass>
+</profileDesc>
+		<revisionDesc>
+<change>
+<date value="1997-07">July, 1997</date>
+				<respStmt>
+<resp>corrector</resp>
+					<name>Carolyn M. Fay</name>
+</respStmt>
+				<item>Added TEI header and tags.</item>
+</change>
+			<change>
+<date value="2005-07">July 2005</date>
+				<respStmt>
+<resp>Corrector</resp>
+					<name>Margaret Konkol</name>
+</respStmt>
+				<item>Converted SGML to XML and fixed tagging.</item>
+</change>
+<change>
+<date value="2007-09">September 2007</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Ethan Gruber, University of Virginia Library</name>
+</respStmt>
+<item>Converted XML markup from TEI Lite to uva-dl-tei (TEI P4 with local customizations).</item>
+</change>
+<change>
+<date value="2008-01">January 2008</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Greg Murray, University of Virginia Library</name>
+</respStmt>
+<item>Programmatically updated TEI header markup (but not header content) for minimal compliance with current QA requirements.</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+	<text id="d1">
+		<body id="d2">
+			
+			<div1 type="story" id="d3"><pb n="563"/>
+				<head>THE LIVING MUMMY. <lb/> BY IVAN TURGENEV.</head>
+
+				<p>"A DRY fisherman and a wet hunter make sorry figures," says the French proverb.
+					Never having had any turn for angling, I can form no opinion as to the feelings
+					of a fisherman in fine sunny weather &mdash; or tell how far, in foul
+					weather, the satisfaction he obtains from a good catch makes up for the
+					unpleasantness of getting drenched. But, for any one out shooting, rain is an
+					actual disaster. </p>
+				<p>Well, it was to a disaster of this kind that Ermolai and I were exposed in one of
+					our expeditions after blackcock in the Bielef district. From the earliest morn
+					the rain fell without ceasing. We tried everything we could think of in order to
+					escape from it. We pulled our water-proofs almost over our heads; we took
+					shelter under trees, in hopes of being less drenched. But our water-proofs,
+					besides hindering us from shooting, let in the wet in the most shameless manner;
+					and under the trees, though at first scarcely a drop reached us, yet, after a
+					time, the moisture which had accumulated on the leaves broke through; every
+					branch spouted on us like a water-pipe, till a cold stream insinuated itself
+					under our cravats and ran down our backs. Things had got to their worst, as
+					Ermolai observed. </p>
+				<p>"It's no use, Peter Petrovich," at last he exclaimed. "There will be no shooting
+					to-day. The scent won't lie in the wet, and the guns will hang fire." </p>
+				<p>"What's to be done?" I asked. </p>
+				<p>"I'll tell you. We'll go to Alexievka. Perhaps you don't know such a place
+					exists. It's a hamlet belonging to your mother, about eight versts off. We can
+					spend the night there, and tomorrow &mdash;" </p>
+				<p>"We'll come back here?" </p>
+				<p>"No, not here. I know some covers beyond Alexievka, much better for blackcock
+					than hereabouts." </p>
+				<p>I did not stop to ask my trusty companion why he had not taken me there at once,
+					and, before long, we reached the little village, of the existence of which, to
+					tell the truth, I had never till then had the slightest idea. There was a small
+					seigneurial house in it, very old, but unoccupied, and therefore clean. Within
+					its walls I spent a tolerably quiet night. </p>
+				<p>Next morning I awoke very early. The sun had only just risen; there was not a
+					single cloud in the sky; all around was brilliant with the fresh light of the
+					early sunbeams flashed back by yesterday's raindrops. </p>
+				<p>While a carriage was being got ready, I took a stroll through what had once been
+					a fruit-garden, but was now a little wilderness, surrounding the house on all
+					sides with its rich, odoriferous vegetation. Ah! how pleasant it was in the open
+					air, beneath the clear sky, in which trembled the larks, from which streamed the
+					silvery rain of their ringing notes! Actual dew had they borne aloft on their
+					wings, and in the dew of fancy their songs seemed to have been steeped. I
+					wandered along bare-headed, joyfully drawing long deep breaths. </p>
+				<p>On the slope of a shallow ravine, close to the garden hedge, a number of
+					bee-hives were to be seen. A narrow path led up to them, gliding like a snake
+					between compact walls of nettles and fern, above which, rose here and there, a
+					stray stalk of dark green hemp. I strolled along this path and reached the
+					bee-hives. Beside them stood the wattled hut which they occupied in winter. I
+					glanced through its half-opened door-way. All was dark inside, and dry, and
+					still; the air redolent of mint and balm. In one corner was a raised planking,
+					and on it there seemed to be stretched a small figure, with a coverlet thrown
+					over it. I was turning away when &mdash; "Barin,<ref target="n1">[*]</ref>
+					Barin, Peter Petrovich!" I heard a voice cry &mdash; a voice weak, languid,
+					hoarse, resembling the rustling of sedge in a pool. I stopped short. </p>
+				<p>"Peter Petrovich! Please come here," continued the voice. </p>
+				<p>It came to my ears from the corner where, as I have said, the planking stood. </p>
+				<p>I drew near &mdash; and stopped in amazement. Before me lay a human being of
+					some kind; but of what kind was it? </p>
+				<p>The face was so emaciated, so bronzed into one monotonous hue, that it was
+					precisely like one of those depicted in old manuscripts. The nose was as sharp
+					as the edge of a knife; of lips scarcely anything could be seen; from underneath
+					the kerchief round the head some thin locks of <pb n="564"/> yellowish hair
+					straggled on to the forehead. The only touches of high light in the picture were
+					contributed by the teeth and eyes. Under the chin, at the fold of the covering,
+					two small hands, of the same bronzed hue as the face, were slowly working their
+					bony fingers. When I looked more closely, I saw that the features were not only
+					free from ungainliness, but were even finely cut &mdash; but the whole face
+					was strange, &mdash; startling. What heightened the singular effect it
+					produced upon me was that I could see, on those metallic cheeks, a smile
+					striving, but unsuccessfully, to break forth: </p>
+				<p>"You do not recognize me, Barin?" whispered the voice again. It seemed as if it
+					were merely exhaled from the scarcely moving lips. "But how could you recognize
+					me? I am Loukeria. Do you recollect, I used to lead the Khorovods <ref
+						target="n2">[*]</ref> at your mother's, in Spasskoe? I used to lead the
+					singing, too, if you remember." </p>
+				<p>"Loukeria!" I exclaimed. "Can this be you?" </p>
+				<p>"Yes, Barin. I am Loukeria." </p>
+				<p>I knew not what to say, but stared as if <orig reg="stupefied">
+					stupified</orig>at that dark, motionless face, with its pale and death-like eyes
+					fixed on mine. Was it possible? That mummy &mdash; Loukeria, the beauty of
+					the household, that tall, lithe, clear-skinned, rosy-cheeked girl, so given to
+					laughter and dance and song! &mdash; Loukeria, the bright Loukeria, whom all
+					our lads courted, for whom, I myself, then a youngster of sixteen, had secretly
+					sighed! </p>
+				<p>"Tell me, Loukeria," I said at last; "what can have happened to you?" </p>
+				<p>"A great trouble has befallen me! But don't be repelled by my misfortune, Barin.
+					Take a seat on that pail there &mdash; a little nearer, please, or you won't
+					be able to hear what I say. You see what a fine strong voice I have now. Ah, how
+					glad I am to see you! How did you ever come to Alexievka?" </p>
+				<p>Loukeria spoke continuously, though her words came slowly and were faintly
+					uttered. </p>
+				<p>"It was Ermolai who brought me here," I said. "But, tell me &mdash;" </p>
+				<p>"Tell you about my troubles? Very well, Barin. It's a long time since they came
+					upon me, some six or seven years ago. I had just then been betrothed to Vassily
+					Poliakof. Do you recollect him? Well made, with curly hair &mdash; he was
+					one of your mother's servants. But you weren't in the country at that time; you
+					were studying then at Moscow. Vassily and I were very fond of each other. He was
+					never out of my mind. Well, one night &mdash; it was in the spring
+					&mdash; I could not sleep. A little before daybreak, I heard a nightingale
+					singing in the garden so sweetly, so wonderfully, that I could not help getting
+					up and going out on the steps to listen to it. It sang and sang. All of a sudden
+					I fancied that some one was calling to me with a voice like Vassily's
+					&mdash; low, like this &mdash; 'Lasha!'<ref target="n3">[*]</ref> I
+					looked round, and &mdash; I suppose I was only half awake &mdash; I
+					missed my footing, slipped off the steps, and fell right down on the ground. I
+					thought I was not much hurt, for I jumped up directly and went back to my room.
+					But it seems I must have got some hurt inside. Let me wait a minute, Barin, to
+					get my breath." </p>
+				<p>Loukeria stopped talking. I gazed at her in wonder. What astonished me most was
+					that she told her tale in a tone that was almost lively, without a groan or a
+					sigh, never complaining or asking for sympathy. </p>
+				<p>"From the time of that accident," continued Loukeria, "I began to fade and wither
+					away. My skin darkened; first I found a difficulty in walking, then I could not
+					use my legs any more. I could neither stand nor sit up, but had to be always
+					lying down. I never cared to eat or drink, and continually grew worse and worse.
+					Your mother kindly got doctors to see me, and had me sent to a hospital. But not
+					the slightest good came of it all. And there was not a single doctor who could
+					tell what was the matter with me. What didn't they do to me! They seared my back
+					with hot irons, they placed me in pounded ice. But it was all of no use. After a
+					time I seemed to get numb all over, and at last it was settled that there was no
+					curing me. The gentry cannot be expected to keep cripples in their houses, so I
+					was sent on here where I have some relations. And here I live, as you see." </p>
+				<p>Loukeria again stopped, and again tried to smile. </p>
+				<p>"But, it's dreadful, this state you're in!" I exclaimed, and not knowing what to
+					say next, added: "And how about Vassily Poliakof?" not a very discreet question
+					to ask. </p>
+				<p>Loukeria turned away her eyes a little. </p>
+				<p>"Poliakof? He was very unhappy for some time. And then he married another girl,
+					one from Glinnoe. Do you know Glinnoe? It's not far off. Her name is Agra- <pb
+						n="565"/> fena. He was very fond of me; but he was a young man, you know; he
+					couldn't always remain unmarried. And what sort of a helpmate should I have been
+					for him? He has a wife who is good and comely, and they have children. He is
+					employed in the steward's office of a neighboring estate &mdash; your mother
+					gave him a permit &mdash; and all goes well with him, thank God!" </p>
+				<p>"And so you're always lying here without moving?" I asked. </p>
+				<p>"This is the seventh year, Barin, I've been lying here. During the summer I
+					remain in this hut. When it turns cold, I am removed to the outer room of the
+					bath-house." </p>
+				<p>"And who looks after you?" </p>
+				<p>"There are kind folks here as well as elsewhere. I am not deserted, and I don't
+					want much looking after. As for victuals &mdash; why, I scarcely eat
+					anything; and for drink &mdash; there is water in that pitcher. It always
+					stands there, with plenty of fresh spring-water. I can get at it without help.
+					One of my arms is still serviceable, and, besides, there is a young girl, an
+					orphan, who comes to see after me, God bless her! She was here just now. Didn't
+					you meet her? A fair-haired girl, and so pretty! She brings me flowers. I am so
+					fond of flowers. I haven't any garden ones; I had some once, but they're all
+					gone. But see how charming the wild flowers are; and they smell even sweeter
+					than the garden ones. See, here are some lilies of the valley&mdash;what can
+					be prettier?" </p>
+				<p>"And you don't find the life you lead wearisome or painful, my poor Loukeria?" </p>
+				<p>"What can one do? I won't say what isn't true. At first it was very dreary. But
+					after I got accustomed to it and learned to be patient, it seemed a mere
+					nothing. There are others still worse off." </p>
+				<p>"How so?" </p>
+				<p>"There are some who are homeless, there are others who are blind or deaf. But I,
+					thank God! see quite well and hear everything, everything. If a mole burrows
+					underground I can hear it, and I can enjoy every scent, however faint it may be.
+					When the buckwheat is in flower in the fields, or the lime-trees in the garden,
+					there is no need to tell me of it. I am the first to know it, as long as the
+					wind blows the right way. No, why should I anger God? There are many who are
+					worse off than I am. For instance, when one is well, one may easily fall into
+					sin. But from me, all sin has, as it were, passed aside. Father Alexis, our
+					priest, was going to give me the sacrament the other day, and he said: 'You need
+					not confess. What sin can you possibly commit in the state you're in?' 'But,' I
+					replied: 'How about mental sins, Father?' 'Come,' says he, and smiled withal,
+					'those can be no great sins.'" </p>
+				<p>"Though, I dare say I've not done much even in the way of those same mental
+					sins," continued Loukeria, "because I've accustomed myself not to think, not
+					even to remember. Time goes faster that way." </p>
+				<p>I must own I felt astonished. </p>
+				<p>"You are always alone, Loukeria. How can you prevent ideas from coming into your
+					mind? Surely, you cannot always be sleeping?" </p>
+				<p>"Oh, no, Barin! Though I am free from any acute suffering, yet, I have a pain
+					just here, and in the bones, too, which does not let me sleep properly. No
+					&mdash; here I lie and lie, and think of nothing. I know that I am alive,
+					that I breathe &mdash; and that is all. I see, I hear. The bees hum around
+					the hives; a pigeon lights on the roof and coos; a hen comes with her chickens
+					to pick up the crumbs; sometimes a sparrow flies in, or a butterfly &mdash;
+					it's all a pleasure to me. Two years ago, some swallows made their nest over
+					there, in the corner, and reared a brood. How interesting that was! One of them
+					would fly in, cling to the nest, give the young birds their food, and then be
+					off again. Next minute, there would be the other one instead. Sometimes they
+					would not fly in, would only flit past the open door, and, then how the little
+					ones would open their beaks wide and cry for food! I looked out for them again
+					next year, but folks say that some one hereabouts shot them. What good could he
+					get by that? Why, a swallow's body is not much bigger than a cock-chafer's. How
+					cruel you sportsmen are!" </p>
+				<p>"I never kill swallows," I hastened to say. </p>
+				<p>"Once, something funny happened," continued Loukeria. "A hare ran in here; it's a
+					fact! I suppose it had been chased by dogs. Anyhow, in it came, right through
+					the door-way. It sat close by me, sat ever so long, twitching its nose the while
+					and its mustaches &mdash; just like an officer &mdash; and looking at me
+					all the time. One could see it knew well enough that it needn't be afraid of me.
+					At last, up it jumped, bounded to the door, gave a look back when it got there
+					&mdash; and was gone. What a droll creature it was! </p>
+				<p>"Wasn't it funny, though?" said Loukeria, glancing at me. I laughed to please
+					her. She moistened her dry lips. <pb n="566"/>
+				</p>
+				<p>"In winter, I must allow, I'm not so well off, for then it's so dark. It would be
+					a pity to light a candle, and what would be the use of it? I can read and write,
+					and I was always fond of reading, but what is there for me to read? There are no
+					books here, but, even if there were, how could I hold one up? Father Alexis
+					brought me an almanac one day, but he saw it was of no use, so he just took it
+					back again. However, even in the dark, there's always something to listen to. A
+					cricket chirps, or a mouse begins to gnaw. And so one gets on well enough
+					without thinking of anything. </p>
+				<p>"Besides, I say my prayers," continued Loukeria, with a slight sigh. "Only I
+					don't know many. And why should I go wearying the Lord? What is there I can ask
+					Him for? He knows better than I do what is meet for me. He has laid upon me a
+					cross; it is a sign of his love for me. That is how we are told to look upon
+					such things. I say the Lord's Prayer, the Angelical Salutation, the Prayer for
+					all who are Afflicted, and then I go on lying here without thinking at all." </p>
+				<p>Two or three minutes passed by. I did not break the silence, but sat perfectly
+					still, on the reversed pail which served as a scanty stool. The cruel stony
+					immobility of the unfortunate living creature who lay there before me, seemed to
+					communicate itself to me. I felt as if I too were losing vitality. </p>
+				<p>"Loukeria," I began at last, "think over the suggestion I am going to make. Would
+					you like me to arrange for your being removed to a hospital, &mdash; a good
+					hospital in town. Who knows whether it may not be possible to cure you? At all
+					events you would not be left alone." </p>
+				<p>Loukeria's eyebrows twitched a little. </p>
+				<p>"Oh no, Barin!" she said in an uneasy whisper. "Don't send me to a hospital;
+					don't take me from where I am. I should only suffer all the more there. How can
+					I be cured? There was a doctor came here one day and wanted to examine me. I
+					begged him not to. 'For Christ's sake, do not disturb me!' I said. What was the
+					use? He began turning me over from one side to another, bending my arms and
+					legs, and kneading them into dough, saying the while: 'I do this for the sake of
+					science. I'm a scientific man, you see, and employed by Government. And you
+					mustn't go putting difficulties in my way,' said he, 'for I've had a decoration
+					given me for what I've done, and it's for the sake of such stupids as you that I
+					labor.' He went on worriting me ever so long, then he told me the name of my
+					complaint &mdash; such a learned one &mdash; and then he left me. But
+					for a whole week afterward, there wasn't a bone in me that didn't ache. </p>
+				<p>"You said that I am alone, always alone. No, not always. People come here
+					sometimes. I am a quiet body, in no one's way. The village girls come in here
+					and gossip; pilgrim women turn in here on their wanderings, and tell stories
+					about Jerusalem, and Kief, and the Holy Cities. But I'm not afraid of being
+					alone; I even prefer being so. No, Barin, don't disturb me, don't send me to a
+					hospital. Thank you all the same. You mean it kindly, but please let me be as I
+					am." </p>
+				<p>"As you like, as you like, Loukeria. You see I thought it would do you good
+					&mdash;" </p>
+				<p>"I know it was meant for my good, Barin. But who is there who can be sure he is
+					right in helping another? Who can enter into another's heart? Let every one help
+					himself! &mdash; you'd hardly believe me, but sometimes when I lie here all
+					alone, it's exactly as if there wasn't another living creature in the whole
+					world beside myself. Just I alive and no one else! And then it seems to me as if
+					a shadow came over me from on high, and I become rapt in meditation. It's
+					wonderful!" </p>
+				<p>"And what do you meditate about at such times, Loukeria?" </p>
+				<p>"That's impossible to say, Barin; there's no explaining it. Besides, I forget all
+					about it afterward. It comes just like a cloud. The rain falls, all is fair and
+					fresh, but I don't remember of what nature it was. Only I say to myself: 'If
+					there had been any one here, nothing of the sort would have happened, and I
+					should have felt nothing &mdash; except my troubles.'" </p>
+				<p>Loukeria drew a long breath, not without difficulty. Her lungs were evidently as
+					little at her command as the rest of her frame. </p>
+				<p>"When I look at you, Barin," she began anew, "I can see that you are very sorry
+					for me. But you must not pity me too much, &mdash; really you must not. I'll
+					tell you something. Sometimes even now I &mdash; you recollect, don't you,
+					how merry I used to be in old days? Well even now I sing songs at times." </p>
+				<p>"Sing songs?" </p>
+				<p>"Yes, songs, old songs, such as are sung at Christmas, at marriages, in
+					Khorovods; all sorts of songs. I used to know a good many, and I haven't
+					forgotten them. Only I <pb n="567"/> never sing dance-songs now. In my present
+					condition, that wouldn't be becoming!" </p>
+				<p>"And how do you sing them? To yourself?" </p>
+				<p>"Yes, and aloud too. I can't sing loud, of course, but still &mdash; I told
+					you, you know, that there's a young girl who comes to see me. She's an orphan,
+					so she's quick. Well, I've been giving her lessons. She's already learned four
+					songs. Don't you believe me? Well then, I'll soon show you &mdash;" </p>
+				<p>Loukeria drew a long breath. The idea that this almost inanimate being was about
+					to sing gave me an involuntary shudder. But before I could say a word, there
+					began to sound in my ears a prolonged note, scarcely audible, but still true and
+					clear; and after it, followed a second and a third. "In the Meadows," was the
+					song Loukeria chose. She sang without altering the stony expression of her face;
+					even her eyes remained fixed. But how pathetic was the sound of that poor feeble
+					voice, wavering like a thread of smoke! How earnestly did the singer strive to
+					throw her whole soul into her song! It was no longer a shudder of repugnance
+					which I felt; an inexpressible compassion took hold of all my heart. </p>
+				<p>"Ah! I can sing no more!" she said abruptly. "I have no more strength left.
+					&mdash; It was such a pleasure to see you." </p>
+				<p>She closed her eyes. </p>
+				<p>I laid my hand upon her small, chilly fingers. She looked up at me, and her dark
+					eyelids, shaded like those of ancient statues with golden lashes, closed again.
+					A moment later they glimmered in the half light. They were moist with tears. </p>
+				<p>I remained as still as ever. </p>
+				<p>"What a strange creature I am!" suddenly exclaimed Loukeria with unexpected
+					vivacity; and, opening her eyes wide, tried to wipe away the tears. "Oughtn't I
+					to be ashamed? What is the matter with me? Such a thing has not happened to me
+					for ever so long, not since the day when Vassily Poliakof came to see me last
+					spring. As long as he was sitting here and talking, it was all right; but as
+					soon as he was gone, I took to crying away all by myself. What an idea! Well,
+					tears don't cost the like of us anything! Barin," added Loukeria, "you've a
+					handkerchief, haven't you? Would you mind drying my eyes?" </p>
+				<p>I hastened to do what she asked, and left the handkerchief with her. At first she
+					would not keep it. "Why should I have such a present made me?" she said. The
+					handkerchief was quite a common one, but white and clean. At last she took it in
+					her weak fingers, and kept them closed upon it. By this time I had grown
+					accustomed to the twilight in which we were, and could distinctly make out her
+					features, could even discern a slight rosy flush through the bronze hue of her
+					face, could discover in that face &mdash; at least so I fancied &mdash;
+					some traces of its former beauty. </p>
+				<p>"You asked me, Barin, if I slept," Loukeria began anew. "In reality I don't often
+					sleep; but when I do I always have dreams, beautiful dreams. I never feel ill in
+					them. In dreams I am always quite well and young. The only misfortune is that
+					when I wake, I want to have a good stretch, and here I am unable to move. Once I
+					had such a wonderful dream! Shall I tell you about it? Very well, you shall hear
+					it. </p>
+				<p>"I seemed to be standing in a corn-field, and all around was rye, ever so tall,
+					quite ripe, like so much gold! And along with me was a dog of a ruddy color, a
+					terribly snappish one, always trying to bite me. And in my hands I seemed to
+					hold a sickle &mdash; not a common one, but one just like what the moon is
+					when it looks like a sickle. And with that same sort of moon I had to cut all
+					that rye. But I was quite done up with the heat, and the moon dazzled my eyes,
+					and sluggishness took hold of me. And all around grew corn-flowers, such swarms
+					of them! And all of them bent their heads toward me. I said to myself: 'I'll
+					pick these corn-flowers. Vassily promised he would come. I'll make myself a
+					wreath first; there will be time enough for my reaping afterward.' Well, I began
+					plucking the corn-flowers, but they melted away in my hands, and so I could not
+					make myself a wreath. Meanwhile I heard some one come close to me and call:
+					'Loukeria, Loukeria!' 'Ah!' thought I, 'what a pity; I've not had time enough
+					after all. Never mind, I'll put this moon on my head instead of the
+					corn-flowers.' So I put on the moon, just like a Kokoshnick <ref target="n4"
+						>[*]</ref>, and immediately I began to shine so brightly that I lighted up
+					the whole field. Presently there came swiftly gliding along the surface of the
+					corn, not Vassily, but Christ himself! How I knew that it was Christ I cannot
+					say. He was not as we see him in Church pictures, but still it was he
+					&mdash; tall, youthful, beardless, all in white, only with a golden girdle.
+					He stretched out his hand to me and said: 'Be not afraid, my <pb n="568"/>
+					chosen spouse, but follow me. In my heavenly kingdom shalt thou lead the choral
+					dance, and sing songs of Paradise.' And I, how closely did I cling to his hand!
+					The dog was following at my heels, but just then we rose in the air. He was in
+					front &mdash; his wings, long wings like a sea-gull's, spreading over all
+					the heavens &mdash; and I followed after him. So the dog had to stay behind.
+					Then for the first time I understood that the dog was my ailment, and that in
+					the heavenly kingdom there was now no place for it." </p>
+				<p>Loukeria paused for a while. </p>
+				<p>"Another time I had a dream," she continued; "or, perhaps it was a revelation; I
+					know not. It seemed to me that I was lying here in this hut, and there came to
+					me my dead parents, my father and my mother. And they bowed low before me, but
+					without uttering a word. And I said to them: 'Wherefore, O my father and my
+					mother, do ye bow down before me?' And they replied: 'Because thou hast suffered
+					much in this world, thou hast not only freed thine own soul, but thou hast also
+					taken from us a heavy burden; and, therefore, have we fared far better in the
+					other world. With thine own sins hast thou already finished thy reckoning. Now
+					dost thou overcome ours also." </p>
+				<p>"And when they had thus spoken, my parents again rendered me obeisance and
+					disappeared &mdash; there was nothing to be seen but the bare walls.
+					Thereupon I was greatly troubled as to what manner of thing had come to pass. I
+					even made confession of it to the priest. But he was of opinion that it was not
+					a revelation, inasmuch as revelations are made only to clerical personages. </p>
+				<p>"Here is another dream I have had," continued Loukeria. "I saw myself sitting by
+					the road-side under a willow-tree, holding a staff in my hand, a bag slung
+					across my shoulder, my head wrapped in a kerchief &mdash; just like a
+					pilgrim. And on a pilgrimage, in truth, I had wandered somewhere far, far away.
+					And before me pilgrims kept incessantly passing. Slowly did they move, as though
+					unwillingly, and all in one direction; the faces of all of them were sad, and
+					they all closely resembled one another. And I saw that among them, there kept
+					darting to and fro a female form, a whole head taller than the rest, and her
+					dress was strange, not like ours, not a Russian dress. Her face also was
+					strange, a meager face and stern. All the others seemed to keep aloof from her.
+					Suddenly she turned round and came straight up to me. Then she stopped and
+					looked at me steadfastly. Her eyes were like those of a hawk, yellow, large, and
+					exceedingly clear. I asked her, 'Who art thou?' and she replied: 'I am thy
+					Death.' I might well have been frightened, but instead of that a great joy came
+					over me, and I made the sign of the cross. And, to me, that Death of mine said:
+					'I pity thee, Loukeria, but I cannot take thee with me. Farewell!' Ah me! how
+					sad did I become! </p>
+				<p>"'Take me away,' I cried: 'take me with thee, mother dear!' Then my Death turned
+					back to me, and began to speak to me. I knew that she was telling me of my
+					appointed time, but obscurely, in words hard to understand. </p>
+				<p>"'After St. Peter's Fast,' she said. </p>
+				<p>"And then I awoke. Such are the wondrous dreams I have dreamt." </p>
+				<p>Loukeria looked upward and remained musing for a time. </p>
+				<p>"The only thing that troubles me is this. Sometimes a whole week goes by without
+					my having a moment's sleep. Last year, a lady who passed by here came to see me,
+					and she gave me a bottle of some remedy for sleeplessness; ten drops at a time,
+					she told me to take of it. It did me a deal of good, and I was able to sleep.
+					Only the bottle has long ago been emptied. Do you know what medicine that was,
+					and how it is to be got?" </p>
+				<p>The lady had evidently given her laudanum. I promised to get her another bottle
+					of the same kind, and then I could not help once more expressing my astonishment
+					at her patience. </p>
+				<p>"Ah, Barin!" she exclaimed; "what are you talking about? What sort of patience is
+					that of mine? Now Simeon Stylites exhibited really great patience. For thirty
+					whole years did he stand on the top of a pillar! And there was another saint who
+					had himself buried breast-high in the ground, and the ants came and devoured his
+					face. Moreover, a person who had a deal of book-learning used to tell me this:
+					There was a certain land, and the Agarians conquered that land, and tormented
+					and slew the inhabitants thereof. And however much those inhabitants tried, they
+					could by no means get themselves free. Then there appeared among that people a
+					holy virgin, and she took a great sword, and she put on a weighty breastplate,
+					and she went against those Agarians, and drove them all across the sea. And as
+					soon as she had chased them away, she said to them: 'Now consume me with fire,
+					because my promise was that I would die by a fiery death in behalf of my
+					people.' <pb n="569"/> And the Agarians took her and consumed her with fire, and
+					from that time forth that people has been free. That was really a noble deed!
+					But I &mdash; what have I done?" </p>
+				<p>I silently marveled a little as to whence, and under what aspect, the story of
+					Joan of Arc had made its way hither. Then I asked Loukeria how old she was? </p>
+				<p>"Twenty-eight, or, perhaps, twenty-nine. At all events, not thirty. But why
+					should I count my years? I will tell you something more &mdash;" </p>
+				<p>All of a sudden, Loukeria coughed huskily, and uttered a kind of groan. </p>
+				<p>"You have talked a good deal," I said, "it may do you harm." </p>
+				<p>"That's true," she replied, in an almost inaudible whisper. "Our talk has come to
+					an end. But, never mind. When you are gone, I shall be silent enough. At all
+					events, I have had a little solace." </p>
+				<p>I rose to take leave, repeated my promise to send her the medicine, and begged
+					her once more to think over the matter, and let me know if there was anything
+					she wanted. </p>
+				<p>"There is nothing that I want. I have plenty of everything, thank God!" she said,
+					with deep feeling, but only by a considerable effort. "May God grant to all
+					their health! But there is one thing, Barin, you might ask your mother. The
+					peasants here are very poor. If she would only diminish their obligations a
+					little. They have not enough land. As to wood and such-like things, they have
+					none at all. They would pray to God on your behalf. But I need nothing. I have
+					all that I want." </p>
+				<p>I took leave of Loukeria, after promising that I would see her request fulfilled.
+					Just as I reached the door she called me back. </p>
+				<p>"Do you remember, Barin," she said, &mdash; a singular expression touching
+					her eyes and lips &mdash; "do you remember what long hair I used to have,
+					right down to my knees? It was a long time before I could make up my mind about
+					it. But how could I keep it in proper order, in the state I am in? So, at last,
+					I had it cut short. Yes &mdash; Well, good-bye, Barin. I cannot talk any
+					more." </p>
+				<p>That same day, before going out shooting, I had a talk about Loukeria with the
+					head of the hamlet. From him I learned that she bore the name among the
+					villagers of "The Living Mummy," and that she never gave the least trouble to
+					any one: neither murmur nor complaint was ever heard from her lips. </p>
+				<p>"She never asks for anything, but, on the other hand, she is grateful for
+					everything. Very quiet-like, to be sure, &mdash; very quiet-like. God has
+					smitten her," &mdash; it was thus he concluded &mdash; "for her sins, no
+					doubt. But we won't go into that. And as to condemning her, forsooth. No, no; we
+					won't condemn her. Let her go free!" </p>
+				<p>A few weeks later, I heard that Loukeria was dead. Death had come for her in
+					truth, and that, too, "after the St. Peter's Fast." They say that on the day of
+					her death, she heard a constant ringing of church bells, though Alexievka is
+					reckoned to be more than five versts from a church, and it was not a Sunday or
+					Saint's day. Besides, Loukeria affirmed that the sound came, not from the
+					church, but from "on high." She probably had not ventured to say that it came
+					"from heaven." </p>
+
+				<note id="n1"><seg type="note-symbol">[*]</seg> <p>Master, Seigneur, or Sir.</p></note>
+
+				<note id="n2"><seg type="note-symbol">[*]</seg> <p>The <hi rend="italic">Khorovod</hi> is the circling dance, accompanied by song,
+					&mdash; the French <hi rend="italic">ronde</hi>.</p></note>
+
+				<note id="n3"><seg type="note-symbol">[*]</seg> <p>Diminutive of Loukeria.</p></note>
+
+				<note id="n4"><seg type="note-symbol">[*]</seg> <p>The Russian crescent-shaped head-dress.</p></note>
+
+			</div1>
+
+		</body>
+	</text>
+</TEI.2>

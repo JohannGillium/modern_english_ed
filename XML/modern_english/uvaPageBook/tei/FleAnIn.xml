@@ -1,0 +1,309 @@
+<?xml version="1.0"?>
+
+<?dlps id="FleAnIn"?>
+<?dlps page-images="none" figure-images="yes"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+
+
+<!ENTITY DSSR_000002608_0001 SYSTEM "000002608_0001" NDATA uvaHighRes>
+<!ENTITY DSSR_000002608_0002 SYSTEM "000002608_0002" NDATA uvaHighRes>
+<!ENTITY DSSR_000002608_0003 SYSTEM "000002608_0003" NDATA uvaHighRes>
+]>
+
+
+<TEI.2 id="FleAnIn">
+<teiHeader type="migrated" creator="Etext">
+<fileDesc>
+<titleStmt>
+<title type="main">"An Indian Allotment."</title>
+<title type="sort">an indian allotment</title>
+<author>La Flesche, Francis</author>
+<respStmt>
+<resp>Creation of machine-readable version:</resp>
+<name>Judy Boss</name>
+<resp>Creation of digital images:</resp>
+<name>Judy Boss</name>
+<resp>Conversion to TEI.2-conformant markup:</resp>
+<name>University of Virginia Library Electronic Text Center</name>
+</respStmt>
+</titleStmt>
+<extent>ca. <num type="kilobytes">11</num> kilobytes</extent>
+<publicationStmt>
+<publisher>University of Virginia Library</publisher>
+<pubPlace>Charlottesville, Virginia</pubPlace>
+<idno type="ETC">FleAnIn</idno>
+<date value="1995">1995</date>
+<availability status="public">
+<p n="access">Publicly accessible</p>
+</availability>
+<idno type="uva-pid">uva-lib:476950</idno>
+</publicationStmt>
+<seriesStmt>
+<title>University of Virginia Library, Text collection</title>
+<idno type="uva-set">UVA-LIB-Text</idno>
+</seriesStmt>
+<notesStmt>
+<note>
+<p>Illustrations included.</p>
+</note>
+</notesStmt>
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title type="main">"An Indian Allotment."</title>
+<title type="sort">an indian allotment</title>
+<author>Francis La Flesche</author>
+</titleStmt>
+<publicationStmt>
+<publisher>The Independent</publisher>
+<pubPlace>New York</pubPlace>
+<date value="1900-11-08">Thursday, November 8, 1900</date>
+</publicationStmt>
+<seriesStmt>
+<p>The Independent; published weekly</p>
+</seriesStmt>
+<notesStmt>
+<note>
+<p>Vol.LII (52) New York, Thursday,
+November 8, 1900 no. 2710</p>
+</note>
+</notesStmt>
+</biblFull>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Prepared for the University of Virginia Library Electronic Text Center</p>
+</projectDesc>
+<editorialDecl>
+<p>All quotation marks retained as data</p>
+<p>Spell-check and verification made
+against printed text using WordPerfect spell checker</p>
+<p>All unambiguous end-of-line hyphens have been removed, and the
+trailing part of a word has been joined to the preceding line.</p>
+<p>The images exist as archived TIFF images, one or more JPEG versions
+for general use, and thumbnail GIFs.</p>
+<p id="ETC">Keywords in the header are a local Electronic Text Center scheme
+to aid in establishing analytical groupings</p>
+</editorialDecl>
+<refsDecl>
+<p>ID elements are given for each page element and are composed of the text's
+unique cryptogram and the given page number, as in AusEmma1 for page one of
+Jane Austen's Emma.</p>
+</refsDecl>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date value="1900">1900</date>
+</creation>
+<langUsage>
+<language id="eng" usage="main">English</language>
+</langUsage>
+<textClass>
+<keywords>
+<term>non-fiction; prose</term>
+<term>Native American</term>
+</keywords>
+<keywords>
+<term type="visual work">illustration</term>
+</keywords>
+<keywords>
+<term>256-shade greyscale; 250 dpi</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change>
+<date value="1995-08-07">August 7th, 1995</date>
+<respStmt>
+<resp>corrector</resp>
+<name>Lorrie S. Chisholm, Electronic Text Center, University of
+Virginia Library System.</name>
+</respStmt>
+<item>Minimal TEI tagging, re-moved unambiguous line-end hypenation
+and ran electronic spell check using wp5.</item>
+</change>
+<change>
+<date value="2005-07">July 2005</date>
+<respStmt>
+<resp>Corrector</resp>
+<name>John Ivor Carlson</name>
+</respStmt>
+<item>Converted SGML to XML. Fixed tagging.</item>
+</change>
+<change>
+<date value="2007-09">September 2007</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Ethan Gruber, University of Virginia Library</name>
+</respStmt>
+<item>Converted XML markup from TEI Lite to uva-dl-tei (TEI P4 with local customizations).</item>
+</change>
+<change>
+<date value="2008-01">January 2008</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Greg Murray, University of Virginia Library</name>
+</respStmt>
+<item>Programmatically updated TEI header markup (but not header content) for minimal compliance with current QA requirements.</item>
+</change>
+<change>
+<date value="2009-03">March 2009</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Scholarly Resources, University of Virginia Library</name>
+</respStmt>
+<item>Added and/or replaced the digital images accompanying the electronic text. Scanning of exterior and interior (ie. pages) of item was done only for items found in the University of Virginia Special Collections Library.</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text id="d1">
+<body id="d2">
+
+
+
+<div1 type="article" id="d3">
+ <pb entity="DSSR_000002608_0001" n="2686"/>
+<head>An Indian Allotment.</head>
+<head type="sub">
+By Francis La Flesche.
+</head>
+<p>
+<lb/>
+[Mr. La Flesche is an Omaha Indian and is the author of "The
+Middle Five," a book that has recently received a good deal of
+attention.&mdash;EDITOR.]</p>
+
+<p>IN the spring of 1883 I was detailed by the Commissioner of Indian
+Affairs to assist, by way of interpreting and doing clerical work,
+in the task of making allotments to the Omaha Indians, the tribe to
+which I belong.
+</p><p>The special agent who was appointed to make the division of
+the land [Miss Alice Fletcher&mdash;Editor] undertook the work more from
+an earnest desire to scatter the Indians on the choicest parts of
+their reservation than to earn the meager compensation offered her
+by the Government, because it was through her efforts that the law
+authorizing the allotment was enacted by Congress.
+</p><p>With this purpose in mind, the allotting agent, upon her
+arrival on the reservation, drove over the land to ascertain where
+the best portions lay.  She saw that the lands best suited for
+agriculture and the most conveniently located as to market lay
+along the valley of the Logan and its slopes.  So there she pitched
+her tent and called for the Indians to come and make their
+selections.
+</p><p>One morning, as we were driving from corner to corner, running
+the lines of the quarter sections, we came to a man standing on a
+section mound.  As we halted at his side, he looked up at the
+allotting agent and said: "this is my land," making a sweeping
+motion with his outstretched arm.  The surveyor gave the
+description of the land, and the agent entered the numbers in her
+block book.  This done, she held out her right hand to him, and as
+he grasped it she said:
+</p><p>"I congratulate you upon making such a beautiful selection.
+I want you to build a nice house, a barn and granaries upon it and
+to cultivate the land.  And I wish you every success."
+</p><p>With his hand still grasping that of the special agent, the
+Indian replied:
+</p><p>"We have had agents here to manage our affairs, but none of
+them have ever offered us advice such as you have just given me.
+My people are not prone to follow the advice of women, but I shall
+strive to follow yours."
+</p><p>It is the story of this man to which I desire to direct
+attention, because it has much to do with the success of Indian
+allotments.
+</p><p>One day a solitary tent appeared on the land thus selected, a
+woman moved in about it in her daily domestic toil,
+
+ <pb entity="DSSR_000002608_0002" n="2687"/>
+while day after day a man following a team of horses and a plow walked
+around and around from morning till night until a large portion of
+the quarter section turned into a great dark field, in striking
+contrast to the grassy hills.  In the course of a year the tent
+disappeared and a neat little house stood in its place.
+[illustration omitted] Soon a barn and than a granary appeared.
+The man had striven to make good his word given to the special
+agent, and had succeeded.
+</p><p>While he was thus improving his land the man would call
+together the other Indians who had taken lands near to his, and try
+to persuade them to come out there to live.  Two returned students
+from Hampton, with the aid of some friends in the East, built
+houses on their lands out there, and the man felt greatly
+encouraged.  A few others followed, and this little colony worked
+happily together until there came a time when they learned that
+Congress had passed a law which gave them the privilege of leasing
+their rich lands.  Then, one by one, including the returned Hampton
+students, these people left their lands to the use of white men and
+returned to the poorest part of the reservation, some to live on
+the forty-acre lots of their children, and others to crowd upon
+their relations.
+</p><p>The first man, greatly to his disappointment, was left to
+struggle alone.  He was not discouraged, however, but pushed on,
+and he now lives like a white man among white men.  He has his
+little house, his barn, his well-filled granaries, a number of fine
+cattle and splendid horses, while those Indians who leased their
+lands and left him have scarcely anything to show for the rent
+received by them.
+</p><p>One day this man said to his Indian neighbors before their
+departure: "Let us build a little church and ask a white preacher
+to come and teach us.  I am not a member of the church as some of
+you are, but I want to know something about the white man's
+religion.  We are getting along nicely, and we can each afford to
+contribute something toward the little house.  Let it be on my land
+or on some one of yours, as you may choose."
+</p><p>He had almost persuaded them when the leasing privilege
+spoiled his plan.  His friends of his own race having abandoned
+him, he turned to his white neighbors for sympathy, and they
+responded with a will.
+</p><p>If I did not know that the two men had never met, I might
+suspect that Major Pratt, of Carlisle, had been whispering to him
+on matters of Indian education, for I found that this man had been
+putting into effect the Major's very ideas about mingling white men
+and red men together.  The man went to his white neighbors and said
+to them:
+</p><p>"You want to educate your children, and I want to educate my
+little grandson, but we can do nothing unless we have a school.  If
+you will build a school house I will let you have the use of one
+acre of my land; then we will have a school.  I don't want to send
+my boy to the Government school; children do not learn very fast
+there.  I want my boy to grow up with your children; he will then
+learn faster."
+</p><p>The white men built the school house and employed a teacher,
+and this Indian and his white friends have to-day a good school.
+
+
+
+ <pb entity="DSSR_000002608_0003" n="2688"/>
+
+</p><p>Last summer when I was visiting my home this man came to see
+me.  Said he:
+</p><p>"I wish to send a message by you to the white people, to any
+of them who might wish to help us.  The leasing business is ruining
+the Omahas in every way.  It is producing idleness among them, and
+idleness brings out the worst that is in man.  It has proved to be
+injurious rather than a help.  Nearly all of the land is leased,
+and most of the Indians have scarcely a thing to show for the rent
+they receive.  Many of them loaf about the towns, and some of them
+come to my house in a shameful state of intoxication and expect
+hospitality of me.  When they should be at work upon their farms,
+they go in large bodies to visit other tribes, spending their rent
+money in railroad fare.  Labor is the only thing that will maintain
+the dignity of man and command respect from every one.  So long as
+the system of indiscriminate leasing exists, work among the people
+will be almost an impossible thing.  Cannot the friends of the
+Indians relieve us of this curse in some way?"
+</p><p>I have delivered my message.
+WASHINGTON, D. C.
+
+</p>
+
+</div1>
+</body>
+</text>
+</TEI.2>

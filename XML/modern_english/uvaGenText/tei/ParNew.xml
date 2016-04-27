@@ -1,0 +1,797 @@
+<?xml version="1.0"?>
+
+<?dlps id="ParNew"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOlat1 SYSTEM "http://text.lib.virginia.edu/charent/iso-lat1.ent"> %ISOlat1;
+<!ENTITY % ISOnum SYSTEM "http://text.lib.virginia.edu/charent/iso-num.ent"> %ISOnum;
+ 
+]> 
+<TEI.2 id="ParNew"> 
+<teiHeader type="migrated" creator="Etext">
+<fileDesc>
+<titleStmt>
+<title type="main">The New Theories of Economics</title>
+<title type="sort">new theories of economics</title>
+<author>Pareto, Vilfredo, 1848-1923</author>
+<respStmt> 
+<resp>Creation of machine-readable version:</resp> 
+<name>McMaster University Archive for the History of Economic Thought</name> 
+<resp>Conversion to TEI.2-conformant markup:</resp> 
+<name>University of Virginia Library Electronic Text Center.</name>
+</respStmt>
+</titleStmt> 
+<extent>ca. <num type="kilobytes">44</num> kilobytes</extent> 
+<publicationStmt>
+<publisher>University of Virginia Library</publisher>
+<pubPlace>Charlottesville, Virginia</pubPlace> 
+<idno type="ETC">ParNew</idno> 
+<date value="2001">2001</date>
+<availability status="public">
+<p n="copyright">Copyright &copy; 2001 by the Rector and Visitors of the University of Virginia</p>
+<p n="access">Publicly accessible</p>
+</availability>
+<idno type="uva-pid">uva-lib:476278</idno>
+</publicationStmt>
+<seriesStmt>
+<title>University of Virginia Library, Text collection</title>
+<idno type="uva-set">UVA-LIB-Text</idno>
+</seriesStmt> 
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title type="main">The New Theories of Economics</title>
+<title level="m">The Journal of Political Economy, Volume 5, Issue 4 (Sep,. 1897), 485-502.</title>
+<title type="sort">new theories of economics</title>
+<author>Vilfredo Pareto</author>
+</titleStmt> 
+<extent>Internet Resource</extent> 
+<publicationStmt> 
+<idno type="callNo">Source copy consulted: JSTOR through UVA library: http://links.jstor.org/sici?sici=0022- 
+3808%28189709%295%3A4%3C485%3ATNTOE%3E2.0.CO%3B2-R</idno>
+</publicationStmt> 
+</biblFull>
+</sourceDesc>
+</fileDesc> 
+<encodingDesc>
+<projectDesc>
+<p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+</projectDesc> 
+<editorialDecl>
+<p>All unambiguous end-of-line hyphens have been removed, and the  trailing part of a word has been joined to the preceding line.</p> 
+<p id="ETC">Some keywords in the header are a local Electronic Text Center scheme  to aid in establishing analytical groupings.</p>
+</editorialDecl> 
+</encodingDesc> 
+<profileDesc>
+<creation>
+<date value="1897">1897</date>
+</creation> 
+<langUsage>
+<language id="eng" usage="main">English</language>
+</langUsage> 
+<textClass>
+<keywords>
+<term>nonfiction</term> 
+<term>prose</term> 
+<term>masculine</term> 
+</keywords> 
+</textClass>
+</profileDesc> 
+<revisionDesc>
+<change>
+<date value="2002-07">July, 2002</date> 
+<respStmt>
+<resp>corrector</resp> 
+<name>Wilson Brissett, Electronic Text Center</name>
+</respStmt> 
+<item>Added TEI header and tags.</item>
+</change> 
+<change>
+<date value="2005-07">July 2005</date>
+<respStmt>
+<resp>Corrector</resp>
+<name>John Ivor Carlson</name>
+</respStmt>
+<item>Converted SGML to XML and/or corrected tagging.</item>
+</change>
+<change>
+<date value="2007-09">September 2007</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Ethan Gruber, University of Virginia Library</name>
+</respStmt>
+<item>Converted XML markup from TEI Lite to uva-dl-tei (TEI P4 with local customizations).</item>
+</change>
+<change>
+<date value="2008-01">January 2008</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Greg Murray, University of Virginia Library</name>
+</respStmt>
+<item>Programmatically updated TEI header markup (but not header content) for minimal compliance with current QA requirements.</item>
+</change>
+</revisionDesc>
+</teiHeader> 
+<text id="d1"> 
+<body id="d2"> 
+<div1 type="essay" id="d3"> 
+<div2 type="text" id="d4"> 
+   <p>Several criticisms of a work<ref target="n1">1</ref> that I have recently 
+published have shown me that certain points of view from which 
+the new economic theories can be considered have not been 
+thoroughly understood. In this paper I propose to give a brief 
+expose of these theories. 
+</p><p>The present study is purely objective. It is not my intention 
+to point out the part played by the various economists in the 
+formulation of the new theories, nor have I attempted to separate 
+the large amount of work done by my predecessors from my own 
+modest contribution. If I sometimes speak in my own name, I do so 
+merely to avoid placing the responsibility on other writers for 
+errors I may have introduced into their theories. 
+</p><p>As a matter of fact, art has always preceded science. When in 
+the course of the evolution of human knowledge art and science 
+have drifted apart, critics have never been wanting who were 
+ready to assert that science was productive of no useful results. 
+Criticisms of this kind are largely founded on the fact that a 
+science has not nearly so immediate a utility as the cognate art. 
+It is also to be said that art cannot confine itself to its 
+teaching function; it must also demonstrate its persuasive power. 
+Consequently art is obliged to make use of certain rhetorical 
+devices with which science has nothing to do. As the most 
+persuasive reasoning is not always the soundest, it happens that 
+economic science often differs from economic art in the means of 
+expression employed. Science considers means of expression solely 
+from the point of view of their power to disclose the truth, 
+whereas art must primarily consider their efficiency as means of 
+persuasion. From this it follows that economic science will not 
+hesitate to use mathematics, philology, physiology, etc.; whereas 
+art can draw upon these sciences to but a very limited extent for 
+fear of not being understood by the majority of those it 
+undertakes to persuade. 
+</p><p>It is not my intention at this point to consider the general 
+question of the utility of the pure sciences. In passing it may 
+be said by way of illustration that any person who believes in 
+the uselessness of the science of astronomy will act prudently in 
+not reading a book the title of which shows that it treats of 
+this subject. On the other hand, if he enjoys reading works on 
+this science it would be foolish for him to stop at every page to 
+express the wish that the author had written a more valuable 
+work, e. g., a trade almanac. It is also to be thoroughly 
+understood that a question may legitimately be entirely ignored 
+or wholly put aside, but if it is considered at all it must be 
+treated as fully as the resources of the science at the time 
+permit. 
+</p><p>There can be no doubt that the exact and real sense of the 
+famous phrase of Tacitus: <hi rend="italic">Agri pro numero cultorum ab universis 
+in vices occupantur, quos mox inter se secundum dignationem 
+partiuntur</hi>.... has nothing to do with the present welfare of 
+humanity. A statesman having in hand the passage of a law 
+affecting the landed property of his country might therefore be 
+justly condemned were he to waste his time in trying to find out 
+the meaning of this phrase. Any person who might have the time 
+and curiosity to know exactly what had been the system of 
+property among the Germans must needs read the principal authors 
+who have studied this famous phrase of Tacitus. After having once 
+taken up the task it would, however, be very annoying to be 
+interrupted in one's study by the remark of an intruder to this 
+effect: "You are wasting your time. You use too much Latin; you 
+make a mistake in quoting Greek so often, for many cannot read 
+that language. The ancient Germans and their land system are not 
+in my line." To the last remark I can only reply that if you are 
+not interested in a certain line of work you would do better not 
+to interfere but let those proceed without interruption who are 
+interested in the particular subject and who will take the pains 
+to investigate it in every way calculated to lead them to the 
+truth. 
+</p><p>To acquire wealth may be pleasanter than only to know the 
+manner in which it is distributed. For my part, were I of the 
+opinion that a certain book would contribute more than any other 
+to establish free trade in the world at large I would not 
+hesitate an instant to give myself up heart and soul to the study 
+of this particular work, putting aside for the time all study of 
+pure science. The man in whose power it might be to find out the 
+means of alleviating the sufferings of the poor would have done a 
+far greater deed than the one who contents himself solely with 
+knowing the exact numbers of poor and wealthy people in society. 
+However, if anyone wished to pursue such a line of study, he 
+should be left at liberty to use such means as may enable him to 
+discover the law according to which incomes vary. 
+</p><p>In speaking of a mathematical formula that gives an 
+approximate expression of this law, Professor Charles Gide says 
+that "the latter is endowed with no power, either of intimidating 
+or discouraging any one of those who aspire to a greater equality 
+of social conditions;" which is equivalent to saying that 
+astronomical studies will not have the power "of intimidating or 
+discouraging" lovers in the choice of a star of their own. The 
+investigator who is in search of the law of the distribution of 
+wealth does not aim to encourage or dissuade anyone; he is simply 
+intent on discovering the truth. This does not imply that some 
+questions are not of greater importance from a strictly 
+scientific view than others. Thus mechanics affords us the means 
+of studying the movements of celestial bodies which attract each 
+other according to a given law, but it is obvious that in this 
+study special attention will center on the movements which take 
+place in so far as bodies are subject to attraction under this 
+law and that no time will be wasted in exhaustive study of other 
+laws that have nothing to do with the matter in hand. 
+</p><p>Let us therefore put aside, once for all, discussions 
+regarding the greater or less utility of science or its power of 
+persuading anyone to choose for himself between alternatives, and 
+let us direct our attention solely to the laws governing certain 
+phenomena. A reader who may have no interest in following a 
+discussion on this line may as well discontinue his reading. 
+Voltaire tells how Micromegas descended to earth and observed 
+mankind. Micromegas, before he could fully comprehend human 
+actions, would have to perceive that a large class of activities 
+aims at providing what is useful or pleasant, that another class 
+of actions depends on the sentiment arising from the mutual 
+attraction between the sexes, and that there is a third class 
+which does not aim directly at the enjoyments of sense. This 
+third class of actions proceeds on certain sentiments called 
+moral, religious, patriotic, etc. Micromegas, if he is to make 
+progress in the study of this great number of actions going on 
+before him, must soon see the necessity of classifying the 
+activities and examining each class separately. This ordering of 
+things is needful in every line of study. It would not do to 
+blend the study of anatomy with that of chemistry. This does not 
+in the least imply that the anatomist underrates chemistry, or 
+<hi rend="italic">vice versa</hi>; it only says that but one subject can be 
+advantageously investigated at a time. 
+</p><p>Economic questions up to this time have too often been 
+construed to coincide with questions of law. The time has now 
+come to separate the two, just as in its time a separation was 
+made between chemistry and physics. What are the economic results 
+of strikes? This is a question distinct from the other question 
+as to whether laborers have or have not the right to organize 
+strikes. Nothing is gained, from a scientific point of view, in 
+not separating these two very different questions. It must also 
+be well understood that in dealing with a practical case both 
+questions must be solved. Science proceeds by analysis, whereas 
+synthesis is required where practice is concerned. 
+</p><p>Propositions that are exclusively scientific are of two 
+kinds: (1) descriptive propositions, describing what has taken 
+place so monetary systems are described with reference to time 
+and place; (2) hypothetical propositions, which search into what 
+would have happened under given specific conditions - so, for 
+instance, what would happen if paper money were issued in a 
+country accustomed to a circulation of gold. 
+</p><p>These two kinds of propositions fairly correspond to those 
+which are in mechanics included under the two heads of actual and 
+virtual movements. Given a system of material points, the problem 
+is to find the actual movements of these points. This is a 
+question following under the first head. Of the second kind would 
+be the question as to what movements these points would describe 
+on the basis of the relations actually existing between them. 
+These latter movements, not realized in fact, but which might 
+have taken place without violating the conditions assumed, are 
+what are called virtual movements. 
+</p><p>In my opinion both political economy and social science have 
+in view the study of two analogous kinds of movements. The first 
+kind constitutes the doctrine of evolution; it is the class of 
+movements to which social science has given the greater 
+attention. This class of movements is characteristic of the 
+studies which bear the name "historical" in political economy. 
+The second class of movements or questions is of interest as 
+bearing on the problem what relation given specific facts bear to 
+the welfare of humanity; in other words, what are the potential 
+movements conducive to the maximum welfare of humanity? In what 
+relation do they stand to actual movements? These problems can be 
+solved, if at all, through analysis and abstraction. That is to 
+say, an endeavor is to be made to isolate and study the principal 
+phenomenon. Those who censure political economy for pursuing this 
+method seem to be unaware of the fact that all sciences, without 
+exception, must follow this method. Certain critics cry out 
+apodictically against the new theories as being absurd because 
+they attempt to state economic phenomena "in mathematical 
+formula." But no such pretentious attempt has been made. To try 
+to state economic phenomena in the shape of mathematical formula 
+would be very much like the physicist trying to apply without 
+modification his mathematical formula for the descent of falling 
+bodies in a vacuum to the movement of a feather floating on the 
+wind. These critics may therefore be told that, far from aiming 
+to express complex phenomena in a simple formula, economists 
+broadly avow that they do not know and will never know the theory 
+of any concrete phenomena in all its details. They are solely 
+acquainted with ideal phenomena which make a continually closer 
+approximation to the concrete cases. Let us take a very simple 
+example - the fall of a heavy body. The complete theory of its 
+movement is unknown. Who, then, can give us the theory of the 
+movement of a falling feather? If we simplify our problem by 
+supposing a heavy body to be falling in a vacuum and attracted by 
+the earth alone, we may infer the well-known theory of falling 
+bodies. We thereupon complicate the problem by introducing the 
+fact of the air's resistance, and in this way arrive at theories 
+approaching more and more closely to reality. 
+</p><p>Such are the considerations which lead to the method of 
+successive approximations in political economy. In my <hi rend="italic">Cours</hi> I 
+have developed this theory more fully, and therefore shall only 
+indicate its nature here. 
+</p><p>Rational mechanics gives us a first approximation to the 
+theory of the equilibrium and of the movements of bodies. In the 
+same way the theories of Jevons, Walras, Marshall, Irving Fisher, 
+and others present us with a first approximation to the full 
+theory of economic phenomena. It must be clearly understood that 
+it is only an approximation; it is similar to that just made in 
+the case of the heavy body supposed to fall in a vacuum. Pure 
+economics has no better way of expressing the concrete economic 
+phenomenon than rational mechanics has for representing the 
+concrete mechanical one. It is at this point that there is a 
+place for mathematics. The problem of pure economics bears a 
+striking likeness to that of rational mechanics. Now, in point of 
+empirical fact, men have as yet not succeeded in treating the 
+latter problem without the aid of mathematics. It therefore 
+appears quite legitimate to appeal also to mathematics for 
+assistance in the solution of the economic problem. 
+</p><p>Many people think that the advantage arising from the use of 
+mathematics consists in making demonstration more rigorous. This 
+is an error. A demonstration well constructed by the method of 
+ordinary logic is just as rigorous as one made by the application 
+of that other kind of logic which bears the name of mathematics. 
+The advantage of mathematics lies chiefly in this, that it 
+permits us to treat problems far more complicated than those 
+generally solved by ordinary logic. Most economists insist upon 
+the mutual dependence of different economic phenomena. But a 
+purely verbal recognition of this fact is not all that can be 
+done or all that is required. What we want is to determine, at 
+least approximately, the relations existing between the economic 
+phenomena under discussion and so obtain a clear conception of 
+their interdependence. A system of equations similar to the one 
+used in mechanics to represent the equilibrium and the movement 
+of bodies is afforded by this method of approximation. This 
+representation is, no doubt, in this way approached in a rough 
+way at best, and yet the approximation serves better than 
+nothing. It is better to know that the earth is nearly round than 
+to imagine that it is a flat surface. 
+</p><p>Professor Walras' great contribution to economic discussion 
+was his discovery of a general system of equations to express the 
+economic equilibrium. I cannot, for my part, sufficiently admire 
+this portion of his work, but I must add that I entirely disagree 
+with him on what he has to say in his work entitled <hi rend="italic">&Eacute;tudes 
+d'&eacute;conomie sociale</hi>. Professor Walras thinks it possible to draw 
+certain economic deductions from metaphysical principles of 
+jurisprudence. This opinion is worthy of respect, but I am unable 
+to accept it. I am a believer in the efficiency of experimental 
+methods to the exclusion of all others. For me there exist no 
+valuable demonstrations except those that are based on facts. 
+Foremost among the general problems to be solved by mathematics 
+is the question of the determination or indetermination of 
+economic problems. It is well known that wherever the number of 
+conditions (equations) is equal to the number of unknown 
+quantities, a problem is easily solved. This simple consideration 
+helps us instantly to understand why the so-called "laws of 
+maximum prices" contain a logical and formal impossibility. 
+</p><p>I have endeavored to extend to dynamic questions the use of 
+the equations given for the static equilibrium. The most accurate 
+description possible of the economic phenomenon is to be reached 
+in this way. Is it not a most remarkable fact that a system of 
+equations should thus be able to express not only the general 
+character of economic phenomena, but every single detail as far 
+as we may have any knowledge of them. The entire body of economic 
+theory is henceforth bound together in this way and knitted into 
+an integral whole. If our equations are constructed each for a 
+homogeneous group, and several of these groups are considered, we 
+get the theory of non-competing groups of Cairns and an 
+effectively complete theory of international trade, together with 
+an adequate scientific interpretation of the theory of 
+comparative cost. By the use of these general formulas we find 
+the coefficients of production. A consideration of their 
+variability leads us up to a recognition of the function of the 
+entrepreneurs and to the theory of different systems of 
+production according as we postulate either free competition or 
+monopoly or a socialistic r&eacute;gime. It is to be borne in mind that 
+consumers are reckoning in terms of marginal utility or 
+"ophelimity," while the entrepreneur is counting in terms of 
+money. Some of the criticisms that I have seen might have been 
+unnecessary if account had been taken of this distinction. A 
+consideration of the size of industrial enterprises leads us to 
+recognize that there exists in general a definite <hi rend="italic">maximum</hi> at 
+which the expansion of enterprises stops under a r&eacute;gime of free 
+competition, there being no advantage in increasing them beyond 
+or leaving them short of what corresponds to this magnitude. Our 
+general formula also directs our attention to the distribution of 
+savings among the different uses to which they can be put. From a 
+study of the degree of facility <ref target="n2">2</ref> with which savings can be 
+turned into different species of capital a rigorous theory of 
+rent can be deduced. The general equations show us, besides, how 
+the economic aggregate is thrown into vibration under the action 
+of forces which stimulate it. The study of these vibrations leads 
+to a theory of crises. When once the economic aggregate has in 
+this way been already apprehended it is easy to understand that 
+the divisions into which we break up the aggregate in studying 
+separately exchange, production, and capitalization are quite 
+arbitrary, although they may be useful helps in study. In reality 
+these three operations are simultaneous. If this be so it becomes 
+absolutely necessary to consider them again as a whole after 
+having examined them in isolation -- to make a synthesis after 
+having analyzed the phenomena. This general conception of 
+economic aggregate finds an analogy in the conception which an 
+astronomer has of the solar system when he has apprehended the 
+general equations of mechanics. 
+</p><p>It is to be borne in mind that, since any economic phenomenon 
+requires time for its completion, the amount of goods under 
+consideration in any given case is the quantity which is produced 
+and consumed in a given period of time. Besides this the use of 
+capital could not be conceived apart from the time relation. 
+Professor Irving Fisher has developed these considerations with 
+much ability. 
+</p><p>The general equations of the economic equilibrium are 
+obtained on the hypothesis of a decreasing marginal utility, and 
+it therefore becomes necessary to ask whether these equations 
+yield results which are borne out by experience. This, indeed, is 
+the only adequate demonstration of the propositions that 
+political economy claims as its own and makes the subject of its 
+discussion. The first part of the argument is of use only as 
+drawing the conclusions from certain hypotheses, and says nothing 
+as to their validity as statements of concrete facts. To test 
+their validity in this respect deductions must be compared with 
+experience; (1) because this affords the definitive proof of the 
+hypotheses already made, which until this test be made remain 
+probable only--<hi rend="italic">a priori</hi>; and (2) because it affords a means of 
+testing whether this means of presenting economic phenomena 
+really exhibits the substantial bearing of the phenomena in 
+question. 
+</p><p>So, for instance, experience teaches us in a general way that 
+the quantity of goods demanded by consumers decreases with an 
+increase in their price. Do or do not the general equations of 
+the economic equilibrium lead us to this conclusion on 
+theoretical grounds? If the question is answered in the 
+affirmative the ground for accepting the general equations is 
+strengthened, whilst if it is answered in the negative the 
+general equations in question must be rejected. Many of the 
+critics who have commented upon my <hi rend="italic">Cours</hi> have not understood this 
+to be the case; they very erroneously imagined that when thus 
+comparing my deductions with facts I intended thereby to prove 
+the latter. But a fact cannot be demonstrated - it must be 
+observed; it can then be used to test the validity of a 
+deduction. Even the simplest and most elementary facts are to be 
+made use of in making these verifications. From a failure to 
+appreciate this rule of procedure critics have been led to make 
+such reflections on my work as the following. 
+</p><p>"After a long deduction from a formula he states that the 
+truthfulness of that which is deduced can be seen at once from 
+simpler considerations. Such overfondness for mathematical 
+machinery strengthens the impression that exists among many that 
+this machinery is capable only of grinding out truisms." Remarks 
+of exactly similar tenor might be made upon the discussion of 
+light-interference on the basis of the well-known equations of 
+light-vibrations. But the theory of undulations does not and 
+cannot demonstrate the phenomena of interference; on the contrary 
+it is on the ground of these phenomena that the theory is 
+accepted. The general equations of the economic equilibrium are 
+not of avail for demonstrating the law of supply and demand; on 
+the contrary, the equations which represent the chief phenomena 
+of supply and demand are proven by experience. There is no truism 
+in all this. The accuracy and therefore the value of a 
+calculating machine might well be tested by an actual operation, 
+e. g., multiplying 15 by 12 and comparing the product with the 
+result obtained by the usual method. But this verification must 
+not be considered a demonstration, and it must not be said that 
+an expensive and complicated machine has been constructed for the 
+sole purpose of multiplying 15 by 12. Another writer, Mr H.L. 
+Moore, repeats the foregoing objection <ref target="n3">3</ref> in nearly the same 
+words. He says: "After making the complex development, he points 
+out that substantially the same results might be obtained without 
+the use of differential calculus. Professor Pareto cannot expect 
+to reconcile his non-mathematical reader with this method of 
+confusing him by telling him (&sect; 56) that if he does not 
+understand the mathematical explanations he will have all the 
+advantage in learning the language in which they are given!" Mr 
+Moore would convey the impression to his readers that the 
+observation he quotes concerns this truism; but this is not the 
+case. My observation concern <hi rend="italic">those results</hi> that cannot be reached 
+<hi rend="italic">otherwise</hi>, while the inference which can be made "<hi rend="italic">without the use 
+of differential calculus</hi>" is a simple verification. Similar 
+verifications are to be found in any treatise upon mechanics; but 
+that such may be the case Mr Moore does not seem to realize. If 
+the rebuke administered by this acute critic is merited in the 
+case just cited, it is also merited in numerous other cases which 
+seem to have escaped him, for the instances of such resort to 
+verification in my <hi rend="italic"><hi rend="italic">Cours</hi></hi> are numerous. Now it is precisely 
+because the general formula of economic equilibrium cover a large 
+number of economic questions which can be demonstrated in other 
+ways, often very simple, that we take these formula to represent 
+this whole range of the economic phenomena.<ref target="n4">4</ref> 
+</p><p>For a like reason I have used every occasion to verify my 
+theoretical deductions by statistics and history on this subject; 
+J.S. Mill's work on logic contains several pages which it might 
+be worth the while for some of our critics to reread. 
+</p><p>In the early stages of every science there is apt to be a 
+good deal of reasoning about terms rather than about the things 
+themselves. This method of procedure, however, is not entirely 
+erroneous. Words are often the depositories of the experience of 
+men, and so long as a new-born science has not succeeded in 
+accumulating for itself a sufficient aggregate of direct 
+experience it may find it advantageous to have recourse to the 
+common fund of experience more or less vaguely represented by 
+words. There comes a time, however, in the development of science 
+at which the fund formed by direct experience becomes sufficient 
+and at which the disadvantages attached to the vagueness of 
+experience, such as is given us by everyday words, outweighs the 
+advantages to be derived from them. This is precisely the state 
+of affairs in political economy. I believe this science would 
+gain a great advantage by developing a terminology of its own, 
+just as chemistry, physics, and anatomy have done. But in this 
+transition period many persons judge of works which are written 
+according to the new methods as if they had been written 
+according to the principles which have prevailed in the past. As 
+a consequence, criticisms which I consider of absolutely no value 
+have been made upon the terminology which I have chosen to employ 
+in my <hi rend="italic">Cours</hi>. For instance, it has seemed to me to be convenient 
+to adopt Professor Walras' definition of capital; I have not, 
+however, deduced any conclusions from it. If anyone should prefer 
+a different definition, there would be no objection to his using 
+it, and he would obtain the same results as I have if he reasoned 
+exclusively about things and not about words alone. I should even 
+venture so far as to say that I could rewrite the whole of my 
+<hi rend="italic">Cours</hi>, and obtain the same results, without even mentioning the 
+term "capital," if it were worth the while to attempt the feat. 
+In fact, the base of calculations as regards production is the 
+budget of the producer. Here is a person who owned a ship which 
+cost him &pound;2000 on the first of January 1895; its value decreased 
+to &pound;1800 by the first of January 1896. During the year 1895 the 
+person in question expended &pound;1000 and received for the hire of 
+his vessel &pound;4100. These facts must be gathered from his budget, 
+whatever be the form in which it appears. The equations of 
+production in reality only formulate facts of a similar 
+character. But among the various forms which a balance sheet can 
+assume, there is one which is particularly suitable for use in 
+certain theoretical deductions. Let us suppose that we are 
+putting down the figures of our balance sheet and that we put the 
+vessel down for &pound;2000, the value it had on the first of January 
+1895. As the ship is now worth only &pound;1800 we are obliged to 
+charge the sum of &pound;200 to expenses so as not to violate the form 
+of the budget. Now, since we know that the vessel has the same 
+value on the first of January 1895 as on the first of January of 
+the following year, we may just as well eliminate it altogether 
+from the balance. The vessel figures in our business only because 
+it has rendered us a certain amount of "services" during the year 
+1895. 
+</p><p>The method of bookkeeping we used for the vessel may be used 
+in the case of many other things. As it is convenient to 
+designate these things by a name, let us call them "capitals." 
+And let us refrain from thinking that in giving them a name we 
+change their nature, and let us at all events not waste our time 
+in discussing the name to be given them. If anyone prefers a 
+different name from the one we have selected, he is free to adopt 
+it. If it should be found convenient to state the budget in some 
+other form than that adopted, we need not hesitate to do so, as 
+the results will doubtless be the same. The very same thing can 
+be considered as capital or not as capital, according to our way 
+of looking at it when we draw up the balance sheet of production. 
+To be capital is not to possess an objective quality analogous to 
+specific weight, chemical constitution, etc.; it is a 
+characteristic which depends upon the way we use a thing in the 
+process of production. 
+</p><p>Another perfectly valueless discussion is the one on the 
+question as to whether it is preferable to use the term "factors 
+of production" or the term "coefficients of industry." Let us 
+suppose that four hectares are needed to produce eighty 
+hectolitres of corn. These four hectares are called "factors of 
+production" of <hi rend="italic">the</hi> corn. Professor Walras takes as a premise in 
+his discussion the quantity of ground needed to give a unit of 
+produce. In the case assumed four-eightieths or one-twentieth of 
+a hectare is required to raise one hectolitre of corn. Professor 
+Walras gives to this one-twentieth of a hectare the name 
+"coefficient of industry." Now, does it not amount to the same 
+thing to say that four hectares of ground yield eighty 
+hectolitres of corn, or that the one-twentieth part of a hectare 
+yields one hectolitre of corn? One must be overfond of disputing 
+about words, to let oneself drift into endless discussions as to 
+the best term for presenting any given fact. We might mention a 
+great many other discussions of the same character - all 
+similarly wanting in simple common sense. But I prefer to drop 
+this subject and to pass on to the consideration of more serious 
+questions. 
+</p><p>The presentation of the economic phenomenon in its entirety 
+affords a clear comprehension of the effects of all conceivable 
+economic organizations concerned; but it must be borne in mind 
+that this knowledge will always remain approximate only. Science 
+does not attempt to establish any particular method of economic 
+organization, and it is not the business of science to do so. 
+Science does, however, attempt to solve problems of the following 
+kind: (1) What are the effects of a r&eacute;gime of free competition? 
+(2) What are those of a r&eacute;gime of monopoly? (3) Those of a 
+collectivist r&eacute;gime? All these questions must, of course, be 
+treated, not from a polemical point of view, but solely for the 
+purpose of ascertaining what results would follow upon their 
+installation. It is especially necessary for us to discover what 
+relation these results bear to the aggregate well being of 
+humanity; and to do this not only a first approximation, but a 
+second and a third, and perhaps even more, must be made, because 
+the later approximations take account of secondary facts which 
+are easily neglected in the earlier ones. The r&eacute;gimes compared 
+may appear to yield identical results if only a first 
+approximation be undertaken, and may differ materially in their 
+results when reconsidered for the purpose of a second 
+approximation. 
+</p><p>By following this line we have been able vigorously to prove 
+that the coefficients of production are determined by the 
+entrepreneurs in a r&eacute;gime of free competition precisely in the 
+same way as a socialist government would have to fix them if it 
+wanted to realize a maximum of ophelimity for its subjects. This 
+proposition is one of the main points of the so-called classical 
+political economy; but it was necessary to give this proposition 
+precision, in order to see clearly the limits within which it 
+holds true and what conditions it assumes as given. This was also 
+necessary in order to obtain a general proposition showing that 
+every indirect transfer of wealth from one individual to another 
+is accompanied by a loss of wealth. As a result of this it 
+appears that if a socialist government is to obtain a maximum of 
+well being for its subjects it must modify the distribution of 
+wealth only in a direct way - say by taxing some people for the 
+benefit of others, or by some similar means. A second 
+approximation will take account of the expense of putting the 
+mechanism of free competition into full play, and will compare 
+this expense with that necessary for establishing some other new 
+mechanism which society may wish to test. This is the way in 
+which an engineer would first compare two systems of machinery 
+from a theoretic point of view, keeping to the principles of 
+thermodynamics for steam engines; then he would make tests of 
+friction, loss of steam power, etc., in each system. 
+</p><p>This method of approaching the subject differs substantially 
+from that adopted by a large class of economists, who, after 
+giving in their adhesion to a system, put forth all their power 
+in showing its advantages and in defending it against all attacks 
+to which it may be exposed. I once more repeat that I am far from 
+condemning such economists, for I regard their work as one of 
+great utility. This being the situation, I have no desire to 
+offer a substitute for their work, but simply to add to it a 
+purely scientific study. All the conclusions to which deductive 
+studies founded on the general equations of the economic 
+equilibrium can lead us must finally be verified by a careful 
+scrutiny of facts, both present and past - that is to say, by 
+statistics, by close observation, and by the evidence of history. 
+This is the method of all the material sciences. Deductive 
+studies in political economy must not be opposed to the 
+inductive; these two lines of work should, on the contrary, 
+supplement each other, and neither should be neglected. 
+</p><p>The incidence of duties is a special case of such alterations 
+as the economic equilibrium undergoes when certain of its 
+conditions are modified. The new theories give us an exact idea 
+of the nature of the incidence of duties. In order to ascertain 
+this with exactness we must have at hand the numerical data 
+bearing on this incidence; but statistics have not as yet 
+supplied them. This delays the practical application. A great 
+advance toward the solution of the problem has been made, 
+however, when the method has been found by which the problem is 
+to be solved. So, for instance, if we wish to know the area of a 
+rectangle two things are required - (1) the knowledge that the 
+area is to be obtained by multiplying the width by the length and 
+(2) the exact measurements of the width and the length. Geometry 
+gives us only the former item. 
+</p><p>The laws of the distribution of wealth evidently depend on 
+the nature of man and on the economic organization of society. We 
+might derive these laws by deductive reasoning, taking as a 
+starting point the data of the nature of man and of the economic 
+organization of society. Will this work sometime be completed? I 
+cannot say; but at present it is certain that we lack sufficient 
+data for undertaking it. At present the phenomena must be 
+considered synthetically, and every endeavor must be made to 
+discover if the distribution of wealth presents any uniformity at 
+all. Fortunately the figures representing the distribution of 
+wealth group themselves according to a very simple law, which I 
+have been enabled to deduce from unquestioned statistical 
+data.<ref target="n5">5</ref> This law being empirical, it may not always remain 
+true, especially not for all mankind. At present, however, the 
+statistics which we have present no exceptions to the law; it may 
+therefore provisionally be accepted as universal. But exceptions 
+may be found, and I should not be greatly surprised if some day a 
+well-authenticated exception were discovered. 
+</p><p>Meanwhile, this law as it stands has most important 
+theoretical results, and these resulting formula may be employed 
+without limitations of time and place, provided the law be 
+verified by statistics. 
+</p><p>Mathematics is employed in connection with this law, but in a 
+totally different way from that in which has been utilized in the 
+analytical studies considered at the outset. In those studies the 
+complexity of the phenomena compelled us to make use of 
+mathematics; in the case we have just been considering they 
+present us under the forms of a simple curve the entire sum of 
+results supplied by statistics. But in the one case, as in the 
+other, those who are not well at home in the use of mathematics 
+can nevertheless master the results gained through their use. In 
+my <hi rend="italic">Cours</hi> it has been possible to throw the mathematical parts 
+into footnotes, and the text can thus be read without hindrance 
+by persons who have no knowledge of mathematics. 
+</p><p>This law of the distribution of wealth, which has so lately 
+been discovered, may some day be of use in the study of the 
+different races of men in this respect.<ref target="n6">6</ref> The application of 
+the law is certainly conditioned by the heterogeneity of the 
+population. It does not in any way prejudice other theories of 
+the distribution of wealth, for the law is merely the synthesis 
+of numberless statistical facts. It can be compared in some 
+respects to Kepler's law in astronomy; we still lack a theory 
+that may make this law of distribution rational in the way in 
+which the theory of universal gravitation has made Kepler's law 
+rational.</p> 
+ 
+<p>VILFREDO PARETO.<lb/> 
+UNIVERSITY OF LAUSANNE.</p> 
+</div2> 
+ 
+<div2 type="notes" id="d5"><head>NOTES</head> 
+ 
+<note id="n1"><seg type="note-symbol">1.</seg> <p><hi rend="italic">Cours d'&eacute;conomie politique;</hi> Lusanne, F. Rouge, 1896, 2 
+vols.</p></note> 
+ 
+<note id="n2"><seg type="note-symbol">2.</seg> <p>I am not at all satisfied with this way of presenting my idea; 
+but to give it more precision, without entering into a lengthy 
+explanation, would be quite impossible without making use of 
+mathematical symbols. The desire to keep mathematical symbols out 
+of the text explains why in my <hi rend="italic">Cours</hi> the theory of rent appears 
+to the notes. It was impossible to give it the desired 
+rigorousness and precisements without the employment of 
+mathematical symbols.</p></note> 
+ 
+<note id="n3"><seg type="note-symbol">3.</seg> <p><hi rend="italic">Annuals of the American Academy</hi>, May 1897.</p></note> 
+ 
+<note id="n4"><seg type="note-symbol">4.</seg> <p>The same critic says: "<hi rend="italic">A curious slip for a mathematical 
+economist is made in the discussion of population</hi>, a slip that 
+parallels the error of Malthus." To substantiate this he isolates 
+a phrase which he finds in the text -- where there are no 
+mathematics -- and gives it to the reader under the impression 
+that to prove that the progress of wealth in England has not 
+followed the law laid down by Malthus I furnish but this single 
+ground of inference, viz., that between two given epochs the 
+growth of wealth has been more rapid than that of population. He 
+then argues at length to show that one can always make out an 
+arithmetical progression in such form that its terms, within 
+given limits, will be greater than those of a given geometrical 
+progression. Without giving in detail "the complex development" 
+of my critic's argument, it may be characterized as equivalent to 
+the proposition that it is always possible to show that within 
+given limits the ordinates of a straight line will be larger than 
+those of a given curve. The reader who may not be satisfied with 
+Mr Moore's assertion on this point, and who may be willing to 
+take the trouble to verify the case by reference to my <hi rend="italic">Cours</hi>, 
+will find (Vol. I, page 341) the following expression for the 
+gross income in England:</p> 
+ 
+<p rend="center"> <hi rend="italic">R</hi> = 346.30 X l0<hi 
+rend="super">0.01104t</hi></p> 
+ 
+<p>The following words, which explain the phrase isolated by Mr 
+Moore, should also be read: "On voit que la raison de la 
+progression est beaucoup plus rapide que celle qui a &eacute;t&eacute; 
+trouv&eacute;e 
+(211<hi rend="super">1</hi>) pour l'augmentation de la population. C'est ce qui explique 
+comment la richesse par t&ecirc;te d'habitant a augment&eacute; 
+considerablement." Accordingly, in the text I have observed that 
+in England wealth has grown more rapidly than population, and in 
+the notes I have furnished the precise expression for the 
+<hi rend="italic">geometrical progression</hi> which has been followed by the growth of 
+wealth. Is it not "a curious slip" for a critic not to have seen 
+this? The reason why the explanation has to be sought for in the 
+notes is simply this,--it could not be given without the use of 
+mathematics and I desired to keep mathematics out of the text. In 
+conclusion it may be said that it should not be deemed 
+unnecessary to read the book one attempts to criticise.</p></note> 
+ 
+<note id="n5"><seg type="note-symbol">5.</seg> <p>This law is as follows: N = A/(<hi rend="italic">x</hi>+<hi rend="italic">b</hi>)a. 
+In which <hi rend="italic">N</hi> represents 
+the number of individuals having an income greater than <hi rend="italic">x</hi> or 
+<hi rend="italic">A</hi>; <hi rend="italic">b</hi> 
+is a constant which For aggregate incomes is in general zero, or 
+very near it; <hi rend="italic">a</hi> is another constant whose value lies between 1 
+and 2. The law applies only to incomes a little above the 
+minimum. The form of the curve in the immediate neighborhood of 
+this minimum income is still undetermined, for statistics do not 
+furnish us sufficient information for its determination. Since 
+the publication of my <hi rend="italic">Cours</hi> I have examined many new statistical 
+data, and they all verify the law which I had there formulated. 
+The results of my later investigations have been published in the 
+<hi rend="italic">Giornale degli Economisti</hi> (Rome).</p></note> 
+ 
+<note id="n6"><seg type="note-symbol">6.</seg> <p>Mr. Carlos C. Closson has made an important 
+contribution to this line of study in this JOURNAL for Septmeber 1896.</p></note> 
+ 
+</div2> 
+</div1> 
+</body> 
+</text> 
+</TEI.2> 

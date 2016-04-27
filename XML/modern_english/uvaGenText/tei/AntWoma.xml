@@ -1,0 +1,634 @@
+<?xml version="1.0"?>
+
+<?dlps id="AntWoma"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOnum SYSTEM "http://text.lib.virginia.edu/charent/iso-num.ent"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+
+]>
+<TEI.2 id="AntWoma">
+<teiHeader type="migrated" creator="Etext">
+<fileDesc>
+<titleStmt>
+<title type="main">Woman's Half-Century of Evolution</title>
+<title type="sort">womans half century of evolution</title>
+<author>Anthony, Susan B. (Susan Brownell), 1820-1906</author>
+<respStmt>
+<resp>Creation of machine-readable version:</resp>
+<name>Judy Boss</name>
+<resp>Conversion to TEI.2-conformant markup:</resp>
+<name>University of Virginia Library Electronic Text Center.</name>
+</respStmt>
+</titleStmt>
+<extent>ca. <num type="kilobytes">32</num> kilobytes</extent>
+<publicationStmt>
+<publisher>University of Virginia Library</publisher>
+<pubPlace>Charlottesville, Virginia</pubPlace>
+<idno type="ETC">AntWoma</idno>
+<date value="1996">1996</date>
+<availability status="public">
+<p n="copyright">Copyright &copy; 1996 by the Rector and Visitors of the University of Virginia</p>
+<p n="access">Publicly accessible</p>
+</availability>
+<idno type="uva-pid">uva-lib:475694</idno>
+</publicationStmt>
+<seriesStmt>
+<title>University of Virginia Library, Text collection</title>
+<idno type="uva-set">UVA-LIB-Text</idno>
+</seriesStmt>
+<notesStmt>
+<note>
+<p>In the original, footnotes were marked with asterisk, dagger and double dagger. For ease in reading, notes in the electronic text have been moved to the end and marked with consecutive numbers.</p>
+</note>
+</notesStmt>
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title type="main">Woman's Half-Century of Evolution.</title>
+<title level="j">The North American Review.</title>
+<title type="sort">womans half century of evolution</title>
+<author>Susan B. Anthony</author>
+</titleStmt>
+<editionStmt>
+<p>1st Edition</p>
+</editionStmt>
+<publicationStmt>
+<publisher>The North American Review Publishing Co.</publisher>
+<pubPlace>New York</pubPlace>
+<date value="1902">1902</date>
+</publicationStmt>
+<seriesStmt>
+<p>
+<hi rend="italic">North American Review</hi> 175 (Dec. 1902): 800-810.</p>
+</seriesStmt>
+</biblFull>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+</projectDesc>
+<editorialDecl>
+<p>All quotation marks retained as data.</p>
+<p>Spell-check and verification made
+against printed text using WordPerfect spell checker.</p>
+<p>All unambiguous end-of-line hyphens have been removed, and the
+trailing part of a word has been joined to the preceding line.</p>
+<p id="ETC">Keywords in the header are a local Electronic Text Center scheme to aid in establishing analytical groupings.</p>
+</editorialDecl>
+<refsDecl>
+<p>ID elements are given for each page element and are composed of the text's
+unique cryptogram and the given page number, as in AusEmma1 for page one of
+Jane Austen's Emma.</p>
+</refsDecl>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date value="1902">1902</date>
+</creation>
+<langUsage>
+<language id="eng" usage="main">English</language>
+<language id="fre">French</language>
+</langUsage>
+<textClass>
+<keywords>
+<term>CORD</term>
+<term>democracy</term>
+</keywords>
+<keywords>
+<term>non-fiction; prose</term>
+<term>Women Writers</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change>
+<date value="1996-02">February 1996</date>
+<respStmt>
+<resp>corrector</resp>
+<name>Deirdre A. Johnson, Electronic Text Center, University of
+Virginia</name>
+</respStmt>
+<item>Added header and basic TEI markup</item>
+</change>
+<change>
+<date value="2005-06">June 2005</date>
+<respStmt>
+<resp>corrector</resp>
+<name>John Ivor Carlson</name>
+</respStmt>
+<item>Converted sgml to xml.</item>
+</change>
+<change>
+<date value="2007-09">September 2007</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Ethan Gruber, University of Virginia Library</name>
+</respStmt>
+<item>Converted XML markup from TEI Lite to uva-dl-tei (TEI P4 with local customizations).</item>
+</change>
+<change>
+<date value="2008-01">January 2008</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Greg Murray, University of Virginia Library</name>
+</respStmt>
+<item>Programmatically updated TEI header markup (but not header content) for minimal compliance with current QA requirements.</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text id="d1">
+
+<body id="d2">
+
+
+
+<div1 type="essay" id="d3"><pb n="800"/>
+<head>           WOMAN'S HALF-CENTURY OF EVOLUTION.<lb/>
+
+                  BY SUSAN B. ANTHONY.</head>
+
+<p>THE status of woman in the United States fifty years ago, the
+progressive steps by which it has been improved, present
+conditions, future probabilities&mdash;in fact, a resume of the great
+movement in which Elizabeth Cady Stanton has been the central
+figure through two generations&mdash;this is the subject assigned me to
+consider in the brief space of one magazine article!
+</p><p>The title I claim for Mrs. Stanton is that of leader of women.
+Women do not enjoy one privilege to-day beyond those possessed by
+their foremothers, which was not demanded by her before the present
+generation was born.  Her published speeches will verify this
+statement.  In the light of the present, it seems natural that she
+should have made those first demands for women; but at the time it
+was done the act was far more revolutionary than was the
+Declaration of Independence by the colonial leaders.  There had
+been other rebellions against the rule of kings and nobles; men
+from time immemorial had been accustomed to protest against
+injustice; but for women to take such action was without a
+precedent and the most daring innovation in all history.  Men of
+old could emphasize their demands by the sword, and in the present
+century they have been able to do so by the ballot.  While they
+might, indeed, put their lives in peril, they were always supported
+by a certain amount of sympathy from the public.  Women could
+neither fight nor vote; they were not sustained even by those of
+their own sex; and, while they incurred no physical risk, they
+imperilled their reputation and subjected themselves to mental and
+spiritual crucifixion.  Therefore I hold that the calling of that
+first Women's Rights Convention in 1848 by Mrs. Stanton, Lucretia
+Mott and two or three other brave Quaker women, was one of the most
+courageous acts on record. <pb n="801"/>
+</p><p>It must be remembered that at this time a woman's convention
+never had been heard of, with the exception of the few which had
+been called, early in the anti-slavery movement, by the women who
+had been driven out of the men's meetings and had formed their own
+society; but even these were almost wholly managed by men.  A few
+individual women had publicly advocated equality of rights&mdash;the
+number could be more than counted on one's fingers&mdash;but a
+convention for this purpose and an organized demand had been till
+then undreamed of.  The vigor and scope of the Declaration of
+Sentiments which was presented and adopted at this memorable
+meeting, held at Mrs. Stanton's home, in Seneca Falls, New York,
+are in nowise diminished by comparison with the Declaration of the
+forefathers proclaimed exactly seventy-two years before.  It began,
+indeed, with the preamble of the Declaration of Independence,
+substituting "women" for "men" and "colonies"; and it continued:</p>
+<p>"The history of mankind is a history of repeated injuries and
+usurpations on the part of man toward woman, having in direct
+object the establishment of an absolute tyranny over her.  To prove
+this, let facts be submitted to a candid world:
+</p><p>"He has never permitted her to exercise her inalienable right
+to the elective franchise.
+</p><p>"He has compelled her to submit to laws in the formation of
+which she had no voice.
+</p><p>"He has withheld from her rights which are given to the most
+ignorant and degraded men&mdash;both natives and foreigners.
+</p><p>"Having deprived her of this first right of a citizen, the
+elective franchise, thereby leaving her without representation in
+the halls of legislation, he has oppressed her on all sides.
+</p><p>"He has made her, if married, in the eye of the law, civilly
+dead.
+</p><p>"He has taken from her all right in property, even to the
+wages she earns.
+</p><p>"He has made her morally an irresponsible being, as she can
+commit many crimes with impunity, provided they be done in the
+presence of her husband.  In the covenant of marriage, she is
+compelled to promise obedience to her husband, he becoming, to all
+intents and purposes, her master&mdash;the law giving him power to
+deprive her of her liberty and to administer chastisement.
+</p><p>"He has so framed the laws of divorce, as to what shall be the
+proper causes, and to whom the guardianship of the children shall
+be given, as to be wholly regardless of the happiness of woman&mdash;the
+law, in all cases, going upon a false supposition of the supremacy
+of man, and giving all power into his hands.
+</p><p>"After depriving her of all rights as a married woman, if
+single and <pb n="802"/>  the owner of property, he has taxed her to
+support a government which recognizes her only when her property
+can be made profitable to it.
+</p><p>"He has monopolized nearly all the profitable employments, and
+from those she is permitted to follow, she receives but a scanty
+remuneration.
+</p><p>"He has closed against her all the avenues to wealth and
+distinction which he considers most honorable to himself.  In
+theology, medicine, and law she is not known.
+</p><p>"He has denied her the facilities for obtaining a thorough
+education&mdash;all colleges being closed against her.
+</p><p>"He allows her in Church, as well as State, but a subordinate
+position, claiming Apostolic authority for her exclusion from the
+ministry, and, with some exceptions, from any public participation
+in the affairs of the Church.
+</p><p>"He has created a false public sentiment by giving to the
+world a different code of morals for men and women, by which moral
+delinquencies which exclude women from society are not only
+tolerated but deemed of little account in man.
+</p><p>"He has usurped the prerogative of Jehovah himself, claiming
+it as his right to assign for her a sphere of action, when that
+belongs to her conscience and to her God.
+</p><p>"He has endeavored, in every way that he could to destroy her
+confidence in her own powers, to lessen her self-respect and to
+make her willing to lead a dependent and abject life.
+</p><p>"Now, in view of this entire disfranchisement of one-half the
+people of this country, their social and religious degradation&mdash;in
+view of the unjust laws above mentioned, and because women do feel
+themselves aggrieved, oppressed and fraudulently deprived of their
+most sacred rights, we insist that they have immediate admission to
+all the rights and privileges which belong to them as citizens of
+the United States.
+</p><p>"In entering upon the great work before us we anticipate no
+small amount of misconception, misrepresentation and ridicule; but
+we shall use every instrumentality within our power to effect our
+object.  We shall employ agents, circulate tracts, petition the
+State and national Legislatures, and endeavor to enlist the pulpit
+and the press in our behalf.  We hope this Convention will be
+followed by a series of Conventions, embracing every part of the
+country."
+</p><p>"Firmly relying upon the final triumph of the Right and the
+True, we do this day affix our signatures to this Declaration."</p>
+
+<p>To emphasize these most radical sentiments the following
+resolutions also were adopted:</p>
+
+<p>"The great precept of nature is conceded to be, 'that man
+shall pursue his own true and substantial happiness.'  Blackstone,
+in his Commentaries, remarks, that this law of Nature being coeval
+with mankind and dictated by God himself, is of course superior in
+obligation to any other.  It is binding over all the globe, in all
+countries, and at all times; no human laws are of any validity if
+contrary to this, and such of them <pb n="803"/>  as are valid derive all
+their force and all their validity and all their authority,
+mediately and immediately, from this original; therefore,
+</p><p><hi rend="italic">"Resolved</hi>, That such laws as conflict, in any way, with
+the true and substantial happiness of woman, are contrary to the
+great precept of nature and of no validity; for this is 'superior
+in obligation to any other.'
+</p><p><hi rend="italic">"Resolved</hi>, That all laws which prevent woman from
+occupying such a station in society as her conscience shall
+dictate, or which place her in a position inferior to that of man,
+are contrary to the great precept of nature and therefore of no
+force or authority.
+</p><p><hi rend="italic">"Resolved</hi>, That woman is man's equal&mdash;was intended to
+be so by the Creator&mdash;and the highest good of the race demands that
+she should be recognized as such.
+</p><p><hi rend="italic">"Resolved</hi>, That the women of this country ought to be
+enlightened in regard to the laws under which they live, that they
+may no longer publish their degradation by declaring themselves
+satisfied with their present position, nor their ignorance by
+asserting that they have all the rights they want.
+</p><p><hi rend="italic">"Resolved</hi>, That inasmuch as man, while claiming for
+himself intellectual superiority, does accord to woman moral
+superiority, it is preeminently his duty to encourage her to speak
+and teach, as she has an opportunity, in all religious assemblies.
+</p><p><hi rend="italic">"Resolved</hi>, That the same amount of virtue, delicacy and
+refinement of behavior that is required of woman in the social
+state should also be required of man, and the same transgressions
+should be visited with equal severity on both man and woman.
+</p><p><hi rend="italic">"Resolved</hi>, That the objection of indelicacy and
+impropriety, which is so often brought against woman when she
+addresses a public audience, comes with a very ill-grace from those
+who encourage by their attendance her appearance on the stage, in
+the concert or in feats of the circus.
+</p><p><hi rend="italic">"Resolved</hi>, That woman has too long rested satisfied in
+the circumscribed limits which corrupt customs and a perverted
+application of the Scriptures have marked out for her, and that it
+is time she should move in the enlarged sphere which her great
+Creator has assigned her.
+</p><p><hi rend="italic">Resolved</hi>, That it is the duty of the women of this
+country to secure to themselves their sacred right to the elective
+franchise.
+</p><p><hi rend="italic">"Resolved</hi>, That the equality of human rights results
+necessarily from the fact of the identity of the race in
+capabilities and responsibilities.
+</p><p><hi rend="italic">"Resolved</hi>, therefore, That, being invested by the
+Creator with the same capabilities and the same consciousness of
+responsibility for their exercise, it is demonstrably the right and
+duty of woman, equally with man, to promote every righteous cause
+by every righteous means; and especially in regard to the great
+subjects of morals and religion, it is self-evidently her right to
+participate with her brother in teaching them, both in private and
+in public, by writing and by speaking, by any instrumentalities
+proper to be used and in any assemblies proper to be held; and this
+being a self-evident truth, growing out of the divinely implanted
+principles of human nature, any custom or authority adverse <pb n="804"/>
+to it, whether modern or wearing the hoary sanction of antiquity,
+is to be regarded as a self-evident falsehood and at war with the
+interests of mankind."</p>
+
+<p>In all the conventions which have been held during the past
+fifty-four years, the impassioned addresses made, the resolutions
+presented, the hearings before legislative bodies, there has been
+nothing to add to these declarations made by a woman only thirty-three years old, born and bred in the midst of the most rigid
+social, civil and religious conservatism.  They illustrate vividly
+the conditions which existed in that day, when the simplest
+rudiments of education were deemed sufficient for women; when only
+a half-dozen remunerative employments were open to them and any
+work outside the home placed a stigma on the worker; when a woman's
+right to speak in public was more bitterly contested than her right
+to the suffrage is to-day.  The storm of ridicule and denunciation
+which broke over the heads of the women who took part in this
+convention never has been exceeded in the coarsest and most
+vituperative political campaign ever conducted.  The attacks were
+led by the pulpit, whose influence fifty years ago was far greater
+than at present and whose power over women was supreme.  The press
+of the country did not suffer itself to be outdone; but, taking its
+cue from the metropolitan papers of New York, contributed its full
+quota of caricature and misrepresentation.
+</p><p>At the beginning of 1848, the English Common Law was in force
+practically everywhere in the United States.  Its treatment of
+women was a blot on civilization only equalled in blackness by the
+slavery of the negro.  The latter, technically at least, has now
+disappeared.  The former dies slowly, because it cannot be
+eradicated by fire and sword.  Lord Coke called this Common Law
+"the perfection of reason."  Under its provisions the position of
+the wife was thus stated by Blackstone:</p>
+
+<p>"The very being or existence of the woman is suspended during
+the marriage, or at least is incorporated and consolidated into
+that of the husband, under whose wing, protection and covert she
+performs everything.  She is, therefore, called in our Law-French
+a <foreign lang="fre"><hi rend="italic">femme-covert</hi></foreign>, is said to be <foreign lang="fre"><hi rend="italic">covert-baron</hi></foreign>, or under
+the protection and influence of her husband, her baron or lord.
+</p><p>"The husband also, by the old law, might give his wife
+moderate correction.  For, as he is to answer for her misbehavior,
+the law thought it reasonable to intrust him with this power of
+restraining her by domestic <pb n="805"/>  chastisement in the same
+moderation that a man is allowed to correct his apprentices or
+children.  But this power of correction was confined within
+reasonable bounds, and the husband was prohibited from using any
+violence to his wife, except as lawfully and reasonably belongs to
+a husband for the sake of governing and disciplining his wife.  The
+Civil Law gave the husband the same or a larger authority over his
+wife, allowing him for some misdemeanors to beat his wife severely
+with whips and cudgels; for others only to administer moderate
+chastisement."<ref target="n1">1</ref> </p>
+
+<p>Other provisions of this law were as follows:</p>
+
+<p>"By marriage, the husband and wife are one person in law; that
+is, the legal existence of the woman is merged in that of her
+husband.  He is her baron or lord, bound to supply her with
+shelter, food, clothing and medicine, and is entitled to her
+earnings and the use and custody of her person, which he may seize
+wherever he may find it."<ref target="n2">2</ref> </p>
+
+<p>"The husband, being bound to provide for his wife the
+necessaries of life, and being responsible for her morals and the
+good order of the household, may choose and govern the domicile,
+select her associates, separate her from her relatives, restrain
+her religious and personal freedom, compel her to cohabit with him,
+correct her faults by mild means, and, if necessary, chastise her
+with moderation, as though she was his apprentice or child.  This
+is in respect to the terms of the marriage contract and the
+infirmity of the sex."<ref target="n3">3</ref>  </p>
+
+<p>It does not seem necessary to add further particulars as to
+the condition of women in the middle of the century just closed and
+at the time Elizabeth Cady Stanton began the almost superhuman task
+of setting them free from the bondage of centuries.  The first
+cleft in the infamy of the Common Law was made almost
+simultaneously by the Legislatures of New York, and Pennsylvania,
+in the spring of 1848, by special statutes giving a married woman
+the right to hold property.  This was the first glimmer of freedom
+from legal slavery which ever had appeared to women; and it is not
+surprising that it scarcely penetrated the darkness in which they
+had been enveloped for untold ages, or that they rejected with
+scorn those who came to deliver them.
+</p><p>The beginning of my friendship and work with Mrs. Stanton
+dates from the summer of 1851.  I was at that time thirty-one years
+old and had been teaching since I was eighteen.  My father was
+deeply interested in the anti-slavery cause; and Garrison,
+Phillips, Pillsbury, Channing, Frederick Douglass and other noted
+reformers were often guests in our home.  The school-room
+
+
+<pb n="806"/>
+had grown insupportably narrow.  I had no personal grievances, as
+my own family, in common with all the Friends, or Quakers,
+recognized the equality of woman in all the relations of life; but
+I was stirred by the terrible injustice which I saw meted out to
+women on every hand, and I realized the especial need of their
+voice and influence in the two great causes of temperance and anti-slavery.  The necessity for the ballot had not appealed to me, as,
+in those days, Quaker men were not in the habit of voting.  But in
+October, 1850, my consciousness was awakened by reading in the
+<hi rend="italic">New York Tribune</hi> a full and favorable account of a Woman's
+Rights Convention held in Worcester, Massachusetts.  The next year
+I became acquainted with Mrs. Stanton, and she soon fired my soul
+with all her own zeal for the right of the suffrage.  Among my old
+papers is the following appeal, which, as Secretary of the New York
+State Temperance Society, I sent out in the spring of 1852,
+accompanying petitions for what was then known as the Maine Law:
+
+</p><p>"Women, and mothers in particular, should feel it their right
+and duty to extend their influence beyond the circumference of the
+home circle, and to say what circumstances shall surround children
+when they go forth from under the watchful guardianship of the
+mother's love; for certain it is that if the customs and laws of
+society remain corrupt as they now are, the best and wisest of the
+mother's teachings will soon be counteracted. . . .  Woman has so
+long been accustomed to non-intervention with law making, so long
+considered it man's business to regulate the liquor traffic, that
+it is with much cautiousness she receives the new doctrine which we
+preach&mdash;the doctrine that it is her right and duty to speak out
+against the traffic and all men and institutions that in any way
+sanction, sustain or countenance it; and, since she can not vote,
+to duly instruct her husband, son, father or brother how she would
+have him vote, and, if he longer continue to misrepresent her, take
+the right to march to the ballot-box and deposit a vote indicative
+of her highest ideas of practical temperance."
+
+</p><p>This was my first declaration for woman suffrage, which I have
+since repeated in season and out of season at every possible
+opportunity for fifty years.  In a short time the conviction became
+so dominant that the franchise was the lever with which women could
+lift all other reform movements, that I abandoned everything else
+and devoted the whole force of my being to securing this
+fundamental power for women.  The only departure from this rule was
+made during the Civil War, when every issue but one was held in
+abeyance.  Mrs. Stanton and I sent out a call <pb n="807"/>  for a mass
+meeting in Dr. Cheever's church, New York, where the Woman's Loyal
+League was formed, on May 14th, 1863.  Nearly 400,000 signatures to
+petitions for emancipation were secured, and Charles Sumner and
+Henry Wilson wrote us repeatedly that these petitions formed the
+bulwark of their demand for Congressional action to abolish
+slavery.
+</p><p>The moment the war was over&mdash;in 1865, when the Fourteenth
+Amendment was under discussion and it was proposed to introduce the
+word "male" in the National Constitution for the first time&mdash;I
+resumed my efforts for woman suffrage and have never deviated from
+the straight and narrow path which leads to this goal.  During late
+years Mrs. Stanton has held that, as the suffrage movement is
+steadily going forward by its own momentum, women should take up
+other public questions which so evidently need the combined wisdom
+of men and women in their solution.  I have maintained my original
+attitude, believing that for the leaders of the work for woman
+suffrage to identify themselves with the other issues of the day is
+to create animosities and alienate supporters of a cause which can
+achieve victory only through the assistance of all religious bodies
+and political parties.  I have sympathized thoroughly, however,
+with Mrs. Stanton's rebelliousness against that condition of
+dependence which compels women to remain mute and inactive in the
+great movements of the time, as the only means of achieving freedom
+to speak and act effectively in the future.
+</p><p>To follow in detail the steps by which women have reached
+their present position of comparative social, educational,
+financial and legal independence, would be to write a chapter for
+each of the fifty years which have intervened since the first few
+brave souls dared lift up their voices in a cry for liberty.  The
+organized movement for the emancipation of women began in earnest
+soon after the close of the Civil War.  Every one of the past
+thirty-five years has witnessed the breaking of a link in the
+chain.  The going forth of hundreds of thousands of men from the
+farm, the work-shop, the factory, the store&mdash;from every field of
+employment&mdash;to swell the ranks of the army, made it absolutely
+necessary for women to step into their places in order that the
+countless wheels of the world's work should not stop.  The
+vacancies left by those who never returned, and the rapidly-growing
+tendency to remove domestic products from the home to the factory,
+practically set-<pb n="808"/> tled the question of woman's entering the
+wage-earning occupations.
+</p><p>The period immediately after the War was marked by the speedy
+increase and enlargement of State Universities and the admission of
+women.  Their example was followed by many of the other colleges
+and universities of the country, and in 1890 by the founding of the
+two great endowed institutions, Stanford and Chicago, with the
+admission of women to every department.  Although the latter has
+just made the egregious blunder of modifying its original plan,
+this action represents only the individual scheme of one man and
+not a reactionary tendency.  The question of the higher education
+of woman may be regarded as decided in her favor.
+</p><p>The right of women to organize for public work is now
+universally recognized and approved.  They have at present in the
+United States over one hundred national organizations, with
+thousands of local clubs and societies comprising millions of
+members, and their influence over the general conditions of the
+various communities is beyond computation.  The right of women to
+speak in public is not only everywhere conceded but, given a man
+and a woman with equal abilities, the average audience would prefer
+to hear the latter.
+</p><p>The legal features of the revolution have been quite as marked
+as its other phases.  An examination, doubtless, would show that in
+not one State does the Common Law now prevail in its entirety.  In
+many of them it has been largely obliterated by special statutes.
+There has been no retrogressive legislation with respect to the
+status of women before the law.  In the majority of the States, a
+married woman may now own and control property, carry on business
+and possess her earnings, make a will and a contract, bring suit in
+her own name, act as administrator and testify in the courts.  In
+one-fifth of the States, she has equal guardianship with the father
+over the minor children.  Where formerly there was but one cause
+for divorce, the wife may now obtain a divorce in almost every
+State for habitual drunkenness, cruelty, failure to provide and
+desertion on the part of the husband; and he can no longer, as of
+old even though the guilty party, retain sole possession of the
+children and the property.  The general tendency of legislation for
+women is progressive, and there is not a doubt that this will
+continue to be the case. <pb n="809"/>
+</p><p>I do not wish to be understood for a moment, however, as
+maintaining that woman stands on a perfect equality with man in any
+of the above-mentioned departments&mdash;in the industries, education,
+organization, public speaking or the laws.  She simply has made
+immense gains in all, and her standing has been completely
+revolutionized since Mrs. Stanton announced the beginning of a new
+Reformation.  Woman never will have equality of rights anywhere,
+she never will hold those she now has by an absolute tenure, until
+she possesses the fundamental right of self-representation.  This
+fact is so obvious as to need no argument.  Had this right been
+conceded at the start, the others would have speedily followed; and
+the leaders among women, instead of spending the last half-century
+in a constant struggle to obtain their civil and political rights,
+might have contributed their splendid services to the general
+upbuilding and strengthening of the Government.  The effort for
+this most important of rights has had to content not only, like the
+rest, with the obstinate prejudices and customs of the ages, but
+also with the still more stubborn condition of its hard and fast
+intrenchment in constitutional law.  It is not merely a board of
+trustees or a body of legislators who must be converted to the
+justice of extending this right to women, but also the great masses
+of men, including the ignorant, the foreign-born, the small-minded
+and the vicious.  A majority of the men in every State must give
+their consent at the ballot box for women to come into possession
+of this paramount right.  Such has not been the case with any other
+step in the progress of women.
+</p><p>It is not necessary to consider the minor reasons why the
+enfranchisement of women has been so long deferred; but, in spite
+of the almost insuperable obstacles, there has been considerable
+progress in this direction.  In some States, the Legislatures
+themselves can confer a fragmentary suffrage without the
+ratification of the voters.  This has been done in about half of
+them, Kansas granting the municipal franchise, Louisiana, Montana
+and New York a taxpayer's franchise, and twenty-two States a vote
+on matters connected with the public schools.  Within the last
+twelve years, four States have conferred the full suffrage on
+women&mdash;Wyoming and Utah by placing it in the constitutions under
+which they entered Statehood; Colorado and Idaho through a
+submission of the question to the voters.  There is a strong basis
+<pb n="810"/>  for believing that within a few years several other States
+will take similar action.
+</p><p>The effect upon women themselves of these enlarged
+opportunities in every direction has been a development which is
+almost a regeneration.  The capability they have shown in the realm
+of higher education, their achievements in the business world,
+their capacity for organization, their executive power, have been
+a revelation.  To set women back into the limited sphere of fifty
+years ago would be to arrest the progress of the whole race.  Their
+evolution has been accompanied by a corresponding development in
+the moral nature of man, his ideas of temperance and chastity, his
+sense of justice, his relations to society.  In no department of
+the world's activities are the higher qualities so painfully
+lacking as in politics, and this is the only one from which women
+are wholly excluded.  Is it not perfectly logical to assume that
+their influence would be as beneficial here as it has been
+everywhere else?  Does not logic also justify the opinion that, as
+they have been admitted into every other channel, the political
+gateways must inevitably be opened?
+</p><p>There cannot be a doubt in the reasoning and unbiased mind
+that woman suffrage ultimately will prevail in every State in the
+Union.  It will be the legitimate outcome of the spirit of our
+institutions, which is the direct expression of individual opinion.
+A deep feeling of regret always will prevail that the Liberator of
+woman, Elizabeth Cady Stanton, could not live to see the complete
+triumph of her cause, as did those other great emancipators,
+Lincoln, Garrison and Phillips; but she died in the full knowledge
+that the day of its victory is clearly marked on the calendar of
+the near future. </p>
+<signed>                                        SUSAN B. ANTHONY.</signed>
+
+</div1>
+</body>
+
+<back id="d4">
+<div1 type="notes" id="d5">
+<p><note id="n1"><seg type="note-symbol">Blackstone's</seg> <p>Commentaries, I., 356, 366.</p></note>
+<note id="n2"><seg type="note-symbol">Id.,</seg> <p>444.</p></note>
+<note id="n3"><seg type="note-symbol">Id.,</seg> <p>442.</p></note>
+
+</p>
+</div1>
+</back>
+</text>
+</TEI.2>

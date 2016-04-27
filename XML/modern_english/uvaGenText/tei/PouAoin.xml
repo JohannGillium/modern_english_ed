@@ -1,0 +1,803 @@
+<?xml version="1.0"?>
+
+<?dlps id="PouAoin"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOnum SYSTEM "http://text.lib.virginia.edu/charent/iso-num.ent"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+ 
+]> 
+<TEI.2 id="PouAoin"> 
+<teiHeader type="migrated" creator="Etext">
+<fileDesc>
+<titleStmt>
+<title type="main">Awoi No Uye</title>
+<title type="sort">awoi no uye</title>
+<author>Pound, Ezra and Fenollosa, Ernest</author>
+<respStmt>
+<resp>Creation of machine-readable version:</resp>  
+<name>Winnie Chan</name>  
+<resp>Creation of digital images:</resp>  
+<name/>  
+<resp>Conversion to TEI.2-conformant markup:</resp>  
+<name>University of Virginia Library Electronic Text Center.</name>
+</respStmt>
+</titleStmt>  
+<extent>ca. <num type="kilobytes">20</num> kilobytes</extent>  
+<publicationStmt>
+<publisher>University of Virginia Library</publisher>
+<pubPlace>Charlottesville, Virginia</pubPlace>  
+<idno type="ETC">PouAoin</idno>  
+<date value="1996">1996</date>
+<availability status="public">
+<p n="copyright">Copyright &copy; 1996 by the Rector and Visitors of the University of Virginia</p>
+<p n="access">Publicly accessible</p>
+</availability>
+<idno type="uva-pid">uva-lib:476329</idno>
+</publicationStmt>
+<seriesStmt>
+<title>University of Virginia Library, Text collection</title>
+<idno type="uva-set">UVA-LIB-Text</idno>
+</seriesStmt>  
+<seriesStmt>
+<p>Japanese Text Initiative</p>
+</seriesStmt>  
+<notesStmt>
+<note>
+<p>Footnotes in the print source have been moved to the end of the 
+electronic document and numbered consecutively. For descriptive 
+purposes, words or phrases preceding footnote markers in print source 
+have been added to notes at the end of the electronic document.</p>
+</note>
+</notesStmt>  
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title type="main">Awoi No Uye</title>
+<title level="m">"Noh" or Accomplishment: a Study of the Classical 
+Stage in Japan</title>
+<title type="sort">awoi no uye</title>
+<author>Ezra Pound and Ernest Fenollosa</author>
+</titleStmt>  
+<editionStmt>
+<p>1st Edition</p>
+</editionStmt>  
+<extent>pp. 193-205</extent>  
+<publicationStmt>
+<publisher>MacMillan</publisher>  
+<pubPlace>London</pubPlace>  
+<date value="1916">1916</date>  
+<idno type="callNo">Print copy consulted: UVa Library call number PL 735 .F4 1916</idno>
+</publicationStmt>  
+</biblFull>
+</sourceDesc>
+</fileDesc>  
+<encodingDesc>
+<projectDesc>
+<p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+</projectDesc>  
+<editorialDecl>
+<p>All quotation marks retained as data.</p>  
+<p>All unambiguous end-of-line hyphens have been removed, and the trailing part of a word has been joined to the preceding line.</p>  
+<p>Keywords in the header are a local Electronic Text Center scheme to aid in establishing analytical groupings.</p>
+</editorialDecl>  
+</encodingDesc>  
+<profileDesc>
+<creation>
+<date value="1916">1916</date>
+</creation>  
+<langUsage>
+<language id="eng" usage="main">English</language>
+</langUsage>  
+<textClass>
+<keywords>
+<term>drama; poetry; prose</term>
+</keywords>  
+</textClass>
+</profileDesc>  
+<revisionDesc>
+<change>
+<date value="1997-08">August 1997</date>  
+<respStmt>
+<resp>corrector</resp>  
+<name>Catherine Tousignant, Electronic Text Center</name>
+</respStmt>  
+<item>Added milestones to correspond with WalAoin.</item>
+</change>  
+<change>
+<date value="1996-12">December 1996</date>  
+<respStmt>
+<resp>corrector</resp>  
+<name>Winnie Chan</name>
+</respStmt>  
+<item>Added TEI header and tags</item>
+</change>  
+<change>
+<date value="2005-07">July 2005</date>
+<respStmt>
+<resp>Corrector</resp>
+<name>John Ivor Carlson</name>
+</respStmt>
+<item>Converted SGML to XML and/or corrected tagging.</item>
+</change>
+<change>
+<date value="2007-09">September 2007</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Ethan Gruber, University of Virginia Library</name>
+</respStmt>
+<item>Converted XML markup from TEI Lite to uva-dl-tei (TEI P4 with local customizations).</item>
+</change>
+<change>
+<date value="2008-01">January 2008</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Greg Murray, University of Virginia Library</name>
+</respStmt>
+<item>Programmatically updated TEI header markup (but not header content) for minimal compliance with current QA requirements.</item>
+</change>
+</revisionDesc>
+</teiHeader>  
+<text id="d1"> 
+ <front id="d2"> 
+ 
+ <pb n="193"/>  
+ 
+<div1 type="introduction" id="d3"> 
+<head>AWOI NO UYE<lb/> 
+A Play by Ujinobu<lb/> 
+INTRODUCTION 
+</head> 
+ 
+<p> 
+The story, as I understand it, is that the "Court Lady Awoi" (Flower of 
+the East) is jealous of the other and later co-wives of Genji. This 
+jealousy reaches its climax, and she goes off her head with it, when her 
+carriage is overturned and broken at the Kami festival. The play opens 
+with the death-bed of Awoi, and in Mrs. Fenollosa's diary I find the 
+statement that "Awoi, her struggles, sickness, and death are represented 
+by a red, flowered kimono, folded once length-wise, and laid at the front 
+edge of the stage." 
+</p> 
+ 
+<p> 
+The objective action is confined to the apparitions and exorcists. The 
+demon of jealousy, tormenting Awoi, first appears in the form of the 
+Princess Rakujo, then with the progress and success of the exorcism the 
+jealous 
+   
+ 
+ <pb n="194"/>  
+quintessence is driven out of this personal ghost, and appears in its own 
+truly demonic ("hannya") form   &mdash;    "That awful face with its golden eyes 
+and horns revealed."  The exorcist Miko is powerless against this demon, 
+but the yamabushi exorcists, "advancing against it, making a grinding 
+noise with the beads of their rosaries and striking against it," finally 
+drive it away. 
+</p> 
+ 
+<p> 
+The ambiguities of certain early parts of the play seem mainly due to the 
+fact that the "Princess Rokujo," the concrete figure on the stage, is a 
+phantom or image of Awoi no Uye's own jealousy. That is to say, Awoi is 
+tormented by her own passion, and this passion obsesses her first in the 
+form of a personal apparition of Rokujo, then in demonic form. 
+</p> 
+ 
+<p> 
+This play was written before Ibsen declared that life is a "contest with 
+the phantoms of the mind." The difficulties of the translator have lain in 
+separating what belongs to Awoi herself from the things belonging to the 
+ghost of Rokujo, very much as modern psychologists might have difficulty 
+in detaching the personality or memories of an obsessed person from the 
+personal memories of the obsession. Baldly: an obsessed person thinks he 
+is Napoleon; an image of his own thought 
+   
+ 
+ <pb n="195"/>  
+would be confused with scraps relating perhaps to St. Helena, Corsica, and 
+Waterloo. 
+</p> 
+ 
+<p> 
+The second confusion is the relation of the two apparitions. It seems 
+difficult to make it clear that the "hannya" has been cast out of the 
+ghostly personality, and that it had been, in a way, the motive force in 
+the ghost's actions. And again we cannot make it too clear that the ghost 
+is not actually a separate soul, but only a manifestation made possible 
+through Awoi and her passion of jealousy. At least with this 
+interpretation the play seems moderately coherent and lucid. 
+</p> 
+ 
+<p> 
+Rokujo or Awoi, whichever we choose to consider her, comes out of 
+hell-gate in a chariot, "because people of her rank are always accustomed 
+to go about in chariots. When they, or their ghosts, think of motion, they 
+think of going in a chariot, therefore they take that form." There would 
+be a model chariot shown somewhere at the back of the stage. 
+</p> 
+ 
+<p> 
+The ambiguity of the apparition's opening line is, possibly, to arouse the 
+curiosity of the audience. There will be an air of mystery, and they will 
+not know whether it is to be the chariot associated with Genji's liaison 
+with Yugawo, the beautiful heroine of the play 
+   
+ 
+ <pb n="196"/>  
+Hajitomi, or whether it is the symbolic chariot drawn by a sheep, a deer, 
+and an ox. But I think we are nearer the mark if we take Rokujo's 
+enigmatic line, "I am come in three chariots," to mean that the formed 
+idea of a chariot is derived from these events and from the mishap to 
+Awoi's own chariot, all of which have combined and helped the spirit world 
+to manifest itself concretely. Western students of ghostly folklore would 
+tell you that the world of spirits is fluid and drifts about seeking 
+shape. I do not wish to dogmatize on these points. 
+</p> 
+ 
+<p> 
+The Fenollosa-Hirata draft calls the manifest spirit "The Princess 
+Rokujo," and she attacks Awoi, who is represented by the folded kimono. 
+Other texts seem to call this manifestation "Awoi no Uye," i.e. her mind 
+or troubled spirit, and this spirit attacks her body. It will be perhaps 
+simpler for the reader if I mark her speeches simply "Apparition," and 
+those of the second form "Hannya." 
+</p> 
+ 
+<p> 
+I do not know whether I can make the matter more plain or summarize it 
+otherwise than by saying that the whole play is a dramatization, or 
+externalization, of Awoi's jealousy. The passion makes her subject to the 
+demon-possession. The demon first comes in a disguised and beautiful form. 
+The prayer of 
+   
+ 
+ <pb n="197"/>  
+the exorcist forces him first to appear in his true shape, and then to 
+retreat. 
+</p> 
+ 
+<p> 
+But the "disguised and beautiful form" is not a mere abstract sheet of 
+matter. It is a sort of personal or living mask, having a ghost-life of 
+its own; it is at once a shell of the princess, and a form, which is 
+strengthened or made more palpable by the passion of Awoi. 
+</p> 
+</div1> 
+</front> 
+<body id="d4"> 
+ 
+<div1 type="text" id="d5"> 
+ 
+<head>AWOI NO UYE</head> 
+ 
+<stage>Scene in Kioto</stage> 
+
+<milestone unit="speech" n="Aoin1"/> 
+<sp> 
+<speaker>Daijin</speaker> 
+<p> 
+I am a subject in the service of the Blessed Emperor Shujakuin. They have 
+called in the priests and the high priests for the sickness of Awoi no Uye 
+of the house of Sadaijin. They prayed, but the gods give no sign. I am 
+sent to Miko, the wise, to bid him pray to the spirits. Miko, will you 
+pray to the earth? 
+</p> 
+</sp> 
+
+<milestone unit="speech" n="Aoin2"/>  
+<sp> 
+<speaker>Miko</speaker> 
+<lg type="stanza"> 
+<l>Tenshojo, chishojo,</l> 
+<l>Naigeshojo, Rakkonshojo.</l> 
+</lg> 
+ 
+<lg type="stanza"> 
+<l>Earth, pure earth,</l> 
+<l>Wither, by the sixteen roots</l> 
+<l>(Wither this evil)!</l> 
+</lg> 
+</sp> 
+   
+ 
+ <pb n="198"/>  
+<milestone unit="speech" n="Aoin3"/> 
+<sp> 
+<speaker>Apparition</speaker> 
+<p> 
+It may be, it may be, I come from the gate of hell in three coaches. I am 
+sorry for Yugawo and the carriage with broken wheels. And the world is 
+ploughed with sorrow as a field is furrowed with oxen. 
+<milestone unit="speech" n="Aoin4"/> 
+<milestone unit="speech" n="Aoin5"/> 
+Man's life is a 
+wheel on the axle, there is no turn whereby to escape. His hold is light 
+as dew on the Basho leaf. It seems that the last spring's blossoms are 
+only a dream in the mind. And we fools take it all, take it all as a 
+matter of course. Oh, I am grown envious from sorrow. I come to seek 
+consolation. 
+ 
+<stage> 
+Singing. 
+</stage> 
+
+<milestone unit="speech" n="Aoin6"/>  
+Though I lie all night hid for shame in the secret carriage, looking at 
+the moon for sorrow, yet I would not be seen by the moon. 
+</p> 
+ 
+<milestone unit="speech" n="Aoin7"/> 
+<lg type="poem"> 
+<l>Where Miko draws the magical bow,</l> 
+<l>I would go to set my sorrow aloud.</l> 
+</lg> 
+ 
+<stage> 
+Speaking. 
+</stage> 
+
+<milestone unit="speech" n="Aoin8"/>  
+<p> 
+Where does that sound of playing come from? It is the sound of the bow of 
+Adzusa! 
+</p> 
+</sp> 
+ 
+<milestone unit="speech" n="Aoin9"/> 
+<sp> 
+<speaker>Miko</speaker> 
+<p> 
+Though I went to the door of the square building, Adzumaya   &mdash;    
+</p> 
+</sp> 
+
+<milestone unit="speech" n="Aoin10"/>  
+<sp> 
+<speaker>Apparition</speaker> 
+<p> 
+   &mdash;   you thought no one came to knock. 
+</p> 
+</sp> 
+   
+ 
+ <pb n="199"/>  
+<milestone unit="speech" n="Aoin11"/> 
+<sp> 
+<speaker>Miko</speaker> 
+<p> 
+How strange! It is a lady of high rank whom I do not know. She comes in a 
+broken carriage, a green wife clings to the shaft. She weeps. 
+<milestone unit="speech" n="Aoin12"/> 
+Is it   &mdash;    
+</p> 
+</sp> 
+
+<milestone unit="speech" n="Aoin13"/>  
+<sp> 
+<speaker>Daijin</speaker> 
+<p> 
+Yes, I think I know who it is. 
+ 
+<stage> 
+To the Apparition. 
+</stage> 
+ 
+I ask you to tell me your name. 
+</p> 
+</sp> 
+
+<milestone unit="speech" n="Aoin14"/>  
+<sp> 
+<speaker>Apparition</speaker> 
+<p> 
+In the world of the swift-moving lightning I have no servant or envoi, 
+neither am I consumed with self-pity. I came aimlessly hither, drawn only 
+by the sound of the bow. Who do you think I am? I am the spirit of the 
+Princess Rokujo, 
+<ref target="n199.1">[1]</ref> 
+and when I was still in the world, spring was there with me. I feasted 
+upon the cloud with the Sennin, 
+<ref target="n199.2">[2]</ref> 
+they shared in my feast of flowers. And on the Evening of Maple Leaves I 
+had the moon for a mirror. I was drunk with colour and perfume. And for 
+all my gay flare at that time I am now like a shut Morning-glory, awaiting 
+the sunshine. And now I am come for a whim, I am come uncounting the hour, 
+seizing upon no set 
+   
+ 
+ <pb n="200"/>  
+moment. I would set my sorrow aside. Let some one else bear it awhile. 
+</p> 
+</sp> 
+
+<milestone unit="speech" n="Aoin15"/>  
+<sp> 
+<speaker>Chorus</speaker> 
+<p> 
+Love turns back toward the lover, unkindness brings evil return. It is for 
+no good deed or good purpose that you bring back a sorrow among us, our 
+sorrows mount up without end. 
+</p> 
+</sp> 
+ 
+<milestone unit="speech" n="Aoin17"/> 
+<sp> 
+<speaker>Apparition</speaker> 
+<p>The woman is hateful! I cannot keep back my blows. 
+</p> 
+</sp> 
+ 
+<stage> 
+She strikes. 
+</stage> 
+ 
+<milestone unit="speech" n="Aoin18"/>  
+<sp> 
+<speaker>Miko</speaker> 
+<p> 
+No. You are a princess of Rokujo! How can you do such things? Give 
+over. Give over. 
+</p> 
+</sp> 
+
+<milestone unit="speech" n="Aoin19"/>  
+<sp> 
+<speaker>Apparition</speaker> 
+<p> 
+I cannot. However much you might pray. 
+<stage> 
+Reflectively, as if detached from her action, and describing it. 
+</stage> 
+So she went toward the pillow, and struck. Struck. 
+</p> 
+</sp> 
+ 
+<sp> 
+<speaker>Miko</speaker> 
+<p> 
+Then standing up   &mdash;    
+</p> 
+</sp> 
+
+<milestone unit="speech" n="Aoin21"/> 
+<sp> 
+<speaker>Apparition</speaker> 
+<p> 
+This hate is only repayment 
+</p> 
+</sp> 
+   
+ 
+ <pb n="201"/>  
+<milestone unit="speech" n="Aoin22"/> 
+<sp> 
+<speaker>Miko</speaker> 
+<p> 
+The flame of jealousy   &mdash;    
+</p> 
+</sp> 
+ 
+<milestone unit="speech" n="Aoin23"/> 
+<sp> 
+<speaker>Apparition</speaker> 
+<p> 
+   &mdash;   will turn on one's own hand and burn. 
+</p> 
+</sp> 
+
+<milestone unit="speech" n="Aoin24"/>  
+<sp> 
+<speaker>Miko</speaker> 
+<p> 
+Do you not know? 
+</p> 
+</sp> 
+ 
+<sp> 
+<speaker>Apparition</speaker> 
+<p> 
+Know! This is a just revenge. 
+</p> 
+</sp> 
+
+<milestone unit="speech" n="Aoin26"/> 
+<sp> 
+<speaker>Chorus</speaker> 
+<lg type="poem"> 
+<l>Hateful, heart full of hate,</l> 
+<l>Though you are full of tears</l> 
+<l>Because of others' dark hatred,</l> 
+<l>Your love for Genji</l> 
+<l>Will not be struck out</l> 
+<l>Like a fire-fly's flash in the dark.</l> 
+</lg> 
+</sp> 
+
+<milestone unit="speech" n="Aoin27"/> 
+<sp> 
+<speaker>Apparition</speaker> 
+<p> 
+I, like a bush   &mdash;    
+</p> 
+</sp> 
+
+<milestone unit="speech" n="Aoin28"/> 
+<sp> 
+<speaker>Chorus</speaker> 
+<lg type="poem"> 
+<l>   &mdash;   am a body that has no root.</l> 
+<l>I fade as dew from the leaf,</l> 
+<l>Partly for that cause I hate her,</l> 
+<l>My love cannot be restored. . .</l> 
+<l>Not even in a dream.</l> 
+</lg> 
+   
+ 
+ <pb n="202"/>  
+<p> 
+It is a gleam cast up from the past. I am full of longing. I would be off 
+in the secret coach, and crush her shade with me. 
+</p> 
+</sp> 
+ 
+<milestone unit="speech" n="Aoin29"/>
+<sp> 
+<speaker>Daijin</speaker> 
+<p> 
+Help. Awoi no Uye is sinking. Can you find Kohijiri of Tokokawa? 
+</p> 
+</sp> 
+
+<milestone unit="speech" n="Aoin30"/> 
+<sp> 
+<speaker>Kiogen</speaker> 
+<p> 
+I will call him. I call him. 
+</p> 
+</sp> 
+
+<milestone unit="speech" n="Aoin31"/> 
+<sp> 
+<speaker>Waki (Kohijiri)</speaker> 
+<p> 
+Do you call me to a fit place for prayer? To the window of the nine 
+wisdoms, to the cushion of the ten ranks, to a place full of holy waters, 
+and where there is a clear moon? 
+</p> 
+</sp> 
+ 
+<sp> 
+<speaker>Kiogen</speaker> 
+<p> 
+Yes, yes. 
+</p> 
+</sp> 
+ 
+<milestone unit="speech" n="Aoin33"/> 
+<sp> 
+<speaker>Waki</speaker> 
+<p> 
+How should I know? I do not go about in the world. You come from the 
+Daijin. Wait. I am ready. I will come. 
+</p> 
+</sp> 
+ 
+<stage> 
+He crosses the stage or bridge. 
+</stage> 
+
+<milestone unit="speech" n="Aoin34"/>  
+<sp> 
+<speaker>Daijin</speaker> 
+<p> 
+I thank you for coming. 
+</p> 
+</sp> 
+
+<milestone unit="speech" n="Aoin35"/>  
+<sp> 
+<speaker>Waki</speaker> 
+<p> 
+Where is the patient? 
+</p> 
+</sp> 
+   
+ 
+ <pb n="203"/>  
+<milestone unit="speech" n="Aoin36"/> 
+<sp> 
+<speaker>Daijin</speaker> 
+<p> 
+She is there on that bed. 
+</p> 
+</sp> 
+ 
+<milestone unit="speech" n="Aoin37"/> 
+<sp> 
+<speaker>Waki</speaker> 
+<p> 
+I will begin the exorcism at once. 
+</p> 
+</sp> 
+
+<milestone unit="speech" n="Aoin38"/>  
+<sp> 
+<speaker>Daijin</speaker> 
+<p> 
+I thank you. Please do so. 
+</p> 
+</sp> 
+
+<milestone unit="speech" n="Aoin39"/>  
+<sp> 
+<speaker>Waki</speaker> 
+<stage> 
+beginning the ritual 
+</stage> 
+<p> 
+Then Gioja called upon En no Gioja, and he hung about his shoulders a 
+cloak that had swept the dew of the seven jewels in climbing the peaks of 
+Tai Kou and of Kori in Riobu. He wore the cassock of forbearance to keep 
+out unholy things. He took the beads of red wood, the square beads with 
+hard corners, and whirling and striking said prayer. But one prayer. 
+</p> 
+ 
+<lg type="poem"> 
+<l>Namaku, Samanda, Basarada.</l> 
+</lg> 
+</sp> 
+ 
+<stage> 
+During this speech the APPARITION has disappeared. That is, the first 
+SHITE, the PRINCESS OF ROKUJO. Her costume was "The under kimono black 
+satin, tight from the knees down, embroidered with small, irregular, 
+infrequent circles of flowers; the upper part, stiff gold 
+   
+ 
+ <pb n="204"/>  
+brocade, just shot through with purples, greens, and reds." 
+</stage> 
+ 
+<stage> 
+The HANNYA has come on. Clothed in a scarlet hakama, white upper dress, 
+and "The terrible mask with golden eyes." She has held a white scarf over 
+her head. She looks up. Here follows the great dance climax of the play. 
+</stage> 
+ 
+<milestone unit="speech" n="Aoin40"/> 
+<sp> 
+<speaker>Hannya</speaker> 
+<stage> 
+threatening 
+</stage> 
+<p> 
+Oh, Gioja, turn back! Turn back, or you rue it. 
+</p> 
+</sp> 
+
+<milestone unit="speech" n="Aoin41"/>  
+<sp> 
+<speaker>Waki</speaker> 
+<p> 
+Let whatever evil spirit is here bow before Gioja, and know that Gioja 
+will drive it out. 
+</p> 
+</sp> 
+ 
+<stage> 
+He continues whirling the rosary. 
+</stage> 
+ 
+<milestone unit="speech" n="Aoin42"/>  
+<sp> 
+<speaker>Chorus</speaker> 
+<stage> 
+invoking the powerful good spirits 
+</stage> 
+<p> 
+On the east stand Gosanze Miowo. 
+</p> 
+</sp> 
+
+<milestone unit="speech" n="Aoin43"/>   
+<sp> 
+<speaker>Hannya</speaker> 
+<stage> 
+opposing other great spirits 
+</stage> 
+<p> 
+On the south stand Gundari Yasha. 
+</p> 
+</sp> 
+ 
+<milestone unit="speech" n="Aoin44"/>  
+<sp> 
+<speaker>Chorus</speaker> 
+<p> 
+On the west stand Dai Itoku Miowo. 
+</p> 
+</sp>
+   
+ 
+ <pb n="205"/>  
+<milestone unit="speech" n="Aoin45"/>  
+<sp> 
+<speaker>Hannya</speaker> 
+<p> 
+On the north stand Kongo   &mdash;    
+</p> 
+</sp> 
+
+<milestone unit="speech" n="Aoin46"/>   
+<sp> 
+<speaker>Chorus</speaker> 
+<p> 
+   &mdash;   Yasha Miowo. 
+</p> 
+</sp> 
+
+<milestone unit="speech" n="Aoin47"/>   
+<sp> 
+<speaker>Hannya</speaker> 
+<p> 
+In the middle Dai Sei   &mdash;    
+</p> 
+</sp> 
+
+<milestone unit="speech" n="Aoin48"/>   
+<sp> 
+<speaker>Chorus</speaker> 
+<lg type="poem"> 
+<l rend="indent">Fudo Miowo</l> 
+<l>Namaku Samanda Basarada!</l> 
+<l>Senda Makaroshana Sowataya</l> 
+<l>Wun tarata Kamman,</l> 
+<l>Choga Sessha Tokudai Chiye</l> 
+<l>Chiga Shinja Sokushin Jobutsu.</l> 
+</lg> 
+</sp> 
+ 
+<milestone unit="speech" n="Aoin49"/>  
+<sp> 
+<speaker>Hannya</speaker> 
+<stage> 
+overcome by the exorcism 
+</stage> 
+<p> 
+O terrible names of the spirits. This is my last time. I cannot return 
+here again. 
+</p> 
+</sp> 
+
+<milestone unit="speech" n="Aoin50"/>   
+<sp> 
+<speaker>Chorus</speaker> 
+<p> 
+By hearing the scripture the evil spirit is melted. Bosatsu came hither, 
+his face was full of forbearance and pity. Pity has melted her heart, and 
+she has gone into Buddha. Thanksgiving. 
+</p> 
+</sp>
+   
+</div1> 
+</body>  
+ 
+<back id="d6"> 
+<div1 type="notes" id="d7"> 
+<note id="n199.1"><seg type="note-symbol">[1:</seg> <p>I am the Princess Rokujo. . .] As in Western 
+folk-lore, demons often appear first in some splendid disguise.</p></note> 
+ 
+<note id="n199.2"><seg type="note-symbol">[2:</seg> <p>the Sennin] Spirits not unlike the Irish 
+"Sidhe."</p></note> 
+</div1> 
+</back> 
+ 
+</text> 
+</TEI.2> 
+ 
