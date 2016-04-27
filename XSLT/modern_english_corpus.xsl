@@ -3,6 +3,7 @@
     xmlns:xs="http://www.w3.org/2001/XMLSchema" exclude-result-prefixes="xs" version="2.0">
 
     <xsl:output method="text" omit-xml-declaration="yes" use-character-maps="a" encoding="UTF-8"/>
+   <xsl:param name="escape_ast" select="'/*'"/>
     
   <xsl:character-map name="a">
      <xsl:output-character character="&#x2014;" string="&amp;mdash;" />
@@ -27,8 +28,7 @@
     <xsl:template name="YAML">
         <xsl:text>layout: </xsl:text><xsl:choose><xsl:when test="//div1[@type='play']">drama</xsl:when><xsl:when test="//div1[@type='poem'] or //div2[@type='poem']">poem</xsl:when><xsl:otherwise><xsl:text>narrative</xsl:text></xsl:otherwise></xsl:choose>
         <xsl:text>&#xa;</xsl:text>
-        <xsl:text>author: </xsl:text>
-        <xsl:value-of select="/descendant::sourceDesc/descendant::author/text()"/>
+     <!--   <xsl:choose><xsl:when test="contains(':','/descendant::sourceDesc/descendant::author/text()')"><xsl:text>author: >&#xa;    <xsl:value-of select="normalize-space(/descendant::sourceDesc/descendant::author/text())"/></xsl:text></xsl:when><xsl:otherwise><xsl:text>author: </xsl:text><xsl:value-of select="normalize-space(/descendant::sourceDesc/descendant::author/text())"/></xsl:otherwise></xsl:choose> -->
         <xsl:text>&#xa;</xsl:text>
         <xsl:text>title: >&#xa;    </xsl:text>
         <xsl:value-of select="normalize-space(/descendant::sourceDesc/descendant::title[@type = 'main']/text())"/>
@@ -81,23 +81,16 @@
 
     </xsl:template>
 
-    <!--Below, template for the headers
-    <xsl:template match="head">
-        <xsl:text>## </xsl:text>
-        <xsl:apply-templates/>
-        <xsl:text>&#xa;</xsl:text>
-        <xsl:text>&#xa;</xsl:text>
-    </xsl:template>
--->
+  
 
 <xsl:template match="head">
 <xsl:choose>
 <xsl:when test="parent::div1">
-<xsl:text># </xsl:text><xsl:apply-templates/><xsl:text>&#xa;</xsl:text><xsl:text>&#xa;</xsl:text>
+<xsl:text>&#xa;# </xsl:text><xsl:apply-templates/><xsl:text>&#xa;</xsl:text><xsl:text>&#xa;</xsl:text>
 </xsl:when>
-<xsl:when test="parent::div2"><xsl:text>## </xsl:text><xsl:apply-templates/><xsl:text>&#xa;</xsl:text><xsl:text>&#xa;</xsl:text></xsl:when>
-<xsl:when test="parent::div3"><xsl:text>### </xsl:text><xsl:apply-templates/><xsl:text>&#xa;</xsl:text><xsl:text>&#xa;</xsl:text></xsl:when>
-<xsl:when test="parent::lg"><xsl:text>## </xsl:text><xsl:apply-templates/><xsl:text>&#xa;</xsl:text><xsl:text>&#xa;</xsl:text></xsl:when>
+<xsl:when test="parent::div2"><xsl:text>&#xa;## </xsl:text><xsl:apply-templates/><xsl:text>&#xa;</xsl:text><xsl:text>&#xa;</xsl:text></xsl:when>
+<xsl:when test="parent::div3"><xsl:text>&#xa;### </xsl:text><xsl:apply-templates/><xsl:text>&#xa;</xsl:text><xsl:text>&#xa;</xsl:text></xsl:when>
+<xsl:when test="parent::lg"><xsl:text>&#xa;## </xsl:text><xsl:apply-templates/><xsl:text>&#xa;</xsl:text><xsl:text>&#xa;</xsl:text></xsl:when>
 <xsl:otherwise></xsl:otherwise> 
 </xsl:choose>
 </xsl:template>
@@ -116,7 +109,7 @@
     -->
     
     <xsl:template match="text()">
-        <xsl:value-of select="translate(., '&#xA;', ' ')"/>
+        <xsl:value-of select="translate(translate(., '&#xA;', ' '), '  ', ' ')"/>
     </xsl:template>
     
 <!--FOOTNOTES-->
