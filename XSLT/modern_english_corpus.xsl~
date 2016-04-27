@@ -109,7 +109,7 @@
     -->
     
     <xsl:template match="text()">
-        <xsl:value-of select="translate(translate(., '&#xA;', ' '), '*', $escape_ast)"/>
+        <xsl:value-of select="translate(translate(., '&#xA;', ' '), '  ', ' ')"/>
     </xsl:template>
     
 <!--FOOTNOTES-->

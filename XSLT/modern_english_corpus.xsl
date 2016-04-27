@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-    xmlns:xs="http://www.w3.org/2001/XMLSchema" exclude-result-prefixes="xs" version="1.1">
+    xmlns:xs="http://www.w3.org/2001/XMLSchema" exclude-result-prefixes="xs" version="2.0">
 
     <xsl:output method="text" omit-xml-declaration="yes" use-character-maps="a" encoding="UTF-8"/>
    <xsl:param name="escape_ast" select="'/*'"/>
@@ -28,7 +28,9 @@
     <xsl:template name="YAML">
         <xsl:text>layout: </xsl:text><xsl:choose><xsl:when test="//div1[@type='play']">drama</xsl:when><xsl:when test="//div1[@type='poem'] or //div2[@type='poem']">poem</xsl:when><xsl:otherwise><xsl:text>narrative</xsl:text></xsl:otherwise></xsl:choose>
         <xsl:text>&#xa;</xsl:text>
-     <!--   <xsl:choose><xsl:when test="contains(':','/descendant::sourceDesc/descendant::author/text()')"><xsl:text>author: >&#xa;    <xsl:value-of select="normalize-space(/descendant::sourceDesc/descendant::author/text())"/></xsl:text></xsl:when><xsl:otherwise><xsl:text>author: </xsl:text><xsl:value-of select="normalize-space(/descendant::sourceDesc/descendant::author/text())"/></xsl:otherwise></xsl:choose> -->
+        <xsl:choose>
+            <xsl:when test="contains(':','/descendant::sourceDesc/descendant::author/text()')"><xsl:text>author: >&#xa;    <xsl:value-of select="normalize-space(/descendant::sourceDesc/descendant::author/text())"/></xsl:text></xsl:when>
+            <xsl:otherwise><xsl:text>author: </xsl:text><xsl:value-of select="normalize-space(/descendant::sourceDesc/descendant::author/text())"/></xsl:otherwise></xsl:choose> -->
         <xsl:text>&#xa;</xsl:text>
         <xsl:text>title: >&#xa;    </xsl:text>
         <xsl:value-of select="normalize-space(/descendant::sourceDesc/descendant::title[@type = 'main']/text())"/>
