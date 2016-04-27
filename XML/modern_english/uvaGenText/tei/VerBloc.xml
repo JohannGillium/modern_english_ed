@@ -1,0 +1,2269 @@
+<?xml version="1.0"?>
+
+<?dlps id="VerBloc"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOnum SYSTEM "http://text.lib.virginia.edu/charent/iso-num.ent"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+ 
+]> 
+<TEI.2 id="VerBloc"> 
+<teiHeader type="migrated" creator="Etext">
+<fileDesc>
+<titleStmt>
+<title type="main">The Blockade Runners</title>
+<title type="sort">blockade runners</title>
+<author>Verne, Jules, 1828-1905</author>
+<respStmt>
+<resp>Creation of machine-readable version</resp>
+<name>Judy Boss</name>
+</respStmt>
+<respStmt>
+<resp>Conversion to TEI-conformant markup</resp>
+<name>University of Virginia Library Electronic Text Center</name>
+</respStmt>
+</titleStmt> 
+<extent>ca. <num type="kilobytes">113</num> kilobytes</extent> 
+<publicationStmt>
+<publisher>University of Virginia Library</publisher>
+<pubPlace>Charlottesville, Virginia</pubPlace>
+<idno type="ETC">VerBloc</idno> 
+<date value="1995">1995</date>
+<availability status="public">
+<p n="copyright">Copyright &copy; 1995 by the Rector and Visitors of the University of Virginia</p>
+<p n="access">Publicly accessible</p>
+</availability>
+<idno type="uva-pid">uva-lib:476446</idno>
+</publicationStmt>
+<seriesStmt>
+<title>University of Virginia Library, Text collection</title>
+<idno type="uva-set">UVA-LIB-Text</idno>
+</seriesStmt> 
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title type="main">The Omnibus</title>
+<title type="sort">omnibus</title>
+<author>Verne, Jules</author>
+</titleStmt> 
+<publicationStmt>
+<publisher>J. B. Lippincott Company</publisher>
+<pubPlace>Garden City, NY</pubPlace>
+</publicationStmt> 
+</biblFull>
+</sourceDesc>
+</fileDesc> 
+<encodingDesc>
+<projectDesc>
+<p>Prepared for the University of Virginia Library Electronic Text Center</p>
+</projectDesc> 
+<editorialDecl>
+<p>All quotation marks retained as data</p> 
+<p>All unambiguous end-of-line hyphens have been removed, and the 
+trailing part of a word has been joined to the preceding line.</p> 
+<p id="ETC">Keywords in the header are a local Electronic Text Center scheme 
+to aid in establishing analytical groupings</p>
+</editorialDecl> 
+<refsDecl>
+<p>ID elements are given for each page element and are composed of the text's 
+unique cryptogram and the given page number, as in SpeFQue1 for page one of 
+Spenser's Faerie Queene.</p>
+</refsDecl>
+</encodingDesc> 
+<profileDesc>
+<creation>
+<date value="1876">1876</date>
+</creation> 
+<langUsage>
+<language id="eng" usage="main">English</language>
+</langUsage> 
+<textClass>
+<keywords>
+<term>fiction; prose</term>
+</keywords>
+</textClass>
+</profileDesc> 
+<revisionDesc>
+<change>
+<date value="1995-02">February 1995</date> 
+<respStmt>
+<resp>corrector</resp>
+<name>Kelly Tetterton</name>
+</respStmt>
+<item>updated header and tags</item>
+</change> 
+<change>
+<date value="1993-10">October 1993</date> 
+<respStmt>
+<resp>corrector</resp>
+<name>Kelly Tetterton</name>
+</respStmt>
+<item>minimal TEI tagging; italics included; entity references 
+included; unambiguous line-end hyphenation removed</item>
+</change> 
+<change>
+<date value="1993-10">October 1993</date> 
+<respStmt>
+<resp>corrector</resp>
+<name>Judy Boss</name>
+</respStmt>
+<item>Text scanned in, proofed, and the following changes made: 
+p. 491: desination] destination;
+p. 493: pentrate] penetrate; 
+p. 508: thiry] thirty</item>
+</change> 
+<change>
+<date value="2005-07">July 2005</date>
+<respStmt>
+<resp>Corrector</resp>
+<name>Margaret Konkol</name>
+</respStmt>
+<item>Converted SGML to XML and fixed tagging.</item>
+</change>
+<change>
+<date value="2007-09">September 2007</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Ethan Gruber, University of Virginia Library</name>
+</respStmt>
+<item>Converted XML markup from TEI Lite to uva-dl-tei (TEI P4 with local customizations).</item>
+</change>
+<change>
+<date value="2008-01">January 2008</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Greg Murray, University of Virginia Library</name>
+</respStmt>
+<item>Programmatically updated TEI header markup (but not header content) for minimal compliance with current QA requirements.</item>
+</change>
+</revisionDesc>
+</teiHeader> 
+<text id="d1">  
+ 
+<front id="d2"> 
+<pb n="487"/>  
+<titlePage id="d3"> 
+	<pb/>
+<titlePart type="main"> 
+THE BLOCKADE RUNNERS 
+</titlePart> 
+</titlePage> 
+</front> 
+<body id="d4"> 
+
+
+<div1 type="chapter" n="1" id="d5"> <pb n="489"/>  
+<head>THE <hi rend="italic">"Dolphin"</hi></head> 
+<p>THE Clyde was the first river whose waters were lashed 
+into foam by a steam-boat.  It was in 1812 when the steamer 
+called the <hi rend="italic">Comet</hi> ran between Glasgow and Greenock, at 
+the speed of six miles an hour.  Since that time more than 
+a million of steamers or packet-boats have plied this Scotch 
+river, and the inhabitants of Glasgow must be as familiar 
+as any people with the wonders of steam navigation. 
+</p><p>However, on the 3rd of December, 1862, an immense 
+crowd, composed of shipowners, merchants, manufacturers, 
+workmen, sailors, women, and children, thronged the muddy 
+streets of Glasgow, all going in the direction of Kelvin 
+Dock, the large shipbuilding premises belonging to Messrs. 
+Tod &amp; MacGregor.  This last name especially proves that 
+the descendants of the famous Highlanders have become 
+manufacturers, and that they have made workmen of all the 
+vassals of the old clan chieftains. 
+</p><p>Kelvin Dock is situated a few minutes' walk from the 
+town, on the right bank of the Clyde.  Soon the immense 
+timber-yards were thronged with spectators; not a part of 
+the quay, not a wall of the wharf, not a factory roof showed 
+an unoccupied place; the river itself was covered with craft 
+of all descriptions, and the heights of Govan, on the left 
+bank, swarmed with spectators. 
+</p><p>There was, however, nothing extraordinary in the event 
+about to take place; it was nothing but the launching of a 
+ship, and this was an everyday affair with the people of 
+Glasgow.  Had the <hi rend="italic">Dolphin</hi>, then &mdash; for that was the name of 
+the ship built by Messrs.  Tod &amp; MacGregor &mdash; some special 
+peculiarity? To tell the truth, it had none. 
+</p><p>It was a large ship, about 1,500 tons, in which everything 
+combined to obtain superior speed.  Her engines, of 500 
+horse-power, were from the workshops of Lancefield Forge; 
+<pb n="490"/>  
+they worked two screws, one on either side the stern-post, 
+completely independent of each other.  As for the depth of 
+water the <hi rend="italic">Dolphin</hi> would draw, it must be very inconsiderable; 
+connoisseurs were not deceived, and they concluded 
+rightly that this ship was destined for shallow straits.  But 
+all these particulars could not in any way justify the eagerness 
+of the people: taken altogether, the <hi rend="italic">Dolphin</hi> was nothing 
+more or less than an ordinary ship.  Would her launching 
+present some mechanical difficulty to be overcome? Not any 
+more than usual.  The Clyde had received many a ship of 
+heavier tonnage, and the launching of the <hi rend="italic">Dolphin</hi> would 
+take place in the usual manner. 
+</p><p>In fact, when the water was calm, the moment the ebb-tide set in, the workmen began to operate.  Their mallets 
+kept perfect time falling on the wedges meant to raise the 
+ship's keel: soon a shudder ran through the whole of her 
+massive structure; although she had only been slightly 
+raised, one could see that she shook, and then gradually 
+began to glide down the well greased wedges, and in a few 
+moments she plunged into the Clyde.  Her stern struck the 
+muddy bed of the river, then she raised herself on the top 
+of a gigantic wave, and, carried forward by her start, would 
+have been dashed against the quay of the Govan timber-yards, if her anchors had not restrained her. 
+</p><p>The launch had been perfectly successful, the <hi rend="italic">Dolphin</hi> 
+swayed quietly on the waters of the Clyde, all the spectators 
+clapped their hands when she took possession of her 
+natural element, and loud hurrahs arose from either bank. 
+</p><p>But wherefore these cries and this applause? Undoubtedly 
+the most eager of the spectators would have been 
+at a loss to explain the reason of his enthusiasm.  What was 
+the cause, then, of the lively interest excited by this ship? 
+Simply the mystery which shrouded her destination; it 
+was not known to what kind of commerce she was to be 
+appropriated, and in questioning different groups the 
+diversity of opinion on this important subject was indeed 
+astonishing. 
+</p><p>However, the best informed, at least those who pretended 
+to be so, agreed in saying that the steamer was going to take 
+<pb n="491"/>  
+part in the terrible war which was then ravaging the United 
+States of America, but more than this they did not know, 
+and whether the <hi rend="italic">Dolphin</hi> was a privateer, a transport ship, 
+or an addition to the Federal marine was what no one could 
+tell. 
+</p><p>"Hurrah!" cried one, affirming that the <hi rend="italic">Dolphin</hi> had been 
+built for the Southern States. 
+</p><p>"Hip! hip! hip!" cried another, swearing that never had 
+a faster boat crossed to the American coasts. 
+</p><p>Thus its destination was unknown, and in order to obtain 
+any reliable information one must be an intimate friend, or, 
+at any rate, an acquaintance of Vincent Playfair &amp; Co., of 
+Glasgow. 
+</p><p>A rich, powerful, intelligent house of business was that 
+of Vincent Playfair &amp; Co., in a social sense, an old and 
+honourable family, descended from those tobacco lords who 
+built the finest quarters of the town.  These clever merchants, 
+by an act of the Union, had founded the first Glasgow warehouse 
+for dealing in tobacco from Virginia and Maryland. 
+Immense fortunes were realised; mills and foundries sprang 
+up in all parts, and in a few years the prosperity of the city 
+attained its height. 
+</p><p>The house of Playfair remained faithful to the enterprising 
+spirit of its ancestors, it entered into the most daring 
+schemes, and maintained the honour of English 
+commerce.  The principal, Vincent Playfair, a man of fifty, 
+with a temperament essentially practical and decided, although 
+somewhat daring, was a genuine shipowner.  Nothing 
+affected him beyond commercial questions, not even the 
+political side of the transactions, otherwise he was a perfectly 
+loyal and honest man. 
+</p><p>However, he could not lay claim to the idea of building 
+and fitting up the <hi rend="italic">Dolphin</hi>; she belonged to his nephew, 
+James Playfair, a fine young man of thirty, the boldest 
+skipper of the British merchant marine. 
+</p><p>It was one day at the Tontine coffee-room under the 
+arcades of the town hall, that James Playfair, after having 
+impatiently scanned the American journal, disclosed to his 
+uncle an adventurous scheme. 
+<pb n="492"/>  
+</p><p>"Uncle Vincent," said he, coming to the point at once, 
+"there are two millions of pounds to be gained in less than 
+a month." 
+</p><p>"And what to risk?" asked Uncle Vincent. 
+</p><p>"A ship and a cargo." 
+</p><p>"Nothing else?" 
+</p><p>"Nothing, except the crew and the captain, and that 
+does not reckon for much." 
+</p><p>"Let us see," said Uncle Vincent. 
+</p><p>"It is all seen," replied James Playfair.  "You have read 
+the <hi rend="italic">Tribune</hi>, the <hi rend="italic">New York Herald, The Times</hi>, the <hi rend="italic">Richmond 
+Inquirer</hi>, the <hi rend="italic">American Review</hi>?" 
+</p><p>"Scores of times, nephew." 
+</p><p>"You believe, like me, that the war of the United States 
+will last a long time still?" 
+</p><p>"A very long time." 
+</p><p>"You know how much this struggle will affect the interests 
+of England, and especially those of Glasgow?" 
+</p><p>"And more especially still the house of Playfair &amp; Co.," 
+replied Uncle Vincent. 
+</p><p>"Theirs especially," added the young Captain. 
+</p><p>"I worry myself about it every day, James, and I cannot 
+think without terror of the commercial disasters which this 
+war may produce; not but that the house of Playfair is 
+firmly established, nephew; at the same time it has correspondents 
+which may fail.  Ah! those Americans, slave-holders or Abolitionists, I have no faith in them!" 
+</p><p>If Vincent Playfair was wrong in thus speaking with 
+respect to the great principles of humanity, always and 
+everywhere superior to personal interests, he was, nevertheless, 
+right from a commercial point of view.  The most 
+important material was failing at Glasgow, the cotton 
+famine became every day more threatening, thousands of 
+workmen were reduced to living upon public charity. 
+Glasgow possessed 25,000 looms, by which 625,000 yards 
+of cotton were spun daily; that is to say, fifty millions of 
+pounds yearly.  From these numbers it may be guessed what 
+disturbances were caused in the commercial part of the town 
+when the raw material failed altogether.  Failures were 
+<pb n="493"/>  
+hourly taking place, the manufactories were closed, and the 
+workmen were dying of starvation. 
+</p><p>It was the sight of this great misery which had put the 
+idea of his bold enterprise into James Playfair's head. 
+</p><p>"I will go for cotton, and will get it, cost what it may." 
+</p><p>But, as he also was a merchant as well as his uncle 
+Vincent, he resolved to carry out his plan by way of exchange, 
+and to make his proposition under the guise of a 
+commercial enterprise. 
+</p><p>"Uncle Vincent," said he, "this is my idea." 
+</p><p>"Well, James?" 
+</p><p>"It is simply this: we will have a ship built of superior 
+sailing qualities and great bulk." 
+</p><p>"That is quite possible." 
+</p><p>"We will load her with ammunition of war, provisions, 
+and clothes." 
+</p><p>"Just so." 
+</p><p>"I will take the command of this steamer, I will defy 
+all the ships of the Federal marine for speed, and I will 
+run the blockade of one of the southern ports." 
+</p><p>"You must make a good bargain for your cargo with 
+the Confederates, who will be in need of it," said his uncle. 
+</p><p>"And I shall return laden with cotton." 
+</p><p>"Which they will give you for nothing." 
+</p><p>"As you say, Uncle.  Will it answer?" 
+</p><p>"It will; but shall you be able to get there?" 
+</p><p>"I shall, if I have a good ship." 
+</p><p>"One can be made on purpose.  But the crew?" 
+</p><p>"Oh, I will find them.  I do not want many men; enough 
+to work with, that is all.  It is not a question of fighting with 
+the Federals, but distancing them." 
+</p><p>"They shall be distanced," said Uncle Vincent, in a 
+peremptory tone; "but now, tell me, James, to what port 
+of the American coast do you think of going?" 
+</p><p>"Up to now, Uncle, ships have run the blockade of New 
+Orleans, Wilmington, and Savannah, but I think of going 
+straight to Charleston; no English boat has yet been able to 
+penetrate into the harbour, except the <hi rend="italic">Bermuda</hi>.  I will do 
+like her, and, if my ship draws but very little water, I shall 
+<pb n="494"/>  
+be able to go where the Federalists will not be able to 
+follow." 
+</p><p>"The fact is," said Uncle Vincent, "Charleston is overwhelmed 
+with cotton; they are even burning it to get rid 
+of it." 
+</p><p>"Yes," replied James; "besides, the town is almost invested; 
+Beauregard is running short of provisions, and he 
+will pay me a golden price for my cargo!" 
+</p><p>"Well, nephew, and when will you start?" 
+</p><p>"In six months; I must have the long winter nights to 
+aid me." 
+</p><p>"It shall be as you wish, nephew." 
+</p><p>"It is settled, then, Uncle?" 
+</p><p>"Settled!" 
+</p><p>"Shall it be kept quiet?" 
+</p><p>"Yes; better so." 
+</p><p>And this is how it was that five months later the steamer 
+<hi rend="italic">Dolphin</hi> was launched from the Kelvin Dock timber-yards, 
+and no one knew her real destination. 
+</p></div1><div1 type="chapter" n="2" id="d6"> 
+<head>GETTING UNDER SAIL</head> 
+<p>THE <hi rend="italic">Dolphin</hi> was rapidly equipped, her rigging was 
+ready, and there was nothing to do but fit her up.  She carried 
+three schooner-masts, an almost useless luxury; in fact, 
+the <hi rend="italic">Dolphin</hi> did not rely on the wind to escape the Federalists, 
+but rather on her powerful engines. 
+</p><p>Towards the end of December a trial of the steamer was 
+made in the gulf of the Clyde.  Which was the more satisfied, 
+builder or captain, it is impossible to say.  The new steamer 
+shot along wonderfully, and the patent log showed a speed 
+of seventeen miles an hour, a speed which as yet no English, 
+French, or American boat had ever obtained.  The <hi rend="italic">Dolphin</hi> 
+would certainly have gained by several lengths in a sailing 
+match with the fastest opponent. 
+</p><p>The loading was begun on the 25th of December, the 
+<pb n="495"/>  
+steamer having ranged along the steamboat-quay a little 
+below Glasgow Bridge, the last which stretches across the 
+Clyde before its mouth.  Here the wharfs were heaped with 
+a heavy cargo of clothes, ammunition, and provisions which 
+were rapidly carried to the hold of the <hi rend="italic">Dolphin</hi>.  The nature 
+of this cargo betrayed the mysterious destination of the 
+ship, and the house of Playfair could no longer keep it 
+secret; besides, the <hi rend="italic">Dolphin</hi> must not be long before she 
+started.  No American cruiser had been signalled in English 
+waters; and, then, when the question of getting the crew 
+came, how was it possible to keep silent any longer? They 
+could not embark them, even, without informing the men 
+whither they were bound, for, after all, it was a matter of 
+life and death, and when one risks one's life, at least it is 
+satisfactory to know how and wherefore. 
+</p><p>However, this prospect hindered no one; the pay was 
+good, and everyone had a share in the speculation, so that 
+a great number of the finest sailors soon presented themselves. 
+James Playfair was only embarrassed which to choose, 
+but he chose well, and in twenty-four hours his muster-roll 
+bore the names of thirty sailors who would have done honour 
+to her Majesty's yacht. 
+</p><p>The departure was settled for the 3rd of January; on 
+the 31st of December the <hi rend="italic">Dolphin</hi> was ready, her hold full 
+of ammunition and provisions, and nothing was keeping 
+her now. 
+</p><p>The skipper went on board on the 2nd of January, and 
+was giving a last look round his ship with a captain's eye, 
+when a man presented himself at the fore part of the <hi rend="italic">Dolphin</hi>, 
+and asked to speak with the Captain.  One of the sailors 
+led him on to the poop. 
+</p><p>He was a strong, hearty-looking fellow, with broad 
+shoulders and ruddy face, the simple expression of which 
+ill-concealed a depth of wit and mirth.  He did not seem 
+to be accustomed to a seafaring life, and looked about him 
+with the air of a man little used to being on board a ship; 
+however, he assumed the manner of a Jack-tar, looking up 
+at the rigging of the <hi rend="italic">Dolphin</hi>, and waddling in true sailor 
+fashion. 
+<pb n="496"/>  
+</p><p>When he had reached the Captain, he looked fixedly at 
+him, and said, "Captain James Playfair?" 
+</p><p>"The same," replied the skipper.  "What do you want 
+with me?" 
+</p><p>"To join your ship." 
+</p><p>"There is no room; the crew is already complete." 
+</p><p>"Oh, one man, more or less, will not be in the way; quite 
+the contrary." 
+</p><p>"You think so?" said James Playfair, giving a sidelong 
+glance at his questioner. 
+</p><p>"I am sure of it," replied the sailor. 
+</p><p>"But who are you?" asked the Captain. 
+</p><p>"A rough sailor, with two strong arms, which, I can tell 
+you, are not to be despised on board a ship, and which 
+I now have the honour of putting at your service." 
+</p><p>"But there are other ships besides the <hi rend="italic">Dolphin</hi>, and other 
+captains besides James Playfair.  Why do you come here?" 
+</p><p>"Because it is on board the <hi rend="italic">Dolphin</hi> that I wish to serve, 
+and under the orders of Captain James Playfair." 
+</p><p>"I do not want you." 
+</p><p>"There is always need of a strong man, and if to prove 
+my strength you will try me with three or four of the 
+strongest fellows of your crew, I am ready." 
+</p><p>"That will do," replied James Playfair.  "And what is 
+your name?" 
+</p><p>"Crockston, at your service." 
+</p><p>The Captain made a few steps backwards in order to get 
+a better view of the giant who presented himself in this odd 
+fashion.  The height, the build, and the look of the sailor 
+did not deny his pretensions to strength. 
+</p><p>"Where have you sailed?" asked Playfair of him. 
+</p><p>"A little everywhere." 
+</p><p>"And do you know where the <hi rend="italic">Dolphin</hi> is bound for?" 
+</p><p>"Yes; and that is what tempts me." 
+</p><p>"Ah, well! I have no mind to let a fellow of your stamp 
+escape me.  Go and find the first mate, and get him to enrol 
+you." 
+</p><p>Having said this, the Captain expected to see the man 
+<pb n="497"/>  
+turn on his heels and run to the bows, but he was mistaken. 
+Crockston did not stir. 
+</p><p>"Well! did you hear me?" asked the Captain. 
+</p><p>"Yes, but it is not all," replied the sailor.  "I have something 
+else to ask you." 
+</p><p>"Ah! You are wasting my time," replied James, sharply; 
+"I have not a moment to lose in talking." 
+</p><p>"I shall not keep you long," replied Crockston; "two 
+words more and that is all; I was going to tell you that I 
+have a nephew." 
+</p><p>"He has a fine uncle, then," interrupted James Playfair. 
+</p><p>"Hah! Hah!" laughed Crockston. 
+</p><p>"Have you finished?" asked the Captain, very impatiently. 
+</p><p>"Well, this is what I have to say, when one takes the 
+uncle, the nephew comes into the bargain." 
+</p><p>"Ah! indeed!" 
+</p><p>"Yes, that is the custom, the one does not go without 
+the other." 
+</p><p>"And what is this nephew of yours?" 
+</p><p>"A lad of fifteen whom I am going to train to the sea; 
+he is willing to learn, and will make a fine sailor some day." 
+</p><p>"How now, Master Crockston," cried James Playfair; 
+"do you think the <hi rend="italic">Dolphin</hi> is a training-school for cabin-boys?" 
+</p><p>"Don't let us speak ill of cabin-boys: there was one of 
+them who became Admiral Nelson, and another Admiral 
+Franklin." 
+</p><p>"Upon my honour, friend," replied James Playfair, "you 
+have a way of speaking which I like; bring your nephew, 
+but if I don't find the uncle the hearty fellow he pretends to 
+be, he will have some business with me.  Go, and be back in 
+an hour." 
+</p><p>Crockston did not want to be told twice; be bowed awkwardly 
+to the Captain of the <hi rend="italic">Dolphin</hi>, and went on to the 
+quay.  An hour afterwards he came on board with his 
+nephew, a boy of fourteen or fifteen, rather delicate and 
+weakly looking, with a timid and astonished air, which 
+showed that he did not possess his uncle's self-possession and 
+<pb n="498"/>  
+vigorous corporeal qualities.  Crockston was even obliged to 
+encourage him by such words as these: 
+</p><p>"Come," said he, "don't be frightened, they are not going 
+to eat us, besides, there is yet time to return." 
+</p><p>"No, no," replied the young man, "and may God protect 
+us!" 
+</p><p>The same day the sailor Crockston and his nephew were 
+inscribed in the muster-roll of the <hi rend="italic">Dolphin</hi>. 
+</p><p>The next morning, at five o'clock, the fires of the steamer 
+were well fed, the deck trembled under the vibrations of 
+the boiler, and the steam rushed hissing through the escape-pipes.  The hour of departure had arrived. 
+</p><p>A considerable crowd, in spite of the early hour, flocked 
+on the quays and on Glasgow Bridge; they had come to 
+salute the bold steamer for the last time.  Vincent Playfair 
+was there to say good-bye to Captain James, but he conducted 
+himself on this occasion like a Roman of the good old 
+times.  His was a heroic countenance, and the two loud kisses 
+with which he gratified his nephew were the indication of a 
+strong mind. 
+</p><p>"Go, James," said he to the young Captain, "go quickly, 
+and come back quicker still; above all, don't abuse your 
+position.  Sell at a good price, make a good bargain, and you 
+will have your uncle's esteem." 
+</p><p>On this recommendation, borrowed from the manual of 
+the perfect merchant, the uncle and nephew separated, and 
+all the visitors left the boat. 
+</p><p>At this moment Crockston and John Stiggs stood together 
+on the forecastle, while the former remarked to his 
+nephew, "This is well, this is well; before two o'clock we shall 
+be at sea, and I have a good opinion of a voyage which 
+begins like this." 
+</p><p>For reply the novice pressed Crockston's hand. 
+</p><p>James Playfair then gave the orders for departure. 
+</p><p>"Have we pressure on?" he asked of his mate. 
+</p><p>"Yes, Captain," replied Mr. Mathew. 
+</p><p>"Well, then, weigh anchor." 
+</p><p>This was immediately done, and the screws began to 
+<pb n="499"/>  
+move.  The <hi rend="italic">Dolphin</hi> trembled, passed between the ships in 
+the port, and soon disappeared from the sight of the people, 
+who shouted their last hurrahs. 
+</p><p>The descent of the Clyde was easily accomplished, one 
+might almost say that this river had been made by the hand 
+of man, and even by the hand of a master.  For sixty years, 
+thanks to the dredges and constant dragging, it has gained 
+fifteen feet in depth, and its breadth has been tripled between 
+the quays and the town.  Soon the forests of masts and 
+chimneys were lost in the smoke and fog; the noise of the 
+foundry hammers and the hatchets of the timber-yards 
+grew fainter in the distance.  After the village of Partick 
+had been passed the factories gave way to country houses 
+and villas.  The <hi rend="italic">Dolphin</hi>, slackening her speed, sailed between 
+the dykes which carry the river above the shores, and 
+often through a very narrow channel, which, however, is 
+only a small inconvenience for a navigable river, for, after 
+all, depth is of more importance than width.  The steamer, 
+guided by one of those excellent pilots from the Irish sea, 
+passed without hesitation between floating buoys, stone 
+columns, and biggings, surmounted with lighthouses, which 
+mark the entrance to the channel.  Beyond the town of Renfrew, 
+at the foot of Kilpatrick hills, the Clyde grew wider. 
+Then came Bouling Bay, at the end of which opens the 
+mouth of the canal which joints Edinburgh to Glasgow. 
+Lastly, at the height of four hundred feet from the ground, 
+was seen the outline of Dumbarton Castle, almost indiscernible 
+through the mists, and soon the harbour-boats of 
+Glasgow were rocked on the waves which the <hi rend="italic">Dolphin</hi> caused. 
+Some miles farther on Greenock, the birthplace of James 
+Watt, was passed: the <hi rend="italic">Dolphin</hi> now found herself at the 
+mouth of the Clyde, and at the entrance of the gulf by which 
+it empties its waters into the Northern Ocean.  Here the first 
+undulations of the sea were felt, and the steamer ranged 
+along the picturesque coast of the Isle of Arran.  At last the 
+promontory of Cantyre, which runs out into the channel, 
+was doubled; the Isle of Rattelin was hailed, the pilot returned 
+by a shore-boat to his cutter, which was cruising in 
+<pb n="500"/>  
+the open sea; the <hi rend="italic">Dolphin</hi>, returning to her Captain's authority, 
+took a less frequented route round the north of 
+Ireland, and soon, having lost sight of the last European 
+land, found herself in the open ocean. 
+</p></div1><div1 type="chapter" n="3" id="d7"> 
+<head>THINGS ARE NOT WHAT THEY SEEM</head> 
+<p>THE <hi rend="italic">Dolphin</hi> had a good crew, not fighting men, or boarding 
+sailors, but good working men, and that was all she 
+wanted.  These brave, determined fellows were all, more or 
+less, merchants; they sought a fortune rather than glory; 
+they had no flag to display, no colours to defend with cannon; 
+in fact, all the artillery on board consisted of two small 
+swivel signal-guns. 
+</p><p>The <hi rend="italic">Dolphin</hi> shot bravely across the water, and fulfilled 
+the utmost expectations of both builder and captain.  Soon 
+she passed the limit of British seas; there was not a ship 
+in sight; the great ocean route was free; besides, no ship of 
+the Federal marine would have a right to attack her beneath 
+the English flag.  Followed she might be, and prevented 
+from forcing the blockade, and precisely for this 
+reason had James Playfair sacrificed everything to the speed 
+of his ship, in order not to be pursued. 
+</p><p>Howbeit a careful watch was kept on board, and, in spite 
+of the extreme cold, a man was always in the rigging ready 
+to signal the smallest sail that appeared on the horizon. 
+When evening came, Captain James gave the most precise 
+orders to Mr. Mathew. 
+</p><p>"Don't leave the man on watch too long in the rigging; 
+the cold may seize him, and in that case it is impossible to 
+keep a good look-out; change your men often." 
+</p><p>"I understand, Captain," replied Mr. Mathew. 
+</p><p>"Try Crockston for that work; the fellow pretends to 
+have excellent sight; it must be put to trial; put him on the 
+morning watch, he will have the morning mists to see 
+through.  If anything particular happens call me." 
+<pb n="501"/>  
+</p><p>This said, James Playfair went to his cabin.  Mr. Mathew 
+called Crockston, and told him the Captain's orders. 
+</p><p>"To-morrow, at six o'clock," said he, "you are to relieve 
+watch of the main masthead." 
+</p><p>For reply, Crockston gave a decided grunt, but Mr. 
+Mathew had hardly turned his back when the sailor muttered 
+some incomprehensible words, and then cried: 
+</p><p>"What on earth did he say about the mainmast?" 
+</p><p>At this moment his nephew, John Stiggs, joined him 
+on the forecastle. 
+</p><p>"Well, my good Crockston," said he. 
+</p><p>"It's all right, all right," said the seaman, with a forced 
+smile; "there is only one thing, this wretched boat shakes 
+herself like a dog coming out of the water, and it makes my 
+head confused." 
+</p><p>"Dear Crockston, and it is for my sake." 
+</p><p>"For you and him," replied Crockston, "but not a word 
+about that, John.  Trust in God, and He will not forsake 
+you." 
+</p><p>So saying, John Stiggs and Crockston went to the sailor's 
+berth, but the sailor did not lie down before he had seen the 
+young novice comfortably settled in the narrow cabin which 
+he had got for him. 
+</p><p>The next day, at six o'clock in the morning, Crockston 
+got up to go to his place; he went on deck, where the first 
+officer ordered him to go up into the rigging, and keep good 
+watch. 
+</p><p>At these words the sailor seemed undecided what to do; 
+then, making up his mind, he went towards the bows of the 
+<hi rend="italic">Dolphin</hi>. 
+</p><p>"Well, where are you off to now?" cried Mr. Mathew. 
+</p><p>"Where you sent me," answered Crockston. 
+</p><p>"I told you to go to the mainmast." 
+</p><p>"And I am going there," replied the sailor, in an ununconcerned 
+tone, continuing his way to the poop. 
+</p><p>"Are you a fool?" cried Mr. Mathew, impatiently; "you 
+are looking for the bars of the main on the foremast.  You 
+are like a cockney, who doesn't know how to twist a cat-o'-<pb n="502"/>  
+nine-tails, or make a splice.  On board what ship can you 
+have been, man? The mainmast, stupid, the mainmast!" 
+</p><p>The sailors who had run up to hear what was going on 
+burst out laughing when they saw Crockston's disconcerted 
+look, as he went back to the forecastle. 
+</p><p>"So," said he, looking up the mast, the top of which was 
+quite invisible through the morning mists; "so, am I to climb 
+up here?" 
+</p><p>"Yes," replied Mr. Mathew, "and hurry yourself! By 
+St. Patrick, a Federal ship would have time to get her bowsprit 
+fast in our rigging before that lazy fellow could get to 
+his post.  Will you go up?" 
+</p><p>Without a word, Crockston got on the bulwarks with 
+some difficulty; then he began to climb the rigging with 
+most visible awkwardness, like a man who did not know how 
+to make use of his hands or feet.  When he had reached the 
+topgallant, instead of springing lightly on to it, he remained 
+motionless, clinging to the ropes, as if he had been seized 
+with giddiness.  Mr. Mathew, irritated by his stupidity, 
+ordered him to come down immediately. 
+</p><p>"That fellow there," said he to the boatswain, "has never 
+been a sailor in his life.  Johnston, just go and see what he 
+has in his bundle." 
+</p><p>The boatswain made haste to the sailor's berth. 
+</p><p>In the meantime Crockston was with difficulty coming 
+down again, but, his foot having slipped, he slid down the 
+rope he had hold of, and fell heavily on the deck. 
+</p><p>"Clumsy blockhead! land-lubber!" cried Mr. Mathew, by 
+way of consolation.  "What did you come to do on board the 
+<hi rend="italic">Dolphin</hi>! Ah! you entered as an able seaman, and you cannot 
+even distinguish the main from the foremast! I shall 
+have a little talk with you." 
+</p><p>Crockston made no attempt to speak; he bent his back 
+like a man resigned to anything he might have to bear; 
+just then the boatswain returned. 
+</p><p>"This," said he to the first officer, "is all that I have 
+found; a suspicious portfolio with letters." 
+</p><p>"Give them here," said Mr. Mathew.  "Letters with Federal 
+stamps! Mr. Halliburtt, of Boston! An Abolitionist! 
+<pb n="503"/>  
+a Federalist! Wretch! you are nothing but a traitor, and 
+have sneaked on board to betray us! Never mind, you will 
+be paid for your trouble with the cat-o'-nine-tails! Boatswain, 
+call the Captain, and you others just keep an eye 
+on that rogue there." 
+</p><p>Crockston received these compliments with a hideous 
+grimace, but he did not open his lips.  They had fastened 
+him to the capstan, and he could move neither hand nor foot. 
+</p><p>A few minutes later James Playfair came out of his cabin 
+and went to the forecastle, where Mr. Mathew immediately 
+acquainted him with the details of the case. 
+</p><p> "What have you to say?" asked James Playfair, scarcely 
+able to restrain his anger. 
+</p><p>"Nothing," replied Crockston. 
+</p><p>"And what did you come on board my ship for?" 
+</p><p>"Nothing." 
+</p><p>"And what do you expect from me now?" 
+</p><p>"Nothing." 
+</p><p>"Who are you? An American, as letters seem to prove?" 
+Crockston did not answer. 
+</p><p>"Boatswain," said James Playfair, "fifty lashes with the 
+cat-o'-nine-tails to loosen his tongue.  Will that be enough, 
+Crockston?" 
+</p><p>"It will remain to be seen," replied John Stiggs' uncle 
+without moving a muscle. 
+</p><p>"Now then, come along, men," said the boatswain. 
+</p><p>At this order, two strong sailors stripped Crockston of 
+his woollen jersey; they had already seized the formidable 
+weapon, and laid it across the prisoner's shoulders, 
+when the novice, John Stiggs, pale and agitated, hurried 
+on deck. 
+</p><p>"Captain!" exclaimed he. 
+</p><p>"Ah! the nephew!" remarked James Playfair. 
+</p><p>"Captain," repeated the novice, with a violent effort to 
+steady his voice, "I will tell you what Crockston does not 
+want to say.  I will hide it no longer; yes, he is American, 
+and so am I; we are both enemies of the slave-holders, but 
+not traitors come on board to betray the <hi rend="italic">Dolphin</hi> into the 
+hands of the Federalists." 
+<pb n="504"/>  
+</p><p>"What did you come to do, then?" asked the Captain, 
+in a severe tone, examining the novice attentively.  The 
+latter hesitated a few seconds before replying, then he said, 
+"Captain, I should like to speak to you in private." 
+</p><p>Whilst John Stiggs made this request, James Playfair 
+did not cease to look carefully at him; the sweet young face 
+of the novice, his peculiarly gentle voice, the delicacy and 
+whiteness of his hands, hardly disguised by paint, the large 
+eyes, the animation of which could not bide their tenderness 
+ &mdash; all this together gave rise to a certain suspicion in the 
+Captain's mind.  When John Stiggs had made his request, 
+Playfair glanced fixedly at Crockston, who shrugged his 
+shoulders; then he fastened a questioning look on the novice, 
+which the latter could not withstand, and said simply to him, 
+"Come." 
+</p><p>John Stiggs followed the Captain on to the poop, and 
+then James Playfair, opening the door of his cabin, said 
+to the novice, whose cheeks were pale with emotion, "Be so 
+kind as to walk in, miss." 
+</p><p>John, thus addressed, blushed violently, and two tears 
+rolled involuntarily down his cheeks. 
+</p><p>"Don't be alarmed, miss," said James Playfair, in a gentle 
+voice, "but be so good as to tell me how I come to have the 
+honour of having you on board?" 
+</p><p>The young girl hesitated a moment, then, reassured by 
+the Captain's look, she made up her mind to speak. 
+</p><p>"Sir," said she, "I wanted to join my father at Charleston; 
+the town is besieged by land and blockaded by sea.  I 
+knew not how to get there, when I heard that the <hi rend="italic">Dolphin</hi> 
+meant to force the blockade.  I came on board your ship, 
+and I beg you to forgive me if I acted without your consent, 
+which you would have refused me." 
+</p><p>"Certainly," said James Playfair. 
+</p><p>"I did well, then, not to ask you," resumed the young 
+girl, with a firmer voice. 
+</p><p>The Captain crossed his arms, walked round his cabin, 
+and then came back. 
+</p><p>"What is your name?" said he. 
+</p><p>"Jenny Halliburtt." 
+<pb n="505"/>  
+</p><p>"Your father, if I remember rightly the address on the 
+letters, is he not from Boston?" 
+</p><p>"Yes, sir." 
+</p><p>"And a Northerner is thus in a southern town in the 
+thickest of the war?" 
+</p><p>"My father is a prisoner; he was at Charleston when the 
+first shot of the Civil War was fired, and the troops of the 
+Union driven from Fort Sumter by the Confederates.  My 
+father's opinions exposed him to the hatred of the slavist 
+part, and by the order of General Beauregard he was imprisoned. 
+I was then in England, living with a relation who 
+has just died, and left alone, with no help but that of 
+Crockston, our faithful servant, I wished to go to my father 
+and share his prison with him." 
+</p><p>"What was Mr. Halliburtt, then?" asked James Playfair. 
+</p><p>"A loyal and brave journalist," replied Jenny proudly, 
+one of the noblest editors of the <hi rend="italic">Tribune</hi>, and the one who 
+was the boldest in defending the cause of the negroes." 
+</p><p>"An Abolitionist," cried the Captain angrily; "one of 
+those men who, under the vain pretence of abolishing slavery, 
+have deluged their country with blood and ruin." 
+</p><p>"Sir!" replied Jenny Halliburtt, growing pale, "you are 
+insulting my father; you must not forget that I stand alone 
+to defend him." 
+</p><p>The young Captain blushed scarlet; anger mingled with 
+shame struggled in his breast; perhaps he would have answered 
+the young girl, but he succeeded in restraining 
+himself, and, opening the door of the cabin, he called 
+"Boatswain!" 
+</p><p>The boatswain came to him directly. 
+</p><p>"This cabin will henceforward belong to Miss Jenny 
+Halliburtt.  Have a cot made ready for me at the end of 
+the poop; that's all I want." 
+</p><p>The boatswain looked with a stupefied stare at the young 
+novice addressed in a feminine name, but on a sign from 
+James Playfair he went out. 
+</p><p>"And now, miss, you are at home," said the young Captain 
+of the <hi rend="italic">Dolphin</hi>.  Then he retired. 
+<pb n="506"/>  
+</p></div1><div1 type="chapter" n="4" id="d8"> 
+<head>CROCKSTON'S TRICK</head> 
+<p>IT WAS not long before the whole crew knew Miss Halliburtt's 
+story, which Crockston was no longer hindered from 
+telling.  By the Captain's orders he was released from the 
+capstan, and the cat-o'-nine-tails returned to its Place. 
+</p><p>"A pretty animal," said Crockston, "especially when it 
+shows its velvety paws." 
+</p><p>As soon as he was free, he went down to the sailors' 
+berths, found a small portmanteau, and carried it to Miss 
+Jenny; the young girl was now able to resume her feminine 
+attire, but she remained in her cabin, and did not again 
+appear on deck. 
+</p><p>As for Crockston, it was well and duly agreed that, as 
+he was no more a sailor than a horse-guard, he should be 
+exempt from all duty on board. 
+</p><p>In the meanwhile the <hi rend="italic">Dolphin</hi>, with her twin screws cutting 
+the waves, sped rapidly across the Atlantic, and there 
+was nothing now to do but keep a strict look-out.  The day 
+following the discovery of Miss Jenny's identity, James 
+Playfair paced the deck at the poop with a rapid step; he 
+had made no attempt to see the young girl and resume the 
+conversation of the day before. 
+</p><p>Whilst he was walking to and fro, Crockston passed him 
+several times, looking at him askant with a satisfied grin. 
+He evidently wanted to speak to the Captain, and at last 
+his persistent manner attracted the attention of the latter, 
+who said to him, somewhat impatiently: 
+</p><p>"How now, what do you want? You are turning round 
+me like a swimmer round a buoy: when are you going to 
+leave off?" 
+</p><p>"Excuse me, Captain," answered Crockston, winking, 
+"I wanted to speak to you." 
+</p><p>"Speak, then." 
+</p><p>"Oh, it is nothing very much.  I only wanted to tell you 
+frankly that you are a good fellow at bottom." 
+</p><p>"Why at bottom?" 
+<pb n="507"/>  
+</p><p>"At bottom and surface also." 
+</p><p>"I don't want your compliments." 
+</p><p>"I am not complimenting you.  I shall wait to do that 
+when you have gone to the end." 
+</p><p>"To what end?" 
+</p><p>"To the end of your task." 
+</p><p>"Ah! I have a task to fulfil?" 
+</p><p>"Decidedly, you have taken the young girl and myself 
+on board; good! You have given up your cabin to Miss 
+Halliburtt; good! You released me from the cat-o'-nine-tails; nothing could be better.  You are going to take us 
+straight to Charleston; that's delightful, but it is not all." 
+</p><p>"How not all?" cried James Playfair, amazed at Crockston's 
+boldness. 
+</p><p>"No, certainly not," replied the latter, with a knowing 
+look, "the father is prisoner there." 
+</p><p>"Well, what about that?" 
+</p><p>"Well, the father must be rescued." 
+</p><p>"Rescue Miss Halliburtt's father?" 
+</p><p>"Most certainly, and it is worth risking something for 
+such a noble man and courageous citizen as he." 
+</p><p>"Master Crockston," said James Playfair, frowning, "I 
+am not in the humour for your jokes, so have a care what 
+you say." 
+</p><p>"You misunderstand me, Captain," said the American. 
+"I am not joking in the least, but speaking quite seriously. 
+What I have proposed may at first seem very absurd to 
+you; when you have thought it over, you will see that you 
+cannot do otherwise." 
+</p><p>"What, do you mean that I must deliver Mr. Halliburtt?" 
+</p><p>"Just so.  You can demand his release of General Beauregard, 
+who will not refuse you." 
+</p><p>"But if he does refuse me?" 
+</p><p>"In that case," replied Crockston, in a deliberate tone, 
+"we must use stronger measures, and carry off the prisoner 
+by force." 
+</p><p>"So," cried James Playfair, who was beginning to get 
+angry, "so, not content with passing through the Federal 
+<pb n="508"/>  
+fleets and forcing the blockade of Charleston, I must run 
+out to sea again from under the cannon of the forts, and 
+this to deliver a gentleman I know nothing of, one of those 
+Abolitionists whom I detest, one of those journalists who 
+shed ink instead of their blood!" 
+</p><p>"Oh, it is but a cannon-shot more or less!" added 
+Crockston. 
+</p><p>"Master Crockston," said James Playfair, "mind what 
+I say: if ever you mention this affair again to me, I will 
+send you to the hold for the rest of the passage, to teach 
+you manners." 
+</p><p>Thus saying, the Captain dismissed the American, who 
+went off murmuring, "Ah, well, I am not altogether displeased 
+with this conversation: at any rate, the affair is 
+broached; it will do, it will do!" 
+</p><p>James Playfair had hardly meant it when he said an 
+Abolitionist whom I detest; he did not in the least side with 
+the Federals, but he did not wish to admit that the question 
+of slavery was the predominant reason for the civil war 
+of the United States, in spite of President Lincoln's formal 
+declaration.  Did he, then, think that the Southern States, 
+eight out of thirty-six, were right in separating when they 
+had been voluntarily united? Not so; he detested the Northerners, 
+and that was all; he detested them as brothers 
+separated from the common family &mdash; true Englishmen &mdash; 
+who had thought it right to do what he, James Playfair, 
+disapproved of with regard to the United States: these were 
+the political opinions of the Captain of the <hi rend="italic">Dolphin</hi>.  But, 
+more than this, the American war interfered with him personally, 
+and he had a grudge against those who had caused 
+this war; one can understand, then, how he would receive a 
+proposition to deliver an Abolitionist, thus bringing down 
+on him the Confederates, with whom he pretended to do 
+business. 
+</p><p>However, Crockston's insinuation did not fail to disturb 
+him; he cast the thought from him, but it returned unceasingly 
+to his mind, and when Miss Jenny came on deck 
+the next day for a few minutes, he dared not look her in 
+the face. 
+<pb n="509"/>  
+</p><p>And really it was a great pity, for this young girl, with 
+the fair hair and sweet, intelligent face, deserved to be 
+looked at by a young man of thirty.  But James felt embarrassed 
+in her presence; he felt that this charming creature 
+who had been educated in the school of misfortune 
+possessed a strong and generous soul; he understood that 
+his silence towards her inferred a refusal to acquiesce in 
+her dearest wishes; besides, Miss Jenny never looked out 
+for James Playfair, neither did she avoid him.  Thus for the 
+first few days they spoke little or not at all to each other. 
+Miss Halliburtt scarcely ever left her cabin, and it is certain 
+she would never have addressed herself to the Captain of 
+the <hi rend="italic">Dolphin</hi> if it had not been for Crockston's strategy, 
+which brought both parties together. 
+</p><p>The worthy American was a faithful servant of the 
+Halliburtt family; he had been brought up in his master's 
+house, and his devotion knew no bounds.  His good sense 
+equalled his courage and energy, and, as has been seen, he 
+had a way of looking things straight in the face.  He was 
+very seldom discouraged, and could generally find a way 
+out of the most intricate dangers with a wonderful skill. 
+</p><p>This honest fellow had taken it into his head to deliver 
+Mr. Halliburtt, to employ the Captain's ship, and the Captain 
+himself for this purpose, and to return with him to 
+England.  Such was his intention, so long as the young girl 
+had no other object than to rejoin her father and share his 
+captivity.  It was this Crockston tried to make the Captain 
+understand, as we have seen, but the enemy had not yet 
+surrendered; on the contrary. 
+</p><p>"Now," said he, "it is absolutely necessary that Miss 
+Jenny and the Captain come to an understanding; if they 
+are going to be sulky like this all the passage we shall get 
+nothing done.  They must speak, discuss; let them dispute 
+even, so long as they talk, and I'll be hanged if during their 
+conversation James Playfair does not propose himself what 
+he refused me to-day." 
+</p><p>But when Crockston saw that the young girl and the 
+young man avoided each other, he began to be perplexed. 
+</p><p>"We must look sharp," said he to himself, and the morning 
+<pb n="510"/>  
+of the fourth day he entered Miss Halliburtt's cabin, 
+rubbing his hands with an air of perfect satisfaction. 
+</p><p>"Good news!" cried he, "good news! You will never guess 
+what the Captain has proposed to me.  A very noble young 
+man he is.  Now try." 
+</p><p>"Ah!" replied Jenny, whose heart beat violently, "has he 
+proposed to &mdash; " 
+</p><p>"To deliver Mr. Halliburtt, to carry him off from the 
+Confederates, and bring him to England." 
+</p><p>"Is it true?" cried Jenny. 
+</p><p>"It is as I say, miss.  What a good-hearted man this 
+James Playfair is! These English are either all good or all 
+bad.  Ah! he may reckon on my gratitude, and I am ready 
+to cut myself in pieces if it would please him." 
+</p><p>Jenny's joy was profound on hearing Crockston's words. 
+Deliver her father! She had never dared to think of such a 
+plan, and the Captain of the <hi rend="italic">Dolphin</hi> was going to risk his 
+ship and crew! 
+</p><p>"That's what he is," added Crockston; "and this, Miss 
+Jenny, is well worth an acknowledgment from you." 
+</p><p>"More than an acknowledgment," cried the young girl; 
+"a lasting friendship!" 
+</p><p>And immediately she left the cabin to find James Playfair, 
+and express to him the sentiments which flowed from 
+her heart. 
+</p><p>"Getting on by degrees," muttered the American. 
+</p><p>James Playfair was pacing to and fro on the poop, and, 
+as may be thought, he was very much surprised, not to 
+say amazed, to see the young girl come up to him, her eyes 
+moist with grateful tears, and, holding out her hand to him, 
+saying: 
+</p><p>"Thank you, sir, thank you for your kindness, which 
+I should never have dared to expect from a stranger." 
+</p><p>"Miss," replied the Captain, as if he understood nothing 
+of what she was talking, and could not understand, "I do 
+not know &mdash; " 
+</p><p>"Nevertheless, sir, you are going to brave many dangers, 
+perhaps compromise your interests for me, and you have 
+<pb n="511"/>  
+done so much already in offering me on board an hospitality 
+to which I have no right whatever &mdash; " 
+</p><p>"Pardon me, Miss Jenny," interrupted James Playfair, 
+"but I protest again I do not understand your words.  I 
+have acted towards you as any well-bred man would towards 
+a lady, and my conduct deserves neither so many thanks 
+nor so much gratitude." 
+</p><p>"Mr.  Playfair," said Jenny, "it is useless to pretend any 
+longer; Crockston has told me all!" 
+</p><p>"Ah!" said the Captain, "Crockston has told you all; 
+then I understand less than ever the reason for your leaving 
+your cabin, and saying these words which &mdash; " 
+</p><p>Whilst speaking the Captain felt very much embarrassed; 
+he remembered the rough way in which he had received 
+the American's overtures, but Jenny, fortunately for him, 
+did not give him time for further explanation; she interrupted 
+him, holding out her hand and saying: 
+</p><p>"Mr.  James, I had no other object in coming on board 
+your ship except to go to Charleston, and there, however 
+cruel the slave-holders may be, they will not refuse to let 
+a poor girl share her father's prison; that was all.  I had 
+never thought of a return as possible; but, since you are so 
+generous as to wish for my father's deliverance, since you 
+will attempt everything to save him, be assured you have 
+my deepest gratitude." 
+</p><p>James did not know what to do or what part to assume; 
+he bit his lip; he dared not take the hand offered him; he 
+saw perfectly that Crockston had compromised him, so that 
+escape was impossible.  At the same time he had no thoughts 
+of delivering Mr. Halliburtt, and getting complicated in a 
+disagreeable business: but how dash to the ground the hope 
+which had arisen in this poor girl's heart? How refuse the 
+hand which she held out to him with a feeling of such profound 
+friendship? How change to tears of grief the tears of 
+gratitude which filled her eyes? 
+</p><p>So the young man tried to reply evasively, in a manner 
+which would ensure his liberty of action for the future. 
+</p><p>"Miss Jenny," said he, "rest assured I will do everything 
+in my power for &mdash; " 
+<pb n="512"/>  
+</p><p>And he took the little hand in both of his, but with the 
+gentle pressure he felt his heart melt and his head grow 
+confused: words to express his thoughts failed him.  He 
+stammered out some incoherent words: 
+</p><p>"Miss &mdash; Miss Jenny &mdash; for you &mdash; " 
+</p><p>Crockston, who was watching him, rubbed his hands, grinning 
+and repeating to himself: 
+</p><p>"It will come! it will come! it has come!" 
+</p><p>How James Playfair would have managed to extricate 
+himself from his embarrassing position no one knows, but 
+fortunately for him, if not for the <hi rend="italic">Dolphin</hi>, the man on 
+watch was heard crying: 
+</p><p>"Ahoy, officer of the watch!" 
+</p><p>"What now?" asked Mr. Mathew. 
+</p><p>"A sail to windward!" 
+</p><p>James Playfair, leaving the young girl, immediately 
+sprang to the shrouds of the mainmast. 
+</p></div1><div1 type="chapter" n="5" id="d9"> 
+<head>THE SHOT FROM THE "IROQUOIS," AND MISS JENNY'S 
+ARGUMENTS</head> 
+<p>UNTIL now the navigation of the <hi rend="italic">Dolphin</hi> had been very 
+fortunate.  Not one ship had been signalled before the sail 
+hailed by the man on watch. 
+</p><p>The <hi rend="italic">Dolphin</hi> was then in 32d 51' lat., and 57d 43' W. 
+long.  For forty-eight hours a fog, which now began to rise, 
+had covered the ocean.  If this mist favoured the <hi rend="italic">Dolphin</hi> by 
+hiding her course, it also prevented any observations at a 
+distance being made, and, without being aware of it, she 
+might be sailing side by side, so to speak, with the ships she 
+wished most to avoid. 
+</p><p>Now this is just what had happened, and when the ship 
+was signalled she was only three miles to windward. 
+</p><p>When James Playfair had reached the cross-trees, he saw 
+distinctly, through an opening in the mist, a large Federal 
+corvette in full pursuit of the <hi rend="italic">Dolphin</hi>. 
+<pb n="513"/>  
+</p><p>After having carefully examined her, the Captain came 
+down on deck again, and called to the first officer. 
+</p><p>"Mr.  Mathew," said he, "what do you think of this ship?" 
+</p><p>"I think, Captain, that it is a Federal cruiser, which suspects 
+our intentions." 
+</p><p>"There is no possible doubt of her nationality," said 
+James Playfair.  "Look!" 
+</p><p>At this moment the starry flag of the North United States 
+appeared on the gaff-yards of the corvette, and the latter 
+asserted her colours with a cannon-shot. 
+</p><p>"An invitation to show ours," said Mr. Mathew.  "Well, 
+let us show them; there is nothing to be ashamed of." 
+</p><p>"What's the good?" replied James Playfair.  "Our flag 
+will hardly protect us, and it will not hinder those people 
+from paying us a visit.  No; let us go ahead." 
+</p><p>"And go quickly," replied Mr. Mathew, "for, if my eyes 
+do not deceive me, I have already seen that corvette lying 
+off Liverpool, where she went to watch the ships in building: 
+my name is not Mathew, if that is not the <hi rend="italic">Iroquois</hi> on her 
+taffrail." 
+</p><p>"And is she fast?" 
+</p><p>"One of the fastest vessels of the Federal marine." 
+</p><p>"What guns does she carry?" 
+</p><p>"Eight." 
+</p><p>"Pooh!" 
+</p><p>"Oh, don't shrug your shoulders, Captain," said Mr. 
+Mathew, in a serious tone; "two out of those eight guns are 
+rifled, one is a sixty-pounder on the forecastle, and the other 
+a hundred-pounder on deck." 
+</p><p>"Upon my soul!" exclaimed James Playfair, "they are 
+Parrott's, and will carry three miles." 
+</p><p>"Yes, and farther than that, Captain." 
+</p><p>"Ah, well! Mr. Mathew, let their guns be sixty or only 
+four-pounders, and let them carry three miles or five hundred 
+yards, it is all the same if we can go fast enough to 
+avoid their shot.  We will show this <hi rend="italic">Iroquois</hi> how a ship can 
+go when she is built on purpose to go.  Have the fires drawn 
+forward, Mr. Mathew." 
+</p><p>The first officer gave the Captain's orders to the engineer, 
+<pb n="514"/>  
+and soon volumes of black smoke curled from the steamer's 
+chimneys. 
+</p><p>This proceeding did not seem to please the corvette, for 
+she made the <hi rend="italic">Dolphin</hi> the signal to lie to, but James Playfair 
+paid no attention to this warning, and did not change his 
+ship's course. 
+</p><p>"Now," said he, "we shall see what the <hi rend="italic">Iroquois</hi> will do; 
+here is a fine opportunity for her to try her guns.  Go ahead 
+full speed!" 
+</p><p>"Good!" exclaimed Mr. Mathew; "she will not be long 
+in saluting us." 
+</p><p>Returning to the poop, the Captain saw Miss Halliburtt 
+sitting quietly near the bulwarks. 
+</p><p>"Miss Jenny," said he, "we shall probably be chased by 
+that corvette you see to windward, and as she will speak 
+to us with shot, I beg to offer you my arm to take you to 
+your cabin again." 
+</p><p>"Thank you, very much, Mr. Playfair," replied the young 
+girl, looking at him, "but I am not afraid of cannon-shots." 
+</p><p>"However, miss, in spite of the distance, there may be 
+some danger." 
+</p><p>"Oh, I was not brought up to be fearful; they accustom 
+us to everything in America, and I assure you that the shot 
+from the <hi rend="italic">Iroquois</hi> will not make me lower my head." 
+</p><p>"You are brave, Miss Jenny." 
+</p><p>"Let us admit, then, that I am brave, and allow me to 
+stay by you." 
+</p><p>"I can refuse you nothing, Miss Halliburtt," replied the 
+Captain, looking at the young girl's calm face. 
+</p><p>These words were hardly uttered when they saw a line 
+of white smoke issue from the bulwarks of the corvette; before 
+the report had reached the <hi rend="italic">Dolphin</hi> a projectile whizzed 
+through the air in the direction of the steamer. 
+</p><p>At about twenty fathoms from the <hi rend="italic">Dolphin</hi> the shot, the 
+speed of which had sensibly lessened, skimmed over the 
+surface of the waves, marking its passage by a series of 
+water-jets; then, with another burst, it rebounded to a 
+certain height, passed over the <hi rend="italic">Dolphin</hi>, grazing the mizzen-<pb n="515"/>  
+yards on the starboard side, fell at thirty fathoms beyond, 
+and was buried in the waves. 
+</p><p>"By Jove!" exclaimed James Playfair, "we must get 
+along; another slap like that is not to be waited for." 
+</p><p>"Oh!" exclaimed Mr. Mathew, "they will take some time 
+to reload such pieces." 
+</p><p>"Upon my honour, it is an interesting sight," said Crockston, 
+who, with arms crossed, stood perfectly at his ease looking 
+at the scene. 
+</p><p>"Ah! that's you," cried James Playfair, scanning the 
+American from head to foot. 
+</p><p>"It is me, Captain," replied the American, undisturbed. 
+"I have come to see how these brave Federals fire; not badly, 
+in truth, not badly." 
+</p><p>The Captain was going to answer Crockston sharply, but 
+at this moment a second shot struck the sea on the starboard 
+side. 
+</p><p>"Good!" cried James Playfair, "we have already gained 
+two cables on this <hi rend="italic">Iroquois</hi>.  Your friends sail like a buoy; 
+do you hear, Master Crockston?" 
+</p><p>"I will not say they don't," replied the American, "and 
+for the first time in my life it does not fail to please me." 
+</p><p>A third shot fell still farther astern, and in less than ten 
+minutes the <hi rend="italic">Dolphin</hi> was out of range of the corvette's guns. 
+</p><p>"So much for patent-logs, Mr. Mathew," said James 
+Playfair; "thanks to those shot we know how to rate our 
+speed.  Now have the fires lowered; it is not worth while to 
+waste our coal uselessly." 
+</p><p>"It is a good ship that you command," said Miss Halliburtt 
+to the young Captain. 
+</p><p>"Yes, Miss Jenny, my good <hi rend="italic">Dolphin</hi> makes her seventeen 
+knots, and before the day is over we shall have lost sight of 
+that corvette." 
+</p><p>James Playfair did not exaggerate the sailing qualities 
+of his ship, and the sun had not set before the masts of the 
+American ship had disappeared below the horizon. 
+</p><p>This incident allowed the Captain to see Miss Halliburtt's 
+character in a new light; besides, the ice was broken, 
+henceforward, during the whole of the voyage; the interviews 
+<pb n="516"/>  
+between the Captain and his passenger were frequent 
+and prolonged; be found her to be a young girl, calm, strong, 
+thoughtful, and intelligent, speaking with great ease, having 
+her own ideas about everything, and expressing her thoughts 
+with a conviction which unconsciously penetrated James 
+Playfair's heart. 
+</p><p>She loved her country, she was zealous in the great cause 
+of the Union, and expressed herself on the civil war in the 
+United States with an enthusiasm of which no other woman 
+would have been capable.  Thus it happened, more than once, 
+that James Playfair found it difficult to answer her, even 
+when questions purely mercantile arose in connection with 
+the war: Miss Jenny attacked them none the less vigorously, 
+and would come to no other terms whatever.  At first James 
+argued a great deal, and tried to uphold the Confederates 
+against the Federals, to prove that the Secessionists were 
+in the right, and that if the people were united voluntarily 
+they might separate in the same manner.  But the young girl 
+would not yield on this point; she demonstrated that the 
+question of slavery was predominant in the struggle between 
+the North and South Americans, that it was far more a 
+war in the cause of morals and humanity than politics, and 
+James could make no answer.  Besides, during these discussions, 
+which he listened to attentively, it is difficult to say 
+whether he was more touched by Miss Halliburtt's arguments 
+or the charming manner in which she spoke; but at 
+last he was obliged to acknowledge, among other things, that 
+slavery was the principal feature in the war, that it must 
+be put an end to decisively, and the last horrors of barbarous 
+times abolished. 
+</p><p>It has been said that the political opinions of the Captain 
+did not trouble him much.  He would have sacrificed his 
+most serious opinion before such enticing arguments and 
+under like circumstances; he made a good bargain of his 
+ideas for the same reason, but at last he was attacked in his 
+tenderest point; this was the question of the traffic in which 
+the <hi rend="italic">Dolphin</hi> was being employed, and, consequently, the 
+ammunition which was being carried to the Confederates. 
+</p><p>"Yes, Mr. James," said Miss Halliburtt, "gratitude does 
+<pb n="517"/>  
+not hinder me from speaking with perfect frankness; on the 
+contrary, you are a brave seaman, a clever merchant, the 
+house of Playfair is noted for its respectability; but in this 
+case it fails in its principles, and follows a trade unworthy 
+of it." 
+</p><p>"How!" cried James, "the house of Playfair ought not to 
+attempt such a commercial enterprise?" 
+</p><p>"No! it is taking ammunition to the unhappy creatures 
+in revolt against the government of their country, and it is 
+lending arms to a bad cause." 
+</p><p>"Upon my honour, Miss Jenny, I will not discuss the 
+right of the Confederates with you; I will only answer you 
+with one word: I am a merchant, and as such I only occupy 
+myself with the interests of my house; I look for gain 
+wherever there is an opportunity of getting it." 
+</p><p>"That is precisely what is to be blamed, Mr. James," 
+replied the young girl; "profit does not excuse it; thus, 
+when you supply arms to the Southerners, with which to 
+continue a criminal war, you are quite as guilty as when 
+you sell opium to the Chinese, which stupefies them." 
+</p><p>"Oh, for once, Miss Jenny, this is too much, and I cannot 
+admit &mdash; " 
+</p><p>"No; what I say is just, and when you consider it, when 
+you understand the part you are playing, when you think 
+of the results for which you are responsible, you will yield 
+to me in this point, as in so many others." 
+</p><p>James Playfair was dumfounded at these words; he left 
+the young girl, a prey to angry thoughts, for he felt his 
+powerlessness to answer; then he sulked like a child for half 
+an hour, and an hour later he returned to the singular young 
+girl who could overwhelm him with convincing arguments 
+with quite a pleasant smile. 
+</p><p>In short, however it may have come about, and although 
+he would not acknowledge it to himself, Captain James 
+Playfair belonged to himself no longer; he was no longer 
+commander-in-chief on board his own ship. 
+</p><p>Thus, to Crockston's great joy, Mr. Halliburtt's affairs 
+appeared to be in a good way; the Captain seemed to have 
+decided to undertake everything in his power to deliver 
+<pb n="518"/>  
+Miss Jenny's father, and for this he would be obliged to 
+compromise the <hi rend="italic">Dolphin</hi>, his cargo, his crew, and incur the 
+displeasure of his worthy Uncle Vincent. 
+</p></div1><div1 type="chapter" n="6" id="d10"> 
+<head>SULLIVAN ISLAND CHANNEL</head> 
+<p>Two days after the meeting with the <hi rend="italic">Iroquois</hi>, the <hi rend="italic">Dolphin</hi> 
+found herself abreast of the Bermudas, where she was 
+assailed by a violent squall.  These isles are frequently visited 
+by hurricanes, and are celebrated for shipwrecks.  It is here 
+that Shakespeare has placed the exciting scene of his drama, 
+<hi rend="italic">The Tempest</hi>, in which Ariel and Caliban dispute for the 
+empire of the floods. 
+</p><p>The squall was frightful; James Playfair thought once 
+of running for one of the Bermudas, where the English had 
+a military post: it would have been a sad waste of time, 
+and therefore especially to be regretted; happily the <hi rend="italic">Dolphin</hi> 
+behaved herself wonderfully well in the storm, and, 
+after flying a whole day before the tempest, she was able to 
+resume her course towards the American coast. 
+</p><p>But if James Playfair had been pleased with his ship, he 
+had not been less delighted with the young girl's bravery; 
+Miss Halliburtt had passed the worst hours of the storm at 
+his side, and James knew that a profound, imperious, irresistible 
+love had taken possession of his whole being. 
+</p><p>"Yes," said he, "this brave girl is mistress on board; 
+she turns me like the sea a ship in distress &mdash; I feel that I am 
+foundering! What will Uncle Vincent say? Ah! poor 
+nature, I am sure that if Jenny asked me to throw all this 
+cursed cargo into the sea, I should do it without hesitating, 
+for love of her." 
+</p><p>Happily for the firm of Playfair &amp; Co., Miss Halliburtt 
+did not demand this sacrifice; nevertheless, the poor Captain 
+had been taken captive, and Crockston, who read his 
+heart like an open book, rubbed his hands gleefully. 
+<pb n="519"/>  
+</p><p>"We will hold him fast!" he muttered to himself, "and 
+before a week has passed my master will be quietly installed 
+in one of the best cabins of the <hi rend="italic">Dolphin</hi>." 
+</p><p>As for Miss Jenny, did she perceive the feelings which she 
+inspired? Did she allow herself to share them? No one 
+could say, and James Playfair least of all; the young girl 
+kept a perfect reserve, and her secret remained deeply 
+buried in her heart. 
+</p><p>But whilst love was making such progress in the heart of 
+the young Captain, the <hi rend="italic">Dolphin</hi> sped with no less rapidity 
+towards Charleston. 
+</p><p>On the 13th of January, the watch signalled land ten 
+miles to the west.  It was a low-lying coast, and almost 
+blended with the line of the sea in the distance.  Crockston 
+was examining the horizon attentively, and about nine 
+o'clock in the morning he cried: 
+</p><p>"Charleston lighthouse!" 
+</p><p>Now that the bearings of the <hi rend="italic">Dolphin</hi> were set, James 
+Playfair had but one thing to do, to decide by which channel 
+he would run into Charleston Bay. 
+</p><p>"If we meet with no obstacles," said he, "before three 
+o'clock we shall be in safety in the docks of the port." 
+</p><p>The town of Charleston is situated on the banks of an 
+estuary seven miles long and two broad, called Charleston 
+Harbour, the entrance to which is rather difficult.  It is enclosed 
+between Morris Island on the south and Sullivan 
+Island on the north.  At the time when the <hi rend="italic">Dolphin</hi> attempted 
+to force the blockade Morris Island already belonged to 
+the Federal troops, and General Gillmore had caused batteries 
+to be erected overlooking the harbour.  Sullivan Island, 
+on the contrary, was in the hands of the Confederates, who 
+were also in possession of Moultrie Fort, situated at the 
+extremity of the island; therefore it would be advantageous 
+to the <hi rend="italic">Dolphin</hi> to go as close as possible to the northern 
+shores to avoid the firing from the forts on Morris Island. 
+</p><p>Five channels led into the estuary, Sullivan Island Channel, 
+the Northern Channel, the Overall Channel, the Principal 
+Channel, and lastly, the Lawford Channel; but it was 
+<pb n="520"/>  
+useless for strangers, unless they had skilful pilots on board, 
+or ships drawing less than seven feet of water, to attempt 
+this last; as for Northern and Overall Channels, they were 
+in range of the Federalist batteries, so that it was no good 
+thinking of them.  If James Playfair could have had his 
+choice, he would have taken his steamer through the Principal 
+Channel, which was the best, and the bearings of which 
+were easy to follow; but it was necessary to yield to circumstances, 
+and to decide according to the event.  Besides, 
+the Captain of the <hi rend="italic">Dolphin</hi> knew perfectly all the secrets 
+of this bay, its dangers, the depths of its water at low tide, 
+and its currents, so that he was able to steer his ship with the 
+greatest safety as soon as he entered one of these narrow 
+straits.  The great question was to get there. 
+</p><p>Now this work demanded an experienced seaman, and 
+one who knew exactly the qualities of the <hi rend="italic">Dolphin</hi>. 
+</p><p>In fact, two Federal frigates were now cruising in the 
+Charleston waters.  Mr. Mathew soon drew James Playfair's 
+attention to them. 
+</p><p>"They are preparing to ask us what we want on these 
+shores," said he. 
+</p><p>"Ah, well! we won't answer them," replied the Captain, 
+"and they will not get their curiosity satisfied." 
+</p><p>In the meanwhile the cruisers were coming on full steam 
+towards the <hi rend="italic">Dolphin</hi>, who continued her course, taking care 
+to keep out of range of their guns.  But in order to gain time 
+James Playfair made for the south-west, wishing to put the 
+enemies' ships off their guard; the latter must have thought 
+that the <hi rend="italic">Dolphin</hi> intended to make for Morris Island Channel. 
+Now there they had batteries and guns, a single shot 
+from which would have been enough to sink the English 
+ship; so the Federals allowed the <hi rend="italic">Dolphin</hi> to run towards the 
+south-west, contenting themselves by observing her without 
+following closely. 
+</p><p>Thus for an hour the respective situations of the ships did 
+not change, for James Playfair, wishing to deceive the cruisers 
+as to the course of the <hi rend="italic">Dolphin</hi>, had caused the fires 
+to be moderated, so that the speed was decreased.  However, 
+<pb n="521"/>  
+from the thick volumes of smoke which escaped from 
+the chimneys, it might have been thought that he was trying 
+to get his maximum pressure, and, consequently his maximum 
+of rapidity. 
+</p><p>"They will be slightly astonished presently," said James 
+Playfair, "when they see us slip through their fingers!" 
+</p><p>In fact, when the Captain saw that he was near enough 
+to Morris Island, and before a line of guns, the range of 
+which he did not know, he turned his rudder quickly, and 
+the ship resumed her northerly course, leaving the cruisers 
+two miles to windward of her; the latter, seeing this 
+manoeuvre, understood the steamer's object, and began to 
+pursue her in earnest, but it was too late.  The <hi rend="italic">Dolphin</hi> 
+doubled her speed under the action of the screws, and 
+distanced them rapidly.  Going nearer to the coast, a few 
+shell were sent after her as an acquittal of conscience, but 
+the Federals were outdone, for their projectiles did not 
+reach half-way.  At eleven o'clock in the morning, the 
+steamer ranging near Sullivan Island, thanks to her small 
+draft, entered the narrow strait full steam; there she was in 
+safety, for no Federalist cruiser dared follow her in this 
+channel, the depth of which, on an average, was only eleven 
+feet at low tide. 
+</p><p>"How!" cried Crockston, "and is that the only difficulty?" 
+</p><p>"Oh! oh! Master Crockston," said James Playfair, "the 
+difficulty is not in entering, but in getting out again." 
+</p><p>"Nonsense!" replied the American, "that does not make 
+me at all uneasy; with a boat like the <hi rend="italic">Dolphin</hi> and a Captain 
+like Mr. James Playfair, one can go where one likes, 
+and come out in the same manner." 
+</p><p>Nevertheless, James Playfair, with telescope in his hand, 
+was attentively examining the route to be followed.  He had 
+before him excellent coasting guides, with which he could 
+go ahead without any difficulty or hesitation. 
+</p><p>Once his ship was safely in the narrow channel which 
+runs the length of Sullivan Island, James steered bearing 
+towards the middle of Fort Moultrie as far as the Pickney 
+Castle, situated on the isolated island of Shute's Folly; 
+<pb n="522"/>  
+on the other side rose Fort Johnson, a little way to the north 
+of Fort Sumter. 
+</p><p>At this moment the steamer was saluted by some shot 
+which did not reach her, from the batteries on Morris 
+Island.  She continued her course without any deviation, 
+passed before Moultrieville, situated at the extremity of 
+Sullivan Island, and entered the bay. 
+</p><p>Soon Fort Sumter on the left protected her from the batteries 
+of the Federalists. 
+</p><p>This fort, so celebrated in the civil war, is situated three 
+miles and a half from Charleston, and about a mile from 
+each side of the bay: it is nearly pentagonal in form, built 
+on an artificial island of Massachusetts granite; it took ten 
+years to construct and cost more than 900,000 dollars. 
+</p><p>It was from this fort, on the 13th of April, 1861, that 
+Anderson and the Federal troops were driven, and it was 
+against it that the first shot of the Confederates was fired. 
+It is impossible to estimate the quantity of iron and lead 
+which the Federals showered down upon it.  However, it 
+resisted for almost three years, but a few months after the 
+passage of the <hi rend="italic">Dolphin</hi> it fell beneath General Gillmore's 
+three hundred-pounders on Morris Island. 
+</p><p>But at this time it was in all its strength, and the Confederate 
+flag floated proudly above it. 
+</p><p>Once past the fort, the town of Charleston appeared, 
+lying between Ashley and Cooper Rivers. 
+</p><p>James Playfair threaded his way through the buoys which 
+mark the entrance of the channel, leaving behind the 
+Charleston lighthouse, visible above Morris Island.  He had 
+hoisted the English flag, and made his way with wonderful 
+rapidity through the narrow channels.  When he had passed 
+the quarantine buoy, he advanced freely into the centre of 
+the bay.  Miss Halliburtt was standing on the poop, looking 
+at the town where her father was kept prisoner, and her 
+eyes filled with tears. 
+</p><p>At last the steamer's speed was moderated by the Captain's 
+orders; the <hi rend="italic">Dolphin</hi> ranged along the end of the 
+south and east batteries, and was soon moored at the quay 
+of the North Commercial Wharf. 
+<pb n="523"/>  
+</p></div1><div1 type="chapter" n="7" id="d11"> 
+<head>A SOUTHERN GENERAL</head> 
+<p>THE <hi rend="italic">Dolphin</hi>, on arriving at the Charleston quay, had 
+been saluted by the cheers of a large crowd.  The inhabitants 
+of this town, strictly blockaded by sea, were not accustomed 
+to visits from European ships.  They asked each other, not 
+without astonishment, what this great steamer, proudly bearing 
+the English flag, had come to do in their waters; but 
+when they learned the object of her voyage, and why she 
+had just forced the passage Sullivan, when the report spread 
+that she carried a cargo of smuggled ammunition, the 
+cheers and joyful cries were redoubled. 
+</p><p>James Playfair, without losing a moment, entered into 
+negotiation with General Beauregard, the military commander 
+of the town.  The latter eagerly received the young 
+Captain of the <hi rend="italic">Dolphin</hi>, who had arrived in time to provide 
+the soldiers with the clothes and ammunition they were so 
+much in want of.  It was agreed that the unloading of the 
+ship should take place immediately, and numerous hands 
+came to help the English sailors. 
+</p><p>Before quitting his ship James Playfair had received from 
+Miss Halliburtt the most pressing injunctions with regard 
+to her father, and the Captain had placed himself entirely 
+at the young girl's service. 
+</p><p>"Miss Jenny," he had said, "you may rely on me; I will 
+do the utmost in my power to save your father, but I hope 
+this business will not present many difficulties.  I shall go 
+and see General Beauregard to-day, and, without asking 
+him at once for Mr. Halliburtt's liberty, I shall learn in 
+what situation he is, whether he is on bail or a prisoner." 
+</p><p>"My poor father!" replied Jenny, sighing; "he little 
+thinks his daughter is so near him.  Oh that I could fly into 
+his arms!" 
+</p><p>"A little patience, Miss Jenny; you will soon embrace 
+your father.  Rely upon my acting with the most entire devotion, 
+but also with prudence and consideration." 
+</p><p>This is why James Playfair, after having delivered the 
+<pb n="524"/>  
+cargo of the <hi rend="italic">Dolphin</hi> up to the General, and bargained for 
+an immense stock of cotton, faithful to his promise, turned 
+the conversation to the events of the day. 
+</p><p>"So," said he, "you believe in the triumph of the slave-holders?" 
+</p><p>"I do not for a moment doubt of our final success, and, 
+as regards Charleston, Lee's army will soon relieve it: besides, 
+what do you expect from the Abolitionists? Admitting 
+that which will never be, that the commercial towns of Virginia, 
+the two Carolinas, Georgia, Alabama, fall under their 
+power, what then? Will they be masters of a country they 
+can never occupy? No, certainly not; and for my part, if 
+they are ever victorious, they shall pay dearly for it." 
+</p><p>"And you are quite sure of your soldiers?" asked the 
+Captain.  "You are not afraid that Charleston will grow 
+weary of a siege which is ruining her?" 
+</p><p>"No, I do not fear treason; besides, the traitors would 
+be punished remorselessly, and I would destroy the town itself 
+by sword or fire if I discovered the least Unionist movement. 
+Jefferson Davis confided Charleston to me, and you 
+may be sure that Charleston is in safe hands." 
+</p><p>"Have you any Federal prisoners?" asked James Playfair, 
+coming to the interesting object of the conversation. 
+</p><p>"Yes, Captain," replied the General, "it was at Charleston 
+that the first shot of separation was fired.  The Abolitionists 
+who were here attempted to resist, and, after being 
+defeated, they have been kept as prisoners of war." 
+</p><p>"And have you many?" 
+</p><p>"About a hundred." 
+</p><p>"Free in the town?" 
+</p><p>"They were until I discovered a plot formed by them: 
+their chief succeeded in establishing a communication with 
+the besiegers, who were thus informed of the situation of 
+affairs in the town.  I was then obliged to lock up these 
+dangerous guests, and several of them will only leave their 
+prison to ascend the slope of the citadel, where ten confederate 
+balls will reward them for their federalism." 
+</p><p>"What! to be shot!" cried the young man, shuddering 
+involuntarily. 
+<pb n="525"/>  
+</p><p>"Yes, and their chief first of all.  He is a very dangerous 
+man to have in a besieged town.  I have sent his letters to 
+the President at Richmond, and before a week is passed his 
+sentence will be irrevocably passed." 
+</p><p>"Who is this man you speak of?" asked James Playfair, 
+with an assumed carelessness. 
+</p><p>"A journalist from Boston, a violent Abolitionist with 
+the confounded spirit of Lincoln." 
+</p><p>"And his name?" 
+</p><p>"Jonathan Halliburtt." 
+</p><p>"Poor wretch!" exclaimed James, suppressing his emotion. 
+"Whatever he may have done, one cannot help pitying 
+him.  And you think that he will be shot?" 
+</p><p>"I am sure of it," replied Beauregard.  "What can you 
+expect? War is war; one must defend oneself as best one 
+can." 
+</p><p>"Well, it is nothing to me," said the Captain.  "I shall 
+be far enough away when this execution takes place." 
+</p><p>"What! you are thinking of going away already." 
+</p><p>"Yes, General, business must be attended to; as soon as 
+my cargo of cotton is on board I shall be out to sea again. 
+I was fortunate enough to enter the bay, but the difficulty 
+is in getting out again.  The <hi rend="italic">Dolphin</hi> is a good ship; she 
+can beat any of the Federal vessels for speed, but she does 
+not pretend to distance cannon-balls, and a shell in her hull 
+or engine would seriously affect my enterprise." 
+</p><p>"As you please, Captain," replied Beauregard; "I have 
+no advice to give you under such circumstances.  You are 
+doing your business, and you are right.  I should act in the 
+same manner were I in your place; besides, a stay at Charleston 
+is not very pleasant, and a harbour where shells are 
+falling three days out of four is not a safe shelter for your 
+ship; so you will set sail when you please; but can you tell 
+me what is the number and the force of the Federal vessels 
+cruising before Charleston?" 
+</p><p>James Playfair did his best to answer the General, and 
+took leave of him on the best of terms; then he returned 
+to the <hi rend="italic">Dolphin</hi> very thoughtful and very depressed from 
+what he had just heard. 
+<pb n="526"/>  
+</p><p>"What shall I say to Miss Jenny? Ought I to tell her of 
+Mr. Halliburtt's terrible situation? Or would it be better 
+to keep her in ignorance of the trial which is awaiting her? 
+Poor child!" 
+</p><p>He had not gone fifty steps from the governor's house 
+when he ran against Crockston.  The worthy American had 
+been watching for him since his departure. 
+</p><p>"Well, Captain?" 
+</p><p>James Playfair looked steadily at Crockston, and the latter 
+soon understood he had no favourable news to give him. 
+</p><p>"Have you seen Beauregard?" he asked. 
+</p><p>"Yes," replied James Playfair. 
+</p><p>"And have you spoken to him about Mr. Halliburtt?" 
+</p><p>"No, it was he who spoke to me about him." 
+</p><p>"Well, Captain?" 
+</p><p>"Well, I may as well tell you everything, Crockston." 
+</p><p>"Everything, Captain." 
+</p><p>"General Beauregard has told me that your master will 
+be shot within a week." 
+</p><p>At this news anyone else but Crockston would have grown 
+furious or given way to bursts of grief, but the American, 
+who feared nothing, only said, with almost a smile on his 
+lips: 
+</p><p>"Pooh! what does it matter?" 
+</p><p>"How! what does it matter?" cried James Playfair.  "I 
+tell you that Mr. Halliburtt will be shot within a week, and 
+you answer, what does it matter?" 
+</p><p>"And I mean it &mdash; if in six days he is on board the <hi rend="italic">Dolphin</hi>, 
+and if in seven days the <hi rend="italic">Dolphin</hi> is on the open sea." 
+</p><p>"Right!" exclaimed the Captain, pressing Crockston's 
+hand.  "I understand, my good fellow, you have got some 
+pluck; and for myself, in spite of Uncle Vincent, I would 
+throw myself overboard for Miss Jenny." 
+</p><p>"No one need be thrown overboard," replied the American, 
+"only the fish would gain by that: the most important business 
+now is to deliver Mr. Halliburtt." 
+</p><p>"But you must know that it will be difficult to do so." 
+</p><p>"Pooh!" exclaimed Crockston. 
+<pb n="527"/>  
+</p><p>"It is a question of communicating with a prisoner strictly 
+guarded." 
+</p><p>"Certainly." 
+</p><p>"And to bring about an almost miraculous escape." 
+</p><p>"Nonsense," exclaimed Crockston; "a prisoner thinks 
+more of escaping than his guardian thinks of keeping him; 
+that's why, thanks to our help, Mr. Halliburtt will be saved." 
+</p><p>"You are right, Crockston." 
+</p><p>"Always right." 
+</p><p>"But now what will you do? There must be some plan: 
+and there are precautions to be taken." 
+</p><p>"I will think about it." 
+</p><p>"But when Miss Jenny learns that her father is condemned 
+to death, and that the order for his execution may 
+come any day &mdash; " 
+</p><p>"She will know nothing about it, that is all." 
+</p><p>"Yes, it will be better for her and for us to tell her 
+nothing." 
+</p><p>"Where is Mr. Halliburtt imprisoned?" asked Crockston. 
+</p><p>"In the citadel," replied James Playfair. 
+</p><p>"Just so! . . . On board now?" 
+</p><p>"On board, Crockston!" 
+</p></div1><div1 type="chapter" n="8" id="d12"> 
+<head>THE ESCAPE</head> 
+<p>Miss JENNY, sitting at the poop of the <hi rend="italic">Dolphin</hi>, was 
+anxiously waiting the Captain's return; when the latter went 
+up to her she could not utter a word, but her eyes questioned 
+James Playfair more eagerly than her lips could have done. 
+The latter, with Crockston's help, informed the young girl 
+of the facts relating to her father's imprisonment.  He said 
+that he had carefully broached the subject of the prisoners 
+of war to Beauregard, but, as the General did not seem 
+disposed at all in their favour, he had thought it better to 
+say no more about it, but think the matter over again. 
+</p><p>"Since Mr. Halliburtt is not free in the town, his escape 
+<pb n="528"/>  
+will be more difficult; but I will finish my task, and I 
+promise you, Miss Jenny, that the <hi rend="italic">Dolphin</hi> shall not leave 
+Charleston without having your father on board." 
+</p><p>"Thank you, Mr. James; I thank you with my whole 
+heart." 
+</p><p>At these words James Playfair felt a thrill of joy through 
+his whole being. 
+</p><p>He approached the young girl with moist eyes and quivering 
+lips; perhaps he was going to make an avowal of the 
+sentiments he could no longer repress, when Crockston interfered: 
+</p><p>"This is no time for grieving," said he; "we must go to 
+work, and consider what to do." 
+</p><p>"Have you any plan, Crockston?" asked the young girl. 
+</p><p>"I always have a plan," replied the American: "it is my 
+peculiarity." 
+</p><p>"But a good one?" said James Playfair. 
+</p><p>"Excellent! and all the ministers in Washington could 
+not devise a better; it is almost as good as if Mr. Halliburtt 
+was already on board." 
+</p><p>Crockston spoke with such perfect assurance, at the same 
+time with such simplicity, that it must have been the most 
+incredulous person who could doubt his words. 
+</p><p>"We are listening, Crockston," said James Playfair. 
+</p><p>"Good! You, Captain, will go to General Beauregard, and 
+ask a favour of him which he will not refuse you." 
+</p><p>"And what is that?" 
+</p><p>"You will tell him that you have on board a tiresome 
+subject, a scamp who has been very troublesome during the 
+voyage, and excited the crew to revolt.  You will ask of him 
+permission to shut him up in the citadel; at the same time, 
+on the condition that he shall return to the ship on her departure, 
+in order to be taken back to England, to be delivered 
+over to the justice of his country." 
+</p><p>"Good!" said James Playfair, half smiling, "I will do 
+all that, and Beauregard will grant my request very 
+willingly." 
+</p><p>"I am perfectly sure of it," replied the American. 
+</p><p>"But," resumed Playfair, "one thing is wanting." 
+<pb n="529"/>  
+</p><p>"What is that?" 
+</p><p>"The scamp." 
+</p><p>"He is before you, Captain." 
+</p><p>"What, the rebellious subject?" 
+</p><p>"Is myself; don't trouble yourself about that." 
+</p><p>"Oh! you brave, generous heart," cried Jenny, pressing 
+the American's rough hands between her small white palms. 
+</p><p>"Go, Crockston," said James Playfair; "I understand 
+you, my friend; and I only regret one thing &mdash; that is, that 
+I cannot take your place." 
+</p><p>"Everyone his part," replied Crockston; "if you put 
+yourself in my place you would be very much embarrassed, 
+which I shall not be; you will have enough to do later on 
+to get out of the harbour under the fire of the Feds and 
+Rebs, which, for my part, I should manage very badly." 
+</p><p>"Well, Crockston, go on." 
+</p><p>"Once in the citadel &mdash; I know it &mdash; I shall see what to do, 
+and rest assured I shall do my best; in the meanwhile, you 
+will be getting your cargo on board." 
+</p><p>"Oh, business is now a very unimportant detail," said the 
+Captain. 
+</p><p>"Not at all! And what would your Uncle Vincent say to 
+that? We must join sentiment with work; it will prevent suspicion; 
+but do it quickly.  Can you be ready in six days?" 
+</p><p>"Yes." 
+</p><p>"Well, let the <hi rend="italic">Dolphin</hi> be ready to start on the 22nd." 
+</p><p>"She shall be ready." 
+</p><p>"On the evening of the 22nd of January, you understand, 
+send a gig with your best men to White Point, at the end 
+of the town; wait there till nine o'clock, and then you will 
+see Mr. Halliburtt and your servant." 
+</p><p>"But how will you manage to effect Mr. Halliburtt's 
+deliverance, and also escape yourself?" 
+</p><p>"That's my look-out." 
+</p><p>"Dear Crockston, you are going to risk your life then, 
+to save my father!" 
+</p><p>"Don't be uneasy, Miss Jenny, I shall risk absolutely 
+nothing, you may believe me." 
+<pb n="530"/>  
+</p><p>"Well," asked James Playfair, "when must I have you 
+locked up?" 
+</p><p>"To-day &mdash; you understand &mdash; I demoralise your crew; 
+there is no time to be lost." 
+</p><p>"Would you like any money? It may be of use to you 
+in the citadel." 
+</p><p>"Money to buy the gaoler! Oh, no, it would be a poor 
+bargain; when one goes there the gaoler keeps the money 
+and the prisoner! No, I have surer means than that; however, 
+a few dollars may be useful; one must be able to drink, 
+if needs be." 
+</p><p>"And intoxicate the gaoler." 
+</p><p>"No, an intoxicated gaoler would spoil everything.  No, 
+I tell you I have an idea; let me work it out." 
+</p><p>"Here, my good fellow, are ten dollars." 
+</p><p>"It is too much, but I will return what is over." 
+</p><p>"Well, then, are you ready?" 
+</p><p>"Quite ready to be a downright rogue." 
+</p><p>"Let us go to work, then." 
+</p><p>"Crockston," said the young girl, in a faltering voice, 
+"you are the best man on earth." 
+</p><p>"I know it," replied the American, laughing good-humouredly.  "By the by, Captain, an important item." 
+</p><p>"What is that?" 
+</p><p>"If the General proposes to hang your rebel &mdash; you know 
+that military men like sharp work &mdash; " 
+</p><p>"Well, Crockston?" 
+</p><p>"Well, you will say that you must think about it." 
+</p><p>"I promise you I will." 
+</p><p>The same day, to the great astonishment of the crew, who 
+were not in the secret, Crockston, with his feet and hands 
+in irons, was taken on shore by a dozen sailors, and half 
+an hour after, by Captain James Playfair's request, he was 
+led through the streets of the town, and, in spite of his 
+resistance, was imprisoned in the citadel. 
+</p><p>During this and the following days the unloading of the 
+<hi rend="italic">Dolphin</hi> was rapidly accomplished; the steam cranes lifted 
+out the European cargo to make room for the native goods. 
+The people of Charleston, who were present at this interesting 
+<pb n="531"/>  
+work, helped the sailors, whom they held in great 
+respect, but the Captain did not leave the brave fellows 
+much time for receiving compliments; he was constantly 
+behind them, and urged them on with a feverish activity, 
+the reason of which the sailors could not suspect. 
+</p><p>Three days later, on the 18th of January, the first bales 
+of cotton began to be packed in the hold: although 
+James Playfair troubled himself no more about it, the firm 
+of Playfair and Co. were making an excellent bargain, having 
+obtained the cotton which encumbered the Charleston 
+wharves at very far less than its value. 
+</p><p>In the meantime no news had been heard of Crockston. 
+Jenny, without saying anything about it, was a prey to 
+incessant fears; her pale face spoke for her, and James 
+Playfair endeavoured his utmost to ease her mind. 
+</p><p>"I have all confidence in Crockston," said he; "he is a 
+devoted servant, as you must know better than I do, Miss 
+Jenny.  You must make yourself quite at ease; believe me, 
+in three days you will be folded in your father's arms." 
+</p><p>"Ah! Mr. James," cried the young girl, "how can I ever 
+repay you for such devotion? How shall we ever be able to 
+thank you?" 
+</p><p>"I will tell you when we are in English seas," replied 
+the young Captain. 
+</p><p>Jenny raised her tearful face to him for a moment, then 
+her eyelids drooped, and she went back to her cabin. 
+</p><p>James Playfair hoped that the young girl would know 
+nothing of her father's terrible situation until he was in 
+safety, but she was apprised of the truth by the involuntary 
+indiscretion of a sailor. 
+</p><p>The reply from the Richmond cabinet had arrived by a 
+courier who had been able to pass the line of outposts; the 
+reply contained Jonathan Halliburtt's death-warrant.  The 
+news of the approaching execution was not long in spreading 
+through the town, and it was brought on board by one 
+of the sailors of the <hi rend="italic">Dolphin</hi>; the man told the Captain, 
+without thinking that Miss Halliburtt was within hearing; 
+the young girl uttered a piercing cry, and fell unconscious 
+<pb n="532"/>  
+on the deck.  James Playfair carried her to her cabin, but 
+the most assiduous care was necessary to restore her to life. 
+</p><p>When she opened her eyes again, she saw the young 
+Captain, who, with a finger on his lips, enjoined absolute 
+silence.  With difficulty she repressed the outburst of her 
+grief, and James Playfair, leaning towards her, said gently: 
+</p><p>"Jenny, in two hours your father will be in safety near 
+you, or I shall have perished in endeavouring to save him!" 
+</p><p>Then he left the cabin, saying to himself, "And now he 
+must be carried off at any price, since I must pay for his 
+liberty with my own life and those of my crew." 
+</p><p>The hour for action had arrived, the loading of the cotton 
+cargo had been finished since morning; in two hours the 
+ship would be ready to start. 
+</p><p>James Playfair had left the North Commercial Wharf 
+and gone into the roadstead, so that he was ready to make 
+use of the tide, which would be high at nine o'clock in the 
+evening. 
+</p><p>It was seven o'clock when James left the young girl, and 
+began to make preparations for departure.  Until the present 
+time the secret had been strictly kept between himself, 
+Crockston, and Jenny; but now he thought it wise to inform 
+Mr. Mathew of the situation of affairs, and he did so immediately. 
+</p><p>"Very well, sir," replied Mr. Mathew, without making 
+the least remark, "and nine o'clock is the time?" 
+</p><p>"Nine o'clock, and have the fires lit immediately, and 
+the steam got up." 
+</p><p>"It shall be done, Captain." 
+</p><p>"The <hi rend="italic">Dolphin</hi> may remain at anchor; we will cut our 
+moorings and sheer off, without losing a moment." 
+</p><p>"Just so." 
+</p><p>"Have a lantern placed at the mainmast-head; the night 
+is dark, and will be foggy; we must not risk losing our way 
+in returning.  You had better have the bell for starting rung 
+at nine o'clock." 
+</p><p>"Your orders shall be punctually attended to, Captain." 
+</p><p>"And now, Mr. Mathew, have a shore-boat manned with 
+six of our best men.  I am going to set out directly for White 
+<pb n="533"/>  
+Point.  I leave Miss Jenny in your charge, and may God 
+protect us!" 
+</p><p>"May God protect us!" repeated the first officer. 
+</p><p>Then he immediately gave the necessary orders for the 
+fires to be lighted, and the shore-boat provided with men. 
+In a few minutes the boat was ready, and James Playfair, 
+after bidding Jenny good-bye, stepped into it, whilst at the 
+same time he saw volumes of black smoke issuing from the 
+chimneys of the ship, and losing itself in the fog. 
+</p><p>The darkness was profound; the wind had fallen, and 
+in the perfect silence the waters seemed to slumber in the 
+immense harbour, whilst a few uncertain lights glimmered 
+through the mist.  James Playfair had taken his place at the 
+rudder, and with a steady hand he guided his boat towards 
+White Point.  It was a distance of about two miles; during 
+the day James had taken his bearings perfectly, so that he 
+was able to make direct for Charleston Point. 
+</p><p>Eight o'clock struck from the church of St. Philip when 
+the shore-boat ran aground at White Point. 
+</p><p>There was an hour to wait before the exact time fixed 
+by Crockston; the quay was deserted, with the exception 
+of the sentinel pacing to and fro on the south and east 
+batteries.  James Playfair grew impatient, and the minutes 
+seemed hours to him. 
+</p><p>At half-past eight he heard the sound of approaching 
+steps; he left his men with their oars clear and ready to 
+start, and went himself to see who it was; but he had not 
+gone ten feet when he met a band of coastguards, in all 
+about twenty men.  James drew his revolver from his waist, 
+deciding to make use of it, if needs be; but what could he 
+do against these soldiers, who were coming on to the quay? 
+</p><p>The leader came up to him, and, seeing the boat, asked: 
+</p><p>"Whose craft is that?" 
+</p><p>"It is a gig belonging to the <hi rend="italic">Dolphin</hi>," replied the young 
+man. 
+</p><p>"And who are you?" 
+</p><p>"Captain James Playfair." 
+</p><p>"I thought you had already started, and were now in 
+the Charleston channels." 
+<pb n="534"/>  
+</p><p>"I am ready to start.  I ought even now to be on my 
+way but &mdash; " 
+</p><p>"But &mdash; " persisted the coastguard. 
+</p><p>A bright idea shot through James's mind, and he 
+answered: 
+</p><p>"One of my sailors is locked up in the citadel, and, to 
+tell the truth, I had almost forgotten him; fortunately I 
+thought of him in time, and I have sent my men to bring 
+him." 
+</p><p>"Ah! that troublesome fellow; you wish to take him back 
+to England?" 
+</p><p>"Yes. 
+</p><p>"He might as well be hung here as there," said the coast-guard, laughing at his joke. 
+</p><p>"So I think," said James Playfair, "but it is better to 
+have the thing done in the regular way." 
+</p><p>"Not much chance of that, Captain, when you have to 
+face the Morris Island batteries." 
+</p><p>"Don't alarm yourself.  I got in and I'll get out again." 
+</p><p>"Prosperous voyage to you!" 
+</p><p>"Thank you." 
+</p><p>With this the men went off, and the shore was left silent. 
+</p><p>At this moment nine o'clock struck; it was the appointed 
+moment.  James felt his heart beat violently; a whistle was 
+heard; he replied to it, then he waited, listening, with his 
+hand up to enjoin perfect silence on the sailors.  A man 
+appeared enveloped in a large cloak, and looking from one 
+side to another.  James ran up to him. 
+</p><p>"Mr. Halliburtt?" 
+</p><p>"I am he," replied the man with the cloak. 
+</p><p>"God be praised!" cried James Playfair.  "Embark without 
+losing a minute.  Where is Crockston?" 
+</p><p>"Crockston!" exclaimed Mr. Halliburtt, amazed.  "What 
+do you mean?" 
+</p><p>"The man who has saved you and brought you here was 
+your servant Crockston." 
+</p><p>"The man who came with me was the gaoler from the 
+citadel," replied Mr. Halliburtt. 
+<pb n="535"/>  
+</p><p>"The gaoler!" cried James Playfair. 
+</p><p>Evidently he knew nothing about it, and a thousand fears 
+crowded in his mind. 
+</p><p>"Quite right, the gaoler," cried a well-known voice.  "The 
+gaoler is sleeping like a top in my cell." 
+</p><p>"Crockston! you! Can it be you?" exclaimed Mr. 
+Halliburtt. 
+</p><p>"No time to talk now, master; we will explain everything 
+to you afterwards.  It is a question of life or death.  Get in 
+quick!" 
+</p><p>The three men took their places in the boat. 
+</p><p>"Push off!" cried the captain. 
+</p><p>Immediately the six oars dipped into the water; the boat 
+darted like a fish through the waters of Charleston Harbour. 
+</p></div1><div1 type="chapter" n="9" id="d13"> 
+<head>BETWEEN TWO FIRES</head> 
+<p>THE boat, pulled by six robust oarsmen, flew over the 
+water.  The fog was growing dense, and it was with difficulty 
+that James Playfair succeeded in keeping to the line of his 
+bearings.  Crockston sat at the bows, and Mr. Halliburtt at 
+the stern, next the Captain.  The prisoner, only now informed 
+of the presence of his servant, wished to speak to 
+him, but the latter enjoined silence. 
+</p><p>However, a few minutes later, when they were in the middle 
+of the harbour, Crockston determined to speak, knowing 
+what thoughts were uppermost in Mr. Halliburtt's mind. 
+</p><p>"Yes, my dear master," said he, "the gaoler is in my 
+place in the cell, where I gave him two smart blows, one on 
+the head and the other on the stomach, to act as a sleeping 
+draught, and this when he was bringing me my supper; 
+there is gratitude for you.  I took his clothes and his keys, 
+found you, and let you out of the citadel, under the soldiers' 
+noses.  That is all I have done." 
+</p><p>"But my daughter &mdash; ?" asked Mr. Halliburtt. 
+<pb n="536"/>  
+</p><p>"Is on board the ship which is going to take you to 
+England." 
+</p><p>"My daughter there! there!" cried the American, springing 
+from his seat. 
+</p><p>"Silence!" replied Crockston, "a few minutes, and we 
+shall be saved." 
+</p><p>The boat flew through the darkness, but James Playfair 
+was obliged to steer rather by guess, as the lanterns of the 
+<hi rend="italic">Dolphin</hi> were no longer visible through the fog.  He was 
+undecided what direction to follow, and the darkness was 
+so great that the rowers could not even see to the end of 
+their oars. 
+</p><p>"Well, Mr. James?" said Crockston. 
+</p><p>"We must have made more than a mile and a half," 
+replied the Captain.  "You don't see anything, Crockston?" 
+</p><p>"Nothing; nevertheless, I have good eyes; but we shall 
+get there all right.  They don't suspect anything out there." 
+</p><p>These words were hardly finished when the flash of a gun 
+gleamed for an instant through the darkness, and vanished 
+in the mist. 
+</p><p>"A signal!" cried James Playfair. 
+</p><p>"Whew!" exclaimed Crockston.  "It must have come from 
+the citadel.  Let us wait." 
+</p><p>A second, then a third shot was fired in the direction of 
+the first, and almost the same signal was repeated a mile in 
+front of the gig. 
+</p><p>"That is from Fort Sumter," cried Crockston, "and it 
+is the signal of escape.  Urge on the men; everything is discovered." 
+</p><p>"Pull for your lives, my men!" cried James Playfair, 
+urging on the sailors, "those gun-shots cleared my route. 
+The <hi rend="italic">Dolphin</hi> is eight hundred yards ahead of us.  Stop! I 
+hear the bell on board.  Hurrah, there it is again! Twenty 
+pounds for you if we are back in five minutes!" 
+</p><p>The boat skimmed over the waves under the sailors' 
+powerful oars.  A cannon boomed in the direction of the 
+town.  Crockston heard a ball whiz past them. 
+</p><p>The bell on the <hi rend="italic">Dolphin</hi> was ringing loudly.  A few more 
+<pb n="537"/>  
+strokes and the boat was alongside.  A few more seconds and 
+Jenny fell into her father's arms. 
+</p><p>The gig was immediately raised, and James Playfair 
+sprang on to the poop. 
+</p><p>"Is the steam up, Mr. Mathew?" 
+</p><p>"Yes, Captain." 
+</p><p>"Have the moorings cut at once." 
+</p><p>A few minutes later the two screws carried the steamer 
+towards the principal channel, away from Fort Sumter. 
+</p><p>"Mr.  Mathew," said James, "we must not think of taking 
+the Sullivan Island channel; we should run directly 
+under the Confederate guns.  Let us go as near as possible 
+to the right side of the harbour out of range of the Federal 
+batteries.  Have you a safe man at the helm?" 
+</p><p>"Yes, Captain." 
+</p><p>"Have the lanterns and the fires on deck extinguished; 
+there is a great deal too much light, but we cannot help the 
+reflection from the engine-rooms." 
+</p><p>During this conversation the <hi rend="italic">Dolphin</hi> was going at a 
+great speed; but in altering her course to keep to the right 
+side of the Charleston Harbour she was obliged to enter a 
+channel which took her for a moment near Fort Sumter; 
+and when scarcely half a mile off all the guns bearing on 
+her were discharged at the same time, and a shower of shot 
+and shell passed in front of the <hi rend="italic">Dolphin</hi> with a thundering 
+report. 
+</p><p>"Too soon, stupids," cried James Playfair, with a burst of 
+laughter.  "Make haste, make haste, Mr. Engineer! We shall 
+get between two fires." 
+</p><p>The stokers fed the furnaces, and the <hi rend="italic">Dolphin</hi> trembled 
+all over with the effort of the engine as if she was on the 
+point of exploding. 
+</p><p>At this moment a second report was heard, and another 
+shower of balls whizzed behind the <hi rend="italic">Dolphin</hi>. 
+</p><p>"Too late, stupids," cried the young Captain, with a 
+regular roar. 
+</p><p>Then Crockston, who was standing on the poop, cried, 
+"That's one passed.  A few minutes more, and we shall have 
+done with the Rebs." 
+<pb n="538"/>  
+</p><p>"Then do you think we have nothing more to fear from 
+Fort Sumter?" asked James. 
+</p><p>"Nothing at all, but everything from Fort Moultrie, at 
+the end of Sullivan Island; but they will only get a chance 
+at us for half a minute, and then they must choose their 
+time well, and shoot straight if they want to reach us.  We 
+are getting near." 
+</p><p>"Right; the position of Fort Moultrie will allow us to 
+go straight for the principal channel.  Fire away then, fire 
+away!" 
+</p><p>At the same moment, and as if in obedience to James 
+Playfair, the fort was illuminated by a triple line of lightning. 
+A frightful crash was heard; then a crackling sound 
+on board the steamer. 
+</p><p>"Touched this time!" exclaimed Crockston. 
+</p><p>"Mr.  Mathew!" cried the Captain to his second, who was 
+stationed at the bows, "what has been damaged?" 
+</p><p>"The bowsprit broken." 
+</p><p>"Any wounded?" 
+</p><p>"No, Captain." 
+</p><p>"Well, then, the masts may go to Jericho.  Straight into 
+the pass! Straight! and steer towards the island." 
+</p><p>"We have passed the Rebs!" cried Crockston; "and, if 
+we must have balls in our hull, I would much rather have 
+the Northerners; they are more easily digested." 
+</p><p>In fact, the <hi rend="italic">Dolphin</hi> could not yet consider herself out of 
+danger; for, if Morris Island was not fortified with the 
+formidable pieces of artillery which were placed there a few 
+months later, nevertheless its guns and mortars could easily 
+have sunk a ship like the <hi rend="italic">Dolphin</hi>. 
+</p><p>The alarm had been given to the Federals on the island, 
+and to the blockading squadron, by the firing from Forts 
+Sumter and Moultrie.  The besiegers could not make out 
+the reason of this night attack; it did not seem to be directed 
+against them.  However, they were obliged to consider 
+it so, and were ready to reply. 
+</p><p>It occupied James Playfair's thoughts whilst making towards 
+the passes of Morris Island; and he had reason to 
+<pb n="539"/>  
+fear, for in a quarter of an hour's time lights gleamed 
+rapidly through the darkness.  A shower of small shell fell 
+round the steamer, scattering the water over her bulwarks; 
+some of them even struck the deck of the <hi rend="italic">Dolphin</hi>, but not 
+on their points, which saved the ship from certain ruin.  In 
+fact, these shell, as it was afterwards discovered, could break 
+into a hundred fragments, and each cover a superficial area 
+of a hundred and twenty square feet with Greek fire, which 
+would burn for twenty minutes, and nothing could extinguish 
+it.  One of these shell alone could set a ship on fire. 
+Fortunately for the <hi rend="italic">Dolphin</hi>, they were a new invention, and 
+as yet far from perfect.  Once thrown into the air, a false 
+rotary movement kept them inclined, and, when falling, instead 
+of striking on their points, where is the percussion 
+apparatus, they fell flat.  This defect in construction alone 
+saved the <hi rend="italic">Dolphin</hi>.  The falling of these shells did her little 
+harm, and under the pressure of her over-heated boilers she 
+continued to advance into the pass. 
+</p><p>At this moment, and in spite of his orders, Mr. Halliburtt 
+and his daughter went to James Playfair on the poop; the 
+latter urged them to return to their cabins, but Jenny declared 
+that she would remain by the Captain.  As for Mr. 
+Halliburtt, who had just learnt all the noble conduct of his 
+deliverer, he pressed his hand without being able to utter a 
+word. 
+</p><p>The <hi rend="italic">Dolphin</hi> was speeding rapidly towards the open sea. 
+There were only three miles more before she would be in 
+the waters of the Atlantic; if the pass was free at its entrance, 
+she was saved.  James Playfair was wonderfully well 
+acquainted with all the secrets of Charleston Bay, and he 
+guided his ship through the darkness with an unerring 
+hand.  He was beginning to think his daring enterprise successful, 
+when a sailor on the forecastle cried: 
+</p><p>"A ship!" 
+</p><p>"A ship?" cried James. 
+</p><p>"Yes, on the larboard side." 
+</p><p>The fog had cleared off, and a large frigate was seen 
+making towards the pass, in order to obstruct the passage 
+<pb n="540"/>  
+of the <hi rend="italic">Dolphin</hi>.  It was necessary, cost what it might, to 
+distance her, and urge the steam-engine to an increase of 
+speed, or all was lost. 
+</p><p>"Port the helm at once!" cried the Captain. 
+</p><p>Then he sprang on to the bridge above the engine.  By 
+his orders one of the screws was stopped, and under the action 
+of the other the <hi rend="italic">Dolphin</hi>, veering with an extraordinary 
+rapidity, avoided running foul of the frigate, and advanced 
+like her to the entrance of the pass.  It was now a question of 
+speed. 
+</p><p>James Playfair understood that in this lay his own safety, 
+Miss Jenny's, her father's, and that of all his crew. 
+</p><p>The frigate was considerably in advance of the <hi rend="italic">Dolphin</hi>. 
+It was evident from the volumes of black smoke issuing from 
+her chimneys that she was getting up her steam.  James 
+Playfair was not the man to be left in the background. 
+</p><p>"How are the engines?" cried he to the engineer. 
+</p><p>"At the maximum speed," replied the latter; "the steam 
+is escaping by all the valves." 
+</p><p>"Fasten them down," ordered the Captain. 
+</p><p>And his orders were executed at the risk of blowing up 
+the ship. 
+</p><p>The <hi rend="italic">Dolphin</hi> again increased her speed; the pistons 
+worked with frightful rapidity; the metal plates on which 
+the engine was placed trembled under the terrific force of 
+their blows.  It was a sight to make the boldest shudder. 
+</p><p>"More pressure!" cried James Playfair; "put on more 
+pressure!" 
+</p><p>"Impossible!" replied the engineer.  "The valves are 
+tightly closed; our furnaces are full up to the mouths." 
+</p><p>"What difference! Fill them with cotton soaked in spirits; 
+we must pass that frigate at any price." 
+</p><p>At these words the most daring of the sailors looked at 
+each other, but did not hesitate.  Some bales of cotton were 
+thrown into the engine-room, a barrel of spirits broached 
+over them, and this expensive fuel placed, not without 
+danger, in the red-hot furnaces.  The stokers could no longer 
+hear each other speak for the roaring of the flames.  Soon 
+<pb n="541"/>  
+the metal plates of the furnaces became red-hot; the pistons 
+worked like the pistons of a locomotive; the steamgauge 
+showed a frightful tension; the steamer flew over the water; 
+her boards creaked, and her chimneys threw out volumes of 
+smoke mingled with flames.  She was going at a headlong 
+speed, but, nevertheless, she was gaining on the frigate &mdash; 
+passed her, distanced her, and in ten minutes was out of the 
+channel. 
+</p><p>"Saved!" cried the Captain. 
+</p><p>"Saved!" echoed the crew, clapping their hands. 
+</p><p>Already the Charleston beacon was disappearing in the 
+south-west; the sound of firing from the batteries grew 
+fainter, and it might with reason be thought that the danger 
+was all past, when a shell from a gun-boat cruising at large 
+was hurled whizzing through the air.  It was easy to trace 
+its course, thanks to the line of fire which followed it. 
+</p><p>Then was a moment of anxiety impossible to describe; 
+every one was silent, and each watched fearfully the arch 
+described by the projectile.  Nothing could be done to escape 
+it, and in a few seconds it fell with a frightful noise on the 
+fore-deck of the <hi rend="italic">Dolphin</hi>. 
+</p><p>The terrified sailors crowded to the stern, and no one 
+dared move a step, whilst the shell was burning with a brisk 
+crackle. 
+</p><p>But one brave man alone among them ran up to the 
+formidable weapon of destruction.  It was Crockston; he took 
+the shell in his strong arms, whilst showers of sparks were 
+falling from it; then, with a superhuman effort, he threw it 
+overboard. 
+</p><p>Hardly had the shell reached the surface of the water 
+when it burst with a frightful report. 
+</p><p>"Hurrah! hurrah!" cried the whole crew of the <hi rend="italic">Dolphin</hi> 
+unanimously, whilst Crockston rubbed his hands. 
+</p><p>Some time later the steamer sped rapidly through the 
+waters of the Atlantic; the American coast disappeared in 
+the darkness, and the distant lights which shot across the 
+horizon indicated that the attack was general between the 
+batteries of Morris Island and the forts of Charleston 
+Harbour. 
+<pb n="542"/>  
+</p></div1><div1 type="chapter" n="10" id="d14"> 
+<head>ST. MUNGO</head> 
+<p>THE next day at sunrise the American coast had disappeared; 
+not a ship was visible on the horizon, and the 
+<hi rend="italic">Dolphin</hi>, moderating the frightful rapidity of her speed, 
+made quietly towards the Bermudas. 
+</p><p>It is useless to recount the passage across the Atlantic, 
+which was marked by no accidents, and ten days after the 
+departure from Queenstown the French coast was hailed. 
+</p><p>What passed between the Captain and the young girl 
+may be imagined, even by the least observant individuals. 
+How could Mr. Halliburtt acknowledge the devotion and 
+courage of his deliverer, if it was not by making him the 
+happiest of men? James Playfair did not wait for English 
+seas to declare to the father and daughter the sentiments 
+which overflowed his heart, and, if Crockston is to be believed, 
+Miss Jenny received his confession with a happiness 
+she did not try to conceal. 
+</p><p>Thus it happened that on the 14th of February, 18 &mdash; , 
+a numerous crowd was collected in the dim aisles of St. 
+Mungo, the old cathedral of Glasgow.  There were seamen, 
+merchants, manufacturers, magistrates, and some of every 
+denomination gathered here.  There was Miss Jenny in bridal 
+array and beside her the worthy Crockston, resplendent in 
+apple-green clothes, with gold buttons, whilst Uncle Vincent 
+stood proudly by his nephew. 
+</p><p>In short, they were celebrating the marriage of James 
+Playfair, of the firm of Vincent Playfair &amp; Co., of Glasgow, 
+with Miss Jenny Halliburtt, of Boston. 
+</p><p>The ceremony was accomplished amidst great pomp. 
+Everyone knew the history of the <hi rend="italic">Dolphin</hi>, and everyone 
+thought the young Captain well recompensed for his devotion. 
+He alone said that his reward was greater than he 
+deserved. 
+</p><p>In the evening there was a grand ball and banquet at 
+Uncle Vincent's house, with a large distribution of shillings 
+to the crowd collected in Gordon Street.  Crockston did 
+<pb n="543"/>  
+ample justice to this memorable feast, while keeping himself 
+perfectly within bounds. 
+</p><p>Everyone was happy at this wedding; some at their own 
+happiness, and others at the happiness around them, which 
+is not always the case at ceremonies of this kind. 
+</p><p>Late in the evening, when the guests had retired, James 
+Playfair took his uncle's hand. 
+</p><p>"Well, Uncle Vincent," said he to him. 
+</p><p>"Well, Nephew James?" 
+</p><p>"Are you pleased with the charming cargo I brought you 
+on board the <hi rend="italic">Dolphin</hi>?" continued Captain Playfair, showing 
+him his brave young wife. 
+</p><p>"I am quite satisfied," replied the worthy merchant; "I 
+have sold my cotton at three hundred and seventy-five per 
+cent. profit." 
+</p> 
+ 
+</div1> 
+</body> 
+</text> 
+</TEI.2> 

@@ -1,0 +1,581 @@
+<?xml version="1.0"?>
+
+<?dlps id="DavElec"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOnum SYSTEM "http://text.lib.virginia.edu/charent/iso-num.ent"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+
+]>
+
+<TEI.2 id="DavElec">
+<teiHeader type="migrated" creator="Etext">
+<fileDesc>
+<titleStmt>
+<title type="main">The Elected Mother</title>
+<title type="sort">elected mother</title>
+<author>Daviess, Maria Thompson</author>
+<respStmt>
+<resp>Creation of machine-readable version</resp>
+<name>Charles E. Keller</name>
+</respStmt>
+<respStmt>
+<resp>Conversion to TEI-conformant markup</resp>
+<name>University of Virginia Library Electronic Text Center</name>
+</respStmt>
+</titleStmt>
+<extent>ca. <num type="kilobytes">27</num> kilobytes</extent>
+<publicationStmt>
+<publisher>University of Virginia Library</publisher>
+<pubPlace>Charlottesville, Virginia</pubPlace>
+<idno type="ETC">DavElec</idno>
+<date value="1994">1994</date>
+<availability status="public">
+<p n="copyright">Copyright &copy; 1994 by the Rector and Visitors of the University of Virginia</p>
+<p n="access">Publicly accessible</p>
+</availability>
+<idno type="uva-pid">uva-lib:475861</idno>
+</publicationStmt>
+<seriesStmt>
+<title>University of Virginia Library, Text collection</title>
+<idno type="uva-set">UVA-LIB-Text</idno>
+</seriesStmt>
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title type="main">The Elected Mother: A Story of Woman's Equal Rights</title>
+<title type="sort">elected mother a story of womans equal rights</title>
+<author>Maria Thompson Daviess</author>
+</titleStmt>
+<publicationStmt>
+<publisher>The Bobbs-Merrill Company</publisher>
+<pubPlace>Indianapolis</pubPlace>
+<date value="1912">1912</date>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Prepared for the University of Virginia Library Electronic Text
+Center</p>
+</projectDesc>
+<editorialDecl>
+<p>All quotation marks retained as data</p>
+<p>All unambiguous end-of-line hyphens have been removed, and the
+trailing part of a word has been joined to the preceding line.</p>
+<p id="ETC">Keywords in the header are a local Electronic Text
+Center scheme to aid in establishing analytical groupings</p>
+</editorialDecl>
+<refsDecl>
+<p>ID elements are given for each page element and are composed of
+the text's unique cryptogram and the given page number, as in
+SpeFQue1 for page one of Spenser's Faerie Queene.</p>
+</refsDecl>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date value="1912">1912</date>
+</creation>
+<langUsage>
+<language id="eng" usage="main">English</language>
+</langUsage>
+<textClass>
+<keywords>
+<term>fiction; prose</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change>
+<date value="1994-03">March 1994</date>
+<respStmt>
+<resp>corrector</resp>
+<name>Timothy Jarrett</name>
+</respStmt>
+<item>minimal TEI markup</item>
+</change>
+<change>
+<date value="2005-06">June 2005</date>
+<respStmt>
+<resp>corrector</resp>
+<name>John Ivor Carlson</name>
+</respStmt>
+<item>Converted sgml to xml.</item>
+</change>
+<change>
+<date value="2007-09">September 2007</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Ethan Gruber, University of Virginia Library</name>
+</respStmt>
+<item>Converted XML markup from TEI Lite to uva-dl-tei (TEI P4 with local customizations).</item>
+</change>
+<change>
+<date value="2008-01">January 2008</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Greg Murray, University of Virginia Library</name>
+</respStmt>
+<item>Programmatically updated TEI header markup (but not header content) for minimal compliance with current QA requirements.</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text id="d1">
+<front id="d2">
+
+
+<titlePage id="d3"><pb/>
+<docTitle><titlePart type="main">THE<lb/>
+ELECTED MOTHER<lb/>
+<lb/>
+A STORY OF WOMAN'S<lb/>
+EQUAL RIGHTS</titlePart></docTitle>
+
+<byline>By<lb/>
+Maria Thompson Daviess
+<lb/>
+<hi rend="italic">Author of</hi><lb/>
+The Road to Providence<lb/>
+The Melting of Molly, etc.</byline>
+
+<docImprint>
+	<pubPlace>Indianapolis</pubPlace><lb/>
+<publisher>The Bobbs-Merrill Company</publisher><lb/>
+Publishers
+<lb/>
+Copyright <docDate>1912</docDate><lb/>
+<publisher>The Bobbs-Merrill Company</publisher><lb/>
+<lb/>
+REPRINTED FROM A VOLUME OF SHORT STORIES<lb/>
+AND PUBLISHED BY REQUEST<lb/>
+<lb/>
+WITH THE GREATEST CONFIDENCE<lb/>
+IN THEM AND THEIR FUTURE,<lb/>
+I DEDICATE THIS BOOK TO THE<lb/>
+SMALL DAUGHTERS OF MY FRIENDS</docImprint></titlePage>
+
+
+</front>
+<body id="d4">
+<div1 type="story" id="d5">
+<pb n="1"/>
+<p> "Yes, and one of the very nicest parts about getting home is to
+find the astonishing faithfulness of Pa," said Mrs. Pettibone as her eyes
+roamed over the garden, the yard, down the long arbor and across the
+meadow bars to return to the wistaria {sic} on the side porch, which was
+riotous with the bumble of bees and blooms. </p>
+<p> "Why, you didn't expect to find anything else, did you?"
+demanded Mrs. Ezra Spain, who sat on the porch steps with a pan of
+snap beans in her lap which she was industriously and expectantly
+snapping. </p>
+<p> "Oh, no, I don't suppose I
+  <pb n="2"/>
+really did, but for fifty miles or more in the cars coming
+home I kept a-doubting of him and a-mistrusting as to the June peas and
+the front walk and the yellow-legged domineck in the setting-house.  I
+always like to get her off the nest by April twentieth, for she's so
+heavy-feathered it makes her nervous to set in hot weather.  But for a
+<hi rend="italic">man</hi>, Pa has attended to the important things surprising &mdash;
+surprising.  I'm right down thankful that I find I can trust him with such
+like &mdash; it'll make me feel freer to go and come after this." </p>
+<p> "Where in the world do you expect to be going and coming from
+any more, soon?" asked Mrs. Ez with astonishment in her wide eyes.
+"We can't spare you again.  You've visited the boys this spring
+  <pb n="3"/>
+
+&mdash; Mr.  Pettibone is bettern'n the common run of men,
+but I don't believe he'll let &mdash; " </p>
+<p> "Well, I don't know as I'll ask him when I get a travel-notion
+again," responded Mrs. Pettibone placidly as she began to take the husks
+off a bowl of extra large nasturtium seeds, to make ready for a sundown
+planting. </p>
+<p> "What?" demanded Mrs. Ezra in an awe-struck voice as she
+looked at Mrs. Pettibone's tranquil face. </p>
+<p> "Yes," answered Mrs. Pettibone in a matter-of-fact tone, "Yes,
+I'm thinking of beginning all over with Pa.  I've been married to him
+forty-three years next November, and I'm afraid it will go kinder hard
+with him, but he will have to be led easy and blind-like to the fact that
+woman's day has dawned.
+<pb n="4"/>
+She's been downtrodden, geared up uneven, stalled up in
+a house over a cook stove, poked fun at by love-making and things of
+that kind until she is such a poor weak creature she is in danger of just
+going on permitting it and being happy in spite of it.  Child, don't you
+know about woman's suffrage when you hear it mentioned in such
+feeling terms as those?" </p>
+<p> "Yes," answered Mrs. Ez contentedly, "but I never took any
+interest in such doings and I didn't know you &mdash; " </p>
+<p> "I never did before," answered Mrs. Pettibone as she shooed an
+inquisitive bee away with a gentle but determined hand.  "I've been so
+busy that I hadn't got 'round to it.  You see, the raising of five boys into
+being good God-fearing men and proper husbands for five
+
+<pb n="5"/> likely girls that some other women have been putting in
+licks on to get ready for them, has taken up a lot of my time.  I could
+just make out to get them warm-covered, proper-fed and catechism-instructed, give a little attention to making a good-husband example out
+of Pa for them, meet the calls that Old Zion church laid on me as a
+member, do my duty by the sick and get up love enough for the doing of
+it all to make me sing the number of songs I think the good Lord stints
+out by the day to all us women to be sung before it's time to put out the
+cat and the lamp.  It's different now &mdash;  I've got time to feel my
+<hi rend="italic">wrongs</hi>." </p>
+<p> "But what has happened?  You've got no wrongs, Mis' Pettibone.
+The boys and Mr. Pettibone fairly &mdash; "    </p>
+  <pb n="6"/>
+<p> "Oh, they haven't done anything to me!  Pais a none-such
+husband and every boy I've got is a God's blessing and married to a
+good woman, as managing most of them as I would ask for my sons'
+welfare; but I have waked up to the fact that I'm <hi rend="italic">injured</hi>, or
+could be if anybody wanted to injure me, which they don't.  I'm glad
+you came over this morning, for I want to tell you of the astonishing
+things I have experienced out to Wahoo City on this visit to Tom and
+Elviry.  I can't tell Pa, for I'm keeping him blind until I can get time to
+commence on his reformation and my emancipation."  As she spoke
+Mrs. Pettibone's eyes twinkled and her rosy cheeks drew up into a series
+of crinkled dimples which tickled Mrs. Spain's risibles to the extent of
+making her emit a
+  <pb n="7"/>
+
+deep-voiced chuckle.  The bees buzzed resentfully at her
+merriment and one dusty old fellow bumbled in real temper about her
+head. </p>
+<p> "Lawsy me," she laughed, "you scared me!  I thought you were
+serious.  I was just beginning to get sorry for Mr. Pettibone and &mdash; "
+</p>
+<p> "I <hi rend="italic">am</hi> serious, child; that is, I've come from a place
+where such things are so serious that there is no time to do or think
+about anything else.  They've got a club in Wahoo City that's just for
+women to go to and discuss <hi rend="italic">wrongs</hi> and <hi rend="italic">wants</hi>
+and it's a revelation to hear 'em do it.  I went with Elviry the very
+second day after I got there and I came away as mad and cross as a wet
+hen, and I had got over about half that missing of Pa that
+  <pb n="8"/>
+always spoils my visits to the boys and their families.
+</p>
+<p> "'Elviry,' I said, 'I don't see how you can listen so calm and
+peaceful when you bear that in all but ten of these United States a
+woman's children don't belong to her at all, but to some
+good-for-nothing man who can do just as he pleases with them and her
+too.  How can you stand it, and you a mother with &mdash;  ' </p>
+<p> "'Why, Mother Pet,' she said kinder astonished-like at me, 'my
+children are Tom's children.  I want him to do just as he sees fit with all
+of us.  If he does it I will know it is for the best and &mdash; ' </p>
+<p> "'Fiddlesticks,' I said real cross, for the way Elviry does spoil
+Tom is sinful.  She's so in love with him that it would be pitiful if he
+wasn't worse than she is
+
+<pb n="9"/> in love sickness.  'I don't trust Tom not to be just as
+much of a brute as any of those other men they tell about.  They're all
+<hi rend="italic">men</hi>, I say.' </p>
+<p> "With that Elviry laughed and we got on the street-car.  I was still
+so upset that I glared at a nice young man, who stood to give me a seat
+as polite as you please.  Elviry introduced him to me and I must say his
+pleasantness soothed me down some and when I got off the car I said I
+would be glad to have him call round to see me, as he was such a
+particular friend of Tom's.  He said he would come right away and bring
+his wife.  He looked kinder proud and sheepish when he mentioned her
+and I wondered if she was that young a bride.  But Elviry told me about
+it as we walked home.  She was the
+
+<pb n="10"/> woman that was running for mayor on the reform ticket,
+and all that meeting I had heard, had been brought about by a kind of
+caucus held to do something toward her election.  I didn't pay much
+attention because I couldn't make out the straight of it, but it seems over
+there is one of the places where women <hi rend="italic">do</hi> vote and they
+were doing it for fare-youwell.  A man, who had stolen a whole lot of
+money from the City, was out against her for reelection and the things
+he was resorting to to beat her were most shameful. </p>
+<p> "But Elviry said that the women in the town were all up and
+doing and that a lot of the men were for her and determined to see her
+have a fair show.  She said she was a splendid woman and a fine speaker
+and was something or other titled
+
+<pb n="11"/> from two or three colleges.  She promised to take me to
+hear her speak the very next night, which would be the last speech she
+would make before the election.  I was just as excited as could be though
+a funny little feeling hit me when I thought of that young fellow so
+proud and shy &mdash; but, anyway, by that time we were at home and ready
+for dinner. </p>
+<p> "At the table I read Tom one good long lecture on the rights of
+woman, and I didn't allow him to answer back, either.  He said he
+hadn't had such a fine time since the Sunday evenings I uster spend with
+all my boys in the front parlor teaching them who made them and for
+what purpose.  He laughed and laughed and hugged first Elviry and then
+me, and then made us come up with him and look at
+
+<pb n="12"/> the two children to see if I thought they had grown as
+much as they oughter.  Tom's a lot like Pa, and a good bit of my
+homesickness for my husband came back before bedtime, but I went to
+sleep thinking about how I would enjoy hearing that fine young woman
+make a speech.  Still that clean-shaved young man would keep coming
+into my dreams and I felt a kind of pity mixing up with him. </p>
+<p> "But my! I tell you that next night was glorious!  We sat in good
+front seats and could see and hear without any strain.  When I saw her
+come down the aisle between the committees on both sides of the
+platform and take her stand behind the long heavy table like is in the
+court-house, my heart just kinder stopped beating with excitement.  She
+was a tall, upstanding,
+
+<pb n="13"/>  young woman with great sky-colored eyes and the most
+beautiful head set on her strong shoulders you ever saw anywhere.  On
+her black hair was one of her college square-top-and-tassel caps, and a
+long black silk gown was over her white dress.  She looked like one of
+those pictures of judges and lawyers on the bench in the court-house over
+in England.  I just loved her on sight and would have liked to stretch out
+my hands to her. </p>
+<p> "She stood still for a second and let her eyes rove around hunting
+for something and then there was a little flash of a smile over to a place
+behind us where something told me without looking <hi rend="italic">who</hi> was
+there.  That smile killed the last bit of that pity feeling I'd been hatching
+up in my mind for <hi rend="italic">him</hi>.</p>
+
+<pb n="14"/>
+<p>"What did she say?  Well, I just can't remember one word of it,
+but I know it was grand and noble.  It was about the duty of being
+citizens in a town and it wasn't any raving about anybody's wrongs.
+Everybody sat still and listened to the very end and then they just tore up
+the house with their hollering and cheering.  The women waved their
+handkerchiefs and the men clapped and clapped.  She waited and smiled
+down at everybody, and, honey, the blush on that woman's face, who
+had just stood up and took what is called a man's part, was as sweet as
+coulder been the one Eve mustered when Adam introduced her to the
+animal friends in the garden.  As I said, it was all just
+<hi rend="italic">glorious</hi>. </p>
+<p> "Oh, yes, I got acquainted with her.  Tom and Elviry and I
+waited
+
+<pb n="15"/> for her and her husband and they came home with us in
+Tom's abomination of an automobile, what scares me to death the very
+sight of, to have supper.  They live just down the street from my folks
+and they neighbor almost like we do out here in Glenrose, Harpeth
+Valley. </p>
+<p> "And between her and me it was one of those cases of love at first
+sight that the dear Lord sometimes sends to settle like a lovely pink
+cloud of warm feelings between two women, which never floats away
+from them, but rests a benediction and a protection.  She was like a
+beautiful ruby woman out of the Proverbs, last chapter, tenth verse, and
+you could see that the heart of her husband was '<hi rend="italic">safely
+trusting</hi>.' </p>
+<p> "While Elviry was cooking some
+
+<pb n="16"/> outrageous but good-smelling food in her silver parlor
+skillet, chafing-dish she called it, Tom undertook to tell the sweet child
+about what he called my 'high vault to the woman side of the fence.'  Of
+course they all laughed and he made it worse and more outrageous with
+making up about what I was planning to do to Pa when I got back home
+and the like, but when I waited until there was a pause in the high jinks
+and asked him straight out how he'd like to have little Elviry's future
+husband get mad at her and take her children away if he wanted to,
+whether or not, and she with the law against her, I felt strong soft arms
+creep around my neck from behind and her lovely voice half whispered,
+half laughed, into my ear as she said:
+
+<pb n="17"/>  </p>
+<p> "'Never mind, Mrs. Pettibone, I'm coming in to-morrow to have
+a talk with you and then at dinner you can straighten Tom's conviction
+out with no trouble at all.' </p>
+<p> "Then we all ate and laughed and parted good friends, though
+going up-stairs Tom cut his weather eye at me as if he was still afraid of
+a peach-tree switch hid in my skirts.  I just ignored him completely, but
+took Elviry into my room with me for a minute.  There I put the
+question that was troubling me to her fairly. </p>
+<p> "'Yes, Mother Pet,' she answered in a kind of blush herself, 'but
+it's six weeks off and all this excitement will be over then.  She had
+pledged herself to accept the nomination and started the campaign before
+she knew of her condition.  She has felt it her duty to
+
+<pb n="18"/> keep on with it because one of the arguments that is
+continually being brought up on the woman question is that the very fact
+of &mdash; of such a contingency unfits women for the responsibilities of
+administration, and holding office and &mdash; ' </p>
+<p> "'Fiddlesticks!' I answered, all that caucus-meeting feeling
+rushing over me at once, 'it don't unfit them for cooking, washing and
+ironing, tending the toddlers, mending and sewing, working the garden,
+milking the cow, churning the butter, and any number of extras thrown
+in, so why should it unfit them for being mayors and presidents and
+such?  Most candidates from governors to sheriff take a week off any
+time in a campaign to get on a spree, and why shouldn't a woman
+quietly and in
+
+<pb n="19"/> the fear of God have her baby and go on with the good
+work?'  I was real het up, and showed it. </p>
+<p> "'Oh, Mother Pet, if you'll just say that to her in exactly that tone
+of voice and manner to-morrow I believe you will save the day,' said
+Elviry, divided between laughing and crying.  'She hasn't any mother
+and neither have I, and she gets scared sometimes and I try to comfort
+her, but I'm not like you &mdash; ' </p>
+<p> "'I'll attend to this comforting business from now on, daughter,' I
+said to Elviry as I lent her my best pocket-handkerchief to wipe her
+eyes. </p>
+<p> "'Has she all her baby fixings ready ?' </p>
+<p> "'No,' said Elviry, smiling through her tears.  'She's been so
+busy; I've done a lot for her, but &mdash; '
+
+<pb n="20"/>  </p>
+<p> "'Now,' said I positively, 'that sort of thing won't do.  She must
+attend to all that right away and not neglect it, mayor or no mayor, and
+I'll start her first thing in the morning.' </p>
+<p> "And I did, and never in my life have I seen a sweeter sight than
+that lovely grand woman seated by my side hemming a flannel band, the
+telephone ringing at her elbow constant with some politics question or
+other to settle right off the minute.  She'd give her commands and decide
+what to do in short quick words, then go on printing her stitches in a
+little night-gown about as big as a minute slow and careful.  And for a
+week those infant first-aid caucuses went on every morning and it looked
+like to me I was being born all over into a new and most
+
+<pb n="21"/> disturbing world.  We'd first talk safety-pins and
+crocheted socks and then about the dreadful sweatshops and what they do
+to women.  Then we'd veer from short petticoats to the property laws
+what let a woman work her life out helping her husband buy a farm and
+then at his death be sold out of it on account of having only a dower
+interest.  We'd plan a little silk coat and end up with a prayer for the
+noble women teachers that a he-school board makes work longer hours
+than any little whipper-snapper college boy that's teaching for a stepping-stone, and for much less pay.  And all the time she was as gentle and
+noble, but as firm as a rock and well-nigh inspired in her talk about what
+<hi rend="italic">had</hi> to come for women.  And with each decision she would
+say that she knew
+
+<pb n="22"/> it would be best for all women because she wanted it for
+her daughter.  The way she planned the conditions she wanted that child
+to face when she had grown to her woman's estate sounded like a psalm
+of life written in Revelation style. </p>
+<p> "So it was, she sitting at my feet learning the way of women who
+had been, and I at hers learning the way of the women who were to be,
+until the Monday of the election came.  And that morning was just the
+same as the others, only we had about finished up most of the needful
+jobs and were packing them in a little blue and white hamper.  Elviry
+had gone to be one of the counters at one of the polls and the children
+were both across the street at the kindergarten.  The house was quiet
+
+<pb n="23"/> and still and I must say that it, was as clean and neat as
+a pin, and Elviry with only one girl in the kitchen, but with management
+and kindness to help that girl to do the work of three and have time off.
+She had put the dinner in the fireless cooker &mdash; I'll tell you about that
+later &mdash; and gone down to the drug store to vote before time to bring the
+children home for their lunch.  The sweet child and me had things to
+ourselves and was enjoying the quiet communion. </p>
+<p> "'Mother Pet,' she said as she looked up with stars in her eyes
+from a box of little silk shirts I had had her sew tapes on, 'tell me true,
+am I going to be any less <hi rend="italic">her</hi> mother because I have given so
+much of my time and my strength to this work &mdash; that &mdash; the world still
+says is a man's?  Would
+
+<pb n="24"/> it have been better for me to have sat quietly and
+dreamed a clean, wide-streeted, beautified city for her with no dark
+corners where women are wronged, no "open doors" for the young men
+from which she is to choose her husband?  Should I have waited the
+generations ?' </p>
+<p> "'No, child,' I answered, looking her full in the face.  'It is not
+every woman who could do what you have done and it won't be that
+most of them can ever run their woman-jobs and take up these cares of
+state, as they are rightly called, but neither could most men or can they
+ever.  We'll just go on having homes which are man guarded and
+woman tended and the great few among both sexes can meet and settle
+what is best for all concerned.  Run a piece of
+
+<pb n="25"/> blue ribbon in this sleeve before you fold it.' </p>
+<p> "'And, Mother Pet,' this time the rose color spread all over her
+cheeks in a flame even up into her dark hair, 'my husband &mdash; you don't
+think, do you, the doing what I have done, in any way brings upon him
+the charge of incompetency?  He thinks as I do &mdash; he knows that the time
+has come for women to be legislated for and not against and that the men
+have failed them.  The real sacrifice was made by him.  That is what has
+hurt me &mdash; have I taken anything from him that wrongs him?  Do I bring
+anything back from my public life into his home that injures the
+sacredness of it?  Am I a lesser wife for a good man because I seek to
+better the condition of the wife of the bad?  Am I &mdash; '</p>
+
+<pb n="26"/>
+<p> "'Honey,' I said to kinder interrupt her, for the tears were
+swimming deep over the violets in her eyes and I didn't want her to get
+upset.  'That husband of yours is no more disqualified by your being a
+good mayor of this town than I am by Tom's being president of that
+bank, country boy that he is and always surprising me and Pa by his
+gumption.  Your man looks as happy to me all the time as a man who's
+got his ticket to Salvation bought with a stopover at every pleasant place
+along the way.  Don't worry about him; he's got a "ruby" wife and he
+knows it.  Now you must go home and rest, for I want you to be ready
+to enjoy the rally after the vote is all counted.' </p>
+<p> "And just then the telephone rang and she was the cool mayor-
+<pb n="27"/> self again with the mother-wife tears still wet on her
+cheeks. </p>
+<p> "And after lunch at Elviry's I went into my room to lie down and
+get forty winks against another all-night frolic, for it does seem to me
+that city people get less real sleep than is scarcely believable, with their
+junketings and doings which Tom is always just thick into. </p>
+<p> "I must have slept some into hours when I heard the telephone
+ring, which I'm not much used to answering, but will when pushed to,
+and I took it up kinder ginger. </p>
+<p> "'Mrs. Pettibone, can you come down here quick &mdash; she &mdash; she
+needs you,' and that was all; but I knew that boy's voice and what the
+trouble was, so I put on my bonnet and got the camphire bottle and left
+in short order.</p>
+
+<pb n="28"/>
+<p> "Yes, Mrs. Ezra, it's the God's blessed truth I'm telling you.
+While all the women, and what proved to be the majority of the men in
+Wahoo City, were down town a-voting for that sweet child to be the
+mayor of the town, she and him and me was up at her house a-having
+her baby. </p>
+<p> "'Well,' I said first thing cheerful-like, 'daughter wants to get
+here in time to cast her vote before the polls close.' </p>
+<p> "And in the due course of time it all came right in the most
+natural and peaceable way possible.  Along about the time the counts
+from the different wards began to come in and we could hear the
+cheering from the flash-light reports down the street at the drugstore
+corner, I had got the little blossom all tucked out in flannel
+
+<pb n="29"/> and linen and lace; and a finer child I never saw.  But I
+sat with it across my lap for quite a spell just a-thinking how on earth I
+was going to break the news of the calamity to her.  She had been so
+brave and patient and lovely that I couldn't bear to think of her
+disappointment, and I made out to myself that I oughter put another little
+shawl inside the blanket, just to give myself more time. </p>
+<p> "Then I made a resolve &mdash; I sent the nurse to tell <hi rend="italic">him</hi>
+to come to me.  He came in looking more sheepish than I almost ever
+saw on such an occasion.  But there was a pride there, too, and a power
+of awe. </p>
+<p> "'Yes,' I said firmly, 'it's true and you have got to tell her.
+Now, be careful and lay the child in her arms before you break it to
+her.'</p>
+
+<pb n="30"/>
+<p> "'Come with me,' he said pitiful-like, and I followed him. </p>
+
+<p> "And if I thought she looked grand and noble as she stood before
+the audience a-championing her weak sisters for all the world to hear, in
+my heart I knelt down before her as she took the little thing into her
+lovely strong arms and laid it against her deep breast. </p>
+<p> "'Dear,' said the man gently and quietly, with both sorrow and
+courage in his voice, 'she's your &mdash; <hi rend="italic">son</hi>.' </p>
+<p> "'Oh,' she said as a glory that was like the sun-dawn spread over
+her face and neck and white breast, 'oh &mdash; a man &mdash; I'm glad!  Glad!'
+And about that time I saw that I could come away. </p>
+<p> "Oh, yes, I stayed to see her take her oath of office &mdash; that's
+
+<pb n="31"/> what made me two weeks behind-hand coming home.  I
+hated to disappoint Pa about my promise to be here on April the third,
+but I decided that it was best for him to begin to find out how much I
+meant to use my own mind.  Oh, no, I'm not going to be savigorus
+about it, still I'm going to lead him up to my idea gentle but firm.  But
+now, who'd have thought he would have followed my mind so faithful
+about the peas and the domineck? </p>
+<p> "No, Mrs. Spain, I don't think so!  Somehow I have a feeling that
+when all this ruckus gets men's strongness and faithfulness mixed with
+women's courage and chastity in the future folks, His Kingdom is
+a-going to come in about two generations from then.  And may I be
+there to see!"</p>
+
+</div1>
+</body>
+</text>
+</TEI.2>
+

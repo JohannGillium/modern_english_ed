@@ -1,0 +1,537 @@
+<?xml version="1.0"?>
+
+<?dlps id="DavMidd"?>
+<?dlps page-images="color" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+
+
+<!ENTITY DSSR_000002602_0001 SYSTEM "000002602_0001" NDATA uvaHighRes>
+<!ENTITY DSSR_000002602_0002 SYSTEM "000002602_0002" NDATA uvaHighRes>
+<!ENTITY DSSR_000002602_0003 SYSTEM "000002602_0003" NDATA uvaHighRes>
+<!ENTITY DSSR_000002602_0004 SYSTEM "000002602_0004" NDATA uvaHighRes>
+<!ENTITY DSSR_000002602_0005 SYSTEM "000002602_0005" NDATA uvaHighRes>
+<!ENTITY DSSR_000002602_0006 SYSTEM "000002602_0006" NDATA uvaHighRes>
+]>
+
+
+
+
+<TEI.2 id="DavMidd">
+<teiHeader type="migrated" creator="Etext">
+<fileDesc>
+<titleStmt>
+<title type="main">A Middle-Aged Woman</title>
+<title type="sort">middle aged woman</title>
+<author>Davis, Rebecca Harding, 1831-1910</author>
+<respStmt>
+<resp>Creation of machine-readable version:</resp>
+<name>Judy Boss</name>
+<resp>Creation of digital images:</resp>
+<name>Michele Ierardi</name>
+<resp>Conversion to TEI.2-conformant markup:</resp>
+<name>University of Virginia Library Electronic Text Center.</name>
+</respStmt>
+</titleStmt>
+<extent>ca. <num type="kilobytes">25</num> kilobytes</extent>
+<publicationStmt>
+<publisher>University of Virginia Library</publisher>
+<pubPlace>Charlottesville, Virginia</pubPlace>
+<idno type="ETC">DavMidd</idno>
+<date value="1996">1996</date>
+<availability status="public">
+<p n="copyright">Copyright &#xa9; 1996 by the Rector and Visitors of the University of Virginia</p>
+<p n="access">Publicly accessible</p>
+</availability>
+<idno type="uva-pid">uva-lib:476861</idno>
+</publicationStmt>
+<seriesStmt>
+<title>University of Virginia Library, Text collection</title>
+<idno type="uva-set">UVA-LIB-Text</idno>
+</seriesStmt>
+<notesStmt>
+<note>
+<p>Images of the front and back cover of the print version have been included.</p>
+</note>
+<note>
+<p>Judy Boss has made the following changes: page 490, para. 1: e rth] earth; page 491, para. 12: added the omitted initial quotation mark to "He's my baby!</p>
+</note>
+</notesStmt>
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title type="main">A Middle-Aged Woman</title>
+<title level="j">The Independent</title>
+<title type="sort">middle aged woman</title>
+<author>Rebecca Harding Davis</author>
+</titleStmt>
+<editionStmt>
+<p>First Edition</p>
+</editionStmt>
+<extent>pp. 489-494</extent>
+<publicationStmt>
+<publisher>S. W. Benedict</publisher>
+<pubPlace>New York</pubPlace>
+<date value="1904-09-01">September 1, 1904</date>
+<idno type="callNo">Print copy consulted: UVA library call no. AP2 .I53</idno>
+</publicationStmt>
+<notesStmt>
+<note>
+<p>
+<hi rend="italic">The Independent</hi>, Volume 57, No. 2909</p>
+</note>
+</notesStmt>
+</biblFull>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+</projectDesc>
+<editorialDecl>
+<p>All quotation marks retained as data.</p>
+<p>All unambiguous end-of-line hyphens have been removed, and the trailing part of a word has been joined to the preceding line.</p>
+<p>The images exist as archived TIFF images, one or more JPEG versions for general use, and thumbnail GIFs.</p>
+<p>Keywords in the header are a local Electronic Text Center scheme to aid in establishing analytical groupings.</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date value="1904">1904</date>
+</creation>
+<langUsage>
+<language id="eng" usage="main">English</language>
+</langUsage>
+<textClass>
+<keywords>
+<term>fiction; prose</term>
+</keywords>
+<keywords>
+<term type="visual work">24-bit color; 400 dpi</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change>
+<date value="1996-09">September 1996</date>
+<respStmt>
+<resp>corrector</resp>
+<name>Michele Ierardi, Electronic Text Center</name>
+</respStmt>
+<item>Added TEI header and TEI tags.</item>
+</change>
+<change>
+<date value="2005-06">June 2005</date>
+<respStmt>
+<resp>corrector</resp>
+<name>John Ivor Carlson</name>
+</respStmt>
+<item>Converted sgml to xml.</item>
+</change>
+<change>
+<date value="2007-09">September 2007</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Ethan Gruber, University of Virginia Library</name>
+</respStmt>
+<item>Converted XML markup from TEI Lite to uva-dl-tei (TEI P4 with local customizations).</item>
+</change>
+<change>
+<date value="2008-01">January 2008</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Greg Murray, University of Virginia Library</name>
+</respStmt>
+<item>Programmatically updated TEI header markup (but not header content) for minimal compliance with current QA requirements.</item>
+</change>
+<change>
+<date value="2009-03">March 2009</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Scholarly Resources, University of Virginia Library</name>
+</respStmt>
+<item>Added and/or replaced the digital images accompanying the electronic text. Scanning of exterior and interior (ie. pages) of item was done only for items found in the University of Virginia Special Collections Library.</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+
+<text id="d1">
+<!--<front id="d2">
+
+</front>-->
+<body id="d3">
+
+
+
+ <div1 type="story" id="d4"><pb entity="DSSR_000002602_0001" n="489"/>
+<head><hi rend="bold">A Middle-Aged Woman</hi>
+
+<lb/><hi rend="bold">BY REBECCA HARDING DAVIS</hi></head>
+
+<p>THE clock was pointing to six when Mrs. Shore and her son's wife
+turned into a shaded street on their way home.  The air blew sharply
+up from the sea.  Mrs. Shore buttoned her fur cape and quickened
+her pace.  Maria, as usual, lagged a step behind her.  Maria was a
+tall, willowy girl with delicate features and milk and rose tints in her
+skin.  She had the conscious pose of the acknowledged beauty in a
+small town, for in her old home, Ford City, Kansas, newspapers had
+ranked her with Helen of Troy and Recamier.  But her blue eyes
+were dull and evasive; she laughed at the end of every sentence, as
+if not sure of herself or her companion or of anything else.
+</p><p>When silent she always held her mouth a little open.  John
+Shore had married her a year ago in Ford City and brought her home
+in triumph.
+</p><p>"Now, mother," he said, his round face red with delight, "you
+have a daughter at last!"
+</p><p>His mother looked at her and her heart stopped.  It seemed for
+a minute as if cold water, instead of blood, rushed through her body.
+But she took the girl into her arms with some gay, loving words.
+</p><p>In this as in every emergency of life Frances Shore was sure to
+speak the right words.
+</p><p>More than that.  She knew that she spoke them.  She
+applauded herself secretly for her tact and nice feeling every hour of
+the day.  Nobody ever saw a trace of vanity in the woman.  But at
+heart she assuredly knew her own full value.
+</p><p>After that first day John always believed that his Maria was as
+dear to his mother as was his own stupid, honest self.
+</p><p>The two women had been together all day.  The morning they
+had spent at St. Elizabeth's Hospital.  It was the only hospital in this
+little seaside town, of which the Shores were the founders and
+ <pb entity="DSSR_000002602_0002" n="490"/>
+rulers.  Mrs. Shore had given half of the money to build the
+hospital and had coaxed the rest from the New Jersey Legislature.
+It was as dear to her as one of her children.  She had pled with men
+and prayed to God for it.  Every day she carried provisions,
+bandages, jam and linen to it.  She knew every nurse and patient in
+the wards.  She felt that it was she who had mothered it, and no
+Saint Elizabeth, living or dead.
+</p><p>They had been shopping all afternoon, buying carpets, curtains
+and the like for Maria's house, into which she had moved last week.
+Mrs. Shore was recklessly generous to her new daughter.  But
+Maria's thanks were brief.  She yawned nervously, often.  It sapped
+the strength out of her to be with Mrs. Shore all day.  Her mind
+moved slowly, and for her to follow the older woman's train of
+thought was like trying to catch heat lightning.  Mrs. Shore's brief,
+joking sentences to-day had flashed new meanings on every side;
+into the snarl in the hospital's accounts, into the dyeing of carpets or
+the shape of a cabinet.  At home Maria had always found her even
+more trying.  There was no subject on earth or out of it that the
+Shore men did not bring up to overhaul with Frances.
+</p><p>Now, Maria knew that in Ford City she had been reckoned a
+most intellectual woman.  She was able and ready now to discuss all
+really important subjects: the work of her Chautauqua circle, the
+Duchess's last novel, the new cut of sleeves.  She had closely
+observed since she married Doctor John the set to which the Shores
+belonged in Seaburgh.  She knew all about their descent, income
+and clothes.  Maria judged all human beings by these three
+essentials.  She knew the genealogy of her own family, the Pynes,
+better than she did the Ten Commandments, and reckoned it a
+matter of much more importance.  But the Shores cared for none of
+these things.  At every meal they jerked her mind from the new star
+in Orion to yesterday's doings in Parliament or the news from The
+Hague, or U. C. P. preferred stock.
+</p><p>Maria was shrewd enough to see that the Shore men&mdash;husband
+and sons&mdash;did not come to Frances for information on these matters
+but for a mental tonic before they went out to the day's work.  They
+were of German descent (Deschauer used to be the name), sluggish,
+kindly, easy-going.  Their mother every morning trimmed their
+lamps and put oil in them and lighted them for the day's work.
+Maria's little soul and trivial mind were nagged by the older
+woman's strength.  Why did John, now that he had a wife, go to his
+mother in every strait?  Maria saw that there was nothing grave or
+judicial in Frances's temper or mind.  She laughed one minute and
+cried the next.  Yet, to-day, everybody, from the car conductor to
+Judge Paxton, had come to her about their own private affairs, and
+last week, when Joe Potts shot his brother and that silly little Mrs.
+Clafton ran away from her husband, they both came to Mrs. Shore
+in their horror of guilt, and Maria had to confess that she had helped
+them.  Something went from her to them which put new life into
+them.
+</p><p>Maria, seeing that she gave out so much in her life to husband,
+children, drunkards and all the other silly, guilty folk who followed
+her, wondered how she could eat such hearty meals or laugh over
+stupid jokes.  Maria had no sense of humor.  She seldom laughed.
+She eyed the elder woman now with dislike and contempt.  She was
+a bore, a nuisance!
+</p><p>The opinion of the little Western belle of her new kinsfolk
+would have amazed the Shores if they had known it.  The cat on the
+rug may not understand a word you speak, yet her idea of your
+character is definite and clear.
+</p><p>Dr. John Shore met his mother and wife at the corner and took
+Maria home with him.  She looked back with a frown at Mrs.
+Shore's tall, slight figure as it passed under the trees.
+</p><p>"I tried to persuade your mother to buy some handsome ready-made costumes to-day," she said.  "Something to suit her position.
+There is nothing stylish in those plain dark gowns she wears."
+</p><p>John lifted his eyeglasses and stared after his mother.
+</p><p>"Doesn't she dress properly?" he said anxiously.  "Oh, you
+must be mistaken,
+ <pb entity="DSSR_000002602_0003" n="491"/>
+Molly.  I never saw any woman with the
+peculiar air of distinction&mdash;of high breeding&mdash;that my mother has."
+</p><p>"I am glad you are satisfied!  Perhaps you would like
+<hi rend="italic">me</hi> to give up my silks, and rig myself in coarse cloth?"
+snapped Maria.
+</p><p>Oh, darling,&mdash;<hi rend="italic">you</hi>&mdash;"  The rest was whispered, and the
+pretty color and smile flashed back into her face.
+</p><p>But John was uneasy.  "I'm afraid, Molly, you don't appreciate
+mother," he hesitated.  "You mustn't judge her by her clothes.  You
+see she really made this family.  My father often says that.  Long
+ago, while we were little chaps, his health suddenly gave way&mdash;nerve prostration they would call it now&mdash;and she took hold of the
+business, and for five years she ran the mills.  She bought this land
+here then, too, for a trifle, and laid out a village and induced her
+wealthy friends to build handsome villas and make Seaburgh the
+fashion.  So, when my father came to himself, as one might say, he
+was a rich man and could give up work.  Then she used to coach
+Bob and me at school, and pushed us into the business we were
+made for&mdash;Bob, the law, and me, medicine&mdash;when my father wanted
+us to keep in the mills.  I ought to have told you the kind of woman
+she was before now," he added in a deprecatory tone.
+</p><p>"Oh, it wasn't necessary," said Maria briskly, adjusting her
+veil.  "I've always been considered a good judge of character.  One
+sees at a glance that Mrs. Shore is a superior person.  But in
+<hi rend="italic">my</hi> opinion, a woman of her position should wear stylish
+clothes.  When she does not she errs in taste.  Of course, I may be
+wrong, John.  I'm from the West, you know.  None of the women of
+my family ever ran woolen mills or laid out towns, but they always
+understood society and costume.  My mother was noted as the most
+elegant dresser in Kansas City.  I must say that in my opinion Mrs.
+Shore is lacking in that very essential point, dear."
+</p><p>"Yes, no doubt."  John stared about vaguely.  "Yes, you might
+give her a hint, Molly."
+</p><p>They had come to the gate of their own house.
+</p><p>"Your mother," said Maria, "has ordered vines to be set out in
+this front yard.  She says it will look like a bower next summer.  I'm
+not a bird!  I don't want to live in a bower.  I want the sun pouring
+into every room."
+</p><p>John looked at her anxiously.  "We all think mother has such
+good taste&mdash;I don't know, I'm sure&mdash;A bower&mdash;Well, come in, dinner
+must be ready.  Where's the boy?" he shouted up the stairs.
+</p><p>The nurse appeared, baby in arm.
+</p><p>"Where are his coral sleeve bands, Ann," said Maria.  "And his
+lace dress?  Who put this wrapper and sacque on him?"
+</p><p>"Mrs. Shore stopped on her way down street this morning,"
+said Ann pertly.  "She said it was too damp for his neck and arms to
+be bare.  He'd have croup.  I supposed <hi rend="italic">she</hi> knew."
+</p><p>"Very well."  Maria swept into her own room with the child in
+her arms.  She hugged him when she was alone until he screamed,
+her pale eyes flashing.  "He's my baby!  This is my house!" she said.
+"I may not be a strong-minded woman, but I'll not be trampled
+under foot any longer!"
+</p><p>John came in.  "Fire going?  I'm frozen to death.  Dinner's
+ready.  Bless my soul, Molly, what's the matter?  You've been
+crying!"
+</p><p>"No, no; I'm just tired."  She laughed, dabbing her cheeks with
+the baby's blanket.  Maria loved her husband.  She did not mean to
+worry him.  She would put up with his mother's meddling.  She
+bathed her face, gave the boy to Ann, and went in to dinner, where
+she feigned an interest in the anti-toxin argument and laughed at
+John's jokes in a way which was absolutely heroic.  For the limp
+belle of Ford City was human after all.  Even the most boneless
+worm must have ground of its own in the universe in which to dig
+its hole.
+</p><p>Frances, meanwhile, had walked briskly homeward.  The air
+was clear and frosty; through the windows of the comfortable
+dwellings which lined the street the red fire-light shone here and
+there, and savory scents of supper came out into the cold.
+Sometimes smiling faces appeared at the windows and a hand was
+waved to Frances, who nodded back gayly and hurried on.  The
+Shore
+ <pb entity="DSSR_000002602_0004" n="492"/>
+homestead stood just where the street opened out
+upon the beach.  Around it in an inclosure was a large tract of that
+ancient forest which edges the New Jersey coast.  Its age is
+unknown.  These low, brawny oaks and gnarled cedars were the first
+growth of the earth after Ocean County rose out of the sea.  Their
+roots take hold of marl and the skeletons of fishes dead before the
+flood.  It had been Frances who had fenced them in around her
+home.  No royal park in England or France, she used to say, could
+boast of trees more ancient than these, or with as strange or
+significant a history.  She knew and loved every one of them and
+she was sure they knew her and had their own opinions about her.
+</p><p>As she stood by the gate she struck the snow from the branches
+of one old cedar, gray bearded with lichen, with soft, friendly blows
+and that sudden throb of happiness in her breast which comes to all
+of us sometimes from strong vitality and sheer health of body and
+brain.  She stopped a moment, looking down to the beach.  There
+had been a nor'east storm and the surf rolled in heavily with sullen
+thunder.  Red lights flamed up behind the hills in the west.  She
+could have a happy half-hour on the beach before dinner alone and
+in quiet.  There were dull souls who cared nothing for Nature.  She
+thanked God that her soul was not dull.
+</p><p>She turned to go down and then stopped, remembering that her
+husband would be alone, and that he liked that half-hour's gossip
+alone with her in the evening.  She reminded herself that in the
+thirty years of her married life she had never once for her own
+comfort cheated him of a moment's pleasure.  She turned, but at that
+moment the bells of St. John's rang the Angelus.  Frances stood still.
+She felt that she was too really devout a woman to race along when
+the hearts of so many pious folk were lifted in prayer.  As she
+waited she thought of that other woman called of God to give the
+world its helper, and of how as He suffered and died the sword had
+pierced her soul also.
+</p><p>"Hail, Mary!  Blessed art thou among women!" she said, the
+tears coming to her eyes.
+</p><p>When the bell ceased she still stood thinking.  "I, too!" she
+muttered with a complacent smile.  "I've done the best I could,
+Lord."
+</p><p>And her best had not been mean or despicable either, she
+thought.  I had been no little thing to found this town, to nurse an
+unable, weak man, to make men of her boys, to run the mills&mdash;even
+the hospital was a monument to her ability and her generosity.  Her
+life, she felt, had been able and helpful beyond that of most women
+&mdash;or men.  It would really only be fair that there should be some
+recognition of it by Whoever ruled things yonder, she thought,
+looking confidently into the yellow sunset.  Many people had some
+triumph in their old age&mdash;no doubt as a sign of God's approval&mdash;great
+wealth or fame, or happiness came to them.  Or they went out of life
+victoriously&mdash;Elijah was carried away in a chariot.
+</p><p>She walked on, half smiling, as she wondered in what way&mdash;long hence,
+in her extreme old age, as Death inevitably approached
+&mdash;God would signify His approval of her, so that everybody would
+know.
+</p><p>But she must go home and read the evening paper to Hugh.
+</p><p>As she walked across the beach she remembered the old fable
+of Juno when she took on the disguise of a peasant woman to do
+homely work for inferior creatures.
+</p><p>There is no doubt that down in the secret depths of her soul
+Frances looked upon Hugh as an inferior.  He had no vague
+longings for perfection; he was content to be dull and honest and
+kind.  They had been children together; he had always loved her.
+</p><p>Once she had met the man who she knew was created to be her
+mate.  He had passed out of her sight forever and had not claimed
+her.  She had married Hugh Shore and given to him the last tithe of
+duty, but she never had ceased to secretly pay homage to Garneaux
+in her soul and to wonder why he had not claimed her.
+</p><p>In the tension of her thoughts just now it flashed upon her that
+when he was leaving the world he would understand his need of her.
+He would call and&mdash;she would answer.
+ <pb entity="DSSR_000002602_0005" n="493"/>
+</p><p>Yonder&mdash;and she looked into the far retreating twilight&mdash;he
+would wait for her.
+</p><p>Then a strange thing happened.
+</p><p>The call came.
+</p><p>Not from the great revolting sea, nor the sunset, nor even the
+moaning wind.  The whole matter was beyond words commonplace
+and small.  She had turned into a street, and, passing an alley,
+frowned as she noticed some tubs of garbage, when a chill lighter
+than a breath touched her chest.  She stopped short, looking around.
+Then a voice, which she had not heard for thirty years, spoke quietly
+to her.
+</p><p>"Now!" it said; "Frances, now!"
+</p><p>  *       *       *       *      *       *
+</p><p>When Mrs. Shore came to herself she was standing in the night
+far down the beach, calling again and again the name of a man.  It
+was not that of her husband.
+</p><p>They had a family party at dinner that night, and waited a long
+time on Mrs. Shore.  When she came in she was as exquisitely
+dressed and gay as usual.  But there was a deadly pallor on her face.
+</p><p>Will, who was a keen-sighted fellow and his mother's boy,
+took her aside.
+</p><p>"Something is wrong," he said.  "What is it?  Tell me, dear."
+</p><p>"Nothing.  I felt a little chill on the beach.  It is nothing.  Come
+here, Will."  She walked to the window and stood looking into the
+dark.
+</p><p>"What is it, mother?"  He took her hand and stroked it gently.
+</p><p>"I want to talk to you about&mdash;Jeanie."
+</p><p>He dropped her hand and drew back.
+</p><p>"No," he said sternly.  "No; better not, mother.  That's over.  I
+gave her up as you wished.  I understand.  It would never have done.
+It would have made you and father wretched.  Her people are
+vulgar&mdash;impossible.  She&mdash;But it doesn't matter what she is.  I've
+given her up."
+</p><p>Mrs. Shore tried to smile gayly.  "She is a good, innocent child
+and you love her.  That is all we should have thought of.  Never
+mind her people.  Marry the woman you love, Will; I'll straighten
+out the difficulty with your father.  I'll talk to you to-morrow.  But&mdash;for
+God's sake, boy, marry the woman you love!"
+</p><p>A moment later she went to Hugh with a cup of hot coffee,
+giving him an affectionate pat on the shoulders.  He nodded kindly.
+</p><p>Two weeks later Mrs. Shore brought Jeanie Wood home for a
+visit.  Her engagement to Will had been announced.  She was a
+pretty child with sincere, tender eyes, and Frances petted her as she
+never had Maria.
+</p><p>"I want to show you all my little ways of housekeeping," she
+said to her one day&mdash;"the ways Mr. Shore and Will prefer, in case,
+when you come to us, I should go away&mdash;for a while."
+</p><p>Jeanie smiled, with an anxious frown.  That evening she asked
+Will: "Must we live here when we are married?  I should not be
+afraid of your father.  But Mrs. Shore&mdash;It would be like hobnobbing
+with Madame de Stael or an Empress&mdash;"
+</p><p>Will stared at her.  "Why, mother's a real sport!  There's
+nobody I'm as intimate with.  You don't know her."
+</p><p>But he was anxious after that.  It might be better that he and
+Jeanie should go away.  Mother certainly was peculiar, if you didn't
+know her&mdash;
+</p><p>Mrs. Shore quietly made ready the house for the young couple.
+"Mr. Shore's apartments," she said to the upholsterer, "will not be
+altered.  But I am going away, and you will refurnish my rooms for
+my son's wife."
+</p><p>She looked forward to this going away as to a great tragedy
+and triumph.  Her husband watched her silently.  Did he suspect that
+Death had her by the hand, she asked herself sometimes, pacing up
+and down her room.  Did he guess that she had been called by the
+man destined to be her master when life began?
+</p><p>Sometimes, looking about the room, she saw the thousand
+little trifles which Hugh had slowly gathered to make her life easy
+and pleasant.  He had loved her greatly&mdash;in his way.
+</p><p>Then for a moment his way seemed the best and dearest thing
+on earth.
+</p><p>What could she do out yonder without Hugh?
+</p><p>But had she not been called?
+</p><p>The end came, suddenly.
+</p><p>Her brother George came down from
+ <pb entity="DSSR_000002602_0006" n="494"/>
+New York
+bringing much gossip, political and literary.  He was a very talkative
+man.
+</p><p>"This is a sad thing about Garneaux," he said as they sat about
+the fire in the evening.
+</p><p>Hugh glanced quickly at his wife, but said nothing.
+</p><p>"A man so helpful to the world&mdash;a great scientist," said George.
+</p><p>"Philip Garneaux is dead," said Frances slowly, as if reciting a
+lesson.  She rose pale and trembling.  "He died on the tenth of this
+month at six o'clock in the evening.  The Angelus had just rung."
+</p><p>"Dead?  Not a bit of it!" said George with an unpleasant laugh.
+"Pity he hadn't died.  Everybody always knew Garneaux's moral
+character was rotten to the core, but it has come out now that he was
+actually married to two women.  He had to put off at night for
+Brazil or he would have gone to the penitentiary."
+</p><p>Mrs. Shore sat down.  She did not hear what it was they said.
+Hugh was silent.  He looked at her furtively now and then.  She
+knew that he did it.  Did he understand?  She had made a dream out
+of her own vanity and worshiped it all of her life, blind to the man&mdash;better
+than all men&mdash;who loved her.  Her dream was a sham, God
+had given her a reality.
+</p><p>She went out of the room presently and did not come back that
+night.
+</p><p>Mrs. Shore made some changes the next day, arranging that
+Will and his wife should go to a house of their own.
+</p><p>"Your father and I will need our home to ourselves," she said
+to them.
+</p><p>"You are not going away as you said, then?" asked Jeanie.
+</p><p>"No, not now," she said.
+</p><p>After that the family vaguely felt that Frances had lost the
+backbone of her character.  Her brother said bluntly that it was her
+conceit that was gone.  Whatever it was, they loved her better
+without it.  How much her husband knew of her real story she never
+could tell.  She thought his silence was heroic, and loved him the
+more for it.  She threw now all the longing and passion of her
+dreams into her love for him.
+</p><p>That is the way in which the real Frances Shore was born again
+to life.  Not until middle age&mdash;old age sometimes&mdash;do we see the
+difference between our dreams and the realities which God gives us.
+</p>
+<closer><signed>PHILADELPHIA, PA.</signed></closer>
+
+</div1>
+
+</body>
+</text>
+</TEI.2>
+

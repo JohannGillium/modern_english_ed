@@ -1,0 +1,837 @@
+<?xml version="1.0"?>
+
+<?dlps id="WarStor"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOnum SYSTEM "http://text.lib.virginia.edu/charent/iso-num.ent"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+ 
+]>
+ 
+<TEI.2 id="WarStor"> 
+<teiHeader type="migrated" creator="Etext">
+<fileDesc>
+<titleStmt>
+<title type="main">"The Story of Uncle Tom's Cabin."</title>
+<title type="sort">the story of uncle toms cabin</title>
+<author>Warner, Charles Dudley</author>
+<respStmt>
+<resp>Creation of machine-readable version:</resp> 
+<name>Judy Boss</name> 
+<resp>Conversion to TEI.2-conformant markup:</resp> 
+<name>University of Virginia Library Electronic Text Center</name>
+</respStmt>
+</titleStmt> 
+<extent>ca. <num type="kilobytes">46</num> kilobytes</extent> 
+<publicationStmt>
+<publisher>University of Virginia Library</publisher>
+<pubPlace>Charlottesville, Virginia</pubPlace> 
+<idno type="ETC">WarStor</idno> 
+<date value="1995">1995</date>
+<availability status="public">
+<p n="copyright">Copyright &copy; 1995 by the Rector and Visitors of the University of Virginia</p>
+<p n="access">Publicly accessible</p>
+</availability>
+<idno type="uva-pid">uva-lib:476457</idno>
+</publicationStmt>
+<seriesStmt>
+<title>University of Virginia Library, Text collection</title>
+<idno type="uva-set">UVA-LIB-Text</idno>
+</seriesStmt> 
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title type="main">"The Story of Uncles Tom's Cabin."</title>
+<title type="sort">the story of uncles toms cabin</title>
+<author>Charles Dudley Warner</author>
+</titleStmt> 
+<publicationStmt>
+<publisher>Houghton, Mifflin and Company</publisher> 
+<pubPlace>Boston, New York</pubPlace> 
+<date value="1896">1896</date>
+</publicationStmt> 
+<seriesStmt>
+<p>Atlantic Monthly, V.78 1896 Pages311-321</p>
+</seriesStmt> 
+</biblFull>
+</sourceDesc>
+</fileDesc> 
+<encodingDesc>
+<projectDesc>
+<p>Prepared for the University of Virginia Library Electronic Text 
+Center</p>
+</projectDesc> 
+<editorialDecl>
+<p>All quotation marks retained as data</p> 
+<p>Spell-check and verification made 
+against printed text using WordPerfect spell checker</p> 
+<p>All unambiguous end-of-line hyphens have been removed, and the 
+trailing part of a word has been joined to the preceding line.</p> 
+<p id="ETC">Keywords in the header are a local Electronic Text Center 
+scheme 
+to aid in establishing analytical groupings</p>
+</editorialDecl> 
+<refsDecl>
+<p>ID elements are given for each page element and are composed of the 
+text's 
+unique cryptogram and the given page number, as in AusEmma1 for page 
+one of Jane Austen's Emma.</p>
+</refsDecl>
+</encodingDesc> 
+<profileDesc>
+<creation>
+<date value="1896">1896</date>
+</creation> 
+<langUsage>
+<language id="eng" usage="main">English</language>
+</langUsage> 
+<textClass>
+<keywords>
+<term>fiction</term>
+<term>prose</term> 
+<term>African American</term>
+</keywords>
+</textClass>
+</profileDesc> 
+<revisionDesc>
+<change>
+<date value="1995-08-02">August 2, 1995</date> 
+<respStmt>
+<resp>corrector</resp> 
+<name>Lorrie S. Chisholm, Electronic Text Center, University of 
+Virginia Library System.</name>
+</respStmt> 
+<item>General TEI tagging, removed unambiguous line-end hyphenation 
+and ran electronic spell-check using wp51.</item>
+</change> 
+<change>
+<date value="2005-07">July 2005</date>
+<respStmt>
+<resp>Corrector</resp>
+<name>Margaret Konkol</name>
+</respStmt>
+<item>Converted SGML to XML and fixed tagging.</item>
+</change>
+<change>
+<date value="2007-09">September 2007</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Ethan Gruber, University of Virginia Library</name>
+</respStmt>
+<item>Converted XML markup from TEI Lite to uva-dl-tei (TEI P4 with local customizations).</item>
+</change>
+<change>
+<date value="2008-01">January 2008</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Greg Murray, University of Virginia Library</name>
+</respStmt>
+<item>Programmatically updated TEI header markup (but not header content) for minimal compliance with current QA requirements.</item>
+</change>
+</revisionDesc>
+</teiHeader> 
+ 
+<text id="d1">  
+ 
+<body id="d2">
+
+<div1 type="article" id="d3"> <pb n="311"/>  
+<head>THE STORY OF UNCLE TOM'S CABIN.</head> 
+ 
+<p>On the 29th of June, 1852, Henry Clay died.  In that month the 
+two great political parties, in their national conventions, had 
+accepted as a finality all the compromise measures of 1850, and the 
+last hours of the Kentucky statesman were brightened by the thought 
+that his efforts had secured the perpetuity of the Union. 
+</p><p>But on the 20th of March, 1852, there had been an event, the 
+significance of which was not taken into account by the political 
+conventions or by Clay, which was to test the conscience of the 
+nation.  This was the publication of Uncle Tom's Cabin.  Was this 
+only an "event," the advent of a new force in politics; was the 
+book merely an abolition pamphlet, or was it a novel, one of the 
+few great masterpieces of fiction that the world has produced? 
+After the lapse of forty-four years and the disappearance of 
+African slavery on this continent, it is perhaps possible to 
+consider this question dispassionately. 
+</p><p>The compromise of 1850 satisfied neither the North nor the 
+South.  The admission of California as a free State was regarded by 
+Calhoun as fatal to the balance between the free and the slave 
+States, and thereafter a fierce agitation sprang up for the 
+recovery of this loss of balance, and ultimately for Southern 
+preponderance, which resulted in the repeal of the Missouri 
+Compromise, the Kansas-Nebraska war, and the civil war.  The 
+fugitive slave law was hateful to the North not only because it was 
+cruel and degrading, but because it was seen to be a move formed 
+for nationalizing slavery.  It was unsatisfactory to the South 
+because it was deemed inadequate in its provisions, and because the 
+South did not believe the North would execute it in good faith.  So 
+unstable did the compromise seem that in less than a year after the 
+passage of all its measures, Henry Clay and forty-four Senators and 
+Representatives united in a manifesto declaring that they would 
+support no man for office who was not known to be opposed to any 
+disturbance of the settlements of the compromise.  When, in 
+February, 1851, the recaptured fugitive slave, Burns, was rescued 
+from the United States officers in Boston, Clay urged the 
+investment of the President with extraordinary power to enforce the 
+law. 
+</p><p>Henry Clay was a patriot, a typical American.  The republic 
+and its preservation were the passions of his life.  Like Lincoln, 
+who was born in the State of his adoption, he was willing to make 
+almost any sacrifice for the maintenance of the Union.  He had no 
+sympathy with the system of slavery.  There is no doubt that he 
+would have been happy in the belief that it was in the way of 
+gradual and peaceful extinction.  With him, it was always the Union 
+before state rights and before slavery.  Unlike Lincoln, he had not 
+the clear vision to see that the republic could not endure half 
+slave and half free.  He believed that the South, appealing to the 
+compromises of the Constitution, would sacrifice the Union before 
+it would give up slavery, and in fear of this menace he begged the 
+North to conquer its prejudices.  We are not liable to overrate his 
+influence as a compromising pacificator from 1832 to 1852.  History 
+will no doubt say that it was largely due to him that the war on 
+the Union was postponed to a date when its success was impossible. 
+</p><p>It was the fugitive slave law that brought the North face to 
+face with slavery nationalized, and it was the fugitive slave law 
+that produced Uncle Tom's Cabin.  The effect of this story was 
+immediate and electric.  It went straight to the hearts of tens of 
+thousands 
+ 
+<pb n="312"/>  
+of people who had never before considered slavery 
+except as a political institution for which they had no personal 
+responsibility.  What was this book, and how did it happen to 
+produce such an effect?  It is true that it struck into a time of 
+great irritation and agitation, but in one sense there was nothing 
+new in it.  The facts had all been published.  For twenty years 
+abolition tracts, pamphlets, newspapers, and books had left little 
+to be revealed, to those who cared to read, as to the nature of 
+slavery or its economic aspects.  The evidence was practically all 
+in,&mdash;supplied largely by the advertisements of Southern newspapers 
+and by the legislation of the slaveholding States,&mdash;but it did not 
+carry conviction; that is, the sort of conviction that results in 
+action.  The subject had to be carried home to the conscience. 
+Pamphleteering, convention-holding, sermons, had failed to do this. 
+Even the degrading requirements of the fugitive slave law, which 
+brought shame and humiliation, had not sufficed to fuse the public 
+conscience, emphasize the necessity of obedience to the moral law, 
+and compel recognition of the responsibility of the North for 
+slavery.  Evidence had not done this, passionate appeals had not 
+done it, vituperation had not done it.  What sort of presentation 
+of the case would gain the public ear and go to the heart?  If Mrs. 
+Stowe, in all her fervor, had put forth first the facts in The Key 
+to Uncle Tom's Cabin, which so buttressed her romance, the book 
+would have had no more effect than had followed the like 
+compilations and arraignments.  What was needed?  If we can 
+discover this, we shall have the secret of this epoch-making novel. 
+</p><p>The story of this book has often been told.  It is in the 
+nature of a dramatic incident of which the reader never tires any 
+more than the son of Massachusetts does of the minutest details of 
+that famous scene in the Senate Chamber when Webster replied to 
+Hayne. 
+</p><p>At the age of twenty-four the author was married and went to 
+live in Cincinnati, where her husband held a chair in the Lane 
+Theological Seminary.  There for the first time she was brought 
+into relations with the African race and saw the effects of 
+slavery.  She visited slaveholders in Kentucky and had friends 
+among them.  In some homes she saw the "patriarchal" institution at 
+its best.  The Beecher family were anti-slavery, but they had not 
+been identified with the abolitionists, except perhaps Edward, who 
+was associated with the murdered Lovejoy.  It was long a reproach 
+brought by the abolitionists against Henry Ward Beecher that he 
+held entirely aloof from their movement.  At Cincinnati, however, 
+the personal aspects of the case were brought home to Mrs. Stowe. 
+She learned the capacities and peculiarities of the negro race. 
+They were her servants; she taught some of them; hunted fugitives 
+applied to her; she ransomed some by her own efforts; every day 
+there came to her knowledge stories of the hunger for freedom, of 
+the ruthless separation of man and wife and mother and child, and 
+of the heroic sufferings of those who ran away from the fearful 
+doom of those "sold down South."  These things crowded upon her 
+mind and awoke her deepest compassion.  But what could she do 
+against all the laws, the political and commercial interests, the 
+great public apathy?  Relieve a case here and there, yes.  But to 
+dwell upon the gigantic evil, with no means of making head against 
+it, was to invite insanity. 
+</p><p>As late as 1850, when Professor Stowe was called to Bowdoin 
+College, and the family removed to Brunswick, Maine, Mrs. Stowe had 
+not felt impelled to the duty she afterwards undertook.  "In fact, 
+it was a sort of general impression upon her mind, as upon that of 
+many humane people in those days, that the subject was so dark and 
+painful a one, so involved in difficulty and obscurity, so utterly 
+beyond human hope 
+ 
+<pb n="313"/>  
+or help, that it was of no use to read, 
+or think, or distress one's self about it."  But when she reached 
+New England the excitement over the fugitive slave law was at its 
+height.  There was a panic in Boston among the colored people 
+settled there, who were daily fleeing to Canada.  Every mail 
+brought her pitiful letters from Boston, from Illinois, and 
+elsewhere, of the terror and despair caused by the law.  Still more 
+was the impressed by the apathy of the Christian world at the 
+North, and surely, she said, the people did not understand what the 
+"system" was.  Appeals were made to her, who had some personal 
+knowledge of the subject, to take up her pen.  The task seemed 
+beyond her in every way.  She was not strong, she was in the midst 
+of heavy domestic cares, with a young infant, with pupils to whom 
+she was giving daily lessons, and the limited income of the family 
+required the strictest economy.  The dependence was upon the small 
+salary of Professor Stowe, and the few dollars she could earn by an 
+occasional newspaper or magazine article.  But the theme burned in 
+her mind, and finally took this shape: at least she would write 
+some sketches and show the Christian world what slavery really was, 
+and what the system was that they were defending.  She wanted to do 
+this with entire fairness, showing all the mitigations of the 
+"patriarchal" system, and all that individuals concerned in it 
+could do to alleviate its misery.  While pondering this she came by 
+chance, in a volume of an anti-slavery magazine, upon the 
+authenticated account of the escape of a woman with her child on 
+the ice across the Ohio River from Kentucky.  She began to 
+meditate.  The faithful slave husband in Kentucky, who had refused 
+to escape from a master who trusted him, when he was about to be 
+sold "down river," came to her as a pattern of Uncle Tom, and the 
+scenes of the story began to form themselves in her mind.  "The 
+first part of the book ever committed to writing [this is the 
+statement of Mrs. Stowe] was the death of Uncle Tom.  This scene 
+presented itself almost as a tangible vision to her mind while 
+sitting at the communion-table in the little church in Brunswick. 
+She was perfectly overcome by it, and could scarcely restrain the 
+convulsion of tears and sobbings that shook her frame.  She 
+hastened home and wrote it, and her husband being away, read it to 
+her two sons of ten and twelve years of age.  The little fellows 
+broke out into convulsions of weeping, one of them saying through 
+his sobs, 'Oh, mamma, slavery is the most cursed thing in the 
+world!'  From that time the story can less be said to have been 
+composed by her than imposed upon her.  Scenes, incidents, 
+conversations rushed upon her with a vividness and importunity that 
+would not be denied.  The book insisted upon getting itself into 
+being, and would take no denial." 
+</p><p>When two or three chapters were written she wrote to her 
+friend, Dr. Bailey, of Washington, the editor of The National Era, 
+to which she had contributed, that she was planning a story that 
+might run through several numbers of the Era.  The story was at 
+once applied for, and thereafter weekly installments were sent on 
+regularly, in spite of all cares and distractions.  The 
+installments were mostly written during the morning, on a little 
+desk in a corner of the dining-room of the cottage in Brunswick, 
+subject to all the interruptions of house-keeping, her children 
+bursting into the room continually with the importunity of 
+childhood.  But they did not break the spell or destroy her 
+abstraction.  With a smile and a word and a motion of the hand she 
+would wave them off, and keep on in her magician's work.  Long 
+afterwards they recalled this, dimly understood at the time, and 
+wondered at her power of concentration.  Usually at night the 
+chapters were read to the family, who followed the story with 
+ 
+<pb n="314"/>  
+intense feeling.  The narrative ran on for nine months, 
+exciting great interest among the limited readers of the Era, and 
+gaining sympathetic words from the anti-slavery people, but without 
+making any wide impression on the public. 
+</p><p>We may pause here in the narrative to note two things: the 
+story was not the work of a novice, and it was written out of 
+abundant experience and from an immense mass of accumulated thought 
+and material.  Mrs. Stowe was in her fortieth year.  She had been 
+using her pen since she was twelve years old, in extensive 
+correspondence, in occasional essays, in short stories and 
+sketches, some of which appeared in a volume called The Mayflower, 
+published in 1843, and for many years her writing for newspapers 
+and periodicals had added appreciably to the small family income. 
+She was in the maturity of her intellectual powers, she was trained 
+in the art of writing, and she had, as Walter Scott had when he 
+began the Waverley Novels at the age of forty-three, abundant store 
+of materials on which to draw.  To be sure, she was on fire with a 
+moral purpose, but she had the dramatic instinct, and she felt that 
+her object would not be reached by writing an abolition tract. 
+</p><p>"In shaping her material the author had but one purpose, to 
+show the institution of slavery truly, just as it existed.  She had 
+visited in Kentucky; had formed the acquaintance of people who were 
+just, upright, and generous, and yet slave-holders.  She had heard 
+their views, and appreciated their situation; she felt that justice 
+required that their difficulties should be recognized and their 
+virtues acknowledged.  It was her object to show that the evils of 
+slavery were the inherent evils of a bad system, and not always the 
+fault of those who had become involved in it and were its actual 
+administrators.  Then she was convinced that the presentation of 
+slavery alone, in its most dreadful forms, would be a picture of 
+such unrelieved horror and darkness as nobody could be induced to 
+look at.  Of set purpose, she sought to light up the darkness by 
+humorous and grotesque episodes, and the presentation of the milder 
+and more amusing phases of slavery, for which her recollection of 
+the never-failing wit and drollery of her former colored friends in 
+Ohio gave her abundant material." 
+</p><p>This is her own account of the process, years after.  But it 
+is evident that, whether consciously or unconsciously, she did but 
+follow the inevitable law of all great dramatic creators and true 
+story-tellers since literature began. 
+</p><p>For this story Mrs. Stowe received from the Era the sum of 
+three hundred dollars.  Before it was finished it attracted the 
+attention of Mr. J. P. Jewett, of Boston, a young and then unknown 
+publisher, who offered to issue it in book form.  His offer was 
+accepted, but as the tale ran on he became alarmed at its length, 
+and wrote to the author that she was making the story too long for 
+a one-volume novel; that the subject was unpopular; that people 
+would not willingly hear much about it; that one short volume might 
+possibly sell, but that if it grew to two that might prove a fatal 
+obstacle to its success.  Mrs. Stowe replied that she did not make 
+the story, that the story made itself, and that she could not stop 
+it till it was done.  The publisher hesitated.  It is said that a 
+competent literary critic to whom he submitted it sat up all night 
+with the novel, and then reported, "The story has life in it; it 
+will sell."  Mr. Jewett proposed to Professor Stowe to publish it 
+on half profits if he would share the expenses.  This offer was 
+declined, for the Stowes had no money to advance, and the common 
+royalty of ten per cent on the sales was accepted. 
+</p><p>Mrs. Stowe was not interested in this business transaction. 
+She was thinking only of having the book circulated for the effect 
+she had at heart.  The intense absorption in the story held her 
+until the 
+ 
+<pb n="315"/>  
+virtual end in the death of Uncle Tom, and then 
+it seemed as if the whole vital force had left her.  She sank into 
+a profound discouragement.  Would this appeal, which she had 
+written with her heart's blood, go for nothing, as all the prayers 
+and tears and strivings had already gone?  When the last proof 
+sheets left her hands, "it seemed to her that there was no hope; 
+that nobody would read, nobody would pity; that this frightful 
+system, which had already pursued its victims into the free States, 
+might at last even threaten them in Canada."  Resolved to leave 
+nothing undone to attract attention to her cause, she wrote letters 
+and ordered copies of her novel sent to men of prominence who had 
+been known for their anti-slavery sympathies,&mdash;to Prince Albert, 
+Macaulay, Charles Dickens, Charles Kingsley, and Lord Carlisle. 
+Then she waited for the result. 
+</p><p>She had not long to wait.  The success of the book was 
+immediate.  Three thousand copies were sold the first day, within 
+a few days ten thousand copies had gone, on the 1st of April a 
+second edition went to press, and thereafter eight presses running 
+day and night were barely able to keep pace with the demand for it. 
+Within a year three hundred thousand copies were sold.  No work of 
+fiction ever spread more quickly throughout the reading community 
+or awakened a greater amount of public feeling.  It was read by 
+everybody, learned and unlearned, high and low, for it was an 
+appeal to universal human sympathy, and the kindling of this spread 
+the book like wildfire.  At first it seemed to go by acclamation. 
+But this was not altogether owing to sympathy with the theme.  I 
+believe that it was its power as a novel that carried it largely. 
+The community was generally apathetic when it was not hostile to 
+any real effort to be rid of slavery.  This presently appeared.  At 
+first there were few dissenting voices from the chorus of praise. 
+But when the effect of the book began to be evident it met with an 
+opposition fiercer and more personal than the great wave of 
+affectionate thankfulness which greeted it at first.  The South and 
+the defenders and apologists of slavery everywhere were up in arms. 
+It was denounced in pulpit and in press, and some of the severest 
+things were said of it at the North.  The leading religious 
+newspaper of the country, published in New York, declared that it 
+was "anti-Christian." 
+</p><p>Mrs. Stowe was twice astonished: first by its extraordinary 
+sale, and second by the quarter from which the assault on it came. 
+She herself says that her expectations were strikingly different 
+from the facts.  "She had painted slaveholders as amiable, 
+generous, and just.  She had shown examples among them of the 
+noblest and most beautiful traits of character; had admitted fully 
+their temptations, their perplexities, and their difficulties, so 
+that a friend of hers who had many relatives in the South wrote to 
+her: 'Your book is going to be the great pacificator; it will unite 
+both North and South.'  Her expectation was that the professed 
+abolitionists would denounce it as altogether too mild in its 
+dealings with slaveholders.  To her astonishment, it was the 
+extreme abolitionists who received, and the entire South who rose 
+up against it." 
+</p><p>There is something almost amusing in Mrs. Stowe's honest 
+expectation that the deadliest blow the system ever suffered should 
+have been received thankfully by those whose traditions, education, 
+and interests were all bound up in it.  And yet from her point of 
+view it was not altogether unreasonable.  Her blackest villain and 
+most loathsome agent of the system, Legree, was a native of 
+Vermont.  All her wrath falls upon the slave-traders, the 
+auctioneers, the public whippers, and the overseers, and all these 
+persons and classes were detested by the Southerners to the point 
+of loathing, and 
+ 
+<pb n="316"/>  
+were social outcasts.  The slave-traders 
+and the overseers were tolerated as perhaps necessary in the 
+system, but they were never admitted into respectable society. 
+This feeling Mrs. Stowe regarded as a condemnation of the system. 
+</p><p>Pecuniary reward was the last thing that Mrs. Stowe expected 
+for her disinterested labor, but it suits the world's notion of the 
+fitness of things that this was not altogether wanting.  For the 
+millions of copies of Uncle Tom scattered over the world the author 
+could expect nothing, but in her own country her copyright yielded 
+her a moderate return that lifted her out of poverty and enabled 
+her to pursue her philanthropic and literary career.  Four months 
+after the publication of the book Professor Stowe was in the 
+publisher's office, and Mr. Jewett asked him how much he expected 
+to receive.  "I hope," said Professor Stowe, with a whimsical 
+smile, "that it will be enough to buy my wife a silk dress."  The 
+publisher handed him a check for ten thousand dollars. 
+</p><p>Before Mrs. Stowe had a response to the letters accompanying 
+the books privately sent to England, the novel was getting known 
+there.  Its career in Great Britain paralleled its success in 
+America.  In April a copy reached London in the hands of a 
+gentleman who had taken it on the steamer to read.  He gave it to 
+Mr. Henry Vizetelly, who submitted it to Mr. David Bogue, a man 
+known for his shrewdness and enterprise.  He took a night to 
+consider it, and then declined it, although it was offered to him 
+for five pounds.  A Mr. Gilpin also declined it.  It was then 
+submitted to Mr. Salisbury, a printer.  This taster for the public 
+sat up with the book till four o'clock in the morning, alternately 
+weeping and laughing.  Fearing, however, that this result was due 
+to his own weakness, he woke up his wife, whom he describes as a 
+rather strong-minded woman, and finding that the story kept her 
+awake and made her also laugh and cry, he thought it might safely 
+be printed.  It seems, therefore, that Mr. Vizetelly ventured to 
+risk five pounds, and the volume was brought out through the 
+nominal agency of Clarke &#x0026; Company.  In the first week an edition 
+of seven thousand was worked off.  It made no great stir until the 
+middle of June, but during July it sold at the rate of one thousand 
+a week.  By the 20th of August the demand for it was overwhelming. 
+The printing firm was then employing four hundred people in getting 
+it out, and seventeen printing-machines, besides hand-presses. 
+Already one hundred and fifty thousand copies were sold.  Mr. 
+Vizetelly disposed of his interest, and a new printing firm began 
+to issue monster editions.  About this time the publishers awoke to 
+the fact that any one was at liberty to reprint the book, and the 
+era of cheap literature was initiated, founded on American reprints 
+which cost the publisher no royalty.  A shilling edition followed 
+the one-and-sixpence, and then one complete for sixpence.  As to 
+the total sale, Mr. Sampson Low reports: "From April to December, 
+1852, twelve different editions (not reissues) were published, and 
+within the twelve months of its first appearance eighteen different 
+London publishing houses were engaged in supplying the great demand 
+that had set in, the total number of editions being forty, varying 
+from fine illustrated editions at 15s., 10s., and 7s. 6d. to the 
+cheap popular editions of 1s. 9d. and 6d.  After carefully 
+analyzing these editions and weighing probabilities with 
+ascertained facts, I am able pretty confidently to say that the 
+aggregate number of copies circulated in Great Britain and the 
+colonies exceeds one and a half millions."  Later, abridgments were 
+published. 
+</p><p>Almost simultaneously with this furor in England the book made 
+its way on the Continent.  Several translations appeared in Germany 
+and France, and for the authorized French edition Mrs. Stowe wrote 
+a new preface, which served thereafter 
+ 
+<pb n="317"/>  
+for most of the European editions.  I find no record of the 
+order of the translations of the book into foreign languages, but 
+those into some of the Oriental tongues did not appear till several years 
+after the great excitement.  The ascertained translations are into 
+twenty-three tongues, namely: Arabic, Armenian, Chinese, Danish, 
+Dutch, Finnish, Flemish, French, German, Hungarian, Illyrian, 
+Italian, Japanese, Polish, Portuguese, modern Greek, Russian, 
+Servian, Siamese, Spanish, Swedish, Wallachian, and Welsh.  Into 
+some of these languages several translations were made.  In 1878 
+the British Museum contained thirty-five editions of the original 
+text, and eight editions of abridgments or adaptations. 
+</p><p>The story was dramatized in the United States in August, 1852, 
+without the consent or knowledge of the author, and was played most 
+successfully in the leading cities, and subsequently was acted in 
+every capital in Europe.  Mrs. Stowe had neglected to secure the 
+dramatic rights, and she derived no benefit from the great 
+popularity of a drama which still holds the stage.  From the 
+phenomenal sale of a book which was literally read by the whole 
+world, the author received only the ten per cent on the American 
+editions, and by the laws of her own country her copyright expired 
+before her death. 
+ 
+</p><p>The narrative of the rise and fortunes of this book would be 
+incomplete without some reference to the response that the author 
+received from England and the Continent, and of her triumphant 
+progress through the British Isles.  Her letters accompanying the 
+special copies were almost immediately replied to, generally in 
+terms of enthusiastic and fervent thankfulness for the book, and 
+before midsummer her mail contained letters from all classes of 
+English society.  In some of them appeared a curious evidence of 
+the English sensitiveness to criticism.  Lord Carlisle and Sir 
+Arthur Helps supplemented their admiration by a protest against the 
+remark in the mouth of one of the characters that "slaves are 
+better off than a large class of the population of England."  This 
+occurred in the defense of the institution by St. Clare, but it was 
+treated by the British correspondents as the opinion of Mrs. Stowe. 
+The charge was disposed of in Mrs. Stowe's reply: "The remark on 
+that subject occurs in the dramatic part of the book, in the mouth 
+of an intelligent Southerner.  As a fair-minded person, bound to 
+state for both sides all that could be said, in the person of St. 
+Clare, the best that could be said on that point, and what I know 
+<hi rend="italic">is</hi> in fact constantly reiterated, namely, that the laboring 
+class of the South are in many respects, as to physical comfort, in 
+a better condition than the poor in England.  This is the 
+slaveholder's stereo-typed apology; a defense it cannot be, unless 
+two wrongs make one right." 
+</p><p>In April, 1853, Mr. and Mrs. Stowe and the latter's brother, 
+Charles Beecher, sailed for Europe.  Her reception there was like 
+a royal progress.  She was met everywhere by deputations and 
+addresses, and the enthusiasm her presence called forth was 
+thoroughly democratic, extending from the highest in rank to the 
+lowest.  At Edinburgh there was presented to her a national penny 
+offering, consisting of a thousand golden sovereigns on a 
+magnificent silver salver, an unsolicited contribution in small 
+sums by the people. 
+</p><p>At a reception in Stafford House, London, the Duchess of 
+Sutherland presented her with a massive gold bracelet, which has an 
+interesting history.  It is made of ten oval links in imitation of 
+slave fetters.  On two of the links were the inscriptions "March 
+25, 1807," the date of the abolition of the slave-trade, and 
+"August 1, 1838," the date of the abolition of slavery in all 
+British territory.  The third inscription is 
+ 
+<pb n="318"/>  
+"562,848&mdash;March 19, 1853," the date of the address of the women of England to 
+the women of America on slavery, and the number of the women who 
+signed.  It was Mrs. Stowe's privilege to add to these inscriptions 
+the following: "Emancipation D. C. Apl. 16, '62;" "President's 
+Proclamation Jan. 1, '63;" "Maryland free Oct. 13, '64;" "Missouri 
+free Jan. 11, '65;" and on the clasp link, "Constitution amended by 
+Congress Jan. 31, '65.  Constitutional Amendment ratified."  Two of 
+the links are vacant.  What will the progress of civilization in 
+America offer for the links nine and ten? 
+</p><p>One of the most remarkable documents which resulted from Uncle 
+Tom was an address from the women of England to the women of 
+America, acknowledging the complicity in slavery of England, but 
+praying aid in removing from the world "our common crimes and 
+common dishonor," which was presented to Mrs. Stowe in 1853.  It 
+was the result of a meeting at Stafford House, and the address, 
+composed by Lord Shaftesbury, was put into the hands of canvassers 
+in England and on the Continent, and as far as Jerusalem.  The 
+signatures of 562,848 women were obtained, with their occupations 
+and residences, from the nobility on the steps of the throne down 
+to maids in the kitchen.  The address is handsomely engrossed on 
+vellum.  The names are contained in twenty-six massive volumes, 
+each fourteen inches high by nine in breadth and three inches 
+thick, inclosed in an oak case.  It is believed that this is the 
+most numerously signed address in existence.  The value of the 
+address, with so many names collected in haphazard fashion, was 
+much questioned, but its use was apparent in the height of the 
+civil war, when Mrs. Stowe replied to it in one of the most 
+vigorous and noble appeals that ever came from her pen.  This 
+powerful reply made a profound impression in England. 
+</p><p>This is in brief the story of the book.  It is still read, and 
+read the world over, with tears and with laughter; it is still 
+played to excited audiences.  Is it a great novel, or was it only 
+an event of an era of agitation and passion?  Has it the real 
+dramatic quality&mdash;the poet's visualizing of human life&mdash;that makes 
+works of fiction, of imagination, live?  Till recently, I had not 
+read the book since 1852.  I feared to renew acquaintance with it 
+lest I should find only the shell of an exploded cartridge.  I took 
+it up at the beginning of a three-hours' railway journey.  To my 
+surprise the journey did not seem to last half an hour, and half 
+the time I could not keep back the tears from my eyes.  A London 
+critic, full of sympathy with Mrs. Stowe and her work, recently 
+said, "Yet she was not an artist, she was not a great woman."  What 
+is greatness?  What is art?  In 1862 probably no one who knew 
+General Grant would have called him a great man.  But he took 
+Vicksburg.  This woman did something with her pen,&mdash;on the whole, 
+the most remarkable and effective book in her generation.  How did 
+she do it?  Without art?  George Sand said, "In matters of art 
+there is but one rule, to paint and to move.  And where shall we 
+find conditions more complete, types more vivid, situations more 
+touching, more original, than in Uncle Tom?"  If there is not room 
+in our art for such a book, I think we shall have to stretch our 
+art a little.  "Women, too, are here judged and painted with a 
+master hand."  This subtle critic, in her overpoweringly tender and 
+enthusiastic review, had already inquired about the capacity of 
+this writer.  "Mrs. Stowe is all instinct; it is the very reason 
+that she appears to some not to have talent.  Has she not talent? 
+What is talent?  Nothing, doubtless, compared to genius; but has 
+she genius?  I cannot say that she has talent as one understands it 
+in the world of letters, but she has genius as humanity feels the 
+need of genius,&mdash;the genius 
+ 
+<pb n="319"/>  
+of goodness, not that of the 
+man of letters, but of the saint."  It is admitted that Mrs. Stowe 
+was not a woman of letters in the common acceptation of that term, 
+and it is plain that in the French tribunal, where form is of the 
+substance of the achievement, and which reluctantly overlooked the 
+crudeness of Walter Scott, in France where the best English novel 
+seems a violation of established canons, Uncle Tom would seem to 
+belong where some modern critics place it, with works of the heart, 
+and not of the head.  The reviewer is, however, candid: "For a long 
+time we have striven in France against the prolix explanations of 
+Walter Scott.  We have cried out against those of Balzac, but on 
+consideration have perceived that the painter of manners and 
+character has never done too much, that every stroke of the pencil 
+was needed for the general effect.  Let us learn then to appreciate 
+all kinds of treatment, where the effect is good, and where they 
+bear the seal of a master hand." 
+</p><p>It must be admitted to the art critic that the book is 
+defective according to the rules of the modern French romance; that 
+Mrs. Stowe was possessed by her subject, and let her fervid 
+interest in it be felt; that she had a definite purpose.  That 
+purpose was to quicken the sense of responsibility of the North by 
+showing the real character of slavery, and to touch the South by 
+showing that the inevitable wrong of it lay in the system rather 
+than in those involved in it.  Abundant material was in her hands, 
+and the author burned to make it serviceable.  What should she do? 
+She might have done what she did afterwards in The Key, presented 
+to the public a mass of statistics, of legal documents.  The 
+evidence would have been unanswerable, but the jury might not have 
+been moved by it; they would have balanced it by considerations of 
+political and commercial expediency.  I presume that Mrs. Stowe 
+made no calculation of this kind.  She felt her course, and went on 
+in it.  What would an artist have done, animated by her purpose and 
+with her material?  He would have done what Cervantes did, what 
+Tourgenieff did, what Mrs. Stowe did.  He would have dramatized his 
+facts in living personalities, in effective scenes, in vivid 
+pictures of life.  Mrs. Stowe exhibited the system of slavery by a 
+succession of dramatized pictures, not always artistically welded 
+together, but always effective as an exhibition of the system. 
+Cervantes also showed a fading feudal romantic condition by a 
+series of amusing and pathetic adventures, grouped rather loosely 
+about a singularly fascinating figure. 
+</p><p>Tourgenieff, a more consummate artist, in his hunting scenes 
+exhibited the effect of serfdom upon society, in a series of scenes 
+with no necessary central figure, without comment, and with 
+absolute concealment of any motive.  I believe the three writers 
+followed their instincts, without an analytic argument as to the 
+method, as the great painter follows his when he puts an idea upon 
+canvas.  He may invent a theory about it afterwards; if he does 
+not, some one else will invent it for him.  There are degrees of 
+art.  One painter will put in unnecessary accessories, another will 
+exhibit his sympathy too openly, the technique or the composition 
+of another can be criticised.  But the question is, is the picture 
+great and effective? 
+</p><p>Mrs. Stowe had not Tourgenieff's artistic calmness.  Her mind 
+was fused into a white heat with her message.  Yet, how did she 
+begin her story?  Like an artist, by a highly dramatized scene, in 
+which the actors, by a few strokes of the pen, appear as distinct 
+and unmistakable personalities, marked by individual peculiarities 
+of manner, speech, motive, character, living persons in natural 
+attitudes.  The reader becomes interested in a shrewd study of 
+human nature, of a section of life, with its various refinement, 
+coarseness, fastidiousness and vulgarity, 
+ 
+<pb n="320"/>  
+its humor and pathos.  As he goes on he discovers that every character has been 
+perfectly visualized, accurately limned from the first; that a type 
+has been created which remains consistent, which is never deflected 
+from its integrity by any exigencies of plot.  This clear 
+conception of character (not of earmarks and peculiarities adopted 
+as labels), and faithful adhesion to it in all vicissitudes, is one 
+of the rarest and highest attributes of genius.  All the chief 
+characters in the book follow this line of absolutely consistent 
+development, from Uncle Tom and Legree down to the most aggravating 
+and contemptible of all, Marie St. Clare.  The selfish and 
+hysterical woman has never been so faithfully depicted by any other 
+author. 
+</p><p>Distinguished as the novel is by its character-drawing and its 
+pathos, I doubt if it would have captivated the world without its 
+humor.  This is of the old-fashioned kind, the large humor of 
+Scott, and again of Cervantes, not verbal pleasantry, not the 
+felicities of Lamb, but the humor of character in action, of 
+situations elaborated with great freedom, and with what may be 
+called a hilarious conception.  This quality is never wanting in 
+the book, either for the reader's entertainment by the way, or to 
+heighten the pathos of the narrative by contrast.  The introduction 
+of Topsy into the New Orleans household saves us in the dangerous 
+approach to melodrama in the religious passages between Tom and St. 
+Clare.  Considering the opportunities of the subject, the book has 
+very little melodrama; one is apt to hear low music on the entrance 
+of little Eva, but we are convinced of the wholesome sanity of the 
+sweet child.  And it is to be remarked that some of the most 
+exciting episodes, such as that of Eliza crossing the Ohio River on 
+the floating ice (of which Mr. Ruskin did not approve), are based 
+upon authentic occurrences.  The want of unity in construction of 
+which the critics complain is partially explained by the necessity 
+of exhibiting the effect of slavery in its entirety.  The parallel 
+plots, one running to Louisiana and the other to Canada, are tied 
+together by this consideration, and not by any real necessity to 
+each other. 
+</p><p>There is no doubt that Mrs. Stowe was wholly possessed by her 
+theme, rapt away like a prophet in a vision, and that, in her 
+feeling at the time, it was written through her quite as much as by 
+her.  This idea grew upon her mind in the retrospective light of 
+the tremendous stir the story made in the world, so that in her 
+later years she came to regard herself as a providential 
+instrument, and frankly to declare that she did not write the book; 
+"God wrote it."  In her own account, when she reached the death of 
+Uncle Tom, "the whole vital force left her."  The inspiration there 
+left her, and the end of the story, the weaving together of all the 
+loose ends of the plot, in the joining together almost by miracle 
+the long separated, and the discovery of the relationships, is the 
+conscious invention of the novelist. 
+</p><p>It would be perhaps going beyond the province of the critic to 
+remark upon what the author considered the central power of the 
+story, and its power to move the world, the faith of Uncle Tom in 
+the Bible.  This appeal to the emotion of millions of readers 
+cannot, however, be overlooked.  Many regard the book as effective 
+in regions remote from our perplexities by reason of this grace. 
+When the work was translated into Siamese, the perusal of it by one 
+of the ladies of the court induced her to liberate all her slaves, 
+men, women, and children, one hundred and thirty in all.  "Hidden 
+Perfume," for that was the English equivalent of her name, said she 
+was wishful to be good like Harriet Beecher Stowe.  And as to the 
+standpoint of Uncle Tom and the Bible, nothing more significant can 
+be cited than this passage from one of the latest writings of 
+Heinrich Heine:&mdash; 
+ 
+<pb n="321"/>  
+</p><p>"The reawakening of my religious feelings I owe to that holy 
+book the Bible.  Astonishing that after I have whirled about all my 
+life over all the dance-floors of philosophy, and yielded myself to 
+all the orgies of the intellect, and paid my addresses to all 
+possible systems, without satisfaction like Messalina after a 
+licentious night, I now find myself on the same standpoint where 
+poor Uncle Tom stands,&mdash;on that of the Bible!  I kneel down by my 
+black brother in the same prayer!  What a humiliation!  With all my 
+science I have come no further than the poor ignorant negro who has 
+scarce learned to spell.  Poor Tom, indeed, seems to have seen 
+deeper things in the holy book than I. . . .  Tom, perhaps, 
+understands them better than I, because more flogging occurs in 
+them; that is to say, those ceaseless blows of the whip which have 
+aesthetically disgusted me in reading the Gospels and the Acts. 
+But a poor negro slave reads with his back, and understands better 
+than we do.  But I, who used to make citations from Homer, now 
+begin to quote the Bible as Uncle Tom does." 
+</p><p>The one indispensable requisite of a great work of imaginative 
+fiction is its universality, its conception and construction so 
+that it will appeal to universal human nature in all races and 
+situations and climates.  Uncle Tom's Cabin does that.  Considering 
+certain artistic deficiencies, which the French writers perceived, 
+we might say that it was the timeliness of its theme that gave it 
+currency in England and America.  But that argument falls before 
+the world-wide interest in it as a mere story, in so many 
+languages, by races unaffected by our own relation to slavery 
+</p><p>It was the opinion of James Russell Lowell that the anti-slavery element in Uncle Tom and Dred stood in the way of a full 
+appreciation, at least in her own country, of the remarkable genius 
+of Mrs. Stowe.  Writing in 1859, he said, "From my habits and the 
+tendency of my studies I cannot help looking at things purely from 
+an aesthetic point of view, and what I valued in Uncle Tom was the 
+genius, and not the moral."  This had been his impression when he 
+read the book in Paris, long after the whirl of excitement produced 
+by its publication had subsided, and far removed by distance from 
+local influences.  Subsequently, in a review, he wrote, "We felt 
+then, and we believe now, that the secret of Mrs. Stowe's power lay 
+in that same genius by which the great successes in creative 
+literature have always been achieved,&mdash;the genius that 
+instinctively goes to the organic elements of human nature, whether 
+under a white skin or a black, and which disregards as trivial the 
+conventions and fictitious notions which make so large a part both 
+of our thinking and feeling. . . .  The creative faculty of Mrs. 
+Stowe, like that of Cervantes in Don Quixote and of Fielding in 
+Joseph Andrews, overpowered the narrow specialty of her design, and 
+expanded a local and temporary theme with the cosmopolitanism of 
+genius." 
+</p><p>A half-century is not much in the life of a people; it is in 
+time an inadequate test of the staying power of a book.  Nothing is 
+more futile than prophecy on contemporary literary work.  It is 
+safe, however, to say that Uncle Tom's Cabin has the fundamental 
+qualities, the sure insight into human nature, and the fidelity to 
+the facts of its own time which have from age to age preserved 
+works of genius. 
+</p> 
+                   <signed><hi rend="italic">Charles Dudley Warner.</hi></signed> 
+ 
+</div1> 
+</body> 
+</text> 
+</TEI.2> 

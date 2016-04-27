@@ -1,0 +1,5993 @@
+<?xml version="1.0"?>
+
+<?dlps id="MobMeas"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOnum SYSTEM "http://text.lib.virginia.edu/charent/iso-num.ent"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+
+]>
+<TEI.2 id="MobMeas">
+<teiHeader type="migrated" creator="Etext">
+<fileDesc>
+<titleStmt>
+<title type="main">Measure for Measure</title>
+<title type="sort">measure for measure</title>
+<author>Shakespeare, William, 1564-1616</author>
+<editor>Clark, William George, 1821-1878; William Aldis Wright, 1831-1914</editor>
+<respStmt>
+<resp>Creation of machine-readable version:</resp>
+<name>Grady Ward, Moby Lexical Project</name>
+<resp>Conversion to TEI.2-conformant markup:</resp>
+<name>University of Virginia Library Electronic Text Center.</name>
+</respStmt>
+</titleStmt>
+<extent>ca. <num type="kilobytes">179</num> kilobytes</extent>
+<publicationStmt>
+<publisher>University of Virginia Library</publisher>
+<pubPlace>Charlottesville, Virginia</pubPlace>
+<idno type="ETC">MobMeas</idno>
+<date value="1998">1998</date>
+<availability status="public">
+<p n="copyright">Copyright &copy; 1998 by the Rector and Visitors of the University of Virginia</p>
+<p n="access">Publicly accessible</p>
+</availability>
+<idno type="uva-pid">uva-lib:476216</idno>
+</publicationStmt>
+<seriesStmt>
+<title>University of Virginia Library, Text collection</title>
+<idno type="uva-set">UVA-LIB-Text</idno>
+</seriesStmt>
+<notesStmt>
+<note>
+<p>We have been unable to verify conclusively the exact source of this
+electronic text, but we believe it to be "The Globe Edition" of the Works of
+William Shakespeare edited by William George Clark and William Aldis Wright.
+Error checking was done against the 1866 edition noted in the "Source
+Description" field.  These texts are public domain.</p>
+</note>
+</notesStmt>
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title type="main">Measure for Measure</title>
+<title type="sort">measure for measure</title>
+<author>Shakespeare, William, 1564-1616</author>
+<editor>Clark, William George, 1821-1878; William Aldis Wright, 1831-1914</editor>
+</titleStmt>
+<editionStmt>
+<p>The Globe Edition</p>
+</editionStmt>
+<extent>viii, 1075 p. 18 cm.</extent>
+<publicationStmt>
+<publisher>MacMillan and Co.</publisher>
+<pubPlace>Cambridge</pubPlace>
+<date value="1866">1866</date>
+<idno type="callNo">Print copy consulted: UVa Library, PR2753 .C6 1866</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+</projectDesc>
+<editorialDecl>
+<p>All unambiguous end-of-line hyphens have been removed, and the  trailing
+part of a word has been joined to the preceding line.</p>
+<p id="ETC">Some keywords in the header are a local Electronic Text Center
+scheme  to aid in establishing analytical groupings.</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date value="1604">1604</date>
+</creation>
+<langUsage>
+<language id="eng" usage="main">English</language>
+</langUsage>
+<textClass>
+<keywords>
+<term>fiction</term>
+<term>drama</term>
+<term>masculine</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change>
+<date value="1998-10">October 1998</date>
+<respStmt>
+<resp>corrector</resp>
+<name>Stephen Ramsay, Electronic Text Center</name>
+</respStmt>
+<item>Added TEI header and tags.</item>
+</change>
+<change>
+<date value="2005-07">July 2005</date>
+<respStmt>
+<resp>Corrector</resp>
+<name>John Ivor Carlson</name>
+</respStmt>
+<item>Converted to XML and/or checked tags.</item>
+</change>
+<change>
+<date value="2007-09">September 2007</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Ethan Gruber, University of Virginia Library</name>
+</respStmt>
+<item>Converted XML markup from TEI Lite to uva-dl-tei (TEI P4 with local customizations).</item>
+</change>
+<change>
+<date value="2008-01">January 2008</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Greg Murray, University of Virginia Library</name>
+</respStmt>
+<item>Programmatically updated TEI header markup (but not header content) for minimal compliance with current QA requirements.</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text id="d1">
+
+
+<front id="d2">
+
+<div1 type="play" id="d3"><head>Dramatis Personae</head>
+
+
+<list>
+<item>VINCENTIO   the Duke.
+</item>
+<item>ANGELO   Deputy.
+</item>
+<item>ESCALUS   an ancient Lord.
+</item>
+<item>CLAUDIO   a young gentleman.
+</item>
+<item>LUCIO   a fantastic.
+</item>
+<item>Two other gentlemen.</item>
+<item>Provost.</item>
+<item>PETER, THOMAS } two friars.</item>
+<item>A Justice.</item>
+<item>VARRIUS</item>
+<item>ELBOW   a simple constable.
+</item>
+<item>FROTH   a foolish gentleman.
+</item>
+<item>POMPEY   servant to Mistress Overdone.
+</item>
+<item>ABHORSON   an executioner.
+</item>
+<item>BARNARDINE   a dissolute prisoner.
+</item>
+<item>ISABELLA   sister to Claudio.
+</item>
+<item>MARIANA   betrothed to Angelo.
+</item>
+<item>JULIET   beloved of Claudio.
+</item>
+<item>FRANCISCA   a nun.
+</item>
+<item>MISTRESS OVERDONE   a bawd.
+</item>
+<item>Lords, Officers, Citizens, Boy, and Attendant.</item>
+
+</list>
+
+<p><stage>Scene: Vienna.</stage></p>
+
+</div1>
+
+</front>
+
+<body id="d4">
+
+<div1 type="act" n="1" id="d5">
+<head>Act 1</head>
+
+<div2 type="scene" n="1" id="d6">
+<head>Scene 1</head>
+
+<p><stage>An apartment in the DUKE'S palace.</stage>
+
+</p><p><stage>Enter DUKE VINCENTIO, ESCALUS, Lords and	Attendants</stage>
+
+
+</p><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Escalus.<lb/>
+
+</p></sp><sp><speaker>ESCALUS</speaker>
+<p>My lord.<lb/>
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Of government the properties to unfold,<lb/>
+Would seem in me to affect speech and discourse;<lb/>
+Since I am put to know that your own science<lb/>
+Exceeds, in that, the lists of all advice<lb/>
+My strength can give you: then no more remains,<lb/>
+But that to your sufficiency . . . . . . . .<lb/>
+. . . . . . . .  as your Worth is able,<lb/>
+And let them work. The nature of our people,<lb/>
+Our city's institutions, and the terms<lb/>
+For common justice, you're as pregnant in<lb/>
+As art and practise hath enriched any<lb/>
+That we remember. There is our commission,<lb/>
+From which we would not have you warp. Call hither,<lb/>
+I say, bid come before us Angelo.<lb/>
+
+
+</p><p><stage>Exit an Attendant</stage></p>
+
+
+<p>
+What figure of us think you he will bear?<lb/>
+For you must know, we have with special soul<lb/>
+Elected him our absence to supply,<lb/>
+Lent him our terror, dress'd him with our love,<lb/>
+And given his deputation all the organs<lb/>
+Of our own power: what think you of it?<lb/>
+
+
+</p></sp><sp><speaker>ESCALUS</speaker>
+<p>If any in Vienna be of worth<lb/>
+To undergo such ample grace and honour,<lb/>
+It is Lord Angelo.<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Look where he comes.<lb/>
+
+</p><p><stage>Enter ANGELO</stage>
+
+
+</p></sp><sp><speaker>ANGELO</speaker>
+<p>Always obedient to your grace's will,<lb/>
+I come to know your pleasure.<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Angelo,<lb/>
+There is a kind of character in thy life,<lb/>
+That to the observer doth thy history<lb/>
+Fully unfold. Thyself and thy belongings<lb/>
+Are not thine own so proper as to waste<lb/>
+Thyself upon thy virtues, they on thee.<lb/>
+Heaven doth with us as we with torches do,<lb/>
+Not light them for themselves; for if our virtues<lb/>
+Did not go forth of us, 'twere all alike<lb/>
+As if we had them not. Spirits are not finely touch'd<lb/>
+But to fine issues, nor Nature never lends<lb/>
+The smallest scruple of her excellence<lb/>
+But, like a thrifty goddess, she determines<lb/>
+Herself the glory of a creditor,<lb/>
+Both thanks and use. But I do bend my speech<lb/>
+To one that can my part in him advertise;<lb/>
+Hold therefore, Angelo:&mdash;<lb/>
+In our remove be thou at full ourself;<lb/>
+Mortality and mercy in Vienna<lb/>
+Live in thy tongue and heart: old Escalus,<lb/>
+Though first in question, is thy secondary.<lb/>
+Take thy commission.<lb/>
+
+
+</p></sp><sp><speaker>ANGELO</speaker>
+<p>Now, good my lord,<lb/>
+Let there be some more test made of my metal,<lb/>
+Before so noble and so great a figure<lb/>
+Be stamp'd upon it.<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>No more evasion:<lb/>
+We have with a leaven'd and prepared choice<lb/>
+Proceeded to you; therefore take your honours.<lb/>
+Our haste from hence is of so quick condition<lb/>
+That it prefers itself and leaves unquestion'd<lb/>
+Matters of needful value. We shall write to you,<lb/>
+As time and our concernings shall importune,<lb/>
+How it goes with us, and do look to know<lb/>
+What doth befall you here. So, fare you well;<lb/>
+To the hopeful execution do I leave you<lb/>
+Of your commissions.<lb/>
+
+
+</p></sp><sp><speaker>ANGELO</speaker>
+<p>Yet give leave, my lord,<lb/>
+That we may bring you something on the way.<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>My haste may not admit it;<lb/>
+Nor need you, on mine honour, have to do<lb/>
+With any scruple; your scope is as mine own<lb/>
+So to enforce or qualify the laws<lb/>
+As to your soul seems good. Give me your hand:<lb/>
+I'll privily away. I love the people,<lb/>
+But do not like to stage me to their eyes:<lb/>
+Through it do well, I do not relish well<lb/>
+Their loud applause and Aves vehement;<lb/>
+Nor do I think the man of safe discretion<lb/>
+That does affect it. Once more, fare you well.<lb/>
+
+
+</p></sp><sp><speaker>ANGELO</speaker>
+<p>The heavens give safety to your purposes!<lb/>
+
+</p></sp><sp><speaker>ESCALUS</speaker>
+<p>Lead forth and bring you back in happiness!<lb/>
+
+</p></sp><sp><speaker>DUKE</speaker>
+<p>I thank you. Fare you well.<lb/>
+
+</p><p><stage>Exit</stage>
+
+
+</p></sp><sp><speaker>ESCALUS</speaker>
+<p>I shall desire you, sir, to give me leave<lb/>
+To have free speech with you; and it concerns me<lb/>
+To look into the bottom of my place:<lb/>
+A power I have, but of what strength and nature<lb/>
+I am not yet instructed.<lb/>
+
+
+</p></sp><sp><speaker>ANGELO</speaker>
+<p>'Tis so with me. Let us withdraw together,<lb/>
+And we may soon our satisfaction have<lb/>
+Touching that point.<lb/>
+
+
+</p></sp><sp><speaker>ESCALUS</speaker>
+<p>I'll wait upon your honour.<lb/>
+
+</p></sp><p><stage>Exeunt</stage>
+
+
+
+</p></div2><div2 type="scene" n="2" id="d7">
+<head>Scene 2</head>
+
+<p><stage>A Street.</stage>
+
+</p><p><stage>Enter LUCIO and two Gentlemen</stage>
+
+
+</p><sp><speaker>LUCIO</speaker>
+<p>If the duke with the other dukes come not to<lb/>
+composition with the King of Hungary, why then all<lb/>
+the dukes fall upon the king.<lb/>
+
+
+</p></sp><sp><speaker>First Gentleman</speaker>
+<p>Heaven grant us its peace, but not the King of<lb/>
+Hungary's!<lb/>
+
+
+</p></sp><sp><speaker>Second Gentleman</speaker>
+<p>Amen.<lb/>
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>Thou concludest like the sanctimonious pirate, that<lb/>
+went to sea with the Ten Commandments, but scraped<lb/>
+one out of the table.<lb/>
+
+
+</p></sp><sp><speaker>Second Gentleman</speaker>
+<p>'Thou shalt not steal'?<lb/>
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>Ay, that he razed.<lb/>
+
+</p></sp><sp><speaker>First Gentleman</speaker>
+<p>Why, 'twas a commandment to command the captain and<lb/>
+all the rest from their functions: they put forth<lb/>
+to steal. There's not a soldier of us all, that, in<lb/>
+the thanksgiving before meat, do relish the petition<lb/>
+well that prays for peace.<lb/>
+
+
+</p></sp><sp><speaker>Second Gentleman</speaker>
+<p>I never heard any soldier dislike it.<lb/>
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>I believe thee; for I think thou never wast where<lb/>
+grace was said.<lb/>
+
+
+</p></sp><sp><speaker>Second Gentleman</speaker>
+<p>No? a dozen times at least.<lb/>
+
+</p></sp><sp><speaker>First Gentleman</speaker>
+<p>What, in metre?<lb/>
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>In any proportion or in any language.<lb/>
+
+</p></sp><sp><speaker>First Gentleman</speaker>
+<p>I think, or in any religion.<lb/>
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>Ay, why not? Grace is grace, despite of all<lb/>
+controversy: as, for example, thou thyself art a<lb/>
+wicked villain, despite of all grace.<lb/>
+
+
+</p></sp><sp><speaker>First Gentleman</speaker>
+<p>Well, there went but a pair of shears between us.<lb/>
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>I grant; as there may between the lists and the<lb/>
+velvet. Thou art the list.<lb/>
+
+
+</p></sp><sp><speaker>First Gentleman</speaker>
+<p>And thou the velvet: thou art good velvet; thou'rt<lb/>
+a three-piled piece, I warrant thee: I had as lief<lb/>
+be a list of an English kersey as be piled, as thou<lb/>
+art piled, for a French velvet. Do I speak<lb/>
+feelingly now?<lb/>
+
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>I think thou dost; and, indeed, with most painful<lb/>
+feeling of thy speech: I will, out of thine own<lb/>
+confession, learn to begin thy health; but, whilst I<lb/>
+live, forget to drink after thee.<lb/>
+
+
+</p></sp><sp><speaker>First Gentleman</speaker>
+<p>I think I have done myself wrong, have I not?<lb/>
+
+</p></sp><sp><speaker>Second Gentleman</speaker>
+<p>Yes, that thou hast, whether thou art tainted or free.<lb/>
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>Behold, behold. where Madam Mitigation comes! I<lb/>
+have purchased as many diseases under her roof as come to&mdash;<lb/>
+
+
+</p></sp><sp><speaker>Second Gentleman</speaker>
+<p>To what, I pray?<lb/>
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>Judge.<lb/>
+
+</p></sp><sp><speaker>Second Gentleman</speaker>
+<p>To three thousand dolours a year.<lb/>
+
+</p></sp><sp><speaker>First Gentleman</speaker>
+<p>Ay, and more.<lb/>
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>A French crown more.<lb/>
+
+</p></sp><sp><speaker>First Gentleman</speaker>
+<p>Thou art always figuring diseases in me; but thou<lb/>
+art full of error; I am sound.<lb/>
+
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>Nay, not as one would say, healthy; but so sound as<lb/>
+things that are hollow: thy bones are hollow;<lb/>
+impiety has made a feast of thee.<lb/>
+
+
+</p><p><stage>Enter MISTRESS OVERDONE</stage>
+
+
+</p></sp><sp><speaker>First Gentleman</speaker>
+<p>How now! which of your hips has the most profound sciatica?<lb/>
+
+</p></sp><sp><speaker>MISTRESS OVERDONE</speaker>
+<p>Well, well; there's one yonder arrested and carried<lb/>
+to prison was worth five thousand of you all.<lb/>
+
+
+</p></sp><sp><speaker>Second Gentleman</speaker>
+<p>Who's that, I pray thee?<lb/>
+
+</p></sp><sp><speaker>MISTRESS OVERDONE</speaker>
+<p>Marry, sir, that's Claudio, Signior Claudio.<lb/>
+
+</p></sp><sp><speaker>First Gentleman</speaker>
+<p>Claudio to prison? 'tis not so.<lb/>
+
+</p></sp><sp><speaker>MISTRESS OVERDONE</speaker>
+<p>Nay, but I know 'tis so: I saw him arrested, saw<lb/>
+him carried away; and, which is more, within these<lb/>
+three days his head to be chopped off.<lb/>
+
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>But, after all this fooling, I would not have it so.<lb/>
+Art thou sure of this?<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS OVERDONE</speaker>
+<p>I am too sure of it: and it is for getting Madam<lb/>
+Julietta with child.<lb/>
+
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>Believe me, this may be: he promised to meet me two<lb/>
+hours since, and he was ever precise in<lb/>
+promise-keeping.<lb/>
+
+
+</p></sp><sp><speaker>Second Gentleman</speaker>
+<p>Besides, you know, it draws something near to the<lb/>
+speech we had to such a purpose.<lb/>
+
+
+</p></sp><sp><speaker>First Gentleman</speaker>
+<p>But, most of all, agreeing with the proclamation.<lb/>
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>Away! let's go learn the truth of it.<lb/>
+
+</p><p><stage>Exeunt LUCIO and Gentlemen</stage>
+
+
+</p></sp><sp><speaker>MISTRESS OVERDONE</speaker>
+<p>Thus, what with the war, what with the sweat, what<lb/>
+with the gallows and what with poverty, I am<lb/>
+custom-shrunk.<lb/>
+
+
+</p><p><stage>Enter POMPEY</stage></p>
+
+
+<p>
+How now! what's the news with you?<lb/>
+
+
+</p></sp><sp><speaker>POMPEY</speaker>
+<p>Yonder man is carried to prison.<lb/>
+
+</p></sp><sp><speaker>MISTRESS OVERDONE</speaker>
+<p>Well; what has he done?<lb/>
+
+</p></sp><sp><speaker>POMPEY</speaker>
+<p>A woman.<lb/>
+
+</p></sp><sp><speaker>MISTRESS OVERDONE</speaker>
+<p>But what's his offence?<lb/>
+
+</p></sp><sp><speaker>POMPEY</speaker>
+<p>Groping for trouts in a peculiar river.<lb/>
+
+</p></sp><sp><speaker>MISTRESS OVERDONE</speaker>
+<p>What, is there a maid with child by him?<lb/>
+
+</p></sp><sp><speaker>POMPEY</speaker>
+<p>No, but there's a woman with maid by him. You have<lb/>
+not heard of the proclamation, have you?<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS OVERDONE</speaker>
+<p>What proclamation, man?<lb/>
+
+</p></sp><sp><speaker>POMPEY</speaker>
+<p>All houses in the suburbs of Vienna must be plucked down.<lb/>
+
+</p></sp><sp><speaker>MISTRESS OVERDONE</speaker>
+<p>And what shall become of those in the city?<lb/>
+
+</p></sp><sp><speaker>POMPEY</speaker>
+<p>They shall stand for seed: they had gone down too,<lb/>
+but that a wise burgher put in for them.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS OVERDONE</speaker>
+<p>But shall all our houses of resort in the suburbs be<lb/>
+pulled down?<lb/>
+
+
+</p></sp><sp><speaker>POMPEY</speaker>
+<p>To the ground, mistress.<lb/>
+
+</p></sp><sp><speaker>MISTRESS OVERDONE</speaker>
+<p>Why, here's a change indeed in the commonwealth!<lb/>
+What shall become of me?<lb/>
+
+
+</p></sp><sp><speaker>POMPEY</speaker>
+<p>Come; fear you not: good counsellors lack no<lb/>
+clients: though you change your place, you need not<lb/>
+change your trade; I'll be your tapster still.<lb/>
+Courage! there will be pity taken on you: you that<lb/>
+have worn your eyes almost out in the service, you<lb/>
+will be considered.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS OVERDONE</speaker>
+<p>What's to do here, Thomas tapster? let's withdraw.<lb/>
+
+</p></sp><sp><speaker>POMPEY</speaker>
+<p>Here comes Signior Claudio, led by the provost to<lb/>
+prison; and there's Madam Juliet.<lb/>
+
+
+</p><p><stage>Exeunt</stage>
+
+
+
+</p><p><stage>Enter Provost, CLAUDIO, JULIET, and Officers</stage>
+
+
+</p></sp><sp><speaker>CLAUDIO</speaker>
+<p>Fellow, why dost thou show me thus to the world?<lb/>
+Bear me to prison, where I am committed.<lb/>
+
+
+</p></sp><sp><speaker>Provost</speaker>
+<p>I do it not in evil disposition,<lb/>
+But from Lord Angelo by special charge.<lb/>
+
+
+</p></sp><sp><speaker>CLAUDIO</speaker>
+<p>Thus can the demigod Authority<lb/>
+Make us pay down for our offence by weight<lb/>
+The words of heaven; on whom it will, it will;<lb/>
+On whom it will not, so; yet still 'tis just.<lb/>
+
+
+</p><p><stage>Re-enter LUCIO and two Gentlemen</stage>
+
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>Why, how now, Claudio! whence comes this restraint?<lb/>
+
+</p></sp><sp><speaker>CLAUDIO</speaker>
+<p>From too much liberty, my Lucio, liberty:<lb/>
+As surfeit is the father of much fast,<lb/>
+So every scope by the immoderate use<lb/>
+Turns to restraint. Our natures do pursue,<lb/>
+Like rats that ravin down their proper bane,<lb/>
+A thirsty evil; and when we drink we die.<lb/>
+
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>If could speak so wisely under an arrest, I would<lb/>
+send for certain of my creditors: and yet, to say<lb/>
+the truth, I had as lief have the foppery of freedom<lb/>
+as the morality of imprisonment. What's thy<lb/>
+offence, Claudio?<lb/>
+
+
+</p></sp><sp><speaker>CLAUDIO</speaker>
+<p>What but to speak of would offend again.<lb/>
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>What, is't murder?<lb/>
+
+</p></sp><sp><speaker>CLAUDIO</speaker>
+<p>No.<lb/>
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>Lechery?<lb/>
+
+</p></sp><sp><speaker>CLAUDIO</speaker>
+<p>Call it so.<lb/>
+
+</p></sp><sp><speaker>Provost</speaker>
+<p>Away, sir! you must go.<lb/>
+
+</p></sp><sp><speaker>CLAUDIO</speaker>
+<p>One word, good friend. Lucio, a word with you.<lb/>
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>A hundred, if they'll do you any good.<lb/>
+Is lechery so look'd after?<lb/>
+
+
+</p></sp><sp><speaker>CLAUDIO</speaker>
+<p>Thus stands it with me: upon a true contract<lb/>
+I got possession of Julietta's bed:<lb/>
+You know the lady; she is fast my wife,<lb/>
+Save that we do the denunciation lack<lb/>
+Of outward order: this we came not to,<lb/>
+Only for propagation of a dower<lb/>
+Remaining in the coffer of her friends,<lb/>
+From whom we thought it meet to hide our love<lb/>
+Till time had made them for us. But it chances<lb/>
+The stealth of our most mutual entertainment<lb/>
+With character too gross is writ on Juliet.<lb/>
+
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>With child, perhaps?<lb/>
+
+</p></sp><sp><speaker>CLAUDIO</speaker>
+<p>Unhappily, even so.<lb/>
+And the new deputy now for the duke&mdash;<lb/>
+Whether it be the fault and glimpse of newness,<lb/>
+Or whether that the body public be<lb/>
+A horse whereon the governor doth ride,<lb/>
+Who, newly in the seat, that it may know<lb/>
+He can command, lets it straight feel the spur;<lb/>
+Whether the tyranny be in his place,<lb/>
+Or in his emmence that fills it up,<lb/>
+I stagger in:&mdash;but this new governor<lb/>
+Awakes me all the enrolled penalties<lb/>
+Which have, like unscour'd armour, hung by the wall<lb/>
+So long that nineteen zodiacs have gone round<lb/>
+And none of them been worn; and, for a name,<lb/>
+Now puts the drowsy and neglected act<lb/>
+Freshly on me: 'tis surely for a name.<lb/>
+
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>I warrant it is: and thy head stands so tickle on<lb/>
+thy shoulders that a milkmaid, if she be in love,<lb/>
+may sigh it off. Send after the duke and appeal to<lb/>
+him.<lb/>
+
+
+</p></sp><sp><speaker>CLAUDIO</speaker>
+<p>I have done so, but he's not to be found.<lb/>
+I prithee, Lucio, do me this kind service:<lb/>
+This day my sister should the cloister enter<lb/>
+And there receive her approbation:<lb/>
+Acquaint her with the danger of my state:<lb/>
+Implore her, in my voice, that she make friends<lb/>
+To the strict deputy; bid herself assay him:<lb/>
+I have great hope in that; for in her youth<lb/>
+There is a prone and speechless dialect,<lb/>
+Such as move men; beside, she hath prosperous art<lb/>
+When she will play with reason and discourse,<lb/>
+And well she can persuade.<lb/>
+
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>I pray she may; as well for the encouragement of the<lb/>
+like, which else would stand under grievous<lb/>
+imposition, as for the enjoying of thy life, who I<lb/>
+would be sorry should be thus foolishly lost at a<lb/>
+game of tick-tack. I'll to her.<lb/>
+
+
+</p></sp><sp><speaker>CLAUDIO</speaker>
+<p>I thank you, good friend Lucio.<lb/>
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>Within two hours.<lb/>
+
+</p></sp><sp><speaker>CLAUDIO</speaker>
+<p>Come, officer, away!<lb/>
+
+</p></sp><p><stage>Exeunt</stage>
+
+
+
+</p></div2><div2 type="scene" n="3" id="d8">
+<head>Scene 3</head>
+
+<p><stage>A monastery.</stage>
+
+</p><p><stage>Enter DUKE VINCENTIO and FRIAR THOMAS</stage>
+
+
+</p><sp><speaker>DUKE VINCENTIO</speaker>
+<p>No, holy father; throw away that thought;<lb/>
+Believe not that the dribbling dart of love<lb/>
+Can pierce a complete bosom. Why I desire thee<lb/>
+To give me secret harbour, hath a purpose<lb/>
+More grave and wrinkled than the aims and ends<lb/>
+Of burning youth.<lb/>
+
+
+</p></sp><sp><speaker>FRIAR THOMAS</speaker>
+<p>May your grace speak of it?<lb/>
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>My holy sir, none better knows than you<lb/>
+How I have ever loved the life removed<lb/>
+And held in idle price to haunt assemblies<lb/>
+Where youth, and cost, and witless bravery keeps.<lb/>
+I have deliver'd to Lord Angelo,<lb/>
+A man of stricture and firm abstinence,<lb/>
+My absolute power and place here in Vienna,<lb/>
+And he supposes me travell'd to Poland;<lb/>
+For so I have strew'd it in the common ear,<lb/>
+And so it is received. Now, pious sir,<lb/>
+You will demand of me why I do this?<lb/>
+
+
+</p></sp><sp><speaker>FRIAR THOMAS</speaker>
+<p>Gladly, my lord.<lb/>
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>We have strict statutes and most biting laws.<lb/>
+The needful bits and curbs to headstrong weeds,<lb/>
+Which for this nineteen years we have let slip;<lb/>
+Even like an o'ergrown lion in a cave,<lb/>
+That goes not out to prey. Now, as fond fathers,<lb/>
+Having bound up the threatening twigs of birch,<lb/>
+Only to stick it in their children's sight<lb/>
+For terror, not to use, in time the rod<lb/>
+Becomes more mock'd than fear'd; so our decrees,<lb/>
+Dead to infliction, to themselves are dead;<lb/>
+And liberty plucks justice by the nose;<lb/>
+The baby beats the nurse, and quite athwart<lb/>
+Goes all decorum.<lb/>
+
+
+</p></sp><sp><speaker>FRIAR THOMAS</speaker>
+<p>It rested in your grace<lb/>
+To unloose this tied-up justice when you pleased:<lb/>
+And it in you more dreadful would have seem'd<lb/>
+Than in Lord Angelo.<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>I do fear, too dreadful:<lb/>
+Sith 'twas my fault to give the people scope,<lb/>
+'Twould be my tyranny to strike and gall them<lb/>
+For what I bid them do: for we bid this be done,<lb/>
+When evil deeds have their permissive pass<lb/>
+And not the punishment. Therefore indeed, my father,<lb/>
+I have on Angelo imposed the office;<lb/>
+Who may, in the ambush of my name, strike home,<lb/>
+And yet my nature never in the fight<lb/>
+To do in slander. And to behold his sway,<lb/>
+I will, as 'twere a brother of your order,<lb/>
+Visit both prince and people: therefore, I prithee,<lb/>
+Supply me with the habit and instruct me<lb/>
+How I may formally in person bear me<lb/>
+Like a true friar. More reasons for this action<lb/>
+At our more leisure shall I render you;<lb/>
+Only, this one: Lord Angelo is precise;<lb/>
+Stands at a guard with envy; scarce confesses<lb/>
+That his blood flows, or that his appetite<lb/>
+Is more to bread than stone: hence shall we see,<lb/>
+If power change purpose, what our seemers be.<lb/>
+
+
+</p></sp><p><stage>Exeunt</stage>
+
+
+
+</p></div2><div2 type="scene" n="4" id="d9">
+<head>Scene 4</head>
+
+<p><stage>A nunnery.</stage>
+
+</p><p><stage>Enter ISABELLA and FRANCISCA</stage>
+
+
+</p><sp><speaker>ISABELLA</speaker>
+<p>And have you nuns no farther privileges?<lb/>
+
+</p></sp><sp><speaker>FRANCISCA</speaker>
+<p>Are not these large enough?<lb/>
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>Yes, truly; I speak not as desiring more;<lb/>
+But rather wishing a more strict restraint<lb/>
+Upon the sisterhood, the votarists of Saint Clare.<lb/>
+
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p><stage>[Within]</stage></p><p>  Ho! Peace be in this place!<lb/>
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>Who's that which calls?<lb/>
+
+</p></sp><sp><speaker>FRANCISCA</speaker>
+<p>It is a man's voice. Gentle Isabella,<lb/>
+Turn you the key, and know his business of him;<lb/>
+You may, I may not; you are yet unsworn.<lb/>
+When you have vow'd, you must not speak with men<lb/>
+But in the presence of the prioress:<lb/>
+Then, if you speak, you must not show your face,<lb/>
+Or, if you show your face, you must not speak.<lb/>
+He calls again; I pray you, answer him.<lb/>
+
+
+</p><p><stage>Exit</stage>
+
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>Peace and prosperity! Who is't that calls<lb/>
+
+</p><p><stage>Enter LUCIO</stage>
+
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>Hail, virgin, if you be, as those cheek-roses<lb/>
+Proclaim you are no less! Can you so stead me<lb/>
+As bring me to the sight of Isabella,<lb/>
+A novice of this place and the fair sister<lb/>
+To her unhappy brother Claudio?<lb/>
+
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>Why 'her unhappy brother'? let me ask,<lb/>
+The rather for I now must make you know<lb/>
+I am that Isabella and his sister.<lb/>
+
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>Gentle and fair, your brother kindly greets you:<lb/>
+Not to be weary with you, he's in prison.<lb/>
+
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>Woe me! for what?<lb/>
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>For that which, if myself might be his judge,<lb/>
+He should receive his punishment in thanks:<lb/>
+He hath got his friend with child.<lb/>
+
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>Sir, make me not your story.<lb/>
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>It is true.<lb/>
+I would not&mdash;though 'tis my familiar sin<lb/>
+With maids to seem the lapwing and to jest,<lb/>
+Tongue far from heart&mdash;play with all virgins so:<lb/>
+I hold you as a thing ensky'd and sainted.<lb/>
+By your renouncement an immortal spirit,<lb/>
+And to be talk'd with in sincerity,<lb/>
+As with a saint.<lb/>
+
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>You do blaspheme the good in mocking me.<lb/>
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>Do not believe it. Fewness and truth, 'tis thus:<lb/>
+Your brother and his lover have embraced:<lb/>
+As those that feed grow full, as blossoming time<lb/>
+That from the seedness the bare fallow brings<lb/>
+To teeming foison, even so her plenteous womb<lb/>
+Expresseth his full tilth and husbandry.<lb/>
+
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>Some one with child by him? My cousin Juliet?<lb/>
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>Is she your cousin?<lb/>
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>Adoptedly; as school-maids change their names<lb/>
+By vain though apt affection.<lb/>
+
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>She it is.<lb/>
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>O, let him marry her.<lb/>
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>This is the point.<lb/>
+The duke is very strangely gone from hence;<lb/>
+Bore many gentlemen, myself being one,<lb/>
+In hand and hope of action: but we do learn<lb/>
+By those that know the very nerves of state,<lb/>
+His givings-out were of an infinite distance<lb/>
+From his true-meant design. Upon his place,<lb/>
+And with full line of his authority,<lb/>
+Governs Lord Angelo; a man whose blood<lb/>
+Is very snow-broth; one who never feels<lb/>
+The wanton stings and motions of the sense,<lb/>
+But doth rebate and blunt his natural edge<lb/>
+With profits of the mind, study and fast.<lb/>
+He&mdash;to give fear to use and liberty,<lb/>
+Which have for long run by the hideous law,<lb/>
+As mice by lions&mdash;hath pick'd out an act,<lb/>
+Under whose heavy sense your brother's life<lb/>
+Falls into forfeit: he arrests him on it;<lb/>
+And follows close the rigour of the statute,<lb/>
+To make him an example. All hope is gone,<lb/>
+Unless you have the grace by your fair prayer<lb/>
+To soften Angelo: and that's my pith of business<lb/>
+'Twixt you and your poor brother.<lb/>
+
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>Doth he so seek his life?<lb/>
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>Has censured him<lb/>
+Already; and, as I hear, the provost hath<lb/>
+A warrant for his execution.<lb/>
+
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>Alas! what poor ability's in me<lb/>
+To do him good?<lb/>
+
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>Assay the power you have.<lb/>
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>My power? Alas, I doubt&mdash;<lb/>
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>Our doubts are traitors<lb/>
+And make us lose the good we oft might win<lb/>
+By fearing to attempt. Go to Lord Angelo,<lb/>
+And let him learn to know, when maidens sue,<lb/>
+Men give like gods; but when they weep and kneel,<lb/>
+All their petitions are as freely theirs<lb/>
+As they themselves would owe them.<lb/>
+
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>I'll see what I can do.<lb/>
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>But speedily.<lb/>
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>I will about it straight;<lb/>
+No longer staying but to give the mother<lb/>
+Notice of my affair. I humbly thank you:<lb/>
+Commend me to my brother: soon at night<lb/>
+I'll send him certain word of my success.<lb/>
+
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>I take my leave of you.<lb/>
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>Good sir, adieu.<lb/>
+
+</p></sp><p><stage>Exeunt</stage></p>
+
+
+
+</div2>
+
+</div1>
+
+<div1 type="act" n="2" id="d10">
+<head>Act 2</head>
+
+<div2 type="scene" n="1" id="d11">
+<head>Scene 1</head>
+
+<p><stage>A hall In ANGELO's house.</stage>
+
+</p><p><stage>Enter ANGELO, ESCALUS, and a Justice, Provost,	Officers, and other Attendants, behind</stage>
+
+
+</p><sp><speaker>ANGELO</speaker>
+<p>We must not make a scarecrow of the law,<lb/>
+Setting it up to fear the birds of prey,<lb/>
+And let it keep one shape, till custom make it<lb/>
+Their perch and not their terror.<lb/>
+
+
+</p></sp><sp><speaker>ESCALUS</speaker>
+<p>Ay, but yet<lb/>
+Let us be keen, and rather cut a little,<lb/>
+Than fall, and bruise to death. Alas, this gentleman<lb/>
+Whom I would save, had a most noble father!<lb/>
+Let but your honour know,<lb/>
+Whom I believe to be most strait in virtue,<lb/>
+That, in the working of your own affections,<lb/>
+Had time cohered with place or place with wishing,<lb/>
+Or that the resolute acting of your blood<lb/>
+Could have attain'd the effect of your own purpose,<lb/>
+Whether you had not sometime in your life<lb/>
+Err'd in this point which now you censure him,<lb/>
+And pull'd the law upon you.<lb/>
+
+
+</p></sp><sp><speaker>ANGELO</speaker>
+<p>'Tis one thing to be tempted, Escalus,<lb/>
+Another thing to fall. I not deny,<lb/>
+The jury, passing on the prisoner's life,<lb/>
+May in the sworn twelve have a thief or two<lb/>
+Guiltier than him they try. What's open made to justice,<lb/>
+That justice seizes: what know the laws<lb/>
+That thieves do pass on thieves? 'Tis very pregnant,<lb/>
+The jewel that we find, we stoop and take't<lb/>
+Because we see it; but what we do not see<lb/>
+We tread upon, and never think of it.<lb/>
+You may not so extenuate his offence<lb/>
+For I have had such faults; but rather tell me,<lb/>
+When I, that censure him, do so offend,<lb/>
+Let mine own judgment pattern out my death,<lb/>
+And nothing come in partial. Sir, he must die.<lb/>
+
+
+</p></sp><sp><speaker>ESCALUS</speaker>
+<p>Be it as your wisdom will.<lb/>
+
+</p></sp><sp><speaker>ANGELO</speaker>
+<p>Where is the provost?<lb/>
+
+</p></sp><sp><speaker>Provost</speaker>
+<p>Here, if it like your honour.<lb/>
+
+</p></sp><sp><speaker>ANGELO</speaker>
+<p>See that Claudio<lb/>
+Be executed by nine to-morrow morning:<lb/>
+Bring him his confessor, let him be prepared;<lb/>
+For that's the utmost of his pilgrimage.<lb/>
+
+
+</p><p><stage>Exit Provost</stage>
+
+
+</p></sp><sp><speaker>ESCALUS</speaker>
+<p><stage>[Aside]</stage></p><p>  Well, heaven forgive him! and forgive us all!<lb/>
+Some rise by sin, and some by virtue fall:<lb/>
+Some run from brakes of ice, and answer none:<lb/>
+And some condemned for a fault alone.<lb/>
+
+
+</p><p><stage>Enter ELBOW, and Officers with FROTH and POMPEY</stage>
+
+
+</p></sp><sp><speaker>ELBOW</speaker>
+<p>Come, bring them away: if these be good people in<lb/>
+a commonweal that do nothing but use their abuses in<lb/>
+common houses, I know no law: bring them away.<lb/>
+
+
+</p></sp><sp><speaker>ANGELO</speaker>
+<p>How now, sir! What's your name? and what's the matter?<lb/>
+
+</p></sp><sp><speaker>ELBOW</speaker>
+<p>If it Please your honour, I am the poor duke's<lb/>
+constable, and my name is Elbow: I do lean upon<lb/>
+justice, sir, and do bring in here before your good<lb/>
+honour two notorious benefactors.<lb/>
+
+
+</p></sp><sp><speaker>ANGELO</speaker>
+<p>Benefactors? Well; what benefactors are they? are<lb/>
+they not malefactors?<lb/>
+
+
+</p></sp><sp><speaker>ELBOW</speaker>
+<p>If it? please your honour, I know not well what they<lb/>
+are: but precise villains they are, that I am sure<lb/>
+of; and void of all profanation in the world that<lb/>
+good Christians ought to have.<lb/>
+
+
+</p></sp><sp><speaker>ESCALUS</speaker>
+<p>This comes off well; here's a wise officer.<lb/>
+
+</p></sp><sp><speaker>ANGELO</speaker>
+<p>Go to: what quality are they of? Elbow is your<lb/>
+name? why dost thou not speak, Elbow?<lb/>
+
+
+</p></sp><sp><speaker>POMPEY</speaker>
+<p>He cannot, sir; he's out at elbow.<lb/>
+
+</p></sp><sp><speaker>ANGELO</speaker>
+<p>What are you, sir?<lb/>
+
+</p></sp><sp><speaker>ELBOW</speaker>
+<p>He, sir! a tapster, sir; parcel-bawd; one that<lb/>
+serves a bad woman; whose house, sir, was, as they<lb/>
+say, plucked down in the suburbs; and now she<lb/>
+professes a hot-house, which, I think, is a very ill house too.<lb/>
+
+
+</p></sp><sp><speaker>ESCALUS</speaker>
+<p>How know you that?<lb/>
+
+</p></sp><sp><speaker>ELBOW</speaker>
+<p>My wife, sir, whom I detest before heaven and your honour,&mdash;<lb/>
+
+</p></sp><sp><speaker>ESCALUS</speaker>
+<p>How? thy wife?<lb/>
+
+</p></sp><sp><speaker>ELBOW</speaker>
+<p>Ay, sir; whom, I thank heaven, is an honest woman,&mdash;<lb/>
+
+</p></sp><sp><speaker>ESCALUS</speaker>
+<p>Dost thou detest her therefore?<lb/>
+
+</p></sp><sp><speaker>ELBOW</speaker>
+<p>I say, sir, I will detest myself also, as well as<lb/>
+she, that this house, if it be not a bawd's house,<lb/>
+it is pity of her life, for it is a naughty house.<lb/>
+
+
+</p></sp><sp><speaker>ESCALUS</speaker>
+<p>How dost thou know that, constable?<lb/>
+
+</p></sp><sp><speaker>ELBOW</speaker>
+<p>Marry, sir, by my wife; who, if she had been a woman<lb/>
+cardinally given, might have been accused in<lb/>
+fornication, adultery, and all uncleanliness there.<lb/>
+
+
+</p></sp><sp><speaker>ESCALUS</speaker>
+<p>By the woman's means?<lb/>
+
+</p></sp><sp><speaker>ELBOW</speaker>
+<p>Ay, sir, by Mistress Overdone's means: but as she<lb/>
+spit in his face, so she defied him.<lb/>
+
+
+</p></sp><sp><speaker>POMPEY</speaker>
+<p>Sir, if it please your honour, this is not so.<lb/>
+
+</p></sp><sp><speaker>ELBOW</speaker>
+<p>Prove it before these varlets here, thou honourable<lb/>
+man; prove it.<lb/>
+
+
+</p></sp><sp><speaker>ESCALUS</speaker>
+<p>Do you hear how he misplaces?<lb/>
+
+</p></sp><sp><speaker>POMPEY</speaker>
+<p>Sir, she came in great with child; and longing,<lb/>
+saving your honour's reverence, for stewed prunes;<lb/>
+sir, we had but two in the house, which at that very<lb/>
+distant time stood, as it were, in a fruit-dish, a<lb/>
+dish of some three-pence; your honours have seen<lb/>
+such dishes; they are not China dishes, but very<lb/>
+good dishes,&mdash;<lb/>
+
+
+</p></sp><sp><speaker>ESCALUS</speaker>
+<p>Go to, go to: no matter for the dish, sir.<lb/>
+
+</p></sp><sp><speaker>POMPEY</speaker>
+<p>No, indeed, sir, not of a pin; you are therein in<lb/>
+the right: but to the point. As I say, this<lb/>
+Mistress Elbow, being, as I say, with child, and<lb/>
+being great-bellied, and longing, as I said, for<lb/>
+prunes; and having but two in the dish, as I said,<lb/>
+Master Froth here, this very man, having eaten the<lb/>
+rest, as I said, and, as I say, paying for them very<lb/>
+honestly; for, as you know, Master Froth, I could<lb/>
+not give you three-pence again.<lb/>
+
+
+</p></sp><sp><speaker>FROTH</speaker>
+<p>No, indeed.<lb/>
+
+</p></sp><sp><speaker>POMPEY</speaker>
+<p>Very well: you being then, if you be remembered,<lb/>
+cracking the stones of the foresaid prunes,&mdash;<lb/>
+
+
+</p></sp><sp><speaker>FROTH</speaker>
+<p>Ay, so I did indeed.<lb/>
+
+</p></sp><sp><speaker>POMPEY</speaker>
+<p>Why, very well; I telling you then, if you be<lb/>
+remembered, that such a one and such a one were past<lb/>
+cure of the thing you wot of, unless they kept very<lb/>
+good diet, as I told you,&mdash;<lb/>
+
+
+</p></sp><sp><speaker>FROTH</speaker>
+<p>All this is true.<lb/>
+
+</p></sp><sp><speaker>POMPEY</speaker>
+<p>Why, very well, then,&mdash;<lb/>
+
+</p></sp><sp><speaker>ESCALUS</speaker>
+<p>Come, you are a tedious fool: to the purpose. What<lb/>
+was done to Elbow's wife, that he hath cause to<lb/>
+complain of? Come me to what was done to her.<lb/>
+
+
+</p></sp><sp><speaker>POMPEY</speaker>
+<p>Sir, your honour cannot come to that yet.<lb/>
+
+</p></sp><sp><speaker>ESCALUS</speaker>
+<p>No, sir, nor I mean it not.<lb/>
+
+</p></sp><sp><speaker>POMPEY</speaker>
+<p>Sir, but you shall come to it, by your honour's<lb/>
+leave. And, I beseech you, look into Master Froth<lb/>
+here, sir; a man of four-score pound a year; whose<lb/>
+father died at Hallowmas: was't not at Hallowmas,<lb/>
+Master Froth?<lb/>
+
+
+</p></sp><sp><speaker>FROTH</speaker>
+<p>All-hallond eve.<lb/>
+
+</p></sp><sp><speaker>POMPEY</speaker>
+<p>Why, very well; I hope here be truths. He, sir,<lb/>
+sitting, as I say, in a lower chair, sir; 'twas in<lb/>
+the Bunch of Grapes, where indeed you have a delight<lb/>
+to sit, have you not?<lb/>
+
+
+</p></sp><sp><speaker>FROTH</speaker>
+<p>I have so; because it is an open room and good for winter.<lb/>
+
+</p></sp><sp><speaker>POMPEY</speaker>
+<p>Why, very well, then; I hope here be truths.<lb/>
+
+</p></sp><sp><speaker>ANGELO</speaker>
+<p>This will last out a night in Russia,<lb/>
+When nights are longest there: I'll take my leave.<lb/>
+And leave you to the hearing of the cause;<lb/>
+Hoping you'll find good cause to whip them all.<lb/>
+
+
+</p></sp><sp><speaker>ESCALUS</speaker>
+<p>I think no less. Good morrow to your lordship.<lb/>
+
+</p><p><stage>Exit ANGELO</stage></p>
+
+
+<p>
+Now, sir, come on: what was done to Elbow's wife, once more?<lb/>
+
+
+</p></sp><sp><speaker>POMPEY</speaker>
+<p>Once, sir? there was nothing done to her once.<lb/>
+
+</p></sp><sp><speaker>ELBOW</speaker>
+<p>I beseech you, sir, ask him what this man did to my wife.<lb/>
+
+</p></sp><sp><speaker>POMPEY</speaker>
+<p>I beseech your honour, ask me.<lb/>
+
+</p></sp><sp><speaker>ESCALUS</speaker>
+<p>Well, sir; what did this gentleman to her?<lb/>
+
+</p></sp><sp><speaker>POMPEY</speaker>
+<p>I beseech you, sir, look in this gentleman's face.<lb/>
+Good Master Froth, look upon his honour; 'tis for a<lb/>
+good purpose. Doth your honour mark his face?<lb/>
+
+
+</p></sp><sp><speaker>ESCALUS</speaker>
+<p>Ay, sir, very well.<lb/>
+
+</p></sp><sp><speaker>POMPEY</speaker>
+<p>Nay; I beseech you, mark it well.<lb/>
+
+</p></sp><sp><speaker>ESCALUS</speaker>
+<p>Well, I do so.<lb/>
+
+</p></sp><sp><speaker>POMPEY</speaker>
+<p>Doth your honour see any harm in his face?<lb/>
+
+</p></sp><sp><speaker>ESCALUS</speaker>
+<p>Why, no.<lb/>
+
+</p></sp><sp><speaker>POMPEY</speaker>
+<p>I'll be supposed upon a book, his face is the worst<lb/>
+thing about him. Good, then; if his face be the<lb/>
+worst thing about him, how could Master Froth do the<lb/>
+constable's wife any harm? I would know that of<lb/>
+your honour.<lb/>
+
+
+</p></sp><sp><speaker>ESCALUS</speaker>
+<p>He's in the right. Constable, what say you to it?<lb/>
+
+</p></sp><sp><speaker>ELBOW</speaker>
+<p>First, an it like you, the house is a respected<lb/>
+house; next, this is a respected fellow; and his<lb/>
+mistress is a respected woman.<lb/>
+
+
+</p></sp><sp><speaker>POMPEY</speaker>
+<p>By this hand, sir, his wife is a more respected<lb/>
+person than any of us all.<lb/>
+
+
+</p></sp><sp><speaker>ELBOW</speaker>
+<p>Varlet, thou liest; thou liest, wicked varlet! the<lb/>
+time has yet to come that she was ever respected<lb/>
+with man, woman, or child.<lb/>
+
+
+</p></sp><sp><speaker>POMPEY</speaker>
+<p>Sir, she was respected with him before he married with her.<lb/>
+
+</p></sp><sp><speaker>ESCALUS</speaker>
+<p>Which is the wiser here? Justice or Iniquity? Is<lb/>
+this true?<lb/>
+
+
+</p></sp><sp><speaker>ELBOW</speaker>
+<p>O thou caitiff! O thou varlet! O thou wicked<lb/>
+Hannibal! I respected with her before I was married<lb/>
+to her! If ever I was respected with her, or she<lb/>
+with me, let not your worship think me the poor<lb/>
+duke's officer. Prove this, thou wicked Hannibal, or<lb/>
+I'll have mine action of battery on thee.<lb/>
+
+
+</p></sp><sp><speaker>ESCALUS</speaker>
+<p>If he took you a box o' the ear, you might have your<lb/>
+action of slander too.<lb/>
+
+
+</p></sp><sp><speaker>ELBOW</speaker>
+<p>Marry, I thank your good worship for it. What is't<lb/>
+your worship's pleasure I shall do with this wicked caitiff?<lb/>
+
+
+</p></sp><sp><speaker>ESCALUS</speaker>
+<p>Truly, officer, because he hath some offences in him<lb/>
+that thou wouldst discover if thou couldst, let him<lb/>
+continue in his courses till thou knowest what they<lb/>
+are.<lb/>
+
+
+</p></sp><sp><speaker>ELBOW</speaker>
+<p>Marry, I thank your worship for it. Thou seest, thou<lb/>
+wicked varlet, now, what's come upon thee: thou art<lb/>
+to continue now, thou varlet; thou art to continue.<lb/>
+
+
+</p></sp><sp><speaker>ESCALUS</speaker>
+<p>Where were you born, friend?<lb/>
+
+</p></sp><sp><speaker>FROTH</speaker>
+<p>Here in Vienna, sir.<lb/>
+
+</p></sp><sp><speaker>ESCALUS</speaker>
+<p>Are you of fourscore pounds a year?<lb/>
+
+</p></sp><sp><speaker>FROTH</speaker>
+<p>Yes, an't please you, sir.<lb/>
+
+</p></sp><sp><speaker>ESCALUS</speaker>
+<p>So. What trade are you of, sir?<lb/>
+
+</p></sp><sp><speaker>POMPHEY</speaker>
+<p>Tapster; a poor widow's tapster.<lb/>
+
+</p></sp><sp><speaker>ESCALUS</speaker>
+<p>Your mistress' name?<lb/>
+
+</p></sp><sp><speaker>POMPHEY</speaker>
+<p>Mistress Overdone.<lb/>
+
+</p></sp><sp><speaker>ESCALUS</speaker>
+<p>Hath she had any more than one husband?<lb/>
+
+</p></sp><sp><speaker>POMPEY</speaker>
+<p>Nine, sir; Overdone by the last.<lb/>
+
+</p></sp><sp><speaker>ESCALUS</speaker>
+<p>Nine! Come hither to me, Master Froth. Master<lb/>
+Froth, I would not have you acquainted with<lb/>
+tapsters: they will draw you, Master Froth, and you<lb/>
+will hang them. Get you gone, and let me hear no<lb/>
+more of you.<lb/>
+
+
+</p></sp><sp><speaker>FROTH</speaker>
+<p>I thank your worship. For mine own part, I never<lb/>
+come into any room in a tap-house, but I am drawn<lb/>
+in.<lb/>
+
+
+</p></sp><sp><speaker>ESCALUS</speaker>
+<p>Well, no more of it, Master Froth: farewell.<lb/>
+
+</p><p><stage>Exit FROTH</stage></p>
+
+
+<p>
+Come you hither to me, Master tapster. What's your<lb/>
+name, Master tapster?<lb/>
+
+
+</p></sp><sp><speaker>POMPEY</speaker>
+<p>Pompey.<lb/>
+
+</p></sp><sp><speaker>ESCALUS</speaker>
+<p>What else?<lb/>
+
+</p></sp><sp><speaker>POMPEY</speaker>
+<p>Bum, sir.<lb/>
+
+</p></sp><sp><speaker>ESCALUS</speaker>
+<p>Troth, and your bum is the greatest thing about you;<lb/>
+so that in the beastliest sense you are Pompey the<lb/>
+Great. Pompey, you are partly a bawd, Pompey,<lb/>
+howsoever you colour it in being a tapster, are you<lb/>
+not? come, tell me true: it shall be the better for you.<lb/>
+
+
+</p></sp><sp><speaker>POMPEY</speaker>
+<p>Truly, sir, I am a poor fellow that would live.<lb/>
+
+</p></sp><sp><speaker>ESCALUS</speaker>
+<p>How would you live, Pompey? by being a bawd? What<lb/>
+do you think of the trade, Pompey? is it a lawful trade?<lb/>
+
+
+</p></sp><sp><speaker>POMPEY</speaker>
+<p>If the law would allow it, sir.<lb/>
+
+</p></sp><sp><speaker>ESCALUS</speaker>
+<p>But the law will not allow it, Pompey; nor it shall<lb/>
+not be allowed in Vienna.<lb/>
+
+
+</p></sp><sp><speaker>POMPEY</speaker>
+<p>Does your worship mean to geld and splay all the<lb/>
+youth of the city?<lb/>
+
+
+</p></sp><sp><speaker>ESCALUS</speaker>
+<p>No, Pompey.<lb/>
+
+</p></sp><sp><speaker>POMPEY</speaker>
+<p>Truly, sir, in my poor opinion, they will to't then.<lb/>
+If your worship will take order for the drabs and<lb/>
+the knaves, you need not to fear the bawds.<lb/>
+
+
+</p></sp><sp><speaker>ESCALUS</speaker>
+<p>There are pretty orders beginning, I can tell you:<lb/>
+it is but heading and hanging.<lb/>
+
+
+</p></sp><sp><speaker>POMPEY</speaker>
+<p>If you head and hang all that offend that way but<lb/>
+for ten year together, you'll be glad to give out a<lb/>
+commission for more heads: if this law hold in<lb/>
+Vienna ten year, I'll rent the fairest house in it<lb/>
+after three-pence a bay: if you live to see this<lb/>
+come to pass, say Pompey told you so.<lb/>
+
+
+</p></sp><sp><speaker>ESCALUS</speaker>
+<p>Thank you, good Pompey; and, in requital of your<lb/>
+prophecy, hark you: I advise you, let me not find<lb/>
+you before me again upon any complaint whatsoever;<lb/>
+no, not for dwelling where you do: if I do, Pompey,<lb/>
+I shall beat you to your tent, and prove a shrewd<lb/>
+Caesar to you; in plain dealing, Pompey, I shall<lb/>
+have you whipt: so, for this time, Pompey, fare you well.<lb/>
+
+
+</p></sp><sp><speaker>POMPEY</speaker>
+<p>I thank your worship for your good counsel:<lb/>
+
+</p><p><stage>Aside</stage></p>
+
+
+<p>
+but I shall follow it as the flesh and fortune shall<lb/>
+better determine.<lb/>
+Whip me? No, no; let carman whip his jade:<lb/>
+The valiant heart is not whipt out of his trade.<lb/>
+
+
+</p><p><stage>Exit</stage>
+
+
+</p></sp><sp><speaker>ESCALUS</speaker>
+<p>Come hither to me, Master Elbow; come hither, Master<lb/>
+constable. How long have you been in this place of constable?<lb/>
+
+
+</p></sp><sp><speaker>ELBOW</speaker>
+<p>Seven year and a half, sir.<lb/>
+
+</p></sp><sp><speaker>ESCALUS</speaker>
+<p>I thought, by your readiness in the office, you had<lb/>
+continued in it some time. You say, seven years together?<lb/>
+
+
+</p></sp><sp><speaker>ELBOW</speaker>
+<p>And a half, sir.<lb/>
+
+</p></sp><sp><speaker>ESCALUS</speaker>
+<p>Alas, it hath been great pains to you. They do you<lb/>
+wrong to put you so oft upon 't: are there not men<lb/>
+in your ward sufficient to serve it?<lb/>
+
+
+</p></sp><sp><speaker>ELBOW</speaker>
+<p>Faith, sir, few of any wit in such matters: as they<lb/>
+are chosen, they are glad to choose me for them; I<lb/>
+do it for some piece of money, and go through with<lb/>
+all.<lb/>
+
+
+</p></sp><sp><speaker>ESCALUS</speaker>
+<p>Look you bring me in the names of some six or seven,<lb/>
+the most sufficient of your parish.<lb/>
+
+
+</p></sp><sp><speaker>ELBOW</speaker>
+<p>To your worship's house, sir?<lb/>
+
+</p></sp><sp><speaker>ESCALUS</speaker>
+<p>To my house. Fare you well.<lb/>
+
+</p><p><stage>Exit ELBOW</stage></p>
+
+
+<p>
+What's o'clock, think you?<lb/>
+
+
+</p></sp><sp><speaker>Justice</speaker>
+<p>Eleven, sir.<lb/>
+
+</p></sp><sp><speaker>ESCALUS</speaker>
+<p>I pray you home to dinner with me.<lb/>
+
+</p></sp><sp><speaker>Justice</speaker>
+<p>I humbly thank you.<lb/>
+
+</p></sp><sp><speaker>ESCALUS</speaker>
+<p>It grieves me for the death of Claudio;<lb/>
+But there's no remedy.<lb/>
+
+
+</p></sp><sp><speaker>Justice</speaker>
+<p>Lord Angelo is severe.<lb/>
+
+</p></sp><sp><speaker>ESCALUS</speaker>
+<p>It is but needful:<lb/>
+Mercy is not itself, that oft looks so;<lb/>
+Pardon is still the nurse of second woe:<lb/>
+But yet,&mdash;poor Claudio! There is no remedy.<lb/>
+Come, sir.<lb/>
+
+
+</p></sp><p><stage>Exeunt</stage>
+
+
+
+</p></div2><div2 type="scene" n="2" id="d12">
+<head>Scene 2</head>
+
+<p><stage>Another room in the same.</stage>
+
+</p><p><stage>Enter Provost and a Servant</stage>
+
+
+</p><sp><speaker>Servant</speaker>
+<p>He's hearing of a cause; he will come straight<lb/>
+I'll tell him of you.<lb/>
+
+
+</p></sp><sp><speaker>Provost</speaker>
+<p>Pray you, do.<lb/>
+
+</p><p><stage>Exit Servant</stage></p>
+
+
+<p>
+I'll know<lb/>
+His pleasure; may be he will relent. Alas,<lb/>
+He hath but as offended in a dream!<lb/>
+All sects, all ages smack of this vice; and he<lb/>
+To die for't!<lb/>
+
+
+</p><p><stage>Enter ANGELO</stage>
+
+
+</p></sp><sp><speaker>ANGELO</speaker>
+<p>Now, what's the matter. Provost?<lb/>
+
+</p></sp><sp><speaker>Provost</speaker>
+<p>Is it your will Claudio shall die tomorrow?<lb/>
+
+</p></sp><sp><speaker>ANGELO</speaker>
+<p>Did not I tell thee yea? hadst thou not order?<lb/>
+Why dost thou ask again?<lb/>
+
+
+</p></sp><sp><speaker>Provost</speaker>
+<p>Lest I might be too rash:<lb/>
+Under your good correction, I have seen,<lb/>
+When, after execution, judgment hath<lb/>
+Repented o'er his doom.<lb/>
+
+
+</p></sp><sp><speaker>ANGELO</speaker>
+<p>Go to; let that be mine:<lb/>
+Do you your office, or give up your place,<lb/>
+And you shall well be spared.<lb/>
+
+
+</p></sp><sp><speaker>Provost</speaker>
+<p>I crave your honour's pardon.<lb/>
+What shall be done, sir, with the groaning Juliet?<lb/>
+She's very near her hour.<lb/>
+
+
+</p></sp><sp><speaker>ANGELO</speaker>
+<p>Dispose of her<lb/>
+To some more fitter place, and that with speed.<lb/>
+
+
+</p><p><stage>Re-enter Servant</stage>
+
+
+</p></sp><sp><speaker>Servant</speaker>
+<p>Here is the sister of the man condemn'd<lb/>
+Desires access to you.<lb/>
+
+
+</p></sp><sp><speaker>ANGELO</speaker>
+<p>Hath he a sister?<lb/>
+
+</p></sp><sp><speaker>Provost</speaker>
+<p>Ay, my good lord; a very virtuous maid,<lb/>
+And to be shortly of a sisterhood,<lb/>
+If not already.<lb/>
+
+
+</p></sp><sp><speaker>ANGELO</speaker>
+<p>Well, let her be admitted.<lb/>
+
+</p><p><stage>Exit Servant</stage></p>
+
+
+<p>
+See you the fornicatress be removed:<lb/>
+Let have needful, but not lavish, means;<lb/>
+There shall be order for't.<lb/>
+
+
+</p><p><stage>Enter ISABELLA and LUCIO</stage>
+
+
+</p></sp><sp><speaker>Provost</speaker>
+<p>God save your honour!<lb/>
+
+</p></sp><sp><speaker>ANGELO</speaker>
+<p>Stay a little while.<lb/>
+
+</p><p><stage>To ISABELLA</stage></p>
+
+
+<p>
+You're welcome: what's your will?<lb/>
+
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>I am a woeful suitor to your honour,<lb/>
+Please but your honour hear me.<lb/>
+
+
+</p></sp><sp><speaker>ANGELO</speaker>
+<p>Well; what's your suit?<lb/>
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>There is a vice that most I do abhor,<lb/>
+And most desire should meet the blow of justice;<lb/>
+For which I would not plead, but that I must;<lb/>
+For which I must not plead, but that I am<lb/>
+At war 'twixt will and will not.<lb/>
+
+
+</p></sp><sp><speaker>ANGELO</speaker>
+<p>Well; the matter?<lb/>
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>I have a brother is condemn'd to die:<lb/>
+I do beseech you, let it be his fault,<lb/>
+And not my brother.<lb/>
+
+
+</p></sp><sp><speaker>Provost</speaker>
+<p><stage>[Aside]</stage></p><p>  Heaven give thee moving graces!<lb/>
+
+</p></sp><sp><speaker>ANGELO</speaker>
+<p>Condemn the fault and not the actor of it?<lb/>
+Why, every fault's condemn'd ere it be done:<lb/>
+Mine were the very cipher of a function,<lb/>
+To fine the faults whose fine stands in record,<lb/>
+And let go by the actor.<lb/>
+
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>O just but severe law!<lb/>
+I had a brother, then. Heaven keep your honour!<lb/>
+
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p><stage>[Aside to ISABELLA]</stage></p><p>  Give't not o'er so: to him<lb/>
+again, entreat him;<lb/>
+Kneel down before him, hang upon his gown:<lb/>
+You are too cold; if you should need a pin,<lb/>
+You could not with more tame a tongue desire it:<lb/>
+To him, I say!<lb/>
+
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>Must he needs die?<lb/>
+
+</p></sp><sp><speaker>ANGELO</speaker>
+<p>Maiden, no remedy.<lb/>
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>Yes; I do think that you might pardon him,<lb/>
+And neither heaven nor man grieve at the mercy.<lb/>
+
+
+</p></sp><sp><speaker>ANGELO</speaker>
+<p>I will not do't.<lb/>
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>But can you, if you would?<lb/>
+
+</p></sp><sp><speaker>ANGELO</speaker>
+<p>Look, what I will not, that I cannot do.<lb/>
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>But might you do't, and do the world no wrong,<lb/>
+If so your heart were touch'd with that remorse<lb/>
+As mine is to him?<lb/>
+
+
+</p></sp><sp><speaker>ANGELO</speaker>
+<p>He's sentenced; 'tis too late.<lb/>
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p><stage>[Aside to ISABELLA]</stage></p><p>  You are too cold.<lb/>
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>Too late? why, no; I, that do speak a word.<lb/>
+May call it back again. Well, believe this,<lb/>
+No ceremony that to great ones 'longs,<lb/>
+Not the king's crown, nor the deputed sword,<lb/>
+The marshal's truncheon, nor the judge's robe,<lb/>
+Become them with one half so good a grace<lb/>
+As mercy does.<lb/>
+If he had been as you and you as he,<lb/>
+You would have slipt like him; but he, like you,<lb/>
+Would not have been so stern.<lb/>
+
+
+</p></sp><sp><speaker>ANGELO</speaker>
+<p>Pray you, be gone.<lb/>
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>I would to heaven I had your potency,<lb/>
+And you were Isabel! should it then be thus?<lb/>
+No; I would tell what 'twere to be a judge,<lb/>
+And what a prisoner.<lb/>
+
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p><stage>[Aside to ISABELLA]</stage></p><p>
+Ay, touch him; there's the vein.<lb/>
+
+
+</p></sp><sp><speaker>ANGELO</speaker>
+<p>Your brother is a forfeit of the law,<lb/>
+And you but waste your words.<lb/>
+
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>Alas, alas!<lb/>
+Why, all the souls that were were forfeit once;<lb/>
+And He that might the vantage best have took<lb/>
+Found out the remedy. How would you be,<lb/>
+If He, which is the top of judgment, should<lb/>
+But judge you as you are? O, think on that;<lb/>
+And mercy then will breathe within your lips,<lb/>
+Like man new made.<lb/>
+
+
+</p></sp><sp><speaker>ANGELO</speaker>
+<p>Be you content, fair maid;<lb/>
+It is the law, not I condemn your brother:<lb/>
+Were he my kinsman, brother, or my son,<lb/>
+It should be thus with him: he must die tomorrow.<lb/>
+
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>To-morrow! O, that's sudden! Spare him, spare him!<lb/>
+He's not prepared for death. Even for our kitchens<lb/>
+We kill the fowl of season: shall we serve heaven<lb/>
+With less respect than we do minister<lb/>
+To our gross selves? Good, good my lord, bethink you;<lb/>
+Who is it that hath died for this offence?<lb/>
+There's many have committed it.<lb/>
+
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p><stage>[Aside to ISABELLA]</stage></p><p>           Ay, well said.<lb/>
+
+</p></sp><sp><speaker>ANGELO</speaker>
+<p>The law hath not been dead, though it hath slept:<lb/>
+Those many had not dared to do that evil,<lb/>
+If the first that did the edict infringe<lb/>
+Had answer'd for his deed: now 'tis awake<lb/>
+Takes note of what is done; and, like a prophet,<lb/>
+Looks in a glass, that shows what future evils,<lb/>
+Either new, or by remissness new-conceived,<lb/>
+And so in progress to be hatch'd and born,<lb/>
+Are now to have no successive degrees,<lb/>
+But, ere they live, to end.<lb/>
+
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>Yet show some pity.<lb/>
+
+</p></sp><sp><speaker>ANGELO</speaker>
+<p>I show it most of all when I show justice;<lb/>
+For then I pity those I do not know,<lb/>
+Which a dismiss'd offence would after gall;<lb/>
+And do him right that, answering one foul wrong,<lb/>
+Lives not to act another. Be satisfied;<lb/>
+Your brother dies to-morrow; be content.<lb/>
+
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>So you must be the first that gives this sentence,<lb/>
+And he, that suffer's. O, it is excellent<lb/>
+To have a giant's strength; but it is tyrannous<lb/>
+To use it like a giant.<lb/>
+
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p><stage>[Aside to ISABELLA]</stage></p><p>   That's well said.<lb/>
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>Could great men thunder<lb/>
+As Jove himself does, Jove would ne'er be quiet,<lb/>
+For every pelting, petty officer<lb/>
+Would use his heaven for thunder;<lb/>
+Nothing but thunder! Merciful Heaven,<lb/>
+Thou rather with thy sharp and sulphurous bolt<lb/>
+Split'st the unwedgeable and gnarled oak<lb/>
+Than the soft myrtle: but man, proud man,<lb/>
+Drest in a little brief authority,<lb/>
+Most ignorant of what he's most assured,<lb/>
+His glassy essence, like an angry ape,<lb/>
+Plays such fantastic tricks before high heaven<lb/>
+As make the angels weep; who, with our spleens,<lb/>
+Would all themselves laugh mortal.<lb/>
+
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p><stage>[Aside to ISABELLA]</stage></p><p>  O, to him, to him, wench! he<lb/>
+will relent;<lb/>
+He's coming; I perceive 't.<lb/>
+
+
+</p></sp><sp><speaker>Provost</speaker>
+<p><stage>[Aside]</stage></p><p>  Pray heaven she win him!<lb/>
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>We cannot weigh our brother with ourself:<lb/>
+Great men may jest with saints; 'tis wit in them,<lb/>
+But in the less foul profanation.<lb/>
+
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>Thou'rt i' the right, girl; more o, that.<lb/>
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>That in the captain's but a choleric word,<lb/>
+Which in the soldier is flat blasphemy.<lb/>
+
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p><stage>[Aside to ISABELLA]</stage></p><p>  Art avised o' that? more on 't.<lb/>
+
+</p></sp><sp><speaker>ANGELO</speaker>
+<p>Why do you put these sayings upon me?<lb/>
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>Because authority, though it err like others,<lb/>
+Hath yet a kind of medicine in itself,<lb/>
+That skins the vice o' the top. Go to your bosom;<lb/>
+Knock there, and ask your heart what it doth know<lb/>
+That's like my brother's fault: if it confess<lb/>
+A natural guiltiness such as is his,<lb/>
+Let it not sound a thought upon your tongue<lb/>
+Against my brother's life.<lb/>
+
+
+</p></sp><sp><speaker>ANGELO</speaker>
+<p><stage>[Aside]</stage></p><p>                  She speaks, and 'tis<lb/>
+Such sense, that my sense breeds with it. Fare you well.<lb/>
+
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>Gentle my lord, turn back.<lb/>
+
+</p></sp><sp><speaker>ANGELO</speaker>
+<p>I will bethink me: come again tomorrow.<lb/>
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>Hark how I'll bribe you: good my lord, turn back.<lb/>
+
+</p></sp><sp><speaker>ANGELO</speaker>
+<p>How! bribe me?<lb/>
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>Ay, with such gifts that heaven shall share with you.<lb/>
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p><stage>[Aside to ISABELLA]</stage></p><p>  You had marr'd all else.<lb/>
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>Not with fond shekels of the tested gold,<lb/>
+Or stones whose rates are either rich or poor<lb/>
+As fancy values them; but with true prayers<lb/>
+That shall be up at heaven and enter there<lb/>
+Ere sun-rise, prayers from preserved souls,<lb/>
+From fasting maids whose minds are dedicate<lb/>
+To nothing temporal.<lb/>
+
+
+</p></sp><sp><speaker>ANGELO</speaker>
+<p>Well; come to me to-morrow.<lb/>
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p><stage>[Aside to ISABELLA]</stage></p><p>  Go to; 'tis well; away!<lb/>
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>Heaven keep your honour safe!<lb/>
+
+</p></sp><sp><speaker>ANGELO</speaker><p><stage>[Aside]</stage></p>
+<p>Amen:<lb/>
+For I am that way going to temptation,<lb/>
+Where prayers cross.<lb/>
+
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>At what hour to-morrow<lb/>
+Shall I attend your lordship?<lb/>
+
+
+</p></sp><sp><speaker>ANGELO</speaker>
+<p>At any time 'fore noon.<lb/>
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>'Save your honour!<lb/>
+
+</p><p><stage>Exeunt ISABELLA, LUCIO, and Provost</stage>
+
+
+</p></sp><sp><speaker>ANGELO</speaker>
+<p>From thee, even from thy virtue!<lb/>
+What's this, what's this? Is this her fault or mine?<lb/>
+The tempter or the tempted, who sins most?<lb/>
+Ha!<lb/>
+Not she: nor doth she tempt: but it is I<lb/>
+That, lying by the violet in the sun,<lb/>
+Do as the carrion does, not as the flower,<lb/>
+Corrupt with virtuous season. Can it be<lb/>
+That modesty may more betray our sense<lb/>
+Than woman's lightness? Having waste ground enough,<lb/>
+Shall we desire to raze the sanctuary<lb/>
+And pitch our evils there? O, fie, fie, fie!<lb/>
+What dost thou, or what art thou, Angelo?<lb/>
+Dost thou desire her foully for those things<lb/>
+That make her good? O, let her brother live!<lb/>
+Thieves for their robbery have authority<lb/>
+When judges steal themselves. What, do I love her,<lb/>
+That I desire to hear her speak again,<lb/>
+And feast upon her eyes? What is't I dream on?<lb/>
+O cunning enemy, that, to catch a saint,<lb/>
+With saints dost bait thy hook! Most dangerous<lb/>
+Is that temptation that doth goad us on<lb/>
+To sin in loving virtue: never could the strumpet,<lb/>
+With all her double vigour, art and nature,<lb/>
+Once stir my temper; but this virtuous maid<lb/>
+Subdues me quite. Even till now,<lb/>
+When men were fond, I smiled and wonder'd how.<lb/>
+
+
+</p></sp><p><stage>Exit</stage>
+
+
+
+</p></div2><div2 type="scene" n="3" id="d13">
+<head>Scene 3</head>
+
+<p><stage>A room in a prison.</stage>
+
+</p><p><stage>Enter, severally, DUKE VINCENTIO disguised as a	friar, and Provost</stage>
+
+
+</p><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Hail to you, provost! so I think you are.<lb/>
+
+</p></sp><sp><speaker>Provost</speaker>
+<p>I am the provost. What's your will, good friar?<lb/>
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Bound by my charity and my blest order,<lb/>
+I come to visit the afflicted spirits<lb/>
+Here in the prison. Do me the common right<lb/>
+To let me see them and to make me know<lb/>
+The nature of their crimes, that I may minister<lb/>
+To them accordingly.<lb/>
+
+
+</p></sp><sp><speaker>Provost</speaker>
+<p>I would do more than that, if more were needful.<lb/>
+
+</p><p><stage>Enter JULIET</stage></p>
+
+
+<p>
+Look, here comes one: a gentlewoman of mine,<lb/>
+Who, falling in the flaws of her own youth,<lb/>
+Hath blister'd her report: she is with child;<lb/>
+And he that got it, sentenced; a young man<lb/>
+More fit to do another such offence<lb/>
+Than die for this.<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>When must he die?<lb/>
+
+</p></sp><sp><speaker>Provost</speaker>
+<p>As I do think, to-morrow.<lb/>
+I have provided for you: stay awhile,<lb/>
+
+
+</p><p><stage>To JULIET</stage></p>
+
+
+<p>
+And you shall be conducted.<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Repent you, fair one, of the sin you carry?<lb/>
+
+</p></sp><sp><speaker>JULIET</speaker>
+<p>I do; and bear the shame most patiently.<lb/>
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>I'll teach you how you shall arraign your conscience,<lb/>
+And try your penitence, if it be sound,<lb/>
+Or hollowly put on.<lb/>
+
+
+</p></sp><sp><speaker>JULIET</speaker>
+<p>I'll gladly learn.<lb/>
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Love you the man that wrong'd you?<lb/>
+
+</p></sp><sp><speaker>JULIET</speaker>
+<p>Yes, as I love the woman that wrong'd him.<lb/>
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>So then it seems your most offenceful act<lb/>
+Was mutually committed?<lb/>
+
+
+</p></sp><sp><speaker>JULIET</speaker>
+<p>Mutually.<lb/>
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Then was your sin of heavier kind than his.<lb/>
+
+</p></sp><sp><speaker>JULIET</speaker>
+<p>I do confess it, and repent it, father.<lb/>
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>'Tis meet so, daughter: but lest you do repent,<lb/>
+As that the sin hath brought you to this shame,<lb/>
+Which sorrow is always towards ourselves, not heaven,<lb/>
+Showing we would not spare heaven as we love it,<lb/>
+But as we stand in fear,&mdash;<lb/>
+
+
+</p></sp><sp><speaker>JULIET</speaker>
+<p>I do repent me, as it is an evil,<lb/>
+And take the shame with joy.<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>There rest.<lb/>
+Your partner, as I hear, must die to-morrow,<lb/>
+And I am going with instruction to him.<lb/>
+Grace go with you, Benedicite!<lb/>
+
+
+</p><p><stage>Exit</stage>
+
+
+</p></sp><sp><speaker>JULIET</speaker>
+<p>Must die to-morrow! O injurious love,<lb/>
+That respites me a life, whose very comfort<lb/>
+Is still a dying horror!<lb/>
+
+
+</p></sp><sp><speaker>Provost</speaker>
+<p>'Tis pity of him.<lb/>
+
+</p></sp><p><stage>Exeunt</stage>
+
+
+
+</p></div2><div2 type="scene" n="4" id="d14">
+<head>Scene 4</head>
+
+<p><stage>A room in ANGELO's house.</stage>
+
+</p><p><stage>Enter ANGELO</stage>
+
+
+</p><sp><speaker>ANGELO</speaker>
+<p>When I would pray and think, I think and pray<lb/>
+To several subjects. Heaven hath my empty words;<lb/>
+Whilst my invention, hearing not my tongue,<lb/>
+Anchors on Isabel: Heaven in my mouth,<lb/>
+As if I did but only chew his name;<lb/>
+And in my heart the strong and swelling evil<lb/>
+Of my conception. The state, whereon I studied<lb/>
+Is like a good thing, being often read,<lb/>
+Grown fear'd and tedious; yea, my gravity,<lb/>
+Wherein&mdash;let no man hear me&mdash;I take pride,<lb/>
+Could I with boot change for an idle plume,<lb/>
+Which the air beats for vain. O place, O form,<lb/>
+How often dost thou with thy case, thy habit,<lb/>
+Wrench awe from fools and tie the wiser souls<lb/>
+To thy false seeming! Blood, thou art blood:<lb/>
+Let's write good angel on the devil's horn:<lb/>
+'Tis not the devil's crest.<lb/>
+
+
+</p><p><stage>Enter a Servant</stage></p>
+
+
+<p>
+How now! who's there?<lb/>
+
+
+</p></sp><sp><speaker>Servant</speaker>
+<p>One Isabel, a sister, desires access to you.<lb/>
+
+</p></sp><sp><speaker>ANGELO</speaker>
+<p>Teach her the way.<lb/>
+
+</p><p><stage>Exit Servant</stage></p>
+
+
+<p>
+O heavens!<lb/>
+Why does my blood thus muster to my heart,<lb/>
+Making both it unable for itself,<lb/>
+And dispossessing all my other parts<lb/>
+Of necessary fitness?<lb/>
+So play the foolish throngs with one that swoons;<lb/>
+Come all to help him, and so stop the air<lb/>
+By which he should revive: and even so<lb/>
+The general, subject to a well-wish'd king,<lb/>
+Quit their own part, and in obsequious fondness<lb/>
+Crowd to his presence, where their untaught love<lb/>
+Must needs appear offence.<lb/>
+
+
+</p><p><stage>Enter ISABELLA</stage></p>
+
+
+<p>
+How now, fair maid?<lb/>
+
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>I am come to know your pleasure.<lb/>
+
+</p></sp><sp><speaker>ANGELO</speaker>
+<p>That you might know it, would much better please me<lb/>
+Than to demand what 'tis. Your brother cannot live.<lb/>
+
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>Even so. Heaven keep your honour!<lb/>
+
+</p></sp><sp><speaker>ANGELO</speaker>
+<p>Yet may he live awhile; and, it may be,<lb/>
+As long as you or I	yet he must die.<lb/>
+
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>Under your sentence?<lb/>
+
+</p></sp><sp><speaker>ANGELO</speaker>
+<p>Yea.<lb/>
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>When, I beseech you? that in his reprieve,<lb/>
+Longer or shorter, he may be so fitted<lb/>
+That his soul sicken not.<lb/>
+
+
+</p></sp><sp><speaker>ANGELO</speaker>
+<p>Ha! fie, these filthy vices! It were as good<lb/>
+To pardon him that hath from nature stolen<lb/>
+A man already made, as to remit<lb/>
+Their saucy sweetness that do coin heaven's image<lb/>
+In stamps that are forbid: 'tis all as easy<lb/>
+Falsely to take away a life true made<lb/>
+As to put metal in restrained means<lb/>
+To make a false one.<lb/>
+
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>'Tis set down so in heaven, but not in earth.<lb/>
+
+</p></sp><sp><speaker>ANGELO</speaker>
+<p>Say you so? then I shall pose you quickly.<lb/>
+Which had you rather, that the most just law<lb/>
+Now took your brother's life; or, to redeem him,<lb/>
+Give up your body to such sweet uncleanness<lb/>
+As she that he hath stain'd?<lb/>
+
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>Sir, believe this,<lb/>
+I had rather give my body than my soul.<lb/>
+
+
+</p></sp><sp><speaker>ANGELO</speaker>
+<p>I talk not of your soul: our compell'd sins<lb/>
+Stand more for number than for accompt.<lb/>
+
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>How say you?<lb/>
+
+</p></sp><sp><speaker>ANGELO</speaker>
+<p>Nay, I'll not warrant that; for I can speak<lb/>
+Against the thing I say. Answer to this:<lb/>
+I, now the voice of the recorded law,<lb/>
+Pronounce a sentence on your brother's life:<lb/>
+Might there not be a charity in sin<lb/>
+To save this brother's life?<lb/>
+
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>Please you to do't,<lb/>
+I'll take it as a peril to my soul,<lb/>
+It is no sin at all, but charity.<lb/>
+
+
+</p></sp><sp><speaker>ANGELO</speaker>
+<p>Pleased you to do't at peril of your soul,<lb/>
+Were equal poise of sin and charity.<lb/>
+
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>That I do beg his life, if it be sin,<lb/>
+Heaven let me bear it! you granting of my suit,<lb/>
+If that be sin, I'll make it my morn prayer<lb/>
+To have it added to the faults of mine,<lb/>
+And nothing of your answer.<lb/>
+
+
+</p></sp><sp><speaker>ANGELO</speaker>
+<p>Nay, but hear me.<lb/>
+Your sense pursues not mine: either you are ignorant,<lb/>
+Or seem so craftily; and that's not good.<lb/>
+
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>Let me be ignorant, and in nothing good,<lb/>
+But graciously to know I am no better.<lb/>
+
+
+</p></sp><sp><speaker>ANGELO</speaker>
+<p>Thus wisdom wishes to appear most bright<lb/>
+When it doth tax itself; as these black masks<lb/>
+Proclaim an enshield beauty ten times louder<lb/>
+Than beauty could, display'd. But mark me;<lb/>
+To be received plain, I'll speak more gross:<lb/>
+Your brother is to die.<lb/>
+
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>So.<lb/>
+
+</p></sp><sp><speaker>ANGELO</speaker>
+<p>And his offence is so, as it appears,<lb/>
+Accountant to the law upon that pain.<lb/>
+
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>True.<lb/>
+
+</p></sp><sp><speaker>ANGELO</speaker>
+<p>Admit no other way to save his life,&mdash;<lb/>
+As I subscribe not that, nor any other,<lb/>
+But in the loss of question,&mdash;that you, his sister,<lb/>
+Finding yourself desired of such a person,<lb/>
+Whose credit with the judge, or own great place,<lb/>
+Could fetch your brother from the manacles<lb/>
+Of the all-building law; and that there were<lb/>
+No earthly mean to save him, but that either<lb/>
+You must lay down the treasures of your body<lb/>
+To this supposed, or else to let him suffer;<lb/>
+What would you do?<lb/>
+
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>As much for my poor brother as myself:<lb/>
+That is, were I under the terms of death,<lb/>
+The impression of keen whips I'ld wear as rubies,<lb/>
+And strip myself to death, as to a bed<lb/>
+That longing have been sick for, ere I'ld yield<lb/>
+My body up to shame.<lb/>
+
+
+</p></sp><sp><speaker>ANGELO</speaker>
+<p>Then must your brother die.<lb/>
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>And 'twere the cheaper way:<lb/>
+Better it were a brother died at once,<lb/>
+Than that a sister, by redeeming him,<lb/>
+Should die for ever.<lb/>
+
+
+</p></sp><sp><speaker>ANGELO</speaker>
+<p>Were not you then as cruel as the sentence<lb/>
+That you have slander'd so?<lb/>
+
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>Ignomy in ransom and free pardon<lb/>
+Are of two houses: lawful mercy<lb/>
+Is nothing kin to foul redemption.<lb/>
+
+
+</p></sp><sp><speaker>ANGELO</speaker>
+<p>You seem'd of late to make the law a tyrant;<lb/>
+And rather proved the sliding of your brother<lb/>
+A merriment than a vice.<lb/>
+
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>O, pardon me, my lord; it oft falls out,<lb/>
+To have what we would have, we speak not what we mean:<lb/>
+I something do excuse the thing I hate,<lb/>
+For his advantage that I dearly love.<lb/>
+
+
+</p></sp><sp><speaker>ANGELO</speaker>
+<p>We are all frail.<lb/>
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>Else let my brother die,<lb/>
+If not a feodary, but only he<lb/>
+Owe and succeed thy weakness.<lb/>
+
+
+</p></sp><sp><speaker>ANGELO</speaker>
+<p>Nay, women are frail too.<lb/>
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>Ay, as the glasses where they view themselves;<lb/>
+Which are as easy broke as they make forms.<lb/>
+Women! Help Heaven! men their creation mar<lb/>
+In profiting by them. Nay, call us ten times frail;<lb/>
+For we are soft as our complexions are,<lb/>
+And credulous to false prints.<lb/>
+
+
+</p></sp><sp><speaker>ANGELO</speaker>
+<p>I think it well:<lb/>
+And from this testimony of your own sex,&mdash;<lb/>
+Since I suppose we are made to be no stronger<lb/>
+Than faults may shake our frames,&mdash;let me be bold;<lb/>
+I do arrest your words. Be that you are,<lb/>
+That is, a woman; if you be more, you're none;<lb/>
+If you be one, as you are well express'd<lb/>
+By all external warrants, show it now,<lb/>
+By putting on the destined livery.<lb/>
+
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>I have no tongue but one: gentle my lord,<lb/>
+Let me entreat you speak the former language.<lb/>
+
+
+</p></sp><sp><speaker>ANGELO</speaker>
+<p>Plainly conceive, I love you.<lb/>
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>My brother did love Juliet,<lb/>
+And you tell me that he shall die for it.<lb/>
+
+
+</p></sp><sp><speaker>ANGELO</speaker>
+<p>He shall not, Isabel, if you give me love.<lb/>
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>I know your virtue hath a licence in't,<lb/>
+Which seems a little fouler than it is,<lb/>
+To pluck on others.<lb/>
+
+
+</p></sp><sp><speaker>ANGELO</speaker>
+<p>Believe me, on mine honour,<lb/>
+My words express my purpose.<lb/>
+
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>Ha! little honour to be much believed,<lb/>
+And most pernicious purpose! Seeming, seeming!<lb/>
+I will proclaim thee, Angelo; look for't:<lb/>
+Sign me a present pardon for my brother,<lb/>
+Or with an outstretch'd throat I'll tell the world aloud<lb/>
+What man thou art.<lb/>
+
+
+</p></sp><sp><speaker>ANGELO</speaker>
+<p>Who will believe thee, Isabel?<lb/>
+My unsoil'd name, the austereness of my life,<lb/>
+My vouch against you, and my place i' the state,<lb/>
+Will so your accusation overweigh,<lb/>
+That you shall stifle in your own report<lb/>
+And smell of calumny. I have begun,<lb/>
+And now I give my sensual race the rein:<lb/>
+Fit thy consent to my sharp appetite;<lb/>
+Lay by all nicety and prolixious blushes,<lb/>
+That banish what they sue for; redeem thy brother<lb/>
+By yielding up thy body to my will;<lb/>
+Or else he must not only die the death,<lb/>
+But thy unkindness shall his death draw out<lb/>
+To lingering sufferance. Answer me to-morrow,<lb/>
+Or, by the affection that now guides me most,<lb/>
+I'll prove a tyrant to him. As for you,<lb/>
+Say what you can, my false o'erweighs your true.<lb/>
+
+
+</p><p><stage>Exit</stage>
+
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>To whom should I complain? Did I tell this,<lb/>
+Who would believe me? O perilous mouths,<lb/>
+That bear in them one and the self-same tongue,<lb/>
+Either of condemnation or approof;<lb/>
+Bidding the law make court'sy to their will:<lb/>
+Hooking both right and wrong to the appetite,<lb/>
+To follow as it draws! I'll to my brother:<lb/>
+Though he hath fallen by prompture of the blood,<lb/>
+Yet hath he in him such a mind of honour.<lb/>
+That, had he twenty heads to tender down<lb/>
+On twenty bloody blocks, he'ld yield them up,<lb/>
+Before his sister should her body stoop<lb/>
+To such abhorr'd pollution.<lb/>
+Then, Isabel, live chaste, and, brother, die:<lb/>
+More than our brother is our chastity.<lb/>
+I'll tell him yet of Angelo's request,<lb/>
+And fit his mind to death, for his soul's rest.<lb/>
+
+
+</p></sp><p><stage>Exit</stage></p>
+
+
+
+</div2>
+
+</div1>
+
+<div1 type="act" n="3" id="d15">
+<head>Act 3</head>
+
+<div2 type="scene" n="1" id="d16">
+<head>Scene 1</head>
+
+<p><stage>A room in the prison.</stage>
+
+</p><p><stage>Enter DUKE VINCENTIO disguised as before, CLAUDIO,	and Provost</stage>
+
+
+</p><sp><speaker>DUKE VINCENTIO</speaker>
+<p>So then you hope of pardon from Lord Angelo?<lb/>
+
+</p></sp><sp><speaker>CLAUDIO</speaker>
+<p>The miserable have no other medicine<lb/>
+But only hope:<lb/>
+I've hope to live, and am prepared to die.<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Be absolute for death; either death or life<lb/>
+Shall thereby be the sweeter. Reason thus with life:<lb/>
+If I do lose thee, I do lose a thing<lb/>
+That none but fools would keep: a breath thou art,<lb/>
+Servile to all the skyey influences,<lb/>
+That dost this habitation, where thou keep'st,<lb/>
+Hourly afflict: merely, thou art death's fool;<lb/>
+For him thou labour'st by thy flight to shun<lb/>
+And yet runn'st toward him still. Thou art not noble;<lb/>
+For all the accommodations that thou bear'st<lb/>
+Are nursed by baseness. Thou'rt by no means valiant;<lb/>
+For thou dost fear the soft and tender fork<lb/>
+Of a poor worm. Thy best of rest is sleep,<lb/>
+And that thou oft provokest; yet grossly fear'st<lb/>
+Thy death, which is no more. Thou art not thyself;<lb/>
+For thou exist'st on many a thousand grains<lb/>
+That issue out of dust. Happy thou art not;<lb/>
+For what thou hast not, still thou strivest to get,<lb/>
+And what thou hast, forget'st. Thou art not certain;<lb/>
+For thy complexion shifts to strange effects,<lb/>
+After the moon. If thou art rich, thou'rt poor;<lb/>
+For, like an ass whose back with ingots bows,<lb/>
+Thou bear's thy heavy riches but a journey,<lb/>
+And death unloads thee. Friend hast thou none;<lb/>
+For thine own bowels, which do call thee sire,<lb/>
+The mere effusion of thy proper loins,<lb/>
+Do curse the gout, serpigo, and the rheum,<lb/>
+For ending thee no sooner. Thou hast nor youth nor age,<lb/>
+But, as it were, an after-dinner's sleep,<lb/>
+Dreaming on both; for all thy blessed youth<lb/>
+Becomes as aged, and doth beg the alms<lb/>
+Of palsied eld; and when thou art old and rich,<lb/>
+Thou hast neither heat, affection, limb, nor beauty,<lb/>
+To make thy riches pleasant. What's yet in this<lb/>
+That bears the name of life? Yet in this life<lb/>
+Lie hid moe thousand deaths: yet death we fear,<lb/>
+That makes these odds all even.<lb/>
+
+
+</p></sp><sp><speaker>CLAUDIO</speaker>
+<p>I humbly thank you.<lb/>
+To sue to live, I find I seek to die;<lb/>
+And, seeking death, find life: let it come on.<lb/>
+
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p><stage>[Within]</stage></p><p>  What, ho! Peace here; grace and good company!<lb/>
+
+</p></sp><sp><speaker>Provost</speaker>
+<p>Who's there? come in: the wish deserves a welcome.<lb/>
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Dear sir, ere long I'll visit you again.<lb/>
+
+</p></sp><sp><speaker>CLAUDIO</speaker>
+<p>Most holy sir, I thank you.<lb/>
+
+</p><p><stage>Enter ISABELLA</stage>
+
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>My business is a word or two with Claudio.<lb/>
+
+</p></sp><sp><speaker>Provost</speaker>
+<p>And very welcome. Look, signior, here's your sister.<lb/>
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Provost, a word with you.<lb/>
+
+</p></sp><sp><speaker>Provost</speaker>
+<p>As many as you please.<lb/>
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Bring me to hear them speak, where I may be concealed.<lb/>
+
+</p><p><stage>Exeunt DUKE VINCENTIO and Provost</stage>
+
+
+</p></sp><sp><speaker>CLAUDIO</speaker>
+<p>Now, sister, what's the comfort?<lb/>
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>Why,<lb/>
+As all comforts are; most good, most good indeed.<lb/>
+Lord Angelo, having affairs to heaven,<lb/>
+Intends you for his swift ambassador,<lb/>
+Where you shall be an everlasting leiger:<lb/>
+Therefore your best appointment make with speed;<lb/>
+To-morrow you set on.<lb/>
+
+
+</p></sp><sp><speaker>CLAUDIO</speaker>
+<p>Is there no remedy?<lb/>
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>None, but such remedy as, to save a head,<lb/>
+To cleave a heart in twain.<lb/>
+
+
+</p></sp><sp><speaker>CLAUDIO</speaker>
+<p>But is there any?<lb/>
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>Yes, brother, you may live:<lb/>
+There is a devilish mercy in the judge,<lb/>
+If you'll implore it, that will free your life,<lb/>
+But fetter you till death.<lb/>
+
+
+</p></sp><sp><speaker>CLAUDIO</speaker>
+<p>Perpetual durance?<lb/>
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>Ay, just; perpetual durance, a restraint,<lb/>
+Though all the world's vastidity you had,<lb/>
+To a determined scope.<lb/>
+
+
+</p></sp><sp><speaker>CLAUDIO</speaker>
+<p>But in what nature?<lb/>
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>In such a one as, you consenting to't,<lb/>
+Would bark your honour from that trunk you bear,<lb/>
+And leave you naked.<lb/>
+
+
+</p></sp><sp><speaker>CLAUDIO</speaker>
+<p>Let me know the point.<lb/>
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>O, I do fear thee, Claudio; and I quake,<lb/>
+Lest thou a feverous life shouldst entertain,<lb/>
+And six or seven winters more respect<lb/>
+Than a perpetual honour. Darest thou die?<lb/>
+The sense of death is most in apprehension;<lb/>
+And the poor beetle, that we tread upon,<lb/>
+In corporal sufferance finds a pang as great<lb/>
+As when a giant dies.<lb/>
+
+
+</p></sp><sp><speaker>CLAUDIO</speaker>
+<p>Why give you me this shame?<lb/>
+Think you I can a resolution fetch<lb/>
+From flowery tenderness? If I must die,<lb/>
+I will encounter darkness as a bride,<lb/>
+And hug it in mine arms.<lb/>
+
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>There spake my brother; there my father's grave<lb/>
+Did utter forth a voice. Yes, thou must die:<lb/>
+Thou art too noble to conserve a life<lb/>
+In base appliances. This outward-sainted deputy,<lb/>
+Whose settled visage and deliberate word<lb/>
+Nips youth i' the head and follies doth emmew<lb/>
+As falcon doth the fowl, is yet a devil<lb/>
+His filth within being cast, he would appear<lb/>
+A pond as deep as hell.<lb/>
+
+
+</p></sp><sp><speaker>CLAUDIO</speaker>
+<p>The prenzie Angelo!<lb/>
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>O, 'tis the cunning livery of hell,<lb/>
+The damned'st body to invest and cover<lb/>
+In prenzie guards! Dost thou think, Claudio?<lb/>
+If I would yield him my virginity,<lb/>
+Thou mightst be freed.<lb/>
+
+
+</p></sp><sp><speaker>CLAUDIO</speaker>
+<p>O heavens! it cannot be.<lb/>
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>Yes, he would give't thee, from this rank offence,<lb/>
+So to offend him still. This night's the time<lb/>
+That I should do what I abhor to name,<lb/>
+Or else thou diest to-morrow.<lb/>
+
+
+</p></sp><sp><speaker>CLAUDIO</speaker>
+<p>Thou shalt not do't.<lb/>
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>O, were it but my life,<lb/>
+I'ld throw it down for your deliverance<lb/>
+As frankly as a pin.<lb/>
+
+
+</p></sp><sp><speaker>CLAUDIO</speaker>
+<p>Thanks, dear Isabel.<lb/>
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>Be ready, Claudio, for your death tomorrow.<lb/>
+
+</p></sp><sp><speaker>CLAUDIO</speaker>
+<p>Yes. Has he affections in him,<lb/>
+That thus can make him bite the law by the nose,<lb/>
+When he would force it? Sure, it is no sin,<lb/>
+Or of the deadly seven, it is the least.<lb/>
+
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>Which is the least?<lb/>
+
+</p></sp><sp><speaker>CLAUDIO</speaker>
+<p>If it were damnable, he being so wise,<lb/>
+Why would he for the momentary trick<lb/>
+Be perdurably fined? O Isabel!<lb/>
+
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>What says my brother?<lb/>
+
+</p></sp><sp><speaker>CLAUDIO</speaker>
+<p>Death is a fearful thing.<lb/>
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>And shamed life a hateful.<lb/>
+
+</p></sp><sp><speaker>CLAUDIO</speaker>
+<p>Ay, but to die, and go we know not where;<lb/>
+To lie in cold obstruction and to rot;<lb/>
+This sensible warm motion to become<lb/>
+A kneaded clod; and the delighted spirit<lb/>
+To bathe in fiery floods, or to reside<lb/>
+In thrilling region of thick-ribbed ice;<lb/>
+To be imprison'd in the viewless winds,<lb/>
+And blown with restless violence round about<lb/>
+The pendent world; or to be worse than worst<lb/>
+Of those that lawless and incertain thought<lb/>
+Imagine howling: 'tis too horrible!<lb/>
+The weariest and most loathed worldly life<lb/>
+That age, ache, penury and imprisonment<lb/>
+Can lay on nature is a paradise<lb/>
+To what we fear of death.<lb/>
+
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>Alas, alas!<lb/>
+
+</p></sp><sp><speaker>CLAUDIO</speaker>
+<p>Sweet sister, let me live:<lb/>
+What sin you do to save a brother's life,<lb/>
+Nature dispenses with the deed so far<lb/>
+That it becomes a virtue.<lb/>
+
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>O you beast!<lb/>
+O faithless coward! O dishonest wretch!<lb/>
+Wilt thou be made a man out of my vice?<lb/>
+Is't not a kind of incest, to take life<lb/>
+From thine own sister's shame? What should I think?<lb/>
+Heaven shield my mother play'd my father fair!<lb/>
+For such a warped slip of wilderness<lb/>
+Ne'er issued from his blood. Take my defiance!<lb/>
+Die, perish! Might but my bending down<lb/>
+Reprieve thee from thy fate, it should proceed:<lb/>
+I'll pray a thousand prayers for thy death,<lb/>
+No word to save thee.<lb/>
+
+
+</p></sp><sp><speaker>CLAUDIO</speaker>
+<p>Nay, hear me, Isabel.<lb/>
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>O, fie, fie, fie!<lb/>
+Thy sin's not accidental, but a trade.<lb/>
+Mercy to thee would prove itself a bawd:<lb/>
+'Tis best thou diest quickly.<lb/>
+
+
+</p></sp><sp><speaker>CLAUDIO</speaker>
+<p>O hear me, Isabella!<lb/>
+
+</p><p><stage>Re-enter DUKE VINCENTIO</stage>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Vouchsafe a word, young sister, but one word.<lb/>
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>What is your will?<lb/>
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Might you dispense with your leisure, I would by and<lb/>
+by have some speech with you: the satisfaction I<lb/>
+would require is likewise your own benefit.<lb/>
+
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>I have no superfluous leisure; my stay must be<lb/>
+stolen out of other affairs; but I will attend you awhile.<lb/>
+
+
+</p><p><stage>Walks apart</stage>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Son, I have overheard what hath passed between you<lb/>
+and your sister. Angelo had never the purpose to<lb/>
+corrupt her; only he hath made an essay of her<lb/>
+virtue to practise his judgment with the disposition<lb/>
+of natures: she, having the truth of honour in her,<lb/>
+hath made him that gracious denial which he is most<lb/>
+glad to receive. I am confessor to Angelo, and I<lb/>
+know this to be true; therefore prepare yourself to<lb/>
+death: do not satisfy your resolution with hopes<lb/>
+that are fallible: tomorrow you must die; go to<lb/>
+your knees and make ready.<lb/>
+
+
+</p></sp><sp><speaker>CLAUDIO</speaker>
+<p>Let me ask my sister pardon. I am so out of love<lb/>
+with life that I will sue to be rid of it.<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Hold you there: farewell.<lb/>
+
+</p><p><stage>Exit CLAUDIO</stage></p>
+
+
+<p>
+Provost, a word with you!<lb/>
+
+
+</p><p><stage>Re-enter Provost</stage>
+
+
+</p></sp><sp><speaker>Provost</speaker>
+<p>What's your will, father<lb/>
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>That now you are come, you will be gone. Leave me<lb/>
+awhile with the maid: my mind promises with my<lb/>
+habit no loss shall touch her by my company.<lb/>
+
+
+</p></sp><sp><speaker>Provost</speaker>
+<p>In good time.<lb/>
+
+</p><p><stage>Exit Provost. ISABELLA comes forward</stage>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>The hand that hath made you fair hath made you good:<lb/>
+the goodness that is cheap in beauty makes beauty<lb/>
+brief in goodness; but grace, being the soul of<lb/>
+your complexion, shall keep the body of it ever<lb/>
+fair. The assault that Angelo hath made to you,<lb/>
+fortune hath conveyed to my understanding; and, but<lb/>
+that frailty hath examples for his falling, I should<lb/>
+wonder at Angelo. How will you do to content this<lb/>
+substitute, and to save your brother?<lb/>
+
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>I am now going to resolve him: I had rather my<lb/>
+brother die by the law than my son should be<lb/>
+unlawfully born. But, O, how much is the good duke<lb/>
+deceived in Angelo! If ever he return and I can<lb/>
+speak to him, I will open my lips in vain, or<lb/>
+discover his government.<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>That shall not be much amiss: Yet, as the matter<lb/>
+now stands, he will avoid your accusation; he made<lb/>
+trial of you only. Therefore fasten your ear on my<lb/>
+advisings: to the love I have in doing good a<lb/>
+remedy presents itself. I do make myself believe<lb/>
+that you may most uprighteously do a poor wronged<lb/>
+lady a merited benefit; redeem your brother from<lb/>
+the angry law; do no stain to your own gracious<lb/>
+person; and much please the absent duke, if<lb/>
+peradventure he shall ever return to have hearing of<lb/>
+this business.<lb/>
+
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>Let me hear you speak farther. I have spirit to do<lb/>
+anything that appears not foul in the truth of my spirit.<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Virtue is bold, and goodness never fearful. Have<lb/>
+you not heard speak of Mariana, the sister of<lb/>
+Frederick the great soldier who miscarried at sea?<lb/>
+
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>I have heard of the lady, and good words went with her name.<lb/>
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>She should this Angelo have married; was affianced<lb/>
+to her by oath, and the nuptial appointed: between<lb/>
+which time of the contract and limit of the<lb/>
+solemnity, her brother Frederick was wrecked at sea,<lb/>
+having in that perished vessel the dowry of his<lb/>
+sister. But mark how heavily this befell to the<lb/>
+poor gentlewoman: there she lost a noble and<lb/>
+renowned brother, in his love toward her ever most<lb/>
+kind and natural; with him, the portion and sinew of<lb/>
+her fortune, her marriage-dowry; with both, her<lb/>
+combinate husband, this well-seeming Angelo.<lb/>
+
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>Can this be so? did Angelo so leave her?<lb/>
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Left her in her tears, and dried not one of them<lb/>
+with his comfort; swallowed his vows whole,<lb/>
+pretending in her discoveries of dishonour: in few,<lb/>
+bestowed her on her own lamentation, which she yet<lb/>
+wears for his sake; and he, a marble to her tears,<lb/>
+is washed with them, but relents not.<lb/>
+
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>What a merit were it in death to take this poor maid<lb/>
+from the world! What corruption in this life, that<lb/>
+it will let this man live! But how out of this can she avail?<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>It is a rupture that you may easily heal: and the<lb/>
+cure of it not only saves your brother, but keeps<lb/>
+you from dishonour in doing it.<lb/>
+
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>Show me how, good father.<lb/>
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>This forenamed maid hath yet in her the continuance<lb/>
+of her first affection: his unjust unkindness, that<lb/>
+in all reason should have quenched her love, hath,<lb/>
+like an impediment in the current, made it more<lb/>
+violent and unruly. Go you to Angelo; answer his<lb/>
+requiring with a plausible obedience; agree with<lb/>
+his demands to the point; only refer yourself to<lb/>
+this advantage, first, that your stay with him may<lb/>
+not be long; that the time may have all shadow and<lb/>
+silence in it; and the place answer to convenience.<lb/>
+This being granted in course,&mdash;and now follows<lb/>
+all,&mdash;we shall advise this wronged maid to stead up<lb/>
+your appointment, go in your place; if the encounter<lb/>
+acknowledge itself hereafter, it may compel him to<lb/>
+her recompense: and here, by this, is your brother<lb/>
+saved, your honour untainted, the poor Mariana<lb/>
+advantaged, and the corrupt deputy scaled. The maid<lb/>
+will I frame and make fit for his attempt. If you<lb/>
+think well to carry this as you may, the doubleness<lb/>
+of the benefit defends the deceit from reproof.<lb/>
+What think you of it?<lb/>
+
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>The image of it gives me content already; and I<lb/>
+trust it will grow to a most prosperous perfection.<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>It lies much in your holding up. Haste you speedily<lb/>
+to Angelo: if for this night he entreat you to his<lb/>
+bed, give him promise of satisfaction. I will<lb/>
+presently to Saint Luke's: there, at the moated<lb/>
+grange, resides this dejected Mariana. At that<lb/>
+place call upon me; and dispatch with Angelo, that<lb/>
+it may be quickly.<lb/>
+
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>I thank you for this comfort. Fare you well, good father.<lb/>
+
+</p></sp><p><stage>Exeunt severally</stage>
+
+
+
+</p></div2><div2 type="scene" n="2" id="d17">
+<head>Scene 2</head>
+
+<p><stage>The street before the prison.</stage>
+
+</p><p><stage>Enter, on one side, DUKE VINCENTIO disguised as	before; on the other, ELBOW, and Officers with POMPEY</stage>
+
+
+</p><sp><speaker>ELBOW</speaker>
+<p>Nay, if there be no remedy for it, but that you will<lb/>
+needs buy and sell men and women like beasts, we<lb/>
+shall have all the world drink brown and white bastard.<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>O heavens! what stuff is here<lb/>
+
+</p></sp><sp><speaker>POMPEY</speaker>
+<p>'Twas never merry world since, of two usuries, the<lb/>
+merriest was put down, and the worser allowed by<lb/>
+order of law a furred gown to keep him warm; and<lb/>
+furred with fox and lamb-skins too, to signify, that<lb/>
+craft, being richer than innocency, stands for the facing.<lb/>
+
+
+</p></sp><sp><speaker>ELBOW</speaker>
+<p>Come your way, sir. 'Bless you, good father friar.<lb/>
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>And you, good brother father. What offence hath<lb/>
+this man made you, sir?<lb/>
+
+
+</p></sp><sp><speaker>ELBOW</speaker>
+<p>Marry, sir, he hath offended the law: and, sir, we<lb/>
+take him to be a thief too, sir; for we have found<lb/>
+upon him, sir, a strange picklock, which we have<lb/>
+sent to the deputy.<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Fie, sirrah! a bawd, a wicked bawd!<lb/>
+The evil that thou causest to be done,<lb/>
+That is thy means to live. Do thou but think<lb/>
+What 'tis to cram a maw or clothe a back<lb/>
+From such a filthy vice: say to thyself,<lb/>
+From their abominable and beastly touches<lb/>
+I drink, I eat, array myself, and live.<lb/>
+Canst thou believe thy living is a life,<lb/>
+So stinkingly depending? Go mend, go mend.<lb/>
+
+
+</p></sp><sp><speaker>POMPEY</speaker>
+<p>Indeed, it does stink in some sort, sir; but yet,<lb/>
+sir, I would prove&mdash;<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Nay, if the devil have given thee proofs for sin,<lb/>
+Thou wilt prove his. Take him to prison, officer:<lb/>
+Correction and instruction must both work<lb/>
+Ere this rude beast will profit.<lb/>
+
+
+</p></sp><sp><speaker>ELBOW</speaker>
+<p>He must before the deputy, sir; he has given him<lb/>
+warning: the deputy cannot abide a whoremaster: if<lb/>
+he be a whoremonger, and comes before him, he were<lb/>
+as good go a mile on his errand.<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>That we were all, as some would seem to be,<lb/>
+From our faults, as faults from seeming, free!<lb/>
+
+
+</p></sp><sp><speaker>ELBOW</speaker>
+<p>His neck will come to your waist,&mdash;a cord, sir.<lb/>
+
+</p></sp><sp><speaker>POMPEY</speaker>
+<p>I spy comfort; I cry bail. Here's a gentleman and a<lb/>
+friend of mine.<lb/>
+
+
+</p><p><stage>Enter LUCIO</stage>
+
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>How now, noble Pompey! What, at the wheels of<lb/>
+Caesar? art thou led in triumph? What, is there<lb/>
+none of Pygmalion's images, newly made woman, to be<lb/>
+had now, for putting the hand in the pocket and<lb/>
+extracting it clutch'd? What reply, ha? What<lb/>
+sayest thou to this tune, matter and method? Is't<lb/>
+not drowned i' the last rain, ha? What sayest<lb/>
+thou, Trot? Is the world as it was, man? Which is<lb/>
+the way? Is it sad, and few words? or how? The<lb/>
+trick of it?<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Still thus, and thus; still worse!<lb/>
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>How doth my dear morsel, thy mistress? Procures she<lb/>
+still, ha?<lb/>
+
+
+</p></sp><sp><speaker>POMPEY</speaker>
+<p>Troth, sir, she hath eaten up all her beef, and she<lb/>
+is herself in the tub.<lb/>
+
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>Why, 'tis good; it is the right of it; it must be<lb/>
+so: ever your fresh whore and your powdered bawd:<lb/>
+an unshunned consequence; it must be so. Art going<lb/>
+to prison, Pompey?<lb/>
+
+
+</p></sp><sp><speaker>POMPEY</speaker>
+<p>Yes, faith, sir.<lb/>
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>Why, 'tis not amiss, Pompey. Farewell: go, say I<lb/>
+sent thee thither. For debt, Pompey? or how?<lb/>
+
+
+</p></sp><sp><speaker>ELBOW</speaker>
+<p>For being a bawd, for being a bawd.<lb/>
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>Well, then, imprison him: if imprisonment be the<lb/>
+due of a bawd, why, 'tis his right: bawd is he<lb/>
+doubtless, and of antiquity too; bawd-born.<lb/>
+Farewell, good Pompey. Commend me to the prison,<lb/>
+Pompey: you will turn good husband now, Pompey; you<lb/>
+will keep the house.<lb/>
+
+
+</p></sp><sp><speaker>POMPEY</speaker>
+<p>I hope, sir, your good worship will be my bail.<lb/>
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>No, indeed, will I not, Pompey; it is not the wear.<lb/>
+I will pray, Pompey, to increase your bondage: If<lb/>
+you take it not patiently, why, your mettle is the<lb/>
+more. Adieu, trusty Pompey. 'Bless you, friar.<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>And you.<lb/>
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>Does Bridget paint still, Pompey, ha?<lb/>
+
+</p></sp><sp><speaker>ELBOW</speaker>
+<p>Come your ways, sir; come.<lb/>
+
+</p></sp><sp><speaker>POMPEY</speaker>
+<p>You will not bail me, then, sir?<lb/>
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>Then, Pompey, nor now. What news abroad, friar?<lb/>
+what news?<lb/>
+
+
+</p></sp><sp><speaker>ELBOW</speaker>
+<p>Come your ways, sir; come.<lb/>
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>Go to kennel, Pompey; go.<lb/>
+
+</p><p><stage>Exeunt ELBOW, POMPEY and Officers</stage></p>
+
+
+<p>
+What news, friar, of the duke?<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>I know none. Can you tell me of any?<lb/>
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>Some say he is with the Emperor of Russia; other<lb/>
+some, he is in Rome: but where is he, think you?<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>I know not where; but wheresoever, I wish him well.<lb/>
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>It was a mad fantastical trick of him to steal from<lb/>
+the state, and usurp the beggary he was never born<lb/>
+to. Lord Angelo dukes it well in his absence; he<lb/>
+puts transgression to 't.<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>He does well in 't.<lb/>
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>A little more lenity to lechery would do no harm in<lb/>
+him: something too crabbed that way, friar.<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>It is too general a vice, and severity must cure it.<lb/>
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>Yes, in good sooth, the vice is of a great kindred;<lb/>
+it is well allied: but it is impossible to extirp<lb/>
+it quite, friar, till eating and drinking be put<lb/>
+down. They say this Angelo was not made by man and<lb/>
+woman after this downright way of creation: is it<lb/>
+true, think you?<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>How should he be made, then?<lb/>
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>Some report a sea-maid spawned him; some, that he<lb/>
+was begot between two stock-fishes. But it is<lb/>
+certain that when he makes water his urine is<lb/>
+congealed ice; that I know to be true: and he is a<lb/>
+motion generative; that's infallible.<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>You are pleasant, sir, and speak apace.<lb/>
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>Why, what a ruthless thing is this in him, for the<lb/>
+rebellion of a codpiece to take away the life of a<lb/>
+man! Would the duke that is absent have done this?<lb/>
+Ere he would have hanged a man for the getting a<lb/>
+hundred bastards, he would have paid for the nursing<lb/>
+a thousand: he had some feeling of the sport: he<lb/>
+knew the service, and that instructed him to mercy.<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>I never heard the absent duke much detected for<lb/>
+women; he was not inclined that way.<lb/>
+
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>O, sir, you are deceived.<lb/>
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>'Tis not possible.<lb/>
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>Who, not the duke? yes, your beggar of fifty; and<lb/>
+his use was to put a ducat in her clack-dish: the<lb/>
+duke had crotchets in him. He would be drunk too;<lb/>
+that let me inform you.<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>You do him wrong, surely.<lb/>
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>Sir, I was an inward of his. A shy fellow was the<lb/>
+duke: and I believe I know the cause of his<lb/>
+withdrawing.<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>What, I prithee, might be the cause?<lb/>
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>No, pardon; 'tis a secret must be locked within the<lb/>
+teeth and the lips: but this I can let you<lb/>
+understand, the greater file of the subject held the<lb/>
+duke to be wise.<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Wise! why, no question but he was.<lb/>
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>A very superficial, ignorant, unweighing fellow.<lb/>
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Either this is the envy in you, folly, or mistaking:<lb/>
+the very stream of his life and the business he hath<lb/>
+helmed must upon a warranted need give him a better<lb/>
+proclamation. Let him be but testimonied in his own<lb/>
+bringings-forth, and he shall appear to the<lb/>
+envious a scholar, a statesman and a soldier.<lb/>
+Therefore you speak unskilfully: or if your<lb/>
+knowledge be more it is much darkened in your malice.<lb/>
+
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>Sir, I know him, and I love him.<lb/>
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Love talks with better knowledge, and knowledge with<lb/>
+dearer love.<lb/>
+
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>Come, sir, I know what I know.<lb/>
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>I can hardly believe that, since you know not what<lb/>
+you speak. But, if ever the duke return, as our<lb/>
+prayers are he may, let me desire you to make your<lb/>
+answer before him. If it be honest you have spoke,<lb/>
+you have courage to maintain it: I am bound to call<lb/>
+upon you; and, I pray you, your name?<lb/>
+
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>Sir, my name is Lucio; well known to the duke.<lb/>
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>He shall know you better, sir, if I may live to<lb/>
+report you.<lb/>
+
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>I fear you not.<lb/>
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>O, you hope the duke will return no more; or you<lb/>
+imagine me too unhurtful an opposite. But indeed I<lb/>
+can do you little harm; you'll forswear this again.<lb/>
+
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>I'll be hanged first: thou art deceived in me,<lb/>
+friar. But no more of this. Canst thou tell if<lb/>
+Claudio die to-morrow or no?<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Why should he die, sir?<lb/>
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>Why? For filling a bottle with a tundish. I would<lb/>
+the duke we talk of were returned again: the<lb/>
+ungenitured agent will unpeople the province with<lb/>
+continency; sparrows must not build in his<lb/>
+house-eaves, because they are lecherous. The duke<lb/>
+yet would have dark deeds darkly answered; he would<lb/>
+never bring them to light: would he were returned!<lb/>
+Marry, this Claudio is condemned for untrussing.<lb/>
+Farewell, good friar: I prithee, pray for me. The<lb/>
+duke, I say to thee again, would eat mutton on<lb/>
+Fridays. He's not past it yet, and I say to thee,<lb/>
+he would mouth with a beggar, though she smelt brown<lb/>
+bread and garlic: say that I said so. Farewell.<lb/>
+
+
+</p><p><stage>Exit</stage>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>No might nor greatness in mortality<lb/>
+Can censure 'scape; back-wounding calumny<lb/>
+The whitest virtue strikes. What king so strong<lb/>
+Can tie the gall up in the slanderous tongue?<lb/>
+But who comes here?<lb/>
+
+
+</p><p><stage>Enter ESCALUS, Provost, and Officers with MISTRESS OVERDONE</stage>
+
+
+</p></sp><sp><speaker>ESCALUS</speaker>
+<p>Go; away with her to prison!<lb/>
+
+</p></sp><sp><speaker>MISTRESS OVERDONE</speaker>
+<p>Good my lord, be good to me; your honour is accounted<lb/>
+a merciful man; good my lord.<lb/>
+
+
+</p></sp><sp><speaker>ESCALUS</speaker>
+<p>Double and treble admonition, and still forfeit in<lb/>
+the same kind! This would make mercy swear and play<lb/>
+the tyrant.<lb/>
+
+
+</p></sp><sp><speaker>Provost</speaker>
+<p>A bawd of eleven years' continuance, may it please<lb/>
+your honour.<lb/>
+
+
+</p></sp><sp><speaker>MISTRESS OVERDONE</speaker>
+<p>My lord, this is one Lucio's information against me.<lb/>
+Mistress Kate Keepdown was with child by him in the<lb/>
+duke's time; he promised her marriage: his child<lb/>
+is a year and a quarter old, come Philip and Jacob:<lb/>
+I have kept it myself; and see how he goes about to abuse me!<lb/>
+
+
+</p></sp><sp><speaker>ESCALUS</speaker>
+<p>That fellow is a fellow of much licence: let him be<lb/>
+called before us. Away with her to prison! Go to;<lb/>
+no more words.<lb/>
+
+
+</p><p><stage>Exeunt Officers with MISTRESS OVERDONE</stage></p>
+
+
+<p>
+Provost, my brother Angelo will not be altered;<lb/>
+Claudio must die to-morrow: let him be furnished<lb/>
+with divines, and have all charitable preparation.<lb/>
+if my brother wrought by my pity, it should not be<lb/>
+so with him.<lb/>
+
+
+</p></sp><sp><speaker>Provost</speaker>
+<p>So please you, this friar hath been with him, and<lb/>
+advised him for the entertainment of death.<lb/>
+
+
+</p></sp><sp><speaker>ESCALUS</speaker>
+<p>Good even, good father.<lb/>
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Bliss and goodness on you!<lb/>
+
+</p></sp><sp><speaker>ESCALUS</speaker>
+<p>Of whence are you?<lb/>
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Not of this country, though my chance is now<lb/>
+To use it for my time: I am a brother<lb/>
+Of gracious order, late come from the See<lb/>
+In special business from his holiness.<lb/>
+
+
+</p></sp><sp><speaker>ESCALUS</speaker>
+<p>What news abroad i' the world?<lb/>
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>None, but that there is so great a fever on<lb/>
+goodness, that the dissolution of it must cure it:<lb/>
+novelty is only in request; and it is as dangerous<lb/>
+to be aged in any kind of course, as it is virtuous<lb/>
+to be constant in any undertaking. There is scarce<lb/>
+truth enough alive to make societies secure; but<lb/>
+security enough to make fellowships accurst: much<lb/>
+upon this riddle runs the wisdom of the world. This<lb/>
+news is old enough, yet it is every day's news. I<lb/>
+pray you, sir, of what disposition was the duke?<lb/>
+
+
+</p></sp><sp><speaker>ESCALUS</speaker>
+<p>One that, above all other strifes, contended<lb/>
+especially to know himself.<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>What pleasure was he given to?<lb/>
+
+</p></sp><sp><speaker>ESCALUS</speaker>
+<p>Rather rejoicing to see another merry, than merry at<lb/>
+any thing which professed to make him rejoice: a<lb/>
+gentleman of all temperance. But leave we him to<lb/>
+his events, with a prayer they may prove prosperous;<lb/>
+and let me desire to know how you find Claudio<lb/>
+prepared. I am made to understand that you have<lb/>
+lent him visitation.<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>He professes to have received no sinister measure<lb/>
+from his judge, but most willingly humbles himself<lb/>
+to the determination of justice: yet had he framed<lb/>
+to himself, by the instruction of his frailty, many<lb/>
+deceiving promises of life; which I by my good<lb/>
+leisure have discredited to him, and now is he<lb/>
+resolved to die.<lb/>
+
+
+</p></sp><sp><speaker>ESCALUS</speaker>
+<p>You have paid the heavens your function, and the<lb/>
+prisoner the very debt of your calling. I have<lb/>
+laboured for the poor gentleman to the extremest<lb/>
+shore of my modesty: but my brother justice have I<lb/>
+found so severe, that he hath forced me to tell him<lb/>
+he is indeed Justice.<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>If his own life answer the straitness of his<lb/>
+proceeding, it shall become him well; wherein if he<lb/>
+chance to fail, he hath sentenced himself.<lb/>
+
+
+</p></sp><sp><speaker>ESCALUS</speaker>
+<p>I am going to visit the prisoner. Fare you well.<lb/>
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Peace be with you!<lb/>
+
+</p><p><stage>Exeunt ESCALUS and Provost</stage></p>
+
+
+<p>
+He who the sword of heaven will bear<lb/>
+Should be as holy as severe;<lb/>
+Pattern in himself to know,<lb/>
+Grace to stand, and virtue go;<lb/>
+More nor less to others paying<lb/>
+Than by self-offences weighing.<lb/>
+Shame to him whose cruel striking<lb/>
+Kills for faults of his own liking!<lb/>
+Twice treble shame on Angelo,<lb/>
+To weed my vice and let his grow!<lb/>
+O, what may man within him hide,<lb/>
+Though angel on the outward side!<lb/>
+How may likeness made in crimes,<lb/>
+Making practise on the times,<lb/>
+To draw with idle spiders' strings<lb/>
+Most ponderous and substantial things!<lb/>
+Craft against vice I must apply:<lb/>
+With Angelo to-night shall lie<lb/>
+His old betrothed but despised;<lb/>
+So disguise shall, by the disguised,<lb/>
+Pay with falsehood false exacting,<lb/>
+And perform an old contracting.<lb/>
+
+
+</p></sp><p><stage>Exit</stage></p>
+
+
+
+</div2>
+
+</div1>
+
+<div1 type="act" n="4" id="d18">
+<head>Act 4</head>
+
+<div2 type="scene" n="1" id="d19">
+<head>Scene 1</head>
+
+<p><stage>The moated grange at ST. LUKE's.</stage>
+
+</p><p><stage>Enter MARIANA and a Boy</stage>
+
+
+
+</p><p><stage>Boy sings</stage></p>
+
+
+<p>
+Take, O, take those lips away,<lb/>
+That so sweetly were forsworn;<lb/>
+And those eyes, the break of day,<lb/>
+Lights that do mislead the morn:<lb/>
+But my kisses bring again, bring again;<lb/>
+Seals of love, but sealed in vain, sealed in vain.<lb/>
+
+
+</p><sp><speaker>MARIANA</speaker>
+<p>Break off thy song, and haste thee quick away:<lb/>
+Here comes a man of comfort, whose advice<lb/>
+Hath often still'd my brawling discontent.<lb/>
+
+
+</p><p><stage>Exit Boy</stage>
+
+
+
+</p><p><stage>Enter DUKE VINCENTIO disguised as before</stage></p>
+
+
+<p>
+I cry you mercy, sir; and well could wish<lb/>
+You had not found me here so musical:<lb/>
+Let me excuse me, and believe me so,<lb/>
+My mirth it much displeased, but pleased my woe.<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>'Tis good; though music oft hath such a charm<lb/>
+To make bad good, and good provoke to harm.<lb/>
+I pray, you, tell me, hath any body inquired<lb/>
+for me here to-day? much upon this time have<lb/>
+I promised here to meet.<lb/>
+
+
+</p></sp><sp><speaker>MARIANA</speaker>
+<p>You have not been inquired after:<lb/>
+I have sat here all day.<lb/>
+
+
+</p><p><stage>Enter ISABELLA</stage>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>I do constantly believe you. The time is come even<lb/>
+now. I shall crave your forbearance a little: may<lb/>
+be I will call upon you anon, for some advantage to yourself.<lb/>
+
+
+</p></sp><sp><speaker>MARIANA</speaker>
+<p>I am always bound to you.<lb/>
+
+</p><p><stage>Exit</stage>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Very well met, and well come.<lb/>
+What is the news from this good deputy?<lb/>
+
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>He hath a garden circummured with brick,<lb/>
+Whose western side is with a vineyard back'd;<lb/>
+And to that vineyard is a planched gate,<lb/>
+That makes his opening with this bigger key:<lb/>
+This other doth command a little door<lb/>
+Which from the vineyard to the garden leads;<lb/>
+There have I made my promise<lb/>
+Upon the heavy middle of the night<lb/>
+To call upon him.<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>But shall you on your knowledge find this way?<lb/>
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>I have ta'en a due and wary note upon't:<lb/>
+With whispering and most guilty diligence,<lb/>
+In action all of precept, he did show me<lb/>
+The way twice o'er.<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Are there no other tokens<lb/>
+Between you 'greed concerning her observance?<lb/>
+
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>No, none, but only a repair i' the dark;<lb/>
+And that I have possess'd him my most stay<lb/>
+Can be but brief; for I have made him know<lb/>
+I have a servant comes with me along,<lb/>
+That stays upon me, whose persuasion is<lb/>
+I come about my brother.<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>'Tis well borne up.<lb/>
+I have not yet made known to Mariana<lb/>
+A word of this. What, ho! within! come forth!<lb/>
+
+
+</p><p><stage>Re-enter MARIANA</stage></p>
+
+
+<p>
+I pray you, be acquainted with this maid;<lb/>
+She comes to do you good.<lb/>
+
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>I do desire the like.<lb/>
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Do you persuade yourself that I respect you?<lb/>
+
+</p></sp><sp><speaker>MARIANA</speaker>
+<p>Good friar, I know you do, and have found it.<lb/>
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Take, then, this your companion by the hand,<lb/>
+Who hath a story ready for your ear.<lb/>
+I shall attend your leisure: but make haste;<lb/>
+The vaporous night approaches.<lb/>
+
+
+</p></sp><sp><speaker>MARIANA</speaker>
+<p>Will't please you walk aside?<lb/>
+
+</p><p><stage>Exeunt MARIANA and ISABELLA</stage>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>O place and greatness! millions of false eyes<lb/>
+Are stuck upon thee: volumes of report<lb/>
+Run with these false and most contrarious quests<lb/>
+Upon thy doings: thousand escapes of wit<lb/>
+Make thee the father of their idle dreams<lb/>
+And rack thee in their fancies.<lb/>
+
+
+</p><p><stage>Re-enter MARIANA and ISABELLA</stage></p>
+
+
+<p>
+Welcome, how agreed?<lb/>
+
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>She'll take the enterprise upon her, father,<lb/>
+If you advise it.<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>It is not my consent,<lb/>
+But my entreaty too.<lb/>
+
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>Little have you to say<lb/>
+When you depart from him, but, soft and low,<lb/>
+'Remember now my brother.'<lb/>
+
+
+</p></sp><sp><speaker>MARIANA</speaker>
+<p>Fear me not.<lb/>
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Nor, gentle daughter, fear you not at all.<lb/>
+He is your husband on a pre-contract:<lb/>
+To bring you thus together, 'tis no sin,<lb/>
+Sith that the justice of your title to him<lb/>
+Doth flourish the deceit. Come, let us go:<lb/>
+Our corn's to reap, for yet our tithe's to sow.<lb/>
+
+
+</p></sp><p><stage>Exeunt</stage>
+
+
+
+</p></div2><div2 type="scene" n="2" id="d20">
+<head>Scene 2</head>
+
+<p><stage>A room in the prison.</stage>
+
+</p><p><stage>Enter Provost and POMPEY</stage>
+
+
+</p><sp><speaker>Provost</speaker>
+<p>Come hither, sirrah. Can you cut off a man's head?<lb/>
+
+</p></sp><sp><speaker>POMPEY</speaker>
+<p>If the man be a bachelor, sir, I can; but if he be a<lb/>
+married man, he's his wife's head, and I can never<lb/>
+cut off a woman's head.<lb/>
+
+
+</p></sp><sp><speaker>Provost</speaker>
+<p>Come, sir, leave me your snatches, and yield me a<lb/>
+direct answer. To-morrow morning are to die Claudio<lb/>
+and Barnardine. Here is in our prison a common<lb/>
+executioner, who in his office lacks a helper: if<lb/>
+you will take it on you to assist him, it shall<lb/>
+redeem you from your gyves; if not, you shall have<lb/>
+your full time of imprisonment and your deliverance<lb/>
+with an unpitied whipping, for you have been a<lb/>
+notorious bawd.<lb/>
+
+
+</p></sp><sp><speaker>POMPEY</speaker>
+<p>Sir, I have been an unlawful bawd time out of mind;<lb/>
+but yet I will be content to be a lawful hangman. I<lb/>
+would be glad to receive some instruction from my<lb/>
+fellow partner.<lb/>
+
+
+</p></sp><sp><speaker>Provost</speaker>
+<p>What, ho! Abhorson! Where's Abhorson, there?<lb/>
+
+</p><p><stage>Enter ABHORSON</stage>
+
+
+</p></sp><sp><speaker>ABHORSON</speaker>
+<p>Do you call, sir?<lb/>
+
+</p></sp><sp><speaker>Provost</speaker>
+<p>Sirrah, here's a fellow will help you to-morrow in<lb/>
+your execution. If you think it meet, compound with<lb/>
+him by the year, and let him abide here with you; if<lb/>
+not, use him for the present and dismiss him. He<lb/>
+cannot plead his estimation with you; he hath been a bawd.<lb/>
+
+
+</p></sp><sp><speaker>ABHORSON</speaker>
+<p>A bawd, sir? fie upon him! he will discredit our mystery.<lb/>
+
+</p></sp><sp><speaker>Provost</speaker>
+<p>Go to, sir; you weigh equally; a feather will turn<lb/>
+the scale.<lb/>
+
+
+</p><p><stage>Exit</stage>
+
+
+</p></sp><sp><speaker>POMPEY</speaker>
+<p>Pray, sir, by your good favour,&mdash;for surely, sir, a<lb/>
+good favour you have, but that you have a hanging<lb/>
+look,&mdash;do you call, sir, your occupation a mystery?<lb/>
+
+
+</p></sp><sp><speaker>ABHORSON</speaker>
+<p>Ay, sir; a mystery<lb/>
+
+</p></sp><sp><speaker>POMPEY</speaker>
+<p>Painting, sir, I have heard say, is a mystery; and<lb/>
+your whores, sir, being members of my occupation,<lb/>
+using painting, do prove my occupation a mystery:<lb/>
+but what mystery there should be in hanging, if I<lb/>
+should be hanged, I cannot imagine.<lb/>
+
+
+</p></sp><sp><speaker>ABHORSON</speaker>
+<p>Sir, it is a mystery.<lb/>
+
+</p></sp><sp><speaker>POMPEY</speaker>
+<p>Proof?<lb/>
+
+</p></sp><sp><speaker>ABHORSON</speaker>
+<p>Every true man's apparel fits your thief: if it be<lb/>
+too little for your thief, your true man thinks it<lb/>
+big enough; if it be too big for your thief, your<lb/>
+thief thinks it little enough: so every true man's<lb/>
+apparel fits your thief.<lb/>
+
+
+</p><p><stage>Re-enter Provost</stage>
+
+
+</p></sp><sp><speaker>Provost</speaker>
+<p>Are you agreed?<lb/>
+
+</p></sp><sp><speaker>POMPEY</speaker>
+<p>Sir, I will serve him; for I do find your hangman is<lb/>
+a more penitent trade than your bawd; he doth<lb/>
+oftener ask forgiveness.<lb/>
+
+
+</p></sp><sp><speaker>Provost</speaker>
+<p>You, sirrah, provide your block and your axe<lb/>
+to-morrow four o'clock.<lb/>
+
+
+</p></sp><sp><speaker>ABHORSON</speaker>
+<p>Come on, bawd; I will instruct thee in my trade; follow.<lb/>
+
+</p></sp><sp><speaker>POMPEY</speaker>
+<p>I do desire to learn, sir: and I hope, if you have<lb/>
+occasion to use me for your own turn, you shall find<lb/>
+me yare; for truly, sir, for your kindness I owe you<lb/>
+a good turn.<lb/>
+
+
+</p></sp><sp><speaker>Provost</speaker>
+<p>Call hither Barnardine and Claudio:<lb/>
+
+</p><p><stage>Exeunt POMPEY and ABHORSON</stage></p>
+
+
+<p>
+The one has my pity; not a jot the other,<lb/>
+Being a murderer, though he were my brother.<lb/>
+
+
+</p><p><stage>Enter CLAUDIO</stage></p>
+
+
+<p>
+Look, here's the warrant, Claudio, for thy death:<lb/>
+'Tis now dead midnight, and by eight to-morrow<lb/>
+Thou must be made immortal. Where's Barnardine?<lb/>
+
+
+</p></sp><sp><speaker>CLAUDIO</speaker>
+<p>As fast lock'd up in sleep as guiltless labour<lb/>
+When it lies starkly in the traveller's bones:<lb/>
+He will not wake.<lb/>
+
+
+</p></sp><sp><speaker>Provost</speaker>
+<p>Who can do good on him?<lb/>
+Well, go, prepare yourself.<lb/>
+
+
+</p><p><stage>Knocking within</stage></p>
+
+
+<p>
+But, hark, what noise?<lb/>
+Heaven give your spirits comfort!<lb/>
+
+
+</p><p><stage>Exit CLAUDIO</stage></p>
+
+
+<p>
+By and by.<lb/>
+I hope it is some pardon or reprieve<lb/>
+For the most gentle Claudio.<lb/>
+
+
+</p><p><stage>Enter DUKE VINCENTIO disguised as before</stage></p>
+
+
+<p>
+Welcome father.<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>The best and wholesomest spirts of the night<lb/>
+Envelope you, good Provost! Who call'd here of late?<lb/>
+
+
+</p></sp><sp><speaker>Provost</speaker>
+<p>None, since the curfew rung.<lb/>
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Not Isabel?<lb/>
+
+</p></sp><sp><speaker>Provost</speaker>
+<p>No.<lb/>
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>They will, then, ere't be long.<lb/>
+
+</p></sp><sp><speaker>Provost</speaker>
+<p>What comfort is for Claudio?<lb/>
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>There's some in hope.<lb/>
+
+</p></sp><sp><speaker>Provost</speaker>
+<p>It is a bitter deputy.<lb/>
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Not so, not so; his life is parallel'd<lb/>
+Even with the stroke and line of his great justice:<lb/>
+He doth with holy abstinence subdue<lb/>
+That in himself which he spurs on his power<lb/>
+To qualify in others: were he meal'd with that<lb/>
+Which he corrects, then were he tyrannous;<lb/>
+But this being so, he's just.<lb/>
+
+
+</p><p><stage>Knocking within</stage></p>
+
+
+<p>
+Now are they come.<lb/>
+
+
+</p><p><stage>Exit Provost</stage></p>
+
+
+<p>
+This is a gentle provost: seldom when<lb/>
+The steeled gaoler is the friend of men.<lb/>
+
+
+</p><p><stage>Knocking within</stage></p>
+
+
+<p>
+How now! what noise? That spirit's possessed with haste<lb/>
+That wounds the unsisting postern with these strokes.<lb/>
+
+
+</p><p><stage>Re-enter Provost</stage>
+
+
+</p></sp><sp><speaker>Provost</speaker>
+<p>There he must stay until the officer<lb/>
+Arise to let him in: he is call'd up.<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Have you no countermand for Claudio yet,<lb/>
+But he must die to-morrow?<lb/>
+
+
+</p></sp><sp><speaker>Provost</speaker>
+<p>None, sir, none.<lb/>
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>As near the dawning, provost, as it is,<lb/>
+You shall hear more ere morning.<lb/>
+
+
+</p></sp><sp><speaker>Provost</speaker>
+<p>Happily<lb/>
+You something know; yet I believe there comes<lb/>
+No countermand; no such example have we:<lb/>
+Besides, upon the very siege of justice<lb/>
+Lord Angelo hath to the public ear<lb/>
+Profess'd the contrary.<lb/>
+
+
+</p><p><stage>Enter a Messenger</stage></p>
+
+
+<p>
+This is his lordship's man.<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>And here comes Claudio's pardon.<lb/>
+
+</p></sp><sp><speaker>Messenger</speaker>
+<p><stage>[Giving a paper]</stage></p><p>
+My lord hath sent you this note; and by me this<lb/>
+further charge, that you swerve not from the<lb/>
+smallest article of it, neither in time, matter, or<lb/>
+other circumstance. Good morrow; for, as I take it,<lb/>
+it is almost day.<lb/>
+
+
+</p></sp><sp><speaker>Provost</speaker>
+<p>I shall obey him.<lb/>
+
+</p><p><stage>Exit Messenger</stage>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p><stage>[Aside]</stage></p><p>  This is his pardon, purchased by such sin<lb/>
+For which the pardoner himself is in.<lb/>
+Hence hath offence his quick celerity,<lb/>
+When it is born in high authority:<lb/>
+When vice makes mercy, mercy's so extended,<lb/>
+That for the fault's love is the offender friended.<lb/>
+Now, sir, what news?<lb/>
+
+
+</p></sp><sp><speaker>Provost</speaker>
+<p>I told you. Lord Angelo, belike thinking me remiss<lb/>
+in mine office, awakens me with this unwonted<lb/>
+putting-on; methinks strangely, for he hath not used it before.<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Pray you, let's hear.<lb/>
+
+</p></sp><sp><speaker>Provost</speaker>
+<p><stage>[Reads]</stage></p><p>
+'Whatsoever you may hear to the contrary, let<lb/>
+Claudio be executed by four of the clock; and in the<lb/>
+afternoon Barnardine: for my better satisfaction,<lb/>
+let me have Claudio's head sent me by five. Let<lb/>
+this be duly performed; with a thought that more<lb/>
+depends on it than we must yet deliver. Thus fail<lb/>
+not to do your office, as you will answer it at your peril.'<lb/>
+What say you to this, sir?<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>What is that Barnardine who is to be executed in the<lb/>
+afternoon?<lb/>
+
+
+</p></sp><sp><speaker>Provost</speaker>
+<p>A Bohemian born, but here nursed un and bred; one<lb/>
+that is a prisoner nine years old.<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>How came it that the absent duke had not either<lb/>
+delivered him to his liberty or executed him? I<lb/>
+have heard it was ever his manner to do so.<lb/>
+
+
+</p></sp><sp><speaker>Provost</speaker>
+<p>His friends still wrought reprieves for him: and,<lb/>
+indeed, his fact, till now in the government of Lord<lb/>
+Angelo, came not to an undoubtful proof.<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>It is now apparent?<lb/>
+
+</p></sp><sp><speaker>Provost</speaker>
+<p>Most manifest, and not denied by himself.<lb/>
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Hath he born himself penitently in prison? how<lb/>
+seems he to be touched?<lb/>
+
+
+</p></sp><sp><speaker>Provost</speaker>
+<p>A man that apprehends death no more dreadfully but<lb/>
+as a drunken sleep; careless, reckless, and fearless<lb/>
+of what's past, present, or to come; insensible of<lb/>
+mortality, and desperately mortal.<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>He wants advice.<lb/>
+
+</p></sp><sp><speaker>Provost</speaker>
+<p>He will hear none: he hath evermore had the liberty<lb/>
+of the prison; give him leave to escape hence, he<lb/>
+would not: drunk many times a day, if not many days<lb/>
+entirely drunk. We have very oft awaked him, as if<lb/>
+to carry him to execution, and showed him a seeming<lb/>
+warrant for it: it hath not moved him at all.<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>More of him anon. There is written in your brow,<lb/>
+provost, honesty and constancy: if I read it not<lb/>
+truly, my ancient skill beguiles me; but, in the<lb/>
+boldness of my cunning, I will lay myself in hazard.<lb/>
+Claudio, whom here you have warrant to execute, is<lb/>
+no greater forfeit to the law than Angelo who hath<lb/>
+sentenced him. To make you understand this in a<lb/>
+manifested effect, I crave but four days' respite;<lb/>
+for the which you are to do me both a present and a<lb/>
+dangerous courtesy.<lb/>
+
+
+</p></sp><sp><speaker>Provost</speaker>
+<p>Pray, sir, in what?<lb/>
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>In the delaying death.<lb/>
+
+</p></sp><sp><speaker>Provost</speaker>
+<p>A lack, how may I do it, having the hour limited,<lb/>
+and an express command, under penalty, to deliver<lb/>
+his head in the view of Angelo? I may make my case<lb/>
+as Claudio's, to cross this in the smallest.<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>By the vow of mine order I warrant you, if my<lb/>
+instructions may be your guide. Let this Barnardine<lb/>
+be this morning executed, and his head born to Angelo.<lb/>
+
+
+</p></sp><sp><speaker>Provost</speaker>
+<p>Angelo hath seen them both, and will discover the favour.<lb/>
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>O, death's a great disguiser; and you may add to it.<lb/>
+Shave the head, and tie the beard; and say it was<lb/>
+the desire of the penitent to be so bared before his<lb/>
+death: you know the course is common. If any thing<lb/>
+fall to you upon this, more than thanks and good<lb/>
+fortune, by the saint whom I profess, I will plead<lb/>
+against it with my life.<lb/>
+
+
+</p></sp><sp><speaker>Provost</speaker>
+<p>Pardon me, good father; it is against my oath.<lb/>
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Were you sworn to the duke, or to the deputy?<lb/>
+
+</p></sp><sp><speaker>Provost</speaker>
+<p>To him, and to his substitutes.<lb/>
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>You will think you have made no offence, if the duke<lb/>
+avouch the justice of your dealing?<lb/>
+
+
+</p></sp><sp><speaker>Provost</speaker>
+<p>But what likelihood is in that?<lb/>
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Not a resemblance, but a certainty. Yet since I see<lb/>
+you fearful, that neither my coat, integrity, nor<lb/>
+persuasion can with ease attempt you, I will go<lb/>
+further than I meant, to pluck all fears out of you.<lb/>
+Look you, sir, here is the hand and seal of the<lb/>
+duke: you know the character, I doubt not; and the<lb/>
+signet is not strange to you.<lb/>
+
+
+</p></sp><sp><speaker>Provost</speaker>
+<p>I know them both.<lb/>
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>The contents of this is the return of the duke: you<lb/>
+shall anon over-read it at your pleasure; where you<lb/>
+shall find, within these two days he will be here.<lb/>
+This is a thing that Angelo knows not; for he this<lb/>
+very day receives letters of strange tenor;<lb/>
+perchance of the duke's death; perchance entering<lb/>
+into some monastery; but, by chance, nothing of what<lb/>
+is writ. Look, the unfolding star calls up the<lb/>
+shepherd. Put not yourself into amazement how these<lb/>
+things should be: all difficulties are but easy<lb/>
+when they are known. Call your executioner, and off<lb/>
+with Barnardine's head: I will give him a present<lb/>
+shrift and advise him for a better place. Yet you<lb/>
+are amazed; but this shall absolutely resolve you.<lb/>
+Come away; it is almost clear dawn.<lb/>
+
+
+</p></sp><p><stage>Exeunt</stage>
+
+
+
+</p></div2><div2 type="scene" n="3" id="d21">
+<head>Scene 3</head>
+
+<p><stage>Another room in the same.</stage>
+
+</p><p><stage>Enter POMPEY</stage>
+
+
+</p><sp><speaker>POMPEY</speaker>
+<p>I am as well acquainted here as I was in our house<lb/>
+of profession: one would think it were Mistress<lb/>
+Overdone's own house, for here be many of her old<lb/>
+customers. First, here's young Master Rash; he's in<lb/>
+for a commodity of brown paper and old ginger,<lb/>
+ninescore and seventeen pounds; of which he made<lb/>
+five marks, ready money: marry, then ginger was not<lb/>
+much in request, for the old women were all dead.<lb/>
+Then is there here one Master Caper, at the suit of<lb/>
+Master Three-pile the mercer, for some four suits of<lb/>
+peach-coloured satin, which now peaches him a<lb/>
+beggar. Then have we here young Dizy, and young<lb/>
+Master Deep-vow, and Master Copperspur, and Master<lb/>
+Starve-lackey the rapier and dagger man, and young<lb/>
+Drop-heir that killed lusty Pudding, and Master<lb/>
+Forthlight the tilter, and brave Master Shooty the<lb/>
+great traveller, and wild Half-can that stabbed<lb/>
+Pots, and, I think, forty more; all great doers in<lb/>
+our trade, and are now 'for the Lord's sake.'<lb/>
+
+
+</p><p><stage>Enter ABHORSON</stage>
+
+
+</p></sp><sp><speaker>ABHORSON</speaker>
+<p>Sirrah, bring Barnardine hither.<lb/>
+
+</p></sp><sp><speaker>POMPEY</speaker>
+<p>Master Barnardine! you must rise and be hanged.<lb/>
+Master Barnardine!<lb/>
+
+
+</p></sp><sp><speaker>ABHORSON</speaker>
+<p>What, ho, Barnardine!<lb/>
+
+</p></sp><sp><speaker>BARNARDINE</speaker>
+<p><stage>[Within]</stage></p><p>  A pox o' your throats! Who makes that<lb/>
+noise there? What are you?<lb/>
+
+
+</p></sp><sp><speaker>POMPEY</speaker>
+<p>Your friends, sir; the hangman. You must be so<lb/>
+good, sir, to rise and be put to death.<lb/>
+
+
+</p></sp><sp><speaker>BARNARDINE</speaker>
+<p><stage>[Within]</stage></p><p>  Away, you rogue, away! I am sleepy.<lb/>
+
+</p></sp><sp><speaker>ABHORSON</speaker>
+<p>Tell him he must awake, and that quickly too.<lb/>
+
+</p></sp><sp><speaker>POMPEY</speaker>
+<p>Pray, Master Barnardine, awake till you are<lb/>
+executed, and sleep afterwards.<lb/>
+
+
+</p></sp><sp><speaker>ABHORSON</speaker>
+<p>Go in to him, and fetch him out.<lb/>
+
+</p></sp><sp><speaker>POMPEY</speaker>
+<p>He is coming, sir, he is coming; I hear his straw rustle.<lb/>
+
+</p></sp><sp><speaker>ABHORSON</speaker>
+<p>Is the axe upon the block, sirrah?<lb/>
+
+</p></sp><sp><speaker>POMPEY</speaker>
+<p>Very ready, sir.<lb/>
+
+</p><p><stage>Enter BARNARDINE</stage>
+
+
+</p></sp><sp><speaker>BARNARDINE</speaker>
+<p>How now, Abhorson? what's the news with you?<lb/>
+
+</p></sp><sp><speaker>ABHORSON</speaker>
+<p>Truly, sir, I would desire you to clap into your<lb/>
+prayers; for, look you, the warrant's come.<lb/>
+
+
+</p></sp><sp><speaker>BARNARDINE</speaker>
+<p>You rogue, I have been drinking all night; I am not<lb/>
+fitted for 't.<lb/>
+
+
+</p></sp><sp><speaker>POMPEY</speaker>
+<p>O, the better, sir; for he that drinks all night,<lb/>
+and is hanged betimes in the morning, may sleep the<lb/>
+sounder all the next day.<lb/>
+
+
+</p></sp><sp><speaker>ABHORSON</speaker>
+<p>Look you, sir; here comes your ghostly father: do<lb/>
+we jest now, think you?<lb/>
+
+
+</p><p><stage>Enter DUKE VINCENTIO disguised as before</stage>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Sir, induced by my charity, and hearing how hastily<lb/>
+you are to depart, I am come to advise you, comfort<lb/>
+you and pray with you.<lb/>
+
+
+</p></sp><sp><speaker>BARNARDINE</speaker><p>	Friar, not I<lb/>
+I have been drinking hard all night,<lb/>
+and I will have more time to prepare me, or they<lb/>
+shall beat out my brains with billets: I will not<lb/>
+consent to die this day, that's certain.<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>O, sir, you must: and therefore I beseech you<lb/>
+Look forward on the journey you shall go.<lb/>
+
+
+</p></sp><sp><speaker>BARNARDINE</speaker>
+<p>I swear I will not die to-day for any man's<lb/>
+persuasion.<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>But hear you.<lb/>
+
+</p></sp><sp><speaker>BARNARDINE</speaker>
+<p>Not a word: if you have any thing to say to me,<lb/>
+come to my ward; for thence will not I to-day.<lb/>
+
+
+</p><p><stage>Exit</stage>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Unfit to live or die: O gravel heart!<lb/>
+After him, fellows; bring him to the block.<lb/>
+
+
+</p><p><stage>Exeunt ABHORSON and POMPEY</stage>
+
+
+
+</p><p><stage>Re-enter Provost</stage>
+
+
+</p></sp><sp><speaker>Provost</speaker>
+<p>Now, sir, how do you find the prisoner?<lb/>
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>A creature unprepared, unmeet for death;<lb/>
+And to transport him in the mind he is<lb/>
+Were damnable.<lb/>
+
+
+</p></sp><sp><speaker>Provost</speaker>
+<p>Here in the prison, father,<lb/>
+There died this morning of a cruel fever<lb/>
+One Ragozine, a most notorious pirate,<lb/>
+A man of Claudio's years; his beard and head<lb/>
+Just of his colour. What if we do omit<lb/>
+This reprobate till he were well inclined;<lb/>
+And satisfy the deputy with the visage<lb/>
+Of Ragozine, more like to Claudio?<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>O, 'tis an accident that heaven provides!<lb/>
+Dispatch it presently; the hour draws on<lb/>
+Prefix'd by Angelo: see this be done,<lb/>
+And sent according to command; whiles I<lb/>
+Persuade this rude wretch willingly to die.<lb/>
+
+
+</p></sp><sp><speaker>Provost</speaker>
+<p>This shall be done, good father, presently.<lb/>
+But Barnardine must die this afternoon:<lb/>
+And how shall we continue Claudio,<lb/>
+To save me from the danger that might come<lb/>
+If he were known alive?<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Let this be done.<lb/>
+Put them in secret holds, both Barnardine and Claudio:<lb/>
+Ere twice the sun hath made his journal greeting<lb/>
+To the under generation, you shall find<lb/>
+Your safety manifested.<lb/>
+
+
+</p></sp><sp><speaker>Provost</speaker>
+<p>I am your free dependant.<lb/>
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Quick, dispatch, and send the head to Angelo.<lb/>
+
+</p><p><stage>Exit Provost</stage></p>
+
+
+<p>
+Now will I write letters to Angelo,&mdash;<lb/>
+The provost, he shall bear them, whose contents<lb/>
+Shall witness to him I am near at home,<lb/>
+And that, by great injunctions, I am bound<lb/>
+To enter publicly: him I'll desire<lb/>
+To meet me at the consecrated fount<lb/>
+A league below the city; and from thence,<lb/>
+By cold gradation and well-balanced form,<lb/>
+We shall proceed with Angelo.<lb/>
+
+
+</p><p><stage>Re-enter Provost</stage>
+
+
+</p></sp><sp><speaker>Provost</speaker>
+<p>Here is the head; I'll carry it myself.<lb/>
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Convenient is it. Make a swift return;<lb/>
+For I would commune with you of such things<lb/>
+That want no ear but yours.<lb/>
+
+
+</p></sp><sp><speaker>Provost</speaker>
+<p>I'll make all speed.<lb/>
+
+</p><p><stage>Exit</stage>
+
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p><stage>[Within]</stage></p><p>  Peace, ho, be here!<lb/>
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>The tongue of Isabel. She's come to know<lb/>
+If yet her brother's pardon be come hither:<lb/>
+But I will keep her ignorant of her good,<lb/>
+To make her heavenly comforts of despair,<lb/>
+When it is least expected.<lb/>
+
+
+</p><p><stage>Enter ISABELLA</stage>
+
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>Ho, by your leave!<lb/>
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Good morning to you, fair and gracious daughter.<lb/>
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>The better, given me by so holy a man.<lb/>
+Hath yet the deputy sent my brother's pardon?<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>He hath released him, Isabel, from the world:<lb/>
+His head is off and sent to Angelo.<lb/>
+
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>Nay, but it is not so.<lb/>
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>It is no other: show your wisdom, daughter,<lb/>
+In your close patience.<lb/>
+
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>O, I will to him and pluck out his eyes!<lb/>
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>You shall not be admitted to his sight.<lb/>
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>Unhappy Claudio! wretched Isabel!<lb/>
+Injurious world! most damned Angelo!<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>This nor hurts him nor profits you a jot;<lb/>
+Forbear it therefore; give your cause to heaven.<lb/>
+Mark what I say, which you shall find<lb/>
+By every syllable a faithful verity:<lb/>
+The duke comes home to-morrow; nay, dry your eyes;<lb/>
+One of our convent, and his confessor,<lb/>
+Gives me this instance: already he hath carried<lb/>
+Notice to Escalus and Angelo,<lb/>
+Who do prepare to meet him at the gates,<lb/>
+There to give up their power. If you can, pace your wisdom<lb/>
+In that good path that I would wish it go,<lb/>
+And you shall have your bosom on this wretch,<lb/>
+Grace of the duke, revenges to your heart,<lb/>
+And general honour.<lb/>
+
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>I am directed by you.<lb/>
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>This letter, then, to Friar Peter give;<lb/>
+'Tis that he sent me of the duke's return:<lb/>
+Say, by this token, I desire his company<lb/>
+At Mariana's house to-night. Her cause and yours<lb/>
+I'll perfect him withal, and he shall bring you<lb/>
+Before the duke, and to the head of Angelo<lb/>
+Accuse him home and home. For my poor self,<lb/>
+I am combined by a sacred vow<lb/>
+And shall be absent. Wend you with this letter:<lb/>
+Command these fretting waters from your eyes<lb/>
+With a light heart; trust not my holy order,<lb/>
+If I pervert your course. Who's here?<lb/>
+
+
+</p><p><stage>Enter LUCIO</stage>
+
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>Good even. Friar, where's the provost?<lb/>
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Not within, sir.<lb/>
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>O pretty Isabella, I am pale at mine heart to see<lb/>
+thine eyes so red: thou must be patient. I am fain<lb/>
+to dine and sup with water and bran; I dare not for<lb/>
+my head fill my belly; one fruitful meal would set<lb/>
+me to 't. But they say the duke will be here<lb/>
+to-morrow. By my troth, Isabel, I loved thy brother:<lb/>
+if the old fantastical duke of dark corners had been<lb/>
+at home, he had lived.<lb/>
+
+
+</p><p><stage>Exit ISABELLA</stage>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Sir, the duke is marvellous little beholding to your<lb/>
+reports; but the best is, he lives not in them.<lb/>
+
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>Friar, thou knowest not the duke so well as I do:<lb/>
+he's a better woodman than thou takest him for.<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Well, you'll answer this one day. Fare ye well.<lb/>
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>Nay, tarry; I'll go along with thee<lb/>
+I can tell thee pretty tales of the duke.<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>You have told me too many of him already, sir, if<lb/>
+they be true; if not true, none were enough.<lb/>
+
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>I was once before him for getting a wench with child.<lb/>
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Did you such a thing?<lb/>
+
+</p></sp><sp><speaker>LUCIO</speaker><p>	Yes, marry, did I<lb/>
+but I was fain to forswear it;<lb/>
+they would else have married me to the rotten medlar.<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Sir, your company is fairer than honest. Rest you well.<lb/>
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>By my troth, I'll go with thee to the lane's end:<lb/>
+if bawdy talk offend you, we'll have very little of<lb/>
+it. Nay, friar, I am a kind of burr; I shall stick.<lb/>
+
+
+</p></sp><p><stage>Exeunt</stage>
+
+
+
+</p></div2><div2 type="scene" n="4" id="d22">
+<head>Scene 4</head>
+
+<p><stage>A room in ANGELO's house.</stage>
+
+</p><p><stage>Enter ANGELO and ESCALUS</stage>
+
+
+</p><sp><speaker>ESCALUS</speaker>
+<p>Every letter he hath writ hath disvouched other.<lb/>
+
+</p></sp><sp><speaker>ANGELO</speaker>
+<p>In most uneven and distracted manner. His actions<lb/>
+show much like to madness: pray heaven his wisdom be<lb/>
+not tainted! And why meet him at the gates, and<lb/>
+redeliver our authorities there<lb/>
+
+
+</p></sp><sp><speaker>ESCALUS</speaker>
+<p>I guess not.<lb/>
+
+</p></sp><sp><speaker>ANGELO</speaker>
+<p>And why should we proclaim it in an hour before his<lb/>
+entering, that if any crave redress of injustice,<lb/>
+they should exhibit their petitions in the street?<lb/>
+
+
+</p></sp><sp><speaker>ESCALUS</speaker>
+<p>He shows his reason for that: to have a dispatch of<lb/>
+complaints, and to deliver us from devices<lb/>
+hereafter, which shall then have no power to stand<lb/>
+against us.<lb/>
+
+
+</p></sp><sp><speaker>ANGELO</speaker>
+<p>Well, I beseech you, let it be proclaimed betimes<lb/>
+i' the morn; I'll call you at your house: give<lb/>
+notice to such men of sort and suit as are to meet<lb/>
+him.<lb/>
+
+
+</p></sp><sp><speaker>ESCALUS</speaker>
+<p>I shall, sir. Fare you well.<lb/>
+
+</p></sp><sp><speaker>ANGELO</speaker>
+<p>Good night.<lb/>
+
+</p><p><stage>Exit ESCALUS</stage></p>
+
+
+<p>
+This deed unshapes me quite, makes me unpregnant<lb/>
+And dull to all proceedings. A deflower'd maid!<lb/>
+And by an eminent body that enforced<lb/>
+The law against it! But that her tender shame<lb/>
+Will not proclaim against her maiden loss,<lb/>
+How might she tongue me! Yet reason dares her no;<lb/>
+For my authority bears of a credent bulk,<lb/>
+That no particular scandal once can touch<lb/>
+But it confounds the breather. He should have lived,<lb/>
+Save that riotous youth, with dangerous sense,<lb/>
+Might in the times to come have ta'en revenge,<lb/>
+By so receiving a dishonour'd life<lb/>
+With ransom of such shame. Would yet he had lived!<lb/>
+A lack, when once our grace we have forgot,<lb/>
+Nothing goes right: we would, and we would not.<lb/>
+
+
+</p></sp><p><stage>Exit</stage>
+
+
+
+</p></div2><div2 type="scene" n="5" id="d23">
+<head>Scene 5</head>
+
+<p><stage>Fields without the town.</stage>
+
+</p><p><stage>Enter DUKE VINCENTIO in his own habit, and FRIAR PETER</stage>
+
+
+</p><sp><speaker>DUKE VINCENTIO</speaker>
+<p>These letters at fit time deliver me<lb/>
+
+</p><p><stage>Giving letters</stage></p>
+
+
+<p>
+The provost knows our purpose and our plot.<lb/>
+The matter being afoot, keep your instruction,<lb/>
+And hold you ever to our special drift;<lb/>
+Though sometimes you do blench from this to that,<lb/>
+As cause doth minister. Go call at Flavius' house,<lb/>
+And tell him where I stay: give the like notice<lb/>
+To Valentinus, Rowland, and to Crassus,<lb/>
+And bid them bring the trumpets to the gate;<lb/>
+But send me Flavius first.<lb/>
+
+
+</p></sp><sp><speaker>FRIAR PETER</speaker>
+<p>It shall be speeded well.<lb/>
+
+</p><p><stage>Exit</stage>
+
+
+
+</p><p><stage>Enter VARRIUS</stage>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>I thank thee, Varrius; thou hast made good haste:<lb/>
+Come, we will walk. There's other of our friends<lb/>
+Will greet us here anon, my gentle Varrius.<lb/>
+
+
+</p></sp><p><stage>Exeunt</stage>
+
+
+
+</p></div2><div2 type="scene" n="6" id="d24">
+<head>Scene 6</head>
+
+<p><stage>Street near the city gate.</stage>
+
+</p><p><stage>Enter ISABELLA and MARIANA</stage>
+
+
+</p><sp><speaker>ISABELLA</speaker>
+<p>To speak so indirectly I am loath:<lb/>
+I would say the truth; but to accuse him so,<lb/>
+That is your part: yet I am advised to do it;<lb/>
+He says, to veil full purpose.<lb/>
+
+
+</p></sp><sp><speaker>MARIANA</speaker>
+<p>Be ruled by him.<lb/>
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>Besides, he tells me that, if peradventure<lb/>
+He speak against me on the adverse side,<lb/>
+I should not think it strange; for 'tis a physic<lb/>
+That's bitter to sweet end.<lb/>
+
+
+</p></sp><sp><speaker>MARIANA</speaker>
+<p>I would Friar Peter&mdash;<lb/>
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>O, peace! the friar is come.<lb/>
+
+</p><p><stage>Enter FRIAR PETER</stage>
+
+
+</p></sp><sp><speaker>FRIAR PETER</speaker>
+<p>Come, I have found you out a stand most fit,<lb/>
+Where you may have such vantage on the duke,<lb/>
+He shall not pass you. Twice have the trumpets sounded;<lb/>
+The generous and gravest citizens<lb/>
+Have hent the gates, and very near upon<lb/>
+The duke is entering: therefore, hence, away!<lb/>
+
+
+</p></sp><p><stage>Exeunt</stage></p>
+
+
+
+</div2>
+
+</div1>
+
+<div1 type="act" n="5" id="d25">
+<head>Act 5</head>
+
+<div2 type="scene" n="1" id="d26">
+<head>Scene 1</head>
+
+<p><stage>The city gate.</stage>
+
+</p><p><stage>MARIANA veiled, ISABELLA, and FRIAR PETER, at their	stand. Enter DUKE VINCENTIO, VARRIUS, Lords,	ANGELO, ESCALUS, LUCIO, Provost, Officers, and	Citizens, at several doors</stage>
+
+
+</p><sp><speaker>DUKE VINCENTIO</speaker>
+<p>My very worthy cousin, fairly met!<lb/>
+Our old and faithful friend, we are glad to see you.<lb/>
+
+
+
+</p></sp><sp><speaker>ANGELO, ESCALUS</speaker>
+
+<p>Happy return be to your royal grace!<lb/>
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Many and hearty thankings to you both.<lb/>
+We have made inquiry of you; and we hear<lb/>
+Such goodness of your justice, that our soul<lb/>
+Cannot but yield you forth to public thanks,<lb/>
+Forerunning more requital.<lb/>
+
+
+</p></sp><sp><speaker>ANGELO</speaker>
+<p>You make my bonds still greater.<lb/>
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>O, your desert speaks loud; and I should wrong it,<lb/>
+To lock it in the wards of covert bosom,<lb/>
+When it deserves, with characters of brass,<lb/>
+A forted residence 'gainst the tooth of time<lb/>
+And razure of oblivion. Give me your hand,<lb/>
+And let the subject see, to make them know<lb/>
+That outward courtesies would fain proclaim<lb/>
+Favours that keep within. Come, Escalus,<lb/>
+You must walk by us on our other hand;<lb/>
+And good supporters are you.<lb/>
+
+
+</p><p><stage>FRIAR PETER and ISABELLA come forward</stage>
+
+
+</p></sp><sp><speaker>FRIAR PETER</speaker>
+<p>Now is your time: speak loud and kneel before him.<lb/>
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>Justice, O royal duke! Vail your regard<lb/>
+Upon a wrong'd, I would fain have said, a maid!<lb/>
+O worthy prince, dishonour not your eye<lb/>
+By throwing it on any other object<lb/>
+Till you have heard me in my true complaint<lb/>
+And given me justice, justice, justice, justice!<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Relate your wrongs; in what? by whom? be brief.<lb/>
+Here is Lord Angelo shall give you justice:<lb/>
+Reveal yourself to him.<lb/>
+
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>O worthy duke,<lb/>
+You bid me seek redemption of the devil:<lb/>
+Hear me yourself; for that which I must speak<lb/>
+Must either punish me, not being believed,<lb/>
+Or wring redress from you. Hear me, O hear me, here!<lb/>
+
+
+</p></sp><sp><speaker>ANGELO</speaker>
+<p>My lord, her wits, I fear me, are not firm:<lb/>
+She hath been a suitor to me for her brother<lb/>
+Cut off by course of justice,&mdash;<lb/>
+
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>By course of justice!<lb/>
+
+</p></sp><sp><speaker>ANGELO</speaker>
+<p>And she will speak most bitterly and strange.<lb/>
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>Most strange, but yet most truly, will I speak:<lb/>
+That Angelo's forsworn; is it not strange?<lb/>
+That Angelo's a murderer; is 't not strange?<lb/>
+That Angelo is an adulterous thief,<lb/>
+An hypocrite, a virgin-violator;<lb/>
+Is it not strange and strange?<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Nay, it is ten times strange.<lb/>
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>It is not truer he is Angelo<lb/>
+Than this is all as true as it is strange:<lb/>
+Nay, it is ten times true; for truth is truth<lb/>
+To the end of reckoning.<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Away with her! Poor soul,<lb/>
+She speaks this in the infirmity of sense.<lb/>
+
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>O prince, I conjure thee, as thou believest<lb/>
+There is another comfort than this world,<lb/>
+That thou neglect me not, with that opinion<lb/>
+That I am touch'd with madness! Make not impossible<lb/>
+That which but seems unlike: 'tis not impossible<lb/>
+But one, the wicked'st caitiff on the ground,<lb/>
+May seem as shy, as grave, as just, as absolute<lb/>
+As Angelo; even so may Angelo,<lb/>
+In all his dressings, characts, titles, forms,<lb/>
+Be an arch-villain; believe it, royal prince:<lb/>
+If he be less, he's nothing; but he's more,<lb/>
+Had I more name for badness.<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>By mine honesty,<lb/>
+If she be mad,&mdash;as I believe no other,&mdash;<lb/>
+Her madness hath the oddest frame of sense,<lb/>
+Such a dependency of thing on thing,<lb/>
+As e'er I heard in madness.<lb/>
+
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>O gracious duke,<lb/>
+Harp not on that, nor do not banish reason<lb/>
+For inequality; but let your reason serve<lb/>
+To make the truth appear where it seems hid,<lb/>
+And hide the false seems true.<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Many that are not mad<lb/>
+Have, sure, more lack of reason. What would you say?<lb/>
+
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>I am the sister of one Claudio,<lb/>
+Condemn'd upon the act of fornication<lb/>
+To lose his head; condemn'd by Angelo:<lb/>
+I, in probation of a sisterhood,<lb/>
+Was sent to by my brother; one Lucio<lb/>
+As then the messenger,&mdash;<lb/>
+
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>That's I, an't like your grace:<lb/>
+I came to her from Claudio, and desired her<lb/>
+To try her gracious fortune with Lord Angelo<lb/>
+For her poor brother's pardon.<lb/>
+
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>That's he indeed.<lb/>
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>You were not bid to speak.<lb/>
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>No, my good lord;<lb/>
+Nor wish'd to hold my peace.<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>I wish you now, then;<lb/>
+Pray you, take note of it: and when you have<lb/>
+A business for yourself, pray heaven you then<lb/>
+Be perfect.<lb/>
+
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>I warrant your honour.<lb/>
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>The warrants for yourself; take heed to't.<lb/>
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>This gentleman told somewhat of my tale,&mdash;<lb/>
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>Right.<lb/>
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>It may be right; but you are i' the wrong<lb/>
+To speak before your time. Proceed.<lb/>
+
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>I went<lb/>
+To this pernicious caitiff deputy,&mdash;<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>That's somewhat madly spoken.<lb/>
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>Pardon it;<lb/>
+The phrase is to the matter.<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Mended again. The matter; proceed.<lb/>
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>In brief, to set the needless process by,<lb/>
+How I persuaded, how I pray'd, and kneel'd,<lb/>
+How he refell'd me, and how I replied,&mdash;<lb/>
+For this was of much length,&mdash;the vile conclusion<lb/>
+I now begin with grief and shame to utter:<lb/>
+He would not, but by gift of my chaste body<lb/>
+To his concupiscible intemperate lust,<lb/>
+Release my brother; and, after much debatement,<lb/>
+My sisterly remorse confutes mine honour,<lb/>
+And I did yield to him: but the next morn betimes,<lb/>
+His purpose surfeiting, he sends a warrant<lb/>
+For my poor brother's head.<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>This is most likely!<lb/>
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>O, that it were as like as it is true!<lb/>
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>By heaven, fond wretch, thou knowist not what thou speak'st,<lb/>
+Or else thou art suborn'd against his honour<lb/>
+In hateful practise. First, his integrity<lb/>
+Stands without blemish. Next, it imports no reason<lb/>
+That with such vehemency he should pursue<lb/>
+Faults proper to himself: if he had so offended,<lb/>
+He would have weigh'd thy brother by himself<lb/>
+And not have cut him off. Some one hath set you on:<lb/>
+Confess the truth, and say by whose advice<lb/>
+Thou camest here to complain.<lb/>
+
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>And is this all?<lb/>
+Then, O you blessed ministers above,<lb/>
+Keep me in patience, and with ripen'd time<lb/>
+Unfold the evil which is here wrapt up<lb/>
+In countenance! Heaven shield your grace from woe,<lb/>
+As I, thus wrong'd, hence unbelieved go!<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>I know you'ld fain be gone. An officer!<lb/>
+To prison with her! Shall we thus permit<lb/>
+A blasting and a scandalous breath to fall<lb/>
+On him so near us? This needs must be a practise.<lb/>
+Who knew of Your intent and coming hither?<lb/>
+
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>One that I would were here, Friar Lodowick.<lb/>
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>A ghostly father, belike. Who knows that Lodowick?<lb/>
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>My lord, I know him; 'tis a meddling friar;<lb/>
+I do not like the man: had he been lay, my lord<lb/>
+For certain words he spake against your grace<lb/>
+In your retirement, I had swinged him soundly.<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Words against me? this is a good friar, belike!<lb/>
+And to set on this wretched woman here<lb/>
+Against our substitute! Let this friar be found.<lb/>
+
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>But yesternight, my lord, she and that friar,<lb/>
+I saw them at the prison: a saucy friar,<lb/>
+A very scurvy fellow.<lb/>
+
+
+</p></sp><sp><speaker>FRIAR PETER</speaker>
+<p>Blessed be your royal grace!<lb/>
+I have stood by, my lord, and I have heard<lb/>
+Your royal ear abused. First, hath this woman<lb/>
+Most wrongfully accused your substitute,<lb/>
+Who is as free from touch or soil with her<lb/>
+As she from one ungot.<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>We did believe no less.<lb/>
+Know you that Friar Lodowick that she speaks of?<lb/>
+
+
+</p></sp><sp><speaker>FRIAR PETER</speaker>
+<p>I know him for a man divine and holy;<lb/>
+Not scurvy, nor a temporary meddler,<lb/>
+As he's reported by this gentleman;<lb/>
+And, on my trust, a man that never yet<lb/>
+Did, as he vouches, misreport your grace.<lb/>
+
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>My lord, most villanously; believe it.<lb/>
+
+</p></sp><sp><speaker>FRIAR PETER</speaker>
+<p>Well, he in time may come to clear himself;<lb/>
+But at this instant he is sick my lord,<lb/>
+Of a strange fever. Upon his mere request,<lb/>
+Being come to knowledge that there was complaint<lb/>
+Intended 'gainst Lord Angelo, came I hither,<lb/>
+To speak, as from his mouth, what he doth know<lb/>
+Is true and false; and what he with his oath<lb/>
+And all probation will make up full clear,<lb/>
+Whensoever he's convented. First, for this woman.<lb/>
+To justify this worthy nobleman,<lb/>
+So vulgarly and personally accused,<lb/>
+Her shall you hear disproved to her eyes,<lb/>
+Till she herself confess it.<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Good friar, let's hear it.<lb/>
+
+</p><p><stage>ISABELLA is carried off guarded; and MARIANA comes forward</stage></p>
+
+
+<p>
+Do you not smile at this, Lord Angelo?<lb/>
+O heaven, the vanity of wretched fools!<lb/>
+Give us some seats. Come, cousin Angelo;<lb/>
+In this I'll be impartial; be you judge<lb/>
+Of your own cause. Is this the witness, friar?<lb/>
+First, let her show her face, and after speak.<lb/>
+
+
+</p></sp><sp><speaker>MARIANA</speaker>
+<p>Pardon, my lord; I will not show my face<lb/>
+Until my husband bid me.<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>What, are you married?<lb/>
+
+</p></sp><sp><speaker>MARIANA</speaker>
+<p>No, my lord.<lb/>
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Are you a maid?<lb/>
+
+</p></sp><sp><speaker>MARIANA</speaker>
+<p>No, my lord.<lb/>
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>A widow, then?<lb/>
+
+</p></sp><sp><speaker>MARIANA</speaker>
+<p>Neither, my lord.<lb/>
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Why, you are nothing then: neither maid, widow, nor wife?<lb/>
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>My lord, she may be a punk; for many of them are<lb/>
+neither maid, widow, nor wife.<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Silence that fellow: I would he had some cause<lb/>
+To prattle for himself.<lb/>
+
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>Well, my lord.<lb/>
+
+</p></sp><sp><speaker>MARIANA</speaker>
+<p>My lord; I do confess I ne'er was married;<lb/>
+And I confess besides I am no maid:<lb/>
+I have known my husband; yet my husband<lb/>
+Knows not that ever he knew me.<lb/>
+
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>He was drunk then, my lord: it can be no better.<lb/>
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>For the benefit of silence, would thou wert so too!<lb/>
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>Well, my lord.<lb/>
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>This is no witness for Lord Angelo.<lb/>
+
+</p></sp><sp><speaker>MARIANA</speaker>
+<p>Now I come to't my lord<lb/>
+She that accuses him of fornication,<lb/>
+In self-same manner doth accuse my husband,<lb/>
+And charges him my lord, with such a time<lb/>
+When I'll depose I had him in mine arms<lb/>
+With all the effect of love.<lb/>
+
+
+</p></sp><sp><speaker>ANGELO</speaker>
+<p>Charges she more than me?<lb/>
+
+</p></sp><sp><speaker>MARIANA</speaker>
+<p>Not that I know.<lb/>
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>No? you say your husband.<lb/>
+
+</p></sp><sp><speaker>MARIANA</speaker>
+<p>Why, just, my lord, and that is Angelo,<lb/>
+Who thinks he knows that he ne'er knew my body,<lb/>
+But knows he thinks that he knows Isabel's.<lb/>
+
+
+</p></sp><sp><speaker>ANGELO</speaker>
+<p>This is a strange abuse. Let's see thy face.<lb/>
+
+</p></sp><sp><speaker>MARIANA</speaker>
+<p>My husband bids me; now I will unmask.<lb/>
+
+</p><p><stage>Unveiling</stage></p>
+
+
+<p>
+This is that face, thou cruel Angelo,<lb/>
+Which once thou sworest was worth the looking on;<lb/>
+This is the hand which, with a vow'd contract,<lb/>
+Was fast belock'd in thine; this is the body<lb/>
+That took away the match from Isabel,<lb/>
+And did supply thee at thy garden-house<lb/>
+In her imagined person.<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Know you this woman?<lb/>
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>Carnally, she says.<lb/>
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Sirrah, no more!<lb/>
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>Enough, my lord.<lb/>
+
+</p></sp><sp><speaker>ANGELO</speaker>
+<p>My lord, I must confess I know this woman:<lb/>
+And five years since there was some speech of marriage<lb/>
+Betwixt myself and her; which was broke off,<lb/>
+Partly for that her promised proportions<lb/>
+Came short of composition, but in chief<lb/>
+For that her reputation was disvalued<lb/>
+In levity: since which time of five years<lb/>
+I never spake with her, saw her, nor heard from her,<lb/>
+Upon my faith and honour.<lb/>
+
+
+</p></sp><sp><speaker>MARIANA</speaker>
+<p>Noble prince,<lb/>
+As there comes light from heaven and words from breath,<lb/>
+As there is sense in truth and truth in virtue,<lb/>
+I am affianced this man's wife as strongly<lb/>
+As words could make up vows: and, my good lord,<lb/>
+But Tuesday night last gone in's garden-house<lb/>
+He knew me as a wife. As this is true,<lb/>
+Let me in safety raise me from my knees<lb/>
+Or else for ever be confixed here,<lb/>
+A marble monument!<lb/>
+
+
+</p></sp><sp><speaker>ANGELO</speaker>
+<p>I did but smile till now:<lb/>
+Now, good my lord, give me the scope of justice<lb/>
+My patience here is touch'd. I do perceive<lb/>
+These poor informal women are no more<lb/>
+But instruments of some more mightier member<lb/>
+That sets them on: let me have way, my lord,<lb/>
+To find this practise out.<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Ay, with my heart<lb/>
+And punish them to your height of pleasure.<lb/>
+Thou foolish friar, and thou pernicious woman,<lb/>
+Compact with her that's gone, think'st thou thy oaths,<lb/>
+Though they would swear down each particular saint,<lb/>
+Were testimonies against his worth and credit<lb/>
+That's seal'd in approbation? You, Lord Escalus,<lb/>
+Sit with my cousin; lend him your kind pains<lb/>
+To find out this abuse, whence 'tis derived.<lb/>
+There is another friar that set them on;<lb/>
+Let him be sent for.<lb/>
+
+
+</p></sp><sp><speaker>FRIAR PETER</speaker>
+<p>Would he were here, my lord! for he indeed<lb/>
+Hath set the women on to this complaint:<lb/>
+Your provost knows the place where he abides<lb/>
+And he may fetch him.<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Go do it instantly.<lb/>
+
+</p><p><stage>Exit Provost</stage></p>
+
+
+<p>
+And you, my noble and well-warranted cousin,<lb/>
+Whom it concerns to hear this matter forth,<lb/>
+Do with your injuries as seems you best,<lb/>
+In any chastisement: I for a while will leave you;<lb/>
+But stir not you till you have well determined<lb/>
+Upon these slanderers.<lb/>
+
+
+</p></sp><sp><speaker>ESCALUS</speaker>
+<p>My lord, we'll do it throughly.<lb/>
+
+</p><p><stage>Exit DUKE</stage></p>
+
+
+<p>
+Signior Lucio, did not you say you knew that<lb/>
+Friar Lodowick to be a dishonest person?<lb/>
+
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>'Cucullus non facit monachum:' honest in nothing<lb/>
+but in his clothes; and one that hath spoke most<lb/>
+villanous speeches of the duke.<lb/>
+
+
+</p></sp><sp><speaker>ESCALUS</speaker>
+<p>We shall entreat you to abide here till he come and<lb/>
+enforce them against him: we shall find this friar a<lb/>
+notable fellow.<lb/>
+
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>As any in Vienna, on my word.<lb/>
+
+</p></sp><sp><speaker>ESCALUS</speaker>
+<p>Call that same Isabel here once again; I would speak with her.<lb/>
+
+</p><p><stage>Exit an Attendant</stage></p>
+
+
+<p>
+Pray you, my lord, give me leave to question; you<lb/>
+shall see how I'll handle her.<lb/>
+
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>Not better than he, by her own report.<lb/>
+
+</p></sp><sp><speaker>ESCALUS</speaker>
+<p>Say you?<lb/>
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>Marry, sir, I think, if you handled her privately,<lb/>
+she would sooner confess: perchance, publicly,<lb/>
+she'll be ashamed.<lb/>
+
+
+</p></sp><sp><speaker>ESCALUS</speaker>
+<p>I will go darkly to work with her.<lb/>
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>That's the way; for women are light at midnight.<lb/>
+
+</p><p><stage>Re-enter Officers with ISABELLA; and Provost with	the DUKE VINCENTIO in his friar's habit</stage>
+
+
+</p></sp><sp><speaker>ESCALUS</speaker>
+<p>Come on, mistress: here's a gentlewoman denies all<lb/>
+that you have said.<lb/>
+
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>My lord, here comes the rascal I spoke of; here with<lb/>
+the provost.<lb/>
+
+
+</p></sp><sp><speaker>ESCALUS</speaker>
+<p>In very good time: speak not you to him till we<lb/>
+call upon you.<lb/>
+
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>Mum.<lb/>
+
+</p></sp><sp><speaker>ESCALUS</speaker>
+<p>Come, sir: did you set these women on to slander<lb/>
+Lord Angelo? they have confessed you did.<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>'Tis false.<lb/>
+
+</p></sp><sp><speaker>ESCALUS</speaker>
+<p>How! know you where you are?<lb/>
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Respect to your great place! and let the devil<lb/>
+Be sometime honour'd for his burning throne!<lb/>
+Where is the duke? 'tis he should hear me speak.<lb/>
+
+
+</p></sp><sp><speaker>ESCALUS</speaker>
+<p>The duke's in us; and we will hear you speak:<lb/>
+Look you speak justly.<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Boldly, at least. But, O, poor souls,<lb/>
+Come you to seek the lamb here of the fox?<lb/>
+Good night to your redress! Is the duke gone?<lb/>
+Then is your cause gone too. The duke's unjust,<lb/>
+Thus to retort your manifest appeal,<lb/>
+And put your trial in the villain's mouth<lb/>
+Which here you come to accuse.<lb/>
+
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>This is the rascal; this is he I spoke of.<lb/>
+
+</p></sp><sp><speaker>ESCALUS</speaker>
+<p>Why, thou unreverend and unhallow'd friar,<lb/>
+Is't not enough thou hast suborn'd these women<lb/>
+To accuse this worthy man, but, in foul mouth<lb/>
+And in the witness of his proper ear,<lb/>
+To call him villain? and then to glance from him<lb/>
+To the duke himself, to tax him with injustice?<lb/>
+Take him hence; to the rack with him! We'll touse you<lb/>
+Joint by joint, but we will know his purpose.<lb/>
+What 'unjust'!<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Be not so hot; the duke<lb/>
+Dare no more stretch this finger of mine than he<lb/>
+Dare rack his own: his subject am I not,<lb/>
+Nor here provincial. My business in this state<lb/>
+Made me a looker on here in Vienna,<lb/>
+Where I have seen corruption boil and bubble<lb/>
+Till it o'er-run the stew; laws for all faults,<lb/>
+But faults so countenanced, that the strong statutes<lb/>
+Stand like the forfeits in a barber's shop,<lb/>
+As much in mock as mark.<lb/>
+
+
+</p></sp><sp><speaker>ESCALUS</speaker>
+<p>Slander to the state! Away with him to prison!<lb/>
+
+</p></sp><sp><speaker>ANGELO</speaker>
+<p>What can you vouch against him, Signior Lucio?<lb/>
+Is this the man that you did tell us of?<lb/>
+
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>'Tis he, my lord. Come hither, goodman baldpate:<lb/>
+do you know me?<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>I remember you, sir, by the sound of your voice: I<lb/>
+met you at the prison, in the absence of the duke.<lb/>
+
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>O, did you so? And do you remember what you said of the duke?<lb/>
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Most notedly, sir.<lb/>
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>Do you so, sir? And was the duke a fleshmonger, a<lb/>
+fool, and a coward, as you then reported him to be?<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>You must, sir, change persons with me, ere you make<lb/>
+that my report: you, indeed, spoke so of him; and<lb/>
+much more, much worse.<lb/>
+
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>O thou damnable fellow! Did not I pluck thee by the<lb/>
+nose for thy speeches?<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>I protest I love the duke as I love myself.<lb/>
+
+</p></sp><sp><speaker>ANGELO</speaker>
+<p>Hark, how the villain would close now, after his<lb/>
+treasonable abuses!<lb/>
+
+
+</p></sp><sp><speaker>ESCALUS</speaker>
+<p>Such a fellow is not to be talked withal. Away with<lb/>
+him to prison! Where is the provost? Away with him<lb/>
+to prison! lay bolts enough upon him: let him<lb/>
+speak no more. Away with those giglots too, and<lb/>
+with the other confederate companion!<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p><stage>[To Provost]</stage></p><p>  Stay, sir; stay awhile.<lb/>
+
+</p></sp><sp><speaker>ANGELO</speaker>
+<p>What, resists he? Help him, Lucio.<lb/>
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>Come, sir; come, sir; come, sir; foh, sir! Why, you<lb/>
+bald-pated, lying rascal, you must be hooded, must<lb/>
+you? Show your knave's visage, with a pox to you!<lb/>
+show your sheep-biting face, and be hanged an hour!<lb/>
+Will't not off?<lb/>
+
+
+</p><p><stage>Pulls off the friar's hood, and discovers DUKE	VINCENTIO</stage>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Thou art the first knave that e'er madest a duke.<lb/>
+First, provost, let me bail these gentle three.<lb/>
+
+
+</p><p><stage>To LUCIO</stage></p>
+
+
+<p>
+Sneak not away, sir; for the friar and you<lb/>
+Must have a word anon. Lay hold on him.<lb/>
+
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>This may prove worse than hanging.<lb/>
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p><stage>[To ESCALUS]</stage></p><p>  What you have spoke I pardon: sit you down:<lb/>
+We'll borrow place of him.<lb/>
+
+
+</p><p><stage>To ANGELO</stage></p>
+
+
+<p>
+Sir, by your leave.<lb/>
+Hast thou or word, or wit, or impudence,<lb/>
+That yet can do thee office? If thou hast,<lb/>
+Rely upon it till my tale be heard,<lb/>
+And hold no longer out.<lb/>
+
+
+</p></sp><sp><speaker>ANGELO</speaker>
+<p>O my dread lord,<lb/>
+I should be guiltier than my guiltiness,<lb/>
+To think I can be undiscernible,<lb/>
+When I perceive your grace, like power divine,<lb/>
+Hath look'd upon my passes. Then, good prince,<lb/>
+No longer session hold upon my shame,<lb/>
+But let my trial be mine own confession:<lb/>
+Immediate sentence then and sequent death<lb/>
+Is all the grace I beg.<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Come hither, Mariana.<lb/>
+Say, wast thou e'er contracted to this woman?<lb/>
+
+
+</p></sp><sp><speaker>ANGELO</speaker>
+<p>I was, my lord.<lb/>
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Go take her hence, and marry her instantly.<lb/>
+Do you the office, friar; which consummate,<lb/>
+Return him here again. Go with him, provost.<lb/>
+
+
+</p><p><stage>Exeunt ANGELO, MARIANA, FRIAR PETER and Provost</stage>
+
+
+</p></sp><sp><speaker>ESCALUS</speaker>
+<p>My lord, I am more amazed at his dishonour<lb/>
+Than at the strangeness of it.<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Come hither, Isabel.<lb/>
+Your friar is now your prince: as I was then<lb/>
+Advertising and holy to your business,<lb/>
+Not changing heart with habit, I am still<lb/>
+Attorney'd at your service.<lb/>
+
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>O, give me pardon,<lb/>
+That I, your vassal, have employ'd and pain'd<lb/>
+Your unknown sovereignty!<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>You are pardon'd, Isabel:<lb/>
+And now, dear maid, be you as free to us.<lb/>
+Your brother's death, I know, sits at your heart;<lb/>
+And you may marvel why I obscured myself,<lb/>
+Labouring to save his life, and would not rather<lb/>
+Make rash remonstrance of my hidden power<lb/>
+Than let him so be lost. O most kind maid,<lb/>
+It was the swift celerity of his death,<lb/>
+Which I did think with slower foot came on,<lb/>
+That brain'd my purpose. But, peace be with him!<lb/>
+That life is better life, past fearing death,<lb/>
+Than that which lives to fear: make it your comfort,<lb/>
+So happy is your brother.<lb/>
+
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>I do, my lord.<lb/>
+
+</p><p><stage>Re-enter ANGELO, MARIANA, FRIAR PETER, and Provost</stage>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>For this new-married man approaching here,<lb/>
+Whose salt imagination yet hath wrong'd<lb/>
+Your well defended honour, you must pardon<lb/>
+For Mariana's sake: but as he adjudged your brother,&mdash;<lb/>
+Being criminal, in double violation<lb/>
+Of sacred chastity and of promise-breach<lb/>
+Thereon dependent, for your brother's life,&mdash;<lb/>
+The very mercy of the law cries out<lb/>
+Most audible, even from his proper tongue,<lb/>
+'An Angelo for Claudio, death for death!'<lb/>
+Haste still pays haste, and leisure answers leisure;<lb/>
+Like doth quit like, and MEASURE still FOR MEASURE.<lb/>
+Then, Angelo, thy fault's thus manifested;<lb/>
+Which, though thou wouldst deny, denies thee vantage.<lb/>
+We do condemn thee to the very block<lb/>
+Where Claudio stoop'd to death, and with like haste.<lb/>
+Away with him!<lb/>
+
+
+</p></sp><sp><speaker>MARIANA</speaker>
+<p>O my most gracious lord,<lb/>
+I hope you will not mock me with a husband.<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>It is your husband mock'd you with a husband.<lb/>
+Consenting to the safeguard of your honour,<lb/>
+I thought your marriage fit; else imputation,<lb/>
+For that he knew you, might reproach your life<lb/>
+And choke your good to come; for his possessions,<lb/>
+Although by confiscation they are ours,<lb/>
+We do instate and widow you withal,<lb/>
+To buy you a better husband.<lb/>
+
+
+</p></sp><sp><speaker>MARIANA</speaker>
+<p>O my dear lord,<lb/>
+I crave no other, nor no better man.<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Never crave him; we are definitive.<lb/>
+
+</p></sp><sp><speaker>MARIANA</speaker>
+<p>Gentle my liege,&mdash;<lb/>
+
+</p><p><stage>Kneeling</stage>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>You do but lose your labour.<lb/>
+Away with him to death!<lb/>
+
+
+</p><p><stage>To LUCIO</stage></p>
+
+
+<p>
+Now, sir, to you.<lb/>
+
+
+</p></sp><sp><speaker>MARIANA</speaker>
+<p>O my good lord! Sweet Isabel, take my part;<lb/>
+Lend me your knees, and all my life to come<lb/>
+I'll lend you all my life to do you service.<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Against all sense you do importune her:<lb/>
+Should she kneel down in mercy of this fact,<lb/>
+Her brother's ghost his paved bed would break,<lb/>
+And take her hence in horror.<lb/>
+
+
+</p></sp><sp><speaker>MARIANA</speaker>
+<p>Isabel,<lb/>
+Sweet Isabel, do yet but kneel by me;<lb/>
+Hold up your hands, say nothing; I'll speak all.<lb/>
+They say, best men are moulded out of faults;<lb/>
+And, for the most, become much more the better<lb/>
+For being a little bad: so may my husband.<lb/>
+O Isabel, will you not lend a knee?<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>He dies for Claudio's death.<lb/>
+
+</p></sp><sp><speaker>ISABELLA</speaker>
+<p>Most bounteous sir,<lb/>
+
+</p><p><stage>Kneeling</stage></p>
+
+
+<p>
+Look, if it please you, on this man condemn'd,<lb/>
+As if my brother lived: I partly think<lb/>
+A due sincerity govern'd his deeds,<lb/>
+Till he did look on me: since it is so,<lb/>
+Let him not die. My brother had but justice,<lb/>
+In that he did the thing for which he died:<lb/>
+For Angelo,<lb/>
+His act did not o'ertake his bad intent,<lb/>
+And must be buried but as an intent<lb/>
+That perish'd by the way: thoughts are no subjects;<lb/>
+Intents but merely thoughts.<lb/>
+
+
+</p></sp><sp><speaker>MARIANA</speaker>
+<p>Merely, my lord.<lb/>
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Your suit's unprofitable; stand up, I say.<lb/>
+I have bethought me of another fault.<lb/>
+Provost, how came it Claudio was beheaded<lb/>
+At an unusual hour?<lb/>
+
+
+</p></sp><sp><speaker>Provost</speaker>
+<p>It was commanded so.<lb/>
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Had you a special warrant for the deed?<lb/>
+
+</p></sp><sp><speaker>Provost</speaker>
+<p>No, my good lord; it was by private message.<lb/>
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>For which I do discharge you of your office:<lb/>
+Give up your keys.<lb/>
+
+
+</p></sp><sp><speaker>Provost</speaker>
+<p>Pardon me, noble lord:<lb/>
+I thought it was a fault, but knew it not;<lb/>
+Yet did repent me, after more advice;<lb/>
+For testimony whereof, one in the prison,<lb/>
+That should by private order else have died,<lb/>
+I have reserved alive.<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>What's he?<lb/>
+
+</p></sp><sp><speaker>Provost</speaker>
+<p>His name is Barnardine.<lb/>
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>I would thou hadst done so by Claudio.<lb/>
+Go fetch him hither; let me look upon him.<lb/>
+
+
+</p><p><stage>Exit Provost</stage>
+
+
+</p></sp><sp><speaker>ESCALUS</speaker>
+<p>I am sorry, one so learned and so wise<lb/>
+As you, Lord Angelo, have still appear'd,<lb/>
+Should slip so grossly, both in the heat of blood.<lb/>
+And lack of temper'd judgment afterward.<lb/>
+
+
+</p></sp><sp><speaker>ANGELO</speaker>
+<p>I am sorry that such sorrow I procure:<lb/>
+And so deep sticks it in my penitent heart<lb/>
+That I crave death more willingly than mercy;<lb/>
+'Tis my deserving, and I do entreat it.<lb/>
+
+
+</p><p><stage>Re-enter Provost, with BARNARDINE, CLAUDIO muffled,	and JULIET</stage>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Which is that Barnardine?<lb/>
+
+</p></sp><sp><speaker>Provost</speaker>
+<p>This, my lord.<lb/>
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>There was a friar told me of this man.<lb/>
+Sirrah, thou art said to have a stubborn soul.<lb/>
+That apprehends no further than this world,<lb/>
+And squarest thy life according. Thou'rt condemn'd:<lb/>
+But, for those earthly faults, I quit them all;<lb/>
+And pray thee take this mercy to provide<lb/>
+For better times to come. Friar, advise him;<lb/>
+I leave him to your hand. What muffled fellow's that?<lb/>
+
+
+</p></sp><sp><speaker>Provost</speaker>
+<p>This is another prisoner that I saved.<lb/>
+Who should have died when Claudio lost his head;<lb/>
+As like almost to Claudio as himself.<lb/>
+
+
+</p><p><stage>Unmuffles CLAUDIO</stage>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p><stage>[To ISABELLA]</stage></p><p>  If he be like your brother, for his sake<lb/>
+Is he pardon'd; and, for your lovely sake,<lb/>
+Give me your hand and say you will be mine.<lb/>
+He is my brother too: but fitter time for that.<lb/>
+By this Lord Angelo perceives he's safe;<lb/>
+Methinks I see a quickening in his eye.<lb/>
+Well, Angelo, your evil quits you well:<lb/>
+Look that you love your wife; her worth worth yours.<lb/>
+I find an apt remission in myself;<lb/>
+And yet here's one in place I cannot pardon.<lb/>
+
+
+</p><p><stage>To LUCIO</stage></p>
+
+
+<p>
+You, sirrah, that knew me for a fool, a coward,<lb/>
+One all of luxury, an ass, a madman;<lb/>
+Wherein have I so deserved of you,<lb/>
+That you extol me thus?<lb/>
+
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>'Faith, my lord. I spoke it but according to the<lb/>
+trick. If you will hang me for it, you may; but I<lb/>
+had rather it would please you I might be whipt.<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Whipt first, sir, and hanged after.<lb/>
+Proclaim it, provost, round about the city.<lb/>
+Is any woman wrong'd by this lewd fellow,<lb/>
+As I have heard him swear himself there's one<lb/>
+Whom he begot with child, let her appear,<lb/>
+And he shall marry her: the nuptial finish'd,<lb/>
+Let him be whipt and hang'd.<lb/>
+
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>I beseech your highness, do not marry me to a whore.<lb/>
+Your highness said even now, I made you a duke:<lb/>
+good my lord, do not recompense me in making me a cuckold.<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Upon mine honour, thou shalt marry her.<lb/>
+Thy slanders I forgive; and therewithal<lb/>
+Remit thy other forfeits. Take him to prison;<lb/>
+And see our pleasure herein executed.<lb/>
+
+
+</p></sp><sp><speaker>LUCIO</speaker>
+<p>Marrying a punk, my lord, is pressing to death,<lb/>
+whipping, and hanging.<lb/>
+
+
+</p></sp><sp><speaker>DUKE VINCENTIO</speaker>
+<p>Slandering a prince deserves it.<lb/>
+
+</p><p><stage>Exit Officers with LUCIO</stage></p>
+
+
+<p>
+She, Claudio, that you wrong'd, look you restore.<lb/>
+Joy to you, Mariana! Love her, Angelo:<lb/>
+I have confess'd her and I know her virtue.<lb/>
+Thanks, good friend Escalus, for thy much goodness:<lb/>
+There's more behind that is more gratulate.<lb/>
+Thanks, provost, for thy care and secrecy:<lb/>
+We shill employ thee in a worthier place.<lb/>
+Forgive him, Angelo, that brought you home<lb/>
+The head of Ragozine for Claudio's:<lb/>
+The offence pardons itself. Dear Isabel,<lb/>
+I have a motion much imports your good;<lb/>
+Whereto if you'll a willing ear incline,<lb/>
+What's mine is yours and what is yours is mine.<lb/>
+So, bring us to our palace; where we'll show<lb/>
+What's yet behind, that's meet you all should know.<lb/>
+
+
+</p></sp><p><stage>Exeunt</stage></p>
+
+
+
+</div2>
+
+</div1>
+
+</body>
+
+</text>
+
+</TEI.2>

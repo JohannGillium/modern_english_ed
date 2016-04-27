@@ -1,0 +1,843 @@
+<?xml version="1.0"?>
+
+<?dlps id="DubFree"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOnum SYSTEM "http://text.lib.virginia.edu/charent/iso-num.ent"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+
+]>
+<TEI.2 id="DubFree">
+<teiHeader type="migrated" creator="Etext">
+<fileDesc>
+<titleStmt>
+<title type="main">The Freedmen's Bureau</title>
+<title type="sort">freedmens bureau</title>
+<author>Du Bois, W. E. Burghardt</author>
+<respStmt>
+<resp>Creation of machine-readable version</resp>
+<name>Judy Boss, University of Omaha</name>
+</respStmt>
+<respStmt>
+<resp>Conversion to TEI-conformant markup</resp>
+<name>University of Virginia Library Electronic Text Center</name>
+</respStmt>
+</titleStmt>
+<extent>ca. <num type="kilobytes">46</num> kilobytes</extent>
+<publicationStmt>
+<publisher>University of Virginia Library</publisher>
+<pubPlace>Charlottesville, Virginia</pubPlace>
+<idno type="ETC">DubFree</idno>
+<date value="1994">1994</date>
+<availability status="public">
+<p n="copyright">Copyright &copy; 1994 by the Rector and Visitors of the University of Virginia</p>
+<p n="access">Publicly accessible</p>
+</availability>
+<idno type="uva-pid">uva-lib:475897</idno>
+</publicationStmt>
+<seriesStmt>
+<title>University of Virginia Library, Text collection</title>
+<idno type="uva-set">UVA-LIB-Text</idno>
+</seriesStmt>
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title type="main">The Freedmen's Bureau</title>
+<title type="sort">freedmens bureau</title>
+<author>W. E. Burghardt Du Bois</author>
+</titleStmt>
+<publicationStmt>
+<publisher>Atlantic Monthly</publisher>
+<pubPlace>New York</pubPlace>
+<date value="1901">1901</date>
+</publicationStmt>
+<seriesStmt>
+<p>Volume 87</p>
+</seriesStmt>
+<notesStmt>
+<note>
+<p>pp. 354-365</p>
+</note>
+</notesStmt>
+</biblFull>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Prepared for the University of Virginia Library Electronic Text Center</p>
+</projectDesc>
+<editorialDecl>
+<p>All quotation marks retained as data</p>
+<p>All unambiguous end-of-line hyphens have been removed, and the
+trailing part of a word has been joined to the preceding line.</p>
+<p id="ETC">Keywords in the header are a local Electronic Text Center scheme to aid in establishing analytical groupings</p>
+</editorialDecl>
+<refsDecl>
+<p>ID elements are given for each page element and are composed of the text's
+unique cryptogram and the given page number, as in SpeFQue1 for page one of
+Spenser's Faerie Queene.</p>
+</refsDecl>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date value="1901">1901</date>
+</creation>
+<langUsage>
+<language id="eng" usage="main">English</language>
+</langUsage>
+<textClass>
+<keywords>
+<term>CORD</term>
+<term>democracy</term>
+</keywords>
+<keywords>
+<term>nonfiction; prose</term>
+<term>African American</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change>
+<date value="1994-08">August 1994</date>
+<respStmt>
+<resp>corrector</resp>
+<name>Kelly Tetterton</name>
+</respStmt>
+<item>minimal TEI tagging</item>
+</change>
+<change>
+<date value="2005-07">July 2005</date>
+<respStmt>
+<resp>Corrector</resp>
+<name>John Ivor Carlson</name>
+</respStmt>
+<item>Converted SGML to XML. Fixed tagging.</item>
+</change>
+<change>
+<date value="2007-09">September 2007</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Ethan Gruber, University of Virginia Library</name>
+</respStmt>
+<item>Converted XML markup from TEI Lite to uva-dl-tei (TEI P4 with local customizations).</item>
+</change>
+<change>
+<date value="2008-01">January 2008</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Greg Murray, University of Virginia Library</name>
+</respStmt>
+<item>Programmatically updated TEI header markup (but not header content) for minimal compliance with current QA requirements.</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text id="d1">
+<body id="d2">
+<div1 type="article" id="d3">
+<head>Du Bois, W. E. Burghardt.  "The Freedmen's Bureau."  <hi rend="italic">Atlantic
+Monthly</hi> 87 (1901): 354-365.</head>
+
+<pb n="354"/>
+
+<p>THE problem of the twentieth century is the problem of the
+color line; the relation of the darker to the lighter races of men
+in Asia and Africa, in America and the islands of the sea.  It was
+a phase of this problem that caused the Civil War; and however much
+they who marched south and north in 1861 may have fixed on the
+technical points of union and local autonomy as a shibboleth, all
+nevertheless knew, as we know, that the question of Negro slavery
+was the deeper cause of the conflict.  Curious it was, too, how
+this deeper question ever forced itself to the surface, despite
+effort and disclaimer.  No sooner had Northern armies touched
+Southern soil than this old question, newly guised, sprang from the
+earth, &mdash; What shall be done with slaves?  Peremptory military
+commands, this way and that, could not answer the query; the
+Emancipation Proclamation seemed but to broaden and intensify the
+difficulties; and so at last there arose in the South a government
+of men called the Freedmen's Bureau, which lasted, legally, from
+1865 to 1872, but in a sense from 1861 to 1876, and which sought to
+settle the Negro problems in the United States of America.
+</p><p>It is the aim of this essay to study the Freedmen's Bureau, &mdash;
+the occasion of its rise, the character of its work, and its final
+success and failure, &mdash; not only as a part of American history, but
+above all as one of the most singular and interesting of the
+attempts made by a great nation to grapple with vast problems of
+race and social condition.
+</p><p>No sooner had the armies, east and west, penetrated Virginia
+and Tennessee than fugitive slaves appeared within their lines.
+They came at night, when the flickering camp fires of the blue
+hosts shone like vast unsteady stars along the black horizon: old
+men, and thin, with gray and tufted hair; women with frightened
+eyes, dragging whimpering, hungry children; men and girls, stalwart
+and gaunt, &mdash; a horde of starving vagabonds, homeless, helpless, and
+pitiable in their dark distress.  Two methods of treating these
+newcomers seemed equally logical to opposite sorts of minds.  Said
+some, "We have nothing to do with slaves."  "Hereafter," commanded
+Halleck, "no slaves should be allowed to come into your lines at
+all; if any come without your knowledge, when owners call for them,
+deliver them."  But others said, "We take grain and fowl; why not
+slaves?"  Whereupon Fremont, as early as August, 1861, declared the
+slaves of Missouri rebels free.  Such radical action was quickly
+countermanded, but at the same time the opposite policy could not
+be enforced; some of the black refugees declared themselves
+freemen, others showed their masters had deserted them, and still
+others were captured with forts and plantations.  Evidently, too,
+slaves were a source of strength to the Confederacy, and were being
+used as laborers and producers.  "They constitute a military
+resource," wrote the Secretary of War, late in 1861; "and being
+such, that they should not be turned over to the enemy is too plain
+to discuss."  So the tone of the army chiefs changed, Congress
+forbade the rendition of fugitives, and Butler's "contrabands" were
+welcomed as military laborers.  This complicated rather than solved
+the problem; for now the scattering fugitives became a steady
+stream, which flowed faster as the armies marched.
+</p><p>Then the long-headed man, with care-chiseled face, who sat in
+the White House, saw the inevitable, and emancipated the slaves of
+rebels on New Year's, 1863.  A month later Congress called
+earnestly for the Negro soldiers whom
+<pb n="355"/>
+the act of July,
+1862, had half grudgingly allowed to enlist.  Thus the barriers
+were leveled, and the deed was done.  The stream of fugitives
+swelled to a flood, and anxious officers kept inquiring: "What must
+be done with slaves arriving almost daily?  Am I to find food and
+shelter for women and children?"
+</p><p>It was a Pierce of Boston who pointed out the way, and thus
+became in a sense the founder of the Freedmen's Bureau.  Being
+specially detailed from the ranks to care for the freedmen at
+Fortress Monroe, he afterward founded the celebrated Port Royal
+experiment and started the Freedmen's Aid Societies.  Thus, under
+the timid Treasury officials and bold army officers, Pierce's plan
+widened and developed.  At first, the able-bodied men were enlisted
+as soldiers or hired as laborers, the women and children were
+herded into central camps under guard, and "superintendents of
+contrabands" multiplied here and there.  Centres of massed freedmen
+arose at Fortress Monroe, Va., Washington, D. C., Beaufort and Port
+Royal, S. C., New Orleans, La., Vicksburg and Corinth, Miss.,
+Columbus, Ky., Cairo, Ill., and elsewhere, and the army chaplains
+found here new and fruitful fields.
+</p><p>Then came the Freedmen's Aid Societies, born of the touching
+appeals for relief and help from these centres of distress.  There
+was the American Missionary Association, sprung from the <hi rend="italic">
+Amistad</hi>, and now full grown for work, the various church
+organizations, the National Freedmen's Relief Association, the
+American Freedmen's Union, the Western Freedmen's Aid Commission, &mdash;
+in all fifty or more active organizations, which sent clothes,
+money, school-books, and teachers southward.  All they did was
+needed, for the destitution of the freedmen was often reported as
+"too appalling for belief," and the situation was growing daily
+worse rather than better.
+</p><p>And daily, too, it seemed more plain that this was no ordinary
+matter of temporary relief, but a national crisis; for here loomed
+a labor problem of vast dimensions.  Masses of Negroes stood idle,
+or, if they worked spasmodically, were never sure of pay; and if
+perchance they received pay, squandered the new thing
+thoughtlessly.  In these and in other ways were camp life and the
+new liberty demoralizing the freedmen.  The broader economic
+organization thus clearly demanded sprang up here and there as
+accident and local conditions determined.  Here again Pierce's Port
+Royal plan of leased plantations and guided workmen pointed out the
+rough way.  In Washington, the military governor, at the urgent
+appeal of the superintendent, opened confiscated estates to the
+cultivation of the fugitives, and there in the shadow of the dome
+gathered black farm villages.  General Dix gave over estates to the
+freedmen of Fortress Monroe, and so on through the South.  The
+government and the benevolent societies furnished the means of
+cultivation, and the Negro turned again slowly to work.  The
+systems of control, thus started, rapidly grew, here and there,
+into strange little governments, like that of General Banks in
+Louisiana, with its 90,000 black subjects, its 50,000 guided
+laborers, and its annual budget of $100,000 and more.  It made out
+4000 pay rolls, registered all freedmen, inquired into grievances
+and redressed them, laid and collected taxes, and established a
+system of public schools.  So too Colonel Eaton, the superintendent
+of Tennessee and Arkansas, ruled over 100,000, leased and
+cultivated 7000 acres of cotton land, and furnished food for 10,000
+paupers.  In South Carolina was General Saxton, with his deep
+interest in black folk.  He succeeded Pierce and the Treasury
+officials, and sold forfeited estates, leased abandoned
+plantations, encouraged schools, and received from Sherman, after
+the terribly picturesque march to the sea, thousands of the
+wretched camp followers.
+<pb n="356"/>
+</p><p>Three characteristic things one might have seen in Sherman's
+raid through Georgia, which threw the new situation in deep and
+shadowy relief: the Conqueror, the Conquered, and the Negro.  Some
+see all significance in the grim front of the destroyer, and some
+in the bitter sufferers of the lost cause.  But to me neither
+soldier nor fugitive speaks with so deep a meaning as that dark and
+human cloud that clung like remorse on the rear of those swift
+columns, swelling at times to half their size, almost engulfing and
+choking them.  In vain were they ordered back, in vain were bridges
+hewn from beneath their feet; on they trudged and writhed and
+surged, until they rolled into Savannah, a starved and naked horde
+of tens of thousands.  There too came the characteristic military
+remedy: "The islands from Charleston south, the abandoned
+ricefields along the rivers for thirty miles back from the sea, and
+the country bordering the St. John's River, Florida, are reserved
+and set apart for the settlement of Negroes now made free by act of
+war."  So read the celebrated field order.
+</p><p>All these experiments, orders, and systems were bound to
+attract and perplex the government and the nation.  Directly after
+the Emancipation Proclamation, Representative Eliot had introduced
+a bill creating a Bureau of Emancipation, but it was never
+reported.  The following June, a committee of inquiry, appointed by
+the Secretary of War, reported in favor of a temporary bureau for
+the "improvement, protection, and employment of refugee freedmen,"
+on much the same lines as were afterward followed.  Petitions came
+in to President Lincoln from distinguished citizens and
+organizations, strongly urging a comprehensive and unified plan of
+dealing with the freedmen, under a bureau which should be "charged
+with the study of plans and execution of measures for easily
+guiding, and in every way judiciously and humanely aiding, the
+passage of our emancipated and yet to be emancipated blacks from
+the old condition of forced labor to their new state of voluntary
+industry."
+</p><p>Some half-hearted steps were early taken by the government to
+put both freedmen and abandoned estates under the supervision of
+the Treasury officials.  Laws of 1863 and 1864 directed them to
+take charge of and lease abandoned lands for periods not exceeding
+twelve months, and to "provide in such leases or otherwise for the
+employment and general welfare" of the freedmen.  Most of the army
+officers looked upon this as a welcome relief from perplexing
+"Negro affairs;" but the Treasury hesitated and blundered, and
+although it leased large quantities of land and employed many
+Negroes, especially along the Mississippi, yet it left the virtual
+control of the laborers and their relations to their neighbors in
+the hands of the army.
+</p><p>In March, 1864, Congress at last turned its attention to the
+subject, and the House passed a bill, by a majority of two,
+establishing a Bureau for Freedmen in the War Department.  Senator
+Sumner, who had charge of the bill in the Senate, argued that
+freedmen and abandoned lands ought to be under the same department,
+and reported a substitute for the House bill, attaching the Bureau
+to the Treasury Department.  This bill passed, but too late for
+action in the House.  The debate wandered over the whole policy of
+the administration and the general question of slavery, without
+touching very closely the specific merits of the measure in hand.
+</p><p>Meantime the election took place, and the administration,
+returning from the country with a vote of renewed confidence,
+addressed itself to the matter more seriously.  A conference
+between the houses agreed upon a carefully drawn measure which
+contained the chief provisions of Charles Sumner's bill, but made
+the proposed organization a department independent of both the War
+<pb n="357"/>
+and Treasury officials.  The bill was conservative, giving
+the new department "general superintendence of all freedmen."  It
+was to "establish regulations" for them, protect them, lease them
+lands, adjust their wages, and appear in civil and military courts
+as their "next friend."  There were many limitations attached to
+the powers thus granted, and the organization was made permanent.
+Nevertheless, the Senate defeated the bill, and a new conference
+committee was appointed.  This committee reported a new bill,
+February 28, which was whirled through just as the session closed,
+and which became the act of 1865 establishing in the War Department
+a "Bureau of Refugees, Freedmen, and Abandoned Lands."
+</p><p>This last compromise was a hasty bit of legislation, vague and
+uncertain in outline.  A Bureau was created, "to continue during
+the present War of Rebellion, and for one year thereafter," to
+which was given "the supervision and management of all abandoned
+lands, and the control of all subjects relating to refugees and
+freedmen," under "such rules and regulations as may be presented by
+the head of the Bureau and approved by the President."  A
+commissioner, appointed by the President and Senate, was to control
+the Bureau, with an office force not exceeding ten clerks.  The
+President might also appoint commissioners in the seceded states,
+and to all these offices military officials might be detailed at
+regular pay.  The Secretary of War could issue rations, clothing,
+and fuel to the destitute, and all abandoned property was placed in
+the hands of the Bureau for eventual lease and sale to ex-slaves in
+forty-acre parcels.
+</p><p>Thus did the United States government definitely assume charge
+of the emancipated Negro as the ward of the nation.  It was a
+tremendous undertaking.  Here, at a stroke of the pen, was erected
+a government of millions of men, &mdash; and not ordinary men, either, but
+black men emasculated by a peculiarly complete system of slavery,
+centuries old; and now, suddenly, violently, they come into a new
+birthright, at a time of war and passion, in the midst of the
+stricken, embittered population of their former masters.  Any man
+might well have hesitated to assume charge of such a work, with
+vast responsibilities, indefinite powers, and limited resources.
+Probably no one but a soldier would have answered such a call
+promptly; and indeed no one but a soldier could be called, for
+Congress had appropriated no money for salaries and expenses.
+</p><p>Less than a month after the weary emancipator passed to his
+rest, his successor assigned Major General Oliver O. Howard to duty
+as commissioner of the new Bureau.  He was a Maine man, then only
+thirty-five years of age.  He had marched with Sherman to the sea,
+had fought well at Gettysburg, and had but a year before been
+assigned to the command of the Department of Tennessee.  An honest
+and sincere men, with rather too much faith in human nature, little
+aptitude for systematic business and intricate detail, he was
+nevertheless conservative, hard-working, and, above all, acquainted
+at first-hand with much of the work before him.  And of that work
+it has been truly said, "No approximately correct history of
+civilization can ever be written which does not throw out in bold
+relief, as one of the great landmarks of political and social
+progress, the organization and administration of the Freedmen's
+Bureau."
+</p><p>On May 12, 1865, Howard was appointed, and he assumed the
+duties of his office promptly on the 15th, and began examining the
+field of work.  A curious mess he looked upon: little despotisms,
+communistic experiments, slavery, peonage, business speculations,
+organized charity, unorganized almsgiving, &mdash; all reeling on under
+the guise of helping the freedman, and all enshrined in the
+<pb n="358"/>
+smoke and blood of war and the cursing and silence of angry men.
+On May 19 the new government &mdash; for a government it really was &mdash;
+issued its constitution; commissioners were to be appointed in each
+of the seceded states, who were to take charge of "all subjects
+relating to refugees and freedmen," and all relief and rations were
+to be given by their consent alone.  The Bureau invited continued
+cooperation with benevolent societies, and declared, "It will be
+the object of all commissioners to introduce practicable systems of
+compensated labor," and to establish schools.  Forthwith nine
+assistant commissioners were appointed.  They were to hasten to
+their fields of work; seek gradually to close relief
+establishments, and make the destitute self-supporting; act as
+courts of law where there were no courts, or where Negroes were not
+recognized in them as free; establish the institution of marriage
+among ex-slaves, and keep records; see that freedmen were free to
+choose their employers, and help in making fair contracts for them;
+and finally, the circular said, "Simple good faith, for which we
+hope on all hands for those concerned in the passing away of
+slavery, will especially relieve the assistant commissioners in the
+discharge of their duties toward the freedmen, as well as promote
+the general welfare."
+</p><p>No sooner was the work thus started, and the general system
+and local organization in some measure begun, than two grave
+difficulties appeared which changed largely the theory and outcome
+of Bureau work.  First, there were the abandoned lands of the
+South.  It had long been the more or less definitely expressed
+theory of the North that all the chief problems of emancipation
+might be settled by establishing the slaves on the forfeited lands
+of their masters, &mdash; a sort of poetic justice, said some.  But this
+poetry done into solemn prose meant either wholesale confiscation
+of private property in the South, or vast appropriations.  Now
+Congress had not appropriated a cent, and no sooner did the
+proclamations of general amnesty appear than the 800,000 acres of
+abandoned lands in the hands of the Freedmen's Bureau melted
+quickly away.  The second difficulty lay in perfecting the local
+organization of the Bureau throughout the wide field of work.
+Making a new machine and sending out officials of duly ascertained
+fitness for a great work of social reform is no child's task; but
+this task was even harder, for a new central organization had to be
+fitted on a heterogeneous and confused but already existing system
+of relief and control of ex-slaves; and the agents available for
+this work must be sought for in an army still busy with war
+operations, &mdash; men in the very nature of the case ill fitted for
+delicate social work, &mdash; or among the questionable camp followers of
+an invading host.  Thus, after a year's work, vigorously as it was
+pushed, the problem looked even more difficult to grasp and solve
+than at the beginning.  Nevertheless, three things that year's work
+did, well worth the doing: it relieved a vast amount of physical
+suffering; it transported 7000 fugitives from congested centres
+back to the farm; and, best of all, it inaugurated the crusade of
+the New England schoolma'am.
+</p><p>The annals of this Ninth Crusade are yet to be written, the
+tale of a mission that seemed to our age far more quixotic than the
+quest of St. Louis seemed to his.  Behind the mists of ruin and
+rapine waved the calico dresses of women who dared, and after the
+hoarse mouthings of the field guns rang the rhythm of the alphabet.
+Rich and poor they were, serious and curious.  Bereaved now of a
+father, now of a brother, now of more than these, they came seeking
+a life work in planting New England schoolhouses among the white
+and black of the South.  They did their work well.  In that first
+year they taught 100,000 souls, and more.
+<pb n="359"/>
+</p><p>Evidently, Congress must soon legislate again on the hastily
+organized Bureau, which had so quickly grown into wide significance
+and vast possibilities.  An institution such as that was well-nigh
+as difficult to end as to begin.  Early in 1866 Congress took up
+the matter, when Senator Trumbull, of Illinois, introduced a bill
+to extend the Bureau and enlarge its powers.  This measure
+received, at the hands of Congress, far more thorough discussion
+and attention than its predecessor.  The war cloud had thinned
+enough to allow a clearer conception of the work of emancipation.
+The champions of the bill argued that the strengthening of the
+Freedmen's Bureau was still a military necessity; that it was
+needed for the proper carrying out of the Thirteenth Amendment, and
+was a work of sheer justice to the ex-slave, at a trifling cost to
+the government.  The opponents of the measure declared that the war
+was over, and the necessity for war measures past; that the Bureau,
+by reason of its extraordinary powers, was clearly unconstitutional
+in time of peace, and was destined to irritate the South and
+pauperize the freedmen, at a final cost of possibly hundreds of
+millions.  Two of these arguments were unanswered, and indeed
+unanswerable: the one that the extraordinary powers of the Bureau
+threatened the civil rights of all citizens; and the other that the
+government must have power to do what manifestly must be done, and
+that present abandonment of the freedmen meant their practical
+enslavement.  The bill which finally passed enlarged and made
+permanent the Freedmen's Bureau.  It was promptly vetoed by
+President Johnson, as "unconstitutional," "unnecessary," and
+"extrajudicial," and failed of passage over the veto.  Meantime,
+however, the breach between Congress and the President began to
+broaden, and a modified form of the lost bill was finally passed
+over the President's second veto, July 16.
+</p><p>The act of 1866 gave the Freedmen's Bureau its final form, &mdash;
+the form by which it will be known to posterity and judged of men.
+It extended the existence of the Bureau to July, 1868; it
+authorized additional assistant commissioners, the retention of
+army officers mustered out of regular service, the sale of certain
+forfeited lands to freedmen on nominal terms, the sale of
+Confederate public property for Negro schools, and a wider field of
+judicial interpretation and cognizance.  The government of the un-reconstructed South was thus put very largely in the hands of the
+Freedmen's Bureau, especially as in many cases the departmental
+military commander was now made also assistant commissioner.  It
+was thus that the Freedmen's Bureau became a full-fledged
+government of men.  It made laws, executed them and interpreted
+them; it laid and collected taxes, defined and punished crime,
+maintained and used military force, and dictated such measures as
+it thought necessary and proper for the accomplishment of its
+varied ends.  Naturally, all these powers were not exercised
+continuously nor to their fullest extent; and yet, as General
+Howard has said, "scarcely any subject that has to be legislated
+upon in civil society failed, at one time or another, to demand the
+action of this singular Bureau."
+</p><p>To understand and criticise intelligently so vast a work, one
+must not forget an instant the drift of things in the later
+sixties: Lee had surrendered, Lincoln was dead, and Johnson and
+Congress were at loggerheads; the Thirteenth Amendment was adopted,
+the Fourteenth pending, and the Fifteenth declared in force in
+1870.  Guerrilla raiding, the ever present flickering after-flame
+of war, was spending its force against the Negroes, and all the
+Southern land was awakening as from some wild dream to poverty and
+social revolution.  In a time of perfect calm, amid willing
+neighbors and streaming wealth, the
+<pb n="360"/>
+social uplifting of
+4,000,000 slaves to an assured and self-sustaining place in the
+body politic and economic would have been an herculean task; but
+when to the inherent difficulties of so delicate and nice a social
+operation were added the spite and hate of conflict, the Hell of
+War; when suspicion and cruelty were rife, and gaunt Hunger wept
+beside Bereavement, &mdash; in such a case, the work of any instrument of
+social regeneration was in large part foredoomed to failure.  The
+very name of the Bureau stood for a thing in the South which for
+two centuries and better men had refused even to argue, &mdash; that life
+amid free Negroes was simply unthinkable, the maddest of
+experiments.  The agents which the Bureau could command varied all
+the way from unselfish philanthropists to narrow-minded busybodies
+and thieves; and even though it be true that the average was far
+better than the worst, it was the one fly that helped to spoil the
+ointment.  Then, amid all this crouched the freed slave, bewildered
+between friend and foe.  He had emerged from slavery: not the worst
+slavery in the world, not a slavery that made all life unbearable, &mdash;
+rather, a slavery that had here and there much of kindliness,
+fidelity, and happiness, &mdash; but withal slavery, which, so far as
+human aspiration and desert were concerned, classed the black man
+and the ox together.  And the Negro knew full well that, whatever
+their deeper convictions may have been, Southern men had fought
+with desperate energy to perpetuate this slavery, under which the
+black masses, with half-articulate thought, had writhed and
+shivered.  They welcomed freedom with a cry.  They fled to the
+friends that had freed them.  They shrank from the master who still
+strove for their chains.  So the cleft between the white and black
+South grew.  Idle to say it never should have been; it was as
+inevitable as its results were pitiable.  Curiously incongruous
+elements were left arrayed against each other: the North, the
+government, the carpetbagger, and the slave, here; and there, all
+the South that was white, whether gentleman or vagabond, honest man
+or rascal, lawless murderer or martyr to duty.
+</p><p>Thus it is doubly difficult to write of this period calmly, so
+intense was the feeling, so mighty the human passions, that swayed
+and blinded men.  Amid it all two figures ever stand to typify that
+day to coming men: the one a gray-haired gentleman, whose fathers
+had quit themselves like men, whose sons lay in nameless graves,
+who bowed to the evil of slavery because its abolition boded untold
+ill to all; who stood at last, in the evening of life, a blighted,
+ruined form, with hate in his eyes.  And the other, a form hovering
+dark and mother-like, her awful face black with the mists of
+centuries, had aforetime bent in love over her white master's
+cradle, rocked his sons and daughters to sleep, and closed in death
+the sunken eyes of his wife to the world; ay, too, had laid herself
+low to his lust and borne a tawny man child to the world, only to
+see her dark boy's limbs scattered to the winds by midnight
+marauders riding after Damned Niggers.  These were the saddest
+sights of that woeful day; and no man clasped the hands of these
+two passing figures of the present-past; but hating they went to
+their long home, and hating their children's children live to-day.
+</p><p>Here, then, was the field of work for the Freedmen's Bureau;
+and since, with some hesitation, it was continued by the act of
+1868 till 1869, let us look upon four years of its work as a whole.
+There were, in 1868, 900 Bureau officials scattered from Washington
+to Texas, ruling, directly and indirectly, many millions of men.
+And the deeds of these rulers fall mainly under seven heads, &mdash; the
+relief of physical suffering, the overseeing of the beginnings of
+free labor, the buying and selling of land, the establishment of
+schools, the paying of bounties, the administration
+<pb n="361"/>
+of
+justice, and the financiering of all these activities.  Up to June,
+1869, over half a million patients had been treated by Bureau
+physicians and surgeons, and sixty hospitals and asylums had been
+in operation.  In fifty months of work 21,000,000 free rations were
+distributed at a cost of over $4,000,000, &mdash; beginning at the rate of
+30,000 rations a day in 1865, and discontinuing in 1869.  Next came
+the difficult question of labor.  First, 30,000 black men were
+transported from the refuges and relief stations back to the farms,
+back to the critical trial of a new way of working.  Plain, simple
+instructions went out from Washington, &mdash; the freedom of laborers to
+choose employers, no fixed rates of wages, no peonage or forced
+labor.  So far so good; but where local agents differed <hi rend="italic">toto
+coelo</hi> in capacity and character, where the personnel was
+continually changing, the outcome was varied.  The largest element
+of success lay in the fact that the majority of the freedmen were
+willing, often eager, to work.  So contracts were written, &mdash; 50,000
+in a single state, &mdash; laborers advised, wages guaranteed, and
+employers supplied.  In truth, the organization became a vast labor
+bureau; not perfect, indeed, &mdash; notably defective here and there, &mdash;
+but on the whole, considering the situation, successful beyond the
+dreams of thoughtful men.  The two great obstacles which confronted
+the officers at every turn were the tyrant and the idler: the
+slaveholder, who believed slavery was right, and was determined to
+perpetuate it under another name; and the freedman, who regarded
+freedom as perpetual rest.  These were the Devil and the Deep Sea.
+</p><p>In the work of establishing the Negroes as peasant proprietors
+the Bureau was severely handicapped, as I have shown.
+Nevertheless, something was done.  Abandoned lands were leased so
+long as they remained in the hands of the Bureau, and a total
+revenue of $400,000 derived from black tenants.  Some other lands
+to which the nation had gained title were sold, and public lands
+were opened for the settlement of the few blacks who had tools and
+capital.  The vision of landowning, however, the righteous and
+reasonable ambition for forty acres and a mule which filled the
+freedmen's dreams, was doomed in most cases to disappointment.  And
+those men of marvelous hind-sight, who to-day are seeking to preach
+the Negro back to the soil, know well, or ought to know, that it
+was here, in 1865, that the finest opportunity of binding the black
+peasant to the soil was lost.  Yet, with help and striving, the
+Negro gained some land, and by 1874, in the one state of Georgia,
+owned near 350,000 acres.
+</p><p>The greatest success of the Freedmen's Bureau lay in the
+planting of the free school among Negroes, and the idea of free
+elementary education among all classes in the South.  It not only
+called the schoolmistress through the benevolent agencies, and
+built them schoolhouses, but it helped discover and support such
+apostles of human development as Edmund Ware, Erastus Cravath, and
+Samuel Armstrong.  State superintendents of education were
+appointed, and by 1870 150,000 children were in school.  The
+opposition to Negro education was bitter in the South, for the
+South believed an educated Negro to be a dangerous Negro.  And the
+South was not wholly wrong; for education among all kinds of men
+always has had, and always will have, an element of danger and
+revolution, of dissatisfaction and discontent.  Nevertheless, men
+strive to know.  It was some inkling of this paradox, even in the
+unquiet days of the Bureau, that allayed an opposition to human
+training, which still to-day lies smouldering, but not flaming.
+Fisk, Atlanta, Howard, and Hampton were founded in these days, and
+nearly $6,000,000 was expended in five years for educational work,
+$750,000 of which came from the freedmen themselves.
+<pb n="362"/>
+</p><p>Such contributions, together with the buying of land and
+various other enterprises, showed that the ex-slave was handling
+some free capital already.  The chief initial source of this was
+labor in the army, and his pay and bounty as a soldier.  Payments
+to Negro soldiers were at first complicated by the ignorance of the
+recipients, and the fact that the quotas of colored regiments from
+Northern states were largely filled by recruits from the South,
+unknown to their fellow soldiers.  Consequently, payments were
+accompanied by such frauds that Congress, by joint resolution in
+1867, put the whole matter in the hands of the Freedmen's Bureau.
+In two years $6,000,000 was thus distributed to 5000 claimants, and
+in the end the sum exceeded $8,000,000.  Even in this system, fraud
+was frequent; but still the work put needed capital in the hands of
+practical paupers, and some, at least, was well spent.
+</p><p>The most perplexing and least successful part of the Bureau's
+work lay in the exercise of its judicial functions.  In a
+distracted land where slavery had hardly fallen, to keep the strong
+from wanton abuse of the weak, and the weak from gloating
+insolently over the half-shorn strength of the strong, was a
+thankless, hopeless task.  The former masters of the land were
+peremptorily ordered about, seized and imprisoned, and punished
+over and again, with scant courtesy from army officers.  The former
+slaves were intimidated, beaten, raped, and butchered by angry and
+revengeful men.  Bureau courts tended to become centres simply for
+punishing whites, while the regular civil courts tended to become
+solely institutions for perpetuating the slavery of blacks.  Almost
+every law and method ingenuity could devise was employed by the
+legislatures to reduce the Negroes to serfdom, &mdash; to make them the
+slaves of the state, if not of individual owners; while the Bureau
+officials too often were found striving to put the "bottom rail on
+top," and give the freedmen a power and independence which they
+could not yet use.  It is all well enough for us of another
+generation to wax wise with advice to those who bore the burden in
+the heat of the day.  It is full easy now to see that the man who
+lost home, fortune, and family at a stroke, and saw his land ruled
+by "mules and niggers," was really benefited by the passing of
+slavery.  It is not difficult now to say to the young freedman,
+cheated and cuffed about, who has seen his father's head beaten to
+a jelly and his own mother namelessly assaulted, that the meek
+shall inherit the earth.  Above all, nothing is more convenient
+than to heap on the Freedmen's Bureau all the evils of that evil
+day, and damn it utterly for every mistake and blunder that was
+made.
+</p><p>All this is easy, but it is neither sensible nor just.  Some
+one had blundered, but that was long before Oliver Howard was born;
+there was criminal aggression and heedless neglect, but without
+some system of control there would have been far more than there
+was.  Had that control been from within, the Negro would have been
+reenslaved, to all intents and purposes.  Coming as the control did
+from without, perfect men and methods would have bettered all
+things; and even with imperfect agents and questionable methods,
+the work accomplished was not undeserving of much commendation.
+The regular Bureau court consisted of one representative of the
+employer, one of the Negro, and one of the Bureau.  If the Bureau
+could have maintained a perfectly judicial attitude, this
+arrangement would have been ideal, and must in time have gained
+confidence; but the nature of its other activities and the
+character of its personnel prejudiced the Bureau in favor of the
+black litigants, and led without doubt to much injustice and
+annoyance.  On the other hand, to leave the Negro in the hands of
+Southern courts was impossible.
+<pb n="363"/>
+</p><p>What the Freedmen's Bureau cost the nation is difficult to
+determine accurately.  Its methods of bookkeeping were not good,
+and the whole system of its work and records partook of the hurry
+and turmoil of the time.  General Howard himself disbursed some
+$15,000,000 during his incumbency; but this includes the bounties
+paid colored soldiers, which perhaps should not be counted as an
+expense of the Bureau.  In bounties, prize money, and all other
+expenses, the Bureau disbursed over $20,000,000 before all of its
+departments were finally closed.  To this ought to be added the
+large expenses of the various departments of Negro affairs before
+1865; but these are hardly extricable from war expenditures, nor
+can we estimate with any accuracy the contributions of benevolent
+societies during all these years.
+
+</p><p>Such was the work of the Freedmen's Bureau.  To sum it up in
+brief, we may say: it set going a system of free labor; it
+established the black peasant proprietor; it secured the
+recognition of black freemen before courts of law; it founded the
+free public school in the South.  On the other hand, it failed to
+establish good will between ex-masters and freedmen; to guard its
+work wholly from paternalistic methods that discouraged self-reliance; to make Negroes landholders in any considerable numbers.
+Its successes were the result of hard work, supplemented by the aid
+of philanthropists and the eager striving of black men.  Its
+failures were the result of bad local agents, inherent difficulties
+of the work, and national neglect.  The Freedmen's Bureau expired
+by limitation in 1869, save its educational and bounty departments.
+The educational work came to an end in 1872, and General Howard's
+connection with the Bureau ceased at that time.  The work of paying
+bounties was transferred to the adjutant general's office, where it
+was continued three or four years longer.
+</p><p>Such an institution, from its wide powers, great
+responsibilities, large control of moneys, and generally
+conspicuous position, was naturally open to repeated and bitter
+attacks.  It sustained a searching congressional investigation at
+the instance of Fernando Wood in 1870.  It was, with blunt
+discourtesy, transferred from Howard's control, in his absence, to
+the supervision of Secretary of War Belknap in 1872, on the
+Secretary's recommendation.  Finally, in consequence of grave
+intimations of wrongdoing made by the Secretary and his
+subordinates, General Howard was court-martialed in 1874.  In each
+of these trials, and in other attacks, the commissioner of the
+Freedmen's Bureau was exonerated from any willful misdoing, and his
+work heartily commended.  Nevertheless, many unpleasant things were
+brought to light: the methods of transacting the business of the
+Bureau were faulty; several cases of defalcation among officials in
+the field were proven, and further frauds hinted at; there were
+some business transactions which savored of dangerous speculation,
+if not dishonesty; and, above all, the smirch of the Freedmen's
+Bank, which, while legally distinct from, was morally and
+practically a part of the Bureau, will ever blacken the record of
+this great institution.  Not even ten additional years of slavery
+could have done as much to throttle the thrift of the freedmen as
+the mismanagement and bankruptcy of the savings bank chartered by
+the nation for their especial aid.  Yet it is but fair to say that
+the perfect honesty of purpose and unselfish devotion of General
+Howard have passed untarnished through the fire of criticism.  Not
+so with all his subordinates, although in the case of the great
+majority of these there were shown bravery and devotion to duty,
+even though sometimes linked to narrowness and incompetency.
+</p><p>The most bitter attacks on the Freedmen's Bureau were aimed
+not so much at its conduct or policy under the law as
+<pb n="364"/>
+at
+the necessity for any such organization at all.  Such attacks came
+naturally from the border states and the South, and they were
+summed up by Senator Davis, of Kentucky, when he moved to entitle
+the act of 1866 a bill "to promote strife and conflict between the
+white and black races . . . by a grant of unconstitutional power."
+The argument was of tremendous strength, but its very strength was
+its weakness.  For, argued the plain common sense of the nation, if
+it is unconstitutional, unpracticable, and futile for the nation to
+stand guardian over its helpless wards, then there is left but one
+alternative: to make those wards their own guardians by arming them
+with the ballot.  The alternative offered the nation then was not
+between full and restricted Negro suffrage; else every sensible
+man, black and white, would easily have chosen the latter.  It was
+rather a choice between suffrage and slavery, after endless blood
+and gold had flowed to sweep human bondage away.  Not a single
+Southern legislature stood ready to admit a Negro, under any
+conditions, to the polls; not a single Southern legislature
+believed free Negro labor was possible without a system of
+restrictions that took all its freedom away; there was scarcely a
+white man in the South who did not honestly regard emancipation as
+a crime, and its practical nullification as a duty.  In such a
+situation, the granting of the ballot to the black man was a
+necessity, the very least a guilty nation could grant a wronged
+race.  Had the opposition to government guardianship of Negroes
+been less bitter, and the attachment to the slave system less
+strong, the social seer can well imagine a far better policy: a
+permanent Freedmen's Bureau, with a national system of Negro
+schools; a carefully supervised employment and labor office; a
+system of impartial protection before the regular courts; and such
+institutions for social betterment as savings banks, land and
+building associations, and social settlements.  All this vast
+expenditure of money and brains might have formed a great school of
+prospective citizenship, and solved in a way we have not yet solved
+the most perplexing and persistent of the Negro problems.
+</p><p>That such an institution was unthinkable in 1870 was due in
+part to certain acts of the Freedmen's Bureau itself.  It came to
+regard its work as merely temporary, and Negro suffrage as a final
+answer to all present perplexities.  The political ambition of many
+of its agents and proteges led it far afield into questionable
+activities, until the South, nursing its own deep prejudices, came
+easily to ignore all the good deeds of the Bureau, and hate its
+very name with perfect hatred.  So the Freedmen's Bureau died, and
+its child was the Fifteenth Amendment.
+</p><p>The passing of a great human institution before its work is
+done, like the untimely passing of a single soul, but leaves a
+legacy of striving for other men.  The legacy of the Freedmen's
+Bureau is the heavy heritage of this generation.  Today, when new
+and vaster problems are destined to strain every fibre of the
+national mind and soul, would it not be well to count this legacy
+honestly and carefully?  For this much all men know: despite
+compromise, struggle, war, and struggle, the Negro is not free.  In
+the backwoods of the Gulf states, for miles and miles, he may not
+leave the plantation of his birth; in well-nigh the whole rural
+South the black farmers are peons, bound by law and custom to an
+economic slavery, from which the only escape is death or the
+penitentiary.  In the most cultured sections and cities of the
+South the Negroes are a segregated servile caste, with restricted
+rights and privileges.  Before the courts, both in law and custom,
+they stand on a different and peculiar basis.  Taxation without
+representation is the rule of their political life.  And the result
+of all this is, and in nature must have been, lawlessness and
+<pb n="365"/>
+crime.  That is the large legacy of the Freedmen's Bureau, the
+work it did not do because it could not.
+
+</p><p>I have seen a land right merry with the sun; where children
+sing, and rolling hills lie like passioned women, wanton with
+harvest.  And there in the King's Highway sat and sits a figure,
+veiled and bowed, by which the traveler's footsteps hasten as they
+go.  On the tainted air broods fear.  Three centuries' thought has
+been the raising and unveiling of that bowed human heart, and now,
+behold, my fellows, a century new for the duty and the deed.  The
+problem of the twentieth century is the problem of the color line.
+</p>
+<signed>                              <hi rend="italic">W. E. Burghardt Du Bois.</hi>
+</signed>
+
+</div1>
+</body>
+</text>
+</TEI.2>

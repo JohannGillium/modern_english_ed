@@ -1,0 +1,792 @@
+<?xml version="1.0"?>
+
+<?dlps id="WilWand"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOnum SYSTEM "http://text.lib.virginia.edu/charent/iso-num.ent"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+ 
+]> 
+<TEI.2 id="WilWand"> 
+<teiHeader type="migrated" creator="Etext">
+<fileDesc>
+<titleStmt>
+<title type="main">A Wandering Samaritan</title>
+<title type="sort">wandering samaritan</title>
+<author>Wilkins, Mary E.</author>
+<respStmt>
+<resp>Creation of machine-readable version:</resp>  
+<name>Judy Boss</name>  
+<resp>Conversion to TEI.2-conformant markup:</resp>  
+<name>Lisa Goldberg, University of Virginia Library Electronic Text Center.</name>
+</respStmt>
+</titleStmt>  
+<extent>ca. <num type="kilobytes">29</num> kilobytes</extent>  
+<publicationStmt>
+<publisher>University of Virginia Library</publisher>
+<pubPlace>Charlottesville, Virginia</pubPlace>  
+<idno type="ETC">WilWand</idno>  
+<date value="1996">1996</date>
+<availability status="public">
+<p n="copyright">Copyright &copy; 1996 by the Rector and Visitors of the University of Virginia</p>
+<p n="access">Publicly accessible</p>
+</availability>
+<idno type="uva-pid">uva-lib:476556</idno>
+</publicationStmt>
+<seriesStmt>
+<title>University of Virginia Library, Text collection</title>
+<idno type="uva-set">UVA-LIB-Text</idno>
+</seriesStmt>  
+<notesStmt>
+<note>
+<p>Judy Boss has made the following changes to the text: page 28, 
+para. 12: Lijah's] 'Lijah's; page 29, para. 5: She] "She; page 30, 
+para. 10: s'ppose] s'pose; page 30, para. 19: Well that's] Well, 
+that's; page 30, para. 31: aint me?] ain't me?; page 31, para. 12: 
+a-goin] a-goin'; page 31, para. 15: I don't] "I don't; page 31, para. 
+36: considerable] consider'ble</p>
+</note>
+</notesStmt>  
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title type="main">A Wandering Samaritan</title>
+<title level="j">Cosmopolitan</title>
+<title type="sort">wandering samaritan</title>
+<author>Mary E. Wilkins</author>
+</titleStmt>  
+<extent>pp. 28-33</extent>  
+<publicationStmt>
+<publisher>Schlicht &amp; Field Co., Publishers and Printers</publisher>  
+<pubPlace>Rochester, NY</pubPlace>  
+<date value="1886-09">September 1886</date>  
+<idno type="callNo">Print copy consulted: Microfilm version, University of Virginia 
+library call no. S-147 reel 660</idno>
+</publicationStmt>  
+<notesStmt>
+<note>
+<p>The Cosmopolitan. A Monthly Illustrated Magazine. Vol. II. 
+September 1886, pp. 28-33</p>
+</note>  
+</notesStmt>
+</biblFull>
+</sourceDesc>
+</fileDesc>  
+<encodingDesc>
+<projectDesc>
+<p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+</projectDesc>  
+<editorialDecl>
+<p>All quotation marks retained as data.</p>  
+<p>All unambiguous end-of-line hyphens have been removed, and the trailing part of a word has been joined to the preceding line.</p>  
+<p>Keywords in the header are a local Electronic Text Center scheme to aid in establishing analytical groupings.</p>
+</editorialDecl>  
+</encodingDesc>  
+<profileDesc>
+<creation>
+<date value="1886">1886</date>
+</creation>  
+<langUsage>
+<language id="eng" usage="main">English</language>
+</langUsage>  
+<textClass>
+<keywords>  
+<term>Women Writers</term>
+</keywords>  
+<keywords>
+<term>fiction; prose</term>
+</keywords>
+</textClass>
+</profileDesc>  
+<revisionDesc>
+<change>
+<date value="1996-11">November 1996</date>  
+<respStmt>
+<resp>corrector</resp>  
+<name>Lisa Goldberg, University of Virginia Library Electronic Text Center</name>
+</respStmt>  
+<item>Added TEI header and tags</item>
+</change>  
+<change>
+<date value="2005-07">July 2005</date>
+<respStmt>
+<resp>Corrector</resp>
+<name>Margaret Konkol</name>
+</respStmt>
+<item>Converted SGML to XML and fixed tagging.</item>
+</change>
+<change>
+<date value="2007-09">September 2007</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Ethan Gruber, University of Virginia Library</name>
+</respStmt>
+<item>Converted XML markup from TEI Lite to uva-dl-tei (TEI P4 with local customizations).</item>
+</change>
+<change>
+<date value="2008-01">January 2008</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Greg Murray, University of Virginia Library</name>
+</respStmt>
+<item>Programmatically updated TEI header markup (but not header content) for minimal compliance with current QA requirements.</item>
+</change>
+</revisionDesc>
+</teiHeader>  
+ 
+<text id="d1">  
+<body id="d2"> 
+
+<div1 type="story" id="d3">  
+<head>A WANDERING SAMARITAN. 
+<lb/> 
+BY MARY E. WILKINS. 
+</head> 
+ <pb n="28"/>  
+ 
+<p>A LOW stone wall bordered the lane on either side.  There were 
+clumps of tansy and yarrow with straggling bushes of meadow-sweet 
+and hardback clustering closely around the loosely piled rocks.  
+Plenty of poison ivy vines clambered over them too.  The lane was 
+narrow and grassy; even the deep wheel-ruts through the center were 
+overgrown with grass.  And everything was dusty; there had been a 
+little drought lately; the leaves were powdered thick with dust. 
+ 
+</p><p>It was a hot day in August, and about four o'clock in the 
+afternoon.  Midway of the lane stood an old twisted apple tree.  
+Underneath it was a little circle of shade.  An old man sat beneath 
+the tree, with his back against the shaggy, mossy trunk.  He was so 
+motionless that a passer through the lane, happening accidentally 
+to glance his way, would have taken in the fact of the proximity of 
+a second animated being with a strange shock. 
+ 
+</p><p>He looked as much a part of inanimate nature as the stones in 
+the wall.  The sudden conviction of the possibility of motion in 
+him was enough to send a startled thrill through one.  If his eyes 
+had been closed in sleep, it might have been different; but they 
+were wide open, staring peacefully straight ahead at the flowering 
+bushes opposite.  They were of a light blue color, large and clear, 
+and did not look filmy with age, though the man must have been over 
+eighty. 
+ 
+</p><p>His white hair, as fine and thick as wool, stood out on either 
+side of his placid face.  He wore no beard.  His mouth was wide and 
+curved slightly, not so much into a smile as into an expression of 
+pleasant serenity.  His rusty, black clothes were loose and baggy; 
+an old valise lay on the grass near him, and a stout stick that had 
+evidently been cut for a cane. 
+ 
+</p><p>He staid there motionless for a half hour or so.  No one came 
+through the lane to disturb him.  The bees and the butterflies 
+whirred by unceasingly, and the dusty sunbeams, which penetrated 
+the apple-boughs here and there, slanted a little more.  Then he 
+arose, took his valise on his arm, and moved slowly up the lane, 
+leaning on his stout stick. 
+ 
+</p><p>A few rods farther on, the lane inclined slightly to the 
+right, and then a small story-and-a-half white house, which marked 
+its terminus, appeared.  The lane merged imperceptibly into the 
+grassy door yard.  There was a green curved trellis, which looked 
+like a hood, over the door, and a prairie rose tree clung to it, 
+but the roses were all gone by. 
+ 
+</p><p>The sun had moved so far toward the west that a cool shadow 
+lay over the front of the house and the yard.  There were two 
+windows on each side of the front door.  The blinds of one of them 
+were flung wide open, and a light&mdash;haired head of a woman and an arm 
+and hand moving with the regular motion of sewing were visible. 
+ 
+</p><p>The woman rose quietly and came to the door, when she looked 
+out and saw the old man. 
+ 
+</p><p>"Is that you, Doctor Ware?" said she. 
+ 
+</p><p>She was a slim, round-shouldered woman.  Her light hair was 
+strained back tightly from a full, blue-veined forehead.  There was 
+a sweet expression about her thin, nervous mouth. 
+ 
+</p><p>"Yes, it's me; I'm on my summer travels ag'in.  How's all your 
+folks, Miss Hatton?" 
+ 
+</p><p>"Well, Mary Anne ain't very smart.  I've been wishin' for some 
+time that you'd come along.  She's been takin' some doctor's stuff, 
+but it ain't seemed to do her much good, and I thought mebby some 
+of your yerbs would give her a start.  Come right in.  'Lijah's out 
+in the field to work, but he'll be real glad to see you.  He's said 
+several times lately that it seemed 's if 'twas 'bout time for you 
+to be comin'." 
+ 
+</p><p>The old man followed her into the cool, sparsely-furnished 
+sitting-room, and seated himself in the large cane-seated rocker 
+that she placed for him. 
+ 
+</p><p>"Mary Anne!" she called then, standing in the door, "come, 
+come down stairs; there's somebody here wants to see you!" 
+ 
+</p><p>Mary Anne, a slender girl, who looked like her mother, except 
+that she was younger  
+ 
+<pb n="29"/>   
+ 
+and sweeter, came down presently.  She 
+walked weakly, there was a bright flush on her soft cheeks, and her 
+blue eyes had an eager, inquiring look in them. 
+ 
+</p><p>"Who is it?" she asked tremulously.  "Oh, Doctor Ware!" 
+ 
+</p><p>All the eagerness faded from her eyes. 
+ 
+</p><p>"Well, Mary Anne, how air ye?" 
+ 
+</p><p>"Pretty well, thank you." 
+ 
+</p><p>"That's what she allers says," remarked her mother.  "She 
+ain't well a bit!" 
+ 
+</p><p>The girl did not contradict her; she dropped listlessly into 
+a chair. 
+ 
+</p><p>After a little while, her mother beckoned Dr. Ware furtively 
+out of the room, and they had a whispered conference out in the 
+kitchen.  Mary Anne crept wearily up stairs and laid down on her 
+bed again.  Her mother heard her. 
+ 
+</p><p>"There she goes to lay down again," said she; "she don't seem 
+to hev no ambition nor interest in anythin'.  Her father an' me hev 
+tried an' tried, but we can't rouse her a bit.  Here's the water 
+for the yerbs, if you've got 'em ready." 
+ 
+</p><p>Soon a peculiar, pungent steam from the simmering juices of 
+certain medicinal plants floated through the house.  The old man 
+brooded over the bubbling kettle like a benevolent witch. 
+ 
+</p><p>"There ain't anythin' like this to give anybody an appetite, 
+an' strengthen' of 'em up," he said complacently, as he poured 
+finally the greenish-black decoction into a bowl. 
+ 
+</p><p>Many such bowls did poor, ailing Mary Anne empty through the 
+following days.  She patiently took everything that they gave her. 
+ 
+</p><p>The itinerant vender of herbs, who might have been ranked as 
+a physician after an innocent, primitive fashion, having a gentle 
+craft in the use of healing plants, staid on.  He always stopped 
+awhile with the Hattons while on his summer pilgrimages among these 
+adjoining rural villages. 
+ 
+</p><p>A good many people welcomed him gladly to their homes, for 
+that matter.  They liked to dose their families with his herb teas 
+once a year.  Then there was a religious sympathy between them too.  
+Most of them hereabouts were devout Methodists, and he was an 
+ardent member of that denomination. 
+ 
+</p><p>But Mary Anne, in spite of her long draughts of these 
+bitterish, pungent, aromatic teas, grew no better.  Doctor Ware 
+kept up a scrutiny of her that was shrewd from its very simplicity 
+and singleness. 
+ 
+</p><p>"There ain't much use in givin' medicine to Mary Anne," he 
+told her mother one day; "thar's troubles that nary a yerb that 
+grows on this airth's goin' to cure.  Mebbe thar's some in the 
+green fields King David sung about." 
+ 
+</p><p>"What do you mean?" 
+ 
+</p><p>"Mary Anne's got somethin' or other on her mind." 
+ 
+</p><p>Mrs. Hatton's delicate face flushed a burning red. 
+ 
+</p><p>"You're mistaken about that, Doctor Ware," she said; "I know 
+you are.  Mary Anne can't hev nothin' on her mind; she ain't never 
+hed a thing to fret her.  Her father an' me hev allers looked out 
+for her, as ef she'd been a cosset-lamb.  She ain't never hed to 
+work hard, an' we've bought her everything we could afford." 
+ 
+</p><p>That afternoon the old man went into one of the neighboring 
+houses.  A large, handsome woman, who was a great talker, lived 
+there. 
+ 
+</p><p>"How do you think Mary Anne is getting along?" said she. 
+ 
+</p><p>"Well, she's rather slim." 
+ 
+</p><p>"It'll take more than your herbs to cure her, Doctor Ware," 
+said the woman, with a laugh that was not ill-natured, though 
+unpleasantly knowing.  "Medicines for the body don't help the mind, 
+I s'pose you know.  You needn't say anythin' about it; her mother'd 
+never forgive me; but the long an' short of the whole business is, 
+Mary Anne Hatton's lost her beau.  That's everythin' that ails her.  
+She's goin' into a decline over it." 
+ 
+</p><p>"Who was her beau?" 
+ 
+</p><p>"That young Adams feller who lives 'bout a mile below here; 
+you know him.  He went with her real stidy last winter and don't 
+come nigh her now." 
+ 
+</p><p>The old man asked her a few more questions and then took 
+leave.  He walked straight down the road to the Adams farm.  Just 
+as he approached it, a young man came out of the yard, leading a 
+horse. 
+ 
+</p><p>"How do you do, Doctor Ware," he said heartily, stopping and 
+shaking hands. 
+ 
+</p><p>He was a pretty, rather boyish-looking young fellow. 
+ 
+</p><p>"Well, I'm pretty well, thanky, Henry."  
+ 
+<pb n="30"/>  
+ 
+</p><p>"Coming into the house, ain't you?" 
+ 
+</p><p>"No, thanky; guess I can't stop.  I'll stan' here an' talk a 
+minute.  I'm a stoppin' up to 'Lijah Hatton's, mebbe you know." 
+ 
+</p><p>The other started. 
+ 
+</p><p>"No, I didn't." 
+ 
+</p><p>"Yes, I've been thar some days.  Mary Anne's pretty 
+miser'ble." 
+ 
+</p><p>"You don't mean it!  I ain't heard of it.  She ain't very 
+sick, is she?" 
+ 
+</p><p>"Well, I don't like to see anybody lookin' the way she does." 
+ 
+</p><p>"What's the matter?" 
+ 
+</p><p>"It's pretty hard tellin'." 
+ 
+</p><p>"Say&mdash;of course she ain't&mdash;I know she ain't.  But you don't 
+s'pose she's&mdash;you don't s'pose it's possible she's worryin' over 
+anything, do you?" 
+ 
+</p><p>"It acts more like that than anythin' else, ef I was to say 
+what I really thought." 
+ 
+</p><p>The young fellow's fair face was all burning with blushes.  He 
+looked at the old man, then away again. 
+ 
+</p><p>"Look here," he stammered, "you ain't heard anything said, 
+have you?  You don't suppose it is anything to do with&mdash;me?" 
+ 
+</p><p>"Well, I've heard a leetle.  Look a'here, Henry, mebbe you 
+think it ain't any of my business, an' it ain't reely; but I'm 
+a-goin' to tell you just what I think.  You ain't been showin' out 
+yourself to be the kind of young man I thought you was." 
+ 
+</p><p>"Then&mdash;you think&mdash;that is it?" 
+ 
+</p><p>"Well, Henry, I've 'bout come to that conclusion." 
+ 
+</p><p>The young man groaned out, "Oh dear!" and hid his face for a 
+minute against his horse's neck. 
+ 
+</p><p>"Look here," said he, raising his head presently.  "I ain't 
+meant to do anything mean.  Hang it!  I ain't that kind of a 
+fellow, you know.  But&mdash;I'm young, and I'd been going with Mary 
+Anne pretty steady, and I didn't have much to get married on, and 
+I reckon I got kind of scared, you know.  Then mother she talked 
+some; she hadn't a thing against her, but she thought I might wait 
+and do a little better.  So I thought maybe I'd better haul off a 
+little while, and see how we both stood it." 
+ 
+</p><p>"I never heard a word till this minute about her being sick," 
+he continued.  "I've been awful busy and I've been away.  If I had 
+heard, I guess&mdash;I don't see why mother didn't tell me.  She must 
+have known.  Well, that's all there is to it.  I ain't been any too 
+happy myself lately.  Look here, I'll be up there to-night.  Poor 
+little thing!  I guess if I had known&mdash;" 
+ 
+</p><p>"Well, don't you go to feelin' too bad.  I dassay you didn't 
+mean no harm, an' if you act like a man about it now, 't'll be all 
+right." 
+ 
+</p><p>That night the old man watched eagerly.  He kept sauntering 
+out to the head of the lane and looking, but Henry never came in 
+sight. 
+ 
+</p><p>Presently the candle-light behind Mary Anne's little curtain 
+went out, and he gave up the watch with gathering indignation. 
+ 
+</p><p>"He's a mean feller after all," he muttered, plodding heavily 
+through the dewy grass back to the house. 
+ 
+</p><p>Early the next morning, he set out for the Adams place.  As he 
+approached the house, he peered about the yard sharply, but he 
+could see nothing of the delinquent young man.  He knocked on the 
+side door, and presently a woman opened it. 
+ 
+</p><p>She was tall and large, and her blue eyes stared out of her 
+heavy face with a sort of reflective uncertainty, though her mouth 
+was smiling. 
+ 
+</p><p>"Good evenin', Miss Adams." 
+ 
+</p><p>"Good mornin'," said she stiffly. 
+ 
+</p><p>"I guess you don't know who I am, Miss Adams." 
+ 
+</p><p>"I can't say as I do, jest." 
+ 
+</p><p>"My name is Ware." 
+ 
+</p><p>"Oh, yes, I couldn't think for a minute who you was.  It's 
+quite a spell since you've been round.  Fine weather we're havin', 
+ain't we?  Come in, won't you?" 
+ 
+</p><p>She had a large earthen bowl under her arm, and she was 
+beating eggs in it with a heavy iron spoon as she talked.  She beat 
+energetically, and the spoon made a din against the sides of the 
+bowl. 
+ 
+</p><p>"No, thanky, Miss Adams, I guess I can't stop.  I'm a stayin' 
+up to Hatton's, an' I'm goin' to help him a leetle this forenoon 
+whilst the sun's high 'bout spreadin' his hay.  Whar's Henry?" 
+ 
+</p><p>"Henry?  Oh, he ain't here." 
+ 
+</p><p>"Gone far?" 
+ 
+</p><p>"No, not very far.  Well, he's been thinkin' of goin' over to 
+his uncle's in Dover for some time." 
+ 
+</p><p>"Over to his uncle's, hey?  Goin' to stay long?"  
+ 
+<pb n="31"/>  
+ 
+</p><p>"Well, I dunno jest how long." 
+ 
+</p><p>"Shouldn't think he could leave very well in hayin' time." 
+ 
+</p><p>"Well, he didn't know how to." 
+ 
+</p><p>Mrs. Adams screwed up her mouth moodily between her answers, 
+and beat the eggs fiercely. 
+ 
+</p><p>The old man hesitated. 
+ 
+</p><p>"Didn't Henry say nothin' 'bout comin' up to our house last 
+evenin'?" he asked finally. 
+ 
+</p><p>The woman's eyes flashed suddenly under their drooping lids.  
+The iron spoon jumped in her nervous hand. 
+ 
+</p><p>"Well, I dunno as he did." 
+ 
+</p><p>"I saw him yesterday afternoon, an' he said he was." 
+ 
+</p><p>"Did he?" 
+ 
+</p><p>Doctor Ware stepped up closer to her.  His old voice quivered. 
+ 
+</p><p>"Look a-here, Miss Adams, I'm a-goin' to speak to you 'bout 
+it.  You're his mother, an' you'd orter hev some influence over him 
+an' coax him to do what's right, ef he ain't inclined to himself.  
+Mebbe you know somethin' 'bout it.  You know your son's been up to 
+see the Hatton girl consider'ble." 
+ 
+</p><p>"I don't know nothin' about it." 
+ 
+</p><p>"Well, she got real kind of interested in him, as near as I 
+can make out, an' he ain't been there lately, an' she's worried a 
+good deal.  She's real poorly, accordin' to my way of thinkin'." 
+ 
+</p><p>"I don't want to hear nothin' about it." 
+ 
+</p><p>"Miss Adams, you don't mean to say you don't want Henry to do 
+what's right?" 
+ 
+</p><p>"I don't want to talk about it at all!" 
+ 
+</p><p>"You don't want to see that poor child frettin' herself to 
+death before your face and eyes an' not do anythin' to stop it, 
+when it's your own son's fault?" 
+ 
+</p><p>"I don't want to say another word about it, an' I ain't goin' 
+to!  Henry's got to manage his own affairs." 
+ 
+</p><p>Suddenly the old man started. 
+ 
+</p><p>"Hark a minute!  What's that?" said he. 
+ 
+</p><p>Mrs. Adams clattered her spoon furiously. 
+ 
+</p><p>"What's what?" she asked. 
+ 
+</p><p>"I thought I heard somebody holler." 
+ 
+</p><p>"Guess 'twas Mr. Jackson over there with his oxen.  He hollers 
+like all possessed at 'em sometimes. 
+ 
+</p><p>"I've got somethin' in the oven, an' I guess I shall hev to go 
+in." 
+ 
+</p><p>"Miss Adams!" 
+ 
+</p><p>But she had fairly shut the door in his face. 
+ 
+</p><p>That morning, out in the hay field, he asked Mr. Hatton, after 
+a long spell of work and reflection: 
+ 
+</p><p>"I s'pose you know Miss Adams, down below here, Henry Adams' 
+mother, don't ye?" 
+ 
+</p><p>"Known her ever since I knew anythin'." 
+ 
+</p><p>"Good kind of a woman, ain't she?" 
+ 
+</p><p>"Guess she's good enough; awful set when she gits her mind 
+made up." 
+ 
+</p><p>"Henry don't look as if he was." 
+ 
+</p><p>Mary Anne's father turned around and faced the old man 
+fiercely.  His dark, leathery face with heavy seams about the mouth 
+and eyes worked.  He was a slow, taciturn man, and he had never 
+before mentioned this subject to his visitor. 
+ 
+</p><p>"I wish the Lord," he said, "I had my hands on that feller 
+sometimes.  That's what ails Mary Anne.  Come jest long enough to 
+git her to thinkin' consider'ble of him an' then&mdash;  She ain't tough 
+like some girls, an' she takes everythin' to heart dreadful.  An' 
+there's some things mother an' me can't do for her.  We've allers 
+tried to do everythin'.  Seems as there ain't no need of it, an' 
+there ain't.  Henry Adams ain't the only feller in the world.  But 
+that don't make no difference to her.  There ain't no use scoldin' 
+her.  She's failin' every day." 
+ 
+</p><p>"You ain't never said anythin' to him?" 
+ 
+</p><p>"Said anythin'?  Guess I shouldn't say much, unless I said it 
+with my fists!" 
+ 
+</p><p>Mary Anne's poor father bore down upon the sweet, dying clover 
+and grasses with his angry foot, and raked again sternly. 
+ 
+</p><p>That evening Doctor Ware went down to the Adams house again.  
+As he drew near, he heard a voice singing to a melodeon 
+accompaniment.  When he knocked the music ceased a minute, and Mrs. 
+Adams put her head out of the sitting-room window. 
+ 
+</p><p>"Has Henry got home?" asked he. 
+ 
+</p><p>"No, he ain't.  Won't you come in, Doctor Ware?" 
+ 
+</p><p>"No, thanky; I jest thought I'd luk round an' see ef he was to 
+home." 
+ 
+</p><p>The music began again directly.  Mrs. Adams had a sweet voice.  
+She had sung in the choir when she was a girl, and had an enduring 
+love for music, which age and prosaicness could not affect.  Her 
+melodeon was her dear household god.  Her voice rang out  
+ 
+<pb n="32"/>  
+ 
+sweet and shrill in a psalm tune after Doctor Ware, as he plodded 
+up the road. 
+ 
+</p><p>The next day he went to Dover, a town about six miles distant.  
+Part of the way he rode, begging lifts from passing teams; part of 
+the way he walked. 
+ 
+</p><p>In Dover, he found Henry's uncle's house easily enough, but 
+not Henry.  He was not there; had not been there at all. 
+ 
+</p><p>It was late in the afternoon when the old man reached home.  
+He was stiff and tired, but he did not eat or rest.  He went 
+straight to the Adams' again.  He knocked.  No one came to the 
+door, but he heard, like an echo to the knock, the cry that he had 
+heard the other day.  The echo was a double and triple one too; it 
+came again and again; it resolved itself into words.  He heard 
+distinctly: 
+ 
+</p><p>"Help! help!  Let me out!  Let&mdash;me&mdash;o-ut!" 
+ 
+</p><p>"What's the matter?  Who is it?" he shouted back. 
+ 
+</p><p>"It's me&mdash;Henry.  Mother's got me locked down here!" 
+ 
+</p><p>The poor young fellow, who was hardly more than a boy, was 
+evidently terribly shaken.  The words ended in a groan. 
+ 
+</p><p>"I'll let you out, Henry.  Whar air you?" 
+ 
+</p><p>The old man knelt down on the ground and put his ear close to 
+a tiny grated cellar window.  The voice seemed to come from that 
+direction, though from a long distance; it was almost smothered. 
+ 
+</p><p>"I'm down here&mdash;in the cellar&mdash;in a little room we store 
+things in.  Get the key off the kitchen shelf.  Oh!" 
+ 
+</p><p>"Thar, thar, Henry, I'm a comin'." 
+ 
+</p><p>The house door was not locked.  Doctor Ware hastened into the 
+kitchen.  There was a bunch of keys on the corner of the high, 
+drab-painted shelf.  He caught them up and opened doors till he 
+found the cellar stairs.  Henry sang out again when he heard his 
+steps on them: 
+ 
+</p><p>"Here I am, here!  Over to the left!" 
+ 
+</p><p>The store-room, which had served as a dungeon, was a small 
+apartment staunchly petitioned off in a corner of the cellar.  The 
+stone cellar walls formed two of its sides; stout posts and planks 
+the others.  The door was thick and firmly hung. 
+ 
+</p><p>"The little, nasty key!" Henry cried, when he heard his 
+deliverer working at the lock. 
+ 
+</p><p>"What on airth does all this mean?" asked the old man, when 
+the door was open and the young fellow came out. 
+ 
+</p><p>The prisoner's face was white, and his blue eyes looked out of 
+it wild and scared.  He sank down on the cellar stairs and rested 
+a minute, he trembled so. 
+ 
+</p><p>"Mother&mdash;she locked me in here night before last." 
+ 
+</p><p>"What fur?" 
+ 
+</p><p>"I told her I was goin' over to see Mary Anne.  She kinder 
+tried to git me off the notion, and didn't act as ef she cared 
+much.  But when I stuck to it I was goin', she got real upset.  I 
+didn't think she minded so much either.  She wanted me to come down 
+here an' bring her up some pork before I started, and she asked me 
+pleasant enough.  She must have come down after me like a cat; I 
+didn't hear her.  I was just getting the pork out of the barrel, 
+when I heard the door bang to and the key turn.  I'd left it in the 
+lock.  I hollered, but she wouldn't say a word.  I kept screaming 
+about all night and next day, but she wouldn't let me out, and I 
+couldn't raise anybody else.  I'd 'bout given it up when I heard 
+you knock just now.  See anything of mother when you come in?" 
+ 
+</p><p>"No; I guess she's gone out somewhere.  Ain't you hungry?" 
+ 
+</p><p>"No; she left enough for me to eat.  There were mince pies 
+stored away there, and a lot of fruit cake.  She knew I wouldn't 
+starve.  If I'd had a hatchet or something, I could have broken the 
+door down, but I didn't have so much as a jack-knife.  Oh!" 
+ 
+</p><p>"Don't go to feelin' bad, Henry.  Le's go up stairs." 
+ 
+</p><p>"I can't help it.  Seems as if I should go crazy&mdash;to think of 
+mother doing such a thing!" 
+ 
+</p><p>But he arose and went up the stairs inanely, with Doctor Ware 
+following.  They had been standing talking in the kitchen a moment, 
+when they heard steps. 
+ 
+</p><p>"That's mother," whispered Henry, and pulled his companion 
+into the sitting-room.  They stood there listening.  They heard the 
+door open and the sound of the steps across the kitchen floor.  The 
+cellar stairs creaked. 
+ 
+</p><p>There was a cry from below, and the steps returned rapidly.  
+Mrs. Adams walked into the sitting-room directly, as if she knew 
+they were there. 
+ 
+</p><p>"Henry!" she gasped.  
+ 
+<pb n="33"/>  
+ 
+</p><p>Then she leaned back against the wall and looked at him. 
+ 
+</p><p>Through all his life, Henry Adams had never seen fear in his 
+mother's face.  He saw it now. 
+ 
+</p><p>"Mother," he said sternly, "I should like to have you tell me 
+what you mean by such actions." 
+ 
+</p><p>"I was jest comin' to let you out," she murmured feebly. 
+ 
+</p><p>"What did you mean by doin' such a thing?  Are you crazy?" 
+ 
+</p><p>"No, I ain't, Henry.  Don't be mad.  I'll tell you all about 
+it." 
+ 
+</p><p>She looked at him with abashed, pleading eyes.  His boyish 
+face seemed strange to her.  Mrs. Adams was a keen, shrewd woman; 
+but one of the simplest of the facts in her daily life, which stood 
+out before her glaringly, she had not noted: her son was no longer 
+her property, but his own.  She looked up at him, trembling.  He 
+was small, but taller than she. 
+ 
+</p><p>"Oh, Henry, I was jest a-comin' down to let you out, Henry, I 
+was!  I'd been over to the neighborhood meetin', an' they got to 
+talkin' 'bout her, 'bout Mary Anne, you know.  I come right home to 
+let you out.  I didn't mean no harm no how.  Only you're all I've 
+got, and her folks ain't very forehanded, an' she's been petted, 
+an' she ain't very strong.  I thought mebbe you could do better." 
+ 
+</p><p>"But I've been thinkin' of it over this afternoon," she 
+continued, "an' I thought I wouldn't say anythin' more 'bout it.  
+You could do jest as you was a mind to, an' I'd make the best of 
+it.  I was comin' right home to let you out.  Henry, you ain't 
+goin' to be set against me for it?" 
+ 
+</p><p>"No, it's all right, mother; we won't say anything more about 
+it." 
+ 
+</p><p>"I'll give you a bottle of my blackberry wine to carry over to 
+her when you go to-night.  It'll do her good." 
+ 
+</p><p>That night when it was dusk, after tea, Mary Anne and her 
+mother were in the sitting-room by the window.  Suddenly Mary Anne 
+gave a little gasping cry: 
+ 
+</p><p>"Oh, mother, here's Henry!" 
+ 
+</p><p>Pretty soon the full moon rose.  Doctor Ware came down from 
+his chamber and found Mrs. Hatton by the window, leaning out 
+cautiously, her face toward the front door.  She drew her head in 
+when he entered. 
+ 
+</p><p>"Mary Anne's got company," she whispered, her lips trembling 
+into smiles.  "Henry Adams." 
+ 
+</p><p>"I know it.  I think she seems consider'ble better.  Well, I 
+guess I'll say good-bye, Miss Hatton." 
+ 
+</p><p>"You ain't goin'?" 
+ 
+</p><p>"Well, yes; I orter be movin'.  I've staid here 'bout long 
+enough.  I'm a-goin' to Mr. Thomas' to-night an' on to Somerset 
+to-morrer.  I see Thomas this arternoon.  I thought 'twould be cooler 
+goin' to-night.  You kin tell your husband good-bye.  I see him 
+goin' down to the village." 
+ 
+</p><p>"Yes, I'll tell him.  Well, good-bye, Doctor Ware, if you feel 
+as if you must go.  I hope you'll feel free to come ag'in any 
+time." 
+ 
+</p><p>Before he had left the room, she was peeping from the window 
+again, and straining to listen to the low murmur of voices on the 
+doorstep.  Her face was alive with the tenderest and sweetest 
+curiosity. 
+ 
+</p><p>The old herb-man, coming around the house from a side door, 
+glanced at the young couple seated together under the green 
+trellis.  They must have seen him as he turned off down the lane, 
+but they never spoke a word.  The old man plodded on through the 
+crisp dew-white grass, between the wet bushes, which were bushes of 
+silver in the moonlight. 
+ 
+</p><p>"When the sick folks get well, the doctor goes," he said to 
+himself. 
+ 
+ 
+ 
+</p> 
+</div1> 
+ 
+</body> 
+</text> 
+</TEI.2> 
+ 

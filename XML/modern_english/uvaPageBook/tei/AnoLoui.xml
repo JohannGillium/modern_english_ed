@@ -1,0 +1,474 @@
+<?xml version="1.0"?>
+
+<?dlps id="AnoLoui"?>
+<?dlps page-images="color" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOnum SYSTEM "http://text.lib.virginia.edu/charent/iso-num.ent"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+<!ENTITY DSSR_000002631_0001 SYSTEM "000002631_0001" NDATA uvaHighRes>
+<!ENTITY DSSR_000002631_0002 SYSTEM "000002631_0002" NDATA uvaHighRes>
+]>
+
+<TEI.2 id="AnoLoui">
+    <teiHeader type="migrated" creator="Etext">
+        <fileDesc>
+            <titleStmt>
+                <title type="main">The Louisiana Amendment the Same as Ours!</title>
+                <title type="sort">louisiana amendment the same as ours</title>
+                <author>Anonymous</author>
+                <respStmt>
+                    <resp>Creation of machine-readable version:</resp>
+                    <name>Irene Tichenor</name>
+                    <resp>Creation of digital images:</resp>
+                    <name>University of Virginia Special Collections</name>
+                    <resp>Conversion to TEI.2-conformant markup:</resp>
+                    <name>Irene Tichenor</name>
+                </respStmt>
+            </titleStmt>
+            <extent>ca. <num type="kilobytes">21</num> kilobytes</extent>
+            <publicationStmt>
+                <publisher>University of Virginia Library</publisher>
+                <pubPlace>Charlottesville, Virginia</pubPlace>
+                <idno type="ETC">AnoLoui</idno>
+                <date value="1996">1996</date>
+                <availability status="public">
+                    <p n="copyright">Copyright &#xa9; 1996 by the Rector and Visitors of the
+                        University of Virginia</p>
+                    <p n="access">Publicly accessible</p>
+                </availability>
+                <idno type="uva-pid">uva-lib:476654</idno>
+            </publicationStmt>
+            <seriesStmt>
+                <title>University of Virginia Library, Text collection</title>
+                <idno type="uva-set">UVA-LIB-Text</idno>
+            </seriesStmt>
+            <notesStmt>
+                <note>
+                    <p>Images of the broadside have been included.</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title type="main">The Louisiana Amendment the Same as Ours!</title>
+                        <title type="sort">louisiana amendment the same as ours</title>
+                        <author>Anonymous</author>
+                    </titleStmt>
+                    <extent>2 pages</extent>
+                    <publicationStmt>
+                        <date value="1900">1900</date>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p>19th-Century American History: Manuscripts and Typescripts. Broadside
+                            1900 .L68. Clifton Waller Barrett Library, University of Virginia
+                            Special Collections</p>
+                    </seriesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>The images exist as archived TIFF images, one or more JPEG versions for general
+                    use, and thumbnail GIFs.</p>
+                <p>Keywords in the header are a local Electronic Text Center scheme to aid in
+                    establishing analytical groupings.</p>
+            </editorialDecl>
+            <refsDecl>
+                <p>ID elements are given for each page element and are composed ofthe text's unique
+                    cryptogram and the given page number, as in AusEmma1 for pageone of Jane
+                    Austen's Emma.</p>
+            </refsDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date value="1900">1900</date>
+            </creation>
+            <langUsage>
+                <language id="eng" usage="main">English</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term>non-fiction; prose</term>
+                </keywords>
+                <keywords>
+                    <term>24-bit color; 400 dpi</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date value="1996-07">July 1996</date>
+                <respStmt>
+                    <resp>corrector</resp>
+                    <name>Catherine Tousignant</name>
+                </respStmt>
+                <item>Added information to header and figure descriptions about print source;
+                    adjusted minor tagging errors; corrected minor typing errors</item>
+            </change>
+            <change>
+                <date value="2005-06">June 2005</date>
+                <respStmt>
+                    <resp>corrector</resp>
+                    <name>John Ivor Carlson</name>
+                </respStmt>
+                <item>Converted sgml to xml.</item>
+            </change>
+            <change>
+                <date value="2007-09">September 2007</date>
+                <respStmt>
+                    <resp>Migration</resp>
+                    <name>Ethan Gruber, University of Virginia Library</name>
+                </respStmt>
+                <item>Converted XML markup from TEI Lite to uva-dl-tei (TEI P4 with local
+                    customizations).</item>
+            </change>
+            <change>
+                <date value="2008-01">January 2008</date>
+                <respStmt>
+                    <resp>Migration</resp>
+                    <name>Greg Murray, University of Virginia Library</name>
+                </respStmt>
+                <item>Programmatically updated TEI header markup (but not header content) for
+                    minimal compliance with current QA requirements.</item>
+            </change>
+<change>
+<date value="2009-03">March 2009</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Scholarly Resources, University of Virginia Library</name>
+</respStmt>
+<item>Added and/or replaced the digital images accompanying the electronic text. Scanning of exterior and interior (ie. pages) of item was done only for items found in the University of Virginia Special Collections Library.</item>
+</change>
+        </revisionDesc>
+    </teiHeader>
+
+    <text id="d1">
+        <body id="d2">
+
+
+            <div1 type="statement" n="1900" id="d3">
+                <pb entity="DSSR_000002631_0001" n="1"/>
+                <milestone unit="column" n="1"/>
+                <head>THE LOUISIANA AMENDMENT THE SAME AS OURS!<lb/> IT IS CONSTITUTIONAL AND WORKS
+                    WELL&mdash;ITS OPERATION ENTIRELY SATISFACTORY TO ALL CLASSES OF WHITE
+                    PEOPLE.</head>
+
+                <p>The pending amendment in this State is a copy of the Suffrage Amendment in
+                    Louisiana except the property clause. The Constitutional Convention of Louisiana
+                    adopted the amendment in 1898. It went into effect soon after. There has been
+                    the fullest possible opportunity to study the question in all its detail. The
+                    city elections last year were held under the provisions of the new constitution.
+                    This year the State election was held under it. No word of complaint has been
+                    heard. No white man has stated that his right to vote was denied. No test has
+                    been made of the question in the courts. So we take it that the working of the
+                    amendment in Louisiana will be its working in this State. It has stood a
+                    practical test there. In order that the people of the State might have the
+                    fullest information on this subject, Hon. Josephus Daniels, editor of the <hi
+                        rend="italic">News and Observer,</hi> has been to the State of Louisiana and
+                    made a study of the question in all its bearings. He was specially active in
+                    seeking information as to whether white people are disfranchised. His letters
+                    from the South are interesting reading. He interviewed men of every shade of
+                    political opinion. He did not confine his investigation to the towns. The County
+                    Parishes&mdash;our townships-were visited and people themselves sounded on
+                    the subject. Attention is invited to some of the leading points taken from his
+                    articles. In the light of experience the people of Louisiana declare unanimously
+                    that their amendment was the only possible solution of the suffrage question,
+                    and the amendment is regarded as an entirely satisfactory solution of it.</p>
+
+                <p>The interviews had by him with well posted citizens of Louisiana, bear on the
+                    following phases of this question:</p>
+
+                <list>
+
+                    <item>
+                        <hi rend="bold">1. Eliminating the Negro.</hi>
+                    </item>
+
+                    <item>
+                        <hi rend="bold">2. Guaranteeing the right to vote to every native white man,
+                            whether educated or not.</hi>
+                    </item>
+
+                    <item>
+                        <hi rend="bold">3. Eliminating reprehensible features from politics, and
+                            elevating politics and political action.</hi>
+                    </item>
+                </list>
+
+                <p>
+                    <hi rend="bold">1. Eliminating the Negro.</hi>
+                </p>
+
+                <p>Among others in New Orleans I had a talk with Hon. John Fitzpatrick, who is a
+                    wealthy citizen and was a member of the convention that framed the
+                    Constitutional Amendment. He knows the a b c's of city politics. He said:
+                    &ldquo;The amendment works very well. It takes in every white man, educated
+                    or not, who registered under the grandfather clause. The practical effect in
+                        <milestone unit="column" n="2"/> my ward was to reduce a negro registration
+                    of about 2,000 to 112. In St. Mary's Parish, with a population of about 17,000
+                    negroes and about 4,000 whites, only about one dozen negroes
+                    registered.&rdquo;</p>
+
+                <p>&ldquo;There were only 5,300 negroes registered in the State at the recent
+                    election. The paucity of the negro vote took away entirely their importance as
+                    voters. They were not counted or sought after. As a natural result those who did
+                    register will have no incentive to do it again, and at the new registration
+                    after the present registration expires, which will be December 31st, 1900, there
+                    will be fewer negro voters who desire to register.&rdquo;&mdash;<hi
+                        rend="italic">
+                        <name>Hon. H. C. Cage, of New Orleans.</name>
+                    </hi></p>
+
+                <p>&ldquo;In this city the adoption of the Constitutional Amendment, similar to
+                    the one pending in North Carolina, resulted in reducing the negro vote from
+                    14,177 to 1,493. These are official figures, taken this morning from the books
+                    in the office of <name>Mr. Jere M. Gleason</name>, State Registrar of voters for
+                    the parish of Orleans.</p>
+
+                <p>&ldquo;In November, 1899, the first election was held under the new
+                    Constitutional Amendment. The total registration was 38,964, of which number
+                    1,368 were negroes, a reduction of the negro vote from the 1896 registration,
+                    which was the fullest known, of 12,709. This city election showed to the whole
+                    State the value of the amendment, and opened the way for the result seen in the
+                    State election held last month. The State election was held on the 17th of
+                    April. Registration closed on the 17th of March, as the law requires it to close
+                    thirty days before the election. The registration in the parish (it embraces
+                    only the 17 wards in New Orleans) for the State election was 38,894, of which
+                    number 1,493 were negroes.&rdquo;&mdash;<hi rend="italic">
+                        <name>Hon. Jere M. Gleason, State Registrar of Voters for Orleans.</name>
+                    </hi></p>
+
+                <p>
+                    <hi rend="bold">2. Guaranteeing the right to vote to every white man, whether
+                        educated or not.</hi>
+                </p>
+
+                <p>&ldquo;Under the Constitutional Amendment, by reason of section five, every
+                    uneducated man, who could vote in 1867, or who is a son or grandson of such
+                    voter, could register on a permanent roll and vote as long as he lives, provided
+                    he registered on that roll by September 1, 1898. In this parish we took interest
+                    to see that every illiterate white man was registered under that section. I
+                    registered under it myself, and there were very few white illiterates who did
+                    not avail themselves of this provision. <milestone unit="column" n="3"/> The
+                    amendment works splendidly, elections are fair, the educated and uneducated
+                    whites vote as heretofore, and there is better feeling in politics than for many
+                        years.&rdquo;&mdash;<hi rend="italic">
+                        <name>Judge L. P. Caillonett.</name>
+                    </hi></p>
+
+                <p>&ldquo;Prior to 1878, there were no public schools except mixed schools, open
+                    alike to white and negro children, and as the white people would not send to
+                    them, many children grew up without education. We were unwilling to disfranchise
+                    these neglected men or their children, the soldiers who followed Lee, or the men
+                    who helped rescue the State in 1876. That is why we put in section five. The
+                    illiterate white voters are delighted with the
+                        amendment.&rdquo;&mdash;<hi rend="italic">
+                        <name>Hon. Thos. B. Badeaux</name>
+                    </hi>.</p>
+
+                <p>&ldquo;Nearly all the illiterate whites registered. As an example, I may
+                    mention that in ward five (a country township) there are 540 voters. I know
+                    every man in the ward, about one-half of whom are uneducated. All registered
+                    except about twelve.&rdquo;&mdash;<hi rend="italic">
+                        <name>Sheriff James Beary</name>
+                    </hi>.</p>
+
+                <p>&ldquo;The amendment has more than met public expectations. Our elections
+                    under it are closely contested and perfectly fair, white illiterates registered
+                    under section five and voted, few negroes vote, they are satisfied and there is
+                    good feeling between the races.&rdquo;&mdash;<hi rend="italic">
+                        <name>Hon. Andrew Price</name>
+                    </hi>.</p>
+
+                <p>&ldquo;In Lafayette, St. Martin's, Vermilion, the Arcadian and other parishes
+                    there are many illiterates. Many of them are Creoles. There were no better
+                    soldiers than the Creole regiments. They are men who, though illiterate, have
+                    all the civic virtues, take a keen interest in public affairs, and stood by good
+                    government all the way through. We could not disfranchise such true men and
+                    brave soldiers.</p>
+
+                <p>&ldquo;The men enrolled under section five (the grandfather clause), know
+                    that behind them is the manhood of the State. It is a white man's and an
+                    American roll. The late <name>Hon. Thos. J. Semmes,</name> President of the
+                    American Bar Association, registered under this clause. It is a roll of honor.
+                    Most of the illiterate white men in the State registered under this clause and
+                    are now permanently on the registration rolls.&rdquo; &mdash;<hi
+                        rend="italic"><name>Hon. H. C. Cage</name>, of New Orleans</hi>.</p>
+
+                <p>I next asked Mr. Gleason this question: &ldquo;Have any illiterate white men
+                    in New Orleans been denied the privilege of voting <pb entity="DSSR_000002631_0002" n="2"/>
+                    <milestone unit="column" n="4"/>
+                    because they could not read and write?&rdquo; He understood the
+                    question, and made this answer:</p>
+
+                <p>&ldquo;None whatever. Every white man who wants to vote is permitted to vote.
+                    Public sentiment is such that no man in politics would attempt to throw
+                    obstacles in the way of an illiterate white man's voting. Practically all who
+                    couldn't read and write registered under the grandfather clause in the time
+                    prescribed by law and are on a permanent roll of qualified voters, and are
+                    guaranteed the right to vote all their lives.</p>
+
+                <p>&ldquo;No white men&mdash;none whatever&mdash;have been
+                    disfranchised.&rdquo;</p>
+
+                <p>Mr. Gleason said: &ldquo;It took two years to educate the people of Louisiana
+                    up to the point that it would not result in the disfranchisement of any white
+                    people. Now they all see it and like it and wouldn't go back to old conditions
+                    under any circumstances. This is as true of the uneducated portion as of the
+                    educated portion of our population.</p>
+
+                <p>
+                    <hi rend="bold">3. Eliminating reprehensible features from politics and
+                        elevating politics and political action.</hi>
+                </p>
+
+                <p><name>Hon. Samuel L. Gilmore</name>, City Attorney, and one of the leading men in
+                    New Orleans, speaking of what had followed the practical workings of the
+                    amendment, said: &ldquo;It has rendered our elections free from any just
+                    taint of fraud. It has worked well in every way, particularly is its beneficial
+                    effect felt in giving a higher tone to our politics. There has been no suspicion
+                    of irregularity in the two elections held under it. It has not only eliminated
+                    the negro vote, thus removing corruption and many evils, but has resulted in
+                    guaranteeing fair white primaries. The negro question has been eliminated. No
+                    one now thinks about the negro vote, and in fact very few of them care to
+                    vote.&rdquo;</p>
+
+                <p><name>Mr. Peter F. Pescud</name>, a native of Raleigh, who is now one of the
+                    leading and influential citizens of New Orleans, told me that the amendment had
+                    worked well in every respect, and secured peaceful and fair elections,
+                    eliminated the negro from politics, and had not disfranchised any white man
+                    because of his lack of education and property. Mr. Pescud has been living here
+                    for seventeen years, and has made himself universally respected and popular, and
+                    is a business man of large interests and wide acquaintance. He says that he is
+                    in no sense a politician, taking only that part in politics that a good citizen
+                    is called upon to take. His observations are of great value and weight,
+                    particularly to North Carolinians who know him as a careful, intelligent and
+                    wise business man. Though a leader in New Orleans financial circles, Mr. Pescut
+                    is proud that the tar still sticks to his heels, and he rejoices in whatever
+                    helps esses North Carolina. &ldquo;The passage of mendment,&rdquo; he
+                    said, &ldquo;will eliminate the negro question and give the people freedom
+                    to think about the industrial expansion which promises so much for North
+                    Carolina.&rdquo;</p>
+
+                <milestone unit="column" n="5"/>
+
+                <p>One of the foremost editors in the South is <name>Major H. J. Hensay</name>,
+                    editor of the <hi rend="italic">New Orleans State,</hi> the most ardent and
+                    vigorous advocate of White Supremacy in this city of believers in the white
+                    man's party. I asked him how the amendment had operated and whether it had
+                    justified the expectations of its supporters. He said:</p>
+
+                <p>&ldquo;It has worked admirably in the last two elections. There hasn't been a
+                    kick against it. No specification has been made of any fraud or wrong. It has
+                    put Louisiana on the old system of a white basis, brought it back to the era
+                    when it was noted far and near for the chivalry of its people and the bravery of
+                    its sons. Its adoption was a grand and magnificent revolution. It has put the
+                    State on the high road to prosperity, and I believe that there is a higher tone
+                    in public life than in twenty years. There is a feeling of relief that the negro
+                    question has been eliminated and that we have returned to the old time
+                    honor.&rdquo;</p>
+
+                <p>&ldquo;What has been the result of the adoption of your new constitution on
+                    the elections,&rdquo; I asked Mr. Gleason. Here is his answer:</p>
+
+                <p>&ldquo;Elections are now absolutely fair. The most bitter enemy has been
+                    unable to substantiate a charge of the least unfairness. The opposition, after
+                    election, were forced to say, &rdquo;We haven't a word to say.&ldquo;
+                    There is not a suspicion of unfairness about our elections. I believe that the
+                    registration in this city is the cleanest of any city on the
+                    continent.&rdquo;</p>
+
+                <p>
+                    <hi rend="bold">All trouble on farms or plantations has vanished.</hi>
+                </p>
+
+                <p>&ldquo;The Constitutional Amendment has brought about a better feeling in the
+                    State. In absolute and unquestioned control, the white men feel the
+                    responsibility of protecting the negro in all his rights. The white people of
+                    North Carolina, regardless of party, will miss an opportunity to put their
+                    politics on a higher plane if they do not adopt the amendment. They owe it to
+                    themselves and their children to do what we have done. Here the negro is
+                    eliminated as an important political factor, fair elections leave no excuse for
+                    complaints, the white man and negro are on friendly terms, no native-born
+                    illiterate white man loses his vote&mdash;and all these blessings have been
+                    brought about by the amendment.&rdquo;&mdash;<hi rend="italic">
+                        <name>Governor Foster</name>
+                    </hi>.</p>
+
+                <p>&ldquo;The elimination of the illiterate black vote in Louisiana has placed
+                    our politics upon a higher plane and ushered in a new era in our civic
+                        life.&rdquo;&mdash;<hi rend="italic">
+                        <name>Dr. C. Alphonso Smith, Professor of English in the University of
+                            Louisiana</name>
+                    </hi>.</p>
+
+                <p>&ldquo;The amendment has brought about a condition as if in 1866 the white
+                    electorate then existing had been maintained and the door opened to negro voters
+                    who possessed $300 worth of property or had reasonably good educational
+                    qualifications to become voters.&rdquo;&mdash;<hi rend="italic">
+                        <name>Hon. Leon Jastremski, Commissioner of Agriculture</name>
+                    </hi>.</p>
+
+                <p>Senator Pritchard undertakes to say that the amendment in Louisiana has
+                    disfranchised <milestone unit="column" n="6"/> the illiterate white vote, and to
+                    prove that he gives the white vote registered in 1896, and then shows the number
+                    of votes cast in the recent State election, and argues from this that the
+                    balance are disfranchised.</p>
+
+                <p>The books in the office of the Secretary of State in Baton Rouge show that in
+                    1896 28,371 illiterate white men registered and made their mark to the
+                    application which the law of the State then required. In the April election of
+                    1900 the same books show that 31,079 registered under the grandfather clause.
+                    This shows that the illiterate white men were practically all registered, and
+                    any shortage in the registration was on the part of those who could read and
+                    write, and who were of course not disfranchised. They simply exercised their
+                    choice not to register and vote in 1900 because they felt that there was no
+                    contest that called for it. The fact is that the vote in no State is ever up to
+                    the registration. It falls as far short in Massachusetts as in Louisiana. In our
+                    own State the actual vote generally falls short of the registered vote 50,000 to
+                    75,000, and our registered vote is from 50,000 to 60,000 less than the number of
+                    men entitled to vote. This is so in nearly all the States in the Union. To
+                    illustrate, in Massachusetts in 1890 the registered vote was 665,000, and the
+                    actual vote cast that year was 285,000. In Connecticut in 1890 the registered
+                    vote was 224,000, and the vote cast was 125,000. Does any one contend that those
+                    persons who were registered in these two States and did not vote that year were
+                    disfranchised?</p>
+
+                <p>But <name>Hon. H. C. Cage</name>, President of the Louisiana Senate, answers this
+                    charge of <name>Senator Pritchard</name> as follows:</p>
+
+                <p>&ldquo;The only white illiterates disfranchised in Louisiana are those
+                    foreigners who were permitted under the Constitution of 1879 to vote under a
+                    mere declaration of intention to become citizens. Of this number those who took
+                    out naturalization papers were very few, but thousands continued to vote from
+                    1879 to 1898 under their declaration of intention. This illiterate foreign-born
+                    vote, especially that portion which was Italian, had gotten under the control of
+                    so-called political bosses, and a prejudice against it had arisen in the better
+                    element of the people, second only in intensity to that against the negro vote,
+                    and when the Constitutional Convention of 1898 undertook to eliminate the negro
+                    vote, there was, especially in the city of New Orleans, a determined demand that
+                    this illiterate boss-controlled foreign vote should also be eliminated, and the
+                    effect of the suffrage provision adopted was to eliminate every illiterate
+                    foreigner who had not been naturalized previous to January 1st, 1898.</p>
+
+                <p>&ldquo;The elimination of these thousands of illiterate foreigners, voting
+                    upon declaration of intention only, accounts for the falling off of the white
+                    registration in Louisiana.</p>
+
+                <p>&ldquo;Every native-born white man in Louisiana, whether educated or
+                    uneducated, votes and is protected in his vote.&rdquo;</p>
+
+                <p>This statement fully accounts for the falling off of the registration there in
+                    1900. </p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

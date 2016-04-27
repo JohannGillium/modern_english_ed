@@ -1,0 +1,799 @@
+<?xml version="1.0"?>
+
+<?dlps id="FreEman"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOnum SYSTEM "http://text.lib.virginia.edu/charent/iso-num.ent"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+
+]>
+
+<TEI.2 id="FreEman">
+<teiHeader type="migrated" creator="Etext">
+<fileDesc>
+<titleStmt>
+<title type="main">Emancipation</title>
+<title type="sort">emancipation</title>
+<author>Freeman, Mary Eleanor Wilkins, 1852-1930</author>
+<respStmt>
+<resp>Creation of machine-readable version:</resp>
+<name>Judy Boss</name>
+<resp>Conversion to TEI.2-conformant markup:</resp>
+<name>University of Virginia Library Electronic Text Center</name>
+</respStmt>
+</titleStmt>
+<extent>ca. <num type="kilobytes">40</num> kilobytes</extent>
+<publicationStmt>
+<publisher>University of Virginia Library</publisher>
+<pubPlace>Charlottesville, Virginia</pubPlace>
+<idno type="ETC">FreEman</idno>
+<date value="1995">1995</date>
+<availability status="public">
+<p n="copyright">Copyright &copy; 1995 by the Rector and Visitors of the University of Virginia</p>
+<p n="access">Publicly accessible</p>
+</availability>
+<idno type="uva-pid">uva-lib:475965</idno>
+</publicationStmt>
+<seriesStmt>
+<title>University of Virginia Library, Text collection</title>
+<idno type="uva-set">UVA-LIB-Text</idno>
+</seriesStmt>
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title type="main">Emancipation</title>
+<title type="sort">emancipation</title>
+<author>Mary E. Wilkins Freeman</author>
+</titleStmt>
+<publicationStmt>
+<publisher>Harper's Monthly</publisher>
+<pubPlace>New York</pubPlace>
+<date value="1915-12">December 1915</date>
+</publicationStmt>
+<seriesStmt>
+<p>132</p>
+</seriesStmt>
+<notesStmt>
+<note>
+<p>Freeman, Mary E. Wilkins.  "Emancipation."  <hi rend="italic">Harper's Monthly</hi>
+     132 (Dec. 1915): 27-35.</p>
+</note>
+</notesStmt>
+</biblFull>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Prepared for the University of Virginia Library Electronic Text Center</p>
+</projectDesc>
+<editorialDecl>
+<p>All quotation marks retained as data</p>
+<p>All unambiguous end-of-line hyphens have been removed, and the
+trailing part of a word has been joined to the preceding line.</p>
+<p id="ETC">Keywords in the header are a local Electronic Text Center scheme
+to aid in establishing analytical groupings</p>
+</editorialDecl>
+<refsDecl>
+<p>ID elements are given for each page element and are composed of the text's
+unique cryptogram and the given page number, as in AusEmma1 for page one of
+Jane Austen's Emma.</p>
+</refsDecl>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date value="1915-12">December 1915</date>
+</creation>
+<langUsage>
+<language id="eng" usage="main">English</language>
+</langUsage>
+<textClass>
+<keywords>
+<term>fiction ; prose</term>
+<term>Women Writers</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change>
+<date value="1995">1995</date>
+<respStmt>
+<resp>corrector</resp>
+<name>Judy Boss, University of Omaha</name>
+</respStmt>
+<item>page 28, paragraph 2 changed
+"she was was here,"  to
+she was here,"</item>
+</change>
+<change>
+<date value="1995-08">August 1995</date>
+<respStmt>
+<resp>corrector</resp>
+<name>Jamie L Spriggs, Electronic Text Center, University of Virginia</name>
+</respStmt>
+<item>Added header, Tagged with TEI.2-compatible SGML, Parsed against "teilite" dtd</item>
+</change>
+<change>
+<date value="2005-07">July 2005</date>
+<respStmt>
+<resp>Corrector</resp>
+<name>John Ivor Carlson</name>
+</respStmt>
+<item>Converted SGML to XML. Fixed tagging.</item>
+</change>
+<change>
+<date value="2007-09">September 2007</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Ethan Gruber, University of Virginia Library</name>
+</respStmt>
+<item>Converted XML markup from TEI Lite to uva-dl-tei (TEI P4 with local customizations).</item>
+</change>
+<change>
+<date value="2008-01">January 2008</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Greg Murray, University of Virginia Library</name>
+</respStmt>
+<item>Programmatically updated TEI header markup (but not header content) for minimal compliance with current QA requirements.</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text id="d1">
+<body id="d2">
+
+<div1 type="story" id="d3"><pb n="27"/>
+<head>
+                      Emancipation<lb/>
+            <hi rend="italic">BY MARY E. WILKINS FREEMAN</hi></head>
+
+<p>OLD Billy Thomas sat beside the window.  He had the weekly
+religious newspaper on his knee.  He was not reading it.  He never
+read it.  If questioned, he could not have told why he so
+apparently cherished it.  There was certainly no affectation about
+Billy, and least of all affectation with regard to religion.  He
+was a very good old man, leavened to his own amusement with a
+queer, childish mischievousness bordering upon the malicious.  This
+leaven might not have developed had it not been for his daughter
+Esther, who all unwittingly was especially fitted to produce such
+development.  Now Esther was not at home.  She had gone down street
+on an errand.
+</p><p>Billy was very carefully attired.  His collar was immaculate.
+Esther had brushed his coat twice that very day.  Billy, left to
+himself, would never have brushed his coat.  He had arrived at an
+age when his house of life had become to a certain degree perfectly
+uninteresting to him.  All he asked of it was a comfortable
+acquiescence with his wishes.  He desired no rheumatic pains.
+Stiffness he recognized as incident to his endurance in his present
+form upon the earth; he bore that with cheerful stolidity.  He
+wished for warmth and food for that worn old habitation of flesh,
+and he wished more than for anything else for a certain freedom.
+That he did not have.  Esther very innocently prevented that.
+Billy was like a child who frets because he is not allowed to kick
+and sprawl and change monotonous order to disorder.  In reality,
+Billy practically wished to make his mud-pies of life instead of
+sitting there so carefully combed and brushed, with his religious
+newspaper unread on his knees.  He was thinking about his daughter
+with a sort of rueful love and admiration and dissent.  He said to
+himself, as he often said to Sam Ellis: "Esther is the salt of the
+earth.  She's as pretty as they make 'em, and neat, and a good
+cook, and she does her duty by me, and she has a hard time of it.
+She would have a harder if she didn't naturally expect so much of
+men-folks and make allowances.  My daughter is as good and pretty
+a woman as you can find in a week of Sundays, but sometimes I
+sorter wish she was as easy-goin' as her ma was.  Maybe if her ma
+had lived Esther would have been more like her.  She wouldn't have
+tried half as hard and she would have been a darned sight better
+off, and so would other folks."
+</p><p>Billy, thinking of Esther, realized that his heart, loving as
+it was toward her, inclined toward rebellion.  A queer expression
+was in his bright old eyes.  Suddenly he crumpled the religious
+paper viciously, and threw it down on the floor.  Then he stamped
+on it.  Then he looked alarmed.  He bent over stiffly, gathered it
+up and refolded it.  Then he looked out of the window at the yard
+and the horse-chestnut-tree holding its young umbrella-shaped
+leaves over its straight trunk.  Old Billy gazed, and his face&mdash;a
+very simple old face as to line and feature&mdash;became complex.
+</p><p>He looked away from the window at the room perfectly ordered.
+There was not a speck of dust.  The vases on the mantel-shelf stood
+each in its appointed place.  The books on the table were arranged
+in exact little piles.  The lamp stood in the mathematical center.
+The table-cover hung with absolute correctness.  The chairs were
+ranged about the room as if by line and rule.  Not one picture hung
+off the true level.
+</p><p>Old Billy regarded everything gloomily.  After a while he got
+up and walked past the table, and without apparent intent knocked
+against it.  A little vase containing exactly six daffodils was
+upset.  The water trickled slowly over the chenille table-cloth and
+dripped to <pb n="28"/>  the floor.  A pile of books was pushed awry.  Old
+Billy next encountered a steel engraving, "The Landing of the
+Pilgrim Fathers."  After he had passed, the picture hung decidedly
+off the plumb-line.  Then old Billy, on his way back to his chair,
+stumbled over a mat and left it turned up at one end.
+</p><p>He sat down and regarded things with a grin.  He looked like
+a malevolent child.  He was an old man, but full of wiry strength.
+His thick, gray hair and beard had the outward spring of strong
+wire.  His eyes were sparklingly alert.
+</p><p>Old Billy gazed out of the window.  It was nearly time for
+Esther's return.  He was still uneasy.  He gazed as far down the
+road as he could, but saw no sign of Esther.  He rose quickly and
+fairly ran out of the room.  He returned, and again jostled the
+table and "The Landing of the Pilgrim Fathers," and this time he
+touched the mantel-shelf.  When he sat down again he could see
+distinctly a shadow, as of dust, over the front of the shelf and on
+the glass of the picture.  Another pile of books on the table was
+awry.  Old Billy raised a hand with the forefinger stiffly crooked,
+and rubbed it across the crystal-like window.  There was left a
+smear, as of lard.  Old Billy put his hands on the under side of
+his coat-tails and rubbed off the butter and flour on them.  Then
+he chuckled.  "Ruther guess Betsey would laugh till she cried, ef
+she was here," he said aloud.  When Esther entered he was reading
+his religious weekly.
+</p><p>"All wrapped up in your paper, father?" she remarked in her
+clear, fine voice.  Old Billy read on.  Esther crossed the room to
+put away her hat and coat.  She removed the hat carefully and put
+it on the closet shelf; removed her coat, adjusted it over a
+hanger, and replaced it upon its hook.  Then she turned, her thin
+hands mechanically smoothing her satin-smooth hair.
+</p><p>Esther was a pretty creature in an unassertive fashion.  She
+was made of charming shadows instead of colors; of charming delays
+rather than progressions.  Her soft hair, neither black nor brown,
+although glossy, showed no highlights; her smooth cheeks, flawless
+in texture, had no bloom; her gray eyes gave out no sparks of
+inward fire even when Esther was firm.
+</p><p>Esther was firm after a curious fashion.  She never ordered,
+but her attitude was in itself equivalent to a whole broadside of
+orders.  She never raised her voice, she often did not express a
+wish, but her silence held the force of ultimate command.  Her aged
+father, retaining, as he still did in very high measure, the fire
+of youth, was no match for her.  His rebellious desires, his
+impatience for his own way, were blunted before her as before a
+porcelain wall of purest, impenetrable femininity.  Billy's Betsey,
+easy-going as she had been, had possessed a temper which her man
+could meet in fair fight, and either win or be worsted.  Esther had
+apparently no temper whatever.  She had simply character, resistant
+in its primary quality.  Old Billy never argued with his daughter.
+He was reduced to the slyness of petty diplomacy.  The time was at
+hand when he would once more gather himself up for a last
+aggressive move, but it had not yet arrived.  He continued to sit
+perfectly still, with his eyes fixed upon the printed page before
+him.
+</p><p>Esther surveyed the disorder of the room.  Old Billy felt her
+eyes turn toward him.  He made no sign.  He knew from past
+experience that she would not exclaim nor question.  Esther
+straightened carefully "The Landing of the Pilgrim Fathers," the
+vases on the shelf, the pile of books on the table.  She glided out
+of the room and returned with cloths.  She wiped the water from the
+overturned vase.  She replaced the daffodils.  She dusted off the
+flour.  After she had straightened and dusted everything, and
+readjusted the rug which Billy had kicked, she put away the duster.
+Billy never raised his eyes.
+</p><p>Then, Esther saw the smear on the window-glass.  Even then she
+did not exclaim.  She stood staring at it.  The faintest pink had
+come over her smooth cheeks.  Her eyes, while still devoid of
+sparkle, were alive with wonder.  At last she spoke.
+</p><p>"Have you been having some bread and butter, father?" she
+asked.
+</p><p>Billy apparently did not hear.
+</p><p>"Have you been having some bread and butter, father?" repeated
+Esther.  [illustration omitted, page unnumbered] <pb n="29"/>
+</p><p>"Hey?"
+</p><p>"Have you been having some bread and butter?"
+</p><p>"No, Esther, I 'ain't," replied Billy, and returned again to
+his paper.
+</p><p>Esther said no more.  She again went out for a cloth.  This
+time she brought a basin of hot water and some polishing-powder.
+She could not well reach the window, and Billy moved, hitching his
+chair slightly.
+</p><p>Esther worked, cleaning off the smear and polishing the glass.
+She eyed it, not quite satisfied.  When she went out, evidently to
+try her polish on the outside, thinking that some of the trouble
+must be there, Billy clapped his hand over his mouth and nearly
+choked with repressed mirth.  When Esther appeared on the other
+side of his window with her polish, he was reading his paper with
+an intensely sober face.
+</p><p>Billy enjoyed himself immensely.  These little tricks were his
+only amusement.  He loved his daughter, but deep-rooted in his
+nature was the love of mischief, even against one whom he loved.
+He derived a peculiar pleasure from its exercise in the case of
+Esther, because she was so completely unsuspecting.  What she did
+suspect her father did not even dream.  Had he dreamed it, he would
+have enjoyed it to the full.  Poor Esther Thomas feared her father
+was gradually losing his wits from old age.  She had a fair amount
+of reason.  She knew perfectly well in what a state of order and
+cleanliness she had left the house when she went out.  She knew, of
+course, that flour and lard do not of their own volition get on
+tables and shelves and windows.  Her father had been the only
+person in the house.  Esther was aware that her father must be the
+culprit.  He had put her order in disorder; he had sprinkled flour
+over spotless surfaces; he had smeared the clear window-glass.
+Esther knew this, but her mind could grasp no motive within reason
+for the deeds.  She had no conception of mischief for the sake of
+mischief, of uneasiness finding its safety-valve.  She therefore
+told herself sadly that "poor father was failing," and she must be
+even more watchful regarding her duty toward him.
+</p><p>Esther Thomas was a sweet woman.  She was sweet like a flower,
+blooming only under certain restrictions, facing always one way.
+After she had cleaned the window she went into the kitchen and
+washed carefully the cloth and her hands.
+</p><p>While she was there, old Billy, gazing out, saw Sam Ellis.
+Right opposite the Thomas house was the little grocery-store.  Sam
+was standing on the piazza gazing longingly over at Billy.  Billy
+shook his head, raised his hand, and went through an elaborate code
+of signals: Sam understood.  When Esther re-entered the room her
+father was having a hard coughing-spell.  Old Billy had rather
+violent attacks of asthma.  Esther went to the little chimney
+cupboard for a bottle of medicine.
+</p><p>"It ain't&mdash;there," strangled Billy.
+</p><p>"Why, where is it, father?"
+</p><p>"I&mdash;used up&mdash;the last on't&mdash;some days ago&mdash;while you was out,
+and I threw the bottle away.  No use of old medicine-bottles
+settin' round," Billy coughed and wheezed.
+</p><p>Esther went to the closet and got her hat and coat.  Old
+Billy, still coughing, watched her slyly.
+</p><p>"Where you&mdash;goin'?"
+</p><p>"Down to the drug-store to get another bottle of your
+medicine.  Keep perfectly still while I am gone, father.  I will be
+back as soon as I can."
+</p><p>Billy coughed.  He found it rather difficult to desist after
+he had watched his daughter out of sight.  He still coughed while
+frantically beckoning Sam Ellis on the grocery piazza.
+</p><p>Sam shambled over and entered, grinning.  Sam was a shabby
+figure.  He came from a good old family, but he was the last shred
+of it, swaying and fraying before the winds of destiny, with nobody
+of his kith or kin to mend him, or brush him; or attend generally
+to his physical welfare.  He lived alone in a corner of the old
+Ellis house.  Dreadful tales were told by good housekeepers about
+the state of that house and especially Sam's corner.  Carpets had
+not been taken up for half a century.  Moth and rust reigned
+undisputed.  However, Sam was a happier man than Billy.  He had all
+that is sometimes left to the aged of the world, his own way, and
+he loved it.
+</p><p>Billy gazed at him when he entered, <pb n="30"/>  with a queer
+affection and envy.  The two old men loved each other.  Billy
+envied; Sam pitied.
+</p><p>"How did ye manage it?" queried Sam.
+</p><p>"Had a coughin'-spell, and the medicine was all gone."  He
+winked and coughed again in spite of himself.
+</p><p>"You hadn't ought to take liberties with that cough," said
+Sam, anxiously.  Out of a jungle of crisscross lines of white hairs
+covering his face his blue eyes gleamed tenderly upon his friend.
+His bald head rose dome-like and shining, but his white beard
+covered his cheeks and fell upon his breast.  He had been a
+handsome man.  He had never married, but he had had in his youth
+his love-affair.  The girl whom he had loved had died.
+</p><p>Sam could not quite understand Billy's attitude with regard to
+his daughter.  "Why d'ye have to manoeuver that way to get a minute
+to see me?" he queried, with regard to the cough-medicine.  "Now
+Esther always seems to me real mild and gentle."
+</p><p>"She is.  Esther's the salt of the earth, and she never gets
+mad nor speaks up," declared Billy.
+</p><p>"Then why&mdash;"
+</p><p>"If she did get mad I wouldn't feel called upon to manoeuver.
+She and me could fight it out, and I guess I'd get my own way,"
+said Billy.
+</p><p>Sam took his venerable pipe out of his pocket.  He looked
+inquiringly at Billy, who shook his head.
+</p><p>Sam replaced the pipe.  "S'pose it wouldn't do," he admitted.
+</p><p>"She would smell it," said Billy.  "I don't never smoke mine
+except once in a while in summer-time, when I can get down in the
+orchard, and the wind ain't toward the house, and she's gone out
+anyway."
+</p><p>"What does she say?"
+</p><p>"She don't say nothin'.  She don't even sniff round the way
+some women would.  Esther is a lady, if she is my daughter.  I jest
+know it wouldn't do for me to smoke my old pipe around the house as
+long as she's livin' here, so I keep it in the lowermost secretary
+drawer."
+</p><p>Sam regarded Billy thoughtfully.  He got up and peered down
+the street.
+</p><p>"It ain't time for her yet," said Billy.
+</p><p>Sam thrust his face close to Billy's and whispered, "When is
+she goin' to git married to the parson?"
+</p><p>"She ain't never goin' to as long as I live."
+</p><p>"How d'ye know?"
+</p><p>"She told him so.  She said it was her duty to stay right here
+and take care of me.  He acted real nice about it; said I would be
+jest as welcome to live with 'em as if I was his own father.  But
+she told him he couldn't leave his mother, and neither of 'em said
+anything, but both of 'em knew that wouldn't work&mdash;old lady
+Comstock livin' with her daughter-in-law's pa."
+</p><p>Sam chuckled.  "Golly!  You couldn't hev said your soul was
+your own, sure enough," he remarked.
+</p><p>Billy chuckled in response.  "Reckon you're right.  Betwixt
+Esther's holdin' her tongue and the old lady not holdin' hers, it'd
+been a case of the upper and nether millstones," said he.  "Esther
+and Willard both knew that wouldn't do, and Esther, she won't leave
+me nohow."
+</p><p>"You could git along."
+</p><p>Billy fairly snorted.  "Git along!  I ruther reckon I could!
+I could git Sarah Miles to come here.  She's spry and a good
+housekeeper, and she 'ain't never tried to have her way.  She
+'ain't got any way.  She'd keep house, and you could about live
+here.  We could do jest as we was a mind to."
+</p><p>"But Esther's sot."
+</p><p>"When it comes to what she thinks is her duty, Esther is more
+than sot.  She's growed to it."
+</p><p>"Willard Comstock always liked her, and a minister ought to
+have a wife."
+</p><p>"Esther told him not to come here again.  She said it would
+make talk, and he'd better marry some one else.  She said, 'As long
+as father lives, my duty is right here.'  It made me feel kind of
+queer."  Old Billy's voice was pathetic.  "Seems as if old folks
+hadn't ought to stand in the way of young ones, but how in Sam Hill
+be they goin' to git out till the Lord calls 'em?"
+</p><p>"Near as I can see, you ain't in the way."
+</p><p>"No, I ain't, but she thinks I'm her duty, and there's no use
+tryin' to reason her out of it." <pb n="31"/>
+</p><p>"An' he ain't comin' any more?"
+</p><p>"He 'ain't been here for months, and I can see she's feelin'
+sort of miserable about it."
+</p><p>"Why don't he stick it out an' come?  I guess when I was his
+age I'd have stepped right over her duty an' trompled it down."
+</p><p>"Ef he would only come!" reflected Billy.  "He used to come to
+tea sometimes."  Suddenly he sat up.  His face assumed the
+expression of eager mischief that it had worn when he had made his
+expedition into the pantry for the flour and lard.  His eyes
+snapped.  He slapped his knee.  "By hookey!" said he.  "I'll git
+Willard Comstock here to tea this very night."
+</p><p>Sam eyed him, as excited as his friend.  "How will you
+manage?" he demanded.  For answer Billy rapped madly on the window.
+</p><p>"What you doin' that for?"
+</p><p>"I'm goin' to send the little Abbott boy to invite him.  Eddy
+Abbott is such a good little boy, nobody can suspicion anything
+ain't all right.  Esther, she's got plenty of cake and a floating-island.  She baked this mornin'.  I'll do it."  Billy beckoned
+frantically.
+</p><p>A little boy on the street outside, moving waveringly on
+roller-skates, turned a pretty face toward the window.
+</p><p>"Come in here a minute.  Come in here a minute," said Billy.
+</p><p>The boy could not have heard him, but he saw the beckoning old
+hand.  He navigated with difficulty up the front walk to the door,
+where Billy met him.
+</p><p>When Billy returned to the sitting-room he looked rather pale
+but triumphant.  "Eddy Abbott is going to tell Willard Comstock
+that Miss Esther Thomas invites him to take tea with her and her pa
+at six o'clock to-night," he whispered.
+</p><p>"Guess I'd better light out," said Sam, rising.
+</p><p>"Guess you'd better.  It's most time for her to come home."
+</p><p>"Ain't you goin' to shave or put on a clean collar; or
+nothin'?"
+</p><p>"Can't, unless I want her to suspicion somethin'."
+</p><p>"Well," said Sam.  He lounged out, and presently Billy saw him
+seated in an arm-chair on the grocery piazza.  He was smoking his
+pipe.  He waved his hand imperceptibly.  Then Esther appeared,
+walking rather hurriedly down the street with her little parcel
+from the drug-store.
+</p><p>"I guess I feel some better," Billy said when his daughter
+entered, bottle and spoon in hand.
+</p><p>"You had better take it, anyway, father.  You are not
+breathing properly now."
+</p><p>Billy murmured something about "not spilin' his appetite for
+supper," but he took his dose.  Esther went out in the kitchen.
+Billy rose and peeped out stealthily.  Esther was mixing biscuits.
+Billy nodded approvingly and returned to his seat.
+</p><p>He had begun to smell the biscuits baking when he saw a young
+man coming hastily up the street.  He gave a sigh of relief.  Billy
+had realized the risk he had run of getting a message of refusal by
+little Eddy Abbott, and his daughter's discovery of the plot.  Now
+that the young man was accepting, he knew that all would be well.
+However puzzled Esther Thomas might be, she would say nothing when
+a guest appeared at tea-time.  She had a great sense of
+hospitality.  She might have refused to see Willard in the evening,
+but at tea-time his welcome was assured, however bewildered she
+might be.
+</p><p>After Willard entered, Billy, gazing across at the grocery,
+saw Sam Ellis double up with laughter.  He chuckled softly to
+himself.  Esther had ushered the minister into the best parlor.
+She came hurrying out to her father.
+</p><p>"The minister has come to tea," she whispered.  Her cheeks
+were softly blushing.
+</p><p>"Did you ask him?"
+</p><p>Esther shook her head.  "I don't understand it," she
+whispered, "but he has come.  Go into the bedroom, father, and let
+me brush your hair and coat.  You won't have time to shave.  Are
+your hands clean?  Of, father! come out in the kitchen and wash
+your hands."
+</p><p>When Billy was fairly tidy and back in his chair, he looked
+across at the grocery.  Sam still sat smoking on the piazza.  The
+minister was now in the sitting-room.  Billy nodded solemnly,
+<pb n="32"/>
+with warning finger raised.  Sam nodded solemnly in response.
+</p><p>Willard Comstock, discoursing to Billy about a recent death in
+the village, with absent eyes upon Esther, a graceful vision moving
+about in the next room, saw neither signal.  Billy, talking to the
+minister, saw presently his dear Sam lounge down the street.  He
+pictured him getting his solitary meal in his littered corner of
+the old colonial house.  He wished, with the pathetic wish of age
+and essential loneliness, to be with him there.  What had he&mdash;old,
+with tastes reverting to those of childhood&mdash;to do with this fine
+young clergyman who loved his daughter?  Poor old Billy wanted to
+be in his own tracks of life&mdash;those tracks which he and his wife
+Betsey had followed so easily.
+</p><p>He did not like the supper which Esther finally served.  The
+dining-table glittered with the best china and silver, and a piece
+or two of cut-glass.  Apple-blossoms in a green bowl decorated the
+center.  Esther had prepared a salad, very pretty, but strange to
+Billy's old-fashioned taste.  The minister praised it.  Billy felt
+a slight scorn.  Esther had thin slices of pink ham.  Billy liked
+thick slices, but on account of the guest had to put up with the
+thin.  Billy, silently eating, reflected how fortunate it was that
+Willard Comstock had a mother.  Otherwise he would be obliged to
+live with Willard and Esther.  It would be perfectly peaceful, but
+the restraint of those bonds of Christian grace would be
+insupportable.
+</p><p>The next afternoon Esther went to the sewing society, and
+Billy, as soon as the coast was clear, started to see Sam.  He
+stole out of the house, locking the kitchen door and putting the
+key under the mat on the porch, and taking a back road.  The main
+one led by the church in whose chapel the sewing-society was
+meeting.
+</p><p>Billy was slightly lame, but he moved quickly.  He was afraid
+that Sam might not be at home, but the other old man met him at the
+door, his blue eyes gleaming with fond welcome out of his furze of
+white hair.
+</p><p>Billy entered, and was blest, to his conviction, with the
+utmost which earth had to bestow.  It was seldom he got such a
+chance as this.  When he entered the room in which Sam Ellis spent
+most of his time, he looked about him blissfully.  It suited him.
+It was his ideal of perfect comfort.  It was the large stately
+south room of the old mansion.  There were paneled walls and a
+wonderful mantelpiece, and the doors were marvelous.  There were
+pieces of fine old mahogany furniture, and everything had been made
+completely subservient to the use of the human creature who owned
+it, and was, to Billy's mind, fulfilling its ultimate destiny.
+</p><p>The tapestry carpet was fairly wonderful in its accumulation
+of colors over and above the original patterns.  The paneled walls
+were brown with smoke and drab with dust, and spotted like leopards
+in bas-relief until they had taken on the aspect of deliberate,
+although bizarre, decoration.  The chairs and the deep old sofa
+were worn into the exact comfortable needs of human forms.  A
+stovepipe had been fitted into an iron fireboard covering the great
+fireplace, and there was a cooking-stove.  Before it stood a
+kitchen table.  That was covered by a very smooth, clean cloth of
+linen, and it glittered with an old solid-silver service.  The
+cloth of linen and the bright silver at first seemed curiously at
+odds with the room, and yet they were not.  They were made
+subservient, as all else there, to the human need.
+</p><p>Sam Ellis, sole remnant of his family, required perfect
+cleanliness with regard to his meals, and his bedroom was
+immaculate.  Every week his laundry was carefully attended to.
+Much of Sam's slender income was spent for cleanliness, although
+the general aspect of his living-room went far to deny it.
+</p><p>Dust was everywhere.  Sam was philosophical about dust.
+"Folks are silly, fussin' so about dust," he was wont to remark.
+"Dust has to be somewhere.  When it's layin' on the chairs and
+tables it's out of mischief.  You ain't breathin' it in.  What
+folks want to go round stirrin' up dust for when it's quiet and out
+of mischief, beats me."
+</p><p>That afternoon old Billy settled down in his favorite chair,
+a worn, leather-<pb n="33"/> covered rocker which fitted his old bones
+with luxuriousness of comfort.  He drew a long sigh of content.
+After a while he filled his pipe, and the two men smoked, and the
+room was afloat with curling wreaths and eddies of rank smoke.
+However, Billy's face wore an expression of anxiety.  Sam watched
+him.
+</p><p>"Didn't pan out the way you wanted it to last night, I
+reckon," he said at length.
+</p><p>Billy sniffed disgustedly.  "No, it didn't," he grunted.  "Too
+much talk about duty.  Nothin' but duty.  Land!  I wonder whether
+folks are really so much better than they was when you and I was
+young.  Near as I can recollect, there wasn't anywhere near so much
+said about duty."
+</p><p>"Then Esther and Willard think it ain't their duty to get
+married?"
+</p><p>Billy shook his head.  "I listened.  Had to.  Esther thinks
+it's her duty not to tell me things to worrit me.  Drat her duty!
+An' there ain't any way left, if I feel as if I had ought to know
+things, except to listen.  So I listened last night.  They was
+settin' in the best parlor, and the door won't shut tight.  I stole
+down, dreadful still, in my stockin' feet, after they thought I was
+abed, and I listened.  Lord A'mighty, Sam, I ain't the only duty.
+They are stuck fast ag'in."
+</p><p>"What else?"
+</p><p>"Willard's ma."
+</p><p>Sam leaned back and laughed.  "Maria Comstock is just plumb
+crazy to have Willard get married and leave her in peace with her
+sister, Mis' Plummer," said he.  "She told me so only day before
+yesterday.  She was gettin' along, as spry as you please, down to
+the store.  She stepped out like a young girl, and her black-silk
+skirts was swishin', and her bunnit strings flyin', and her head
+up.  I stopped and spoke to her.  You know Maria and me used to
+sort of go together when we was children.  I've always thought that
+if somebody else hadn't come up for her, Maria and me might have
+made a match of it.  She was a real pretty girl, and as smart as
+they make 'em, and she ain't got over it yet.  I thought I'd sort
+of hint about Willard, and she spoke her mind right out.  'Why on
+earth,' said she, 'Willard and Esther want to act the way they do
+is beyond me.  Near as I can find out, Esther thinks it's her duty
+not to leave her pa, and she thinks her pa and me wouldn't get
+along if Willard took him here or she took me there.  And we surely
+would not,' says Maria.  'We surely would not, because I don't want
+any such arrangement, and I wouldn't stand havin' that old man
+around a minute.'  I'm tellin' you just what she said," stated Sam,
+apologetically, to Billy.  "You know what Maria is."
+</p><p>"I don't mind," said Billy.
+</p><p>"'I want Willard to get married, the sooner the better, and
+leave me and sister Addie Plummer in peace,' says Maria.  'We are
+livin' in the old Comstock house, anyway, and folks are thinkin' it
+sort of hard because the minister don't go to live in that nice new
+parsonage they've built.  Willard and Esther can get married, and
+Esther's pa can have somebody come and keep house for him, if he
+don't want to live with them and they don't want him.'"
+</p><p>Sam hesitated and then laughed.
+</p><p>"What did she say next?" asked Billy.
+</p><p>"Well, Maria did say she thought you were sort of cranky, and
+maybe it would work out better for you not to live with them."
+</p><p>Billy laughed.  "Maria and me have got just exactly the same
+opinions," said he.
+</p><p>Sam chuckled.  "I near snorted right out in her face when she
+said that.  Maria was always smart as a whip, and good-lookin',
+but, gee whiz! stand out of the way when you hear her petticoats
+swishin'.  But I swan, now she's in the right of it.  She says she
+and her sister can be a heap more comfortable if Willard gets
+married.  She says their help is gittin' old, and it's nothin' but
+tend door, and answer the telephone, and entertain ministers
+exchangin'.  She says it ain't any work for elderly women.  Then
+she says they have to entertain a lot besides, and poor folks are
+always comin' for some charity just at meal-times.  Lord! poor
+Maria Comstock don't want duty done by her any more than you do,
+Billy.  And I've been thinkin' about Serrah Miles.  What do you
+want to bother with her for?  Here's this big house, and you and me
+could git along enough sight better together <pb n="34"/>  than either of
+us could with any woman housekeeper.  I have Mis' Doty come in
+every week, and wash and iron, and that's all we need done.  I can
+cook to beat any woman round here; and I don't want any arrangin'
+of my belongin's so I can't find a durned thing when I want it.
+You could rent your house, Billy, and that would give you and
+Esther a little extra.  Of course, it wouldn't cost you nothin' to
+live here, but money is money."
+</p><p>"Yes, it is," assented Billy.  He sighed.  "Tell you what
+'tis, Sam: livin' here with you, and both of us doin' jest as we
+are a mind to, would be too much for this world, I guess.  I'd feel
+as I used to with Betsey.  Betsey used to let me smoke all over the
+house.  She said tobacco ashes was clean dirt, and good to keep out
+moths.  I dunno but Betsey would have smoked herself if I'd tried
+to make her.  And I could set anywhere I wanted to, and tip my
+chair back, and lean my head agin' any wall-paper in the house.
+And if I put a thing down anywhere, I'd find it right there six
+months from then.  Betsey never picked up my things so I couldn't
+find 'em.  And that 'Landin' of the Pilgrim Fathers' always used to
+hang with the left side 'way down, and every time I see it hangin'
+straight it makes me homesick.  Esther's a good daughter, though."
+</p><p>"Lord, yes! she's good enough, but she's too everlastin' stuck
+on her duty to know when it's barkin' everybody else's shins!"
+</p><p>"I don't know what to do," said Billy, despondently.  "She and
+Willard talked real decided last night."
+</p><p>Sam Ellis started up.  "There's Eddy Abbott," he said.  He
+rushed to the door and called: "Hullo, Eddy!  Eddy, come here a
+minute."
+</p><p>Sam admitted the small boy, as pink-faced and gentle as a
+little girl.  "You wait a minute, Eddy," said Sam.
+</p><p>Eddy stood immovable, waiting.  He was an obedient child.  He
+did not even shift his weight from one foot to the other.  He did
+not even stare about the room while Sam wrote two notes at the old
+secretary.
+</p><p>"Here, Eddy," said Sam.  "You give this one to the minister,
+and the other to Miss Esther Thomas.  She's at the sewing-circle in
+the vestry.  Here, you wait a minute, Eddy."  Sam took the lid from
+an earthen jar which stood on a magnificent old mahogany table, and
+brought forth two very large brown doughnut twists.  "Here, Eddy,"
+said Sam.
+</p><p>"Thank you," said Eddy.  He stowed away the notes carefully in
+his little coat pocket, took the doughnuts, and walked away eating
+them.
+</p><p>"I fried them doughnuts yesterday," said Sam.  "I don't want
+none of your fancy cakes, but I do like good solid doughnuts and
+pies; and what's more, I can make 'em to suit me better than any
+woman I've known sence my own mother."
+</p><p>"What did you say in them notes?"
+</p><p>"I said somethin' that's goin' to bring duty to a head, jest
+like a bile," said Sam, and roared at his own joke.
+</p><p>Billy looked a little alarmed, then he also laughed.
+</p><p>"Now we'll set back an' wait," said Sam.
+</p><p>Esther was the first to arrive.  She came hurrying down the
+street.  Sam met her at the door.
+</p><p>"Is father here?  What is the matter?" she asked.  She was a
+little out of breath.  Sam, looking over her heaving shoulder,
+draped with soft gray cloth, could see Willard Comstock
+approaching.  He was walking rapidly.  Sam's notes had been
+peremptory.
+</p><p>"Now don't you be one mite scared, Esther," said Sam.  "There
+ain't anything to be scared about.  Your father's in here, and we
+are goin' to settle things.  Why, here's Willard.  Hullo, Willard.
+Walk right in."
+</p><p>Willard Comstock, tall and pale, and gentle of expression,
+with a square chin which seemed to denote that gentleness might
+have to win, at times, in hard battle, did walk in.  He and Esther
+exchanged glances of bewilderment.
+</p><p>"Nothing is the matter with father, is there?" Esther asked.
+Her serene voice was a little tremulous.
+</p><p>"Land, no!  He's as right as a cricket.  No, don't go in
+there.  That's the room where I live, mostly.  I lived there all
+winter, and I've got my cookin'-stove in there.  The spring's so
+late I ain't moved it out into the kitchen.  I'm goin'
+[illustration omitted] <pb n="35"/>  to next week.  Here, you come in this
+room.  There's dust, but we are all made of dust and we hadn't
+ought to mind if we do see it layin' round loose."
+</p><p>Sam ushered them into a fairly stately apartment.  It was very
+large, the ceiling high, and the woodwork was a masterpiece of
+domestic architecture, patiently wrought by hands long since folded
+in the grave.  The furniture was covered with red damask.  Long
+curtains of red damask, caught back by gilt scroll-work, hung at
+the windows.  There was a Turkey carpet, and old portraits and
+engravings.  The room was dark and damp.
+</p><p>Sam opened a window, and a great sighing breath of blooming
+lilacs from a rank growth outside entered the room.  He opened
+another, and a shaft of sunlight marked by floating dust-motes
+crossed the room.  They all sat down.  Sam began to speak.
+</p><p>"I know all about it," said he.  "I know you two young folks,
+that ain't gittin' any younger whilst you're waitin', want to get
+married and set up your own home.  And I know Esther thinks it's
+her duty to stay single and take care of her pa.  And Willard
+thinks it's his to stay single and take care of his ma.
+</p><p>"Now I'm goin' to preach to the minister and the minister's
+wife.  Who be you, either one of you, to set up for knowin' what
+your duty is before other folks that's older?  Esther's father
+wants her to get married.  He thinks the world of her, and he knows
+she's always devoted her life to him, but&mdash;he don't want her to!
+And Willard's ma; she knows Willard has devoted his life to her,
+and&mdash;she don't want him to!
+</p><p>"Billy, here, and Maria, both just want their son and daughter
+to get married and look out for their own interests, and let them
+alone to look out for theirs.  Billy knows he'd be a lot happier
+livin' here with me, and havin' his harmless little way that ain't
+goin' to hurt his immortal soul one mite.  And Maria knows she's
+goin' to be a lot happier livin' with her sister than she is with
+a man messin' 'round, no matter if he is her own son and the salt
+of the earth.  Maria is all worn out playin' the second religious
+fiddle.  She's too old.
+</p><p>"So both of you, Willard and Esther, have been thinkin' you
+were doin' your duty and feelin' real miserable over it when you
+wasn't neither one of you doin' your duty at all.  What you haven't
+neither one of you sensed is that enough sight oftener than folks
+realize doin' their duty is havin' their own way and lettin' other
+folks have theirs."
+</p><p>Willard and Esther looked at each other.
+</p><p>"It is so," said Sam Ellis, with a magnificent gesture of
+authority.
+</p><p>After Willard and Esther had gone, Sam began to make
+preparations for supper.  It was a cold day for May.  Sam was to
+have a hot supper.
+</p><p>Billy watched him, fairly grinning with delight.  "Say, Sam,"
+said he, "s'pose it's settled?"
+</p><p>"Sure," said Sam.  "They'll get married right off and then you
+and me will bunk together.  Here, you peel these onions and slice
+'em thin."
+</p><p>"Fried onions!" gasped Billy.
+</p><p>"As prime a beefsteak as ever you laid your eyes on and fried
+onions," proclaimed Sam, "and hot baked potatoes and coffee and
+doughnuts."
+</p><p>"I 'ain't had any fried onions since Betsey died," said Billy.
+"She and I used to have 'em twice a week, regular.  Esther would
+have had 'em if I'd asked her, but I never asked her.  It would
+have been a real trial to her."
+</p><p>"I ain't sayin' anything against your daughter," said Sam,
+"but sometimes I've really wondered if many folks spoke the truth
+when they said they didn't like onions."
+</p><p>"I guess Esther don't really like 'em," said Billy.
+</p><p>"Well, I dare say she don't.  We do, and we can have 'em every
+day in the week if we want to.  Slice 'em thin, Billy."
+</p><p>"Beefsteak and fried onions," said Billy, thoughtfully.
+</p><p>Sam, on his way to the stove with the beefsteak, looked at
+Billy, and Billy looked at him.  In both faces was the expression
+of men who have regained freedom and found her dearer than they
+remembered.
+</p><p>"I guess now we'll all be happy, and do our duty, and have our
+own way," said Sam.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>
+
+
+

@@ -1,0 +1,3399 @@
+<?xml version="1.0"?>
+
+<?dlps id="WroPamp"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOnum SYSTEM "http://text.lib.virginia.edu/charent/iso-num.ent"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+ 
+]> 
+<TEI.2 id="WroPamp"> 
+<teiHeader type="migrated" creator="Etext">
+<fileDesc>
+<titleStmt>
+<title type="main">Pamphilia, to Amphilanthus: A Sonnet Sequence 
+from the Countesse of Mountgomeries Urania</title>
+<title type="sort">pamphilia, to amphilanthus a sonnet sequence from the countesse of mountgomeries urania</title>
+<author>Wroth, Lady Mary</author>
+<respStmt>
+<resp>Creation of machine-readable version</resp> 
+<name>Richard Bear, University of Oregon; rbear@oregon.uoregon.edu</name> 
+<resp>Conversion to TEI-conformant markup</resp>  
+<name>University of Virginia Library Electronic Text Center</name>
+</respStmt>
+</titleStmt> 
+<extent>ca. <num type="kilobytes">151</num> kilobytes</extent> 
+<publicationStmt>
+<publisher>University of Virginia Library</publisher>
+<pubPlace>Charlottesville, Virginia</pubPlace> 
+<idno type="ETC">WroPamp</idno> 
+<date value="1994">1994</date>
+<availability status="public">
+<p n="copyright">Copyright &copy; 1994 by the Rector and Visitors of the University of Virginia</p>
+<p n="access">Publicly accessible</p>
+</availability>
+<idno type="uva-pid">uva-lib:476564</idno>
+</publicationStmt>
+<seriesStmt>
+<title>University of Virginia Library, Text collection</title>
+<idno type="uva-set">UVA-LIB-Text</idno>
+</seriesStmt> 
+<notesStmt>
+<note>
+<p>The text for this etext edition was transcribed by Richard Bear and 
+proofread by Richard Bear and Micah Bear, and follows that of the
+printed Mariott and Grismand text of 1621, as found in the copy in the collection 
+of the Folger Shakespeare Library. The editor wishes to thank the Folger 
+Library for permission to use the text of their copy, and also thanks 
+Professor Casey Charles for valuable suggestions concerning the 
+Introduction. <lb/>
+Italics found in the original have not been indicated here. Long "s"
+has been silently emended to short "s"; however, seventeenth century usage of 
+"i" for "j" and  of "u" and "v" have been retained. Catchwords have been 
+eliminated. Probable typographical errors and compositor's misreadings have 
+been enclosed in brackets, and emendations for these, based on Josephine 
+Roberts' reading of Lady Mary's manuscript, are suggested in the right-hand 
+margin. Pagination follows that of the compositor, who is sometimes in 
+error, and is indicated within angled brackets, also in the right-hand 
+margin. Endnotes are indicated within the text by numbers enclosed within 
+braces. It is possible that these notes and marginalia may interfere with 
+string searches and vocabulary analyses; *do* feel free to make working 
+copies from which you may remove extraneous matter. This file may be 
+distributed freely for nonprofit, scholarship, and teaching purposes
+only.<lb/>
+Copies distributed offsite should remain unchanged and include this 
+paragraph. Please direct enquiries, comments and especially
+corrections to rbear@oregon.uoregon.edu (Internet), or to Richard Bear, Department of 
+English, University of Oregon, Eugene, Oregon, USA 97403.</p>
+</note>
+</notesStmt> 
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title type="main">Pamphilia, to Amphilanthus: A Sonnet Sequence 
+from the Countesse of Mountgomeries Urania</title>
+<title type="sort">pamphilia, to amphilanthus a sonnet sequence from the countesse of mountgomeries urania</title>
+<author>Lady Mary Wroth</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Mariott and Grismand</name> 
+<resp>Editor</resp>
+</respStmt>
+</titleStmt> 
+<publicationStmt> 
+<date value="1621">1621</date>
+</publicationStmt> 
+<notesStmt>
+<note>
+<p>Copy in the collection of the Folger Shakespeare Library</p>
+</note>
+</notesStmt>
+</biblFull>
+</sourceDesc>
+</fileDesc> 
+<encodingDesc>
+<projectDesc>
+<p>Prepared for the University of Virginia Library Electronic Text Center</p>
+</projectDesc> 
+<editorialDecl>
+<p>All quotation marks retained as data</p> 
+<p>All unambiguous end-of-line hyphens have been removed, and the 
+trailing part of a word has been joined to the preceding line.</p> 
+<p id="ETC">Keywords in the header are a local Electronic Text Center scheme 
+to aid in establishing analytical groupings</p>
+</editorialDecl> 
+<refsDecl>
+<p>ID elements are given for each page element and are composed of the text's 
+unique cryptogram and the given page number, as in SpeFQue1 for page one of  
+Spenser's Faerie Queene.</p>
+</refsDecl> 
+</encodingDesc> 
+<profileDesc>
+<creation>
+<date value="1621">1621</date>
+</creation> 
+<langUsage>
+<language id="eng" usage="main">English</language>
+</langUsage> 
+<textClass>
+<keywords>
+<term>fiction</term>
+<term>poetry</term>
+</keywords>
+</textClass>
+</profileDesc> 
+<revisionDesc>
+<change>
+<date value="1994-05">May 1994</date> 
+<respStmt>
+<resp>Corrector</resp>
+<name>Kelly Tetterton</name>
+</respStmt> 
+<item>Conversion to TEI tagging; underlines changed to italics tags</item>
+</change> 
+<change>
+<date value="2005-07">July 2005</date>
+<respStmt>
+<resp>Corrector</resp>
+<name>Margaret Konkol</name>
+</respStmt>
+<item>Converted SGML to XML and fixed tagging.</item>
+</change>
+<change>
+<date value="2007-09">September 2007</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Ethan Gruber, University of Virginia Library</name>
+</respStmt>
+<item>Converted XML markup from TEI Lite to uva-dl-tei (TEI P4 with local customizations).</item>
+</change>
+<change>
+<date value="2008-01">January 2008</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Greg Murray, University of Virginia Library</name>
+</respStmt>
+<item>Programmatically updated TEI header markup (but not header content) for minimal compliance with current QA requirements.</item>
+</change>
+</revisionDesc>
+</teiHeader> 
+<text id="d1"> 
+
+<front id="d2"> 
+<div1 type="foreword" id="d3">
+
+<head>Introduction</head> 
+<p></p>
+</div1>
+
+<div1 type="note" id="d4"> 
+
+<head>Biographical note</head> 
+
+<pb/> 
+
+<p>Lady Mary Wroth, "daughter to the right noble Robert, Earl of Leicester,  
+and niece to the ever famous and renowned Sir Philip Sidney...and to the  
+most excellent Lady Mary, Countess of Pembroke"<ref target="n1">[1]</ref>, was born in 1586 or  
+1587.<ref target="n2">[2]</ref> She was often in the home of her namesake, Mary Sidney Herbert,  
+where she had access to classical and humanist literature and the  
+unpublished works of various Sidneys, including probably the <hi rend="italic">Old Arcadia</hi>.  
+Throughout much of young Mary's childhood, Robert Sidney was in charge of  
+the English garrison at Flushing, in the Netherlands, and was able to see  
+the family only at infrequent intervals. Upon the death of Queen Elizabeth,  
+he began a rapid rise at Court, being created Baron Sidney of Penshurst by  
+King James. Thereafter the family was frequently seen at Court, and Mary,  
+now a young woman, became an active participant in Court doings about 1604.  
+She participated in Court Masques before Queen Anne, one of which was Ben  
+Jonson's <hi rend="italic">The Masque of Blackness</hi>, which was designed by Inigo Jones.  
+Jonson took an interest in Mary Sidney's writing, as did a number of other  
+poets of the time, including George Chapman. Jonson dedicated <hi rend="italic">The  
+Alchemist</hi> to Mary, and wrote of her that her sonnets made him "a better  
+lover and a much better Poet" <ref target="n3">[3]</ref>.  
+</p><p>Mary Sidney was married in 1604 to Sir Robert Wroth. The match  
+apparently was not a happy one <ref target="n4">[4]</ref>. Her husband ran up massive debts and  
+died in 1614, leaving the young widow to apply to the King for relief from  
+her creditors. She had one child from her marriage, who died at about the  
+age of two, and two "natural" children whose father was William Herbert,  
+Earl of Pembroke, her first cousin and very probably the person in her life  
+for whom Amphilanthus is a <hi rend="italic">persona</hi>. 
+</p><p>Lady Mary Wroth's prose romance <hi rend="italic">The Countesse of Mountgomeries Urania</hi>  
+appeared in 1621, perhaps in a bid for income from writing. The first ever  
+long fiction work by an Englishwoman, it recounts the adventures of  
+Pamphilia, Queen of Pamphilia, and her lover Amphilanthus, interspersing  
+many incidental stories of women disappointed in love, particularly as a  
+result of their being married by their families to the wrong man. Some of  
+the stories appear to have been based on intrigues in the Court of King  
+James; as a consequence Lady Mary was ordered to withdraw the book from  
+sale and it was never reprinted. A second volume may have been planned, as  
+the story is continued in manuscript but remains unfinished. The sonnet  
+cycle presented in the present etext edition, <hi rend="italic">Pamphilia to Amphilanthus</hi>,  
+appears at the end of the <hi rend="italic">Urania</hi> under separate pagination but clearly  
+intended to be read as written by the fictional <hi rend="italic">persona</hi> of Pamphilia. An  
+unpublished pastoral drama, <hi rend="italic">Loues Victorie</hi>, comprises the remainder of  
+Wroth's known work.  The scandal over the publication of the <hi rend="italic">Urania</hi> seems  
+to have permanently discredited Lady Mary Wroth at Court, and almost  
+nothing is known of her later years. She never remarried, and died about  
+1651-3.</p>  
+</div1> 
+<div1 type="addenda" id="d5"> 
+<head>Pamphilia's Constancy as a Universal Virtue</head> 
+ 
+<p>The means of attaining "honor" available to women of Renaissance and  
+Reformation England was, as in most of Western history, limited to one:  
+Constancy, an extension of the medieval virtue of chastity. The same idea  
+is expressed in both: a man must know whether the offspring he supports are  
+his own. Men might attain honor through excellence in various arts, such as  
+war, horsemanship, loyal service to a prince, or authorship, but constancy,  
+not to mention chastity, was not a requirement to their attainment of  
+honor. That constancy might be the measure of honor for both genders alike 
+was an extraordinarily unavailable idea. Yet this idea is the central and  
+almost only theme of the powerful seventeenth-century sonnet cycle by Lady  
+Mary Wroth, <hi rend="italic">Pamphilia to Amphilanthus</hi>.  
+</p><p>Societies that have sexual division of labor also tend to have division  
+of virtues. Penelope was true to Odysseus because it was a Greek <hi rend="italic">woman's</hi>  
+virtue to remain faithful under all circumstances. This feminine virtue was  
+retained by the Christian civilization that succeeded the classical era:  
+women were taught to honor their husbands according to the teachings of  
+Paul and the example of the Good Wife in Proverbs. Though Paul also  
+stressed that husbands should honor their wives, this was easily forgotten  
+in a world in which women were property. It was considered sufficient  
+evidence of virtue in a man if he proved a good steward of his property by  
+spending himself in its maintenance:</p>  
+<lg><l>...he commits his body</l> 
+<l>To painful labor both by sea and land,</l> 
+<l>To watch the night in storms, the day in cold,</l> 
+<l>Whilst thou liest warm at home, secure and safe;</l>
+<l>(<hi rend="italic">Taming of the Shrew</hi> V.ii.148-50)</l> 
+</lg> 
+<p>The power of this social division appears in the work of Christine de  
+Pisan, an original and authoritative fifteenth century writer who  
+nevertheless is always careful to assign originality and authority to men,  
+and counsels the wife to live in complete submission: 
+ <lb/>
+     ...she will humble herself towards him, in deed and word and by <lb/> 
+     curtsying; she will obey without complaint; and she will hold her <lb/> 
+     peace...suppose he is unloving towards his wife or strays into a <lb/> 
+     love affair...she must put up with all this and dissimulate <lb/> 
+     wisely, pretending that she does not notice it and that she truly<lb/>  
+     does not know anything about it (<hi rend="italic">Treasure of the City of Ladies</hi><lb/>  
+     63-4).<lb/> 
+ 
+</p><p>De Pisan likens the ideal wife to the biblical Queen Esther, who, obedient  
+in all things, was eventually granted whatever she asked. The virtuous  
+woman, on this model, is one who adheres to virtues specifically regarded  
+as feminine: patience, humility, chastity. Like the famous Griselda, she is  
+to bear all in silence with a good will.  
+</p><p>The social pressure on women to conform to this model defined by men,  
+and the possibility that women might adopt the masculine model as a means  
+of escape, is acutely analyzed by Baldesar Castiglione in the second book  
+of his <hi rend="italic">Il cortegiano</hi>. The courtiers have been discussing the playing of  
+practical jokes as a social strategy, when one of them, Bernardo Accolti,  
+takes exception to the playing of such tricks, involving imputation of  
+unchastity, on women: such jokes, he informs all present, are not funny  
+because a woman's honor is all she has: 
+ 
+    ..we ourselves have set a rule that a dissolute life in us is not<lb/>  
+    a vice, or fault, or disgrace, while in women it means such utter <lb/> 
+    opprobrium and shame that any woman of whom ill is once spoken is <lb/> 
+    disgraced forever, whether what is said be calumny or not (188).<lb/> 
+ 
+</p><p>An antifeminist, Ottavio Fregosi, defends the double standard on a  
+principle of natural inequality: 
+ 
+     ...since women are very imperfect creatures, and of little or no <lb/> 
+     worth compared with men, and since of themselves they were not <lb/> 
+     able to do any worthy thing, it was necessary, through shame and <lb/> 
+     fear of infamy, to put a curb on them which would give them some <lb/> 
+     good quality. And it was chastity that seemed more needful for <lb/> 
+     them than any other quality, in order for us to be certain of our <lb/> 
+     offspring (189).<lb/> 
+ 
+</p><p>Gasparo Pallavicino seeks to bolster this argument with a striking  
+assertion &mdash;  
+ 
+     ...it greatly argues the perfection of man and the imperfection of <lb/> 
+     women that all women without exception desire to be men, by a <lb/> 
+     certain natural instinct that teaches them to desire their own <lb/> 
+     perfection (217).<lb/> 
+ 
+ &mdash; to which Giuliano de' Medici responds with acerbity: 
+ 
+     The poor creatures do not desire to be men in order to become more <lb/> 
+     perfect, but in order to gain freedom and to escape that rule over <lb/> 
+     them which man has arrogated to himself by his own authority (217).<lb/> 
+ 
+</p><p>Even though Emilia Pia and the Duchess of Gonzaga and other women are  
+present, what they thought of the assertion that they wanted to be men they  
+either did not divulge, or it was not recorded by Castiglione. His  
+courtiers go on to describe the virtues of the Courtier and the Court Lady  
+as largely gender-specific.  
+ 
+</p><p>Elizabethan and Jacobean literature in England intensifies the  
+tradition of sex-specific virtues and the proper forms for exercising those  
+virtues (heroisms). A lively debate raged throughout the period on the  
+topic of whether women could even exercise their own proper virtues. Some  
+assumed it is possible and argued for this by compiling lists of examples:  
+Chaucer's <hi rend="italic">The Legend of Good Women</hi> is an instance. Shakespeare appears to  
+believe in good women: Marina, Ophelia, Hermione, and Desdemona are  
+succesors to the patient Griselda and easily enlist the sympathy of an  
+audience that appreciates "womanly" virtue in women.  
+</p><p>Some Renaissance authors (all male) enjoyed creating female characters  
+who crossed over into the exercise or attempted exercise of masculine 
+virtues. Many examples found in Shakespeare are unflattering; of Lady  
+Macbeth, Joan of Arc, Volumnia, or Goneril, the kindest that may be said is  
+that they seem to be out of place in women's bodies. Admirable characters  
+on this model do exist, but are more often allegorical figures than  
+representations of imitable action. Spenser's Britomart goes about in armor  
+defeating villains, but is a figure of Chastity. Another instance is Lyly's  
+Cynthia, who successfully crosses the gender-role boundary because she is a  
+ruler: though she is forever chaste (and hence yet another figure for  
+Chastity), she may kiss Endymion awake because as sovereign she may do what  
+as a woman she may not. Several of Shakespeare's engaging comedic heroines  
+do get to explore a man's world without losing our sympathy, but  
+significantly they do this by dressing as men; Viola, Rosalind, and Portia  
+are examples. 
+</p><p>What these male-virtue success stories have in common is that they are  
+drawn upon a living model: Elizabeth I, whose political survival depended  
+on convincing everyone that she was the sole exception to the rule that  
+male roles must be inhabited by males. Britomart and Cynthia are  
+acceptable as allegories, but their martial and stately powers are not  
+intended to fall into the wrong hands &mdash; those of women in general.  
+</p><p>Women writers of the Renaissance and Reformation were few, and they  
+were limited by social pressures almost exclusively to polemical writings.  
+They might write in response to misogynists, defending women from attacks  
+that claimed they could not even uphold their one allocated virtue of  
+constancy, or they might write on religious topics. Interestingly this  
+limitation provided an opportunity for women to produce an ideology of  
+virtue that identified womanly virtue with Christianity, and to suggest to  
+men that male heroism consists not in the practice of "manly" virtues but  
+in joining in the practice of those virtues traditionally allocated to  
+women. Elaine Beilin, in <hi rend="italic">Redeeming Eve</hi>, traces this approach from  
+Christine de Pisan's <hi rend="italic">The City of Women</hi> to Anne Askew, Rachel Speght,  
+Elizabeth Carey, and others. If the Church is the bride of Christ, ran the  
+argument, especially among women of the Reformation, then men as well as  
+women should act the part of a bride in the life of faith. An instance of  
+this argument is a letter from Lady Jane Grey to one John Harding,  
+protesting his conversion to Catholicism, reported in Foxe's <hi rend="italic">Actes and  
+Monuments</hi>: He was, she says, "sometyme the unspotted spouse of Christ, but  
+now the unshamefast paramour of Anti-Christ" (920). This strategy is  
+rhetorically effective, opening to women a new opportunity to participate  
+intellectually and authoritatively in the creation of the new Reformation  
+society. But the ground gained was specifically in the arena of religious  
+writing. Philip Sidney's sister, the Countess of Pembroke, was praised as a  
+writer <hi rend="italic">because</hi> she had limited herself to producing versified  
+translations of the Psalms (Quilligan, "The Constant Subject" 307-8).  
+ 
+</p><p>It remained for Lady Mary Wroth to break new secular ground with this  
+feminine model of virtue and honor. <hi rend="italic">The Countesse of Mountgomeries Urania</hi>,  
+published in 1621, is, like her uncle Philip Sidney's <hi rend="italic">The Countess of  
+Pembroke's Arcadia</hi> which it imitates, a long and rambling prose romance  
+interspersed with poems. To it is appended a sonnet sequence entitled  
+<hi rend="italic">Pamphilia to Amphilanthus</hi>, which, like <hi rend="italic">Astrophil and Stella</hi>, contains  
+not only sonnets but a number of strategically placed lyric songs. Both the  
+romance and the sequence were written in genres long out of favor, but  
+which had been successfully used by the Sidney family. Wroth consciously  
+imitates her uncle and also her father, Robert Sidney, but adapts their  
+genres and styles to her own purpose (Quilligan 308). 
+</p><p>The central characters of the romance are Pamphilia, queen of the  
+island kingdom of Pamphilia, and the man she loves, Amphilanthus.  
+"Pamphilia" is from Greek roots, as befits a Greek romance, and means "all-loving." "Amphilanthus" is "lover of two." The conflict of aims represented  
+in these contrasting names is that produced by the traditional male  
+privilege of a double standard. At first, it appears that Pamphilia will be  
+presented to us as a paragon of the Griselda model of traditional female  
+virtue ("chaste, obedient and patient," remarks Beilin [<hi rend="italic">Redeeming Eve</hi>  
+221]), but the story in the <hi rend="italic">Urania</hi> fails to focus, as one might expect,  
+on the patience and humility of the heroine. She is, after all, an  
+unmarried queen with a people to govern, like Elizabeth I, and therefore is  
+potentially an exemplar of the woman who has appropriated male virtues.  
+Wroth, however, stresses Pamphilia's traditional femininity throughout,  
+yet introduces an innovation: Pamphilia's constancy is upheld as a  
+universal model. Amphilanthus' lack of this virtue is his one failing, and  
+it is viewed as an actual failing and not something to be passes off as  
+simply lacking because he is male. Pamphilia is constant, Amphilanthus is  
+not, and this discrepancy drives the plot. Neither will find happiness  
+until Amphilanthus attains honor, without which he will be unworthy of  
+Pamphilia. And he will not find his honor until he finds constancy. Wroth's  
+conception of female virtue then is that it is normative for both genders.  
+A new possibility arises: human virtue.  
+</p><p>It should be noted that Pamphilia is not married to Amphilanthus, which  
+helps to force the issue, as traditional marriage relations thus have no  
+bearing on the plot of the <hi rend="italic">Urania</hi>. Maureen Quilligan observes:  
+ 
+     Pamphilia enacts a traditional, Griselda-like virtue, yet for the <lb/> 
+     woman who is specifically not fulfilling the duties of a wife. We <lb/> 
+     are forced to ask, what purpose could Pamphilia's obstinate <lb/> 
+     constancy be serving? One answer is surely that her constancy <lb/> 
+     becomes the stable position from which she can complain <lb/> 
+     (poetically) of her lover's <hi rend="italic">in</hi>constancy (323).<lb/> 
+ 
+</p><p>As we have seen in Castiglione, however, inconstancy is a traditionally  
+sanctioned male prerogative. Quilligan correctly catches the irony in  
+passages in which Pamphilia's friends critique female and male attitudes  
+toward fidelity, and correctly identifies these passages as doing the main  
+business of the text, but assumes that the reversal of gender roles implied  
+in the irony merely inverts the social value associated with those roles,  
+so that woman's virtue, rather than man's, is to be found superior. Such is  
+indeed is the view of one of Pamphilia's friends:  
+ 
+     It was laid to our charge in times passed to bee false, and <lb/> 
+     changing, but they who excell us in all perfections, would not for<lb/>  
+     their honours sake, let us surpasse them in any one thing, though <lb/> 
+     that, and now are much more perfect, and excellent in that than <lb/> 
+     wee, there is nothing left us, that they excell us not in, <lb/> 
+     although in our greatest fault (<hi rend="italic">Urania</hi> I.iii 375).<lb/> 
+ 
+</p><p>But this voice, like that of Urania herself and others in the romance,  
+whose views contain much wisdom and have influence on Pamphilia, is not  
+Pamphilia's own voice, and does not direct her eventual course. Men may be  
+inconstant by nature, and Amphilanthus is a man; yet Pamphilia does not  
+bewail his inconstancy as an unalterable fact of nature but as a fact that  
+can and must be altered for the better. The critique of Amphilanthus  
+implicit in the narrative of the <hi rend="italic">Urania</hi> has the force of a call for  
+conversion. If this man (and by implication, mankind) would be truly worthy  
+of the constant Pamphilia he would not cause her to suffer as he does by  
+accepting the double standard.  
+ 
+</p><p>The sonnet cycle, <hi rend="italic">Pamphilia to Amphilanthus</hi>, shares with the <hi rend="italic">Urania</hi>  
+the project of turning Amphilanthus from the path of inconstancy, and  
+concentrates on a single argument: constancy is not a gender-specific  
+virtue. This project by itself stands on its head the Petrarchan tradition  
+of courtly love poetry, for Amphilanthus, unlike Stella, Caelica, Phyllis,  
+and a hundred others to whom sonnet cycles were addressed, is not an  
+<hi rend="italic">object</hi>. He is instead enlisted in Pamphilia's quest for a mutually  
+supported happiness founded upon the relinquishing of objectification, the  
+mode by which oppressive power relations are constructed. 
+</p><p>In the first sonnet, Venus adds fire "To burning hearts which she did  
+hold above" (1), an image of exposure. Because the sequence is expressly  
+addressed to Amphilanthus, he is implicated in the crime of exposure and  
+objectification which this public display exemplifies. His heart is not  
+held aloft, but hers is: "Yet since: O me, a lover I have beene" (1). "O  
+mee" publishes her pain to him and reminds him that it is hers and not his,  
+though he is its focus. In the second sonnet she adds that he is not merely  
+the focus of her pain but its producer: his eyes "can triumph in their  
+harms" (1). The third sonnet encapsulates the rhetorical method of the  
+sonnet sequence as a whole:</p>  
+<lg>
+ <l>Will you your seruant leave: thinke but on this,</l> 
+ <l>  Who weares Loue's Crowne, must not doe so amisse</l> 
+ <l>  But seeke their good, who on thy force do lye (2).</l> 
+ </lg>
+<p>In the fifth sonnet she presses the argument more forcefully:</p> 
+ <lg>
+ <l>Eyes hauing [none], reiecting proues a sting      [wunn (Roberts 87)]</l> 
+ <l>  Killing the budd before the tree doth spring;</l> 
+ <l>  Sweet lipps, not loving, doe as poyson prove:</l> 
+ </lg>
+<lg>
+ <l>Desire, sight, Eyes, lipps; seeke, see, proue, and finde</l> 
+     <l>  You love may winn, but curses if vnkind,</l> 
+     <l>  Then show you harmes dislike, and ioy in love (3).</l> 
+ </lg>
+<p>In the sixth sonnet Pamphilia declares that grief itself pities her grief,  
+and scorn is ashamed of its scornfulness, "And would give place for joyes  
+delights to flow" (3), while in the first Song a shepherdess decries  
+inconstancy at the foot of a willow, the emblem of betrayed maidens (4). 
+</p><p>Up to this point all is familiar enough from traditional literature of  
+unrequited love; but there is a shift in the seventh sonnet, addressed to  
+Cupid, signalling the presence of a "resolv'd soul":</p> 
+ <lg>
+     <l>I doe confesse, t'was thy will made me choose,</l> 
+     <l>And thy fair shewes made me a Lover prove</l> 
+     <l>  When I my freedome did for paine refuse.</l> 
+ </lg><lg>
+     <l>Yet this Sir god, your Boy-ship I despise,</l> 
+     <l>  Your charmes I obey, but loue not want of eyes (5).</l> 
+ </lg>
+<p>Cupid's famous blindness does not impress her. She admits her powerlessness  
+before his charms but will not allow this as an excuse for not taking  
+responsibility for her own actions. This ethic is the basis for her honor 
+and is the ethic she is recommending to Amphilanthus. In the twenty-first  
+sonnet, she makes this recommendation explicit:</p> 
+ <lg>
+     <l> Then, since my faith is such, so kinde my sleepe,</l> 
+     <l> That gladly thee presents into my thought,</l> 
+     <l> And still true Louer-like thy face doth keepe,</l> 
+     <l> So as some pleasure shadow-like is wrought.</l> 
+ </lg><lg>
+    <l>  Pitty my louing, nay of consience giue</l> 
+    <l>  Reward to me in whom thy self doth liue (21).</l> 
+ </lg>
+<p>Wroth uses the Petrarchan convention that an act of fealty must be  
+recognized and rewarded by the beloved. Masculine voices use the argument  
+to gain sexual access &mdash; the woman, if she consents to "ease his paine,"  
+consents to being treated as an objective. Pamphilia's objective, however,  
+is not Amphilanthus (whom she has already attained) but his constancy. She  
+is so faithful that she dreams of him: "my faith is such." The dream image,  
+however, is not the Amphilanthus ("lover of two") of experience but the  
+Neoplatonic potential she sees in him (<hi rend="italic">"true</hi> Louer-like").  
+</p><p>In the fifth song, in very compact language, Pamphilia explains to her  
+lover that the true end of even such erotic love as theirs is that unity  
+with the divine of which earthly faithfulness is a symbol: </p> 
+<lg> 
+<l>    Time gaue time but to be holy,</l> 
+     <l> True Loue, such ends best loueth:</l> 
+<l>    Unworthy Loue doth seeke for ends,</l> 
+<l>    A worthy Loue but worth pretends;</l> 
+     <l> Nor other thoughts it proueth (16).</l> 
+ </lg>
+<p>The test, she says, of an unworthy or dishonorable love is its  
+preoccupation with "ends," or objectification. A worthy love seeks only  
+worth. This argument may seem to be undercut by the <hi rend="italic">paranomasia</hi> of  
+"Wroth" in "worth"; May Paulissen points out that "worth" was at the time  
+the common pronunciation of "Wroth" (Paulissen 22). If a worthy love  
+seeks only the author, is she not an object? But her self-identification  
+with worth is its own answer to this objection: if, as the Petrarchans have  
+always said, the beloved's superior qualities indicate the immanence of  
+divinity, Mary Wroth expects to be treated accordingly.  
+</p><p>Amphilanthus apparently finds the argument unconvincing. The pain and  
+darkness expressed throughout the first part of the sequence continues  
+unrelenting, and if anything becomes more despairing. Pamphilia at length  
+can only reaffirm what action she will unilaterally take, ending the  
+section with defiance in the face of potential loss of identity: "Yet loue  
+I will, till I but ashes proue." She signs this poem with her name, as if  
+it were a pledge, which indeed it is. The probable <hi rend="italic">paranomasia</hi> of the  
+stressed "will" for William Herbert, Earl of Pembroke, Wroth's lover  
+(Roberts, <hi rend="italic">The Poems</hi> 115) unites Wroth with her persona, the "all-loving"  
+Pamphilia, and serves to remind us that their views on love coincide. If  
+the poems ended here, we might conclude that her stance is heroic enough to  
+command attention but is suicidally Griselda-like. If publishing her pain  
+to Amphilanthus has not moved him, why not serve him as he has served her,  
+and give him up? In the <hi rend="italic">Urania</hi> Pamphilia replies to this suggestion by  
+pointing out that love is not love when it has only one's own satisfaction  
+in view: "To leave him for being false would shew my love was not for his  
+sake, but mine owne, that because he loved me, I therefore loved him, but  
+when hee leaves I can do so to (400)." She will not objectify, for to do so  
+would deprive her beloved of the only example available to him of a non-objectifying love, and so seal his fate.  
+</p><p>Following the signed poem, there is a "turn" or <hi rend="italic">volta</hi> in the sequence  
+that resembles a moment in the <hi rend="italic">Urania</hi> in which Pamphilia arrives at the  
+entrance to a cave in which Amphilanthus has been imprisoned by a hellish  
+spell. She finds that she cannot rescue him, because the cave's entrance  
+filters out true lovers:</p> 
+ <lg>
+     <l>Faithfull louers keepe from hence</l> 
+     <l>None but false ones here can enter.</l> 
+ </lg>
+<p>Elaine Beilin notes this passage and rightly finds it significant that  
+Pamphilia "has no choice but to return to court where 'more like a  
+religious, then a court life, she liued some yeares.'" (<hi rend="italic">Redeeming Eve</hi>  
+229). 
+</p><p>In like manner the remainder of the sonnet sequence turns inward,  
+with many poems meditative and contemplative in character, or self-exhortatory: "Yet Faith still cries, Love will not falsifie" (32). The echo  
+(and reversal) here of Philip Sidney's "But ah, Desire still cries, give me  
+some food" (AS 72) is instructive: where Astrophil seeks escape from  
+virtue through the voice of personified Desire, Pamphilia seeks to hold to  
+the virtue of constancy through the personified voice of Love. The  
+disorientation of the steadfast lover brought to the edge of despair is  
+expressed by the randomness of the early poems of the second section, and  
+then becomes the focus of a highly organized analysis in a fourteen-sonnet  
+<hi rend="italic">corona</hi>, or "crown" of sonnets, in which each poem begins with the last  
+line of the preceeding one. The problem is stated in the first stanza of  
+the first sonnet:</p> 
+ <lg>
+     <l> In this strange Labyrinth how shall I turne,</l> 
+     <l> Wayes are on all sids while the way I misse:</l> 
+     <l> If to the right hand, there, in loue I burne,</l> 
+     <l> Let mee goe forward, therein danger is (36).</l> 
+ </lg>
+<p>And it is resolved in the eighth:</p> 
+ <lg>
+     <l> He that shuns Loue, doth loue himselfe the lesse,</l> 
+     <l> And cursed he whose spirit, not admires</l> 
+     <l> The worth of Loue, where endlesse blessednes</l> 
+     <l> Raignes, &amp; commands, maintain'd by heau'nly fires (38).</l> 
+ </lg>
+<p>While the mode of this poem in its setting is soliloquy, the generic  
+pronoun with which it begins reminds us that Pamphilia's advice is not to  
+herself alone but to all. The love that here is "shunned" is the non-objectifying love Pamphilia has herself embraced, and she argues to herself  
+that she must not now waver; at the same time she universalizes the  
+argument, and suggests that the grace of honor is accorded only to  
+perseverence in constancy. Remembering in her crisis that constancy is for  
+everyone, she achieves a spiritualization of love that, unlike the  
+spiritualization of earthly love by Petrarch and so many of his masculine  
+followers, does not depend upon dressing up the beloved as God. Instead,  
+the beloved is pointed the way to become like Pamphilia herself, who in her  
+constancy has found a way to union with the divine. She attains a costly  
+clarity in so doing: she sees she must be prepared to give up her self-interested pursuit of Amphilanthus if her constancy is to remain exemplary. 
+</p><p>This clarity stays with Pamphilia as she pens her farewell sonnet.  
+Though it is ostensibly a "farewell to love" addressed to her muse, it is a  
+farewell not to love but to immaturity in love. The poem shifts in address  
+until it ends in advice not only to herself but to Amphilanthus, to whom  
+the sequence as a whole is addressed:</p> 
+ <lg>
+     <l> My Muse now happy lay thy selfe to rest,</l> 
+     <l>   Sleepe in the quiet of a faithfull loue,</l> 
+     <l>   Write you no more, but let these Phant'sies mooue</l> 
+     <l>   Some other hearts, wake not to new vnrest  </l> 
+</lg>
+<lg>
+     <l> But if you Study be those thoughts adrest</l> 
+     <l>   To truth, which shall eternall goodnes prooue;</l> 
+     <l>   Enioying of true ioy the most, and best</l> 
+     <l>   The endles gaine which neuer will remoue.</l> 
+</lg>
+<lg>
+     <l> Leaue the discourse of Venus, and her sonne</l> 
+     <l>   To young beginners, and their braines inspire</l> 
+     <l>   With storyes of great Loue, and from that fire,</l> 
+     <l>   Get heat to write the fortunes they haue wonne.</l> 
+</lg>
+<lg>
+     <l> And thus leaue off; what's past shewes you can loue,</l> 
+     <l> Now let your Constancy your Honor proue.</l> 
+     <l> [Pamphilia] </l> 
+</lg>
+
+<p>The concluding signature, found in the manuscript, strengthens the address. 
+Only his conversion to the "womanly" virtue of constancy will make  
+Amphilanthus the man of honor Pamphilia knows he can be. Assuming <hi rend="italic">his</hi>  
+thoughts are addressed to truth, Lady Mary Wroth's argument that a single  
+standard of virtue precedes gender proves to be an argument from a position  
+of strength.  </p>
+
+<signed>Richard Bear<lb/> 
+University of Oregon</signed> 
+ 
+</div1> 
+</front> 
+
+<body id="d6"> 
+
+<div1 type="poem" id="d7"> 
+<head>PAMPHILIA, TO AMPHILANTHVS</head> <pb n="1"/> 
+
+<lg type="section" n="1"> 
+ 
+<l>When night's blacke Mantle could most darknesse proue,</l> 
+<l>  And sleepe (deaths Image) did my senses hyre,</l> 
+<l>  From Knowledge of my selfe, then thoughts did moue</l> 
+<l>  Swifter then those, most [switnesse] neede require.           swiftnesse</l> 
+ 
+<l>In sleepe, a Chariot drawne by wing'd Desire,</l> 
+<l>  I saw; where sate bright Venus Queene of Loue <ref target="n5">[5]</ref>,</l> 
+<l>  And at her feete her Sonne, still adding Fire</l> 
+<l>  To burning hearts, which she did hold aboue,</l> 
+ 
+<l>But one heart flaming more then all the rest,</l> 
+<l>  The Goddesse held, and put it to my breast,</l> 
+<l>  Deare Sonne now [shut] <ref target="n6">[6]</ref>, said she: thus must we winne;       shutt</l> 
+<l>                                                             (shoot)</l> 
+ 
+<l>He her obey'd, and martyr'd my poore heart.</l> 
+<l>  I waking hop'd as dreames it would depart,</l> 
+<l>  Yet since, O me, a Lover I haue beene.</l> 
+</lg><lg type="section" n="2"> 
+ 
+<l>Deare eyes how well indeed, you doe adorne</l> 
+<l>  That blessed Sphere, which gazing soules hold deare?</l> 
+<l>  The loved place of sought for triumphs, neere</l> 
+<l>  The Court of Glory <ref target="n7">[7]</ref>, where Loues force was borne.</l> 
+ 
+<l>How may they terme you Aprills sweetest morne?</l> 
+<l>  When pleasing lookes, from those bright lights appeare</l> 
+<l>  A Sunne-shine day, from clowdes, and mists still cleare:</l> 
+<l>  Kinde nursing fires for wishes yet vnborne.</l> 
+ 
+<l>Two Starres <ref target="n8">[8]</ref> of Heauen sent downe to grace the Earth,</l> 
+<l>  Plac'd in that Throne which gives all ioyes their birthe,</l> 
+<l>  Shining, and burning; pleasing yet their Charmes:</l> 
+ 
+<l>Which wounding, euen in hurts are deem'd delights; </l> 
+<l>  So pleasant is their force, so great their mights,</l> 
+<l>  As happy they can tryumph in their harmes.</l> 
+
+<pb n="2"/> 
+</lg><lg type="section" n="3"> 
+ 
+<l>Yet is there hope, then Love but play thy part,</l> 
+<l>  Remember well thy selfe, and think on me;</l> 
+<l>  Shine in those eyes which conquer'd haue my heart,</l> 
+<l>  And see if mine, be slacke to answer thee.</l> 
+ 
+<l>Lodge in that breast, and pitty moouing see,</l> 
+<l>  For flames which in mine burne in truest smart,</l> 
+<l>  Exciling thoughts, that touch Inconstancy,</l> 
+<l>  Or those which waste not in the constant Art,      </l> 
+ 
+<l>Watch but my sleepe, if I take any rest,</l> 
+<l>  For thought of you, my spirit so distrest,</l> 
+<l>  As, pale and famish'd, I for mercy cry.</l> 
+ 
+<l>Will you your seruant leave: thinke but on this,</l> 
+<l>  Who weares Love's Crowne, must not doe so amisse</l> 
+<l>  But seeke their good, who on thy force do lye.</l> 
+</lg><lg type="section" n="4"> 
+ 
+<l>Forbeare darke night, my ioyes now budd againe,</l> 
+<l>  Lately growne dead, while cold aspects, did chill</l> 
+<l>  The roote at heart, and my chiefe hope quite kill,</l> 
+<l>  And thunders strooke me in my pleasures waine <ref target="n9">[9]</ref>.</l> 
+ 
+<l>Then I alas with bitter sobs, and paine,</l> 
+<l>  Priuately groan'd, my Fortunes present ill;</l> 
+<l>  All light of comfort dimb'd, woes in prides fill,</l> 
+<l>  With strange encrease of griefe, I grieu'd in vaine.</l> 
+ 
+<l>And most, when as a memory to good</l> 
+<l>  Molested me, which still as witnes stood,</l> 
+<l>  Of those best dayes, in former time I knew:</l> 
+ 
+<l>Late gone as wonders past, like the great [Sow],                Snow</l> 
+<l>  Melted and wasted, with what, change must know:</l> 
+<l>  Now backe the life comes where as once it grew.</l> 
+</lg><lg type="section" n="5"> 
+ 
+<l>Can pleasing sight, misfortune euer bring?</l> 
+<l>  Can firme desire a painefull torment trye?</l> 
+<l>  Can winning eyes proue to the heart a sting?</l> 
+<l>  Or can sweet lips in Treason hidden lye?</l> 
+ 
+<l>The Sunne most pleasing, blindes the strongest eye,</l> 
+<l>  If two much look'd on, breaking the sights string <ref target="n10">[10]</ref>;</l> 
+<l>  Desires still crost must unto mischiefe hie,</l> 
+<l>  And as Despaire, a lucklesse chance may fling.</l> 
+ 
+<l>Eyes hauing [none], reiecting proues a sting                    wunn   </l> 
+<pb n="3"/> 
+<l>  Killing the budd before the tree doth spring;</l> 
+<l>  Sweet lipps, not louing, doe as poyson proue:</l> 
+   
+<l>Desire, sight, Eyes, lipps; seeke, see, proue, and finde</l> 
+<l>  You loue may winn, but curses if vnkinde,</l> 
+<l>  Then show you harmes dislike, and ioy in loue.</l> 
+</lg><lg type="section" n="6"> 
+ 
+<l>O Striue not still to heape disdaine on me,</l> 
+<l>  Nor pleasure take, your cruelty to show</l> 
+<l>  On haplesse me, on whom all sorrowes flow,</l> 
+<l>  And byding make: as giuen, and lost by thee.</l> 
+ 
+<l>Alas; eu'ne griefe is growne to pitty mee,</l> 
+<l>  Scorne cryes out 'gainst it selfe such ill to show,</l> 
+<l>  And would giue place for ioyes delights to flow;</l> 
+<l>  Yet wretched I, all [torture] beare from thee.                torturs</l> 
+ 
+<l>Long haue I suffer'd, and esteem'd it deare,</l> 
+<l>  Since such thy will, yet grew my paine more neere:</l> 
+<l>  Wish you [may] end, say so, you shall it haue;                my</l> 
+ 
+<l>For all the deapth of my heart-held despaire,</l> 
+<l>  Is that for you, I feele not Death for care,</l> 
+<l>  But now Ile seeke it, since you will not saue.</l> 
+</lg><lg type="song" n="1"> 
+ 
+<l>The spring now come at last</l> 
+<l>  To Trees, Fields, to Flowres,</l> 
+<l>And meadowes makes to taste</l> 
+<l>  His pride, while sad showres</l> 
+<l>Which from mine eyes doe flow</l> 
+<l>  Makes knowne with cruell paines,</l> 
+<l>  Cold Winter yet remaines,</l> 
+<l>No signe of Spring we knowe.</l> 
+ 
+<l>The Sunne which to the Earth</l> 
+<l>  Giues heate, light, and pleasure,</l> 
+<l>Ioyes in Spring, hateth Dearth,</l> 
+<l>  Plenty makes his Treasure.</l> 
+<l>His heate to me is colde,</l> 
+<l>  His light all darknesse is,</l> 
+<l>  Since I am barrd of blisse,</l> 
+<l>I heate, nor light behold</l> 
+ 
+<l>A Shepherdesse thus said,                </l> 
+<pb n="4"/> 
+<l>  Who was with griefe opprest,</l> 
+<l>For truest Loue betrayd,</l> 
+<l>  Barrd her from quiett rest:</l> 
+<l>And weeping thus, said shee,</l> 
+<l>  My end approacheth neere,</l> 
+<l>  Now Willow <ref target="n11">[11]</ref> must I weare,</l> 
+<l>My fortune so will bee.</l> 
+ 
+<l>With Branches of this tree</l> 
+<l>  Ile dresse my haplesse head,</l> 
+<l>Which shall my wittnes bee,</l> 
+<l>  My hopes in Loue are dead:</l> 
+<l>My cloathes imbroder'd all,</l> 
+<l>  Shall be with Garlands round,</l> 
+<l>Some scatter'd, others bound;</l> 
+<l>Some tyde, some like to fall.</l> 
+ 
+<l>The Barke my Booke shall bee,</l> 
+<l>  Where dayly I will write,</l> 
+<l>This tale of haples mee,</l> 
+<l>  True slaue to Fortunes spite.</l> 
+<l>The roote shall be my bedd,</l> 
+<l>  Where nightly I will lye</l> 
+<l>  Wailing [in constancy],                                       inconstancy</l> 
+<l>Since all true loue is dead.</l> 
+ 
+<l>And these Lines I will leaue,</l> 
+<l>  If some such Louer come,</l> 
+<l>Who may them right conceiue,</l> 
+<l>  and place them on my Tombe:</l> 
+<l>She who still constant lou'd</l> 
+<l>  Now dead with cruell care,</l> 
+<l>  Kill'd with unkind Dispaire,</l> 
+<l>And change, her end heere prou'd.</l> 
+</lg><lg type="section" n="7"> 
+ 
+<l>Loue <ref target="n12">[12]</ref> leaue to vrge, thou knowest thou hast the hand</l> 
+<l>  'Tis Cowardize to striue where none resist,</l> 
+<l>  Pray thee leaue off, I yeeld vnto thy band,</l> 
+<l>  Doe not thus, still in thine owne power persist.</l> 
+ 
+<l>Behold, I yeeld; let forces be dismist,</l> 
+<l>  I am thy Subiect conquer'd bound to stand</l> 
+<l>  Neuer thy foe, but did thy claime assist,</l> 
+<l>  Seeking thy due of those who did withstand.</l> 
+ 
+<l>But now it seemes thou would'st I should thee loue,</l> 
+<pb n="5"/> 
+<l>  I doe confesse, t'was thy will made mee choose,</l> 
+<l>  And thy faire shewes made me a Louer proue,</l> 
+<l>  When I my freedome did for paine refuse.</l> 
+ 
+<l>Yet this Sir god, your Boy-ship I despise,</l> 
+<l>Your charmes I obey, but loue not want of eyes.</l> 
+</lg><lg type="section" n="8"> 
+ 
+<l>Ledd by the power of griefe to wailings brought,</l> 
+<l>  By false conceit of change fallen on my part;</l> 
+<l>  I seeke for some smale ease by lines which bought,</l> 
+<l>  Increase the paine; griefe is not cur'd by Art.</l> 
+ 
+<l>Ah! how vnkindnesse moues within the heart,</l> 
+<l>  Which still is true and free from changing thought:</l> 
+<l>  What vnknowne woe it breeds, what endlesse smart,</l> 
+<l>  With ceaslesse teares which causelessly are wrought.</l> 
+ 
+<l>It makes me now to shun all shining light,</l> 
+<l>  And seeke for blackest clouds me light to giue:</l> 
+<l>  Which to all others only darkness driue;</l> 
+<l>  They on me shine, for Sunne disdaines my sight.</l> 
+ 
+<l>Yet though I darke do liue, I triumph may,</l> 
+<l>Vnkindnes, nor this wrong shall loue allay.</l> 
+</lg><lg type="section" n="9"> 
+ 
+<l>Bee you all pleas'd, your pleasures grieue not me;</l> 
+<l>  Doe you delight? I enuy not your ioy:</l> 
+<l>  Haue you content? contentment with you be;</l> 
+<l>  Hope you for blisse? Hope still, and still enioy.</l> 
+ 
+<l>Let sad misfortune, haplesse me destroy,</l> 
+<l>  Leaue crosses to rule me, and still rule free:</l> 
+<l>  While all delights their contraries imploy,</l> 
+<l>  To keepe good backe, and I but torments see,</l> 
+ 
+<l>Ioyes are bereau'd me, harmes doe only tarry,</l> 
+<l>  Despaire takes place, disdaine hath gott the hand:</l> 
+<l>  Yet firme loue holds my senses in such band,</l> 
+<l>  As (since dispis'ed) I with sorrow marry.</l> 
+ 
+<l>Then if with griefe I now must coupled bee,</l> 
+<l>Sorrow Ile wed; Despaire thus gouernes mee.</l> 
+</lg><lg type="section" n="10"> 
+                                              
+ 
+<pb n="6"/> 
+<l>The weary Traueller, who tyred, sought</l> 
+<l>  In places distant farre, yet found no end</l> 
+<l>  Of paine or labour, nor his state to mend:</l> 
+<l>  At last with ioy is to his home backe brought.</l> 
+ 
+<l>Findes not more ease though he with ioy be fraught,</l> 
+<l>  When past is feare content like soules ascend:</l> 
+<l>  Then I, on whom new pleasures doe descend,</l> 
+<l>  Which now as high as first-borne blisse is wrought.</l> 
+ 
+<l>He tyred with his paines, I with my minde; </l> 
+<l>  He all content receiues by ease of lymbs:</l> 
+<l>  I, greatest happinessse that I doe finde,</l> 
+<l>  Beliefe for faith, while hope in pleasure swimmes.</l> 
+ 
+<l>Truth saith 'twas wrong conceit bred my despigt,</l> 
+<l>Which once acknowledg'd, brings my hearts delight.</l> 
+</lg><lg type="section" n="11"> 
+ 
+<l>You endlesse torments that my rest opresse,</l> 
+<l>  How long will you delight in my sad paine?</l> 
+<l>  Will neuer Loue your fauour more expresse?</l> 
+<l>  Shall I still liue, and euer feele disdaine?</l> 
+ 
+<l>Alasse now stay, and let my griefe [optaine] <ref target="n13">[13]</ref>               obtaine</l> 
+<l>  Some end; feede not my heart with sharpe distresse:</l> 
+<l>  Let me once see my cruell fortunes gaine,</l> 
+<l>  At least release, and long-felt woes redresse.</l> 
+ 
+<l>Let not the blame of cruelty disgrace</l> 
+<l>  The honor'd title of your god-head Loue;</l> 
+<l>  Giue not iust cause for me [so] say, a place                  to</l> 
+<l>  Is found for rage alone on me to moue.</l> 
+   
+<l>O quickly end, and doe not long debate</l> 
+<l>My needful ayd, lest helpe doe come too late.</l> 
+</lg><lg type="section" n="12"> 
+ 
+<l>Cloy'd with the torments of a tedious night,</l> 
+<l>  I wish for day; which come, I hope for ioy:</l> 
+<l>  When crosse I finde, new tortures to destroy,</l> 
+<l>  My woe-kil'd heart, first hurt by mischiefs might.</l> 
+ 
+<l>Then crye for night, and once more day takes flight.</l> 
+<l>  And brightnesse gone; what rest should heere inioy</l> 
+<l>  Vsurped is: Hate will her force imploy;</l> 
+<l>  Night cannot Griefe intombe though blacke as spite.</l> 
+ 
+<l>My thoughts are sad, her face as sad doth seeme;   </l> 
+<pb n="7"/> 
+<l>  My paines are long, Her howers tedious are;</l> 
+<l>  My griefe is great, and endlesse is my care;</l> 
+<l>  Her face, her force, and all of woes esteeme.</l> 
+<l>Then welcome Night, and farwell flattering Day,</l> 
+<l>Which all hopes breed, and yet our ioyes delay.</l> 
+</lg><lg type="song" n="2"> 
+ 
+<l>All Night I weepe, all Day I cry, Ay me,</l> 
+<l>I still doe wish, though yet deny, ay me;</l> 
+<l>I sigh, I mourne, I say that still,</l> 
+<l>I only am the store for ill, ay me.</l> 
+ 
+<l>In coldest hopes I freeze, yet burne, ay me,</l> 
+<l>From flames I striue to fly, yet turne, ay me:</l> 
+<l>From griefe I hast, but sorrowes hye,</l> 
+<l>And on my heart all woes do lye, ay me.</l> 
+ 
+<l>From contraries I seeke to run, ay me, </l> 
+<l>But contraries I cannot shun, ay me: </l> 
+<l>For they delight their force to trye, </l> 
+<l>And to Despaire my thoughts doe ty, ay me. </l> 
+ 
+<l>Whither alasse then shall I goe, ay me,</l> 
+<l>When as Despaire all hopes outgoe, ay me:</l> 
+<l>If to the Forrest Cupid hies,</l> 
+<l>And my poore soule to his law tyes, ay me.</l> 
+ 
+<l>To the Court: O no. He cryes fye, ay me,</l> 
+<l>There no true loue you shall espy, ay me:</l> 
+<l>Leaue that place to falsest Louers,</l> 
+<l>Your true loue all truth discouers, ay me,</l> 
+ 
+<l>Then quiet rest, and no more proue, ay me,</l> 
+<l>All places are alike to Loue, ay me:</l> 
+<l>And constant be in this begun,</l> 
+<l>Yet say, till Life with Loue be dunn Ay me.</l> 
+</lg><lg type="section" n="13"> 
+ 
+<l>Deare famish not what you your selfe gaue food,</l> 
+<l>  Destroy not what your glory is to saue:</l> 
+<l>  Kill not that soule to which you spirit gaue,</l> 
+<l>  In pitty, not disdaine, your triumph stood.</l> 
+ 
+<l>An easie thing it is to shed the bloud</l> 
+<l>  Of one who at your will yeelds to the graue:</l> 
+<l>  But more you may true worth by mercy craue,</l> 
+<l>  When you preserue, not spoyle, but nourish good.</l> 
+ 
+<l>Your sight is all the food I doe desire, </l> 
+<pb n="8"/> 
+<l>  Then sacrifice me not in hidden fire,</l> 
+<l>  Or stop the breath which did your praises moue.</l> 
+ 
+<l>Think but how easie 'tis a sight to giue,</l> 
+<l>  Nay euen desert, since by it I doe liue,</l> 
+<l>  I but Camelion-like <ref target="n14">[14]</ref>, would liue, and loue.</l> 
+</lg><lg type="section" n="14"> 
+ 
+<l>Am I thus conquer'd? haue I lost the powers,</l> 
+<l>  That to withstand, which ioyes to ruine me?</l> 
+<l>  Must I bee still, while it my strength deuoures,</l> 
+<l>  And captiue leads me prisoner bound, vnfree?</l> 
+ 
+<l>Loue first shall [leane] mens phant'sies to them free,          leaue </l> 
+<l>  Desire shall quench loues flames, Spring, hate sweet showres;</l> 
+<l>  Loue shall loose all his Darts, haue sight, and see</l> 
+<l>  His shame and wishings, hinder happy houres.</l> 
+ 
+<l>Why should we not loues purblinde charmes resist? </l> 
+<l>  Must we be seruile, doing what he list?</l> 
+<l>  No, seeke some hoste too harbour thee: I flye</l> 
+ 
+<l>Thy babish tricks, and freedome doe professe;</l> 
+<l>  But O my hurt makes my lost heart confesse:</l> 
+<l>  I loue, and must; so farewell liberty.</l> 
+</lg><lg type="section" n="15"> 
+ 
+<l>Truly (poore night) thou welcome art to me,</l> 
+<l>  I loue thee better in this sad attire</l> 
+<l>  Then that which rayseth some mens fant'sies higher,</l> 
+<l>  Like painted outsides, which foule inward be.</l> 
+ 
+<l>I loue thy graue and saddest lookes to see,</l> 
+<l>  Which seems my soule and dying heart entire,</l> 
+<l>  Like to the ashes of some happy fire,</l> 
+<l>  That flam'd in ioy, but quench'd in misery.</l> 
+ 
+<l>I loue thy count'nance, and thy sober pace,</l> 
+<l>  Which euenly goes, and as of louing grace</l> 
+<l>  To vs, and mee among the rest opprest,</l> 
+ 
+<l>Giues quiet peace to my poore selfe alone,</l> 
+<l>  And freely grants day leaue; when thou art gone,</l> 
+<l>  To giue cleare light, to see all ill redrest.</l> 
+</lg><lg type="section" n="16"> 
+ 
+<l>Sleepe <ref target="n15">[15]</ref> fye possesse me not, nor doe not fright </l> 
+<pb n="9"/> 
+<l>  Me with thy heauy, and thy deathlike might:</l> 
+<l>  For counterfetting's vilder then death's sight;</l> 
+<l>  And such deluding more my thoughts doe spight.</l> 
+ 
+<l>Thou suffer'st falsest shapes my soule t'affright,</l> 
+<l>  Sometimes in likenesse [of of] a hopefull spright;           of</l> 
+<l>  And oft times like my Loue, as in despight;</l> 
+<l>  Ioying, thou canst with malice kill delight.</l> 
+ 
+<l>When I (a poore foole made by thee) thinke ioy</l> 
+<l>  Doth flow, when thy fond shadowes doe destroy</l> 
+<l>  My that while sencelesse selfe, left free to thee.</l> 
+ 
+<l>But now doe well, let me for euer sleepe,</l> 
+<l>  And so for euer that deere Image keepe</l> 
+<l>  Or still wake that my senses may be free.</l> 
+</lg><lg type="section" n="17"> 
+ 
+<l>Sweet shades, why doe you seeke to giue delight</l> 
+<l>  To me, who deeme delight in this vilde place:</l> 
+<l>  But torment, sorrow, and mine owne disgrace,</l> 
+<l>  To taste of ioy, or your vaine pleasing sight?</l> 
+ 
+<l>Show them your pleasures who saw neuer night</l> 
+<l>  Of griefe, where ioyings fawning smiling face</l> 
+<l>  Appears as day, where griefe found neuer space:</l> 
+<l>  Yet for a sigh, a groane, or enuies spite.</l> 
+ 
+<l>But O: on me a world of woes doe lye,</l> 
+<l>  Or els on me all harmes striue to relye,</l> 
+<l>  And to attend like seruants bound to me.</l> 
+ 
+<l>Heate <ref target="n16">[16]</ref> in desire, while frosts of care I proue,</l> 
+<l>  Wanting my loue, yet surfet doe with loue,</l> 
+<l>  Burne, and yet freeze, better in Hell to be.</l> 
+</lg><lg type="section" n="18"> 
+ 
+<l>Which should I better like of, day or night?</l> 
+<l>  Since all the day, I liue in bitter woe:</l> 
+<l>  Inioying light more cleere my wrongs to know,</l> 
+<l>  and yet most sad, feeling in it all spite;</l> 
+ 
+<l>In night when darknesse doth forbid all light;</l> 
+<l>  Yet see I griefe apparant to the show,</l> 
+<l>  Follow'd by iealousie, whose fond tricks flow,</l> 
+<l>  And on vnconstant waues of doubt alight.</l> 
+ 
+<l>I can behold rage cowardly to feede      </l> 
+<pb n="10"/> 
+<l>  Vpon foule error, which these humors <ref target="n17">[17]</ref> breede,</l> 
+<l>  Shame doubt and feare, yet boldly will thinke ill.</l> 
+ 
+<l>All those in both I feele, then which is best</l> 
+<l>  Darke to ioy by day, light in night opprest?</l> 
+<l>  Leaue both and end, these but each other spill.</l> 
+</lg><lg type="song" n="3"> 
+ 
+<l>Stay my thoughts do not aspire,</l> 
+<l>  To vaine hopes of high desire;</l> 
+<l>  See you not all meanes bereft,</l> 
+<l>  To inioye no ioye is left,</l> 
+<l>  Yet still me thinkes my thoughts doe say,</l> 
+<l>  Some hopes do liue amid dismay.</l> 
+ 
+<l>Hope then once more, hope for ioy, </l> 
+<l>  Bury feare which ioyes destroy,</l> 
+<l>  Thought hath yet some comfort giuen,</l> 
+<l>  Which despaire hath from vs driuen:</l> 
+<l>  Therefore deerely my thoughts cherish,</l> 
+<l>  Neuer let such thinking perish.</l> 
+ 
+<l>'Tis an idle thing to plaine,</l> 
+<l>  Odder farre to dye for paine;</l> 
+<l>  Thinke and see how thoughts doe rise,</l> 
+<l>  Winning where there noe hope lies;</l> 
+<l>  Which alone is louers treasure,</l> 
+<l>  For by thoughts we loue doe measure.</l> 
+ 
+<l>Then kinde thought my fant'sie guide,</l> 
+<l>  Let me neuer haplesse slide;</l> 
+<l>  Still maintaine thy force in me,</l> 
+<l>  Let me thinking still be free;</l> 
+<l>  Nor leaue thy might vntill my death,</l> 
+<l>  But let me thinking yeeld vp breath.</l> 
+</lg><lg type="section" n="19"> 
+ 
+<l>Come darkest Night, becomming sorrow best,</l> 
+<l>  Light leaue thy light, fit for a lightsome soule:</l> 
+<l>  Darknesse doth truely sute with me opprest,</l> 
+<l>  Whom absence power doth from mirthe controule.</l> 
+ 
+<l>The very trees with hanging heads condole</l> 
+<l>  Sweet Summers parting, and of leaues distrest,</l> 
+<l>  In dying colours make a grief-full role;</l> 
+<l>  So much (alas) to sorrow are they prest.</l> 
+ 
+<l>Thus of dead leaues, her farewell carpets made,    </l> 
+<pb n="11"/> 
+<l>  Their fall, their branches, all their mournings proue,</l> 
+<l>  With leaulesse naked bodies, whose hues vade <ref target="n18">[18]</ref></l> 
+<l>  From hopefull greene to wither in their loue.</l> 
+ 
+<l>If trees, and leaues for absence mourners be,</l> 
+<l>No maruell that I grieue, who like want see.</l> 
+</lg><lg type="section" n="20"> 
+ 
+<l>The Sunne which glads, the earth at his bright sight,</l> 
+<l>  When in the morne he showes his golden face,</l> 
+<l>  And takes the place from tedious drowsie Night.</l> 
+<l>  Making the world still happy in his grace.</l> 
+ 
+<l>Shewes happinesse remaines not in one place,</l> 
+<l>  Nor may the Heauens alone to vs giue light,</l> 
+<l>  But hide that cheerfull face, though noe long space,</l> 
+<l>  Yet long enough for tryall of their might.</l> 
+ 
+<l>But neuer Sun-set could be so obscure,</l> 
+<l>  No Desart euer had a shade so sad:</l> 
+<l>  Nor could black darknesse euer proue so bad,</l> 
+<l>  As paines which absence makes me now indure.</l> 
+ 
+<l>The missing of the Sunne [a while] makes Night,                 awhile</l> 
+<l>But absence of my ioy sees neuer light.</l> 
+</lg><lg type="section" n="21"> 
+ 
+<l>When last I saw thee, I did not thee see,</l> 
+<l>  It was thine Image which in my thoughts lay</l> 
+<l>  So liuely figur'd, as no times delay</l> 
+<l>  Could suffer me in heart to parted be.</l> 
+ 
+<l>And sleepe so fauourable is to me,</l> 
+<l>  As not to let thy lou'd remembrance stray:</l> 
+<l>  Lest that I waking might haue cause to say,</l> 
+<l>  there was one minute found to forgett thee.</l> 
+ 
+<l>Then, since my faith is such, so kinde my sleepe,</l> 
+<l>  That gladly thee presents into my thought,</l> 
+<l>  And still true Louer-like thy face doth keepe,</l> 
+<l>  So as some pleasure shadow-like is wrought.</l> 
+ 
+<l>Pitty my louing, nay of consience giue</l> 
+<l>  Reward to me in whom thy self doth liue.<ref target="n19">[19]</ref></l> 
+</lg><lg type="section" n="22"> 
+
+                                       
+ 
+<pb n="12"/> 
+
+<l>Like to the Indians scorched with the Sunne,</l> 
+<l>  The Sunne which they doe as their God adore:</l> 
+<l>  So am I vs'd by Loue, for euermore</l> 
+<l>  I worship him, lesse fauors haue I wonne.</l> 
+ 
+<l>Better are they who thus to blacknesse run,</l> 
+<l>  And so can onely whitenesse want deplore:</l> 
+<l>  [Theu] I who pale and white am with griefes store,           Then</l> 
+<l>  Nor can haue hope, but to see hopes vndone.</l> 
+ 
+<l>Beesides their sacrifice receiu'd in sight,</l> 
+<l>  Of their chose Saint, mine hid as worthlesse rite,</l> 
+<l>  Grant me to see where I my offerings giue.</l> 
+ 
+<l>Then let me weare the marke of Cupids might,</l> 
+<l>  In heart, as they in skin of Phoebus <ref target="n20">[20]</ref> light,</l> 
+<l>  Not ceasing offerings to Loue while I Liue.</l> 
+</lg><lg type="section" n="23"> 
+ 
+<l>When euery one to pleasing pastime hies</l> 
+<l>  Some hunt, some hauke, some play, while some delight</l> 
+<l>  In sweet discourse, and musickue shewes ioys might:</l> 
+<l>  Yet I my thoughts doe farr aboue these prize.</l> 
+ 
+<l>The ioy which I take is, that free from eyes</l> 
+<l>  I sit and wonder at this day-like night,</l> 
+<l>  So to dispose themselues as voyd of right,</l> 
+<l>  And leaue true pleasure for poore vanities.</l> 
+ 
+<l>When others hunt, my thoughts I haue in chase;</l> 
+<l>  If hauke, my minde at wished end doth flye:</l> 
+<l>  Discourse, I with my spirit talke and cry;</l> 
+<l>  While others musicke choose as greatest grace.</l> 
+ 
+<l>O God say I, can thes fond pleasures moue,</l> 
+<l>Or musicke bee but in sweet thoughts of Loue?</l> 
+</lg><lg type="section" n="24"> 
+ 
+<l>Once did I heare an aged father say</l> 
+<l>  Vnto his sonne, who with attention heares</l> 
+<l>  What Age and wise experience euer cleares</l> 
+<l>  From doubts of feare, or reason to betray.</l> 
+ 
+<l>My Sonn (said hee) behold thy father gray,</l> 
+<l>  I once had as thou hast, fresh tender yeares,</l> 
+<l>  And like thee sported destitute of feares;</l> 
+<l>  But my young faults made me too soone decay.</l> 
+ 
+<l>Loue once I did, and like thee, fear'd my Loue,</l> 
+<l>  Led by the hatefull [threed] of Ielousie,                     thread </l> 
+<pb n="13"/> 
+<l>  Striuing to keepe, I lost my liberty,</l> 
+<l>  And gain'd my griefe, which still my sorrowes moue.</l> 
+ 
+<l>In time shun this, to loue is no offence,</l> 
+<l>But doubt in Youth, in Age, breeds penitence.</l> 
+</lg><lg type="song" n="4"> 
+ 
+<l>Sweetest Loue returne againe,</l> 
+<l>  Make not too long stay;</l> 
+<l>Killing mirth and forcing paine;</l> 
+<l>  Sorrow leading way:</l> 
+<l>Let vs not thus parted be,</l> 
+<l>Loue, and absence nere agree.</l> 
+ 
+<l>But since you must needs depart,</l> 
+<l>  And me haplesse leaue;</l> 
+<l>In your iourney take my heart,</l> 
+<l>  Which will not deceiue:</l> 
+<l>Yours it is, to you it flies,</l> 
+<l>Ioying in those loued eyes.</l> 
+ 
+<l>So in part we shall not part, </l> 
+<l>  Though we absent be,</l> 
+<l>Tyme, nor place, nor greatest smart,</l> 
+<l>  Shall my bands make free:</l> 
+<l>Tyed I am, yet thinke it gaine,</l> 
+<l>In such knots I feele no paine.</l> 
+ 
+<l>But can I liue, hauing lost</l> 
+<l>  Chiefest part of me?</l> 
+<l>Heart is fled, and sight is crost,</l> 
+<l>  These my fortunes be:</l> 
+<l>Yet deare heart goe, soone returne,</l> 
+<l>As good there as heere to burne.</l> 
+</lg><lg type="section" n="25"> 
+ 
+<l>Poore eyes bee blinde, the light behold noe more,</l> 
+<l>  Since that is gon which is your deare delight:</l> 
+<l>  Rauish'd from you by greater powre, and might,</l> 
+<l>  Making your losse a gaine to others store.</l> 
+ 
+<l>Oerflow and drowne, till sight to you restore</l> 
+<l>  That blessed Starre, and as in hatefull spight,</l> 
+<l>  Send forth your teares in flouds to kill all sight,</l> 
+<l>  And looks, that lost wherin you ioy'd before.</l> 
+ 
+<l>Bury these beames which in some kindled fires,     </l> 
+<pb n="14"/> 
+<l>  And conquer'd haue their loue-burnt hearts desires,</l> 
+<l>  Losing, and yet no gaine by you esteem'd;</l> 
+ 
+<l>Till that bright Starre doe once againe appeare,</l> 
+<l>  Brighter then Mars when hee doth shine most cleare;</l> 
+<l>  See not then by his might be you redeem'd.</l> 
+</lg><lg type="section" n="26"> 
+ 
+<l>Deare cherish this <ref target="n21">[21]</ref>, and with it my soules will,</l> 
+<l>  Nor for it ran away doe it abuse:</l> 
+<l>  Alas it left (poore me) your brest to choose,</l> 
+<l>  As the [best] shrine, where it would harbour still.           blest</l> 
+ 
+<l>Then fauour shew, and not vnkindly kill</l> 
+<l>  The heart which fled to you, but doe excuse</l> 
+<l>  That which for better did the wurse refuse;</l> 
+<l>  And pleas'd Ile be, though heartlesse my lyfe spill.</l> 
+ 
+<l>But if you will bee kinde, and iust indeed,</l> 
+<l>  Send me your heart, which in mine's place shall feede</l> 
+<l>  On faithfull loue to your deuotion bound,</l> 
+ 
+<l>There shall it see the sacrifices made</l> 
+<l>  Of pure and spottlesse Loue, which shall not vade,</l> 
+<l>  While soule, and body are together found.</l> 
+</lg><lg type="section" n="27"> 
+ 
+<l>Fie tedious Hope, why doe you still rebell?</l> 
+<l>  Is it not yet enough you flatter'd me,</l> 
+<l>  But cuningly you seeke to vse a Spell</l> 
+<l>  How to betray; must these your Trophies bee?</l> 
+ 
+<l>I look'd from you farre sweeter fruite to see,</l> 
+<l>  But blasted were your blossomes when they fell:</l> 
+<l>  And those delights expected from hands free,</l> 
+<l>  Wither'd and dead, and what seemd blisse proues hell.</l> 
+ 
+<l>No Towne was won by a more plotted slight</l> 
+<l>  Then I by you, who may my fortune write,</l> 
+<l>  In embers of that fire which ruin'd me:</l> 
+ 
+<l>Thus Hope your falshood calls you to be tryde,</l> 
+<l>  You'r loth, I see, the tryall to abide;</l> 
+<l>  Proue true at last, and gaine your liberty.</l> 
+</lg><lg type="section" n="28"> 
+                                              
+ 
+<pb n="15"/> 
+<l>Griefe, killing griefe, haue not my torments beene</l> 
+<l>  Already great and strong enough?  but still</l> 
+<l>  Thou dost increase, nay glory in mine il,</l> 
+<l>  And woes new past, afresh new woes begin?</l> 
+ 
+<l>Am I the onely purchase thou canst win?</l> 
+<l>  Was I ordain'd to giue despaire her fill,</l> 
+<l>  Or fittest I should mount misfortunes hill,</l> 
+<l>  Who in the plaine of ioy cannot liue in?</l> 
+ 
+<l>If it be so, Griefe come as welcome guest,</l> 
+<l>  Since I must suffer for anothers rest;</l> 
+<l>  Yet this (good Griefe) let me intreat of thee,</l> 
+ 
+<l>Vse still thy force, but not from those I loue</l> 
+<l>  Let me all paines and lasting torments proue;</l> 
+<l>  So I misse these, lay all thy waights on me.</l> 
+</lg><lg type="section" n="29"> 
+ 
+<l>Fly hence O! Ioy, noe longer heere abide,</l> 
+<l>  Too great thy pleasures are for my despaire</l> 
+<l>  To looke on, losses now must proue my fare;</l> 
+<l>  Who not long since on better foode relide.</l> 
+ 
+<l>But foole, how oft had I Heau'ns changing spi'de</l> 
+<l>  Before of mine owne fate I could haue care:</l> 
+<l>  Yet now past time, I can too late beware,</l> 
+<l>  When nothings left but sorrowes faster ty'de.</l> 
+ 
+<l>While I inioyd that Sunne, whose sight did lend </l> 
+<l>  Me ioy, I thought that day could haue no end:</l> 
+<l>  But soon a night came cloath'd in absence darke;</l> 
+ 
+<l>Absence more sad, more bitter then is gall,</l> 
+<l>  Or death, when on true Louers it doth fall;</l> 
+<l>  Whose fires of loue, disdaine reasts poorer sparke.</l> 
+</lg><lg type="section" n="30"> 
+ 
+<l>You blessed shades, which giue me silent rest,</l> 
+<l>  Witnes but this when death hath clos'd mine eyes,</l> 
+<l>  And separated me from earthly tyes;</l> 
+<l>  Being from hence to higher places adrest.</l> 
+ 
+<l>How oft in you I haue laine heere opprest?</l> 
+<l>  And haue my miseries in wofull cryes</l> 
+<l>  Deliuer'd forth, mounting vp to the Skyes?        </l> 
+<l>  Yet helplesse, backe return'd to wound my brest,</l> 
+ 
+<l>Which wounds did but striue how to breed more harm </l> 
+<pb n="16"/> 
+<l>  To me, who can be cur'd by no one charme</l> 
+<l>  But that of Loue, which yet may me releeue;</l> 
+ 
+<l>If not, let Death my former paines redeeme,</l> 
+<l>  My trusty friends, my faith vntouch'd, esteeme,</l> 
+<l>  And witnesse I could loue, who so could grieue.</l> 
+</lg><lg type="song" n="5"> 
+ 
+<l>Time only cause of my vnrest,</l> 
+<l>By whom I hop'd once to be blest,</l> 
+<l>  How cruell art thou turn'd?</l> 
+<l>That first gau'st lyfe vnto my loue,</l> 
+<l>And still a pleasure not to moue,</l> 
+<l>  Or change, though euer burn'd.</l> 
+ 
+<l>Haue I thee slack'd, or left vndone</l> 
+<l>One louing rite, and so haue wonne,</l> 
+<l>  Thy rage, or bitter changing?</l> 
+<l>That now noe minutes I shall see,</l> 
+<l>Wherein I may least happy be,</l> 
+<l>  Thy fauours so estranging.</l> 
+ 
+<l>Blame thy selfe, and not my folly,</l> 
+<l>Time gaue time but to be holy,</l> 
+<l>  True Loue, such ends best loueth:</l> 
+<l>Unworthy Loue doth seeke for ends,</l> 
+<l>A worthy Loue but worth pretends;</l> 
+<l>  Nor other thoughts it proueth.</l> 
+ 
+<l>Then stay thy swiftnes cruell Time, </l> 
+<l>And let me once more blessed clime </l> 
+<l>  To ioy, that I may prayse thee:</l> 
+<l>Let me pleasure sweetly tasting,</l> 
+<l>Ioy in Loue, and faith not wasting,</l> 
+<l>  and on Fames wings Ile raise thee.</l> 
+ 
+<l>Neuer shall thy glory dying,</l> 
+<l>Be vntill thine owne vntying,</l> 
+<l>  That Tyme noe longer liueth,</l> 
+<l>'Tis a gaine such time to lend,</l> 
+<l>Since so thy fame shall neuer end,</l> 
+<l>  But ioy for what she giueth.</l> 
+</lg><lg type="section" n="31"> 
+ 
+<l>After long trouble in a tedious way,</l> 
+<l>  Of Loues vnrest, laid downe to ease my paine,</l> 
+<l>  Hoping for rest, new torments I did gaine        </l> 
+<pb n="17"/> 
+<l>  Possessing me, as if I ought t'obey.</l> 
+ 
+<l>When Fortune came, though blinded, yet did stay,</l> 
+<l>  And in her blessed armes did me inchaine:</l> 
+<l>  I, cold with griefe, thought noe warmth to obtaine,</l> 
+<l>  Or to dissolue that yce of ioyes decay.</l> 
+ 
+<l>Till rise (said she) Reward to thee doth send</l> 
+<l>  By me the seruant of true Louers, ioy:</l> 
+<l>  Bannish all clouds of doubt, all feares destroy;</l> 
+<l>  And now on Fortune, and on Loue depend.</l> 
+ 
+<l>I her obey'd, and rising felt that Loue</l> 
+<l>  Indeed was best, when I did least it moue.</l> 
+</lg><lg type="section" n="32"> 
+ 
+<l>How fast thou fliest, O time, on loues swift wings,</l> 
+<l>  To hopes of ioy, that flatters our desire:</l> 
+<l>  Which to a Louer still contentment brings;</l> 
+<l>  Yet when we should inioy, thou dost retire.</l> 
+ 
+<l>Thou stay'st thy pace (faulse Time) from our desire</l> 
+<l>  When to our ill thou hast'st with Eagles wings:</l> 
+<l>  Slow only to make vs see thy retire</l> 
+<l>  Was for Despaire, and harme, which sorrowe brings.</l> 
+ 
+<l>O! slake thy pace, and milder passe to Loue,</l> 
+<l>  Be like the Bee, whose wings she doth but vse</l> 
+<l>  To bring home profit; masters good to proue,</l> 
+<l>  Laden, and weary, yet againe pursues.</l> 
+ 
+<l>So lade thy selfe with hony of sweet ioy,</l> 
+<l>  And do not me the Hiue of Loue destroy.</l> 
+</lg><lg type="section" n="33"> 
+ 
+<l>How many eyes (poore Loue) hast thou to guard</l> 
+<l>  Thee from thy most desired wish, and end?</l> 
+<l>  Is it because some say thou'rt blinde, that barr'd</l> 
+<l>  From sight, thou should'st noe happinesse attend?</l> 
+ 
+<l>Who blame thee soe, smale iustice can pretend, </l> 
+<l>  Since twixt thee and the Sunne no question hard</l> 
+<l>  Can be, his sight but outward, thou canst bend</l> 
+<l>  The heart, and guide it freely thus vnbar'd.</l> 
+ 
+<l>Art thou, while we both blinde and bold, oft dare</l> 
+<l>  Accuse the of the harmes, our selues should finde:</l> 
+<l>  Who led with folly, and by rashnesse blinde      </l> 
+<pb n="20"/> 
+<l>  Thy sacred power doe with a child's compare.</l> 
+ 
+<l>Yet Loue, this boldnesse pardon; for admire</l> 
+<l>Thee sure we must, or be borne without fire.</l> 
+</lg><lg type="section" n="34"> 
+ 
+<l>Take heed mine eyes, how you your looks doe cast,</l> 
+<l>  Lest they betray my hearts most secret thought:</l> 
+<l>  Be true vnto your selues; for nothing's bought</l> 
+<l>  More deare then Doubt, which brings a Louers fast.</l> 
+ 
+<l>Catch you al watching eyes ere they be past,</l> 
+<l>  Or take yours fix't, where your best Loue hath sought</l> 
+<l>  The pride of your desires; let them be taught</l> 
+<l>  Their faults for shame they could no truer last.</l> 
+ 
+<l>Then looke, and looke with ioy, for conquest won,</l> 
+<l>  Of those that search'd your hurt in double kinde:</l> 
+<l>  So you kept safe, let them themselues looke blinde,</l> 
+<l>  Watch, gaze, and marke till they to madnesse run.</l> 
+ 
+<l>While you mine eyes enioye full sight of Loue,</l> 
+<l>Contented that such happinesses moue.</l> 
+</lg><lg type="section" n="35"> 
+ 
+<l>False hope which feeds but to destroy, and spill </l> 
+<l>  What it first breeds, vnnaturall to the [blrth]               birth</l> 
+<l>  Of thine owne wombe, conceiuing but to kill</l> 
+<l>  And plenty giues to make the greater dearth.</l> 
+ 
+<l>So Tyrants doe, who falsly ruling Earth,</l> 
+<l>  Outwardly grace them, and with profits fill,</l> 
+<l>  Aduance those who appointed are to death;</l> 
+<l>  To make their greater fall to please their will.</l> 
+ 
+<l>Thus shadow they their wicked vile intent, </l> 
+<l>  Colouring euill with a show of good:</l> 
+<l>  While in faire showes their malice so is spent;</l> 
+<l>  Hope kill's the heart, and Tyrants shed the blood.</l> 
+ 
+<l>For [Hode]<ref target="n22">[22]</ref> deluding brings vs to the pride                  Hope</l> 
+<l>Of our desires the farther downe to slide.</l> 
+</lg><lg type="section" n="36"> 
+ 
+<l>How well (poore heart) thou witnesse canst, I loue,</l> 
+<l>  How oft my grief hath made thee shed forth teares,</l> 
+<l>  Drops of thy dearest blood; and how oft feares   </l> 
+<pb n="21"/> 
+<l>  Borne testimony of the paines I proue?</l> 
+ 
+<l>What torments hast thou suffer'd, while aboue</l> 
+<l>  Ioy thou tortur'd wert with racks, which longing beares:</l> 
+<l>  Pinch'd with desires, which yet but wishing reares</l> 
+<l>  Firme in my faith, in constancie, to moue.</l> 
+   
+<l>Yet is it said, that sure loue cannot be,</l> 
+<l>  Where so small shew of passion is descri'd:</l> 
+<l>  When thy chiefe paine is, that I must it hide</l> 
+<l>  From all, saue onley one, who should it see.</l> 
+ 
+<l>For know, more passion in my heart doth moue,</l> 
+<l>Then in a million that make shew of loue.</l> 
+</lg><lg type="song" n="6"> 
+ 
+<l>You happy blessed eyes,</l> 
+<l>  Which in that ruling place,</l> 
+<l>  Haue force both to delight, and to disgrace;</l> 
+<l>Whose light allures and tyes</l> 
+<l>  All hearts to your command:</l> 
+<l>  O looke on me, who doe at mercy stand.</l> 
+ 
+<l>'Tis you that rule my life,</l> 
+<l>  T'is you my comforts giue,</l> 
+<l>  Then let not scorne to me my ending driue:</l> 
+<l>Nor let the frownes of strife</l> 
+<l>  Haue might to hurt those lights;</l> 
+<l>Which while they shine they are true loues delights.</l> 
+ 
+<l>See but when Night appeares,</l> 
+<l>  And Sunne hath lost his force,</l> 
+<l>  How his loss doth all ioye from vs diuorce:</l> 
+<l>And when he shines, and cleares</l> 
+<l>  The Heauens from clowdes of Night,</l> 
+<l>  How happy then is made our gazing sight?</l> 
+ 
+<l>But more then Sun's faire light</l> 
+<l>  Your beames doe seeme to me,</l> 
+<l>  Whose sweetest lookes doe tye, and yet make free:</l> 
+<l>Why should you then so spight</l> 
+<l>  Poore me? as to destroy</l> 
+<l>  The only pleasure that I taste of ioy?</l> 
+ 
+<l>Shine then, O dearest lights</l> 
+<l>  With fauour and with loue</l> 
+<l>  And let no cause, your cause of frownings moue:</l> 
+<l>But as the soules delights,              </l> 
+<pb n="22"/> 
+<l>  So blesse my then blesst eyes,</l> 
+<l>  Which vnto you their true affection tyes.</l> 
+ 
+<l>Then shall the Sunne giue place,</l> 
+<l>  As to your greater might,</l> 
+<l>  Yeelding that you doe show more perfect light.</l> 
+<l>O then but grant this grace,</l> 
+<l>  Unto your Loue-tide slaue,</l> 
+<l>  To shine on me, who to you all faith gaue.</l> 
+ 
+<l>And when you please to frowne,</l> 
+<l>  Vse your most killing eyes</l> 
+<l>  On them, who in vntruth and falsehood lies,</l> 
+<l>But (Deare) on me cast downe</l> 
+<l>  Sweet lookes, for true desire;</l> 
+<l>  That banish doe all thoughts of faigned fire.</l> 
+</lg><lg type="section" n="37"> 
+ 
+<l>Night, welcome art thou to my minde distrest,</l> 
+<l>  Darke, heauy, sad, yet not more sad then I:</l> 
+<l>  Neuer could'st thou find fitter company</l> 
+<l>  For thine owne humour, then I thus opprest.</l> 
+ 
+<l>If thou beest darke, my wrongs still vnredrest</l> 
+<l>  Saw neuer light, nor smallest blisse can spye:</l> 
+<l>  If heauy ioy from me too fast doth hie,</l> 
+<l>  And care out-goes my hope of quiet rest.</l> 
+ 
+<l>Then now in friendship ioyne with haplesse me,</l> 
+<l>  Who am as sad and darke as thou canst be,</l> 
+<l>  Hating all pleasure or delight of lyfe,</l> 
+<l>  Silence, and griefe, with thee I best doe loue.</l> 
+   
+<l>And from you three I know I can not moue,</l> 
+<l>Then let vs liue companions without strife.</l> 
+</lg><lg type="section" n="38"> 
+ 
+<l>What pleasure can a banish'd creature haue</l> 
+<l>  In all the pastimes that inuented are</l> 
+<l>  By wit or learning? Absence making warre</l> 
+<l>  Against all peace that may a biding craue.</l> 
+ 
+<l>Can wee delight but in a welcome graue,</l> 
+<l>  Where we may bury paines? and so be fare<ref target="n23">[23]</ref></l> 
+<l>  From loathed company, who alwaies iarre<ref target="n24">[24]</ref></l> 
+<l>  Vpon the string of mirth that pastime gaue.</l> 
+ 
+<l>The knowing part of ioye is deem'd the heart<ref target="n25">[25]</ref>,      </l> 
+<pb n="23"/> 
+<l>  If that be gone what ioy can ioy impart</l> 
+<l>  When senceless is the feeler of our mirth?</l> 
+ 
+<l>Noe, I am banish'd, and no good shall finde,</l> 
+<l>  But all my fortunes must with mischiefe binde;</l> 
+<l>  Who but for miserie did gaine a birth.</l> 
+</lg><lg type="section" n="39"> 
+ 
+<l>If I were giuen to mirth, 'twould be more crosse,</l> 
+<l>  Thus to be robbed of my chiefest ioy:</l> 
+<l>  But silently I beare my greatest losse</l> 
+<l>  Who's vs'd to sorrow, griefe will not destroy.</l> 
+ 
+<l>Nor can I as those pleasant wits inioy</l> 
+<l>  Mine owne fram'd wordes, which I account the drosse<ref target="n26">[26]</ref></l> 
+<l>  Of purer thoughts, or reckon them as mosse,</l> 
+<l>  While they (wit-sick) themselues to breath imploy.</l> 
+ 
+<l>Alas, thinke I, your plenty shewes your want;</l> 
+<l>  For where most feeling is, wordes are more scant,</l> 
+<l>  Yet pardon mee, liue, and your pleasure take.</l> 
+ 
+<l>Grudge not if I (neglected) enuy show,</l> 
+<l>  'Tis not to you that I dislike doe owe;</l> 
+<l>  But (crost my self) wish some like me to make.</l> 
+</lg><lg type="section" n="40"> 
+ 
+<l>It is not Loue which you poore fooles do deeme,</l> 
+<l>  That doth appeare by fond and outward showes</l> 
+<l>  Of kissing, toying, or by swearings gloze<ref target="n27">[27]</ref>:</l> 
+<l>  O no, these are farre off from loues esteeme.</l> 
+ 
+<l>Alas, they are not such that can redeeme</l> 
+<l>  Loue lost, or wining keepe those chosen blowes:</l> 
+<l>  Though oft with face, and lookes loue ouerthrowes;</l> 
+<l>  Yet so slight conquest doth not him beseeme.</l> 
+ 
+<l>'Tis not a shew of sighes or teares can proue</l> 
+<l>  Who loues indeed, which blasts of fained loue,</l> 
+<l>  Increase or dye, as fauors from them slide.</l> 
+ 
+<l>But in the soule true loue in safety lies</l> 
+<l>  Guarded by faith, which to desert still hies:</l> 
+<l>  And yet kinde lookes doe many blessings hide.</l> 
+</lg><lg type="section" n="41"> 
+                                              
+ 
+<pb n="24"/> 
+<l>You blessed Starres, which doe Heauen's glory show,</l> 
+<l>  And at your brightnesse make our eyes admire:</l> 
+<l>  Yet enuy not, though I on earth below,</l> 
+<l>  Inioy a sight which moues in me more fire.</l> 
+ 
+<l>I doe confesse such beauty breeds desire</l> 
+<l>  You shine, and clearest light on vs bestow:</l> 
+<l>  Yet doth a sight on Earth more warmth inspire</l> 
+<l>  Into my louing soule, his grace to know.</l> 
+ 
+<l>Cleare, bright, and shining, as you are, is this</l> 
+<l>  Light of my ioy: fix't stedfast, nor will moue</l> 
+<l>  His light from me, nor I chang from his loue;</l> 
+<l>  But still increase as [th'earth] of all my blisse.            th'eith</l> 
+<l>                                                               (height)</l> 
+<l>His sight giues life vnto my loue-rould [eye],                  eyes</l> 
+<l>  My loue content, because in his loue lies.</l> 
+</lg><lg type="section" n="42"> 
+ 
+<l>If euer loue had force in humane brest,</l> 
+<l>  If euer he could moue in pensiue heart:</l> 
+<l>  Or if that he such powre could but impart</l> 
+<l>  To breed those flames, whose heat brings ioys vnrest.</l> 
+ 
+<l>Then looke on me; I am to these adrest,</l> 
+<l>  I am the soule that feeles the greatest smart:</l> 
+<l>  I am that heartlesse Trunck of hearts depart;</l> 
+<l>  And I that One, by loue, and griefe opprest</l> 
+ 
+<l>Non euer felt the truth of loues great misse</l> 
+<l>  Of eyes till I depriued was of blisse;</l> 
+<l>  For had he seene, he must haue pitty show'd.</l> 
+ 
+<l>I should not haue beene made this Stage of woe<ref target="n28">[28]</ref> ,</l> 
+<l>  Where sad Disasters haue their open show:</l> 
+<l>  O no, more pitty he had sure bestow'd.</l> 
+</lg><lg type="song" n="7"> 
+ 
+<l>Sorrow, I yeeld, and grieue that I did misse;</l> 
+<l>Will not thy rage be satified with this?</l> 
+<l>  As sad a Diuell as thee,</l> 
+<l>  Made me vnhappy be:</l> 
+<l>Wilt thou not yet consent to leaue, but still</l> 
+<l>Striue how to show thy cursed diuelish skill?</l> 
+ 
+<l>I mourne, and dying am, what would you more?       </l> 
+<pb n="25"/> 
+<l>My soule attends, to leaue this cursed shoare</l> 
+<l>  Where harmes doe only flow,</l> 
+<l>  Which teach me but to know</l> 
+<l>The saddest houres of my lifes vnrest,</l> 
+<l>And tyred minutes with griefes hand opprest.</l> 
+ 
+<l>Yet all this will not pacifie thy spight,</l> 
+<l>No, nothing can bring ease but my last night,</l> 
+<l>  Then quickly let it be,</l> 
+<l>  While I vnhappy see</l> 
+<l>That time so sparing, to grant Louers blisse,</l> 
+<l>Will see for time lost, there shall no griefe misse.</l> 
+ 
+<l>Nor let me euer cease from lasting griefe,</l> 
+<l>But endlesse let it be without reliefe;</l> 
+<l>  To winn againe of Loue,</l> 
+<l>  The fauour I did prooue,</l> 
+<l>And with my end please him, since dying, I</l> 
+<l>Haue him offended, yet vnwillingly.</l> 
+</lg><lg type="section" n="43"> 
+ 
+<l>O dearest eyes, the lights, and guides of Loue,</l> 
+<l>  The ioyes of Cupid, who himselfe borne blinde,</l> 
+<l>  To your bright shining, doth his tryumphs binde;</l> 
+<l>  For, in your seeing doth his glory moue.</l> 
+ 
+<l>How happy are those places where you prooue</l> 
+<l>  Your heauenly beames, which make the Sun to finde</l> 
+<l>  Enuy and grudging, he so long hath shin'd</l> 
+<l>  For your cleare lights, to match his beames aboue.</l> 
+ 
+<l>But now alas, your sight is heere forbid,</l> 
+<l>  And darkenes must these poore lost roomes possesse,</l> 
+<l>  So be all blessed lights from henceforth hid,</l> 
+<l>  That this blacke deede of darknesse haue excesse.</l> 
+ 
+<l>For why showld Heauen affoord least light to those, </l> 
+<l>Who for my misery such darkenesse chose.</l> 
+</lg><lg type="section" n="44"> 
+ 
+<l>How fast thou hast st O Spring with sweetest speede)</l> 
+<l>  To catch thy [water] which before are runne,                   waters</l> 
+<l>  And of the greater Riuers welcome woone,</l> 
+<l>  Ere these thy new-borne streames these places feed.</l> 
+ 
+<l>Yet you doe well, lest staying here might breede   </l> 
+<pb n="24"/> 
+<l>  Dangerous flouds, your sweetest bankes t'orerunn,</l> 
+<l>  And yet much better my distresse to shunn,</l> 
+<l>  Which maks my tears your swiftest course succeed.</l> 
+ 
+<l>But best you doe when with so hasty flight</l> 
+<l>  You fly my ills, which now my selfe outgoe,</l> 
+<l>  Whose broken heart can testifie such woe,</l> 
+<l>  That so orecharg'd, my life-bloud, wasteth quite.</l> 
+ 
+<l>Sweet Spring then keepe your way be neuer spent,</l> 
+<l>And my ill dayes, or griefes, assunder rent.</l> 
+</lg><lg type="section" n="45"> 
+ 
+<l>Good now be still, and doe not me torment,</l> 
+<l>  With [multitude] of questions, be at rest,                    multituds</l> 
+<l>  And onely let me quarrell with my breast,</l> 
+<l>  Which stil lets in new stormes my soule to rent.</l> 
+ 
+<l>Fye, will you still my mischiefes more augment?</l> 
+<l>  You saye, I answere crosse, I that confest</l> 
+<l>  Long since, yet must I euer be opprest,</l> 
+<l>  With your tongue torture which will ne're be spent?</l> 
+ 
+<l>Well then I see no way but this will fright,</l> 
+<l>  That Deuill speech; alas, I am possest,</l> 
+<l>  And madd folks senseles are of wisdomes right,</l> 
+ 
+<l>The hellish spirit, Absence, doth arrest.</l> 
+<l>  All my poore senses to his cruell might,</l> 
+<l>  Spare me then till I am my selfe, and blest</l> 
+</lg><lg type="section" n="46"> 
+ 
+<l>Loue thou hast all, for now thou hast me made</l> 
+<l>  So thine, as if for thee I were ordain'd,</l> 
+<l>  Then take thy conquest, nor let me be pain'd</l> 
+<l>  More in thy Sunne, when I doe seeke thy shade.</l> 
+ 
+<l>No place for helpe haue I left to inuade,</l> 
+<l>  That shew'd a face where least ease might be gain'd;</l> 
+<l>  Yet found I paine increase, and but obtain'd,</l> 
+<l>  That this no way was to haue loue allay'd</l> 
+ 
+<l>When hott, and thirsty, to a Well I came,</l> 
+<l>  Trusting by that to quench part of my [paine],                flame</l> 
+<l>  But there I was by Loue afresh imbrac'd</l> 
+ 
+<l>Drinke I could not, but in it I did see  </l> 
+<pb n="25"/> 
+<l>  My selfe a liuing glasse as well as shee;</l> 
+<l>  For loue to see himselfe in, truely plac'd.</l> 
+</lg><lg type="section" n="47"> 
+ 
+<l>O stay mine eyes shed not these fruitlesse teares,</l> 
+<l>  Since hope is past to win you back againe,</l> 
+<l>  That treasure which being lost breeds all your paine;</l> 
+<l>  Cease from this poore betraying of your feares.</l> 
+ 
+<l>Thinke this too childish is, for where griefe reares </l> 
+<l>  So high a powre for such a wretched gaine:</l> 
+<l>  Sighes nor laments should thus be spent in vaine,</l> 
+<l>  True sorrow neuer outward wailing beares.</l> 
+ 
+<l>Be rul'd by me, keepe all the rest in store,</l> 
+<l>  Till no roome is that may containe one more;</l> 
+<l>  Then in that Sea of teares, drowne haplesse me,</l> 
+ 
+<l>And Ile prouide such store of sighes, as part</l> 
+<l>  Shall be enough to breake the strongest heart,</l> 
+<l>  This done, we shall from torments freed be.</l> 
+</lg><lg type="section" n="48"> 
+ 
+<l>How like a fire doth loue increase in me?</l> 
+<l>  The longer that it lasts the stronger still;</l> 
+<l>  The greater, purer, brighter; and doth fill</l> 
+<l>  No eye with wonder more then hopes still bee.</l> 
+ 
+<l>Bred in my breast, when fires of Loue are free</l> 
+<l>  To vse that part to their best pleasing will,</l> 
+<l>  And now [vnpossible] it is to kill                            impossible</l> 
+<l>  The heate so great where Loue his strength doth see.</l> 
+ 
+<l>Mine eyes can scarce sustaine the flames, my heart</l> 
+<l>  Doth trust in them my passions to impart,</l> 
+<l>  And languishingly striue to shew my loue.</l> 
+ 
+<l>My breath not able is to [breath] least part                    breathe</l> 
+<l>  Of that increasing fuell of my smart;</l> 
+<l>  Yet loue I will, till I but ashes proue.</l> 
+</lg><lg type="sonnet"> 
+<head>                      Pamphilia.</head> 
+ 
+                                             
+ 
+<pb n="26"/> 
+<l>Let griefe as farre be from your dearest breast</l> 
+<l>  As I doe wish, or in my hands to ease;</l> 
+<l>Then should it banish'd be, and sweetest rest</l> 
+<l>  Be plac'd to giue content by Loue to please.</l> 
+ 
+<l>Let those disdaines which on your heart do [ceaze],             seaze</l> 
+<l>  Doubly returne to bring her soules vnrest:                    (seize)</l> 
+<l>Since true loue will not that belou'd displease;</l> 
+<l>  Or let least smart to their minds be addrest.</l> 
+ 
+<l>But oftentimes mistakings be in loue.</l> 
+<l>  Be they as farre from false accusing right,</l> 
+<l>And still truth gouerne with a constant might</l> 
+<l>  So shall you only wished pleasures proue.</l> 
+ 
+<l>And as for mee she that shewes you least scorne,</l> 
+<l>With all despite and hate, be her heart torne.</l> 
+</lg><lg type="song" n="8"> 
+ 
+<l>O me, the time is come to part,</l> 
+<l>  And with it my life-killing smart:</l> 
+<l>Fond Hope leaue me, my deare must goe,</l> 
+<l>  To meete more ioy, and I more woe.</l> 
+ 
+<l>Where still of mirth inioy thy fill,</l> 
+<l>  One is enough to suffer ill: </l> 
+<l>My heart so well to sorrow vs'd,</l> 
+<l>  can better be by new griefes bruis'd.</l> 
+ 
+<l>Thou whom the Heauens themselues like made,</l> 
+<l>  should neuer sit in mourning shade:</l> 
+<l>No, I alone must mourne and end,</l> 
+<l>  Who haue a life in griefe to spend.</l> 
+ 
+<l>My swiftest pace to wailings bent,</l> 
+<l>  Shewes ioy had but a short time lent,</l> 
+<l>To bide in me where woes must dwell,</l> 
+<l>  And charme me with their cruell spell.</l> 
+ 
+<l>And yet when they their witchcrafts trye,</l> 
+<l>  They only make me wish to dye:</l> 
+<l>But ere my faith in loue they change,</l> 
+<l>  In horrid darknesse will I range.<ref target="n29">[29]</ref> </l> 
+</lg><lg type="song" n="9"> 
+                                            
+ 
+<pb n="27"/> 
+<l>Say Venus how long haue I lou'd, and seru'd you heere?</l> 
+<l>  Yet all my passions scorn'd or doubted, although cleere;</l> 
+<l>Alas thinke loue deserueth loue, and you haue lou'd,</l> 
+<l>  Looke on my paines, and see if you the like haue prou'd:</l> 
+<l>Remember then you are the Goddesse of Desire,</l> 
+<l>  and that your sacred powre hath touch'd and felt this fire.</l> 
+ 
+<l>Perswade these flames in me to cease, or them redresse</l> 
+<l>  In me (poore me) who stormes of loue haue in excesse,</l> 
+<l>My restlesse nights may show for me, how much I loue,</l> 
+<l>  My sighes vnfaignd can witnes what my heart doth proue:</l> 
+<l>My saddest lookes doe show the griefe my soule indures,</l> 
+<l>  Yet all these torments from your hands no helpe procures.</l> 
+ 
+<l>Command that wayward Child your Son to grant your right,</l> 
+<l>  and that his Bow and shafts he yeeld to your faire sight,</l> 
+<l>To you who haue the eyes of ioy, the heart of loue,</l> 
+<l>  And then new hopes may spring, that I may pitty moue:</l> 
+<l>Let him not triumph that he can both hurt and saue,</l> 
+<l>  And more, bragge that to you your self a wound he gaue.</l> 
+ 
+<l>Rule him, or what shall I expect of good to see?</l> 
+<l>Since he that hurt you, he (alas) may murther mee.</l> 
+</lg><lg type="song" n="10"> 
+ 
+<l>I that am of all most crost,</l> 
+<l>Hauing, and that had haue lost,</l> 
+<l>May with reason thus complaine,</l> 
+<l>Since loue breeds loue, and loues paine.</l> 
+ 
+<l>That which I did most desire,</l> 
+<l>To allay my louing fire,</l> 
+<l>I may haue, yet now must misse,</l> 
+<l>Since another Ruler is.</l> 
+ 
+<l>Would that I no Ruler had,</l> 
+<l>Or the seruice<ref target="n30">[30]</ref> not so bad,</l> 
+<l>Then might I with blis enioy</l> 
+<l>That which now my hopes destroy.</l> 
+ 
+<l>And that wicked pleasure got,</l> 
+<l>Brings with it the sweetest lot:</l> 
+<l>I that must not taste the best,</l> 
+<l>Fed, must starue, and restlesse rest.</l> 
+</lg><lg type="song" n="11"> 
+ 
+                                                         
+<l>Loue as well can make abiding</l> 
+<pb n="28"/> 
+<l>  In a faithfull Shepheards brest</l> 
+<l>As in Princes: whose thoughts sliding</l> 
+<l>  Like swift riuers neuer rest.</l> 
+ 
+<l>Change to their minds is best feeding,</l> 
+<l>  To a sheapheard all his care,</l> 
+<l>Who when his loue is exceeding,</l> 
+<l>  Thinks his faith his richest fare.</l> 
+ 
+<l>Beauty but a slight inuiting,</l> 
+<l>  Cannot stirre his heart to change;</l> 
+<l>Constancye his chiefe delighting,</l> 
+<l>  Striues to flee from fant'sies strange,</l> 
+ 
+<l>Fairnesse to him is no pleasure,</l> 
+<l>  If in other then his loue;</l> 
+<l>Nor can esteeme that a treasure,</l> 
+<l>  Which in her smiles doth not moue.</l> 
+ 
+<l>This a shepheard once confessed,</l> 
+<l>  Who lou'd well, but was not lou'd:</l> 
+<l>Though with scorne &amp; griefe oppressed</l> 
+<l>  could not yet to change be mou'd.</l> 
+ 
+<l>But himselfe he thus contented,</l> 
+<l>  While in loue he was accurst:</l> 
+<l>This hard hap<ref target="n31">[31]</ref> he not repented,</l> 
+<l>  Since best Louers speed the worst.</l> 
+</lg><lg type="song" n="12"> 
+ 
+<l>Dearest if I by my deseruing,</l> 
+<l>  May maintaine in your thoughts my loue,</l> 
+<l>	Let me it still enioy;</l> 
+<l>	Nor faith destroy:</l> 
+<l>Butt pitty Loue where it doth moue.</l> 
+ 
+<l>Let no other new Loue inuite you,</l> 
+<l>  To leaue me who so long haue serud:</l> 
+<l>	Nor let your power decline</l> 
+<l>	But purely shine</l> 
+<l>On me, who haue all truth preseru'd.</l> 
+ 
+<l>Or had you once found my heart straying, </l> 
+<pb n="29"/> 
+<l>Then would not I accuse your change,</l> 
+<l>	But being constant still</l> 
+<l>	It needs must kill</l> 
+<l>One whose soule knowes not how to range.</l> 
+ 
+<l>Yet may you Loues sweet smiles recouer,</l> 
+<l>Since all loue is not yet quite lost,</l> 
+<l>	But tempt not Loue too long</l> 
+<l>	Lest so great wrong</l> 
+<l>Make him thinke he is too much crost.</l> 
+</lg><lg type="song" n="13"> 
+ 
+<l>Fairest and still truest eyes,</l> 
+<l>Can you the lights be, and the spies</l> 
+<l>	Of my desires?</l> 
+<l>Can you shine cleare for loues delight,</l> 
+<l>And yet the breeders be of spight,</l> 
+<l>	And iealous fires?</l> 
+ 
+<l>Mark what lookes doe you behold,</l> 
+<l>Such as by Iealousie are told</l> 
+<l>	They want your Loue.</l> 
+<l>See how they sparckle in distrust,</l> 
+<l>Which by a heate of thoughts vniust</l> 
+<l>	In them doe mooue.</l> 
+ 
+<l>Learne to guide your course by Art,</l> 
+<l>Change your eyes into your heart,</l> 
+<l>	And patient be:</l> 
+<l>Till fruitlesse Ielousie giue leaue,</l> 
+<l>By safest absence to receiue</l> 
+<l>	What you would see.</l> 
+ 
+<l>Then let Loue his triumph haue,</l> 
+<l>And Suspition such a graue,</l> 
+<l>	As not to mooue.</l> 
+<l>While wished freedome brings that blisse</l> 
+<l>That you enioy what all ioy is</l> 
+<l>	Happy to Loue.</l> 
+</lg><lg type="sonnet" n="1"> 
+ 
+<l>In night yet may we see some kinde of light,</l> 
+<l>  When as the Moone doth please to shew her face,</l> 
+<l>And in the Sunns roome yeelds her light, and grace,</l> 
+<l>Which otherwise must suffer dullest night:</l> 
+ 
+<l>So are my fortunes barrd from true delight,        </l> 
+<pb n="30"/> 
+<l>  Cold, and vncertaine, like to this strange place,</l> 
+<l>  Decreasing, changing in an instant space,</l> 
+<l>  And euen at full of ioy turnd to despight.</l> 
+ 
+<l>Iustly on Fortune was bestowd the Wheele<ref target="n32">[32]</ref>,</l> 
+<l>  Whose fauours fickle, and vnconstant reele,</l> 
+<l>  Drunke with delight of change and sudden paine;</l> 
+ 
+<l>Where pleasure hath no setled place of stay,</l> 
+<l>  But turning still, for our best hopes decay,</l> 
+<l>  And this (alas) we louers often gaine.</l> 
+</lg><lg type="sonnet" n="2"> 
+ 
+<l>Loue like a Iugler, comes to play his prize,</l> 
+<l>  And all mindes draw his wonders to admire,</l> 
+<l>  To see how cunningly he (wanting eyes)</l> 
+<l>  Can yet deseiue the best sight of desire.</l> 
+ 
+<l>The wanton Childe, how he can faine his fire</l> 
+<l>  So prettily, as none sees his disguise,</l> 
+<l>  How finely doe his trickes; while we fooles hire</l> 
+<l>  The badge, and office of his tyrannies.</l> 
+ 
+<l>For in the ende such Iugling he doth make,</l> 
+<l>  As he our hearts instead of eyes doth take;</l> 
+<l>  For men can onely by their [slights] abuse,                   sleights</l> 
+ 
+<l>The sight with nimble, and delightfull skill,</l> 
+<l>  But if he play, his gaine is our lost will,</l> 
+<l>  Yet Child-like we cannot his sports refuse.</l> 
+</lg><lg type="sonnet" n="3"> 
+ 
+<l>Most blessed night, the happy time for Loue,</l> 
+<l>  The shade for Louers, and their Loues delight,</l> 
+<l>  The raigne of Loue for seruants free from spight,</l> 
+<l>  The hopefull seasons, for ioyes sports to mooue.</l> 
+ 
+<l>Now hast thou made thy glory higher prooue,</l> 
+<l>  Then did the God<ref target="n33">[33]</ref>, whose pleasant Reede did smite</l> 
+<l>  All Argus eyes into a death-like night,</l> 
+<l>  Till they were safe, that none could Loue reprooue.</l> 
+ 
+<l>Now thou hast cloas'd those eyes from prying sight</l> 
+<l>  That nourish Iealousie, more than ioyes right,   </l> 
+<pb n="31"/> 
+<l>  While vaine Suspition fosters their mistrust,</l> 
+ 
+<l>Making sweet sleepe to master all suspect,</l> 
+<l>  Which els their priuat feares would not neglect,</l> 
+<l>  But would embrace both blinded, and vniust.</l> 
+</lg><lg type="sonnet" n="4"> 
+ 
+<l>Cruell suspition, O! be now at rest,</l> 
+<l>  Let daily torments bring to thee some stay,</l> 
+<l>  Alas, make not my ill thy ease-full pray,</l> 
+<l>  Nor giue loose raines to Rage, when Loue's opprest.</l> 
+ 
+<l>I am by care sufficiently distrest,</l> 
+<l>  No Racke can stretch my heart more, nor a way</l> 
+<l>  Can I find out, for least content to lay </l> 
+<l>  One happy foot of ioy, one step that's blest.</l> 
+ 
+<l>But to my end thou fly'st with greedy eye,</l> 
+<l>  Seeking to bring griefe by bace Iealousie;</l> 
+<l>  O, in how strange a Cage am I kept in?</l> 
+ 
+<l>No little signe of fauour can I prooue,</l> 
+<l>  But must be way'd, and turn'd to wronging loue,</l> 
+<l>  And with each humour must my state begin.</l> 
+</lg><lg type="sonnet" n="5"> 
+ 
+<l>How many nights haue I with paine endurd?</l> 
+<l>  Which as so many Ages I esteem'd,</l> 
+<l>  Since my misfortune, yet noe whit redeem'd</l> 
+<l>  But rather faster ty'de, to griefe assur'd.</l> 
+ 
+<l>How many houres haue my sad thoughts endur'd</l> 
+<l>  Of killing paines? yet is it not esteem'd</l> 
+<l>  By cruell Loue, who might haue these redeemd,</l> 
+<l>  And all these yeeres of houres to ioy assur'd.</l> 
+ 
+<l>But fond Childe<ref target="n34">[34]</ref>, had he had a care to saue,</l> 
+<l>  As first to conquer, this my pleasures graue,</l> 
+<l>  Had not beene now to testifie my woe.</l> 
+ 
+<l>I might haue beene an Image of delight,</l> 
+<l>  As now a Tombe for sad misfortunes spight,</l> 
+<l>  Which Loue vnkindly, for reward doth show.</l> 
+</lg><lg type="sonnet" n="6"> 
+ 
+<l>My paine still smother'd in my grieued brest,</l> 
+<l>  Seekes for some ease, yet cannot passage finde,</l> 
+<l>  To be discharg'd of this vnwellcome guest,</l> 
+<l>  When most I striue, more fast his burthens binde.</l> 
+ 
+<l>Like to a Ship on Goodwins<ref target="n35">[35]</ref> cast by winde,      </l> 
+<pb n="32"/> 
+<l>  The more she striues, more deepe in Sand is prest,</l> 
+<l>  Till she be lost: so am I in this kind</l> 
+<l>  Sunck, and deuour'd, and swallow'ed by vnrest.</l> 
+ 
+<l>Lost, shipwrackt, spoyl'd, debar'd of smallest hope,</l> 
+<l>  Nothing of pleasure left, saue thoughts haue scope,</l> 
+<l>  Which wander may; goe then my thoughts and cry:</l> 
+ 
+<l>Hope's perish'd, Loue tempest-beaten, Ioy lost,</l> 
+<l>  Killing Despaire hath all these blessings crost;</l> 
+<l>  Yet Faith still cries, Loue will not falsifie.</l> 
+</lg><lg type="sonnet" n="7"> 
+ 
+<l>An end fond Ielousie, alas I know</l> 
+<l>  Thy hiddenest, and thy most secret Art,</l> 
+<l>  Thou canst no new inuention frame but part,</l> 
+<l>  I haue already seene, and felt with woe.</l> 
+ 
+<l>All thy dissemblings, which by faigned showe,</l> 
+<l>  Wonne my beliefe, while truth did rule my heart,</l> 
+<l>  I with glad minde embrac'd, and deemd my smart</l> 
+<l>  The spring of ioy, whose streames with blisse should flow.</l> 
+ 
+<l>I thought excuses had beene reasons true,</l> 
+<l>  And that no falshood could of thee ensue,</l> 
+<l>  So soone beliefe in honest mindes is wrought;</l> 
+ 
+<l>But now I finde thy flattery, and skill,</l> 
+<l>  Which idely made me to obserue thy will,</l> 
+<l>  Thus is my learning by my bondage bought.</l> 
+</lg><lg type="sonnet" n="8"> 
+ 
+<l>Poore Loue in chaines, and fetters like a thiefe</l> 
+<l>  I mett ledd forth, as chast Diana's gaine</l> 
+<l>  Vowing the vntaught Lad should no reliefe</l> 
+<l>  From her receiue, who gloried in fond paine.</l> 
+ 
+<l>She call'd him theife; with vowes he did mainetaine</l> 
+<l>  He neuer stole, but some sadd slight of griefe</l> 
+<l>  Had giuen to those who did his power disdaine,</l> 
+<l>  In which reuenge, his honour was the chiefe.</l> 
+ 
+<l>Shee say'd he murther'd and therefor must dye,</l> 
+<l>  He that he caus'd but Loue, did harmes deny,</l> 
+<l>  But, while she thus discoursing with him stood;</l> 
+ 
+<l>The Nymphes vnti'de him, and his chaines tooke off,</l> 
+<pb n="33"/> 
+<l>  Thinking him safe; but he (loose) made a scoffe,</l> 
+<l>  Smiling and scorning them; flew to the wood.</l> 
+</lg><lg type="sonnet" n="9"> 
+ 
+<l>Pray doe not vse these words, I must be gone;</l> 
+<l>  Alasse doe not foretell mine ills to come:</l> 
+<l>  Let not my care be to my ioyes a Tombe;</l> 
+<l>  But rather finde my losse with losse alone.</l> 
+ 
+<l>Cause me not thus a more distressed one,</l> 
+<l>  Not feeling blisse, because of this sad doome</l> 
+<l>  Of present crosse; for thinking will orecome</l> 
+<l>  And loose all pleasure, since griefe breedeth none.</l> 
+ 
+<l>Let the misfortune come at once to me,</l> 
+<l>  Nor suffer me with griefe to punish'd be;</l> 
+<l>  Let mee be ignorant of mine owne ill:</l> 
+   
+<l>Then now with the fore-knowledge quite to lose</l> 
+<l>  That which with so much care and paines Loue chose</l> 
+<l>  For his reward, but ioye now, then mirth kill.</l> 
+</lg><lg type="sonnet" n="10"> 
+ 
+<l>Folly would needs make me a Louer be,</l> 
+<l>  When I did litle thinke of louing thought;</l> 
+<l>  Or euer to be tyde, while shee told me</l> 
+<l>  That none can liue, but to these bands are brought.</l> 
+ 
+<l>I (ignorant) did grant, and so was bought,</l> 
+<l>  And sold againe to Louers slauery:</l> 
+<l>  The duty to that vanity once taught,</l> 
+<l>  Such band is, as wee will not seeke to free.</l> 
+ 
+<l>Yet when I well did vnderstand his might,</l> 
+<l>  How he inflam'd, and forc'd one to affect:</l> 
+<l>  I loud<ref target="n36">[36]</ref> and smarted, counting it delight</l> 
+<l>  So still to waste, which Reason did reiect.</l> 
+ 
+<l>When Loue came blind-fold, and did challenge me.</l> 
+<l>Indeed I lou'd, but wanton Boy not hee,</l> 
+</lg><lg type="song" n="14"> 
+ 
+<l>The Spring time of my first louing,</l> 
+<l>  Finds yet no winter of remouing;</l> 
+<l>Nor frosts to make my hopes decrease:</l> 
+<l>  But with the Summer still increase.</l> 
+ 
+<l>The trees may teach vs Loue's remaining, </l> 
+<pb n="34"/> 
+<l>  Who suffer change with little paining,</l> 
+<l>Though Winter make their leaues decrease,</l> 
+<l>  Yet with the Summer they increase.</l> 
+ 
+<l>As birds by silence show their mourning</l> 
+<l>  in colde, yet sing at Springs returning:</l> 
+<l>So may Loue nipt awhile decrease,</l> 
+<l>  but as the Summer soone increase.</l> 
+ 
+<l>Those that doe loue but for a season,</l> 
+<l>  Doe faulsifie both Loue and Reason:</l> 
+<l>For Reason wills, if Loue decrease,</l> 
+<l>  It like the Summer should increase.</l> 
+ 
+<l>Though Love sometimes may be mistaken,</l> 
+<l>  the truth yet ought not to be shaken:</l> 
+<l>Or though the heate awhile decrease,</l> 
+<l>  It with the Summer may increase.</l> 
+<l>And since the Spring time of my louing</l> 
+<l>  Found neuer Winter of remouing:</l> 
+<l>Nor frosts to make my hopes decrease,</l> 
+<l>Shall as the Summer still increase.</l> 
+</lg><lg type="song" n="15"> 
+ 
+<l>Loue a childe is euer crying,</l> 
+<l>Please him, and he strait is flying;</l> 
+<l>Giue him, he the more is crauing,</l> 
+<l>Neuer satisfi'd with hauing.</l> 
+ 
+<l>His desires haue no measure,</l> 
+<l>Endlesse folly is his treasure:</l> 
+<l>What he promiseth, he breaketh,</l> 
+<l>Trust not one word that he speaketh.</l> 
+ 
+<l>Hee vowes nothing but false matter,</l> 
+<l>And to cousen you hee'l flatter:</l> 
+<l>Let him gain the hand, hee'l leaue you,</l> 
+<l>And still glory to deceiue you.</l> 
+ 
+<l>Hee will triumph in your wailing,</l> 
+<l>And yet cause be of your failing:</l> 
+<l>these his vertues are, and slighter</l> 
+<l>are his guifts, his fauours lighter.</l> 
+ 
+<l>[Fathers] are as firme in staying,                           Feathers  </l> 
+<pb n="35"/> 
+<l>Wolues no fiercer in their praying.</l> 
+<l>As a child then leaue him crying,</l> 
+<l>Nor seeke him so giu'n to flying.</l> 
+ 
+ 
+ 
+<l>Beeing past the paines of loue,</l> 
+<l>Freedome gladly seekes to moue:</l> 
+<l>Sayes that Loues delights were pretty;</l> 
+<l>But to dwell in them t'were pitty,</l> 
+ 
+<l>And yet truly sayes, that Loue</l> 
+<l>Must of force in all hearts moue:</l> 
+<l>But though his delights are pretty,</l> 
+<l>To dwell on them were a pitty.</l> 
+ 
+<l>Let Loue slightly passe like Loue,</l> 
+<l>Neuer let it too deepe moue:</l> 
+<l>For though Loues delights are pretty,</l> 
+<l>To dwell in them were great pitty.</l> 
+ 
+<l>Loue no pitty hath of Loue,</l> 
+<l>Rather griefes then pleasures moue:</l> 
+<l>So though his delights are pretty,</l> 
+<l>To dwell in them would be pitty.</l> 
+ 
+<l>Those that like the smart of Love,</l> 
+<l>In them let it freely move:</l> 
+<l>Els though his delights are pretty,</l> 
+<l>Doe not dwell in them for pitty.</l> 
+ 
+ 
+ 
+<l>O pardon Cupid, I confesse my fault,</l> 
+<l>  Then mercy grant me in so iust a kinde:</l> 
+<l>  For treason neuer lodged in my minde</l> 
+<l>  Against thy might, so much as in a thought.</l> 
+ 
+<l>And now my folly I haue dearely bought,</l> 
+<l>  Nor could my soule least rest or quiett finde;</l> 
+<l>  Since Rashnes did my thoughts to Error binde,</l> 
+<l>  Which now thy fury, and my harme hath wrought.</l> 
+ 
+<l>I curse that thought, and hand which that first fram'd,</l> 
+<l>  For which by thee I am most iustly blam'd:</l> 
+<l>  But now that hand shall guided be aright,</l> 
+ 
+<l>And giue a Crowne<ref target="n37">[37]</ref> vnto thy endlesse praise,</l> 
+<l>  Which shall thy glory, and thy greatnesse raise,</l> 
+<l>  More then these poore things could thy honor spight.</l> 
+</lg><lg type="sonnet"> 
+ 
+ 
+     <head>A Crowne of Sonnets dedicated                                  
+<pb n="36"/> 
+               to L O U E.<ref target="n38">[38]</ref></head> 
+ 
+<l>In this strange Labyrinth<ref target="n39">[39]</ref> how shall I turne, </l>
+<l>  Wayes are on all sids while the way I misse: </l>
+<l>  If to the right hand, there, in loue I burne, </l>
+<l>  Let mee goe forward, therein danger is. </l>
+ 
+<l>If to the left, suspition hinders blisse; </l>
+<l>  Let mee turne back, shame cryes I ought returne: </l>
+<l>  Nor faint, though crosses [which] my fortunes kiss,           with </l>
+<l>  Stand still is harder, allthough sure to mourne. </l>
+ 
+<l>Thus let mee take the right, or left hand way, </l>
+<l>  Goe forward, or stand still, or back retire: </l>
+<l>  I must these doubts indure without allay </l>
+<l>  Or helpe, but trauell finde for my best hire. </l>
+ 
+<l>Yet that which most my troubled sense doth moue, </l>
+<l>Is to leaue all, and take the threed<ref target="n40">[40]</ref> of Loue. </l>
+</lg><lg type="sonnet"> 
+<head>             2.</head> 
+ 
+<l>Is to leaue all, and take the threed of Loue,</l> 
+<l>  Which line straite leades vnto the soules content,</l> 
+<l>  Where choice delights with pleasures wings doe moue,</l> 
+<l>  And idle fant'sie neuer roome had lent.</l> 
+ 
+<l>When chaste thoughts guide vs, then our minds are bent</l> 
+<l>  To take that good which ills from vs remoue:</l> 
+<l>  Light of true loue brings fruite which none repent;</l> 
+<l>  But constant Louers seeke and wish to proue.</l> 
+ 
+<l>Loue is the shining Starre of blessings light,</l> 
+<l>  The feruent fire of zeale, the roote of peace,</l> 
+<l>  The lasting lampe, fed with the oyle of right,</l> 
+<l>  Image of Faith, and wombe for ioyes increase.</l> 
+ 
+<l>Loue is true Vertue, and his ends delight,</l> 
+<l>His flames are ioyes, his bands true Louers might.</l> 
+</lg><lg type="sonnet"> 
+<head>             3.</head> 
+ 
+<l>His flames are ioyes, his bandes true Louers might,</l> 
+<l>  No stain is there, but pure, as purest white,</l> 
+<l>  Where no cloud can appaere to dimme his light,</l> 
+<l>  Nor spot defile, but shame will soon requite.</l> 
+ 
+<l>Heere are affections, tryde by Loues iust might    </l> 
+<pb n="37"/> 
+<l>  As Gold by fire, and black discern'd by white;</l> 
+<l>  Error by truth, and darknes knowne by light,</l> 
+<l>  Where Faith is vallu'd, for Loue to requite.</l> 
+ 
+<l>Please him, and serue him, glory in his might</l> 
+<l>  And firme hee'le be, as Innocency white,</l> 
+<l>  Cleere as th'ayre, warme as Sun's beames, as day light</l> 
+<l>  Iust as Truth, constant as Fate, ioy'd to requite.</l> 
+ 
+<l>Then loue obey, striue to obserue his might</l> 
+<l>And be in his braue Court a glorious light.</l> 
+</lg><lg type="sonnet"> 
+<head>             4.</head> 
+ 
+<l>And be in his braue Court a glorious light</l> 
+<l>  Shine in the eyes of Faith, and Constancy</l> 
+<l>  Maintaine the fires of Loue, still burning bright,</l> 
+<l>  Not slightly sparkling, but light flaming be.</l> 
+ 
+<l>Neuer to slake till earth no Starres can see,</l> 
+<l>  Till Sun, and Moone doe leaue to vs darke night,</l> 
+<l>  And secound Chaos once againe doe free</l> 
+<l>  Vs, and the World from all deuisions spight,</l> 
+ 
+<l>Till then affections which his followers are,</l> 
+<l>  Gouerne our hearts, and prooue his powers gaine,</l> 
+<l>  To taste this pleasing sting, seeke with all care</l> 
+<l>  For happy smarting is it with small paine.</l> 
+ 
+<l>Such as although it pierce your tender heart,</l> 
+<l>And burne, yet burning you will loue the smart.</l> 
+</lg><lg type="sonnet"> 
+<head>             5.</head> 
+ 
+<l>And burne, yet burning you will loue the smart,</l> 
+<l>  When you shall feele the waight of true desire,</l> 
+<l>  So pleasing, as you would not wish your part</l> 
+<l>  Of burthen showld be missing from that fire.</l> 
+ 
+<l>But faithfull and vnfaigned heate aspire</l> 
+<l>  Which sinne abollisheth, and doth impart</l> 
+<l>  Salues to all feare, with vertues which inspire</l> 
+<l>  Soules with diuine loue; which showes his chast art.</l> 
+ 
+<l>And guide he is to ioyings, open eyes</l> 
+<l>  He hath to happinesse, and best can learne</l> 
+<l>  Vs, meanes how to deserue, this he descries,</l> 
+<l>  Who blinde, yet doth our hiden'st thoughts discerne.</l> 
+ 
+<l>Thus we may gaine since liuing in blest Loue,      </l> 
+<pb n="38"/> 
+<l>He may our [Prophet]<ref target="n41">[41]</ref>, and our Tutor prooue.                 profitt</l> 
+</lg><lg type="sonnet"> 
+<head>             6.</head> 
+ 
+<l>He may our Prophett, and our Tutor prooue,</l> 
+<l>  In whom alone we doe this power finde,</l> 
+<l>  To ioine two hearts as in one frame to mooue</l> 
+<l>  Two bodies, but one soule to rule the minde</l> 
+ 
+<l>Eyes which must care to one deare Obiect binde,</l> 
+<l>  Eares to each others speach as if aboue</l> 
+<l>  All else, they sweete, and learned were; this kind</l> 
+<l>  Content of Louers witnesseth true loue.</l> 
+ 
+<l>It doth inrich the wits, and make you see</l> 
+<l>  That in your selfe which you knew not before,</l> 
+<l>  Forceing you to admire such guifts showld be</l> 
+<l>  Hid from your knowledge, yet in you the store.</l> 
+ 
+<l>Millions of these adorne the throane of Loue,</l> 
+<l>How blest [are] they then, who his fauours proue?               bee</l> 
+</lg><lg type="sonnet"> 
+<head>             7.</head> 
+<l>How bless'd be they, then, who his fauors proue,</l> 
+<l>  A life whereof the birth is iust desire?</l> 
+<l>  Breeding sweete flame, which harts inuite to moue,</l> 
+<l>  In these lou'd eyes which kindle Cupids fire,</l> 
+ 
+<l>And nurse his longings with his thoughts intire,</l> 
+<l>  Fix't on the heat of wishes form'd by Loue,</l> 
+<l>  Yet whereas fire destroyes, this doth aspire,</l> 
+<l>  Increase, and foster all delights aboue.</l> 
+ 
+<l>Loue will a Painter make you, such, as you</l> 
+<l>  Shall able be to draw, your onely deare,</l> 
+<l>  More liuely, perfect, lasting, and more true</l> 
+<l>  Then rarest Workeman, and to you more neere.</l> 
+ 
+<l>These be the least, then all must needs confesse,</l> 
+<l>He that shuns Loue, doth loue himselfe the lesse.</l> 
+</lg><lg type="sonnet"> 
+<head>            8.</head> 
+ 
+<l>He that shuns Loue, doth loue himselfe the lesse,</l> 
+<l>  And cursed he whose spirit, not admires</l> 
+<l>  The worth of Loue, where endlesse blessednes</l> 
+<l>  Raignes, &amp; commands, maintain'd by heau'nly fires.</l> 
+ 
+<l>Made of Vertue, ioyn'd by Truth, blowne by Desires,</l> 
+<pb n="39"/> 
+<l>  Strengthned by Worth, renew'd by carefulnesse,</l> 
+<l>  Flaming in neuer changing thoughts: bryers</l> 
+<l>  Of Iealousie shall heere misse welcomnesse.</l> 
+ 
+<l>Nor coldly passe in the pursutes of Loue</l> 
+<l>  Like one long frozen in a Sea of yce:</l> 
+<l>  And yet but chastly let your passions [moone],                moove</l> 
+<l>  No thought from vertuous Loue your minds intice.</l> 
+ 
+<l>Neuer to other ends your Phant'sies place,</l> 
+<l>But where they may returne with honor's grace.</l> 
+</lg><lg type="sonnet"> 
+<head>             9.</head> 
+ 
+<l>Bvt where they may returne with Honor's grace,</l> 
+<l>  Where Venus follies can no harbour winne,</l> 
+<l>  But chased are, as worthlesse of the face,</l> 
+<l>  Or stile of Loue, who hath lasciuious beene.</l> 
+ 
+<l>Our hearts are subiect to her Sonne; where sinne</l> 
+<l>  Neuer did dwell, or rest one minutes space;</l> 
+<l>  What faults he hath in her did still beginne,</l> 
+<l>  And from her breast he suck'd his fleeting pace.</l> 
+ 
+<l>If Lust be counted Loue 'tis falsely nam'd,</l> 
+<l>  By wickednesse, a fairer glosse to set</l> 
+<l>  Vpon that Vice, which else makes men asham'd</l> 
+<l>  In the owne Phrase to warrant, but beget</l> 
+ 
+<l>This Childe for Loue, who ought like Monster borne</l> 
+<l>Be from the Court of Loue, and Reason torne.</l> 
+</lg><lg type="sonnet"> 
+<head>            10.</head> 
+ 
+<l>Bee from the Court of Loue, and Reason torne,</l> 
+<l>  For Loue in Reason now doth put his trust,</l> 
+<l>  Desert, and liking are together borne</l> 
+<l>  Children of Loue, and Reason, Parents iust,</l> 
+ 
+<l>Reason aduiser is, Loue ruler must</l> 
+<l>  Be of the State, which Crowne he long hath worne;</l> 
+<l>  Yet so, as neither will in least mistrust</l> 
+<l>  The gouernment where no feare is of scorn.</l> 
+ 
+<l>Then reuerence both their mights thus made of one,</l> 
+<l>  But wantonesse, and all those errors shun,</l> 
+<l>  Which wrongers be, Impostures, and alone</l> 
+<l>  Maintainers of all follies ill begunne.</l> 
+ 
+<l>Fruit of a [sower], and vnwholsome grownd                       sowre</l> 
+<l>Vnprofitably pleasing, and vnsound.                             (sour) </l> 
+<pb n="40"/> 
+</lg><lg type="sonnet"> 
+<head>            11.</head> 
+ 
+<l>Vnprofitably pleasing, and vnsound.</l> 
+<l>  When Heauen gaue liberty to fraile dull earth,</l> 
+<l>  To bringe foorth plenty that in ills abound,</l> 
+<l>  Which ripest, yet doe bring a certaine dearth.</l> 
+ 
+<l>A timelesse, and vnseasonable birth,</l> 
+<l>  Planted in ill, in worse time springing found,</l> 
+<l>  Which Hemlocke<ref target="n42">[42]</ref> like might feed a sicke-wits mirth</l> 
+<l>  Where vnrul'd vapours swimme in endlesse round.</l> 
+ 
+<l>Then ioy we not in what we ought to shunne,</l> 
+<l>  Where shady pleasures shew, but true borne fires</l> 
+<l>  Are quite quench'd out, or by poore ashes won,</l> 
+<l>  Awhile to keepe those coole, and wann desires.</l> 
+ 
+<l>O no, let Loue his glory haue, and might   </l> 
+<l>Be giu'n to him, who triumphs in his right.</l> 
+</lg><lg type="sonnet"> 
+<head>            12.</head> 
+ 
+<l>Be giu'n to him who triumphs in his right;</l> 
+<l>  Nor fading be, but like those blossomes faire,</l> 
+<l>  Which fall for good, and lose their colours bright,</l> 
+<l>  Yet dye not, but with fruit their losse repaire:</l> 
+ 
+<l>So may Loue make you pale with louing care,</l> 
+<l>  When sweet enioying shall restore that light,</l> 
+<l>  More cleere in beauty, then we can compare,</l> 
+<l>  If not to Venus in her chosen [might].                        night</l> 
+ 
+<l>And who so giue themselues in this deare kinde, </l> 
+<l>  these happinesses shall attend them still,</l> 
+<l>  To be supplide with ioyes enrich'd in minde,</l> 
+<l>  With treasures of content, and pleasures fill.</l> 
+ 
+<l>Thus loue to be deuine, doth here appeare, </l> 
+<l>Free from all foggs, but shining faire, and cleare.</l> 
+</lg><lg type="sonnet"> 
+<head>            13.</head> 
+ 
+<l>Free from all foggs, but shining faire, and cleare,</l> 
+<l>  Wise in all good, and innocent in ill,</l> 
+<l>  Where holly<ref target="n43">[43]</ref> friendship is esteemed deare,</l> 
+<l>  With Truth in loue, and Iustice in our Will.</l> 
+ 
+<l>In Loue these titles onely haue their fill         </l> 
+<pb n="41"/> 
+<l>  Of happy life-maintainer, and the meere</l> 
+<l>  Defence of right, the punisher of skill,</l> 
+<l>  And fraude, from whence directions doth appeare.</l> 
+ 
+<l>To thee then, Lord commander of all hearts,</l> 
+<l>  Ruler of our affections, kinde, and iust,</l> 
+<l>  Great King of Loue, my soule from faigned smarts,</l> 
+<l>  Or thought of change, I offer to your trust,</l> 
+ 
+<l>This Crowne, my selfe, and all that I haue more,</l> 
+<l>Except my heart, which you bestow'd before. </l> 
+</lg><lg type="sonnet"> 
+<head>           14.</head> 
+ 
+<l>Except my heart, which you bestow'd before,</l> 
+<l>  And for a signe of Conquest gaue away </l> 
+<l>  As worthlesse to be kept in your choice store;</l> 
+<l>  Yet one more spotlesse with you doth not stay.</l> 
+ 
+<l>The tribute which my heart doth truely pay,</l> 
+<l>  Is faith vntouch'd, pure thoughts discharge the score</l> 
+<l>  Of debts for me, where Constancy beares sway,</l> 
+<l>  And rules as Lord, vnharm'd by Enuies sore,</l> 
+ 
+<l>Yet other mischiefes faile not to attend,</l> 
+<l>  As enimies to you, my foes must be,</l> 
+<l>  Curst Iealousie doth all her forces bend</l> 
+<l>  To my vndoing, thus my harmes I see.</l> 
+ 
+<l>So though in Loue I feruently doe burne,</l> 
+<l>  In this strange Labyrinth how shall I turne?<ref target="n44">[44]</ref></l> 
+</lg><lg type="song"> 
+<head>         Song. I.</head> 
+ 
+<l>Sweet, let me enioy thy sight</l> 
+<l>  More cleare, more bright then morning Sun,</l> 
+<l>Which in Spring-time giues delight</l> 
+<l>  And by which Summers pride is wun.</l> 
+<l>Present sight doth pleasures moue</l> 
+<l>  Which in sad absence we must misse:</l> 
+<l>But when met againe in loue,</l> 
+<l>  Then twice redoubled is our blisse.</l> 
+ 
+<l>Yet this comfort absence giues,</l> 
+<l>  And only faithfull louing tries,</l> 
+<l>That though parted, Loues force liues</l> 
+<l>  As iust in heart, as in our eyes:</l> 
+<l>But such comfort banish quite,           </l> 
+<pb n="42"/> 
+<l>  Farre sweeter is it, still to finde</l> 
+<l>Fauour in thy loued sight, </l> 
+<l>  Which present smiles with ioyes combind.</l> 
+ 
+<l>Eyes of gladnesse, lipps of Loue,</l> 
+<l>  And hearts from passion not to turne,</l> 
+<l>But in sweet affections mooue,</l> 
+<l>  In flames of Faith to liue, and burne.</l> 
+<l>Dearest then, this kindnesse giue,</l> 
+<l>  And grant me life, which is your sight,</l> 
+<l>Wherein I more blessed liue,</l> 
+<l>  Then graced with the Sunnes faire light.</l> 
+</lg><lg type="song"> 
+<head>            2.</head> 
+ 
+<l>Sweet Siluia in a shady wood,</l> 
+<l>  With her faire Nimphs layd downe,</l> 
+<l>Saw not farre off where Cupid stood,</l> 
+<l>  The Monarch of Loues Crowne,</l> 
+<l>All naked, playing with his wings,</l> 
+<l>  Within a Mirtle Tree,</l> 
+<l>Which sight a sudden laughter brings,</l> 
+<l>  His Godhead so to see.</l> 
+ 
+<l>[An] fondly they began to iest,                                and</l> 
+<l>  With scoffing, and delight,</l> 
+<l>Not knowing he did breed vnrest,</l> 
+<l>  And that his will's his right:</l> 
+<l>When he perseiuing of their scorne,</l> 
+<l>  Grew in such desperate rage,</l> 
+<l>Who but for honour first was borne,</l> 
+<l>  Could not his rage asswage.</l> 
+ 
+<l>Till shooting of his murth'ring dart,</l> 
+<l>  Which not long lighting was</l> 
+<l>Knowing the next way to the heart,</l> 
+<l>  Did through a poore Nymph passe:</l> 
+<l>This shot the others made to bow,</l> 
+<l>  Besides all those to blame,</l> 
+<l>Who scorners be, or not allow</l> 
+<l>  Of powerfull Cupids name.</l> 
+ 
+<l>Take heede then nor doe idly smile,</l> 
+<l>  Nor Loues commands despise,</l> 
+<l>For soone will he your strength beguile,</l> 
+<l>  Although he want his eyes.</l> 
+</lg><lg type="song"> 
+<head>             3.</head>                                                
+ 
+<pb n="43"/> 
+<l>Come merry Spring delight vs,</l> 
+<l>For Winter long did spight vs,</l> 
+<l>In pleasure still perseuer,</l> 
+<l>Thy beauties ending neuer:</l> 
+<l>  Spring, and grow</l> 
+<l>  Lasting so,</l> 
+<l>With ioyes increasing euer.</l> 
+ 
+<l>Let cold from hence be banish'd,</l> 
+<l>Till hopes from me be vanish'd,</l> 
+<l>But blesse thy daynties growing</l> 
+<l>In fulnesse freely flowing:</l> 
+<l>  Sweet Birds sing</l> 
+<l>  For the Spring,</l> 
+<l>All mirth is now bestowing.</l> 
+ 
+<l>Philomel<ref target="n45">[45]</ref> in this Arbour</l> 
+<l>Makes now her louing Harbour,</l> 
+<l>Yet of her state complaining,</l> 
+<l>Her Notes in mildnesse strayning,</l> 
+<l>  Which thought sweet,</l> 
+<l>  Yet doe meet.</l> 
+<l>Her former lucklesse paining.</l> 
+</lg><lg type="song"> 
+<head>             4.</head> 
+ 
+<l>Louers learne to speake but truth,</l> 
+<l>  Sweare not, and your oathes forgoe,</l> 
+<l>Giue your age a constant youth,</l> 
+<l>  Vow noe more then what you'le doe.</l> 
+ 
+<l>Thinke it sacriledge to breake</l> 
+<l>  What you promise, shall in loue</l> 
+<l>And in teares what you doe speake</l> 
+<l>  Forget not, when the ends you proue.</l> 
+ 
+<l>Doe not thinke it glory is</l> 
+<l>  To entice, and then deceiue,</l> 
+<l>Your chiefe honors lye in this,</l> 
+<l>  By worth what wonne is, not to leaue.</l> 
+ 
+<l>'Tis not for your fame to try, </l> 
+<l>  What we weake, not oft refuse,</l> 
+<l>In our bounty our faults lye,</l> 
+<l>  When you to doe a fault will chuse.</l> 
+ 
+<l>Fye leaue this, a greater gaine,         </l> 
+<pb n="44"/> 
+<l> tis to keepe when you haue won,</l> 
+<l>Then what purchas'd is with paine,</l> 
+<l>  Soone after in all scorne to shun.</l> 
+ 
+<l>For if worthlesse to be priz'd,</l> 
+<l>  Why at first will you it moue?</l> 
+<l>And if worthy, why dispis'd?</l> 
+<l>  You cannot sweare, and lie, and loue.</l> 
+ 
+<l>Loue alasse you cannot like,</l> 
+<l> Tis but for a fashion mou'd,</l> 
+<l>None can chuse, and then dislike,</l> 
+<l>  Vnlesse it be by faslhood prou'd.</l> 
+ 
+<l>But your choyce is, and your loue.</l> 
+<l>  How most number to deceiue,</l> 
+<l>As if honors claime did moue</l> 
+<l>  Like Popish Lawe<ref target="n46">[46]</ref>, none safe to leaue.</l> 
+ 
+<l>Flye this folly, and returne</l> 
+<l>  Vnto truth in Loue, and try,</l> 
+<l>None but Martir's happy burne,</l> 
+<l>  More shamefull ends they haue that lye.</l> 
+</lg><lg type="song"> 
+<head>             I.</head> 
+ 
+<l>My heart is lost, what can I now expect,</l> 
+<l>  An euening faire after a drowsie day?</l> 
+<l>  Alas, fond Phant'sie, this is not the way,</l> 
+<l>  To cure a mourning heart, or salue neglect:</l> 
+ 
+<l>They who should helpe, doe me, and helpe reiect,</l> 
+<l>  Embracing loose desires, and wanton play,</l> 
+<l>  While wanton base delights doe beare the sway,</l> 
+<l>  [Aud] impudency raignes without respect.                      and</l> 
+ 
+<l>O Cupid let [they] Mother know her shame,                        thy</l> 
+<l>  'T'is time for her to leaue this youthfull flame<ref target="n47">[47]</ref>,</l> 
+<l>  Which doth dishonor her, is ages blame,</l> 
+<l>  And takes away the greatnes of thy name.</l> 
+ 
+<l>Thou God of Loue, she only Queene of lust,</l> 
+<l>Yet striues by weakning thee, to be vniust.</l> 
+</lg><lg type="song"> 
+<head>             2.</head>                                                
+ 
+<pb n="45"/> 
+<l>Late in the Forrest I did Cupid see</l> 
+<l>  Cold, wett, and crying, he had lost his way,</l> 
+<l>  And being blinde was farther like to stray;</l> 
+<l>  Which sight, a kind compassion bred in me.</l> 
+ 
+<l>I kindly tooke, and dry'd him, while that he,</l> 
+<l> (Poore Child) complain'd, he sterued was with stay</l> 
+<l>  And pin'd for want of his accustom'd prey,</l> 
+<l>  For none in that wilde place his Host would be.</l> 
+ 
+<l>I glad was of his finding, thinking sure,</l> 
+<l>  This seruice should my freedome still procure,</l> 
+<l>  And in my armes I tooke him then vnharm'd,</l> 
+ 
+<l>Carrying him safe vnto a Myrtle bowre,</l> 
+<l>  But in the way he made me, feele his powre,</l> 
+<l>  Burning my heart, who had him kindly warm'd.</l> 
+</lg><lg type="song"> 
+<head>             3.</head> 
+ 
+<l>Ivno still iealous of her husband Ioue<ref target="n48">[48]</ref>,</l> 
+<l>  Descended from aboue, on earth to try,</l> 
+<l>  Whether she there could find his chosen Loue,</l> 
+<l>  Which made him from the Heau'ns so often flye.</l> 
+ 
+<l>Close by the place where I for shade did lye,</l> 
+<l>  She [chafing] came, but when shee saw me moue,                chaseing</l> 
+<l>  Haue you not seene this way (said she) to hye</l> 
+<l>  One, in whom vertue neuer grownde did proue?</l> 
+ 
+<l>Hee, in whom Loue doth breed, to stirre more hate,</l> 
+<l>  Courting a wanton Nimph for his delight;</l> 
+<l>  His name is Iupiter, my Lord, by Fate,</l> 
+<l>  Who for her, leaues Me, Heauen, his Throne, and light,</l> 
+ 
+<l>I saw him not (said I) although heere are</l> 
+<l>Many, in whose hearts, Loue hath made like warre,</l> 
+</lg><lg type="song"> 
+<head>            4.</head> 
+ 
+<l>When I beheld the Image<ref target="n49">[49]</ref> of my deare,</l> 
+<l>  With greedy lookes mine eies would that way bend,</l> 
+<l>  Feare, and Desire, did inwardly contend;</l> 
+<l>  Feare to be mark'd, Desire to drawe still neere.</l> 
+ 
+<l>And in my soule a Spirit would appeare,  </l> 
+<pb n="46"/> 
+<l>  Which boldnes waranted, and did pretend</l> 
+<l>  To be my Genius, yet I durst not lend,</l> 
+<l>  My eyes in trust, where others seem'd so cleare.</l> 
+ 
+<l>Then did I search, from whence this danger rose,</l> 
+<l>  If such vnworthynesse in me did rest,</l> 
+<l>  As my steru'd eyes must not with sight be blest,</l> 
+<l>  When Iealousie her poyson did disclose.</l> 
+ 
+<l>Yet in my heart vnseene of Iealous eye,</l> 
+<l>The truer Image shall in tryumph lye.</l> 
+</lg><lg type="song"> 
+<head>             5.</head> 
+ 
+<l>Like to huge Clowdes of smoake which well may hide</l> 
+<l>  The face of fairest day, though for a while:</l> 
+<l>  So wrong may shaddow me, till truth doe smile,</l> 
+<l>  And Iustice Sunne-like hath those vapours tyde.</l> 
+ 
+<l>O doating Time, canst thou for shame let slid,</l> 
+<l>  So many minutes, while ills doe beguile</l> 
+<l>  Thy age, and worth, and falshoods thus defile</l> 
+<l>  Thy auncient good, where now but crosses bide?</l> 
+ 
+<l>Looke but once vp, and leaue thy toyling pace </l> 
+<l>  And on my miseries thy dimme eye place,</l> 
+<l>  Goe not so fast, but giue my care some ende,</l> 
+ 
+<l>Turne not thy glasse<ref target="n50">[50]</ref> (alas) vnto my ill</l> 
+<l>  Since thou with sand it canst not so farre fill,</l> 
+<l>  But to each one my sorrowes will extend.</l> 
+</lg><lg type="song"> 
+<head>             6.</head> 
+ 
+<l>O that no day would euer more appeare,</l> 
+<l>  But clowdy night to gouerne this sad place,</l> 
+<l>  Nor light from Heauen these haples roomes to grace</l> 
+<l>  Since that light's shadow'd which my Loue holds deare.</l> 
+ 
+<l>Let thickest mists in enuy master here,</l> 
+<l>  And Sunne-borne day for malice show no face,</l> 
+<l>  Disdaining light, where Cupid, and the race</l> 
+<l>  Of Louers are dispisd, and shame shines cleere.</l> 
+ 
+<l>Let me be darke, since barr'd of my chiefe light,</l> 
+<l>  And wounding Iealousie commands by might,</l> 
+<l>  But stage-play-like diguised pleasures giue:</l> 
+ 
+<l>To me it seemes, as ancient fictions make</l> 
+<pb n="47"/> 
+<l>  The Starres, all [fashious], and all shapes partake,          fashions</l> 
+<l>  While in my thoughts true forme of Loue shall liue.</l> 
+</lg><lg type="song"> 
+<head>            7.</head> 
+ 
+<l>No time, no roome, no thought, or writing can</l> 
+<l>  Giue rest, or quiet to my louing heart,</l> 
+<l>  Or can my memory or Phant'sie scan,</l> 
+<l>  The measure of my still renewing smart.</l> 
+ 
+<l>Yet whould I not (deare Loue) thou shouldst depart,</l> 
+<l>  But let my passions as they first began,</l> 
+<l>  Rule, wounde, and please, it is thy choysest Art,</l> 
+<l>  To giue disquiet, which seemes ease to man.</l> 
+ 
+<l>When all alone, I thinke vpon thy paine,</l> 
+<l>  How thou doest trauell our best selues to gaine,</l> 
+<l>  Then houerly thy lessons I doe learne;</l> 
+ 
+<l>Thinke on thy glory, which shall still ascend,</l> 
+<l>  Vntill the world come to a finall end,</l> 
+<l>  And then shall we thy lasting powre dicerne.</l> 
+</lg><lg type="song"> 
+<head>             8.</head> 
+ 
+<l>How Glowworme-like the Sun doth now appeare,</l> 
+<l>  Cold beames doe from his glorious face descend</l> 
+<l>  Which shewes his daies, and force [duw] to an end,            draw</l> 
+<l>  Or that to leaue taking, his time grows neere.</l> 
+ 
+<l>[The] day his face did seeme but pale, though cleare,           this</l> 
+<l>  The reason is, he to the North must lend</l> 
+<l>  His light, and warmth must to that Climat bend,</l> 
+<l>  Whose frozen parts cowld not loues heat hold deare</l> 
+ 
+<l>Alas, if thou bright Sunne to part from hence</l> 
+<l>Grieue so, what must I haplesse who from thence,</l> 
+<l>Where thou dost goe my blessing shall attend;</l> 
+ 
+<l>Thou shalt enioy that sight for which I dye,</l> 
+<l>  And in my heart thy fortunes doe enuy,</l> 
+<l>  Yet grieue, I'le loue thee, for this state may mend.</l> 
+</lg><lg type="song"> 
+<head>             9.</head> 
+ 
+<l>My Muse now happy lay thy selfe to rest,</l> 
+<l>  Sleepe in the quiet of a faithfull loue,</l> 
+<l>  Write you no more, but let these Phant'sies mooue</l> 
+<l>  Some other hearts, wake not to new vnrest.</l> 
+ 
+<l>But if you Study be those thoughts adrest</l> 
+<pb n="48"/> 
+<l>  To truth, which shall eternall goodnes prooue;</l> 
+<l>  Enioying of true ioy the most, and best</l> 
+<l>  The endles gaine which neuer will remoue.</l> 
+ 
+<l>Leaue the discourse of Venus, and her sonne</l> 
+<l>  To young beginners, and their braines inspire</l> 
+<l>  With storyes of great Loue, and from that fire,</l> 
+<l>  Get heat to write the fortunes they haue wonne.</l> 
+ 
+<l>And thus leaue off; what's past shewes you can loue,</l> 
+<l>Now let your Constancy your Honor proue.<ref target="n51">[51]</ref></l> 
+ 
+</lg>
+<!-- <p> 
+        F I N I S.<lb/> 
+</p>  -->
+</div1> 
+</body> 
+
+<back id="d8"> 
+<div1 type="notes" id="d9"> 
+<head>NOTES</head> 
+
+<note id="n1"><seg type="note-symbol">1.</seg> <p>  This quote is from the title page of the <hi rend="italic">Urania</hi>, which omits to  
+ mention Lady Mary Wroth's deceased husband, other than by the fact of  
+ her married name. Lady Mary Wroth was primarily identified as a  
+ Sidney, and shared the intellectual and literary heritage of the  
+ famous writers who preceded her.</p>  
+</note> 
+<note id="n2"><seg type="note-symbol">2.</seg> <p>
+  This thumbnail biographical sketch owes much to a more comprehensive  
+ one by Margaret P. Hannay in <hi rend="italic">Women Writers of the Renaissance</hi>, cited  
+ below.</p>  
+</note> 
+<note id="n3"><seg type="note-symbol">3.</seg> <p>  "A Sonnet to the Noble Lady, the Lady Mary Wroth," <hi rend="italic">Complete Poems</hi>  
+ (1982), 165.
+</p></note> 
+<note id="n4"><seg type="note-symbol">4.</seg> <p>  Robert Sidney wrote to his wife after a visit with his new son-in-law 
+ that the young man had something "that doth discontent him: but the  
+ particulars I could not get out of him, onely that hee protests that  
+ hee cannot take any exception to his wife, nor her carriage towards  
+ him. It were very soon for any unkindness to begin." From a letter in  
+ the collections at Penshurst, quoted by Hannay (551).</p> 
+</note> 
+<note id="n5"><seg type="note-symbol">5.</seg> <p>  Josephine Roberts (85) traces the chariot image to Petrarch's <hi rend="italic">Trionfe  
+ d'amore</hi>.</p>  
+</note> 
+<note id="n6"><seg type="note-symbol">6.</seg> <p>  Roberts, p. 85, has "shutt." Neither the compositor, nor Roberts, nor  
+ Hannay, p.554 (modernized), seems to regard this as "shoot," but to me  
+ this makes more sense. Wroth's spelling is very anglo-saxon.</p>  
+</note> 
+<note id="n7"><seg type="note-symbol">7.</seg> <p>  The Court of Love, a traditional theme, undergirds the courtly love  
+ ideology by close analogy with the lord-and-vassal relationships  
+ inherited from medieval feudalism.</p> 
+</note> 
+<note id="n8"><seg type="note-symbol">8.</seg> <p>
+  Comparison of eyes to the sun or stars is a commonplace of  
+ Petrarchism, but the star image was of particular interest to all the  
+ Sidneys. "Astrophil" is of course "lover of a star," and "Stella" is  
+ "star"; Josephine Roberts reports that Sir Robert Wroth often used  
+ star/eye images in his (unpublished) sonnets ( <hi rend="italic">Poems</hi> 86).</p>  
+</note> 
+<note id="n9"><seg type="note-symbol">9.</seg> <p>  Waine: wane (noun usage, archaic).</p> 
+</note> 
+<note id="n10"><seg type="note-symbol">10.</seg> <p>
+ Sights string: the Pythagoreans thought light originated from the  
+ objects seen; the Platonists thought that light originated from the  
+ sun, from objects, and most of all from the eye; Renaissance ideas on  
+ this subject favored Plato.</p>  
+</note> 
+<note id="n11"><seg type="note-symbol">11</seg> <p> Willow: emblem of weeping. Popular ballads held that spurned women  
+ pine away and die under the sign of the willow. "Bury Me Beneath the  
+ Willow" and "On Top of Old Smokey" are modern examples of the genre.</p>  
+</note> 
+<note id="n12"><seg type="note-symbol">12.</seg> <p>
+ Loue: Cupid. Lovers are bound by feudal ties of fealty to Love as  
+ their lord. See Petrarch, <hi rend="italic">Rime</hi>, and Dante, <hi rend="italic">La Vita Nuova</hi>.</p> 
+</note> 
+<note id="n13"><seg type="note-symbol">13.</seg> <p>
+ Optaine: "p" here is a common compositor's error, an inverted "d."  
+ These letters in the typeface used were mounted on the same size type  
+ body and when placed in the composing stick, one looks almost  
+ identical to the other. A very similar error, "n" for "u" and vice  
+ versa, which is called a "turned" letter, occurs frequently in the  
+ 1621 text I have retained and noted these rather than silently  
+ emnding them, to keep some feel for the original.</p>  
+</note> 
+<note id="n14"><seg type="note-symbol">14.</seg> <p>
+ Camelion: chamelion. Lethargic and long-lived in captivity without  
+ being fed, chamelions were popularly thought to "eat the air",  
+ <hi rend="italic">Hamlet</hi> III.ii.</p> 
+</note> 
+<note id="n15"><seg type="note-symbol">15.</seg> <p>
+ Sleepe: Compare <hi rend="italic">Astrophil and Stella</hi>, sonnets 38-40.</p> 
+</note> 
+<note id="n16"><seg type="note-symbol">16.</seg> <p>
+ Petrarchan oxymorons: heate/frosts, wanting/surfet, burne/freeze.  
+ Compare <hi rend="italic">Rime</hi> CXXXII: "E tremo a mezza state, ardendo il verno," and  
+ CXXXIV: "E temo, e spero; et ardo, e son un ghiaccio." The tradition  
+ was overused in unskillful hands and was often satirized: see  
+ <hi rend="italic">Astrophil and Stella</hi>, Sonnet 6, and <hi rend="italic">Romeo and Juliet</hi>, I.1.</p>  
+</note> 
+<note id="n17"><seg type="note-symbol">17.</seg> <p>
+ Humors: "Moisture, juice, or sap; also a mans disposition or fansy.  
+ [2nd def.] Bloud, Choler, Phlegme, and Melancholie." Coles' <hi rend="italic">English  
+ Dictionary</hi>, 1676. Ben Jonson was fascinated by the theory of humours;  
+ here "humors" seems to refer primarily to melancholia, which was  
+ closely related to love in the Renaissance mind.</p> 
+</note> 
+<note id="n18"><seg type="note-symbol">18.</seg> <p>
+ Vade: fade.</p> 
+</note> 
+<note id="n19"><seg type="note-symbol">19.</seg> <p>
+ 22.: Josephine Roberts (99) and Margaret Hannay (553) both link this  
+ poem to Ben Jonson's <hi rend="italic">Masque of Blackness</hi> [1606], in which Lady Mary  
+ acted a part.</p>  
+</note> 
+<note id="n20"><seg type="note-symbol">20.</seg> <p>
+ Phoebus: Personification of the Sun as Apollo, the Sun God.</p> 
+</note> 
+<note id="n21"><seg type="note-symbol">21.</seg> <p>
+ This: "The hart which fled to you." A popular Petrarchism: compare  
+ Thomas Wyatt's "Helpe me to seke." </p>
+</note> 
+<note id="n22"><seg type="note-symbol">22.</seg> <p>
+ Hode: Hope. the lowercase "p" was turned by the compositor.</p> 
+</note> 
+<note id="n23"><seg type="note-symbol">23.</seg> <p>
+ Fare: far ("farr" in Roberts, p. 109). </p>
+</note> 
+<note id="n24"><seg type="note-symbol">24.</seg> <p>
+ Iarre: jar (Roberts, "jarr"). A violent disagreement. 
+</p></note> 
+<note id="n25"><seg type="note-symbol">25.</seg> <p>
+ The heart is considered by Aristotle, still authoritative in the early  
+ seventeenth century, to be the sense organ that detects emotions. 
+</p></note> 
+<note id="n26"><seg type="note-symbol">26.</seg> <p>
+ Drosse: dross. Material of little worth left over from refinement of  
+ precious metals. 
+</p></note> 
+<note id="n27"><seg type="note-symbol">27.</seg> <p>
+ Gloze: (Roberts: "glose," p. 111) covered over, as in "glazed." Coles'  
+ <hi rend="italic">English Dictionary</hi> [1676] defines it as "to flatter."</p> 
+</note> 
+<note id="n28"><seg type="note-symbol">28.</seg> <p>
+ This line recalls the image in the first sonnet of the exposed heart;  
+ Pamphilia feels keenly the inequity of the social ostracism which she,  
+ but not her lover, receives from society under the double standard.</p>
+</note> 
+<note id="n29"><seg type="note-symbol">29.</seg> <p>In manuscript, this song in hexameter couplets is arranged in  
+quatrains. Here, it is in three sestets and an separate couplet; the  
+effect is that of an expanded sonnet. Roberts (117) refers the reader  
+to Book IV of Ovid's <hi rend="italic">Metamorphoses</hi> for the injury done his mother by  
+Cupid; but I suspect the reference is to Book X; in Arthur Golding's  
+translation of 1567: 
+</p><lg><l>For as the armed Cvpid kist Dame Venus, vnbeware</l> 
+<l>An arrow sticking ovt did raze her breast vppon the bare.</l> 
+<l>The Goddesse being wovnded, thrust away her sonne. The wovnd</l> 
+<l>Appeered not to bee so deepe as afterward was fovnd 
+(606-9). </l></lg><p>She then falls in love with, not Mars, but 
+Adonis. The  
+<hi rend="italic">Metamorphoses</hi>, widely available both in Latin and in Arthur  
+Golding's popular translation was of great importance to the  
+Elizabethans, concerned as they were with "mutabilitie". Wroth shares  
+this interest, especially in view of Amphilanthus' tendency to  
+"change" (forsake Pamphilia for another). The tales of Ovid, as a  
+background or horizon to the complaints of Pamphilia, add poignancy to  
+her despair for her project of stabilizing the relationship.</p></note> 
+<note id="n30"><seg type="note-symbol">30.</seg> <p>
+ Seruice: fealty.</p>  
+</note> 
+<note id="n31"><seg type="note-symbol">31.</seg> <p>
+ Hap: occurrence; fate; happenstance.</p>
+</note> 
+<note id="n32"><seg type="note-symbol">32.</seg> <p> Wheele: Fortune's Wheel, often represented in Renaissance art as  
+ bearing several men, one riding up to fame and fortune, another  
+ resplendent in short-lived glory, another riding down to his fall and  
+ destruction.</p>
+</note> 
+<note id="n33"><seg type="note-symbol">33.</seg> <p> God: Mercury. He puts Argus, who has a thousand eyes, to sleep with  
+ music played on a reed pipe. Ovid, <hi rend="italic">Metamorphoses</hi> I: "And as he went  
+ he pyped still upon an Oten Reede," lines 842ff. (Golding).</p>
+</note> 
+<note id="n34"><seg type="note-symbol">34.</seg> <p>
+ Childe: Cupid.</p>
+</note> 
+<note id="n35"><seg type="note-symbol">35.</seg> <p>
+ Goodwins: the Goodwins Sands, shoal waters on the English coast where  
+ many ships foundered. Compare Petrarch, <hi rend="italic">Rime</hi> CLXXXIX ("Passa la  
+ nave"), and also the translations of the Petrarch by Wyatt and Surrey.</p>
+</note> 
+<note id="n36"><seg type="note-symbol">36.</seg> <p>
+ Loud: lov'd. The compositor sometimes has omitted to use an apostrophe  
+ to mark elisions.
+</p></note> 
+<note id="n37"><seg type="note-symbol">37.</seg> <p>
+ The Crowne she offers is a "crown" of sonnets. This poem serves as the  
+ introduction to the group of poems immediately following.
+</p></note> 
+<note id="n38"><seg type="note-symbol">38.</seg> <p>
+ A "crowne" or<hi rend="italic">corona</hi> is a series of short poems, such as sonnets,  
+ linked by the last line of each serving as the first line of the  
+ following, with the last line of the last poem reprising the first  
+ line of the first, closing the circle. Wroth's <hi rend="italic">corona</hi> contains an  
+ impressive fourteen sonnets. 
+</p></note> 
+<note id="n39"><seg type="note-symbol">39.</seg> <p>
+ Labyrinth: a reference to the labyrinth of Minos. Theseus enters the  
+ labyrinth to defeat the Minotaur, but cannot escape without the  
+ assistance of Ariadne. See Golding, XIII.225ff.
+</p></note> 
+<note id="n40"><seg type="note-symbol">40.</seg> <p>
+ Threed: thread. The thread of Ariadne by which Theseus navigates his  
+ way to safety.
+</p></note> 
+<note id="n41"><seg type="note-symbol">41.</seg> <p>
+ Prophet: this is "profitt" in the manuscript version (Roberts 130);  
+ Roberts notes that a pun is intended.
+</p></note> 
+<note id="n42"><seg type="note-symbol">42.</seg> <p>
+ Hemlocke: poison hemlock is a low-growing, attractive herb that grows  
+ on the margins of streams and in flood plains. It is extremely  
+ poisonous, inducing rapid paralysis when ingested, and was used in the  
+ execution of Socrates.
+</p></note> 
+<note id="n43"><seg type="note-symbol">43.</seg> <p> Holly: holy. This is in keeping with the move toward spiritualization  
+ of love in this "Crowne." 
+</p></note> 
+<note id="n44"><seg type="note-symbol">44.</seg> <p>
+ The return to this line suggests that the thread Pamphilia has been  
+ following has not led her to safety. Her focus on constancy as a  
+ spiritual discipline has been strengthened, but she is still  
+ victimized by jealousie. 
+</p></note> 
+<note id="n45"><seg type="note-symbol">45.</seg> <p>
+ Philomel: the nightingale. Ovid, in the <hi rend="italic">Metamorphoses</hi>, tells of the  
+ transformation of Philomela into a nightingale after a violent rape. 
+ In Golding, VI.578ff.
+</p></note> 
+<note id="n46"><seg type="note-symbol">46.</seg> <p>
+ Popish Lawe: possibly a reference to the Inquisition.
+</p></note> 
+<note id="n47"><seg type="note-symbol">47.Youthfull</seg> <p>flame: she burns with love for the youth Adonis. Ovid,  
+ <hi rend="italic">Metamorphoses</hi> X.604ff (Golding). </p></note>
+ 
+<note id="n48"><seg type="note-symbol">48.Juno,</seg> <p>the type of the jealous wife, sought 
+her shape-changing philandering husband throughout the world, but he generally stayed one  
+step ahead of her. See Ovid, 
+<hi rend="italic">Metamorphoses</hi>:</p>
+<p><q>
+<lg><l>She lookt abovt hir for hir Joue as one that was acqvainted</l> 
+<l>With svch escapes and with the deede had often him attainted.</l> 
+<l>Whome when she fovnd not in the heauen: Onlesse I gvess amisse,</l> 
+<l>Some wrong agaynst me (qvoth she) now my hvsbande working is.</l> 
+<l>And with that worde she left the Heauen, and down to earth shee came...</l> 
+<l>(Golding I.749-53)</l></lg></q></p></note> 
+
+<note id="n49" n="49"><seg type="note-symbol">49.Image:</seg> <p>probably a portrait painting or miniature (perhaps of William  
+ Herbert at Penshurst?). Pamphilia is afraid her interest in it will  
+ give her away, but takes comfort in her possession of a truer image in  
+ her heart.</p></note> 
+<note id="n50"><seg type="note-symbol">50.</seg> <p>
+ Glasse: in this case, an hourglass (see next line), but with perhaps a  
+ double entendre on the usual word for "mirror."
+</p></note> 
+<note id="n51"><seg type="note-symbol">51.</seg> <p>
+ In manuscript (Roberts 142), this poem, like Sonnet 48 above, is  
+ signed by the persona, Pamphilia, adding an emphatic tone of self- awareness and address, of publication to Amphilanthus, which gives the  
+ final couplet more force and direction than in the printed text which  
+ we have followed here. Thus who have read and enjoyed this etext  
+ edition are urged to continue on to Robert's <hi rend="italic">The Poems of Lady Mary  
+ Wroth</hi>, which recovers the robust spelling and punctuation of a text  
+ that has been, perhaps, somewhat unconsciously and damagingly  
+ patronized by those, undoubtedly men, who set up and printed the  
+ <hi rend="italic">Urania</hi> in 1621. 
+</p></note>
+</div1> 
+
+
+
+
+<div1 type="bibliography" id="d10"> 
+<head>A short bibliography</head><p> 
+ 
+Primary works<lb/> 
+ 
+Wroth, Lady Mary Sidney. <hi rend="italic">The Countesse of Mountgomeries Urania. Written by <lb/> 
+the right honorable the Lady Mary Wroath. Daughter to the Right Noble <lb/> 
+Robert Earle of Leicester. And Neece to the ever famous, and renowned <lb/> 
+Sr Phillips Sidney knight. And to the most exelent Lady Mary Countesse <lb/> 
+of Pembroke late deceased</hi>. London: Printed for John Marriott and John <lb/> 
+Grismand And are to bee sould at theire shoppes in St Dunstans Church <lb/> 
+yard in Fleetstreet and in Poules Ally at the signe of the Gunn [1621].<lb/> 
+A second part exists in manuscript only. <lb/> 
+</p><p>An etext edition of the <hi rend="italic">Urania</hi>, including the sonnet cycle, exists  
+in the collection of the Women Writer's Project at Brown University:  
+contact Elaine Brennan at womwrite@brownvm.brown.edu. There is  
+currently no paper edition available, other than the original, of the  
+<hi rend="italic">Urania</hi>. Some nineteen copies are known; the one used for this edition  
+of the sonnet sequence makes its home in the Folger Library, and is  
+available in microform from University Microforms, Ann Arbor, Michigan.  
+Its call number in the University of Oregon Library is AC 1 .E5 Reel  
+980. Josephine Roberts is said to be working on a new authoritative  
+edition as a follow-on to her excellent edition of the poems, cited  
+below.  
+ 
+&mdash;. <hi rend="italic">Pamphilia to Amphilanthus</hi>. Ed. Gary Waller. <lb/> 
+Salzburg: Institut fur Anglistik und Amerikanistik Universitat<lb/>  
+Salzburg, 1977. <lb/> 
+ 
+&mdash;. <hi rend="italic">The Poems of Lady Mary Wroth</hi>. Ed. Josephine A.<lb/>  
+Roberts. Baton Rouge, LA: LSUP, 1983. Bibliography, index. The<lb/>  
+authoritative edition of <hi rend="italic">Pamphilia to Amphilanthus</hi>. Roberts has done<lb/>  
+an excellent job, working from Wroth's manuscripts, which are greatly <lb/> 
+superior to the print edition of 1621, and supplying copious footnotes <lb/> 
+which are especially strong on influences and sources, notably those of <lb/> 
+Philip and Robert Sidney; the latter has not been published. <lb/> 
+ 
+Works cited and other secondary works<lb/> 
+ 
+Beilin, Elaine V. <hi rend="italic">Redeeming Eve: Women Writers of the English <lb/> 
+Renaissance</hi>. Princeton, NJ: PUP, 1987.<lb/> 
+ 
+&mdash;. "'The Onely Perfect Vertue': Constancy in Mary Wroth's<lb/>  
+Pamphilia to Amphilanthus." <hi rend="italic">Spenser Studies: A Renaissance Poetry<lb/>  
+Annual</hi> 1981: v2, 229-245. Wroth's identification of reciprocity as the<lb/>  
+means to gender equality. <lb/> 
+ 
+Castiglione, Baldasar. <hi rend="italic">The Book of the Courtier</hi>. Trans. Charles S.<lb/>  
+Singleton. New York: Doubleday, 1959.<lb/> 
+ 
+Foxe, John. <hi rend="italic">Actes and Monuments of the Christian Martyrs</hi>. London, 1563.<lb/> 
+ 
+Hannay, Margaret Patterson. "Mary Sidney: Lady Wroth." <hi rend="italic">Women Writers of <lb/> 
+the Renaissance and Reformation</hi>. Wilson, Katharina M., ed. Athens, GA: <lb/> 
+UGP, 1987. A short biographical and interpretive introduction.<lb/> 
+ 
+Lamb, Mary. <hi rend="italic">Gender and Authorship in the Sidney Circle</hi>. Madison, WI: UWP,<lb/>  
+1990. Bibliography, index. Gender studies; critical interpretation; <lb/> 
+Countess of Pembroke and Lady Mary Wroth. <lb/> 
+ 
+MacArthur, Janet "'A Sydney, Though Unnamed': Lady Mary Wroth and Her<lb/>  
+Poetical Progenitors." <hi rend="italic">English Studies in Canada</hi> March 1989: v15(1),<lb/>  
+12-20. Consideration of sources for Wroth's poems, with discussion of <lb/> 
+her adaptation of Petrarchan conventions to her own purposes. <lb/> 
+ 
+McLaren, Margaret A. "An Unknown Continent: Lady Mary Wroth's Forgotten<lb/>  
+Pastoral Drama 'Loves Victorie'." <hi rend="italic">The Renaissance Englishwoman in <lb/> 
+Print: Counterbalancing the Canon</hi>. Haselkorn, Anne M., and Betty S. <lb/> 
+Travitsky, eds. Amherst, MA: UMP, 1990. A study of the ms. of <hi rend="italic">Love's <lb/> 
+Victory</hi> in the Huntington Museum. <lb/> 
+ 
+Miller, Naomi J. "'Not Much to Be Marked': Narrative of the Woman's Part in<lb/>  
+Lady Mary Wroth's Urania." <hi rend="italic">SEL: Studies in English Literature, 1500-<lb/> 
+1900</hi> Winter 1989: v29(1), 121-37. Discussion of gender roles, <lb/> 
+especially regarding woman-to-woman relating, in the <hi rend="italic">Urania</hi>. <lb/> 
+ 
+&mdash;. and Gary F. Waller, ed. <hi rend="italic">Reading Mary Wroth: Representing <lb/> 
+Alternatives in Early Modern England</hi>. Knoxville, TN: UTP, 1991. <lb/> 
+Bibliography, index. Studies of Wroth's project of breaking with <lb/> 
+tradition on male-defined gender roles. <lb/> 
+  
+&mdash;. "Rewriting Lyric Fictions: The Role of the Lady in Lady<lb/>  
+Mary Wroth's <hi rend="italic">Pamphilia to Amphilanthus</hi>." <hi rend="italic">The Renaissance<lb/>  
+Englishwoman in Print: Counterbalancing the Canon</hi>. Haselkorn, Anne M.,<lb/>  
+and Betty S. Travitsky, eds. Amherst, MA: UMP, 1990. Discussion of <lb/> 
+Wroth's Lady in view of Wroth's life as a lady of the Court. <lb/> 
+ 
+Parry, Graham. "Lady Mary Wroth's <hi rend="italic">Urania</hi>." <hi rend="italic">Proceedings of the Leeds<lb/>  
+Philosophical and Literary Society</hi> 1975: v16, 51-60.<lb/> 
+ 
+Paulissen, May Nelson. "Forgotten Love Sonnets of the Court of King James:<lb/>  
+The Sonnets of Mary Wroth." <hi rend="italic">Publications of the Missouri Philological <lb/> 
+Association</hi> 1978: v3, 24-31.<lb/> 
+ 
+&mdash;. <hi rend="italic">The Love Sonnets of Lady Mary Wroth: a Critical<lb/>  
+Introduction</hi>. Salzburg: Institut fur Anglistik und Amerikanistik<lb/>  
+Universitat Salzburg, 1982. Bibliography. The pioneering study of Lady <lb/> 
+Mary's poems. Some of its conclusions are hampered by a lack of <lb/> 
+biographical information not available at the time, so that her work is<lb/>  
+dated by the appearance of Roberts' edition. Roberts, however, clearly <lb/> 
+admires her achievement. <lb/> 
+ 
+Pisan, Christine de. <hi rend="italic">The Treasure of the City of Ladies, or the Book of<lb/>  
+the Three Virtues</hi>. Trans. Sarah Lawson. Harmondsworth, Middlesex: <lb/> 
+Penguin, 1985. Cited in the Introduction, above. <lb/> 
+ 
+Pigeon, Renee. "Manuscript Notations in an Unrecorded Copy of Lady Mary<lb/>  
+Wroth's <hi rend="italic">The Countess of Mountgomeries Urania</hi>." <hi rend="italic">Notes and Queries</hi><lb/>  
+March, 1991: v38(1 (236)), 81-82. A study of a copy of the <hi rend="italic">Urania</hi> in <lb/> 
+the libraries of the University of California at Los Angeles. <lb/> 
+ 
+Quilligan, Maureen. "The Constant Subject: Instability and Female Authority<lb/>  
+in Wroth's Urania Poems." <hi rend="italic">Soliciting Interpretation: Literary Theory <lb/> 
+and Seventeenth-Century English Poetry</hi>. Harvey, Elizabeth D., and <lb/>  
+Katherine Eisaman Maus, ed. Chicago, IL: UCP, 1990. Wroth's use of the <lb/> 
+Courtier/courtly love tradition and its reciprocal relationship of <lb/> 
+fealty as the framework for her working out of a new femininity. <lb/> 
+ 
+&mdash;. "Lady Mary Wroth: Female Authority and the Family <lb/> 
+Romance." <hi rend="italic">Unfolded Tales: Essays on Renaissance Romance</hi>. Logan,<lb/>  
+George M., and  Gordon Teskey, eds. Foreword by Northrup Frye. Ithaca, <lb/> 
+NY: CUP, 1989. Consideration of gender roles in the extended family and <lb/> 
+their influence on feminine discourse.<lb/> 
+ 
+&mdash;. "Feminine Endings: The Sexual Politics of Sidney's and <lb/> 
+Spenser's Rhyming." <hi rend="italic">The Renaissance Englishwoman in Print: <lb/> 
+Counterbalancing the Canon</hi>. Haselkorn, Anne M., and Betty S. <lb/> 
+Travitsky, eds. Amherst, MA: UMP, 1990. Implications of the feminine <lb/> 
+ending and feminine rhyme in <hi rend="italic">Astrophil and Stella</hi>, <hi rend="italic">The Faerie <lb/> 
+Queene</hi>, and the <hi rend="italic">Urania</hi>. <lb/> 
+ 
+Roberts, Josephine A. "The Biographical Problem of Pamphilia to<lb/>  
+Amphilanthus." <hi rend="italic">Tulsa Studies in Women's Literature</hi> Spring 1982:<lb/>  
+v1(1), 43-53. Consideration of the extent to which the poems may <lb/> 
+reflect on Wroth's relationship with her cousin. <lb/> 
+ 
+&mdash;. "The Huntington Manuscript of Lady Mary Wroth's Play,<lb/>  
+Loves Victorie." <hi rend="italic">Huntington Library Quarterly</hi> Spring 1983: v46(2),<lb/>  
+156-74. An introduction to the manuscript pastoral drama. <lb/> 
+ 
+&mdash;. "Labyrinths of Desire: Lady Mary Wroth's <lb/> 
+Reconstruction of Romance." <hi rend="italic">Women's Studies: An Interdisciplinary <lb/> 
+Journal</hi> 1991: v19(2), 183-92. Personae and allegory. <lb/> 
+ 
+&mdash;. "Lady Mary Wroth's Sonnets: A Labyrinth of the Mind." <lb/> 
+<hi rend="italic">Journal of Women's Studies in Literature</hi> 1979: v.1, 319-29.<lb/> 
+ 
+&mdash;. Radigund Revisited: Perspectives on Women Rulers in <lb/> 
+Lady Mary Wroth's Urania." <hi rend="italic">The Renaissance Englishwoman in Print:<lb/>  
+Counterbalancing the Canon</hi>. Haselkorn, Anne M., and Betty S. <lb/> 
+Travitsky, eds. Amherst, MA: UMP, 1990. Consideration of precedents for<lb/>  
+Pamphilia in the <hi rend="italic">Urania</hi>.<lb/> 
+ 
+&mdash;. "An Unpublished Literary Quarrel Concerning the<lb/>  
+Suppression of Mary Wroth's <hi rend="italic">Urania</hi> (1621)." <hi rend="italic">Notes and Queries</hi> 1977:<lb/>  
+v222, 523-35.<lb/> 
+ 
+Salzman, Paul. "Contemporary References in Mary Wroth's <hi rend="italic">Urania</hi>." <hi rend="italic">Review <lb/> 
+of English Studies</hi> 1978: v29, 328-46.<lb/> 
+ 
+Shaver, Anne. "A New Woman of Romance." <hi rend="italic">Modern Language Studies</hi> Fall,<lb/>  
+1991: v21(4), 63-77. Wroth and the articulation of new gender roles. <lb/> 
+ 
+Swift, Carolyn Ruth. "Feminine Identity in Lady Mary Wroth's Romance <lb/> 
+<hi rend="italic">Urania</hi>." <hi rend="italic">English Literary Renaissance</hi> Autumn 1984: v14(3), 328-46<lb/>  
+Discussion of gender roles in the<hi rend="italic">Urania</hi>, with emphasis on <lb/> 
+construction of a self by Pamphilia.<lb/> 
+ 
+&mdash;. "Feminine Self-Definition in Lady Mary Wroth's <hi rend="italic">Love's<lb/>  
+Victorie</hi>." <hi rend="italic">English Literary Renaissance</hi> Spring 1989 v19(2), 171-<lb/> 
+88. Identity, self-awareness, and authority in Lady Mary's drama. <lb/> 
+ 
+Waller, Gary F. "Struggling into Discourse: The Emergence of Renaissance<lb/>  
+Women's Writing." <hi rend="italic">Silent but for the Word: Tudor Women as Patrons, <lb/> 
+Translators, and Writers of Religious Works</hi>. Hannay, Margaret <lb/> 
+Patterson, ed. Kent, OH: KSUP, 1985. Lady Mary Wroth, the Countess of <lb/> 
+Pembroke, and literary activity.<lb/> 
+</p> 
+ 
+</div1> 
+</back> 
+</text> 
+</TEI.2> 

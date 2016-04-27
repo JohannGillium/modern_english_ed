@@ -1,0 +1,1782 @@
+<?xml version="1.0"?>
+
+<?dlps id="DouDisc"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOnum SYSTEM "http://text.lib.virginia.edu/charent/iso-num.ent"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+<TEI.2 id="DouDisc">
+<teiHeader type="migrated" creator="Etext">
+<fileDesc>
+<titleStmt>
+<title type="main">A Discourse Concerning the Currencies of the British Plantations in America / by William Douglass</title>
+<title type="sort">discourse concerning the currencies of the british plantations in america by william douglass</title>
+<author>Brock: Douglass, William</author>
+<editor>Bullock, Charles J.</editor>
+<respStmt>
+<resp>Creation of machine-readable version:</resp>
+<name>Ronald Michener, University of Virginia</name>
+<resp>Conversion to TEI.2-conformant markup:</resp>
+<name>University of Virginia Library Electronic Text Center.</name>
+</respStmt>
+</titleStmt>
+<extent>ca. <num type="kilobytes">106</num> kilobytes</extent>
+<publicationStmt>
+<publisher>University of Virginia Library</publisher>
+<pubPlace>Charlottesville, Virginia</pubPlace>
+<idno type="ETC">DouDisc</idno>
+<date value="2000">2000</date>
+<availability status="public">
+<p n="copyright">Copyright &copy; 2000 by the Rector and Visitors of the University of Virginia</p>
+<p n="access">Publicly accessible</p>
+</availability>
+<idno type="uva-pid">uva-lib:475880</idno>
+</publicationStmt>
+<seriesStmt>
+<title>University of Virginia Library, Text collection</title>
+<idno type="uva-set">UVA-LIB-Text</idno>
+</seriesStmt>
+<seriesStmt>
+<p>This text is part of the collection for the Leslie Brock Center for the Study of Colonial Currency.</p>
+</seriesStmt>
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title type="main">A Discourse Concerning the Currencies of the British Plantations in America.  Especially with Regard to their Paper Money
+More Particularly, In Relation to the Province of the Massachusetts-Bay, in New England.</title>
+<title level="j">Economic Studies</title>
+<title type="sort">discourse concerning the currencies of the british plantations in america especially with regard to their paper money more particularly, in relation to the province of the massachusetts bay in new england</title>
+<author>William Douglass</author>
+<editor>Charles J. Bullock</editor>
+</titleStmt>
+<extent>65 pages</extent>
+<publicationStmt>
+<publisher>American Economic Association</publisher>
+<pubPlace>New York</pubPlace>
+<date value="1897-10">October, 1897</date>
+<idno type="callNo">Source copy consulted: Ivy Stacks, University of Virginia HB 1 .E42 v. 2 1897</idno>
+</publicationStmt>
+<notesStmt>
+<note>
+<p>The source copy of this text contains an introduction and footnotes written by Charles J. Bullock which have not been
+included in this electronic version.</p>
+</note>
+</notesStmt>
+</biblFull>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+</projectDesc>
+<editorialDecl>
+<p>All unambiguous end-of-line hyphens have been removed, and the trailing part of a word has been joined to the preceding line.</p>
+<p id="ETC">Some keywords in the header are a local Electronic Text Center scheme to aid in establishing analytical groupings.</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date value="1740">1740</date>
+</creation>
+<langUsage>
+<language id="eng" usage="main">English</language>
+</langUsage>
+<textClass>
+<keywords>
+<term>nonfiction</term>
+<term>prose</term>
+<term>masculine</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change>
+<date value="2000-05">May, 2000</date>
+<respStmt>
+<resp>corrector</resp>
+<name>Cynthia Filer, The Electronic Text Center</name>
+</respStmt>
+<item>Added TEI header and tags.</item>
+</change>
+<change>
+<date value="2005-06">June 2005</date>
+<respStmt>
+<resp>corrector</resp>
+<name>John Ivor Carlson</name>
+</respStmt>
+<item>Converted sgml to xml.</item>
+</change>
+<change>
+<date value="2007-09">September 2007</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Ethan Gruber, University of Virginia Library</name>
+</respStmt>
+<item>Converted XML markup from TEI Lite to uva-dl-tei (TEI P4 with local customizations).</item>
+</change>
+<change>
+<date value="2008-01">January 2008</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Greg Murray, University of Virginia Library</name>
+</respStmt>
+<item>Programmatically updated TEI header markup (but not header content) for minimal compliance with current QA requirements.</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text id="d1">
+
+<front id="d2">
+<div1 type="introduction" id="d3">
+<p>This pamphlet is probably the single most famous pamphlet on colonial
+monetary history.  The American Economic Association reprinted it in
+October 1897 as Vol. II. No. 5 of a series entitled &ldquo;Economic
+Studies.&rdquo; The reprint includes a detailed biography of Douglass,
+written by Charles Bullock.  When Andrew McFarland Davis republished the
+pamphlet in &ldquo;Colonial Currency Reprints&rdquo; he included his own
+commentary.  There had been some doubt about when and where the pamphlet
+was originally published; Bullock accepts the view that it was first
+published in London.  Davis presents convincing evidence that the Boston
+edition of the pamphlet is the original, and that it was published in
+the spring of 1740.
+
+</p><p>Douglass was argumentative, opinionated, and an uncompromising
+hard money advocate.  His belligerent prose, conservative views, and
+debtor-creditor interpretation of colonial monetary history all run
+counter to the tastes of modern historians; consequently, many view him
+with disdain.  Economists have been more apt to admire his analytical
+ability.  For example, Douglass was perhaps the first person to explain
+the so-called &ldquo;Fisher effect.&rdquo; The
+&ldquo;Fisher
+effect&rdquo; &mdash; named for Irving Fisher, a 20th century economist who made it
+famous &mdash; is the tendency of expected inflation to increase interest
+rates.  In Douglass's Postscript, you will find a remarkable analysis of
+the balance of payments, accurately anticipating what is now known as
+the &ldquo;monetary approach to the balance of
+payments.&rdquo;
+
+</p><p>The hyperlinks in the text take you to errata that Douglass
+provided when he wrote the Postscript to the Discourse.</p>
+
+</div1>
+
+<titlePage id="d4">
+	<pb/>
+<docTitle>
+<titlePart type="main">
+A DISCOURSE <lb/>
+CONCERNING THE CURRENCIES <lb/>
+OF THE <lb/>
+BRITISH PLANTATIONS <lb/>
+IN <lb/>
+AMERICA.<lb/>
+</titlePart>
+
+<titlePart type="sub">
+<hi rend="italic">Especially with Regard to their</hi> Paper Money<lb/>
+More Particularly,<lb/>
+In Relation to the Province of the<lb/>
+MASSACHUSETTS-BAY,<lb/>
+IN <lb/>
+NEW ENGLAND. <lb/>
+</titlePart>
+</docTitle>
+
+<byline>BY <docAuthor>WILLIAM DOUGLASS. M.D.</docAuthor></byline><lb/>
+
+<docImprint>
+<pubPlace>Boston</pubPlace>: Printed and sold by <name>S. Kneeland &amp; T.
+Green</name>,<lb/>
+over against the Prison in Queenstreet.  <date value="1740">1740.</date>
+</docImprint>
+</titlePage>
+</front>
+
+<body id="d5">
+
+<div1 type="decree" id="d6">
+<head>A DISCOURSE CONCERNING THE CURRENCIES OF THE BRITISH PLANTATIONS
+IN AMERICA, ETC.</head>
+
+<pb n="292"/>
+
+<pb n="293"/>
+<p><hi rend="italic">The many Schemes at present upon the Anvil in</hi> Boston,<hi rend="italic">
+for emitting enormous Quantities of Paper Currencies; are the Occasion
+of this Discourse.  The Writer does not vainly pretend to dictate to
+Government, or prescribe to Trade; but with a sincere Regard to the
+publick Good, has taken some Pains, to collect, digest, and set in a
+proper Light, several Facts and Political Experiences especially
+relating to Paper Currencies; which tho' plain in themselves, are not
+obvious to every Body.  If any Expressions should sound harsh, they are
+not to be understood as a Reflection upon this Province in general: It
+was always my Opinion, That the Province of the
+</hi>Massachusetts-Bay<hi rend="italic">, is by far the most vigorous and promising
+Plant (with proper Cultivation) of all the British Plantations; in the
+best of Countries at Times, bad Administrations, and private evil Men of
+Influence have prevailed.  The Author is not a transient Person, who
+from Humour or Caprice, or other Views may expose the Province; but is
+by Inclination induced, and by Interest obliged to study the Good of the
+Country.</hi>
+
+</p><p>All Commerce naturally is a <hi rend="italic">Truck Trade</hi>, exchanging
+Commodities which we can spare (or their Value) for Goods we are in want
+of.<hi rend="italic"> Silver it self is a Merchandize</hi>,
+
+<pb n="294"/>
+and being the least variable of all others, is by general Consent made
+the <hi rend="italic">Medium of Trade</hi>.  If a Country can be supposed to have no
+Dealings but within it self; the Legislature or tacit Consent of the
+People, may appoint or receive any Currency at Pleasure: But a trading
+Country must have regard to the universal commercial Medium, which is
+Silver; or cheat, and trade to a Disadvantage: It is true, that in some
+Countries of Europe <hi rend="italic">Billon</hi> (a base mixture of Metals) is used
+for small Change, but not as a Medium of Trade.
+
+</p><p>Every Country or Society have their own peculiar Regulations,
+which may be called their <hi rend="italic">Municipal</hi>, or By-Laws in Trade: but
+the universal trading Part of the World, as one tacit Confederacy have
+fallen into some<hi rend="italic"> general Rules</hi>, which by Custom of Merchants
+are become as Fundamental: One of these is a <hi rend="italic">Silver Medium of
+Trade</hi>, that all Contracts (Specialties excepted) are understood to
+be payable in this Medium, being always of the same fixed Value, or
+easily adjusted by the
+
+<pb n="295"/>
+<hi rend="italic">Par</hi>, and accidental small Differences of Exchange from one
+Country to another.
+
+</p><p>There can therefore be no other proper <hi rend="italic">Medium</hi> of Trade,
+but Silver, or Bills of Exchange and Notes of Hand payable in Silver at
+certain <hi rend="italic">U'sos</hi> or Periods,
+which by a currant Discount are reducible to Silver ready Money, at any
+Time.  The Debitor Party (I am ashamed to mention it) being the
+prevailing Party in all our Depreciating-Paper-Money Colonies, do
+wickedly endeavour to delude the unthinking Multitude, by perswading
+them, that all Endeavours of the Governour, or Proposals and Schemes of
+private Societies, to introduce a Silver Medium, or a Credit upon a
+Silver Bottom, to prevent the honest and industrious Creditor from being
+defrauded; are Impositions upon the Liberty and Property of the People.
+
+</p><p>Depreciating the Value of <hi rend="italic">nummary Denominations</hi>, to
+defraud the Creditors of the Publick and of private
+
+<pb n="296"/>
+Persons; by Proclamations of Sovereigns, by Recoinages, and by a late
+Contrivance of a depreciating Paper-Credit-Currency; were never
+practised but in notoriously bad Administrations.
+
+</p><p>All over <hi rend="italic">Europe</hi> for many Ages preceeding the 14th
+Century, the <hi rend="italic">nummary</hi> Pound, and the <hi rend="italic">Ponderal</hi> or Pound
+Weight of Silver were the same: but in some following Ages in bad
+Administrations the Values of nummary Denominations were gradually
+reduced; as
+
+<pb n="297"/>
+in <hi rend="italic">England</hi> to 4 oz. Silver value (upon all Occasions I use the
+nearest round Numbers) one third of its original Value; in
+<hi rend="italic">Holland</hi> the Pound <hi rend="italic">Ulams</hi> (6 Guilders) to 2 oz. Silver
+being only one sixth of its original Value.  A general Stop has been put
+to those notorious publick Frauds ever since Trade began to flourish;
+the civil Governments becoming more polite, found it their Interest in
+Affairs of a <hi rend="italic">Medium</hi> of Trade, to be advised by the more knowing
+and experienced Traders: Thus, since the Reign of <hi rend="italic">Edward</hi> VI.
+<hi rend="italic">in England</hi>, the Shilling Denomination hath lost only 2 gr.
+Silver.  We have two or three Instances of late in <hi rend="italic">Europe</hi>, that
+have deviated from that <hi rend="italic">Maxim</hi> of a fixed Value of Silver in
+Trade; these were in arbitrary Governments, under most arbitrary
+Administrations.  1.<hi rend="italic">France by Recoinages</hi> from A. 1689, to the
+wise Administration of <hi rend="italic">Cardinal Fluery</hi>, was obliged to defraud
+the Subject, to maintain unjust Wars and Rapines upon its Neighbours,
+and lessen'd the Value of nummary Denominations from a <hi rend="italic">Mark</hi> of
+Silver at 27 <hi rend="italic">Livres</hi> to 80 <hi rend="italic">Livres.</hi> 2.  <hi rend="italic">The King of
+Spain</hi> A. 1688 lowered his Denominations 25 <hi rend="italic">per Cent</hi>. A
+heavy Piece of <hi rend="italic">Eight</hi> formerly 8 <hi rend="italic">Ryals</hi> Plate, passed
+for 10 <hi rend="italic">Ryals</hi> currant. 3.  <hi rend="italic">Sweden</hi> under the
+Administration of Baron <hi rend="italic">Gortz</hi>.
+
+</p><p>In all Sovereignties in <hi rend="italic">Europe</hi> where
+<hi rend="italic">Paper-Money</hi> was introduced, great Inconveniencies happened;
+upon canceling this Paper Medium all those Inconveniencies did vanish.
+1.  In <hi rend="italic">Sweden, Baron Gortz</hi>, by imposing
+
+
+<pb n="298"/>
+<hi rend="italic">Government Notes</hi> (and <hi rend="italic">Munt tokyns</hi>) reduced the People
+to extreme Misery (this was one of the principal Crimes alledged against
+him when he suffered capital Punishment) but these being called in, and
+the <hi rend="italic">Coin</hi> settled upon the same Foundation as it was before
+<hi rend="italic">Charles</hi> XIIth Accession, <hi rend="italic">Sweden</hi> flourished as
+formerly.  2.  The late <hi rend="italic">Regent of France</hi>, by the Advice of Mr.
+<hi rend="italic">Law</hi>, did form a Project <hi rend="italic">A.</hi> 1720, and by his arbitrary
+Power, endeavoured to put it on Execution; to defraud State Creditors
+and others, by banishing of Silver Currency, and by substituting a
+<hi rend="italic">Paper Credit</hi>: the Effect was, the greatest Confusion, and
+almost utter Subversion of their Trade and Business: The <hi rend="italic">Remedy</hi>
+was (Mr. <hi rend="italic">Law</hi> having sneak'd off, became a <hi rend="italic">Profugus</hi>,
+and at last died obscurely) after a few Months the Court of
+<hi rend="italic">France</hi> were obliged to ordain, that there should be no other
+legal Tender but Silver-Coin; and Commerce was flourished in
+<hi rend="italic">France</hi> more than ever.  At present, under the wise
+Administration of Cardinal <hi rend="italic">Fleury</hi> (who allows no Paper
+Currencies, nor Re-coinages, which had the same Effect in depreciating
+nummary Denominations in <hi rend="italic">France</hi>, that frequent and large
+Emissions of Paper-Money
+
+<pb n="299"/>
+have in our Colonies) their Trade, bids fair to outdo the Maritime
+Powers (as <hi rend="italic">Great Britain</hi> and <hi rend="italic">Holland</hi> are called) and
+has a much better Effect in advancing
+the Wealth and Glory of <hi rend="italic">France</hi>, than the Romantick butcherly
+Schemes of Conquest over their Neighbours, under the Administrations of
+<hi rend="italic">Richelieu</hi>, <hi rend="italic">Mazarine</hi> and others, in the Reigns of
+<hi rend="italic">Lewis</hi> XIII and XIV.  3. In <hi rend="italic">Great Britain</hi> A. 1716, were
+current four and a half Millions of Pounds Sterling in <hi rend="italic">Exchequer
+Notes</hi>, being the largest Quantity current at one Time: although
+they bore about half of legal Interest, and not equal to one third of
+the concomitant national Silver Currency; they laboured much in
+Circulation, and the Government to prevent their being depreciated, was
+obliged to give considerable <hi rend="italic">Premiums</hi> to the <hi rend="italic">Bank</hi> for
+cancelling some of them, and circulating the remainder.
+
+</p><p>It is not easily to be accounted for, how <hi rend="italic">England,
+France</hi> and <hi rend="italic">Holland</hi>, have tacitly allowed their several
+<hi rend="italic">American Colonies</hi>; by <hi rend="italic">Laws</hi> of their several Provinces,
+by <hi rend="italic">Chancerings</hi> in their Courts of Judicature, and by
+<hi rend="italic">Custom</hi>; to depreciate from Time to Time, the Value of their
+original Denominations, to defraud their Principals and Creditors in
+<hi rend="italic">Europe</hi>.  The <hi rend="italic">British Plantations</hi> have not only varied,
+from Sterling, but have also very much varied from one another; to the
+great Confusion of Business, and Damage of the Merchant.  This
+
+<pb n="300"/>
+will appear plain by inserting at one View the State of the Currencies
+in the several British Plantations; whereof some are per
+<hi rend="italic">Exchange</hi>, some in <hi rend="italic">Spanish Silver</hi> Coin, and some in
+<hi rend="italic">Paper Money</hi> called Colony or Province Bills of publick Credit.
+
+<pb n="301"/>
+</p><p>Originally and for some Years following in all the<hi rend="italic"> English
+American Colonies</hi>, 5<hi rend="italic">s</hi>. Denomination was equal to an
+English Crown Sterl. after some Time <hi rend="italic">Pieces of Eight</hi>, being the
+general Currency of all foreign American Colonies, became also their
+Currency; and they remitted or gave Credit to the Merchants at Home (by
+Home is meant <hi rend="italic">Great Britain</hi>) a Piece of Eight (value 4 s. 6d.
+Sterl.) For a Crown or 5 s. Sterl. <hi rend="italic">this was a Fraud of 11 per
+Cent</hi>.  In sundry of our Colonies were enacted Laws against passing
+of light Pieces of Eight; these Laws not being put in Execution,<hi rend="italic">
+heavy and light Pieces of Eight passed promiscuously</hi>; and as it
+always happens, a bad Currency drove away the good Currency; heavy
+Pieces of Eight were ship'd off.  This current Money growing daily
+lighter, a Difference was made between heavy Money which became
+Merchandize, and light Money in which they paid their Debts gradually
+from 10, 15, 20, to 25 per Cent. as at present in <hi rend="italic">Jamaica: this was
+another and continued Course of cheating their Creditors and Employers
+at Home</hi>.  From a Complaint of Merchants and others dealing to the
+Plantations; Q. <hi rend="italic">Anne</hi> by Proclamation, and the Parliament of
+Great Britain, afterwards by the <hi rend="italic">Proclamation Act</hi>, ordered,
+that after <hi rend="italic">A.</hi> 1709, <hi rend="italic">A heavy Piece of Eight and other Pieces
+in Proportion to
+
+
+<pb n="302"/>
+their Weight, in all our Colonies should pass not exceeding 6 s. Denomination</hi>.
+This Act continues to be observed in none of our
+Colonies, excepting in <hi rend="italic">Barbadoes</hi>, and <hi rend="italic">Bermudas</hi>.
+<hi rend="italic">Virginia</hi> Currency was formerly, and continues still better than
+what the Act directs.
+
+</p><p>In <hi rend="italic">NEWFOUNDLAND</hi>, all large Sums are transacted in<hi rend="italic">
+Sterling Bills of Exchange;</hi> small Dealings are in <hi rend="italic">English
+Coin</hi> Sterling Value, and in<hi rend="italic"> Pieces of Eight</hi> at 4
+<hi rend="italic">s</hi>. 6 <hi rend="italic">d</hi>. being the Sterling Value.
+
+</p><p>In <hi rend="italic">NOVA SCOTIA</hi>; The <hi rend="italic">Sterling Bills of Exchange</hi>
+on the pay of the Troops, Garrison, and Train, Supply there with what they may have occasion
+for from <hi rend="italic">New England</hi>: Small Dealings are in <hi rend="italic">New England
+publick Bills, and in French Coin</hi> from Cape <hi rend="italic">Breton</hi>; one
+<hi rend="italic">Livre</hi> equal to 4s. New England Currency: At <hi rend="italic">Canso</hi> Fish
+and Oil are purchased by <hi rend="italic">Bills of Exchange New England</hi>money upon <hi rend="italic">Boston</hi>.
+
+</p><p>In the four Colonies of <hi rend="italic">New England</hi>, viz.<hi rend="italic"> New
+Hampshire, Massachusetts Bay, Rhode Island</hi> and
+<hi rend="italic">Connecticut</hi>, their Currency being Paper, is promiscuously the
+same.
+
+</p><p><hi rend="italic">NEW HAMPSHIRE</hi> (too diminutive for a separate Province,
+of small Trade and Credit) their <hi rend="italic">Publick Bills are so much
+counterfeited</hi> they scarce obtain a Currency; hence it is (the
+Governour's Instruction is also a
+Bar)
+
+<pb n="303"/>
+that at present, their outstanding Bills of publick Credit, some on
+Funds of Taxes, some on Loan, do not exceed &#163;12,000, gradually to
+be cancelled by <hi rend="italic">December</hi> 1742.  Their ordinary charge of
+Government is about &#163;1500 <hi rend="italic">New England</hi> Currency per Annum.
+
+</p><p><hi rend="italic">MASSACHUSETTS-BAY:</hi> This being more especially the scene
+of our Discourse, we shall be more particular.  At the first settling of
+the<hi rend="italic"> New England</hi>
+
+<pb n="304"/>
+Colonies; their Medium was Sterling Coin at Sterling Value, and Barter;
+some Part of their Taxes was paid in Provisions and other Produce,
+called <hi rend="italic">Stock in the Treasury</hi>.  When they got into Trade a heavy
+piece of Eight passed at 5 <hi rend="italic">s. A.</hi> 1652, <hi rend="italic">They proceeded to
+coin Silver Shillings, six Pences, and three Pences, at the Rate of 6s.
+to a heavy Piece of Eight;</hi> Silver continued current at this Rate by
+sundry subsequent Acts of Assembly till A. 1705, by a Resolve of the
+General court Silver was to pass at 7<hi rend="italic">s. per Oz</hi>.  <hi rend="italic">A</hi>.
+1706 the Courts of Judicature chancered Silver to 8<hi rend="italic">s. per Oz</hi>.
+in satisfying of Debts, being nearly after the Rate of 6<hi rend="italic">s.</hi> a
+light Piece of Eight as then current.  At this Rate Silver and Province
+Bills continued upon <hi rend="italic">Par</hi> until <hi rend="italic">A</hi>. 1714, the Assembly
+or Legislature fell into the Error of making from Time to Time large
+superfluous Sums of <hi rend="italic">Paper Money upon Loans</hi>, and the Emissions
+for Charges of Government not cancellable for many Years, so that these
+<hi rend="italic">Publick Bills have been continually depreciating for these last 26
+Years, and are now arrived to 29 s. per Oz. Silver.</hi></p>
+
+<pb n="305"/>
+<p><hi rend="italic">Massachusetts-Bay was the Leader of Paper Currencies in our
+Colonies. </hi> Their first Emission was of &#163;40,000 <hi rend="italic">A.</hi>
+1690 &amp; 1691, to pay off the publick Debts incurr'd by that
+expensive, tho' unsuccessful,
+Expedition against <hi rend="italic">Canada</hi>; of this Sum &#163;10,000 was
+cancelled and burnt in <hi rend="italic">October A.</hi> 1691: In the following Years
+no more new Emissions, but some Re-emissions of the remainder, and that
+only for the necessary Charges of Government, called in by Rates or
+Taxes within the year; the last Remission of these Bills was <hi rend="italic">A.</hi>
+1701, of &#163;9,000 Bills all this Period continued at the Rate of
+6<hi rend="italic">s.</hi> a heavy Piece of Eight, and were called <hi rend="italic">Old Charter
+Bills</hi>.  <hi rend="italic">A.</hi>1702 began new Emissions of Province Bills; but,
+as it ought to be in all wise Administrations, cancelled by Taxes of the
+same and next following Year, until <hi rend="italic">A.</hi> 1704, the Rates for
+calling them in, were in Part postponed two Years; they began
+<hi rend="italic">A.</hi> 1707 to postpone them in Part for three Years; <hi rend="italic">A.</hi>
+1709 for 4 Years; <hi rend="italic">A.</hi> 1710 for 5 Years; <hi rend="italic">A.</hi> 1711 for 6
+Years; <hi rend="italic">A.</hi> 1715 for 7 Years; <hi rend="italic">A</hi>. 1721 for 12 Years;
+<hi rend="italic">A</hi>. 1722 for 13 Years: <hi rend="italic">Thus unnaturally instead of providing
+for Posterity, they proceeded to involve them in Debt</hi>.  This long
+publick Credit and the enormous publick Loans, have depreciated our
+Province Bills to the small Value they bear at present; the Issues and
+cancellings of their Bills being for a long Series of years too tedious
+to be particularly and minutely inserted.
+
+</p><p>The Province of the <hi rend="italic">Massachusetts-Bay</hi> besides the
+
+<pb n="306"/>
+Emission &amp; Re-emissions of the &#163;40,000 old Charter Bills, have
+since <hi rend="italic">A.</hi> 1702 emitted and re-emitted Bills of publick Credit,
+&#163;1,132,500 upon Fund of <hi rend="italic">Taxes</hi>, and &#163;310,000 upon
+<hi rend="italic">Loans</hi>, being in all near one and a half Million; whereof about
+&#163;230,000 still outstanding, and if publick Faith be better kept
+will be gradually cancelled by <hi rend="italic">A.</hi>1742.  The ordinary Charges of
+Government may be about &#163;40,000 <hi rend="italic">New England</hi> Currency per
+Ann.<hi rend="italic"> Exchange with Great Britain 450 per Cent. Advance</hi>, or five
+and an half <hi rend="italic">New England</hi> for one Sterl.
+
+</p><p><hi rend="italic">RHODE-ISLAND</hi>, their first Emissions were <hi rend="italic">A</hi>.
+
+<pb n="307"/>
+1710, towards paying more readily their Quota of Charges on the
+Expedition against <hi rend="italic">Port Royal </hi>(now <hi rend="italic">Annapolis Royal</hi>) in
+<hi rend="italic">Nova Scotia</hi>, and have emitted from Time to Time, in all
+&#163;399,300 whereof only &#163;19,300 upon Funds of <hi rend="italic">Taxes</hi> for
+Government Charges, and &#163;360,000 upon <hi rend="italic">Loans</hi>, whereof there
+is at present outstanding (all upon Loans) &#163;330,000 circiter;
+which, if their publick Faith should chance to be kept in Time coming,
+will not be finished cancelling until <hi rend="italic">A</hi>. 1759.  The Interest of
+those publick Loans defreys the Charges of Government, and of their Towns.
+
+</p><p>I shall embrace this Opportunity of exemplifying the Iniquity of
+Colony publick Bills of Credit by the Instance of <hi rend="italic">Rhode-Island</hi>,
+a small Colony containing about 18,000 Souls, under an old Charter very
+lax and general; they admit of no Instructions from the <hi rend="italic">King</hi>,
+Council, or Board of Trade and Plantations; the <hi rend="italic">King</hi> having no
+Representative or <hi rend="italic">Commissioned Governour</hi> in their Legislature.
+This handful of People have lately made a <hi rend="italic">very profitable Branch of
+Trade and Commerce by negociating their own Paper Money in various
+Shapes;</hi> their Money being Loans of Paper Credit called Bills, from
+their Government to private Persons upon Lands Security; to be repaid
+not in the same real Value, but in the same depreciating fallacious
+Denominations.
+
+</p><p>1.  Their first Loan was <hi rend="italic">A.</hi> 1715 for 10 Years, but have
+by subsequent Acts postponed and prolonged the Payments, so that the
+last Payment was <hi rend="italic">A.</hi> 1738, thus <hi rend="italic">A.</hi> 1715 Exchange was at
+65 <hi rend="italic">per Cent</hi>. with <hi rend="italic">England</hi>, <hi rend="italic">A</hi>. 1738 Exchange
+was at 400 <hi rend="italic">per Cent</hi>. Advance; that
+
+<pb n="308"/>
+is for &#163;100 Sterl. Value received, they pay only after the Rate of
+&#163;33 Sterl.  Suppose further, that the same Person upon the same
+Land Security, borrows again of the new Emission <hi rend="italic">A</hi>. 1738, this
+&#163;33 Sterl. Value; and, as formerly by repeated large Emissions,
+Exchange becomes as at present in <hi rend="italic">North-Carolina</hi>10 for 1 Sterl.
+by <hi rend="italic">A.</hi> 1758 the period of this Loan,<hi rend="italic"> the original &#163;100
+Sterl. Value will be redeemed with &#163;16 Sterl. Value</hi>.  And if
+this Paper Money Loan Trade, could be supposed to continue, the Land
+Security would gradually vanish, <hi rend="italic">the Land redeem'd and the Debt paid
+with nothing. </hi>
+
+</p><p>2.  They who take up this Loan Money are called <hi rend="italic">Sharers</hi>;
+and for the first ten Years pay into the Treasury 5 <hi rend="italic">per Cent</hi>.
+per Annum Interest; and for the other ten Years pay 10 <hi rend="italic">per
+Cent</hi>. per Annum of the Principal, without Interest.  The
+<hi rend="italic">Sharers</hi> let out this Money, in their own &amp; neighbouring
+Colonies at 10 <hi rend="italic">per Cent</hi>. for the said twenty Years (some let it
+at a higher Interest) is at the Expiration of the twenty years &#163;300
+for every &#163;100 Loan, Principal and simple Interest; for which only
+&#163;150 is paid into the Colony Treasury, &amp; &#163;150 is clear
+Gain: <hi rend="italic">So that in this Shape for every &#163;100,000 Emission, their
+People in the space of twenty Years, have after the Rate of
+&#163;150,000 clear Profits. </hi>
+
+</p><p>3.  In another Shape; upon a new Emission, Interest is made with
+the <hi rend="italic">Managers</hi>, to obtain Shares in the Loan: the Sharers
+immediately sell (or may sell) their <hi rend="italic">Privilege</hi>, as it is
+called, for <hi rend="italic">ready Money Praemium</hi>; at the Emission <hi rend="italic">A</hi>.
+1738 the Praemium was 35 <hi rend="italic">per Cent</hi>:
+
+<pb n="309"/>
+that is, <hi rend="italic">the Emission of &#163;100,000 does immediately produce
+after the Rate of &#163;35,000 ready Money profit</hi>.
+
+</p><p>4.  <hi rend="italic">Rhode-Island</hi> purchases from their neighbouring large
+Province of the <hi rend="italic">Massachusetts-Bay</hi>, all Sorts of British and
+Foreign Goods with this Paper Manufacture which costs nothing, which
+enables them to rival us in Trade, particularly in that valuable Branch
+of it to the West India Islands, and to which by some unaccountable
+Infatuation we give a Currency; while at the same Time our Merchants
+cannot make Returns by any Colony Paper Money, for these Goods; it is
+true, sometimes they bring us Molasses from the Sugar Islands.  We have
+a late good Law against the Currency of such Bills, but not being put in
+Execution, is of no Effect.  <hi rend="italic">The only Reason that can be assigned
+for giving the Rhode-Island Bills a Currency</hi>, is, that they are
+received in all Payments by Consent: The same Reason may hold good for
+passing of any Bills, even the &#163;500,000 lately proposed without
+Fund or Period; and of counterfeit Bills, as in Fact some Bills of
+<hi rend="italic">Connecticut</hi> of small Denominations, tho' known to be
+Counterfeit, have a currency.
+
+</p><p><hi rend="italic">CONNECTICUTT</hi>, a Charter Colony of industrious
+Husbandmen, having, with much Prudence emitted only small Quantities of
+Bills; Silver would have continued with them at 8 s. Per Oz. as it did
+in <hi rend="italic">New York</hi> their neighbouring Government westward, if their
+People had not given a Currency to the publick Bills of their Brethren,
+in the neighbouring Colonies of <hi rend="italic">New England. Connecticut</hi>
+emitted Bills only for the present necessary
+
+<pb n="310"/>
+Charges of Government upon Funds of <hi rend="italic">Taxes</hi>, until <hi rend="italic">A.</hi>
+1733, having granted a <hi rend="italic">Charter</hi> for Trade and Commerce to a
+Society in <hi rend="italic">New-London</hi>, this Society manufactured some Bills of
+their own, but their Currency being soon at a Stand; the Government were
+obliged in Justice to the Possessors, to emit &#163;50,000 upon <hi rend="italic">Loan
+</hi>to enable those concerned in the Society to pay off their Society
+Bills in Colony Bills; their Charter was vacated, and a wholsome Law
+enacted, <hi rend="italic">That for any single Person, or Society of Persons to emit
+and pass Bills for Commerce or in imitation of Colony Bills, Penalty
+should be as in Case of Forgery, or of counterfeiting Colony Bills.</hi>
+Their first Emission of Colony Bills was in <hi rend="italic">A</hi>. 1709, and may
+have emitted in all &#163;155,000 whereof only the above &#163;50,000
+upon Loan. There are at present outstanding about &#163;60,000 which
+will be gradually cancelled by <hi rend="italic">A</hi>. 1742, if the present good
+Assistants (Council) continue to be annually elected.  They have at
+Times been guilty of emitting small Sums for the present Supply of
+Government (by oversight and not with any sinister Design) without
+annexing a Fund or Period; but have soon after been cancelled by Taxes.
+Their ordinary charge of Government does not exceed &#163;3,000 <hi rend="italic">New
+England</hi> Currency per Annum.</p>
+
+<pb n="311"/>
+<p><hi rend="italic">N.B.</hi> This promiscuous Currency in the four Governments
+of<hi rend="italic"> New England</hi>, that is, one Colony giving a Currency to the
+enormous Paper Credit Emissions of one of the other Colonies, has the
+same Effect as if that Colony did emit Bills of its own: thus <hi rend="italic">the
+King's Instructions to the commissioned Governments are evaded</hi>, by
+the popular Charter Governments, rendring them of no Effect, having as
+it were no Dependance on the Crown.<hi rend="italic"> A Parliamentary Regulation is
+the only adequate Remedy.</hi>
+
+</p><p><hi rend="italic">NEW-YORK</hi> chancered Proclamation Money to 8 s. per Oz. of
+Silver, at the same Time and for the same Reasons, as has been said of
+<hi rend="italic">Massachusetts-Bay</hi> Government: <hi rend="italic">A</hi>. 1709 towards the
+charge of an intended Expedition against <hi rend="italic">Canada</hi> (upon this same
+Occasion, began the first Paper Money Emissions of <hi rend="italic">New Jerseys</hi>
+&amp; <hi rend="italic">Connecticut</hi>) they issued &#163;13,000 publick Bills of
+Credit bearing Interest: <hi rend="italic">A.</hi> 1710 the Interest was taken off
+upon pretence, that it occasion'd them to be hoarded up as Bonds, and
+did frustrate their Currency; and &#163;10,000 more Bills without
+Interest were issued.  All these Bills being small Sums and faithfully
+paid off &amp; sunk in Taxes, <hi rend="italic">did not affect Exchange with England.</hi>
+
+</p><p><hi rend="italic">A</hi>. 1714.  By <hi rend="italic">collusion</hi> of the Governour,
+Council and Representatives, a large Sum of &#163;27,680 in Bills, was
+
+<pb n="312"/>
+issued, to pay off Government Debts, whereoff some Part consisted of
+<hi rend="italic">their own ill founded Claims</hi>; gradually to be cancelled by
+<hi rend="italic">Excise</hi> on Liquors to <hi rend="italic">A.</hi> 1734: these were issued with
+the <hi rend="italic">Royal</hi> Assent. . . <hi rend="italic">A</hi>. 1717 for paying of Government
+Charges &amp; Debts were issued &#163;16,607 without waiting for the
+<hi rend="italic">Royal</hi> Approbation, gradually to be cancelled by a <hi rend="italic">Duty
+</hi>upon Wines and Rum for 17 Years and <hi rend="italic">Excise</hi> continued from
+<hi rend="italic">A</hi>. 1734 to <hi rend="italic">A</hi>. 1739: this Emission was connived at by
+the <hi rend="italic">Boards</hi> of Council, Trade and Plantations at Home; lest many
+Persons who had <hi rend="italic">bona fide</hi> received them for valuable
+Considerations, might suffer by their being suppressed.  Which
+Indulgence this Government have abused, by never waiting for the Royal
+Assent in their future Emissions.
+
+</p><p>In the intermediate Years were some small Emissions for Charges
+of Government, and regularly cancelled. . . <hi rend="italic">A</hi>. 1734 issued
+&#163;12,000 in Bills for <hi rend="italic">Fortifications</hi> to be gradually sunk
+before <hi rend="italic">A</hi>. 1746 by <hi rend="italic">Imposts</hi> . . . <hi rend="italic">A</hi>. 1738
+issued &#163;48,300 Bills, whereof &#163;40,000 upon Loan; all to be
+sunk and paid in by <hi rend="italic">A.</hi> 1750: this rais'd Exchange to 70 <hi rend="italic">per
+Cent</hi>. and Silver to 9 s. 3 d. per Oz.  <hi rend="italic">The Lieut. Governour to
+obtain of the People a Governour's Allowance consented to humour them in
+this Emission.</hi>
+
+</p><p><hi rend="italic">A</hi>. 1739, the Funds being otherways applied, it was found
+that <hi rend="italic">contrary to publick Faith</hi>, &#163;15,000 of the Emissions
+<hi rend="italic">A</hi>. 1714 &amp; 1717 were still current, and fifteen Years more
+upon <hi rend="italic">Excise</hi> were enacted to cancel them.  So that now there is
+about &#163;70,000 in Bills of <hi rend="italic">New-York</hi> current.</p>
+
+<pb n="313"/>
+<p><hi rend="italic">NEW JERSIES</hi>,<hi rend="italic"> A.</hi> 1709, issued &#163;3,000 publick
+Bills of Credit upon the intended Expedition against <hi rend="italic">Canada</hi>;
+and <hi rend="italic">A.</hi> 1711 upon another intended <hi rend="italic">Canada</hi> Expedition
+&#163;5,000 more Bills were emitted, to be cancelled gradually before
+<hi rend="italic">A</hi>. 1713; but were by Acts of Assembly <hi rend="italic">postponed</hi>, &amp;
+many bills of both Emissions were currant <hi rend="italic">A</hi>. 1723.
+
+</p><p><hi rend="italic">A</hi>. 1724 emitted &#163;40,000 in Bills whereof some small
+Part was to cancel the old outstanding Bills, and the rest upon Loan, to
+be paid in gradually in twelve Years.  This being <hi rend="italic">too large an
+Emission</hi> for a small Colony, their Bills became of less Value than
+those of <hi rend="italic">New-York</hi>; but being yearly <hi rend="italic">in good Faith</hi>,
+sunk, they became equal, and after some years 2 s. in the Pound better
+than <hi rend="italic">New-York</hi> Bills.  This is a Demonstration, that the Quantity of
+
+<pb n="314"/>
+Paper Money increasing or faithfully decreasing, sinks or raises the
+Value of it. . . <hi rend="italic">A</hi>. 1733, was issued &#163;20,000 more upon
+Loan to be gradually paid in sixteen Years: this Emission <hi rend="italic">fell</hi>
+their Bills to near Par with <hi rend="italic">New-York</hi>. . . <hi rend="italic">A</hi>. 1734,
+the first Loan of <hi rend="italic">A</hi>. 1724, being near sunk, the Assembly
+enacted a &#163;40,000 Loan, but was not issued till <hi rend="italic">A</hi>. 1736,
+having then obtain'd the <hi rend="italic">Royal</hi> Approbation, and <hi rend="italic">passed
+scarce at Par with New-York</hi>; but upon the <hi rend="italic">New-York</hi>
+Emission of &#163;48,300 <hi rend="italic">A</hi>. 1738, the <hi rend="italic">Jersey</hi> Bills
+were 6 d. in the Pound better than <hi rend="italic">New-York</hi> Bills, and 1 s. in
+the Pound better than those of <hi rend="italic">Pensylvania</hi>.
+
+</p><p>The <hi rend="italic">Jersey</hi> Bills keep their Credit better than those of
+<hi rend="italic">Pensylvania</hi> and <hi rend="italic">New-York</hi> for these two Reasons, 1.
+<hi rend="italic">New-York</hi> bills not being current in <hi rend="italic">Pensylvania</hi>, and
+<hi rend="italic">Pensylvania</hi> Bills not being current in <hi rend="italic">New-York</hi>; but
+<hi rend="italic">Jersey</hi> Bills current in both, all Payments between
+<hi rend="italic">New-York</hi> and <hi rend="italic">Pensylvania</hi> are made in <hi rend="italic">Jersey</hi>
+Bills.  2. In the <hi rend="italic">Jerseys</hi> failure of the Loan Payments, at the
+Day appointed; is equivalent to
+Judgment, and thereafter only 30 Days Redemption of Mortgages is allowed.
+
+</p><p>The 5 <hi rend="italic">per Cent</hi>. Interest of publick Loans defrays all
+<hi rend="italic">Charges of Government</hi>.  In the <hi rend="italic">Jerseys</hi> at present
+about &#163;60,000 in publick Bills current all upon Loan.
+
+</p><p>In the two Governments of <hi rend="italic">PENSYLVANIA</hi> their
+
+<pb n="315"/>
+Currency continued Silver Proclamation Value, until <hi rend="italic">A.</hi> 1723:
+The three Upper counties (strictly called <hi rend="italic">Pensylvania</hi>) emitted
+upon Loan &#163;15,000 in Bills, and <hi rend="italic">A</hi>. 1724 emitted
+&#163;30,000 more; but <hi rend="italic">A.</hi> 1726 finding that in strictness of
+the two preceeding Acts &#163;6100 part of the Capital of &#163;45,000
+was sunk, the Encouragers of Paper Money procured an Act for re-emitting
+what should be annually paid in of the remainder by the Borrowers; and
+<hi rend="italic">A</hi>. 1729 emitted &#163;30,000 which have generally been
+continued out by <hi rend="italic">re-emitting Acts</hi> from Time to Time.
+<hi rend="italic">A</hi>. 1739 they made an Addition of about &#163;11,100 upon Loan
+on the same Terms; so that at present they have &#163;80,000 all upon
+Loan.  Exchange with <hi rend="italic">London 75 per Cent</hi>. before Emissions of
+Paper Money it was only 33 <hi rend="italic">per Cent</hi>.
+
+</p><p>The three Lower Counties have also Paper Currency in small
+Quantities, and upon the same footing.
+
+</p><p>In MARYLAND Silver continued at Proclamation Value until
+<hi rend="italic">A</hi>. 1734, with a considerable Concomitant <hi rend="italic">Truck Trade</hi>
+as a <hi rend="italic">Medium</hi>, viz. <hi rend="italic">Tobacco</hi>; they then emitted
+&#163;90,000 in Bills, which tho' payable to the Possessors in Sterling
+well secured, the Sum being too large, and the Periods too long, viz.
+three partial Payments of 15 Years Periods each; <hi rend="italic">Exchange
+immediately rose from </hi>33 <hi rend="italic">to</hi> 100 <hi rend="italic">per Cent</hi>. </p>
+
+<pb n="316"/>
+<p><hi rend="italic">VIRGINIA</hi> has the same considerable <hi rend="italic">Truck Trade
+Medium</hi>, viz. <hi rend="italic">Tobacco</hi>; and with regard to Silver Currency
+have kept their Integrity better than the other Colonies.  It is true,
+<hi rend="italic">Lord Culpeper</hi> their Governour, about <hi rend="italic">A</hi>. 1680, by an
+arbitrary Proceeding in the Quality of the King's Representative, did,
+by virtue of his own Proclamation, alter the Value of their Silver Coin
+for his own Profit, to defraud an English Regiment then paid off and
+disbanded, (this Regiment was sent from <hi rend="italic">England</hi> to quell an
+Insurrection or mutiny in <hi rend="italic">Virginia</hi> under <hi rend="italic">Bacon</hi>) but
+soon finding, that it occasioned much Confusion in Business, and did
+particularly affect his own Perquisites; he reduced it again to the
+former Standard.  Silver a few Years ago was 6 s. A Crown British, or 6
+s. 3 d. per Oz. Silver, at present it is 6 s. 8 d. per Oz. of Silver,
+and &#163;5 per Oz. Gold; <hi rend="italic">is</hi> 25 <hi rend="italic">per Cent. worse than
+Sterling</hi>.
+
+</p><p><hi rend="italic">NORTH CAROLINA</hi>, an inconsiderable Colony scarce capable
+of any Fund for Paper Emissions; have notwithstanding &#163;40,000 upon
+<hi rend="italic">Loan</hi>, and &#163;12,500 upon Funds of <hi rend="italic">Taxes</hi>.  At
+present Exchange is settled
+
+<pb n="317"/>
+by their Legislature at 10 <hi rend="italic">North
+Carolina for 1 Sterling</hi>.
+
+</p><p>In <hi rend="italic">SOUTH CAROLINA</hi> their first Emission of publick Paper
+Credit was <hi rend="italic">A.</hi> 1702, towards the Charges of an Expedition
+against <hi rend="italic">St. Augustine</hi>.  Their Legislature have been most
+<hi rend="italic">notoriously guilty of breach of publick Faith</hi> in not cancelling
+their Bills.  Besides the Emissions for ordinary Charges of Government,
+and their Expeditions against the <hi rend="italic">North Carolina Indians A</hi>.
+1711, and against the <hi rend="italic">Southern Indians A</hi>. 1715, they have large
+Sums upon <hi rend="italic">Loans</hi>.  They may have at present outstanding about
+&#163;250,000 in Province Bills (whereof above &#163;100,000 without
+Fund or Period) besides private Notes of substantial Merchants
+negociated, payable upon Demand in Province Bills; they have also a
+valuable <hi rend="italic">Truck</hi>, viz. <hi rend="italic">Rice</hi>.  Their present Exchange
+with <hi rend="italic">London</hi> as settled by their Legislature to
+
+<pb n="318"/>
+ascertain the Value of Debts contracted, <hi rend="italic">is 8 South Carolina for 1
+Sterling</hi>.
+
+</p><p>In the new Colony of <hi rend="italic">GEORGIA</hi>, their Currency are the
+Trustees <hi rend="italic">sola Bills Sterling:</hi> The Funds are the Allowances by
+Parliament, and private Subscriptions to carry on the settlement.
+
+</p><p><hi rend="italic">PROVIDENCE</hi> including the rest of the <hi rend="italic">Bahama</hi>
+Islands is scarce reckoned a Colony.
+
+</p><p>In <hi rend="italic">BERMUDAS</hi> a Colony of Sea Carriers; their <hi rend="italic">Currency
+continues Proclamation</hi> Value.</p>
+
+<pb n="319"/>
+<p><hi rend="italic">BARBADOES:</hi> Their Currency is Proclamation Value, by weight
+6<hi rend="italic">s.</hi> 10<hi rend="italic">d. farthing</hi> per Oz. Silver.  By the Advice of
+Mr. <hi rend="italic">W.</hi> from <hi rend="italic">New England</hi>, they made the Experiment of a
+Paper Currency, and emitted &#163;16,000 upon the Negroe <hi rend="italic">Tax</hi>
+Fund, and soon after &#163;80,000 more upon <hi rend="italic">Loan</hi>; these Bills
+immediately fell 40 <hi rend="italic">per Cent</hi>. below Silver, and upon Complaint
+were directly suppressed by an Order from<hi rend="italic"> England; and some of the
+Possessors who gave them a Currency</hi> have Quantities of them to show
+as a Monument of this Folly, and of Paper Money becoming waste Paper.
+
+</p><p>Here as in all our Sugar Island, <hi rend="italic">Sugar</hi> according to its
+Quality at the Market Price, serves as a <hi rend="italic">Truck Medium</hi> to pay
+Debts.<hi rend="italic"> The Par of Exchange is 33 per Cent</hi>. but generally lower
+and in favour of <hi rend="italic">Barbadoes</hi>.
+
+</p><p>The <hi rend="italic">CARRIBEE LEEWARD ISLANDS</hi> of<hi rend="italic"> Antegoe, Newis, St.
+Christophers, Montserrat, &amp; the Virgins</hi>, have depreciated from
+Silver Proclamation Value to 8 <hi rend="italic">s</hi>. per Oz. in the same Manner as
+has been said of <hi rend="italic">Massachusetts-Bay</hi>; but never proceeded to that
+Fraud, Paper Money: light Pieces of eight are current by Tale.
+<hi rend="italic">Exchange 50 per Cent. Advance</hi>. </p>
+
+<pb n="320"/>
+<p>In <hi rend="italic">JAMAICA</hi> formerly a heavy Piece of Eight current at
+5<hi rend="italic">s.</hi> but light Money taking Place as a Currency; the heavy Money
+was ship'd off in course of Time at 10, 15, 20 &amp; 25 <hi rend="italic">per
+Cent</hi>. as at present, Difference.  At this time a light Piece of
+eight passes at 5<hi rend="italic">s.</hi> a heavy Piece of Eight at 6<hi rend="italic">s.</hi>
+3<hi rend="italic">d.</hi> and Silver at 7<hi rend="italic">s.</hi> 2<hi rend="italic">d.</hi> per Oz.<hi rend="italic"> The Par
+of Exchange with London is about 36 per Cent. difference</hi>, but
+generally higher and in favour of <hi rend="italic">London</hi>.
+
+</p><p><hi rend="italic">Thus we see, that particularly in our Paper Money Colonies,
+the Currencies have incredibly depreciated from Sterling, and from one
+another.  Exchange with Great Britain being at this Time</hi> (Febr.
+1739)<hi rend="italic"> in New England </hi>450 <hi rend="italic">per Cent. in New-York, Jerseys,
+&amp; Pennsylvania</hi> 70 <hi rend="italic">to </hi>75 <hi rend="italic">per Cent. in</hi> Maryland
+100 <hi rend="italic">per Cent. in North
+Carolina</hi> 900 <hi rend="italic">per Cent. in
+South Carolina</hi> 700 <hi rend="italic">per Cent. worse than Sterling</hi>.
+
+</p><p>To make a Bill or Note bearing no Interest, and not payable till
+after a dozen or score of Years, a legal
+Tender (under the highest
+Penalties as in <hi rend="italic">New-York</hi> and <hi rend="italic">Jerseys</hi>) in Payment of
+Debts, is the highest of <hi rend="italic">despotick</hi> and arbitrary Government:
+France never made their State Bills a common Tender.  Our Paper Money
+Colonies have carried the Iniquity still further; the Popular or
+<hi rend="italic">Democratick</hi> Part of the Constitution are generally in Debt, and
+by their too great Weight or Influence in Elections, have made a
+depreciating Currency, a Tender for Contracts done may Years before;
+that is,<hi rend="italic"> they impose upon the Creditor side in private
+Contracts</hi>, which the most despotick Powers never assumed.  An
+Instance of a still further arbitrary Proceeding in relation
+
+<pb n="321"/>
+to Paper Money was an Act of Assembly in <hi rend="italic">New Jerseys A</hi>. 1723,
+whereby <hi rend="italic">Executions for Debt were stayed until Paper Money should be
+issued</hi>.
+
+</p><p><hi rend="italic">The Mystery of the infatuation of our Colonies running
+Headlong into a depreciating Paper Currency may be this</hi>: In many of
+our Plantations of late Years, by bad Management and Extravagancies, the
+Majority of the People are become <hi rend="italic">Debtors</hi>, hence their Elected
+Representation in the Legislature have a great Chance to be generally of
+the Debtors Side: or in other Words, the <hi rend="italic">Representatives</hi> being
+generally Freeholders, and many of them <hi rend="italic">much in Debt</hi>; by large
+Emissions their Lands rise in Denomination Value while their Debts
+become really less, and the Creditor is defrauded in Part of his Debt.
+Thus our Colonies have defrauded more in a few years than bad
+Administrations in <hi rend="italic">Europe</hi> have formerly done in some Centuries.
+The great Damage done to the generous Merchants at Home, and to the
+industrious fair Dealers amongst our selves; call aloud, for some speedy
+and effectual Relief from the supreme Legislature of the <hi rend="italic">Parliament
+of Great Britain</hi>.
+
+</p><p>There is an Argument, which tho' not much attended to here, may
+be of some Weight at Home, viz.<hi rend="italic"> That the Government at Home ought to
+connive at Paper Money in the Colonies</hi>, because by indulging them
+in this Error, all the Silver which they acquire from Time to Time is
+sent to <hi rend="italic">Great Britain</hi>; and by the <hi rend="italic">chimaera</hi> of a
+fallacious Cash, Extravagancies are encouraged in favour of a great
+
+
+<pb n="322"/>
+Consumption of British Goods:<hi rend="italic"> This ought to be an Argument with us
+against that Paper Currency</hi>, which tends to turn the Ballance of
+Trade so much against us.  It is true, That <hi rend="italic">Great Britain</hi>
+naturally ought to reap some Profit by its Plantation Improvements; but
+a good Farmer improves his Lands not
+by working them out of Heart (as the Term is) but by manuring them, that
+they may yield the better Crops; besides, what the British Merchants
+lose in their Returns by the Colony Bills depreciating, and by the
+Bankruptcy of their Factors and Dealers here; is much more then what
+<hi rend="italic">Great Britain</hi> gets, on the abovesaid Accounts.
+
+</p><p>In the Sequel of this Discourse, I shall 1, Enumerate the
+Inconveniencies and bad Effects of our large Emissions of Paper Money.
+2. Endeavour to remove the Prejudices which some designing Men have
+infused into the Minds of the Populace in favour of Bills of Credit.  3.
+Consider several Projections or Schemes to rectify our Currency and
+present Circumstances, or to prevent their growing worse.
+
+</p><p><hi rend="italic">The Mischiefs arising from a large Paper Currency are,</hi>
+
+</p><p>I.  With regard to <hi rend="italic">the particular and immediate Sufferers
+thereby </hi>.
+
+</p><p>1.  <hi rend="italic">The Labourers and Trades-men</hi>, who is all Countries,
+are the Heads which feed the Belly
+of the Common Wealth, and therefore<hi rend="italic"> deserve our chief Regard</hi>.
+How much they have suffered and continue to suffer is obvious: For
+Instance, a Carpenter when Silver was at 8<hi rend="italic">s.</hi> per Oz. his Wages
+were 5<hi rend="italic">s.</hi> a Day all Cash.  The
+
+<pb n="323"/>
+Town House <hi rend="italic">A</hi>. 1712 was built at this Rate; whereas at present
+<hi rend="italic">A</hi>. 1739. from the bad influence of Paper Money Silver being
+29<hi rend="italic">s.</hi> per Oz. he has only 12 s. a Day, equal only to
+3<hi rend="italic">s.</hi> 4<hi rend="italic">d.</hi> of former Times; and even this is further
+reduced, by obliging him to take one half in Shop Goods at 25 per Cent.
+or more Advance above the Money Price: this Iniquity still grows, by
+reducing the Goods Part to the least vendable; the Shopkeeper refusing
+to let them have Provisions, West India goods, or Goods of <hi rend="italic">Great
+Britain</hi> that are in Demand.
+
+</p><p>To make the Case more familiar, Suppose a Tradesman laying in his
+Winter Store, when Wages were at 5 s. with one Day's Labour he purchases
+15 Pound of Butter being 4d per Pound (I use Butter because it rises the
+most uniformly of all Provisions) at present his 12 s a Day purchases
+only 7 Pound of Butter at 20 d a Pound.  <hi rend="italic">The Clergy</hi> or settled
+Preachers to Congregations in <hi rend="italic">Boston</hi>, no Offence in classing
+them with Labourers, when Silver was at 5 s. had &#163;3 per Week, at
+present Silver at 29 s. per Oz. they have only &#163;6 to &#163;8 equal
+to 40 s. of former Times.
+
+</p><p>The <hi rend="italic">Shopkeepers</hi> are become as it were Bankers between
+the Merchants and Tradesmen, and do impose upon both egregiously.  Shop
+Notes that great and insufferable Grievance of Tradesmen, were not in
+Use until much Paper Money took Place: this Pay in Goods
+
+<pb n="324"/>
+which generally are of no necessary Use (Provisions and West India Goods
+at this Time are removed from that Denomination) encourage Extravagance
+in Apparel and Furniture much above our Condition.
+
+</p><p>2.  <hi rend="italic">The Merchants of Great Britain Adventurers to New
+England, because of their largest Dealings have suffered most</hi>.
+Their Goods are here generally sold at a long Credit, while the
+Denominations of the Money in which they are to be paid, continues
+depreciating; so that they are paid in a less Value than was contracted
+for: thus our Bills have successively depreciated from 8 s. per Oz.
+Silver <hi rend="italic">A.</hi> 1713, to 29s. in this Year 1739; that is, if we could
+suppose the same Person to have constantly followed this Trade (without
+extraordinary Hits) for that space of Time,<hi rend="italic"> he must have reduced his
+Estate after the rate of 8s. only for 29s.</hi> For every Shilling in
+the Pound that Silver rises in Price, or, which is the same, for every
+Shilling in the Pound that the Denominations of our Paper Money
+depreciates, the Creditor actually looses 5 per Cent. of his Debt.
+
+</p><p>There have been from Time to Time <hi rend="italic">seeking Factors</hi>, who
+to procure Business from Home, have entred into Engagements which could
+not possibly be complied with: these having little or nothing of their
+own to loose, soon make desperate Work of it; become Bankrupts, and from
+a general insensibility of discredit, do notwithstanding keep their
+Countenance as before.
+
+</p><p>Many <hi rend="italic">Factors</hi> to dazle their Employers for a Time, and in
+the mean while to procure more Consignments; send Home a high Account of
+Sales, by the Shopkeepers
+
+<pb n="325"/>
+giving a great Advance in Consideration of a very long Credit, and to be
+drawn out in Shop Notes.  This Practice has so much prevailed, that it
+is now become a fixed tho' pernicious and ruinous Custom.
+
+</p><p>As Paper Money pays no Debts abroad, the Factor is obliged to
+give an extra Quantity of it, to purchase Silver, and other Returns;
+which can be exported, to satisfy Debts; in this Shape also the Merchant
+becomes a Sufferer.
+
+</p><p>3.  <hi rend="italic">Widows, Orphans, Funds for Charity at Interest</hi>, and
+all other Creditors; by Bonds, Notes &amp; Book Debts, acquired by
+Industry, good Management, and Frugality; are great Sufferers from Time
+to Time: For Instance, from Autumn <hi rend="italic">A.</hi> 1733 to Autumn
+<hi rend="italic">A.</hi> 1734 Silver rose from 22 s. to 27 s. per Oz.  this was a
+Loss of 23 per Cent. of the Principal.
+
+</p><p>II.  <hi rend="italic">The repeated large Emissions of Paper Money are the
+Cause of the frequent rise of the Price of Silver and Exchange</hi>;
+that is, of the publick Bills of Currency depreciating in all the Paper
+Money Colonies; which do as regularly follow the same, as the Tides do
+the <hi rend="italic">Phases</hi> or course of the Moon.  When no larger Sums are
+emitted for some time, than what are cancelled of former Emissions;
+Silver and Exchange are at a Stand; when less is emitted than cancelled
+(which seldom happens) Silver and Exchange do fall.  This is plain to a
+kind of Demonstration, from the Instance in the History of our Paper
+Money Emissions in <hi rend="italic">New England</hi>.
+
+</p><p>After Silver had rose <hi rend="italic">A</hi>. 1706 to 8 s. per Oz. by light
+Pieces of Eight superseding the heavy Pieces; it continued
+
+<pb n="326"/>
+at that Rate, while Paper Emissions did not exceed a due Proportion to
+the current Silver.  <hi rend="italic">A</hi>. 1714 we emitted &#163;50,000 upon Loan,
+and <hi rend="italic">A</hi>. 1715 in <hi rend="italic">Rhode-Island</hi> &#163;40,000 besides
+Emissions on distant Funds for Charges of Government; in the Autumn A.
+1715 Silver became 15 per Cent. Advance above 8 s. that is about 9 s. 2
+d. per Oz.  <hi rend="italic">Massachusetts-Bay A</hi>. 1717 emitted &#163;100,000
+upon Loan and a very long Period; Silver rose to 12 s. per Oz.
+<hi rend="italic">A</hi>. 1721 <hi rend="italic">Massachusetts-Bay</hi> emitted &#163;50,000 and
+<hi rend="italic">Rhode-Island</hi> &#163;40,000 upon Loan, Silver <hi rend="italic">A.</hi> 1722
+became 14<hi rend="italic"> s.</hi> per Oz.  From that Time a chargeable Indian War,
+required large Emissions, and Silver rose to 16 s. per Oz it continued
+at this Rate till <hi rend="italic">A</hi>. 1728, Emissions not being larger than
+Cancellings.  <hi rend="italic">A</hi>. 1727 <hi rend="italic">Massachusetts-Bay</hi> emitted
+&#163;60,000 and <hi rend="italic">A</hi>. 1728 <hi rend="italic">Rhode-Island</hi> emitted
+&#163;40,000 upon Loans; Silver became 18 s. per Oz.  <hi rend="italic">A</hi>. 1731
+<hi rend="italic">Rhode-Island</hi> emitted &#163;60,000 upon Loan.  (<hi rend="italic">N.B.</hi>
+Besides the several Loans in the course of this History, all the Charges
+of he four Governments, were defrayed by Paper Emissions) and Silver
+became <hi rend="italic">A</hi>. 1732, 21 s. per Oz.  <hi rend="italic">A</hi>. 1733
+<hi rend="italic">Massachusetts-Bay</hi> emitted &#163;76,000 upon Funds of Taxes,
+<hi rend="italic">Rhode-Island</hi> &#163;104,000 upon Loan and Taxes,
+<hi rend="italic">Connecticut</hi> &#163;50,000 upon Loan, and <hi rend="italic">A</hi>. 1734 Silver
+became 27 s. per Ounce.  From <hi rend="italic">A.</hi> 1734 to <hi rend="italic">A</hi>. 1738 more
+Bills were cancelled than emitted, Exchange fell from 440 to 400 per
+Cent. Advance.  <hi rend="italic">A</hi>. 1738 <hi rend="italic">Rhode-Island</hi> emitted
+&#163;100,000 upon Loan, Silver rose from 27 s. to 29 s. per Oz.
+
+</p><p>In <hi rend="italic">New England</hi>, as in all other trading Countries,
+
+<pb n="327"/>
+from some particular Accident, and Circumstances, there happened at
+Times, some small fluctuations in Exchange, without any Regard to
+Emissions of Paper Money.  At all Times, when Returns in Ship Building,
+Whale Oil and Fins, Naval Stores &amp;c. turn out well at Home; Silver
+and Exchange here suffer a small fall: at other Times when these prove
+bad Returns, Silver and Exchange rise a small Matter; the most noted
+Instance was <hi rend="italic">A</hi>. 1729, when the usual Returns to <hi rend="italic">Great
+Britain</hi> turned to bad Account; the Merchants from Home, directed
+their Factors here, to make Remittances in Silver or Exchange only, and
+at any Rate; together with an Agency from this Province and that of
+<hi rend="italic">Connecticut</hi>, fitted out with a Silver Supply; Silver rose very
+considerably, but after a few Months fell again to the former Price.
+
+</p><p>The Instance of <hi rend="italic">Barbadoes</hi> must put this Assertion beyond
+all Dispute with sober thinking honest Men.  <hi rend="italic">A.</hi> 1702 by the
+Perswasion of Mr. <hi rend="italic">W</hi>. from New England, <hi rend="italic">Barbadoes</hi>
+emitted &#163;16,000 Bills of publick Credit on a Fund of 3 s. 9 d.
+Negroe Tax; at first they passed at a Discount, but no more being
+emitted, and the Period of cancelling being short, they rose again to
+near <hi rend="italic">Par</hi>: this encouraged them to make an enormous Emission of
+&#163;80,000 Bills on Land Security at 4 per Cent. Principal payable
+after 5 Years: These Bills immediately fell 40 per Cent. below Silver:
+by an Order from Home, they were soon suppressed, and their Currency
+became Silver Value as before. That Province has ever since kept their
+Currency up to Proclamation
+
+<pb n="328"/>
+Value, Ballance of Trade in their favour, Exchange to <hi rend="italic">Great
+Britain</hi> being generally under 33 per Cent. the Par.
+
+</p><p>III. <hi rend="italic">Large repeated Emissions of publick Bills of Credit,
+called Paper Money, is no addition to the Medium of Trade</hi>.  No
+Country can have an indefinite or unlimitted Credit; the further a
+Country endeavours to stretch its Credit beyond a certain Pitch, the
+more it depreciates.  The Credit of a Country may be compared to that of
+a private Trader; if his Credit is equal to &#163;100,000 Sterl. his
+Notes of Hand for &#163;100,000 will be as good as Silver; if it be
+known that he passes Notes of Hand for &#163;200,000 Sterling. their
+full Credit will be suspected and eventually be worth no more than his
+real Credit &#163;100,000 Sterl: if he can be supposed to utter
+&#163;500,000 Bills or Notes, his &#163;5 Note will be worth only 20 s.
+Sterl.
+
+</p><p>In <hi rend="italic">New England A</hi>. 1713 there were about <hi rend="italic">two
+thirds</hi> Bills to <hi rend="italic">one third</hi> Silver current, equally to 8 s.
+per Oz Silver Value; there being an Allowance of 5 per Cent. in all
+publick Payments in favour of Bills only, gave them a Credit beyond
+their natural Stretch. At that Time the publick Bills of the four
+Provinces were about &#163;175,000 at 8 s. per Oz. Silver value (we use
+always the nearest round Numbers) is 438,000 Oz. Value, with 219,000 Oz
+of Silver Currency is 657,000 Oz. Silver Value. <hi rend="italic">A</hi>. 1718 the
+publick bills of <hi rend="italic">New England</hi> were &#163;300,000 (Silver all
+drove away by the worse Currency of Bills) at 12 s. per Oz. Silver; is
+500,000 Oz. Value in Silver. <hi rend="italic">A.</hi>1731<hi rend="italic"> New England</hi>
+
+<pb n="329"/>
+publick Bills were &#163;470,000 at 20 s. per Silver, is 470,000 Oz.
+Silver value.  <hi rend="italic">A</hi>. 1739 the current Paper Money of <hi rend="italic">New
+England</hi> was &#163;630,000 at 29 s. per Oz. Silver is in value
+434,000 Oz. Silver.  Here it is plain that the more Paper Money we emit
+our real Value of Currency or <hi rend="italic">Medium</hi> becomes less, and <hi rend="italic">what
+we emit beyond the Trading Credit of the Country does not add to the
+real Medium, but rather diminishes from it, by creating an Opinion
+against us, of bad Oeconomy and sinking Credit</hi>.
+
+</p><p>A Country may exceed in any Commodity or <hi rend="italic">Medium</hi>,
+excepting in that universally Staple Commodity and Medium Silver; and a
+smaller Quantity of any other Commodity or Medium will turn to the same
+or better Account than a larger.  In <hi rend="italic">Holland</hi> upon a too large
+Importation of Spices, they destroy some Part, to keep up the Value of
+Spices.  Not long since in <hi rend="italic">Virginia</hi>, finding that Tobacco
+(their Currency as well as Export) by its too large Cultivation began to
+depreciate; by Act of Assembly they restricted it to 1000 l. wt. per
+Annum per Tythable.  In <hi rend="italic">Maryland A</hi>. 1734 &amp; <hi rend="italic">A</hi>. 1735
+for the same Reason they burnt 150
+l. wt. per Rateable.  If our House of Representatives allow our Paper
+Money to be cancelled in course, and be sparing in the Manufacture of
+more; the Value of the remainder, would be equal to the Value of the
+whole now current, or proposed to be added to the Currency.</p>
+
+
+<pb n="330"/>
+<p>It is therefore vain and inconsistent to make <hi rend="italic">Provincial</hi> or
+Municipal Bills of Credit, for a Medium of general Trade: Merchants know
+how to find their own Tools or <hi rend="italic">Medium</hi> of Trade, better than any
+Civil Administration can prescribe: in Fact, they who call out loudest
+for this Paper <hi rend="italic">Medium</hi>, are not our large Traders; but such as
+would take up Money at any bad lay, <hi rend="italic">viz</hi>. the Idle, those in
+desperate Circumstances, and the Extravagant; who never can have any
+other Claim to Money but by Fraud; we must except some who tho'
+naturally honest are misguided.  Publick Bills of Credit in a proper
+
+<pb n="331"/>
+Sense are only to defray the incident Charges of Government which may
+accrue, before the proper Ways and Means of Taxes can take Place; but so
+soon as can be, to be cancelled by those Taxes.  We know of no Country
+in <hi rend="italic">Europe</hi>, where Exchequer Notes, State Bills, or other Bills
+of publick Credit, have been issued by the Government for a
+<hi rend="italic">Medium</hi> of Trade.
+
+</p><p>IV.  <hi rend="italic">This infatuation in favour of Paper Money has had a
+mutinous bad Effect upon the Civil Government, in several of our
+Colonies</hi>.  The Representatives of the People, have frequently
+refused to provide for the necessary Charges of Government, and other
+wholesome Laws; because the Governours &amp; Councils, would not (in
+breach of their Instructions from the Crown) concur in emitting large
+Sums of Paper Money to defraud the industrious Creditor and fair Dealer.
+I shall mention only a few Instances.  In <hi rend="italic">S. Carolina A</hi>. 1719
+the People deposed the Proprietors Governour on this Account: it is
+true, the <hi rend="italic">King</hi> did not much resent this Mutiny; perhaps, that
+the Proprietors might be weary of their Property and government; and
+accordingly seven of the eight Proprietors, for a small Consideration,
+did <hi rend="italic">A</hi>. 1729 resign and sell to the Crown: Upon Governour
+<hi rend="italic">Johnson's</hi> arrival in <hi rend="italic">S. Carolina A</hi>. 1731, there had
+been no Supply granted in the four preceeding Years.  The Government of
+the <hi rend="italic">Massachusetts-Bay</hi>, has from Time to Time been distressed,
+by our Representatives refusing Supplies for the necessary Charges of
+Government, and other publick Affairs neglected on this Account: <hi rend="italic">Our
+present Governour's Fortitude and steady
+
+<pb n="332"/>
+Adherence to the King's Instructions, &amp; his having shortned the long
+Periods of Emissions for Charges of Government (I am under no Obligation
+to flatter) are highly laudable</hi>.  <hi rend="italic">New Hampshire
+</hi>Representatives for five Years preceeding <hi rend="italic">A</hi>. 1736 granted
+no Supply. As the French humour of building Forts, to protect their
+Settlements against an Enemy; and as
+the Spanish humour of Devotion, in building Churches and Convents, is
+perverted, by their becoming Nurseries of Idleness and other Vices; so
+the <hi rend="italic">English Liberty and Property of the Subject</hi>, in many of our
+Plantations are somewhat abused, to levelling and licentiousness; it is
+true, all Men are naturally equal, but Society requires subordination.
+
+</p><p>V.  <hi rend="italic">Long Credit, is not one of the least of the bad Effects
+of Paper Money</hi>.  People run in Debt, endeavour after a long Credit,
+and refuse paying their Debts when due; because while Bills are
+continually depreciating, the longer the Debt is outstanding, they pay
+their Creditors with a less and less Value, than was contracted for. Sir
+<hi rend="italic">Alexander Cumings</hi> in his Defence wrote <hi rend="italic">A</hi>. 1729
+
+<pb n="333"/>
+says, that in his Time in <hi rend="italic">South Carolina</hi>, pay, after twelve
+Months, was reckoned as ready Money. Long Credit thus obtained, does in
+its turn, forward a bad Currency, they go Hand in Hand.  A Creditor
+after being long out of his Money, chuses rather to take the bad
+Currency and run the Risque of passing it off again (as was the Case of
+the <hi rend="italic">Rhode-Island</hi> Emissions <hi rend="italic">A</hi>. 1733 &amp; 1738) than of
+losing his Debt, if another Creditor should take it, and the Debtor
+afterwards become Insolvent.
+
+</p><p>With ready Money or short Credit, Business goes on brisk and
+easy.  <hi rend="italic">Long Credit</hi> occasions the unthinking of all Conditions
+and Occupations, to involve themselves.  A Merchant over-trades himself,
+a Shopkeeper buys more Goods, and at a greater Advance than he can
+afterwards comply with; the Countryman buys and Mortgages Lands, to his
+final Ruin.
+
+</p><p>VI.  <hi rend="italic">Insensibility of Discredit, does naturally follow long
+Credit</hi>: All Shame and Modesty is banished even in the Creditor;
+who, tho' formerly a modest forbearing man, is now obliged to Dun
+incessantly or lose his Debt.  Ready Money and short Credit, give a
+quick Circulation; the quicker the Circulation, the less Quantity of
+<hi rend="italic">Medium</hi> is required to carry on the same Trade and Business;
+long Credit, and insensibility of Discredit, have the contrary Effect.
+There are at present extant of <hi rend="italic">New England</hi> publick Bills of
+Credit about &#163;630,000 a much larger Sum than ever was extant at any
+other Time; yet Money was never so scarce and Debts worse paid:<hi rend="italic">
+People chuse rather to hoard it up</hi>, and wait for better Times, than
+put it out and not be able to recover it
+
+<pb n="334"/>
+again, but after an unreasonable Length of Time and much Trouble; Money
+hoarded up, is the same as if not in being, as to Currency.  If a
+Shopkeeper does not clear with his Merchant, till after two or three
+Years due; he is notwithstanding esteem'd as honest as his Neighbour:
+Our Courts are full of plain Bonds, and Notes of Hand; Appeals on them
+are allowed, Executions delay'd &amp;c.  This insensibility of
+Discredit, breaks all Friendship; it makes a Man cautious of lending his
+Money to his best Friend, and nearest Relation.
+
+</p><p>A general Clamour for a depreciating Paper Currency, is a certain
+Sign of the Country being generally in bad Circumstances, that is,
+<hi rend="italic">in Debt;</hi> because all Creditors who by their Industry and
+Frugality have acquired Rents, Bonds, Notes and Book Debts, loose by its
+depreciating; and the Debtors (the Idle and Extravagant Part of the
+People) come off easy by the Creditors loss. Seeing they who are
+desperately in Debt, and want to pay a smaller Value than contracted
+for, or <hi rend="italic">they who have nothing to loose, are generally of the Party
+for Paper Money;</hi> this ought to be a strong Prejudice against it,
+with sober thinking Men.
+
+</p><p>We have <hi rend="italic">some prevailing Customs and some Laws in force</hi>,
+which seem to encourage this <hi rend="italic">insensibility of Discredit</hi> in
+Debtors; 1.<hi rend="italic"> A Maxim amongst Shopkeepers;</hi> That the most ready
+Way to grow rich, without any Expence of Industry; is, to run boldly in
+Debt, procure a long Credit, after Time of Payment is elapsed to bear
+Dunning with a good Face, and finally to let the Debt take its full
+Course in the Law, which further requires
+
+<pb n="335"/>
+twelve Months or more, at a small Cost: Notwithstanding this Chain of
+Iniquity, the Debtor keeps his Countenance, and many Factors continue to
+trust him with their Employers Goods as formerly.  2.<hi rend="italic"> Estates too
+easily allowed to be represented as Insolvent;</hi> whereby Creditors
+are defrauded of some Part of their Due.  3. <hi rend="italic">Appeals upon plain
+Bonds, Notes of Hand, and Defaults,</hi> to the great Relief of the
+fraudulent Debtor, and the Damage of the honest Creditor.  4.
+<hi rend="italic">Sheriffs</hi> impune <hi rend="italic">delay of Executions</hi>, while the
+Creditor is allowed neither Interest nor Damage upon the Debt.  5.
+<hi rend="italic">The too general Laws for the relief of insolvent Debtors,</hi>
+whereby the Fraudulent, the Idle, and the Extravagant, when sent to
+Goal; are too soon, and at too easy a Rate turned loose to follow the
+same Courses.  What I have here said,<hi rend="italic"> cannot be understood in
+contempt of our Legislative Authority;</hi> because of that valuable
+Privilege belonging to our Constitution, viz. of repealing, amending, or
+explaining what Laws from Experience may be found to require the same.
+
+</p><p><hi rend="italic">The Arguments current amongst the Populace in favour of Paper
+Money are </hi>,
+
+</p><p>I. In most of the Paper Money Colonies one
+of the principal Reasons alledged for their first Emissions; was, <hi rend="italic">to
+prevent Usurers imposing high Interest upon Borrowers, from the scarcity
+of Silver Money.</hi> It is true, that in all Countries the increased
+Quantity of Silver, falls the Interest or use of Money; but large
+Emissions of Paper Money does naturally rise the Interest to make good
+the sinking Principal: for Instance, in the
+
+<pb n="336"/>
+Autumn <hi rend="italic">A</hi>. 1727 Silver was
+at 26 s. to 27 s. per Oz. but by a
+large <hi rend="italic">Rhode Island</hi> Emission, it became in Autumn 1739, 29 s.
+per Oz. this is 7 per Cent. loss of Principal, therefore the Lender to
+save his Principal from sinking requires 13 per Cent. natural Interest
+(our legal Interest being 6 per Cent.) for that Year.  In Autumn
+<hi rend="italic">A</hi>. 1733 Silver was 22 s. per Oz. by large Emissions it became
+27 s. in the Autumn <hi rend="italic">A</hi>. 1734; is 22 per Cent. loss of Principal,
+and the Lender to save his Principal requires 28 per Cent. <hi rend="italic">natural
+Interest</hi> for that Year. Thus <hi rend="italic">the larger the Emissions, natural
+Interest becomes the higher;</hi> therefore the Advocates of Paper Money
+(who are generally indigent Men, and Borrowers) ought not to complain,
+when they hire Money at a dear nominal Rate.</p>
+
+<pb n="337"/>
+<p>If Bills were to depreciate after a certain Rate, Justice might be
+done to both contracting Parties, by imposing the loss, which the
+Principal may sustain in any certain space of Time (the Period of
+Payment) upon the Interest of a bond or Price of Goods: but as
+depreciations are uncertain, great Confusions in Dealings happen.
+
+</p><p>II. <hi rend="italic">That the Merchants arbitrary Rise upon the Price of
+Goods, does from Time to Time depreciate the Denominations of our Paper
+Money,</hi> is imposed upon the unthinking Part the People, as a certain
+Truth, by designing Men.  It is certain, that in all Countries of
+<hi rend="italic">Europe</hi>, where by Recoinages or Proclamations, the current
+Specie has been debased; the nominal Price of Goods did naturally rise
+in Proportion: is it not more natural to say, that formerly in
+<hi rend="italic">France</hi> their recoinings or lessening the Value of their
+Denominations, did rise the Price of Goods; than to say that the Rise of
+the Price of Goods, was the Cause of their Recoinages.  A continued Rise
+on Goods in general is from a depreciating <hi rend="italic">Medium</hi>; but
+fluctuations in particular Goods, are from the Quantities and Demand;
+thus <hi rend="italic">A.</hi> 1739 Provisions the most Staple of all Commodities have
+been cheap, <hi rend="italic">viz</hi>. Wheat at 10 s. per Bushel, Silver being 29 s.
+per Ounce, whereas <hi rend="italic">A.</hi> 1738 Wheat was at 18 s. per Bushel, when
+Silver was only 27 s. per Oz.
+
+</p><p>When a large Emission can be foreseen the Price of Goods rises;
+because being sold upon long Credit, the effects of the Emission will
+take Place before the time of Payment: hence it is that <hi rend="italic">generally
+the Price of Goods Advances, before Exchange and Silver do rise; </hi>
+
+<pb n="338"/>
+Exchange and Silver being bought with ready Money, cannot take Place
+until the Addition is made to the Currency by this new Emission, and
+then only gradually as the Merchant receives his Pay; thus the large
+Emissions of <hi rend="italic">A</hi>. 1733 did not bring Silver to its height, 27 s.
+per Oz. until Autumn, <hi rend="italic">A</hi>. 1734:  Hence proceeds that inculcated
+Fallacy of the Advance on Goods rising the Price of Silver and Exchange.
+The same Reason for Lenders of Money, imposing a high Interest, holds in
+the Rise of the Price of Goods: Custom has given a long Credit,
+Insensibility of Discredit makes it still longer, and before the
+Merchant is paid, the Currency is become much depreciated.
+
+</p><p>III. <hi rend="italic">The Sticklers for Paper-Credit requiring long Periods,
+as well as large Emissions is a most unnatural Desire</hi>.  Some of the
+<hi rend="italic">Massachusetts-Bay</hi> Loan, of <hi rend="italic">A</hi>. 1717 is still
+outstanding <hi rend="italic">A.</hi> 1739: The several <hi rend="italic">Rhode-Island</hi> Loans do
+not terminate in less than 20 Years: By this unnaturalContrivance they oblige
+Posterity to supply the Extravagancies of their Parents and Ancestors,
+instead of the common and natural Instinct of Parents providing for
+their Children.
+
+</p><p>IV. <hi rend="italic">It is not repeated large Emissions of a base
+Paper-Currency, but our Imports exceeding our Exports, that occasions
+Silver to be ship'd off in Ballance; therefore we are not to expect a
+Silver-Currency supposing all Bills cancelled.</hi> Before Paper-Money
+took Place in <hi rend="italic">New England</hi>, Silver abounded in Currency as much
+and perhaps more, than in many of our Colonies: Our Exports
+
+<pb n="339"/>
+are always in Demand, viz. Ship-building, all Branches of Fishery,
+Naval-Stores to <hi rend="italic">Great Britain</hi>, Logwood from the Bay of
+<hi rend="italic">Honduras</hi>, Lumber, Stock, and other Provisions to the other
+Colonies; and (<hi rend="italic">Bermudians</hi> excepted) our Navigation is the
+cheapest of all Carriers.  Silver began to be generally ship'd off as
+paper became the Currency; which gave the Merchant the Liberty of
+shipping off his Silver as Merchandise, which otherways he must have
+kept as Cash, seeing no business can be carried on to Advantage without
+Cash.  In all Countries if a bad <hi rend="italic">Medium</hi> is introduced, People
+take care to secure the better <hi rend="italic">Mediums</hi> and they are no more
+current.
+
+</p><p>The Fallacy of Quantities of Paper-Money, has increased our
+superfluous Imports, much beyond what was in former Times.  The<hi rend="italic">
+seeking Factors</hi> upon a large Emission, advise the Merchant in
+<hi rend="italic">Great Britain</hi>, that Money being now very Plenty, a large
+Quantity of
+
+<pb n="340"/>
+Goods will sell: Accordingly a Glut of Goods is sent to <hi rend="italic">New
+England</hi>, more than can be sold for ready Money and short Credit;
+the Consequence is, a long Credit, with its consequential Multitude of
+Evils; that is Returns or Exports in full, are never, or not, till after
+a long Time, ship'd off.
+
+</p><p>Our Paper-Money being only passable amongst our selves, is the
+Reason, why,<hi rend="italic"> they who deal only in buying and selling a Shore, get
+the most Money;</hi> all their Profits are upon our selves, and run no
+Risque of Precarious Returns; while the generous Merchant looses upon
+his Exports to a foreign Market.  This is a ruinous Case.
+
+</p><p><hi rend="italic">As Paper-Money grows scarce, Imports will be less, and be
+sold cheaper;</hi> no Country can want a true real Medium of Trade,
+while their Exports exceed their Imports: Let us then lessen our Imports
+by our Frugality, and add to our Exports by our Industry; and we shall
+have no occasion for this <hi rend="italic">chimerical ill founded Medium, Paper
+Money</hi>.
+
+</p><p>V. <hi rend="italic">The goodly Appearance, which Boston and the Country in
+general at present, make in fine Houses, Equipage, and Dress, is owing
+to Paper Money.</hi> All our Plantations from some Infatuation, are
+inclinable to run into Prodigality, Profuseness, and Show: these Paper
+Loans (from publick or private Schemes) upon long Periods, give the
+unthinking and unwary, Opportunities of involving themselves, by thus
+sinking what they have borrowed; by repeated emissions, they have
+Opportunities of paying a former Debt, by running further in Debt, till
+at length they become Insolvents.
+
+<pb n="341"/>
+People do not consider, that all Emissions upon Funds of Taxes or upon
+Loans, is running the Country more and more in Debt, and will in Course
+fall heavy upon every Individual.  Never were greater Complaints of want
+of Money, while at the same Time, never more extravagance in Equipages
+and Dress.<hi rend="italic"> Boston, like a Private Man of small Fortune, does not
+become richer but poorer, by a rich goodly Appearance</hi>.
+
+</p><p>What Part of these Emissions have we laid out in Improvements of
+Produce, or Manufacture?  Not any.  It is true, it gave some Men
+Opportunities of building Vessels and running into Trade; but their
+Education and Experience not laying that Way, and having no other Bottom
+of their own, they soon became <hi rend="italic">broken Merchants</hi>.
+
+</p><p>Expending in fine Houses &amp; Apparel what ought to have
+purchased Exports, is one of the Reasons, why Ballance of Trade is
+against us.
+
+</p><p><hi rend="italic">There is another Fund for all this finery</hi>, and of which
+we ought not to boast, but be ashamed. By the Means of a depreciating
+Currency the Merchant at Home, has been paid in less Value, than was
+contracted for; his Loss was our Gain.  Several Factors from Time to
+Time, have by Artifice, &amp; Assurance, procured large Commissions from
+Home, and with Effrontery and Insensibility of Discredit, have become
+Bankrupts: Thus the Produce of these Effects remained here, and makes
+good in some Sense, that Position of Dr. <hi rend="italic">Mandevilles</hi>; Private
+Vices are publick Benefits.
+
+</p><p>VI. <hi rend="italic">This Country formerly had but a small Trade,
+
+<pb n="342"/>
+now our Trade being much enlarged, we require a large Medium.</hi> This
+like all Arguments commonly used to pervert the People is very
+unnatural: because the more a Country grows in good Trade, the more true
+<hi rend="italic">Medium</hi> of Trade it acquires, and would have no Occasion, to
+have recourse to a fallacious <hi rend="italic">Succedanium</hi> or Shift.
+Notwithstanding the vast Floods of Paper Money lately emitted, and our
+Trade also more general; we find that in former Times, the People were
+more willing and able to pay high Rates, than at present.  The first
+Assembly upon the new Charter, did in<hi rend="italic"> June A.</hi> 1692, lay a Tax
+of &#163;30,000 (equal to upwards of &#163;120,000 present Currency)
+payable within the Year, <hi rend="italic">viz</hi>. one half before 25th of
+<hi rend="italic">December A</hi>. 1692, and the other half before 1st of <hi rend="italic">May</hi>
+1693; towards paying off Charges formerly incurred by the
+<hi rend="italic">Canada</hi> Expedition and Charges of that Year.  <hi rend="italic">A.</hi> 1694
+the Tax was &#163;17,589 (equal of upwards of &#163;70,000 present
+Currency) towards paying off the Government Charges of that and the
+preceeding Year.  Whereas, we who reckon our selves so much increased in
+Trade at present <hi rend="italic">A</hi>. 1739 refuse a small Rate of about only
+&#163;50,000 towards paying Government Charges incurred <hi rend="italic">A</hi>.
+1728, <hi rend="italic">A</hi>. 1733, and <hi rend="italic">A</hi>. 1737.
+
+</p><p>VII. <hi rend="italic">How can we pay our Taxes and Debts, if the Government do
+not make large Emissions of Paper Money?</hi> In all Countries excepting
+in Paper Money Colonies, the People support the Government; it is absurd
+to imagine that a Government finds Money for its People, it is the
+People who by their Trade and Industry,
+
+<pb n="343"/>
+provide not only for their own Subsistence, but also for the Support of
+Government, and to find their own <hi rend="italic">Tools</hi> or <hi rend="italic">Medium</hi> of
+Trade.  It is true, the Government, that is, the Stewards of the
+Publick, may by the Consent of their Principals, the collective Body of
+the People; raise Money upon the Credit of the Real and Personal Estates
+of the People: but this in Propriety of Speech, is not making (or
+acquiring) of Money as we term it, but the reverse: A Prodigal who
+involves his Estate to raise ready Money, is it not ridiculous to say he
+has made so much Money; whereas in effect he has spent so much Money by
+sinking some Part of his Estate.  The unthinking Part of our People do
+not consider, that <hi rend="italic">every Emission of Paper Credit called Money, is
+laying a heavy Tax upon us,</hi> which in Time will contribute to our
+Misery: and is really analogous to the Negroes in <hi rend="italic">Guinea</hi>, who
+sell their Progeny into Slavery, for the sake of raising some ready Pence.
+
+</p><p>Our present Rates, are only a calling in Bills formerly Emitted,
+and therefore are supposed in being, and do not require a new Emission.
+This Cry is the same, as if a private Person borrows of another
+&#163;100 payable after some Time, and in the mean while by profuseness
+and bad Oeconomy, becomes incapable of satisfying the Debt when the Term
+of Payment is come: but says to the Lender, you use me very ill, if you
+do not lend me &#163;200 to enable me to pay the first &#163;100 and for
+other Occasions: If the Lender proceeds thus to indulge the Borrower,
+this bad Husband must at length be reduced to a State of Bankruptcy:
+<hi rend="italic">Province Bills are as much a
+
+<pb n="344"/>
+Debt upon the collective Body of the People; as a private Man's Bonds
+and Notes of Hand, are of a Debt upon himself.</hi>
+
+</p><p>VIII.  <hi rend="italic">The Emission of &#163;35,000 to 40,000 per Ann. for
+the ordinary Charges of Government, is a small insignificant addition to
+our Currency; publick Loans have been found inconvenient; let us then
+emit large Sums in Province Bills (the charge of making Bills is a
+Trifle) towards publick Edifices, Fortifications, Guarda Costas,
+Bridges, Castles in the Air, or any Thing, tho' of no Use or
+Consequence: they will draw out larger Sums, and considerably increase
+our Currency</hi>. They do not consider, that this contracting a large
+unnecessary Debt, to be redeemed after some years, by heavy Rates and
+Taxes, will occasion a Clamour, perhaps a Mutiny, worse than the present
+groundless Complaints of Oppression.  Such unnecessary Impositions are
+frequently Grounds of Complaint in the People against some Governours;
+but that the People should thus impose upon themselves, is one of the
+unnatural Effects of Paper Money.
+
+</p><p>IX. <hi rend="italic">Seeing, there is like to be no Stop to our Infatuation in
+receiving the depreciating Bills of</hi> Rhode-Island; <hi rend="italic">why should
+they reap all the Profit in our Ruin: why should not some of our
+merciful Selves</hi> (as the Authors of the 500,000 Scheme call
+themselves) partake with them in the Plunder, by taking the Advantage of
+our present Indispositions &amp; Weakness, Carry the Imposition further
+than that of <hi rend="italic">Rhode-Island</hi>; even beyond what could have entred
+into the Heart of Man, at any other
+
+<pb n="345"/>
+Time or Place, to conceive: I mean the emitting of 500,000 in Notes
+without Fund or Period; a Project, to outdo the <hi rend="italic">Rhode-Islanders</hi>
+in Fraud, &amp; to make these Bills more current, because worse than
+those of <hi rend="italic">Rhode-Island</hi>: it is almost incredible to what a Pitch
+of Iniquity some People are arrived, even prophanely to lard their
+Proposals with Scripture Phrases, <hi rend="italic">to impose upon the Vulgar waste
+Paper, instead of a valuable Medium</hi>.
+
+</p><p><hi rend="italic">The several Projections or Schemes which occur at present,
+towards rectifying our Currency, or at least to prevent its growing
+worse, are </hi>
+
+</p><p>I. Of a publick Nature
+
+</p><p>1.  <hi rend="italic">Is palliative, to prevent its growing worse, by bringing
+it to a Standard.</hi> By Act of Assembly let <hi rend="italic">the Governour and
+Council be impowred, with the Advice of Merchants, to settle once or
+twice a Year the Price of Exchange to London, or of Silver, in Province
+Bills;</hi> all Bonds, Notes, and Book Debts when paid, shall be
+received in Province Bills equal in Value to the Exchange or Price of
+Silver, as it was thus settled at the Time of contracting: For Instance,
+if I contract for &#163;500 <hi rend="italic">New England</hi> Bills of Credit when
+the Exchange is settled at 5 <hi rend="italic">New England</hi> for 1 Sterling, and
+when the Contract is to be satisfied, Exchange is settled at 6 for 1; I
+must pay the true or Sterling value, which is &#163;600 <hi rend="italic">New
+England</hi> Bills; this is strict Equity and natural Justice, it will
+effectually obviate the fraudulent Practices of those who are constantly
+clamouring for more Province Bills, and prevent the neighbouring
+
+<pb n="346"/>
+Colonies from imposing their depreciating Bills upon us.  Both
+<hi rend="italic">Carolina's</hi> have given us a successful Precedent.
+
+</p><p>2. As private Credit, being under Coercion, is better than
+publick Faith, which being above the Law, is lawless.<hi rend="italic"> Let the
+Legislature give a Sanction to some Society, of good substantial Men,
+who may be willing to emit Bills upon a good Silver Bottom</hi>,
+continually meliorating at a small Rate,<hi rend="italic"> v.g.</hi> 3 per Cent. per
+Ann. to prevent their being hoarded up; and receivable in Taxes and all
+publick Payments: Such bills will soon bring a Discount upon all other
+Bills.  We have at this Time (<hi rend="italic">Christmas A</hi> 1739) a remarkable
+Instance of private credit being good, and publick Faith of no Account:
+<hi rend="italic">Merchants</hi> Notes (a private Emission some Years ago upon a
+Silver Bottom) are sold at 33 per Cent. Advance, their true Value above
+common Currency; at the same Time, <hi rend="italic">our Province Bills of the new
+Tenor,</hi> which in <hi rend="italic">good Faith</hi> are 25 <hi rend="italic">per Cent</hi>.
+better than the other Currencies, pass promiscuously with the bad
+Currencies at <hi rend="italic">Par</hi>.
+
+</p><p>3. Let <hi rend="italic">Massachusetts-Bay Bills</hi> only, be receivable by
+the Treasurer of the Province, Counties, &amp; Towns; all Bills of the
+old Tenor when brought into their Treasury, to issue no more: <hi rend="italic">that
+all publick Bills hereafter to be emitted, be of the Nature of our late
+Bills of a new Tenor</hi>, with this additional Clause, &ldquo;And after the
+last of <hi rend="italic">December A</hi>. . . . the Treasurer is hereby directed,
+without further Advice or Order, to pay to the Bearer . . . Silver or .
+. .Gold upon Sight&rdquo; : The fund for bringing in this Silver and Gold from
+abroad, to be Impost
+
+<pb n="347"/>
+upon Goods, Tonnage, and Light-House Money, payable in Silver or Gold
+only.  At the several Emissions, let there be an equal Sum taxed on
+subsequent years within the Period; and these Taxes at the same Time
+assessed on the several Towns, ordering the Province Treasurer at the
+stated Times to issue out his Warrants accordingly without further
+Order; to prevent breach of Faith in future Assemblies, refusing to
+assess the Taxes of the Year, which is the same as postponing.  thus all
+these Bills will have the<hi rend="italic"> Credit of a Silver Bottom</hi>, tho' in
+their nature they will be cancelled in Course by Taxes, before the
+Period of redeeming them by <hi rend="italic">Silver</hi> arrive; that is,<hi rend="italic"> there
+will be none left to make a Demand upon the Treasury:</hi> the Silver
+lodged, will, after the Period, be ready for any Exigency of Government.
+In Fact, if breach of publick Faith do not intervene; <hi rend="italic">the present
+Bills of the new Tenor will, by the end of</hi> December <hi rend="italic">A</hi>.
+1742 <hi rend="italic">bring Silver to</hi> 20 <hi rend="italic">s. per Oz</hi>. . . Let all new
+Emissions be in <hi rend="italic">Bills of a second new Tenor</hi>, two for three of
+the first new Tenor, payable in Silver or Gold after the last of
+<hi rend="italic">December A</hi>. . . if not paid in by Taxes as above.  Thus
+<hi rend="italic">Silver will be brought to</hi>13 <hi rend="italic">s</hi>. 4 <hi rend="italic">d. per Oz</hi>. .
+. Finally, after some Years let all future Emissions be in <hi rend="italic">Bills of
+a third new Tenor</hi> 1 for 2 of the second Tenor, payable in Silver or
+Gold after the last of <hi rend="italic">December A</hi>. . . with the forementioned
+Circumstances; <hi rend="italic">Silver will then be</hi> 6 <hi rend="italic">s</hi>. 8 <hi rend="italic">d. per
+Oz</hi>.  It is plain, that &#163;100,000 of this last Money, will be a
+larger <hi rend="italic">Medium</hi> of Trade, than &#163;400,000 of the present
+Currency.<hi rend="italic"> This promises best, and would be a
+
+<pb n="348"/>
+gradual, gentle, and easy Method of making our Currency as valuable as
+that of Virginia,</hi> which is the most valuable of all our Colony
+Currencies.
+
+</p><p>4. <hi rend="italic">The Parliament of Great Britain</hi> are at this Time,
+perhaps, taking some more <hi rend="italic">summary Method</hi> of setling our
+<hi rend="italic">Plantation Currencies</hi> towards redressing the injured Merchants
+at Home, and the fair Dealers in the Colonies; they made some Steps
+towards it last Sessions of Parliament.  It is probable they may abridge
+the Plantations of this Privilege which they have assumed, of making
+their <hi rend="italic">publick Bills of Credit, a Tender</hi> at any Rate they please
+to impose, which is <hi rend="italic">equal to the King's Prerogative in Coins</hi>.
+And to prevent private Societies, from <hi rend="italic">bubbling</hi> the People;
+perhaps, they may extend, the Act 6th of <hi rend="italic">Annae</hi>, to the
+Plantations, viz. <hi rend="italic">That no Partnership exceeding Six shall act as
+Bankers</hi>.
+
+</p><p>II.  <hi rend="italic">Private Schemes</hi>.  It happens unluckily for our
+Paper Money Advocates, that, at this Time when the Parliament are about
+redressing these Grievances, they should <hi rend="italic">madly</hi> advance many
+more Schemes (some fraudulent, some foolish, and some good, but
+impracticable) than ever before for multiplying of Paper Money; this
+makes good the old Saying, <hi rend="italic">Quem Deus vult perdere, prius
+dementat</hi>. </p>
+
+<pb n="349"/>
+<p>All <hi rend="italic">Private Banks</hi> for large Sums upon Subscription, have the
+same bad Consequence which attends publick Loans, viz. <hi rend="italic">a Snare to
+the People</hi>, by giving the unwary, and the Prodigal, Opportunities
+of borrowing, that is, of involving &amp; ruining themselves.  Our
+<hi rend="italic">Legislature</hi> from Experience, are become sensible of this Error,
+and for many Years have issued no publick Loans.
+
+</p><p>1 <hi rend="italic">Land Banks</hi>.  The famous Mr. <hi rend="italic">Law</hi>, noted for
+his Knowledge in the Chances of the Games called Hazard, and for these
+Fallacies called Sharping: in favour of a Land Bank, being preferable to
+Silver, says, That<hi rend="italic"> Land mortgaged serves for Money, and
+Culture</hi>, or Produce at the same Time; whereas Silver cannot serve
+for Money, and Plate at the same Time.  As he did not understand Trade,
+he did not consider that<hi rend="italic"> Silver serves for Money and
+Merchandize</hi> at the same Time, and that Trade is more profitable
+than Agriculture.  A Land Credit or Bank may do in a Country of no
+Trade: but it is ridiculous to imagine that it can serve as a
+<hi rend="italic">Medium</hi> for foreign Commerce: it cannot be shipt off as
+Merchandize or Returns, as is the Case of Silver; it cannot be
+transferred by Bills of Exchange; for so many Ounces of Silver received
+in <hi rend="italic">Boston</hi>, I can draw upon my Correspondent for so many Ounces
+of Silver payable in <hi rend="italic">London</hi>, but for so many Acres of Land made
+over to me in <hi rend="italic">New England</hi>, I cannot draw upon England for any
+Number of Acres, quantity and quality adjusted.
+
+</p><p>In a Country where the Denominations of their Currency
+depreciates, Land being fixed in itself, rises in Denomination Value,
+whilst what is owing upon the land
+
+<pb n="350"/>
+becomes so much less as the Denominations do depreciate: Hence it is,
+that a Land Bank is so much desired, by those who are in Debt or
+Mortgage, or who desire to run in Debt by Mortgaging their Lands.
+
+</p><p>2. <hi rend="italic">A Credit or Bank of Produce, and Manufacture</hi>, will
+never answer in a Country where Idleness and Indolence prevails; a late
+large<hi rend="italic"> Bounty upon Hemp</hi> did not encourage the raising of any
+considerable Quantity thereof: it would prove a most perplexed labouring
+Affair, <hi rend="italic">viz</hi>. inspecting the Quality, settling from Time to Time
+the Market Price, Deficiencies in Case of bad Crops, and other
+Misfortunes: Notes payable at these <hi rend="italic">unweildy Stores</hi>, would be
+of the same nature, and attended with the same Inconveniencies, as the
+so much deservedly exclaimed against Shop Notes.  In the Infancy of
+Countries, particularly of this <hi rend="italic">Province</hi>, some Part of the
+Taxes were paid in Produce, called <hi rend="italic">Stock in the Treasury</hi>; but
+as our foreign Trade did grow, it was found most convenient to
+discontinue it.
+
+</p><p>I shall exemplify our present Projections of Banks upon Land,
+Produce, or Manufacture; by only one Instance.  <hi rend="italic">The Bubble of</hi>
+&#163;450,000<hi rend="italic"> upon Land and
+Produce</hi>, which fills by Subscriptions a great Pace; the Subscribers
+by their Articles give their <hi rend="italic">Twelve Directors a Negative in the
+whole Management;</hi> a Power never before heard of in any Society of
+Bankers or joint Stocks; it is true, they deserve it; because, by the
+Face of their Bills, the Directors or <hi rend="italic">Signers promise to circulate
+the whole</hi>&#163;450,000.  But is it possible, that any Man who gives
+himself the Trouble of thinking seriously, can
+
+<pb n="351"/>
+imagine, that 12 Men of small Fortunes (who perhaps do not trade for
+&#163;30,000 per Ann.) should in their Trade, immediately circulate
+&#163;450,000?  Can it be supposed possible to <hi rend="italic">negotiate Notes of so
+great a Sum, upon so small a Bottom?</hi> In short, this Scheme is so
+full of Inconsistencies, that it seems to<hi rend="italic"> exceed any of the
+Bubbles</hi> (which were upwards of 100 in Number) projected in
+<hi rend="italic">London</hi>, in that Year of Bubbles <hi rend="italic">A.</hi>1720.
+
+</p><p>3. <hi rend="italic">A Credit upon a Silver Fund</hi> well regulated as to
+Periods and Discounts, would answer, if there were no concomitant bad
+Currency; but as a bad Currency already prevails, and will in all
+probability increase; by two Years Charges of this Government to be
+emitted at once; by a &#163;100,000 <hi rend="italic">Rhode-Island</hi> Emission,
+which they may throw in upon us at Pleasure; and by a new Emission of
+&#163;100,000 from <hi rend="italic">Connecticut</hi>, which they have been
+endeavouring from Time to Time, by trying to drop a majority of the
+present <hi rend="italic">Assistants</hi> or Council; Silver will then rise in Price,
+and these Notes on a Silver Bottom becoming more valuable, will be
+hoarded up, lie dormant, and<hi rend="italic"> answer no Design of a Currency:</hi> It
+is true,<hi rend="italic"> they will secure to the Possessor his Principal with a
+growing Interest;</hi> but as to Currency they are worse than common
+Bills, which being daily let upon Bond to circulate and promote
+Business, tho' at the same Time the Owner or Creditor sinks part of his
+Principal, by its
+
+<pb n="352"/>
+depreciating; and his Interest is ill paid from a general insensibility
+of Discredit.  <hi rend="italic">Such Bills will never obtain a Currency, until they
+force a Discount upon the bad Currency</hi>.
+
+</p><p>An Experiment of this Kind, has already been made by the<hi rend="italic">
+Merchants Notes</hi> so called, without any good Effect: they never
+became a Currency; they prov'd a Snare to many of the Subscribers and
+Borrowers; Silver did rise in Price as much and perhaps more, than if
+they had never been emitted.  Any Scheme of this Nature if upon a longer
+Period, will on that Account, be the more defective.
+
+</p><p>If the Scheme for emitting Company Notes or <hi rend="italic">Bills, to be paid
+after </hi>15<hi rend="italic"> Years, with Silver at </hi>20<hi rend="italic"> s. per Oz.</hi> can
+be so contrived, as to bring a growing Discount upon the bad Currency;
+it will be of the greatest Service to this Province.  It seems to bid
+fair for it (I am no Undertaker nor Promoter thereof, and therefore may
+be deeded <hi rend="italic">impartial</hi>) the Undertakers are Men of known Probity,
+of the best Estates and of the largest Trade in this Place: by their
+Articles they oblige themselves under high pecuniary Penalties, to
+circulate these Bills at a certain annually growing Value, until they
+arrive at 20 s. per Oz. and, in conformity to a late Law of this
+Province, to refuse all future Emissions of the neighbouring
+Governments, unless founded upon a Silver Bottom.
+
+</p><p><hi rend="italic">It may perhaps be advisable to suspend the Execution of any
+Paper Money Schemes, as the Affair of Colony Paper Credit, is this
+present Sessions, under the immediate
+
+<pb n="353"/>
+Consideration of the Parliament of Great Britain, our supreme and
+absolute Lawgiver: lest the Subscribers (Undertakers) or Possessors of
+these Bills and Notes should suffer some considerable Damage, by their
+peremptory Suppression</hi>.
+
+</p><p>The Projectors of the many various private Banks for Currency,
+seem to presume too much upon the Indulgence or <hi rend="italic">Connivance or our
+Legislature</hi>: Some audaciously question their Power to prevent the
+People from <hi rend="italic">bubbling</hi> one another, (being as they call it) an
+<hi rend="italic">Act of Liberty and Property to pass and receive Notes of Hand;</hi>
+others impudently impeach the Integrity of the Majority of the
+Legislature, as being in a private Capacity Promoters and Encouragers of
+these <hi rend="italic">Bubbles</hi>.  Doubtless our Legislature, as the <hi rend="italic">natural
+Guardians</hi> of the People, will compassionately prevent their ruining
+themselves; by proper Laws, such as those in <hi rend="italic">Great Britain 6th
+Annae</hi> against Bankers, and sundry Acts against Bubbles; or to go no
+further for a Precedent, that of our neighbouring Colony
+<hi rend="italic">Connecticut, A.</hi> 1733, against private Society or Bank Bills.
+There seems, at least for the present, an absolute Necessity to suppress
+those which will unavoidably have a riotous Consequence; I mean the
+passing upon the unwary, for a valuable Consideration, <hi rend="italic">Bills without
+any true Fund or Bottom:</hi> Such Bills soon stop in Currency, and the
+poor innocent Possessors, the Tradesmen and Artificers, who for special
+Reasons (as they express it) are made their <hi rend="italic">Dupes</hi>, will be
+provoked to use the Persons and Effects
+
+<pb n="354"/>
+of the Projectors and Signers of those Bills in a <hi rend="italic">riotous</hi>
+Manner.  Our Assembly did formerly effectually suppress the pernicious
+Bubbles of private <hi rend="italic">Lotteries</hi>.  Our Law enacted in <hi rend="italic">January,
+A.</hi> 1738, may be extended, so as to comprehend private Societies
+amongst our selves.  <hi rend="italic">This Act forbids passing or receiving Bills to
+be issued by the neighbouring Governments, unless redeemable by lawful
+Money,</hi> (Silver Proclamation Value)<hi rend="italic"> upon good Security, (to
+appear upon the face of the Bill) within ten Years after their first Emission</hi>.
+
+</p><p>While this Affair of <hi rend="italic">Colony Paper Money</hi> is under
+Consideration of Parliament for Redress; it will appear as a <hi rend="italic">daring
+Presumption</hi>, to proceed to large Emissions, especially in those
+Colonies who have <hi rend="italic">valuable Charters</hi> to lose.  I mention this
+with a particular regard to <hi rend="italic">Connecticut</hi>, who have hitherto
+behaved well; but at present their Eastern Borders being tainted by a
+bad (I had almost said <hi rend="italic">abandoned</hi>) Neighbourhood, the Colony in
+general ought to be upon their Guard.
+
+</p><p>In redressing this Error, in which many of our Plantations have
+obstinately persisted for many years: it is to be hoped the<hi rend="italic">
+Parliament of Great Britain,</hi> will not use any rigorous sudden
+Methods; but give us Time gently &amp; gradually to extricate our
+Selves; That we may be allowed upon any sudden extraordinary publick
+Exigences to emit <hi rend="italic">Government Notes</hi> to be a Tender only in
+publick Taxes, and to be called in as soon as may be by subsequent
+Taxes: that publick bills may never be a Tender in Trade and Business.
+As to the calling in of publick Bills already extant; in those
+
+<pb n="355"/>
+Governments where the Periods are short (<hi rend="italic">in New-Hampshire,
+Massachusetts-Bay, and Connecticut</hi>, they do not extend beyond
+<hi rend="italic">A</hi>. 1742) they may be allowed to run their Course: Where the
+Periods are long; if upon <hi rend="italic">Taxes</hi>, as the Governments have the
+Privilege of Taxing at any Time, they may be required to assess the same
+at any Time sooner; if upon <hi rend="italic">Loan</hi> the Borrowers may be obliged
+to pay in yearly for a few Years a certain Part of the Debt, but if they
+insist upon the original long Period, let the Governments give
+<hi rend="italic">Premium's</hi> upon all such Bills, as they are brought in; thus few
+or none of these Bills will be left with the Borrowers, and at the
+Expiration of the Periods of the Loans, they must pay in lawful Money
+Proclamation Value; which they will by all Means endeavour to avoid, by
+paying as is directed.
+
+</p><p>FINIS.</p>
+
+</div1>
+</body>
+</text>
+</TEI.2>

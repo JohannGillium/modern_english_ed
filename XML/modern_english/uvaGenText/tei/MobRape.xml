@@ -1,0 +1,2875 @@
+<?xml version="1.0"?>
+
+<?dlps id="MobRape"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOnum SYSTEM "http://text.lib.virginia.edu/charent/iso-num.ent"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+
+]>
+
+<TEI.2 id="MobRape">
+<teiHeader type="migrated" creator="Etext">
+<fileDesc>
+<titleStmt>
+<title type="main">The Rape of Lucrece</title>
+<title type="sort">rape of lucrece</title>
+<author>Shakespeare, William, 1564-1616</author>
+<editor>Clark, William George (1821-1878) and William Aldis Wright (1831-1914)</editor>
+<respStmt>
+<resp>Creation of machine-readable version:</resp>
+<name>Grady Ward, Moby Lexical Project</name>
+<resp>Conversion to TEI.2-conformant markup:</resp>
+<name>University of Virginia Library Electronic Text Center.</name>
+</respStmt>
+</titleStmt>
+<extent>ca. <num type="kilobytes">106</num> kilobytes</extent>
+<publicationStmt>
+<publisher>University of Virginia Library</publisher>
+<pubPlace>Charlottesville, Virginia</pubPlace>
+<idno type="ETC">MobRape</idno>
+<date value="1998">1998</date>
+<availability status="public">
+<p n="copyright">Copyright &copy; 1998 by the Rector and Visitors of the University of Virginia</p>
+<p n="access">Publicly accessible</p>
+</availability>
+<idno type="uva-pid">uva-lib:476224</idno>
+</publicationStmt>
+<seriesStmt>
+<title>University of Virginia Library, Text collection</title>
+<idno type="uva-set">UVA-LIB-Text</idno>
+</seriesStmt>
+<notesStmt>
+<note>
+<p>We have been unable to verify conclusively the print source for the electronic texts associated with the "Moby Lexical
+Project," but we believe them to be based on the "Globe Edition" of the Works of William Shakespeare edited by William George Clark
+and William Aldis Wright.  This electronic edition of "The Rape of Lucrece" was checked against the print source noted in the "Source
+Description" field.</p>
+</note>
+</notesStmt>
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title type="main">The Rape of Lucrece</title>
+<title type="sort">rape of lucrece</title>
+<author>William Shakespeare</author>
+<editor>Clark, William George (1821-1878) and William Aldis Wright (1831-1914)</editor>
+</titleStmt>
+<editionStmt>
+<p>The Globe Edition</p>
+</editionStmt>
+<extent>viii, 1075 p. 18 cm.</extent>
+<publicationStmt>
+<publisher>MacMillan and Co.</publisher>
+<pubPlace>Cambridge</pubPlace>
+<date value="1866">1866</date>
+<idno type="callNo">Source copy consulted: UVa Library, PR2753 .C6 1866</idno>
+</publicationStmt>
+<notesStmt>
+<note>
+<p>[Notes about the original source]</p>
+</note>
+</notesStmt>
+</biblFull>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+</projectDesc>
+<editorialDecl>
+<p id="ETC">Some keywords in the header are a local Electronic Text Center scheme  to aid in establishing analytical groupings.</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date value="">
+<dateRange from="1593" to="1594">1593-1594</dateRange>
+</date>
+</creation>
+<langUsage>
+<language id="eng" usage="main">English</language>
+</langUsage>
+<textClass>
+<keywords>
+<term>fiction</term>
+<term>drama</term>
+<term>masculine</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change>
+<date value="1998-10">October 1998</date>
+<respStmt>
+<resp>corrector</resp>
+<name>Stephen Ramsay, Electronic Text Center</name>
+</respStmt>
+<item>Added TEI header and tags.</item>
+</change>
+<change>
+<date value="2005-07">July 2005</date>
+<respStmt>
+<resp>Corrector</resp>
+<name>John Ivor Carlson</name>
+</respStmt>
+<item>Converted to XML and/or checked tags.</item>
+</change>
+<change>
+<date value="2007-09">September 2007</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Ethan Gruber, University of Virginia Library</name>
+</respStmt>
+<item>Converted XML markup from TEI Lite to uva-dl-tei (TEI P4 with local customizations).</item>
+</change>
+<change>
+<date value="2008-01">January 2008</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Greg Murray, University of Virginia Library</name>
+</respStmt>
+<item>Programmatically updated TEI header markup (but not header content) for minimal compliance with current QA requirements.</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text id="d1">
+
+
+<front id="d2">
+
+<div1 type="dedication" id="d3">
+<head>TO THE<lb/>
+RIGHT HONORABLE HENRY WRIOTHESLY,<lb/>
+Earl of Southampton, and Baron of Tichfield.<lb/>
+</head>
+
+
+<p>The love I dedicate to your lordship is without end; whereof
+this pamphlet, without beginning, is but a superfluous moiety.
+The warrant I have of your honourable disposition, not the worth
+of my untutored lines, makes it assured of acceptance. What I
+have done is yours; what I have to do is yours; being part in
+all I have, devoted yours. Were my worth greater, my duty would
+show greater; meantime, as it is, it is bound to your lordship,
+to whom I wish long life, still lengthened with all happiness.</p>
+
+<closer>
+<salute>Your lordship's in all duty,</salute>
+<signed>WILLIAM SHAKESPEARE.</signed>
+</closer>
+
+</div1>
+
+</front>
+
+<body id="d4">
+<div1 type="argument" id="d5">
+<head>Argument</head>
+
+<p>Lucius Tarquinius, for his excessive pride surnamed Superbus,
+after he had caused his own father-in-law Servius Tullius to be
+cruelly murdered, and, contrary to the Roman laws and customs,
+not requiring or staying for the people's suffrages, had
+possessed himself of the kingdom, went, accompanied with his sons
+and other noblemen of Rome, to besiege Ardea. During which siege
+the principal men of the army meeting one evening at the tent of
+Sextus Tarquinius, the king's son, in their discourses after
+supper every one commended the virtues of his own wife: among
+whom Collatinus extolled the incomparable chastity of his wife
+Lucretia. In that pleasant humour they posted to Rome; and
+intending, by their secret and sudden arrival, to make trial of
+that which every one had before avouched, only Collatinus finds
+his wife, though it were late in the night, spinning amongst her
+maids: the other ladies were all found dancing and revelling, or
+in several disports. Whereupon the noblemen yielded Collatinus
+the victory, and his wife the fame. At that time Sextus
+Tarquinius being inflamed with Lucrece' beauty, yet smothering
+his passions for the present, departed with the rest back to the
+camp; from whence he shortly after privily withdrew himself, and
+was, according to his estate, royally entertained and lodged by
+Lucrece at Collatium. The same night he treacherously stealeth
+into her chamber, violently ravished her, and early in the
+morning speedeth away. Lucrece, in this lamentable plight,
+hastily dispatcheth messengers, one to Rome for her father,
+another to the camp for Collatine. They came, the one
+accompanied with Junius Brutus, the other with Publius Valerius;
+and finding Lucrece attired in mourning habit, demanded the cause
+of her sorrow. She, first taking an oath of them for her
+revenge, revealed the actor, and whole manner of his dealing, and
+withal suddenly stabbed herself. Which done, with one consent
+they all vowed to root out the whole hated family of the
+Tarquins; and bearing the dead body to Rome, Brutus acquainted
+the people with the doer and manner of the vile deed, with a
+bitter invective against the tyranny of the king: wherewith the
+people were so moved, that with one consent and a general
+acclamation the Tarquins were all exiled, and the state
+government changed from kings to consuls.</p>
+
+</div1>
+
+<div1 type="poem" id="d6">
+
+
+<lg type="stanza">
+<l>FROM the besieged Ardea all in post,</l>
+<l>Borne by the trustless wings of false desire,</l>
+<l>Lust-breathed Tarquin leaves the Roman host,</l>
+<l>And to Collatium bears the lightless fire</l>
+<l>Which, in pale embers hid, lurks to aspire</l>
+<l>And girdle with embracing flames the waist</l>
+<l>Of Collatine's fair love, Lucrece the chaste.</l>
+</lg>
+
+<lg type="stanza">
+<l>Haply that name of 'chaste' unhappily set</l>
+<l>This bateless edge on his keen appetite;</l>
+<l>When Collatine unwisely did not let</l>
+<l>To praise the clear unmatched red and white</l>
+<l>Which triumph'd in that sky of his delight,</l>
+<l>Where mortal stars, as bright as heaven's beauties,</l>
+<l>With pure aspects did him peculiar duties.</l>
+</lg>
+
+<lg type="stanza">
+<l>For he the night before, in Tarquin's tent,</l>
+<l>Unlock'd the treasure of his happy state;</l>
+<l>What priceless wealth the heavens had him lent</l>
+<l>In the possession of his beauteous mate;</l>
+<l>Reckoning his fortune at such high-proud rate,</l>
+<l>That kings might be espoused to more fame,</l>
+<l>But king nor peer to such a peerless dame.</l>
+</lg>
+
+<lg type="stanza">
+<l>O happiness enjoy'd but of a few!</l>
+<l>And, if possess'd, as soon decay'd and done</l>
+<l>As is the morning's silver-melting dew</l>
+<l>Against the golden splendor of the sun!</l>
+<l>An expired date, cancell'd ere well begun:</l>
+<l>Honour and beauty, in the owner's arms,</l>
+<l>Are weakly fortress'd from a world of harms.</l>
+</lg>
+
+<lg type="stanza">
+<l>Beauty itself doth of itself persuade</l>
+<l>The eyes of men without an orator;</l>
+<l>What needeth then apologies be made,</l>
+<l>To set forth that which is so singular?</l>
+<l>Or why is Collatine the publisher</l>
+<l>Of that rich jewel he should keep unknown</l>
+<l>From thievish ears, because it is his own?</l>
+</lg>
+
+<lg type="stanza">
+<l>Perchance his boast of Lucrece' sovereignty</l>
+<l>Suggested this proud issue of a king;</l>
+<l>For by our ears our hearts oft tainted be:</l>
+<l>Perchance that envy of so rich a thing,</l>
+<l>Braving compare, disdainfully did sting</l>
+<l>His high-pitch'd thoughts, that meaner men should vaunt</l>
+<l>That golden hap which their superiors want.</l>
+</lg>
+
+<lg type="stanza">
+<l>But some untimely thought did instigate</l>
+<l>His all-too-timeless speed, if none of those:</l>
+<l>His honour, his affairs, his friends, his state,</l>
+<l>Neglected all, with swift intent he goes</l>
+<l>To quench the coal which in his liver glows.</l>
+<l>O rash false heat, wrapp'd in repentant cold,</l>
+<l>Thy hasty spring still blasts, and ne'er grows old!</l>
+</lg>
+
+<lg type="stanza">
+<l>When at Collatium this false lord arrived,</l>
+<l>Well was he welcomed by the Roman dame,</l>
+<l>Within whose face beauty and virtue strived</l>
+<l>Which of them both should underprop her fame:</l>
+<l>When virtue bragg'd, beauty would blush for shame;</l>
+<l>When beauty boasted blushes, in despite</l>
+<l>Virtue would stain that o'er with silver white.</l>
+</lg>
+
+<lg type="stanza">
+<l>But beauty, in that white intituled,</l>
+<l>From Venus' doves doth challenge that fair field:</l>
+<l>Then virtue claims from beauty beauty's red,</l>
+<l>Which virtue gave the golden age to gild</l>
+<l>Their silver cheeks, and call'd it then their shield;</l>
+<l>Teaching them thus to use it in the fight,</l>
+<l>When shame assail'd, the red should fence the white.</l>
+</lg>
+
+<lg type="stanza">
+<l>This heraldry in Lucrece' face was seen,</l>
+<l>Argued by beauty's red and virtue's white</l>
+<l>Of either's colour was the other queen,</l>
+<l>Proving from world's minority their right:</l>
+<l>Yet their ambition makes them still to fight;</l>
+<l>The sovereignty of either being so great,</l>
+<l>That oft they interchange each other's seat.</l>
+</lg>
+
+<lg type="stanza">
+<l>Their silent war of lilies and of roses,</l>
+<l>Which Tarquin view'd in her fair face's field,</l>
+<l>In their pure ranks his traitor eye encloses;</l>
+<l>Where, lest between them both it should be kill'd,</l>
+<l>The coward captive vanquished doth yield</l>
+<l>To those two armies that would let him go,</l>
+<l>Rather than triumph in so false a foe.</l>
+</lg>
+
+<lg type="stanza">
+<l>Now thinks he that her husband's shallow tongue,&mdash;</l>
+<l>The niggard prodigal that praised her so,&mdash;</l>
+<l>In that high task hath done her beauty wrong,</l>
+<l>Which far exceeds his barren skill to show:</l>
+<l>Therefore that praise which Collatine doth owe</l>
+<l>Enchanted Tarquin answers with surmise,</l>
+<l>In silent wonder of still-gazing eyes.</l>
+</lg>
+
+<lg type="stanza">
+<l>This earthly saint, adored by this devil,</l>
+<l>Little suspecteth the false worshipper;</l>
+<l>For unstain'd thoughts do seldom dream on evil;</l>
+<l>Birds never limed no secret bushes fear:</l>
+<l>So guiltless she securely gives good cheer</l>
+<l>And reverend welcome to her princely guest,</l>
+<l>Whose inward ill no outward harm express'd:</l>
+</lg>
+
+<lg type="stanza">
+<l>For that he colour'd with his high estate,</l>
+<l>Hiding base sin in plaits of majesty;</l>
+<l>That nothing in him seem'd inordinate,</l>
+<l>Save something too much wonder of his eye,</l>
+<l>Which, having all, all could not satisfy;</l>
+<l>But, poorly rich, so wanteth in his store,</l>
+<l>That, cloy'd with much, he pineth still for more.</l>
+</lg>
+
+<lg type="stanza">
+<l>But she, that never coped with stranger eyes,</l>
+<l>Could pick no meaning from their parling looks,</l>
+<l>Nor read the subtle-shining secrecies</l>
+<l>Writ in the glassy margents of such books:</l>
+<l>She touch'd no unknown baits, nor fear'd no hooks;</l>
+<l>Nor could she moralize his wanton sight,</l>
+<l>More than his eyes were open'd to the light.</l>
+</lg>
+
+<lg type="stanza">
+<l>He stories to her ears her husband's fame,</l>
+<l>Won in the fields of fruitful Italy;</l>
+<l>And decks with praises Collatine's high name,</l>
+<l>Made glorious by his manly chivalry</l>
+<l>With bruised arms and wreaths of victory:</l>
+<l>Her joy with heaved-up hand she doth express,</l>
+<l>And, wordless, so greets heaven for his success.</l>
+</lg>
+
+<lg type="stanza">
+<l>Far from the purpose of his coming hither,</l>
+<l>He makes excuses for his being there:</l>
+<l>No cloudy show of stormy blustering weather</l>
+<l>Doth yet in his fair welkin once appear;</l>
+<l>Till sable Night, mother of Dread and Fear,</l>
+<l>Upon the world dim darkness doth display,</l>
+<l>And in her vaulty prison stows the Day.</l>
+</lg>
+
+<lg type="stanza">
+<l>For then is Tarquin brought unto his bed,</l>
+<l>Intending weariness with heavy spright;</l>
+<l>For, after supper, long he questioned</l>
+<l>With modest Lucrece, and wore out the night:</l>
+<l>Now leaden slumber with life's strength doth fight;</l>
+<l>And every one to rest themselves betake,</l>
+<l>Save thieves, and cares, and troubled minds, that wake.</l>
+</lg>
+
+<lg type="stanza">
+<l>As one of which doth Tarquin lie revolving</l>
+<l>The sundry dangers of his will's obtaining;</l>
+<l>Yet ever to obtain his will resolving,</l>
+<l>Though weak-built hopes persuade him to abstaining:</l>
+<l>Despair to gain doth traffic oft for gaining;</l>
+<l>And when great treasure is the meed proposed,</l>
+<l>Though death be adjunct, there's no death supposed.</l>
+</lg>
+
+<lg type="stanza">
+<l>Those that much covet are with gain so fond,</l>
+<l>For what they have not, that which they possess</l>
+<l>They scatter and unloose it from their bond,</l>
+<l>And so, by hoping more, they have but less;</l>
+<l>Or, gaining more, the profit of excess</l>
+<l>Is but to surfeit, and such griefs sustain,</l>
+<l>That they prove bankrupt in this poor-rich gain.</l>
+</lg>
+
+<lg type="stanza">
+<l>The aim of all is but to nurse the life</l>
+<l>With honour, wealth, and ease, in waning age;</l>
+<l>And in this aim there is such thwarting strife,</l>
+<l>That one for all, or all for one we gage;</l>
+<l>As life for honour in fell battle's rage;</l>
+<l>Honour for wealth; and oft that wealth doth cost</l>
+<l>The death of all, and all together lost.</l>
+</lg>
+
+<lg type="stanza">
+<l>So that in venturing ill we leave to be</l>
+<l>The things we are for that which we expect;</l>
+<l>And this ambitious foul infirmity,</l>
+<l>In having much, torments us with defect</l>
+<l>Of that we have: so then we do neglect</l>
+<l>The thing we have; and, all for want of wit,</l>
+<l>Make something nothing by augmenting it.</l>
+</lg>
+
+<lg type="stanza">
+<l>Such hazard now must doting Tarquin make,</l>
+<l>Pawning his honour to obtain his lust;</l>
+<l>And for himself himself be must forsake:</l>
+<l>Then where is truth, if there be no self-trust?</l>
+<l>When shall he think to find a stranger just,</l>
+<l>When he himself himself confounds, betrays</l>
+<l>To slanderous tongues and wretched hateful days?</l>
+</lg>
+
+<lg type="stanza">
+<l>Now stole upon the time the dead of night,</l>
+<l>When heavy sleep had closed up mortal eyes:</l>
+<l>No comfortable star did lend his light,</l>
+<l>No noise but owls' and wolves' death-boding cries;</l>
+<l>Now serves the season that they may surprise</l>
+<l>The silly lambs: pure thoughts are dead and still,</l>
+<l>While lust and murder wake to stain and kill.</l>
+</lg>
+
+<lg type="stanza">
+<l>And now this lustful lord leap'd from his bed,</l>
+<l>Throwing his mantle rudely o'er his arm;</l>
+<l>Is madly toss'd between desire and dread;</l>
+<l>Th' one sweetly flatters, th' other feareth harm;</l>
+<l>But honest fear, bewitch'd with lust's foul charm,</l>
+<l>Doth too too oft betake him to retire,</l>
+<l>Beaten away by brain-sick rude desire.</l>
+</lg>
+
+<lg type="stanza">
+<l>His falchion on a flint he softly smiteth,</l>
+<l>That from the cold stone sparks of fire do fly;</l>
+<l>Whereat a waxen torch forthwith he lighteth,</l>
+<l>Which must be lode-star to his lustful eye;</l>
+<l>And to the flame thus speaks advisedly,</l>
+<l>'As from this cold flint I enforced this fire,</l>
+<l>So Lucrece must I force to my desire.'</l>
+</lg>
+
+<lg type="stanza">
+<l>Here pale with fear he doth premeditate</l>
+<l>The dangers of his loathsome enterprise,</l>
+<l>And in his inward mind he doth debate</l>
+<l>What following sorrow may on this arise:</l>
+<l>Then looking scornfully, he doth despise</l>
+<l>His naked armour of still-slaughter'd lust,</l>
+<l>And justly thus controls his thoughts unjust:</l>
+</lg>
+
+<lg type="stanza">
+<l>'Fair torch, burn out thy light, and lend it not</l>
+<l>To darken her whose light excelleth thine:</l>
+<l>And die, unhallow'd thoughts, before you blot</l>
+<l>With your uncleanness that which is divine;</l>
+<l>Offer pure incense to so pure a shrine:</l>
+<l>Let fair humanity abhor the deed</l>
+<l>That spots and stains love's modest snow-white weed.</l>
+</lg>
+
+<lg type="stanza">
+<l>'O shame to knighthood and to shining arms!</l>
+<l>O foul dishonour to my household's grave!</l>
+<l>O impious act, including all foul harms!</l>
+<l>A martial man to be soft fancy's slave!</l>
+<l>True valour still a true respect should have;</l>
+<l>Then my digression is so vile, so base,</l>
+<l>That it will live engraven in my face.</l>
+</lg>
+
+<lg type="stanza">
+<l>'Yea, though I die, the scandal will survive,</l>
+<l>And be an eye-sore in my golden coat;</l>
+<l>Some loathsome dash the herald will contrive,</l>
+<l>To cipher me how fondly I did dote;</l>
+<l>That my posterity, shamed with the note</l>
+<l>Shall curse my bones, and hold it for no sin</l>
+<l>To wish that I their father had not bin.</l>
+</lg>
+
+<lg type="stanza">
+<l>'What win I, if I gain the thing I seek?</l>
+<l>A dream, a breath, a froth of fleeting joy.</l>
+<l>Who buys a minute's mirth to wail a week?</l>
+<l>Or sells eternity to get a toy?</l>
+<l>For one sweet grape who will the vine destroy?</l>
+<l>Or what fond beggar, but to touch the crown,</l>
+<l>Would with the sceptre straight be strucken down?</l>
+</lg>
+
+<lg type="stanza">
+<l>'If Collatinus dream of my intent,</l>
+<l>Will he not wake, and in a desperate rage</l>
+<l>Post hither, this vile purpose to prevent?</l>
+<l>This siege that hath engirt his marriage,</l>
+<l>This blur to youth, this sorrow to the sage,</l>
+<l>This dying virtue, this surviving shame,</l>
+<l>Whose crime will bear an ever-during blame?</l>
+</lg>
+
+<lg type="stanza">
+<l>'O, what excuse can my invention make,</l>
+<l>When thou shalt charge me with so black a deed?</l>
+<l>Will not my tongue be mute, my frail joints shake,</l>
+<l>Mine eyes forego their light, my false heart bleed?</l>
+<l>The guilt being great, the fear doth still exceed;</l>
+<l>And extreme fear can neither fight nor fly,</l>
+<l>But coward-like with trembling terror die.</l>
+</lg>
+
+
+<lg type="stanza">
+<l>'Had Collatinus kill'd my son or sire,</l>
+<l>Or lain in ambush to betray my life,</l>
+<l>Or were he not my dear friend, this desire</l>
+<l>Might have excuse to work upon his wife,</l>
+<l>As in revenge or quittal of such strife:</l>
+<l>But as he is my kinsman, my dear friend,</l>
+<l>The shame and fault finds no excuse nor end.</l>
+</lg>
+
+<lg type="stanza">
+<l>'Shameful it is; ay, if the fact be known:</l>
+<l>Hateful it is; there is no hate in loving:</l>
+<l>I'll beg her love; but she is own:</l>
+<l>The worst is but denial and reproving:</l>
+<l>My will is strong, past reason's weak removing.</l>
+<l>Who fears a sentence or an old man's saw</l>
+<l>Shall by a painted cloth be kept in awe.'</l>
+</lg>
+
+<lg type="stanza">
+<l>Thus, graceless, holds he disputation</l>
+<l>'Tween frozen conscience and hot-burning will,</l>
+<l>And with good thoughts make dispensation,</l>
+<l>Urging the worser sense for vantage still;</l>
+<l>Which in a moment doth confound and kill</l>
+<l>All pure effects, and doth so far proceed,</l>
+<l>That what is vile shows like a virtuous deed.</l>
+</lg>
+
+<lg type="stanza">
+<l>Quoth he, 'She took me kindly by the hand,</l>
+<l>And gazed for tidings in my eager eyes,</l>
+<l>Fearing some hard news from the warlike band,</l>
+<l>Where her beloved Collatinus lies.</l>
+<l>O, how her fear did make her colour rise!</l>
+<l>First red as roses that on lawn we lay,</l>
+<l>Then white as lawn, the roses took away.</l>
+</lg>
+
+<lg type="stanza">
+<l>'And how her hand, in my hand being lock'd</l>
+<l>Forced it to tremble with her loyal fear!</l>
+<l>Which struck her sad, and then it faster rock'd,</l>
+<l>Until her husband's welfare she did hear;</l>
+<l>Whereat she smiled with so sweet a cheer,</l>
+<l>That had Narcissus seen her as she stood,</l>
+<l>Self-love had never drown'd him in the flood.</l>
+</lg>
+
+<lg type="stanza">
+<l>'Why hunt I then for colour or excuses?</l>
+<l>All orators are dumb when beauty pleadeth;</l>
+<l>Poor wretches have remorse in poor abuses;</l>
+<l>Love thrives not in the heart that shadows dreadeth:</l>
+<l>Affection is my captain, and he leadeth;</l>
+<l>And when his gaudy banner is display'd,</l>
+<l>The coward fights and will not be dismay'd.</l>
+</lg>
+
+<lg type="stanza">
+<l>'Then, childish fear, avaunt! debating, die!</l>
+<l>Respect and reason, wait on wrinkled age!</l>
+<l>My heart shall never countermand mine eye:</l>
+<l>Sad pause and deep regard beseem the sage;</l>
+<l>My part is youth, and beats these from the stage:</l>
+<l>Desire my pilot is, beauty my prize;</l>
+<l>Then who fears sinking where such treasure lies?'</l>
+</lg>
+
+<lg type="stanza">
+<l>As corn o'ergrown by weeds, so heedful fear</l>
+<l>Is almost choked by unresisted lust.</l>
+<l>Away he steals with open listening ear,</l>
+<l>Full of foul hope and full of fond mistrust;</l>
+<l>Both which, as servitors to the unjust,</l>
+<l>So cross him with their opposite persuasion,</l>
+<l>That now he vows a league, and now invasion.</l>
+</lg>
+
+<lg type="stanza">
+<l>Within his thought her heavenly image sits,</l>
+<l>And in the self-same seat sits Collatine:</l>
+<l>That eye which looks on her confounds his wits;</l>
+<l>That eye which him beholds, as more divine,</l>
+<l>Unto a view so false will not incline;</l>
+<l>But with a pure appeal seeks to the heart,</l>
+<l>Which once corrupted takes the worser part;</l>
+</lg>
+
+<lg type="stanza">
+<l>And therein heartens up his servile powers,</l>
+<l>Who, flatter'd by their leader's jocund show,</l>
+<l>Stuff up his lust, as minutes fill up hours;</l>
+<l>And as their captain, so their pride doth grow,</l>
+<l>Paying more slavish tribute than they owe.</l>
+<l>By reprobate desire thus madly led,</l>
+<l>The Roman lord marcheth to Lucrece' bed.</l>
+</lg>
+
+<lg type="stanza">
+<l>The locks between her chamber and his will,</l>
+<l>Each one by him enforced, retires his ward;</l>
+<l>But, as they open, they all rate his ill,</l>
+<l>Which drives the creeping thief to some regard:</l>
+<l>The threshold grates the door to have him heard;</l>
+<l>Night-wandering weasels shriek to see him there;</l>
+<l>They fright him, yet he still pursues his fear.</l>
+</lg>
+
+<lg type="stanza">
+<l>As each unwilling portal yields him way,</l>
+<l>Through little vents and crannies of the place</l>
+<l>The wind wars with his torch to make him stay,</l>
+<l>And blows the smoke of it into his face,</l>
+<l>Extinguishing his conduct in this case;</l>
+<l>But his hot heart, which fond desire doth scorch,</l>
+<l>Puffs forth another wind that fires the torch:</l>
+</lg>
+
+<lg type="stanza">
+<l>And being lighted, by the light he spies</l>
+<l>Lucretia's glove, wherein her needle sticks:</l>
+<l>He takes it from the rushes where it lies,</l>
+<l>And griping it, the needle his finger pricks;</l>
+<l>As who should say 'This glove to wanton tricks</l>
+<l>Is not inured; return again in haste;</l>
+<l>Thou see'st our mistress' ornaments are chaste.'</l>
+</lg>
+
+<lg type="stanza">
+<l>But all these poor forbiddings could not stay him;</l>
+<l>He in the worst sense construes their denial:</l>
+<l>The doors, the wind, the glove, that did delay him,</l>
+<l>He takes for accidental things of trial;</l>
+<l>Or as those bars which stop the hourly dial,</l>
+<l>Who with a lingering slay his course doth let,</l>
+<l>Till every minute pays the hour his debt.</l>
+</lg>
+
+<lg type="stanza">
+<l>'So, so,' quoth he, 'these lets attend the time,</l>
+<l>Like little frosts that sometime threat the spring,</l>
+<l>To add a more rejoicing to the prime,</l>
+<l>And give the sneaped birds more cause to sing.</l>
+<l>Pain pays the income of each precious thing;</l>
+<l>Huge rocks, high winds, strong pirates, shelves and sands,</l>
+<l>The merchant fears, ere rich at home he lands.'</l>
+</lg>
+
+<lg type="stanza">
+<l>Now is he come unto the chamber-door,</l>
+<l>That shuts him from the heaven of his thought,</l>
+<l>Which with a yielding latch, and with no more,</l>
+<l>Hath barr'd him from the blessed thing be sought.</l>
+<l>So from himself impiety hath wrought,</l>
+<l>That for his prey to pray he doth begin,</l>
+<l>As if the heavens should countenance his sin.</l>
+</lg>
+
+<lg type="stanza">
+<l>But in the midst of his unfruitful prayer,</l>
+<l>Having solicited th' eternal power</l>
+<l>That his foul thoughts might compass his fair fair,</l>
+<l>And they would stand auspicious to the hour,</l>
+<l>Even there he starts: quoth he, 'I must deflower:</l>
+<l>The powers to whom I pray abhor this fact,</l>
+<l>How can they then assist me in the act?</l>
+</lg>
+
+<lg type="stanza">
+<l>'Then Love and Fortune be my gods, my guide!</l>
+<l>My will is back'd with resolution:</l>
+<l>Thoughts are but dreams till their effects be tried;</l>
+<l>The blackest sin is clear'd with absolution;</l>
+<l>Against love's fire fear's frost hath dissolution.</l>
+<l>The eye of heaven is out, and misty night</l>
+<l>Covers the shame that follows sweet delight.'</l>
+</lg>
+
+<lg type="stanza">
+<l>This said, his guilty hand pluck'd up the latch,</l>
+<l>And with his knee the door he opens wide.</l>
+<l>The dove sleeps fast that this night-owl will catch:</l>
+<l>Thus treason works ere traitors be espied.</l>
+<l>Who sees the lurking serpent steps aside;</l>
+<l>But she, sound sleeping, fearing no such thing,</l>
+<l>Lies at the mercy of his mortal sting.</l>
+</lg>
+
+<lg type="stanza">
+<l>Into the chamber wickedly he stalks,</l>
+<l>And gazeth on her yet unstained bed.</l>
+<l>The curtains being close, about he walks,</l>
+<l>Rolling his greedy eyeballs in his head:</l>
+<l>By their high treason is his heart misled;</l>
+<l>Which gives the watch-word to his hand full soon</l>
+<l>To draw the cloud that hides the silver moon.</l>
+</lg>
+
+<lg type="stanza">
+<l>Look, as the fair and fiery-pointed sun,</l>
+<l>Rushing from forth a cloud, bereaves our sight;</l>
+<l>Even so, the curtain drawn, his eyes begun</l>
+<l>To wink, being blinded with a greater light:</l>
+<l>Whether it is that she reflects so bright,</l>
+<l>That dazzleth them, or else some shame supposed;</l>
+<l>But blind they are, and keep themselves enclosed.</l>
+</lg>
+
+<lg type="stanza">
+<l>O, had they in that darksome prison died!</l>
+<l>Then had they seen the period of their ill;</l>
+<l>Then Collatine again, by Lucrece' side,</l>
+<l>In his clear bed might have reposed still:</l>
+<l>But they must ope, this blessed league to kill;</l>
+<l>And holy-thoughted Lucrece to their sight</l>
+<l>Must sell her joy, her life, her world's delight.</l>
+</lg>
+
+<lg type="stanza">
+<l>Her lily hand her rosy cheek lies under,</l>
+<l>Cozening the pillow of a lawful kiss;</l>
+<l>Who, therefore angry, seems to part in sunder,</l>
+<l>Swelling on either side to want his bliss;</l>
+<l>Between whose hills her head entombed is:</l>
+<l>Where, like a virtuous monument, she lies,</l>
+<l>To be admired of lewd unhallow'd eyes.</l>
+</lg>
+
+<lg type="stanza">
+<l>Without the bed her other fair hand was,</l>
+<l>On the green coverlet; whose perfect white</l>
+<l>Show'd like an April daisy on the grass,</l>
+<l>With pearly sweat, resembling dew of night.</l>
+<l>Her eyes, like marigolds, had sheathed their light,</l>
+<l>And canopied in darkness sweetly lay,</l>
+<l>Till they might open to adorn the day.</l>
+</lg>
+
+<lg type="stanza">
+<l>Her hair, like golden threads, play'd with her breath;</l>
+<l>O modest wantons! wanton modesty!</l>
+<l>Showing life's triumph in the map of death,</l>
+<l>And death's dim look in life's mortality:</l>
+<l>Each in her sleep themselves so beautify,</l>
+<l>As if between them twain there were no strife,</l>
+<l>But that life lived in death, and death in life.</l>
+</lg>
+
+<lg type="stanza">
+<l>Her breasts, like ivory globes circled with blue,</l>
+<l>A pair of maiden worlds unconquered,</l>
+<l>Save of their lord no bearing yoke they knew,</l>
+<l>And him by oath they truly honoured.</l>
+<l>These worlds in Tarquin new ambition bred;</l>
+<l>Who, like a foul ursurper, went about</l>
+<l>From this fair throne to heave the owner out.</l>
+</lg>
+
+<lg type="stanza">
+<l>What could he see but mightily he noted?</l>
+<l>What did he note but strongly he desired?</l>
+<l>What he beheld, on that he firmly doted,</l>
+<l>And in his will his wilful eye he tired.</l>
+<l>With more than admiration he admired</l>
+<l>Her azure veins, her alabaster skin,</l>
+<l>Her coral lips, her snow-white dimpled chin.</l>
+</lg>
+
+<lg type="stanza">
+<l>As the grim lion fawneth o'er his prey,</l>
+<l>Sharp hunger by the conquest satisfied,</l>
+<l>So o'er this sleeping soul doth Tarquin stay,</l>
+<l>His rage of lust by gazing qualified;</l>
+<l>Slack'd, not suppress'd; for standing by her side,</l>
+<l>His eye, which late this mutiny restrains,</l>
+<l>Unto a greater uproar tempts his veins:</l>
+</lg>
+
+<lg type="stanza">
+<l>And they, like straggling slaves for pillage fighting,</l>
+<l>Obdurate vassals fell exploits effecting,</l>
+<l>In bloody death and ravishment delighting,</l>
+<l>Nor children's tears nor mothers' groans respecting,</l>
+<l>Swell in their pride, the onset still expecting:</l>
+<l>Anon his beating heart, alarum striking,</l>
+<l>Gives the hot charge and bids them do their liking.</l>
+</lg>
+
+<lg type="stanza">
+<l>His drumming heart cheers up his burning eye,</l>
+<l>His eye commends the leading to his hand;</l>
+<l>His hand, as proud of such a dignity,</l>
+<l>Smoking with pride, march'd on to make his stand</l>
+<l>On her bare breast, the heart of all her land;</l>
+<l>Whose ranks of blue veins, as his hand did scale,</l>
+<l>Left there round turrets destitute and pale.</l>
+</lg>
+
+<lg type="stanza">
+<l>They, mustering to the quiet cabinet</l>
+<l>Where their dear governess and lady lies,</l>
+<l>Do tell her she is dreadfully beset,</l>
+<l>And fright her with confusion of their cries:</l>
+<l>She, much amazed, breaks ope her lock'd-up eyes,</l>
+<l>Who, peeping forth this tumult to behold,</l>
+<l>Are by his flaming torch dimm'd and controll'd.</l>
+</lg>
+
+<lg type="stanza">
+<l>Imagine her as one in dead of night</l>
+<l>From forth dull sleep by dreadful fancy waking,</l>
+<l>That thinks she hath beheld some ghastly sprite,</l>
+<l>Whose grim aspect sets every joint a-shaking;</l>
+<l>What terror or 'tis! but she, in worser taking,</l>
+<l>From sleep disturbed, heedfully doth view</l>
+<l>The sight which makes supposed terror true.</l>
+</lg>
+
+<lg type="stanza">
+<l>Wrapp'd and confounded in a thousand fears,</l>
+<l>Like to a new-kill'd bird she trembling lies;</l>
+<l>She dares not look; yet, winking, there appears</l>
+<l>Quick-shifting antics, ugly in her eyes:</l>
+<l>Such shadows are the weak brain's forgeries;</l>
+<l>Who, angry that the eyes fly from their lights,</l>
+<l>In darkness daunts them with more dreadful sights.</l>
+</lg>
+
+<lg type="stanza">
+<l>His hand, that yet remains upon her breast,&mdash;</l>
+<l>Rude ram, to batter such an ivory wall!&mdash;</l>
+<l>May feel her heart-poor citizen!&mdash;distress'd,</l>
+<l>Wounding itself to death, rise up and fall,</l>
+<l>Beating her bulk, that his hand shakes withal.</l>
+<l>This moves in him more rage and lesser pity,</l>
+<l>To make the breach and enter this sweet city.</l>
+</lg>
+
+<lg type="stanza">
+<l>First, like a trumpet, doth his tongue begin</l>
+<l>To sound a parley to his heartless foe;</l>
+<l>Who o'er the white sheet peers her whiter chin,</l>
+<l>The reason of this rash alarm to know,</l>
+<l>Which he by dumb demeanor seeks to show;</l>
+<l>But she with vehement prayers urgeth still</l>
+<l>Under what colour he commits this ill.</l>
+</lg>
+
+<lg type="stanza">
+<l>Thus he replies: 'The colour in thy face,</l>
+<l>That even for anger makes the lily pale,</l>
+<l>And the red rose blush at her own disgrace,</l>
+<l>Shall plead for me and tell my loving tale:</l>
+<l>Under that colour am I come to scale</l>
+<l>Thy never-conquer'd fort: the fault is thine,</l>
+<l>For those thine eyes betray thee unto mine.</l>
+</lg>
+
+<lg type="stanza">
+<l>'Thus I forestall thee, if thou mean to chide:</l>
+<l>Thy beauty hath ensnared thee to this night,</l>
+<l>Where thou with patience must my will abide;</l>
+<l>My will that marks thee for my earth's delight,</l>
+<l>Which I to conquer sought with all my might;</l>
+<l>But as reproof and reason beat it dead,</l>
+<l>By thy bright beauty was it newly bred.</l>
+</lg>
+
+<lg type="stanza">
+<l>'I see what crosses my attempt will bring;</l>
+<l>I know what thorns the growing rose defends;</l>
+<l>I think the honey guarded with a sting;</l>
+<l>All this beforehand counsel comprehends:</l>
+<l>But will is deaf and hears no heedful friends;</l>
+<l>Only he hath an eye to gaze on beauty,</l>
+<l>And dotes on what he looks, 'gainst law or duty.</l>
+</lg>
+
+<lg type="stanza">
+<l>'I have debated, even in my soul,</l>
+<l>What wrong, what shame, what sorrow I shall breed;</l>
+<l>But nothing can affection's course control,</l>
+<l>Or stop the headlong fury of his speed.</l>
+<l>I know repentant tears ensue the deed,</l>
+<l>Reproach, disdain, and deadly enmity;</l>
+<l>Yet strive I to embrace mine infamy.'</l>
+</lg>
+
+<lg type="stanza">
+<l>This said, he shakes aloft his Roman blade,</l>
+<l>Which, like a falcon towering in the skies,</l>
+<l>Coucheth the fowl below with his wings' shade,</l>
+<l>Whose crooked beak threats if he mount he dies:</l>
+<l>So under his insulting falchion lies</l>
+<l>Harmless Lucretia, marking what he tells</l>
+<l>With trembling fear, as fowl hear falcon's bells.</l>
+</lg>
+
+<lg type="stanza">
+<l>'Lucrece,' quoth he,'this night I must enjoy thee:</l>
+<l>If thou deny, then force must work my way,</l>
+<l>For in thy bed I purpose to destroy thee:</l>
+<l>That done, some worthless slave of thine I'll slay,</l>
+<l>To kill thine honour with thy life's decay;</l>
+<l>And in thy dead arms do I mean to place him,</l>
+<l>Swearing I slew him, seeing thee embrace him.</l>
+</lg>
+
+<lg type="stanza">
+<l>'So thy surviving husband shall remain</l>
+<l>The scornful mark of every open eye;</l>
+<l>Thy kinsmen hang their heads at this disdain,</l>
+<l>Thy issue blurr'd with nameless bastardy:</l>
+<l>And thou, the author of their obloquy,</l>
+<l>Shalt have thy trespass cited up in rhymes,</l>
+<l>And sung by children in succeeding times.</l>
+</lg>
+
+<lg type="stanza">
+<l>'But if thou yield, I rest thy secret friend:</l>
+<l>The fault unknown is as a thought unacted;</l>
+<l>A little harm done to a great good end</l>
+<l>For lawful policy remains enacted.</l>
+<l>The poisonous simple sometimes is compacted</l>
+<l>In a pure compound; being so applied,</l>
+<l>His venom in effect is purified.</l>
+</lg>
+
+<lg type="stanza">
+<l>'Then, for thy husband and thy children's sake,</l>
+<l>Tender my suit: bequeath not to their lot</l>
+<l>The shame that from them no device can take,</l>
+<l>The blemish that will never be forgot;</l>
+<l>Worse than a slavish wipe or birth-hour's blot:</l>
+<l>For marks descried in men's nativity</l>
+<l>Are nature's faults, not their own infamy.'</l>
+</lg>
+
+<lg type="stanza">
+<l>Here with a cockatrice' dead-killing eye</l>
+<l>He rouseth up himself and makes a pause;</l>
+<l>While she, the picture of pure piety,</l>
+<l>Like a white hind under the gripe's sharp claws,</l>
+<l>Pleads, in a wilderness where are no laws,</l>
+<l>To the rough beast that knows no gentle right,</l>
+<l>Nor aught obeys but his foul appetite.</l>
+</lg>
+
+<lg type="stanza">
+<l>But when a black-faced cloud the world doth threat,</l>
+<l>In his dim mist the aspiring mountains hiding,</l>
+<l>From earth's dark womb some gentle gust doth get,</l>
+<l>Which blows these pitchy vapours from their bidding,</l>
+<l>Hindering their present fall by this dividing;</l>
+<l>So his unhallow'd haste her words delays,</l>
+<l>And moody Pluto winks while Orpheus plays.</l>
+</lg>
+
+<lg type="stanza">
+<l>Yet, foul night-waking cat, he doth but dally,</l>
+<l>While in his hold-fast foot the weak mouse panteth:</l>
+<l>Her sad behavior feeds his vulture folly,</l>
+<l>A swallowing gulf that even in plenty wanteth:</l>
+<l>His ear her prayers admits, but his heart granteth</l>
+<l>No penetrable entrance to her plaining:</l>
+<l>Tears harden lust, though marble wear with raining.</l>
+</lg>
+
+<lg type="stanza">
+<l>Her pity-pleading eyes are sadly fix'd</l>
+<l>In the remorseless wrinkles of his face;</l>
+<l>Her modest eloquence with sighs is mix'd,</l>
+<l>Which to her oratory adds more grace.</l>
+<l>She puts the period often from his place;</l>
+<l>And midst the sentence so her accent breaks,</l>
+<l>That twice she doth begin ere once she speaks.</l>
+</lg>
+
+<lg type="stanza">
+<l>She conjures him by high almighty Jove,</l>
+<l>By knighthood, gentry, and sweet friendship's oath,</l>
+<l>By her untimely tears, her husband's love,</l>
+<l>By holy human law, and common troth,</l>
+<l>By heaven and earth, and all the power of both,</l>
+<l>That to his borrow'd bed he make retire,</l>
+<l>And stoop to honour, not to foul desire.</l>
+</lg>
+
+<lg type="stanza">
+<l>Quoth she, 'Reward not hospitality</l>
+<l>With such black payment as thou hast pretended;</l>
+<l>Mud not the fountain that gave drink to thee;</l>
+<l>Mar not the thing that cannot be amended;</l>
+<l>End thy ill aim before thy shoot be ended;</l>
+<l>He is no woodman that doth bend his bow</l>
+<l>To strike a poor unseasonable doe.</l>
+</lg>
+
+<lg type="stanza">
+<l>'My husband is thy friend; for his sake spare me:</l>
+<l>Thyself art mighty; for thine own sake leave me:</l>
+<l>Myself a weakling; do not then ensnare me:</l>
+<l>Thou look'st not like deceit; do not deceive me.</l>
+<l>My sighs, like whirlwinds, labour hence to heave thee:</l>
+<l>If ever man were moved with woman moans,</l>
+<l>Be moved with my tears, my sighs, my groans:</l>
+</lg>
+
+<lg type="stanza">
+<l>'All which together, like a troubled ocean,</l>
+<l>Beat at thy rocky and wreck-threatening heart,</l>
+<l>To soften it with their continual motion;</l>
+<l>For stones dissolved to water do convert.</l>
+<l>O, if no harder than a stone thou art,</l>
+<l>Melt at my tears, and be compassionate!</l>
+<l>Soft pity enters at an iron gate.</l>
+</lg>
+
+<lg type="stanza">
+<l>'In Tarquin's likeness I did entertain thee:</l>
+<l>Hast thou put on his shape to do him shame?</l>
+<l>To all the host of heaven I complain me,</l>
+<l>Thou wrong'st his honour, wound'st his princely name.</l>
+<l>Thou art not what thou seem'st; and if the same,</l>
+<l>Thou seem'st not what thou art, a god, a king;</l>
+<l>For kings like gods should govern everything.</l>
+</lg>
+
+<lg type="stanza">
+<l>'How will thy shame be seeded in thine age,</l>
+<l>When thus thy vices bud before thy spring!</l>
+<l>If in thy hope thou darest do such outrage,</l>
+<l>What darest thou not when once thou art a king?</l>
+<l>O, be remember'd, no outrageous thing</l>
+<l>From vassal actors can be wiped away;</l>
+<l>Then kings' misdeeds cannot be hid in clay.</l>
+</lg>
+
+<lg type="stanza">
+<l>'This deed will make thee only loved for fear;</l>
+<l>But happy monarchs still are fear'd for love:</l>
+<l>With foul offenders thou perforce must bear,</l>
+<l>When they in thee the like offences prove:</l>
+<l>If but for fear of this, thy will remove;</l>
+<l>For princes are the glass, the school, the book,</l>
+<l>Where subjects' eyes do learn, do read, do look.</l>
+</lg>
+
+<lg type="stanza">
+<l>'And wilt thou be the school where Lust shall learn?</l>
+<l>Must he in thee read lectures of such shame?</l>
+<l>Wilt thou be glass wherein it shall discern</l>
+<l>Authority for sin, warrant for blame,</l>
+<l>To privilege dishonour in thy name?</l>
+<l>Thou black'st reproach against long-living laud,</l>
+<l>And makest fair reputation but a bawd.</l>
+</lg>
+
+<lg type="stanza">
+<l>'Hast thou command? by him that gave it thee,</l>
+<l>From a pure heart command thy rebel will:</l>
+<l>Draw not thy sword to guard iniquity,</l>
+<l>For it was lent thee all that brood to kill.</l>
+<l>Thy princely office how canst thou fulfil,</l>
+<l>When, pattern'd by thy fault, foul sin may say,</l>
+<l>He learn'd to sin, and thou didst teach the way?</l>
+</lg>
+
+<lg type="stanza">
+<l>'Think but how vile a spectacle it were,</l>
+<l>To view thy present trespass in another.</l>
+<l>Men's faults do seldom to themselves appear;</l>
+<l>Their own transgressions partially they smother:</l>
+<l>This guilt would seem death-worthy in thy brother.</l>
+<l>O, how are they wrapp'd in with infamies</l>
+<l>That from their own misdeeds askance their eyes!</l>
+</lg>
+
+<lg type="stanza">
+<l>'To thee, to thee, my heaved-up hands appeal,</l>
+<l>Not to seducing lust, thy rash relier:</l>
+<l>I sue for exiled majesty's repeal;</l>
+<l>Let him return, and flattering thoughts retire:</l>
+<l>His true respect will prison false desire,</l>
+<l>And wipe the dim mist from thy doting eyne,</l>
+<l>That thou shalt see thy state and pity mine.'</l>
+</lg>
+
+<lg type="stanza">
+<l>'Have done,' quoth he: 'my uncontrolled tide</l>
+<l>Turns not, but swells the higher by this let.</l>
+<l>Small lights are soon blown out, huge fires abide,</l>
+<l>And with the wind in greater fury fret:</l>
+<l>The petty streams that pay a daily debt</l>
+<l>To their salt sovereign, with their fresh falls' haste</l>
+<l>Add to his flow, but alter not his taste.'</l>
+</lg>
+
+<lg type="stanza">
+<l>'Thou art,' quoth she, 'a sea, a sovereign king;</l>
+<l>And, lo, there falls into thy boundless flood</l>
+<l>Black lust, dishonour, shame, misgoverning,</l>
+<l>Who seek to stain the ocean of thy blood.</l>
+<l>If all these pretty ills shall change thy good,</l>
+<l>Thy sea within a puddle's womb is hearsed,</l>
+<l>And not the puddle in thy sea dispersed.</l>
+</lg>
+
+<lg type="stanza">
+<l>'So shall these slaves be king, and thou their slave;</l>
+<l>Thou nobly base, they basely dignified;</l>
+<l>Thou their fair life, and they thy fouler grave:</l>
+<l>Thou loathed in their shame, they in thy pride:</l>
+<l>The lesser thing should not the greater hide;</l>
+<l>The cedar stoops not to the base shrub's foot,</l>
+<l>But low shrubs wither at the cedar's root.</l>
+</lg>
+
+<lg type="stanza">
+<l>'So let thy thoughts, low vassals to thy state'&mdash;</l>
+<l>No more,' quoth he; 'by heaven, I will not hear thee:</l>
+<l>Yield to my love; if not, enforced hate,</l>
+<l>Instead of love's coy touch, shall rudely tear thee;</l>
+<l>That done, despitefully I mean to bear thee</l>
+<l>Unto the base bed of some rascal groom,</l>
+<l>To be thy partner in this shameful doom.'</l>
+</lg>
+
+<lg type="stanza">
+<l>This said, he sets his foot upon the light,</l>
+<l>For light and lust are deadly enemies:</l>
+<l>Shame folded up in blind concealing night,</l>
+<l>When most unseen, then most doth tyrannize.</l>
+<l>The wolf hath seized his prey, the poor lamb cries;</l>
+<l>Till with her own white fleece her voice controll'd</l>
+<l>Entombs her outcry in her lips' sweet fold:</l>
+</lg>
+
+<lg type="stanza">
+<l>For with the nightly linen that she wears</l>
+<l>He pens her piteous clamours in her head;</l>
+<l>Cooling his hot face in the chastest tears</l>
+<l>That ever modest eyes with sorrow shed.</l>
+<l>O, that prone lust should stain so pure a bed!</l>
+<l>The spots whereof could weeping purify,</l>
+<l>Her tears should drop on them perpetually.</l>
+</lg>
+
+<lg type="stanza">
+<l>But she hath lost a dearer thing than life,</l>
+<l>And he hath won what he would lose again:</l>
+<l>This forced league doth force a further strife;</l>
+<l>This momentary joy breeds months of pain;</l>
+<l>This hot desire converts to cold disdain:</l>
+<l>Pure Chastity is rifled of her store,</l>
+<l>And Lust, the thief, far poorer than before.</l>
+</lg>
+
+<lg type="stanza">
+<l>Look, as the full-fed hound or gorged hawk,</l>
+<l>Unapt for tender smell or speedy flight,</l>
+<l>Make slow pursuit, or altogether balk</l>
+<l>The prey wherein by nature they delight;</l>
+<l>So surfeit-taking Tarquin fares this night:</l>
+<l>His taste delicious, in digestion souring,</l>
+<l>Devours his will, that lived by foul devouring.</l>
+</lg>
+
+<lg type="stanza">
+<l>O, deeper sin than bottomless conceit</l>
+<l>Can comprehend in still imagination!</l>
+<l>Drunken Desire must vomit his receipt,</l>
+<l>Ere he can see his own abomination.</l>
+<l>While Lust is in his pride, no exclamation</l>
+<l>Can curb his heat or rein his rash desire,</l>
+<l>Till like a jade Self-will himself doth tire.</l>
+</lg>
+
+<lg type="stanza">
+<l>And then with lank and lean discolour'd cheek,</l>
+<l>With heavy eye, knit brow, and strengthless pace,</l>
+<l>Feeble Desire, all recreant, poor, and meek,</l>
+<l>Like to a bankrupt beggar wails his case:</l>
+<l>The flesh being proud, Desire doth fight with Grace,</l>
+<l>For there it revels; and when that decays,</l>
+<l>The guilty rebel for remission prays.</l>
+</lg>
+
+<lg type="stanza">
+<l>So fares it with this faultful lord of Rome,</l>
+<l>Who this accomplishment so hotly chased;</l>
+<l>For now against himself he sounds this doom,</l>
+<l>That through the length of times he stands disgraced:</l>
+<l>Besides, his soul's fair temple is defaced;</l>
+<l>To whose weak ruins muster troops of cares,</l>
+<l>To ask the spotted princess how she fares.</l>
+</lg>
+
+<lg type="stanza">
+<l>She says, her subjects with foul insurrection</l>
+<l>Have batter'd down her consecrated wall,</l>
+<l>And by their mortal fault brought in subjection</l>
+<l>Her immortality, and made her thrall</l>
+<l>To living death and pain perpetual:</l>
+<l>Which in her prescience she controlled still,</l>
+<l>But her foresight could not forestall their will.</l>
+</lg>
+
+<lg type="stanza">
+<l>Even in this thought through the dark night he stealeth,</l>
+<l>A captive victor that hath lost in gain;</l>
+<l>Bearing away the wound that nothing healeth,</l>
+<l>The scar that will, despite of cure, remain;</l>
+<l>Leaving his spoil perplex'd in greater pain.</l>
+<l>She bears the load of lust he left behind,</l>
+<l>And he the burden of a guilty mind.</l>
+</lg>
+
+<lg type="stanza">
+<l>He like a thievish dog creeps sadly thence;</l>
+<l>She like a wearied lamb lies panting there;</l>
+<l>He scowls and hates himself for his offence;</l>
+<l>She, desperate, with her nails her flesh doth tear;</l>
+<l>He faintly flies, sneaking with guilty fear;</l>
+<l>She stays, exclaiming on the direful night;</l>
+<l>He runs, and chides his vanish'd, loathed delight.</l>
+</lg>
+
+<lg type="stanza">
+<l>He thence departs a heavy convertite;</l>
+<l>She there remains a hopeless castaway;</l>
+<l>He in his speed looks for the morning light;</l>
+<l>She prays she never may behold the day,</l>
+<l>'For day,' quoth she, 'nights scapes doth open lay,</l>
+<l>And my true eyes have never practised how</l>
+<l>To cloak offences with a cunning brow.</l>
+</lg>
+
+<lg type="stanza">
+<l>They think not but that every eye can see</l>
+<l>The same disgrace which they themselves behold;</l>
+<l>And therefore would they still in darkness be,</l>
+<l>To have their unseen sin remain untold;</l>
+<l>For they their guilt with weeping will unfold,</l>
+<l>And grave, like water that doth eat in steel,</l>
+<l>Upon my cheeks what helpless shame I feel.'</l>
+</lg>
+
+<lg type="stanza">
+<l>Here she exclaims against repose and rest,</l>
+<l>And bids her eyes hereafter still be blind.</l>
+<l>She wakes her heart by beating on her breast,</l>
+<l>And bids it leap from thence, where it may find</l>
+<l>Some purer chest to close so pure a mind.</l>
+<l>Frantic with grief thus breathes she forth her spite</l>
+<l>Against the unseen secrecy of night:</l>
+</lg>
+
+<lg type="stanza">
+<l>'O comfort-killing Night, image of hell!</l>
+<l>Dim register and notary of shame!</l>
+<l>Black stage for tragedies and murders fell!</l>
+<l>Vast sin-concealing chaos! nurse of blame!</l>
+<l>Blind muffled bawd! dark harbour for defame!</l>
+<l>Grim cave of death! whispering conspirator</l>
+<l>With close-tongued treason and the ravisher!</l>
+</lg>
+
+<lg type="stanza">
+<l>'O hateful, vaporous, and foggy Night!</l>
+<l>Since thou art guilty of my cureless crime,</l>
+<l>Muster thy mists to meet the eastern light,</l>
+<l>Make war against proportion'd course of time;</l>
+<l>Or if thou wilt permit the sun to climb</l>
+<l>His wonted height, yet ere he go to bed,</l>
+<l>Knit poisonous clouds about his golden head.</l>
+</lg>
+
+<lg type="stanza">
+<l>'With rotten damps ravish the morning air;</l>
+<l>Let their exhaled unwholesome breaths make sick</l>
+<l>The life of purity, the supreme fair,</l>
+<l>Ere he arrive his weary noon-tide prick;</l>
+<l>And let thy misty vapours march so thick,</l>
+<l>That in their smoky ranks his smother'd light</l>
+<l>May set at noon and make perpetual night.</l>
+</lg>
+
+<lg type="stanza">
+<l>'Were Tarquin Night, as he is but Night's child,</l>
+<l>The silver-shining queen he would distain;</l>
+<l>Her twinkling handmaids too, by him defiled,</l>
+<l>Through Night's black bosom should not peep again:</l>
+<l>So should I have co-partners in my pain;</l>
+<l>And fellowship in woe doth woe assuage,</l>
+<l>As palmers' chat makes short their pilgrimage.</l>
+</lg>
+
+<lg type="stanza">
+<l>'Where now I have no one to blush with me,</l>
+<l>To cross their arms and hang their heads with mine,</l>
+<l>To mask their brows and hide their infamy;</l>
+<l>But I alone alone must sit and pine,</l>
+<l>Seasoning the earth with showers of silver brine,</l>
+<l>Mingling my talk with tears, my grief with groans,</l>
+<l>Poor wasting monuments of lasting moans.</l>
+</lg>
+
+<lg type="stanza">
+<l>'O Night, thou furnace of foul-reeking smoke,</l>
+<l>Let not the jealous Day behold that face</l>
+<l>Which underneath thy black all-hiding cloak</l>
+<l>Immodestly lies martyr'd with disgrace!</l>
+<l>Keep still possession of thy gloomy place,</l>
+<l>That all the faults which in thy reign are made</l>
+<l>May likewise be sepulchred in thy shade!</l>
+</lg>
+
+<lg type="stanza">
+<l>'Make me not object to the tell-tale Day!</l>
+<l>The light will show, character'd in my brow,</l>
+<l>The story of sweet chastity's decay,</l>
+<l>The impious breach of holy wedlock vow:</l>
+<l>Yea the illiterate, that know not how</l>
+<l>To cipher what is writ in learned books,</l>
+<l>Will quote my loathsome trespass in my looks.</l>
+</lg>
+
+<lg type="stanza">
+<l>'The nurse, to still her child, will tell my story,</l>
+<l>And fright her crying babe with Tarquin's name;</l>
+<l>The orator, to deck his oratory,</l>
+<l>Will couple my reproach to Tarquin's shame;</l>
+<l>Feast-finding minstrels, tuning my defame,</l>
+<l>Will tie the hearers to attend each line,</l>
+<l>How Tarquin wronged me, I Collatine.</l>
+</lg>
+
+<lg type="stanza">
+<l>'Let my good name, that senseless reputation,</l>
+<l>For Collatine's dear love be kept unspotted:</l>
+<l>If that be made a theme for disputation,</l>
+<l>The branches of another root are rotted,</l>
+<l>And undeserved reproach to him allotted</l>
+<l>That is as clear from this attaint of mine</l>
+<l>As I, ere this, was pure to Collatine.</l>
+</lg>
+
+<lg type="stanza">
+<l>'O unseen shame! invisible disgrace!</l>
+<l>O unfelt sore! crest-wounding, private scar!</l>
+<l>Reproach is stamp'd in Collatinus' face,</l>
+<l>And Tarquin's eye may read the mot afar,</l>
+<l>How he in peace is wounded, not in war.</l>
+<l>Alas, how many bear such shameful blows,</l>
+<l>Which not themselves, but he that gives them knows!</l>
+</lg>
+
+<lg type="stanza">
+<l>'If, Collatine, thine honour lay in me,</l>
+<l>From me by strong assault it is bereft.</l>
+<l>My honour lost, and I, a drone-like bee,</l>
+<l>Have no perfection of my summer left,</l>
+<l>But robb'd and ransack'd by injurious theft:</l>
+<l>In thy weak hive a wandering wasp hath crept,</l>
+<l>And suck'd the honey which thy chaste bee kept.</l>
+</lg>
+
+<lg type="stanza">
+<l>'Yet am I guilty of thy honour's wrack;</l>
+<l>Yet for thy honour did I entertain him;</l>
+<l>Coming from thee, I could not put him back,</l>
+<l>For it had been dishonour to disdain him:</l>
+<l>Besides, of weariness he did complain him,</l>
+<l>And talk'd of virtue: O unlook'd-for evil,</l>
+<l>When virtue is profaned in such a devil!</l>
+</lg>
+
+<lg type="stanza">
+<l>'Why should the worm intrude the maiden bud?</l>
+<l>Or hateful cuckoos hatch in sparrows' nests?</l>
+<l>Or toads infect fair founts with venom mud?</l>
+<l>Or tyrant folly lurk in gentle breasts?</l>
+<l>Or kings be breakers of their own behests?</l>
+<l>But no perfection is so absolute,</l>
+<l>That some impurity doth not pollute.</l>
+</lg>
+
+<lg type="stanza">
+<l>'The aged man that coffers-up his gold</l>
+<l>Is plagued with cramps and gouts and painful fits;</l>
+<l>And scarce hath eyes his treasure to behold,</l>
+<l>But like still-pining Tantalus he sits,</l>
+<l>And useless barns the harvest of his wits;</l>
+<l>Having no other pleasure of his gain</l>
+<l>But torment that it cannot cure his pain.</l>
+</lg>
+
+<lg type="stanza">
+<l>'So then he hath it when he cannot use it,</l>
+<l>And leaves it to be master'd by his young;</l>
+<l>Who in their pride do presently abuse it:</l>
+<l>Their father was too weak, and they too strong,</l>
+<l>To hold their cursed-blessed fortune long.</l>
+<l>The sweets we wish for turn to loathed sours</l>
+<l>Even in the moment that we call them ours.</l>
+</lg>
+
+<lg type="stanza">
+<l>'Unruly blasts wait on the tender spring;</l>
+<l>Unwholesome weeds take root with precious flowers;</l>
+<l>The adder hisses where the sweet birds sing;</l>
+<l>What virtue breeds iniquity devours:</l>
+<l>We have no good that we can say is ours,</l>
+<l>But ill-annexed Opportunity</l>
+<l>Or kills his life or else his quality.</l>
+</lg>
+
+<lg type="stanza">
+<l>'O Opportunity, thy guilt is great!</l>
+<l>'Tis thou that executest the traitor's treason:</l>
+<l>Thou set'st the wolf where he the lamb may get;</l>
+<l>Whoever plots the sin, thou 'point'st the season;</l>
+<l>'Tis thou that spurn'st at right, at law, at reason;</l>
+<l>And in thy shady cell, where none may spy him,</l>
+<l>Sits Sin, to seize the souls that wander by him.</l>
+</lg>
+
+<lg type="stanza">
+<l>'Thou makest the vestal violate her oath;</l>
+<l>Thou blow'st the fire when temperance is thaw'd;</l>
+<l>Thou smother'st honesty, thou murder'st troth;</l>
+<l>Thou foul abettor! thou notorious bawd!</l>
+<l>Thou plantest scandal and displacest laud:</l>
+<l>Thou ravisher, thou traitor, thou false thief,</l>
+<l>Thy honey turns to gall, thy joy to grief!</l>
+</lg>
+
+<lg type="stanza">
+<l>'Thy secret pleasure turns to open shame,</l>
+<l>Thy private feasting to a public fast,</l>
+<l>Thy smoothing titles to a ragged name,</l>
+<l>Thy sugar'd tongue to bitter wormwood taste:</l>
+<l>Thy violent vanities can never last.</l>
+<l>How comes it then, vile Opportunity,</l>
+<l>Being so bad, such numbers seek for thee?</l>
+</lg>
+
+<lg type="stanza">
+<l>'When wilt thou be the humble suppliant's friend,</l>
+<l>And bring him where his suit may be obtain'd?</l>
+<l>When wilt thou sort an hour great strifes to end?</l>
+<l>Or free that soul which wretchedness hath chain'd?</l>
+<l>Give physic to the sick, ease to the pain'd?</l>
+<l>The poor, lame, blind, halt, creep, cry out for thee;</l>
+<l>But they ne'er meet with Opportunity.</l>
+</lg>
+
+<lg type="stanza">
+<l>'The patient dies while the physician sleeps;</l>
+<l>The orphan pines while the oppressor feeds;</l>
+<l>Justice is feasting while the widow weeps;</l>
+<l>Advice is sporting while infection breeds:</l>
+<l>Thou grant'st no time for charitable deeds:</l>
+<l>Wrath, envy, treason, rape, and murder's rages,</l>
+<l>Thy heinous hours wait on them as their pages.</l>
+</lg>
+
+<lg type="stanza">
+<l>'When Truth and Virtue have to do with thee,</l>
+<l>A thousand crosses keep them from thy aid:</l>
+<l>They buy thy help; but Sin ne'er gives a fee,</l>
+<l>He gratis comes; and thou art well appaid</l>
+<l>As well to hear as grant what he hath said.</l>
+<l>My Collatine would else have come to me</l>
+<l>When Tarquin did, but he was stay'd by thee.</l>
+</lg>
+
+<lg type="stanza">
+<l>Guilty thou art of murder and of theft,</l>
+<l>Guilty of perjury and subornation,</l>
+<l>Guilty of treason, forgery, and shift,</l>
+<l>Guilty of incest, that abomination;</l>
+<l>An accessary by thine inclination</l>
+<l>To all sins past, and all that are to come,</l>
+<l>From the creation to the general doom.</l>
+</lg>
+
+<lg type="stanza">
+<l>'Mis-shapen Time, copesmate of ugly Night,</l>
+<l>Swift subtle post, carrier of grisly care,</l>
+<l>Eater of youth, false slave to false delight,</l>
+<l>Base watch of woes, sin's pack-horse, virtue's snare;</l>
+<l>Thou nursest all and murder'st all that are:</l>
+<l>O, hear me then, injurious, shifting Time!</l>
+<l>Be guilty of my death, since of my crime.</l>
+</lg>
+
+<lg type="stanza">
+<l>'Why hath thy servant, Opportunity,</l>
+<l>Betray'd the hours thou gavest me to repose,</l>
+<l>Cancell'd my fortunes, and enchained me</l>
+<l>To endless date of never-ending woes?</l>
+<l>Time's office is to fine the hate of foes;</l>
+<l>To eat up errors by opinion bred,</l>
+<l>Not spend the dowry of a lawful bed.</l>
+</lg>
+
+<lg type="stanza">
+<l>'Time's glory is to calm contending kings,</l>
+<l>To unmask falsehood and bring truth to light,</l>
+<l>To stamp the seal of time in aged things,</l>
+<l>To wake the morn and sentinel the night,</l>
+<l>To wrong the wronger till he render right,</l>
+<l>To ruinate proud buildings with thy hours,</l>
+<l>And smear with dust their glittering golden towers;</l>
+</lg>
+
+<lg type="stanza">
+<l>'To fill with worm-holes stately monuments,</l>
+<l>To feed oblivion with decay of things,</l>
+<l>To blot old books and alter their contents,</l>
+<l>To pluck the quills from ancient ravens' wings,</l>
+<l>To dry the old oak's sap and cherish springs,</l>
+<l>To spoil antiquities of hammer'd steel,</l>
+<l>And turn the giddy round of Fortune's wheel;</l>
+</lg>
+
+<lg type="stanza">
+<l>'To show the beldam daughters of her daughter,</l>
+<l>To make the child a man, the man a child,</l>
+<l>To slay the tiger that doth live by slaughter,</l>
+<l>To tame the unicorn and lion wild,</l>
+<l>To mock the subtle in themselves beguiled,</l>
+<l>To cheer the ploughman with increaseful crops,</l>
+<l>And waste huge stones with little water drops.</l>
+</lg>
+
+<lg type="stanza">
+<l>'Why work'st thou mischief in thy pilgrimage,</l>
+<l>Unless thou couldst return to make amends?</l>
+<l>One poor retiring minute in an age</l>
+<l>Would purchase thee a thousand thousand friends,</l>
+<l>Lending him wit that to bad debtors lends:</l>
+<l>O, this dread night, wouldst thou one hour come back,</l>
+<l>I could prevent this storm and shun thy wrack!</l>
+</lg>
+
+<lg type="stanza">
+<l>'Thou ceaseless lackey to eternity,</l>
+<l>With some mischance cross Tarquin in his flight:</l>
+<l>Devise extremes beyond extremity,</l>
+<l>To make him curse this cursed crimeful night:</l>
+<l>Let ghastly shadows his lewd eyes affright;</l>
+<l>And the dire thought of his committed evil</l>
+<l>Shape every bush a hideous shapeless devil.</l>
+</lg>
+
+<lg type="stanza">
+<l>'Disturb his hours of rest with restless trances,</l>
+<l>Afflict him in his bed with bedrid groans;</l>
+<l>Let there bechance him pitiful mischances,</l>
+<l>To make him moan; but pity not his moans:</l>
+<l>Stone him with harden'd hearts harder than stones;</l>
+<l>And let mild women to him lose their mildness,</l>
+<l>Wilder to him than tigers in their wildness.</l>
+</lg>
+
+<lg type="stanza">
+<l>'Let him have time to tear his curled hair,</l>
+<l>Let him have time against himself to rave,</l>
+<l>Let him have time of Time's help to despair,</l>
+<l>Let him have time to live a loathed slave,</l>
+<l>Let him have time a beggar's orts to crave,</l>
+<l>And time to see one that by alms doth live</l>
+<l>Disdain to him disdained scraps to give.</l>
+</lg>
+
+<lg type="stanza">
+<l>'Let him have time to see his friends his foes,</l>
+<l>And merry fools to mock at him resort;</l>
+<l>Let him have time to mark how slow time goes</l>
+<l>In time of sorrow, and how swift and short</l>
+<l>His time of folly and his time of sport;</l>
+<l>And ever let his unrecalling crime</l>
+<l>Have time to wail th' abusing of his time.</l>
+</lg>
+
+<lg type="stanza">
+<l>'O Time, thou tutor both to good and bad,</l>
+<l>Teach me to curse him that thou taught'st this ill!</l>
+<l>At his own shadow let the thief run mad,</l>
+<l>Himself himself seek every hour to kill!</l>
+<l>Such wretched hands such wretched blood should spill;</l>
+<l>For who so base would such an office have</l>
+<l>As slanderous death's-man to so base a slave?</l>
+</lg>
+
+<lg type="stanza">
+<l>'The baser is he, coming from a king,</l>
+<l>To shame his hope with deeds degenerate:</l>
+<l>The mightier man, the mightier is the thing</l>
+<l>That makes him honour'd, or begets him hate;</l>
+<l>For greatest scandal waits on greatest state.</l>
+<l>The moon being clouded presently is miss'd,</l>
+<l>But little stars may hide them when they list.</l>
+</lg>
+
+<lg type="stanza">
+<l>'The crow may bathe his coal-black wings in mire,</l>
+<l>And unperceived fly with the filth away;</l>
+<l>But if the like the snow-white swan desire,</l>
+<l>The stain upon his silver down will stay.</l>
+<l>Poor grooms are sightless night, kings glorious day:</l>
+<l>Gnats are unnoted wheresoe'er they fly,</l>
+<l>But eagles gazed upon with every eye.</l>
+</lg>
+
+<lg type="stanza">
+<l>'Out, idle words, servants to shallow fools!</l>
+<l>Unprofitable sounds, weak arbitrators!</l>
+<l>Busy yourselves in skill-contending schools;</l>
+<l>Debate where leisure serves with dull debaters;</l>
+<l>To trembling clients be you mediators:</l>
+<l>For me, I force not argument a straw,</l>
+<l>Since that my case is past the help of law.</l>
+</lg>
+
+<lg type="stanza">
+<l>'In vain I rail at Opportunity,</l>
+<l>At Time, at Tarquin, and uncheerful Night;</l>
+<l>In vain I cavil with mine infamy,</l>
+<l>In vain I spurn at my confirm'd despite:</l>
+<l>This helpless smoke of words doth me no right.</l>
+<l>The remedy indeed to do me good</l>
+<l>Is to let forth my foul-defiled blood.</l>
+</lg>
+
+<lg type="stanza">
+<l>'Poor hand, why quiver'st thou at this decree?</l>
+<l>Honour thyself to rid me of this shame:</l>
+<l>For if I die, my honour lives in thee;</l>
+<l>But if I live, thou livest in my defame:</l>
+<l>Since thou couldst not defend thy loyal dame,</l>
+<l>And wast afeard to scratch her wicked foe,</l>
+<l>Kill both thyself and her for yielding so.'</l>
+</lg>
+
+<lg type="stanza">
+<l>This said, from her be-tumbled couch she starteth,</l>
+<l>To find some desperate instrument of death:</l>
+<l>But this no slaughterhouse no tool imparteth</l>
+<l>To make more vent for passage of her breath;</l>
+<l>Which, thronging through her lips, so vanisheth</l>
+<l>As smoke from AEtna, that in air consumes,</l>
+<l>Or that which from discharged cannon fumes.</l>
+</lg>
+
+<lg type="stanza">
+<l>'In vain,' quoth she, 'I live, and seek in vain</l>
+<l>Some happy mean to end a hapless life.</l>
+<l>I fear'd by Tarquin's falchion to be slain,</l>
+<l>Yet for the self-same purpose seek a knife:</l>
+<l>But when I fear'd I was a loyal wife:</l>
+<l>So am I now: O no, that cannot be;</l>
+<l>Of that true type hath Tarquin rifled me.</l>
+</lg>
+
+<lg type="stanza">
+<l>'O, that is gone for which I sought to live,</l>
+<l>And therefore now I need not fear to die.</l>
+<l>To clear this spot by death, at least I give</l>
+<l>A badge of fame to slander's livery;</l>
+<l>A dying life to living infamy:</l>
+<l>Poor helpless help, the treasure stol'n away,</l>
+<l>To burn the guiltless casket where it lay!</l>
+</lg>
+
+<lg type="stanza">
+<l>'Well, well, dear Collatine, thou shalt not know</l>
+<l>The stained taste of violated troth;</l>
+<l>I will not wrong thy true affection so,</l>
+<l>To flatter thee with an infringed oath;</l>
+<l>This bastard graff shall never come to growth:</l>
+<l>He shall not boast who did thy stock pollute</l>
+<l>That thou art doting father of his fruit.</l>
+</lg>
+
+<lg type="stanza">
+<l>'Nor shall he smile at thee in secret thought,</l>
+<l>Nor laugh with his companions at thy state:</l>
+<l>But thou shalt know thy interest was not bought</l>
+<l>Basely with gold, but stol'n from forth thy gate.</l>
+<l>For me, I am the mistress of my fate,</l>
+<l>And with my trespass never will dispense,</l>
+<l>Till life to death acquit my forced offence.</l>
+</lg>
+
+<lg type="stanza">
+<l>'I will not poison thee with my attaint,</l>
+<l>Nor fold my fault in cleanly-coin'd excuses;</l>
+<l>My sable ground of sin I will not paint,</l>
+<l>To hide the truth of this false night's abuses:</l>
+<l>My tongue shall utter all; mine eyes, like sluices,</l>
+<l>As from a mountain-spring that feeds a dale,</l>
+<l>Shall gush pure streams to purge my impure tale.'</l>
+</lg>
+
+<lg type="stanza">
+<l>By this, lamenting Philomel had ended</l>
+<l>The well-tuned warble of her nightly sorrow,</l>
+<l>And solemn night with slow sad gait descended</l>
+<l>To ugly hell; when, lo, the blushing morrow</l>
+<l>Lends light to all fair eyes that light will borrow:</l>
+<l>But cloudy Lucrece shames herself to see,</l>
+<l>And therefore still in night would cloister'd be.</l>
+</lg>
+
+<lg type="stanza">
+<l>Revealing day through every cranny spies,</l>
+<l>And seems to point her out where she sits weeping;</l>
+<l>To whom she sobbing speaks: 'O eye of eyes,</l>
+<l>Why pry'st thou through my window? leave thy peeping:</l>
+<l>Mock with thy tickling beams eyes that are sleeping:</l>
+<l>Brand not my forehead with thy piercing light,</l>
+<l>For day hath nought to do what's done by night.'</l>
+</lg>
+
+<lg type="stanza">
+<l>Thus cavils she with every thing she sees:</l>
+<l>True grief is fond and testy as a child,</l>
+<l>Who wayward once, his mood with nought agrees:</l>
+<l>Old woes, not infant sorrows, bear them mild;</l>
+<l>Continuance tames the one; the other wild,</l>
+<l>Like an unpractised swimmer plunging still,</l>
+<l>With too much labour drowns for want of skill.</l>
+</lg>
+
+<lg type="stanza">
+<l>So she, deep-drenched in a sea of care,</l>
+<l>Holds disputation with each thing she views,</l>
+<l>And to herself all sorrow doth compare;</l>
+<l>No object but her passion's strength renews;</l>
+<l>And as one shifts, another straight ensues:</l>
+<l>Sometime her grief is dumb and hath no words;</l>
+<l>Sometime 'tis mad and too much talk affords.</l>
+</lg>
+
+<lg type="stanza">
+<l>The little birds that tune their morning's joy</l>
+<l>Make her moans mad with their sweet melody:</l>
+<l>For mirth doth search the bottom of annoy;</l>
+<l>Sad souls are slain in merry company;</l>
+<l>Grief best is pleased with grief's society:</l>
+<l>True sorrow then is feelingly sufficed</l>
+<l>When with like semblance it is sympathized.</l>
+</lg>
+
+<lg type="stanza">
+<l>'Tis double death to drown in ken of shore;</l>
+<l>He ten times pines that pines beholding food;</l>
+<l>To see the salve doth make the wound ache more;</l>
+<l>Great grief grieves most at that would do it good;</l>
+<l>Deep woes roll forward like a gentle flood,</l>
+<l>Who being stopp'd, the bounding banks o'erflows;</l>
+<l>Grief dallied with nor law nor limit knows.</l>
+</lg>
+
+<lg type="stanza">
+<l>'You mocking-birds,' quoth she, 'your tunes entomb</l>
+<l>Within your hollow-swelling feather'd breasts,</l>
+<l>And in my hearing be you mute and dumb:</l>
+<l>My restless discord loves no stops nor rests;</l>
+<l>A woeful hostess brooks not merry guests:</l>
+<l>Relish your nimble notes to pleasing ears;</l>
+<l>Distress likes dumps when time is kept with tears.</l>
+</lg>
+
+<lg type="stanza">
+<l>'Come, Philomel, that sing'st of ravishment,</l>
+<l>Make thy sad grove in my dishevell'd hair:</l>
+<l>As the dank earth weeps at thy languishment,</l>
+<l>So I at each sad strain will strain a tear,</l>
+<l>And with deep groans the diapason bear;</l>
+<l>For burden-wise I'll hum on Tarquin still,</l>
+<l>While thou on Tereus descant'st better skill.</l>
+</lg>
+
+<lg type="stanza">
+<l>'And whiles against a thorn thou bear'st thy part,</l>
+<l>To keep thy sharp woes waking, wretched I,</l>
+<l>To imitate thee well, against my heart</l>
+<l>Will fix a sharp knife to affright mine eye;</l>
+<l>Who, if it wink, shall thereon fall and die.</l>
+<l>These means, as frets upon an instrument,</l>
+<l>Shall tune our heart-strings to true languishment.</l>
+</lg>
+
+<lg type="stanza">
+<l>'And for, poor bird, thou sing'st not in the day,</l>
+<l>As shaming any eye should thee behold,</l>
+<l>Some dark deep desert, seated from the way,</l>
+<l>That knows not parching heat nor freezing cold,</l>
+<l>Will we find out; and there we will unfold</l>
+<l>To creatures stern sad tunes, to change their kinds:</l>
+<l>Since men prove beasts, let beasts bear gentle minds.'</l>
+</lg>
+
+<lg type="stanza">
+<l>As the poor frighted deer, that stands at gaze,</l>
+<l>Wildly determining which way to fly,</l>
+<l>Or one encompass'd with a winding maze,</l>
+<l>That cannot tread the way out readily;</l>
+<l>So with herself is she in mutiny,</l>
+<l>To live or die which of the twain were better,</l>
+<l>When life is shamed, and death reproach's debtor.</l>
+</lg>
+
+<lg type="stanza">
+<l>'To kill myself,' quoth she, 'alack, what were it,</l>
+<l>But with my body my poor soul's pollution?</l>
+<l>They that lose half with greater patience bear it</l>
+<l>Than they whose whole is swallow'd in confusion.</l>
+<l>That mother tries a merciless conclusion</l>
+<l>Who, having two sweet babes, when death takes one,</l>
+<l>Will slay the other and be nurse to none.</l>
+</lg>
+
+<lg type="stanza">
+<l>'My body or my soul, which was the dearer,</l>
+<l>When the one pure, the other made divine?</l>
+<l>Whose love of either to myself was nearer,</l>
+<l>When both were kept for heaven and Collatine?</l>
+<l>Ay me! the bark peel'd from the lofty pine,</l>
+<l>His leaves will wither and his sap decay;</l>
+<l>So must my soul, her bark being peel'd away.</l>
+</lg>
+
+<lg type="stanza">
+<l>'Her house is sack'd, her quiet interrupted,</l>
+<l>Her mansion batter'd by the enemy;</l>
+<l>Her sacred temple spotted, spoil'd, corrupted,</l>
+<l>Grossly engirt with daring infamy:</l>
+<l>Then let it not be call'd impiety,</l>
+<l>If in this blemish'd fort I make some hole</l>
+<l>Through which I may convey this troubled soul.</l>
+</lg>
+
+<lg type="stanza">
+<l>'Yet die I will not till my Collatine</l>
+<l>Have heard the cause of my untimely death;</l>
+<l>That he may vow, in that sad hour of mine,</l>
+<l>Revenge on him that made me stop my breath.</l>
+<l>My stained blood to Tarquin I'll bequeath,</l>
+<l>Which by him tainted shall for him be spent,</l>
+<l>And as his due writ in my testament.</l>
+</lg>
+
+<lg type="stanza">
+<l>'My honour I'll bequeath unto the knife</l>
+<l>That wounds my body so dishonoured.</l>
+<l>'Tis honour to deprive dishonour'd life;</l>
+<l>The one will live, the other being dead:</l>
+<l>So of shame's ashes shall my fame be bred;</l>
+<l>For in my death I murder shameful scorn:</l>
+<l>My shame so dead, mine honour is new-born.</l>
+</lg>
+
+<lg type="stanza">
+<l>'Dear lord of that dear jewel I have lost,</l>
+<l>What legacy shall I bequeath to thee?</l>
+<l>My resolution, love, shall be thy boast,</l>
+<l>By whose example thou revenged mayest be.</l>
+<l>How Tarquin must be used, read it in me:</l>
+<l>Myself, thy friend, will kill myself, thy foe,</l>
+<l>And for my sake serve thou false Tarquin so.</l>
+</lg>
+
+<lg type="stanza">
+<l>'This brief abridgement of my will I make:</l>
+<l>My soul and body to the skies and ground;</l>
+<l>My resolution, husband, do thou take;</l>
+<l>Mine honour be the knife's that makes my wound;</l>
+<l>My shame be his that did my fame confound;</l>
+<l>And all my fame that lives disbursed be</l>
+<l>To those that live, and think no shame of me.</l>
+</lg>
+
+<lg type="stanza">
+<l>'Thou, Collatine, shalt oversee this will;</l>
+<l>How was I overseen that thou shalt see it!</l>
+<l>My blood shall wash the slander of mine ill;</l>
+<l>My life's foul deed, my life's fair end shall free it.</l>
+<l>Faint not, faint heart, but stoutly say 'So be it:'</l>
+<l>Yield to my hand; my hand shall conquer thee:</l>
+<l>Thou dead, both die, and both shall victors be.'</l>
+</lg>
+
+<lg type="stanza">
+<l>This Plot of death when sadly she had laid,</l>
+<l>And wiped the brinish pearl from her bright eyes,</l>
+<l>With untuned tongue she hoarsely calls her maid,</l>
+<l>Whose swift obedience to her mistress hies;</l>
+<l>For fleet-wing'd duty with thought's feathers flies.</l>
+<l>Poor Lucrece' cheeks unto her maid seem so</l>
+<l>As winter meads when sun doth melt their snow.</l>
+</lg>
+
+<lg type="stanza">
+<l>Her mistress she doth give demure good-morrow,</l>
+<l>With soft-slow tongue, true mark of modesty,</l>
+<l>And sorts a sad look to her lady's sorrow,</l>
+<l>For why her face wore sorrow's livery;</l>
+<l>But durst not ask of her audaciously</l>
+<l>Why her two suns were cloud-eclipsed so,</l>
+<l>Nor why her fair cheeks over-wash'd with woe.</l>
+</lg>
+
+<lg type="stanza">
+<l>But as the earth doth weep, the sun being set,</l>
+<l>Each flower moisten'd like a melting eye;</l>
+<l>Even so the maid with swelling drops gan wet</l>
+<l>Her circled eyne, enforced by sympathy</l>
+<l>Of those fair suns set in her mistress' sky,</l>
+<l>Who in a salt-waved ocean quench their light,</l>
+<l>Which makes the maid weep like the dewy night.</l>
+</lg>
+
+<lg type="stanza">
+<l>A pretty while these pretty creatures stand,</l>
+<l>Like ivory conduits coral cisterns filling:</l>
+<l>One justly weeps; the other takes in hand</l>
+<l>No cause, but company, of her drops spilling:</l>
+<l>Their gentle sex to weep are often willing;</l>
+<l>Grieving themselves to guess at others' smarts,</l>
+<l>And then they drown their eyes or break their hearts.</l>
+</lg>
+
+<lg type="stanza">
+<l>For men have marble, women waxen, minds,</l>
+<l>And therefore are they form'd as marble will;</l>
+<l>The weak oppress'd, the impression of strange kinds</l>
+<l>Is form'd in them by force, by fraud, or skill:</l>
+<l>Then call them not the authors of their ill,</l>
+<l>No more than wax shall be accounted evil</l>
+<l>Wherein is stamp'd the semblance of a devil.</l>
+</lg>
+
+<lg type="stanza">
+<l>Their smoothness, like a goodly champaign plain,</l>
+<l>Lays open all the little worms that creep;</l>
+<l>In men, as in a rough-grown grove, remain</l>
+<l>Cave-keeping evils that obscurely sleep:</l>
+<l>Through crystal walls each little mote will peep:</l>
+<l>Though men can cover crimes with bold stern looks,</l>
+<l>Poor women's faces are their own fault's books.</l>
+</lg>
+
+<lg type="stanza">
+<l>No man inveigh against the wither'd flower,</l>
+<l>But chide rough winter that the flower hath kill'd:</l>
+<l>Not that devour'd, but that which doth devour,</l>
+<l>Is worthy blame. O, let it not be hild</l>
+<l>Poor women's faults, that they are so fulfill'd</l>
+<l>With men's abuses: those proud lords, to blame,</l>
+<l>Make weak-made women tenants to their shame.</l>
+</lg>
+
+<lg type="stanza">
+<l>The precedent whereof in Lucrece view,</l>
+<l>Assail'd by night with circumstances strong</l>
+<l>Of present death, and shame that might ensue</l>
+<l>By that her death, to do her husband wrong:</l>
+<l>Such danger to resistance did belong,</l>
+<l>That dying fear through all her body spread;</l>
+<l>And who cannot abuse a body dead?</l>
+</lg>
+
+<lg type="stanza">
+<l>By this, mild patience bid fair Lucrece speak</l>
+<l>To the poor counterfeit of her complaining:</l>
+<l>'My girl,' quoth she, 'on what occasion break</l>
+<l>Those tears from thee, that down thy cheeks are raining?</l>
+<l>If thou dost weep for grief of my sustaining,</l>
+<l>Know, gentle wench, it small avails my mood:</l>
+<l>If tears could help, mine own would do me good.</l>
+</lg>
+
+<lg type="stanza">
+<l>'But tell me, girl, when went'&mdash;and there she stay'd</l>
+<l>Till after a deep groan&mdash;'Tarquin from hence?'</l>
+<l>'Madam, ere I was up,' replied the maid,</l>
+<l>'The more to blame my sluggard negligence:</l>
+<l>Yet with the fault I thus far can dispense;</l>
+<l>Myself was stirring ere the break of day,</l>
+<l>And, ere I rose, was Tarquin gone away.</l>
+</lg>
+
+<lg type="stanza">
+<l>'But, lady, if your maid may be so bold,</l>
+<l>She would request to know your heaviness.'</l>
+<l>'O, peace!' quoth Lucrece: 'if it should be told,</l>
+<l>The repetition cannot make it less;</l>
+<l>For more it is than I can well express:</l>
+<l>And that deep torture may be call'd a hell</l>
+<l>When more is felt than one hath power to tell.</l>
+</lg>
+
+<lg type="stanza">
+<l>'Go, get me hither paper, ink, and pen:</l>
+<l>Yet save that labour, for I have them here.</l>
+<l>What should I say? One of my husband's men</l>
+<l>Bid thou be ready, by and by, to bear</l>
+<l>A letter to my lord, my love, my dear;</l>
+<l>Bid him with speed prepare to carry it;</l>
+<l>The cause craves haste, and it will soon be writ.'</l>
+</lg>
+
+<lg type="stanza">
+<l>Her maid is gone, and she prepares to write,</l>
+<l>First hovering o'er the paper with her quill:</l>
+<l>Conceit and grief an eager combat fight;</l>
+<l>What wit sets down is blotted straight with will;</l>
+<l>This is too curious-good, this blunt and ill:</l>
+<l>Much like a press of people at a door,</l>
+<l>Throng her inventions, which shall go before.</l>
+</lg>
+
+<lg type="stanza">
+<l>At last she thus begins: 'Thou worthy lord</l>
+<l>Of that unworthy wife that greeteth thee,</l>
+<l>Health to thy person! next vouchsafe t' afford&mdash;</l>
+<l>If ever, love, thy Lucrece thou wilt see&mdash;</l>
+<l>Some present speed to come and visit me.</l>
+<l>So, I commend me from our house in grief:</l>
+<l>My woes are tedious, though my words are brief.'</l>
+</lg>
+
+<lg type="stanza">
+<l>Here folds she up the tenor of her woe,</l>
+<l>Her certain sorrow writ uncertainly.</l>
+<l>By this short schedule Collatine may know</l>
+<l>Her grief, but not her grief's true quality:</l>
+<l>She dares not thereof make discovery,</l>
+<l>Lest he should hold it her own gross abuse,</l>
+<l>Ere she with blood had stain'd her stain'd excuse.</l>
+</lg>
+
+<lg type="stanza">
+<l>Besides, the life and feeling of her passion</l>
+<l>She hoards, to spend when he is by to hear her:</l>
+<l>When sighs and groans and tears may grace the fashion</l>
+<l>Of her disgrace, the better so to clear her</l>
+<l>From that suspicion which the world might bear her.</l>
+<l>To shun this blot, she would not blot the letter</l>
+<l>With words, till action might become them better.</l>
+</lg>
+
+<lg type="stanza">
+<l>To see sad sights moves more than hear them told;</l>
+<l>For then eye interprets to the ear</l>
+<l>The heavy motion that it doth behold,</l>
+<l>When every part a part of woe doth bear.</l>
+<l>'Tis but a part of sorrow that we hear:</l>
+<l>Deep sounds make lesser noise than shallow fords,</l>
+<l>And sorrow ebbs, being blown with wind of words.</l>
+</lg>
+
+<lg type="stanza">
+<l>Her letter now is seal'd, and on it writ</l>
+<l>'At Ardea to my lord with more than haste.'</l>
+<l>The post attends, and she delivers it,</l>
+<l>Charging the sour-faced groom to hie as fast</l>
+<l>As lagging fowls before the northern blast:</l>
+<l>Speed more than speed but dull and slow she deems:</l>
+<l>Extremity still urgeth such extremes.</l>
+</lg>
+
+<lg type="stanza">
+<l>The homely villain court'sies to her low;</l>
+<l>And, blushing on her, with a steadfast eye</l>
+<l>Receives the scroll without or yea or no,</l>
+<l>And forth with bashful innocence doth hie.</l>
+<l>But they whose guilt within their bosoms lie</l>
+<l>Imagine every eye beholds their blame;</l>
+<l>For Lucrece thought he blush'd to her see shame:</l>
+</lg>
+
+<lg type="stanza">
+<l>When, silly groom! God wot, it was defect</l>
+<l>Of spirit, Life, and bold audacity.</l>
+<l>Such harmless creatures have a true respect</l>
+<l>To talk in deeds, while others saucily</l>
+<l>Promise more speed, but do it leisurely:</l>
+<l>Even so this pattern of the worn-out age</l>
+<l>Pawn'd honest looks, but laid no words to gage.</l>
+</lg>
+
+<lg type="stanza">
+<l>His kindled duty kindled her mistrust,</l>
+<l>That two red fires in both their faces blazed;</l>
+<l>She thought he blush'd, as knowing Tarquin's lust,</l>
+<l>And, blushing with him, wistly on him gazed;</l>
+<l>Her earnest eye did make him more amazed:</l>
+<l>The more she saw the blood his cheeks replenish,</l>
+<l>The more she thought he spied in her some blemish.</l>
+</lg>
+
+<lg type="stanza">
+<l>But long she thinks till he return again,</l>
+<l>And yet the duteous vassal scarce is gone.</l>
+<l>The weary time she cannot entertain,</l>
+<l>For now 'tis stale to sigh, to weep, and groan:</l>
+<l>So woe hath wearied woe, moan tired moan,</l>
+<l>That she her plaints a little while doth stay,</l>
+<l>Pausing for means to mourn some newer way.</l>
+</lg>
+
+<lg type="stanza">
+<l>At last she calls to mind where hangs a piece</l>
+<l>Of skilful painting, made for Priam's Troy:</l>
+<l>Before the which is drawn the power of Greece.</l>
+<l>For Helen's rape the city to destroy,</l>
+<l>Threatening cloud-kissing Ilion with annoy;</l>
+<l>Which the conceited painter drew so proud,</l>
+<l>As heaven, it seem'd, to kiss the turrets bow'd.</l>
+</lg>
+
+<lg type="stanza">
+<l>A thousand lamentable objects there,</l>
+<l>In scorn of nature, art gave lifeless life:</l>
+<l>Many a dry drop seem'd a weeping tear,</l>
+<l>Shed for the slaughter'd husband by the wife:</l>
+<l>The red blood reek'd, to show the painter's strife;</l>
+<l>And dying eyes gleam'd forth their ashy lights,</l>
+<l>Like dying coals burnt out in tedious nights.</l>
+</lg>
+
+<lg type="stanza">
+<l>There might you see the labouring pioner</l>
+<l>Begrimed with sweat, and smeared all with dust;</l>
+<l>And from the towers of Troy there would appear</l>
+<l>The very eyes of men through loop-holes thrust,</l>
+<l>Gazing upon the Greeks with little lust:</l>
+<l>Such sweet observance in this work was had,</l>
+<l>That one might see those far-off eyes look sad.</l>
+</lg>
+
+<lg type="stanza">
+<l>In great commanders grace and majesty</l>
+<l>You might behold, triumphing in their faces;</l>
+<l>In youth, quick bearing and dexterity;</l>
+<l>Pale cowards, marching on with trembling paces;</l>
+<l>Which heartless peasants did so well resemble,</l>
+<l>That one would swear he saw them quake and tremble.</l>
+</lg>
+
+<lg type="stanza">
+<l>In Ajax and Ulysses, O, what art</l>
+<l>Of physiognomy might one behold!</l>
+<l>The face of either cipher'd either's heart;</l>
+<l>Their face their manners most expressly told:</l>
+<l>In Ajax' eyes blunt rage and rigor roll'd;</l>
+<l>But the mild glance that sly Ulysses lent</l>
+<l>Show'd deep regard and smiling government.</l>
+</lg>
+
+<lg type="stanza">
+<l>There pleading might you see grave Nestor stand,</l>
+<l>As 'twere encouraging the Greeks to fight;</l>
+<l>Making such sober action with his hand,</l>
+<l>That it beguiled attention, charm'd the sight:</l>
+<l>In speech, it seem'd, his beard, all silver white,</l>
+<l>Wagg'd up and down, and from his lips did fly</l>
+<l>Thin winding breath, which purl'd up to the sky.</l>
+</lg>
+
+<lg type="stanza">
+<l>About him were a press of gaping faces,</l>
+<l>Which seem'd to swallow up his sound advice;</l>
+<l>All jointly listening, but with several graces,</l>
+<l>As if some mermaid did their ears entice,</l>
+<l>Some high, some low, the painter was so nice;</l>
+<l>The scalps of many, almost hid behind,</l>
+<l>To jump up higher seem'd, to mock the mind.</l>
+</lg>
+
+<lg type="stanza">
+<l>Here one man's hand lean'd on another's head,</l>
+<l>His nose being shadow'd by his neighbour's ear;</l>
+<l>Here one being throng'd bears back, all boll'n and red;</l>
+<l>Another smother'd seems to pelt and swear;</l>
+<l>And in their rage such signs of rage they bear,</l>
+<l>As, but for loss of Nestor's golden words,</l>
+<l>It seem'd they would debate with angry swords.</l>
+</lg>
+
+<lg type="stanza">
+<l>For much imaginary work was there;</l>
+<l>Conceit deceitful, so compact, so kind,</l>
+<l>That for Achilles' image stood his spear,</l>
+<l>Griped in an armed hand; himself, behind,</l>
+<l>Was left unseen, save to the eye of mind:</l>
+<l>A hand, a foot, a face, a leg, a head,</l>
+<l>Stood for the whole to be imagined.</l>
+</lg>
+
+<lg type="stanza">
+<l>And from the walls of strong-besieged Troy</l>
+<l>When their brave hope, bold Hector, march'd to field,</l>
+<l>Stood many Trojan mothers, sharing joy</l>
+<l>To see their youthful sons bright weapons wield;</l>
+<l>And to their hope they such odd action yield,</l>
+<l>That through their light joy seemed to appear,</l>
+<l>Like bright things stain'd, a kind of heavy fear.</l>
+</lg>
+
+<lg type="stanza">
+<l>And from the strand of Dardan, where they fought,</l>
+<l>To Simois' reedy banks the red blood ran,</l>
+<l>Whose waves to imitate the battle sought</l>
+<l>With swelling ridges; and their ranks began</l>
+<l>To break upon the galled shore, and than</l>
+<l>Retire again, till, meeting greater ranks,</l>
+<l>They join and shoot their foam at Simois' banks.</l>
+</lg>
+
+<lg type="stanza">
+<l>To this well-painted piece is Lucrece come,</l>
+<l>To find a face where all distress is stell'd.</l>
+<l>Many she sees where cares have carved some,</l>
+<l>But none where all distress and dolour dwell'd,</l>
+<l>Till she despairing Hecuba beheld,</l>
+<l>Staring on Priam's wounds with her old eyes,</l>
+<l>Which bleeding under Pyrrhus' proud foot lies.</l>
+</lg>
+
+<lg type="stanza">
+<l>In her the painter had anatomized</l>
+<l>Time's ruin, beauty's wreck, and grim care's reign:</l>
+<l>Her cheeks with chaps and wrinkles were disguised;</l>
+<l>Of what she was no semblance did remain:</l>
+<l>Her blue blood changed to black in every vein,</l>
+<l>Wanting the spring that those shrunk pipes had fed,</l>
+<l>Show'd life imprison'd in a body dead.</l>
+</lg>
+
+<lg type="stanza">
+<l>On this sad shadow Lucrece spends her eyes,</l>
+<l>And shapes her sorrow to the beldam's woes,</l>
+<l>Who nothing wants to answer her but cries,</l>
+<l>And bitter words to ban her cruel foes:</l>
+<l>The painter was no god to lend her those;</l>
+<l>And therefore Lucrece swears he did her wrong,</l>
+<l>To give her so much grief and not a tongue.</l>
+</lg>
+
+<lg type="stanza">
+<l>'Poor instrument,' quoth she,'without a sound,</l>
+<l>I'll tune thy woes with my lamenting tongue;</l>
+<l>And drop sweet balm in Priam's painted wound,</l>
+<l>And rail on Pyrrhus that hath done him wrong;</l>
+<l>And with my tears quench Troy that burns so long;</l>
+<l>And with my knife scratch out the angry eyes</l>
+<l>Of all the Greeks that are thine enemies.</l>
+</lg>
+
+<lg type="stanza">
+<l>'Show me the strumpet that began this stir,</l>
+<l>That with my nails her beauty I may tear.</l>
+<l>Thy heat of lust, fond Paris, did incur</l>
+<l>This load of wrath that burning Troy doth bear:</l>
+<l>Thy eye kindled the fire that burneth here;</l>
+<l>And here in Troy, for trespass of thine eye,</l>
+<l>The sire, the son, the dame, and daughter die.</l>
+</lg>
+
+<lg type="stanza">
+<l>'Why should the private pleasure of some one</l>
+<l>Become the public plague of many moe?</l>
+<l>Let sin, alone committed, light alone</l>
+<l>Upon his head that hath transgressed so;</l>
+<l>Let guiltless souls be freed from guilty woe:</l>
+<l>For one's offence why should so many fall,</l>
+<l>To plague a private sin in general?</l>
+</lg>
+
+<lg type="stanza">
+<l>'Lo, here weeps Hecuba, here Priam dies,</l>
+<l>Here manly Hector faints, here Troilus swounds,</l>
+<l>Here friend by friend in bloody channel lies,</l>
+<l>And friend to friend gives unadvised wounds,</l>
+<l>And one man's lust these many lives confounds:</l>
+<l>Had doting Priam cheque'd his son's desire,</l>
+<l>Troy had been bright with fame and not with fire.'</l>
+</lg>
+
+<lg type="stanza">
+<l>Here feelingly she weeps Troy's painted woes:</l>
+<l>For sorrow, like a heavy-hanging bell,</l>
+<l>Once set on ringing, with his own weight goes;</l>
+<l>Then little strength rings out the doleful knell:</l>
+<l>So Lucrece, set a-work, sad tales doth tell</l>
+<l>To pencill'd pensiveness and colour'd sorrow;</l>
+<l>She lends them words, and she their looks doth borrow.</l>
+</lg>
+
+<lg type="stanza">
+<l>She throws her eyes about the painting round,</l>
+<l>And whom she finds forlorn she doth lament.</l>
+<l>At last she sees a wretched image bound,</l>
+<l>That piteous looks to Phrygian shepherds lent:</l>
+<l>His face, though full of cares, yet show'd content;</l>
+<l>Onward to Troy with the blunt swains he goes,</l>
+<l>So mild, that Patience seem'd to scorn his woes.</l>
+</lg>
+
+<lg type="stanza">
+<l>In him the painter labour'd with his skill</l>
+<l>To hide deceit, and give the harmless show</l>
+<l>An humble gait, calm looks, eyes wailing still,</l>
+<l>A brow unbent, that seem'd to welcome woe;</l>
+<l>Cheeks neither red nor pale, but mingled so</l>
+<l>That blushing red no guilty instance gave,</l>
+<l>Nor ashy pale the fear that false hearts have.</l>
+</lg>
+
+<lg type="stanza">
+<l>But, like a constant and confirmed devil,</l>
+<l>He entertain'd a show so seeming just,</l>
+<l>And therein so ensconced his secret evil,</l>
+<l>That jealousy itself could not mistrust</l>
+<l>False-creeping craft and perjury should thrust</l>
+<l>Into so bright a day such black-faced storms,</l>
+<l>Or blot with hell-born sin such saint-like forms.</l>
+</lg>
+
+<lg type="stanza">
+<l>The well-skill'd workman this mild image drew</l>
+<l>For perjured Sinon, whose enchanting story</l>
+<l>The credulous old Priam after slew;</l>
+<l>Whose words like wildfire burnt the shining glory</l>
+<l>Of rich-built Ilion, that the skies were sorry,</l>
+<l>And little stars shot from their fixed places,</l>
+<l>When their glass fell wherein they view'd their faces.</l>
+</lg>
+
+<lg type="stanza">
+<l>This picture she advisedly perused,</l>
+<l>And chid the painter for his wondrous skill,</l>
+<l>Saying, some shape in Sinon's was abused;</l>
+<l>So fair a form lodged not a mind so ill:</l>
+<l>And still on him she gazed; and gazing still,</l>
+<l>Such signs of truth in his plain face she spied,</l>
+<l>That she concludes the picture was belied.</l>
+</lg>
+
+<lg type="stanza">
+<l>'It cannot be,' quoth she,'that so much guile'&mdash;</l>
+<l>She would have said 'can lurk in such a look;'</l>
+<l>But Tarquin's shape came in her mind the while,</l>
+<l>And from her tongue 'can lurk' from 'cannot' took:</l>
+<l>'It cannot be' she in that sense forsook,</l>
+<l>And turn'd it thus,' It cannot be, I find,</l>
+<l>But such a face should bear a wicked mind.</l>
+</lg>
+
+<lg type="stanza">
+<l>'For even as subtle Sinon here is painted.</l>
+<l>So sober-sad, so weary, and so mild,</l>
+<l>As if with grief or travail he had fainted,</l>
+<l>To me came Tarquin armed; so beguiled</l>
+<l>With outward honesty, but yet defiled</l>
+<l>With inward vice: as Priam him did cherish,</l>
+<l>So did I Tarquin; so my Troy did perish.</l>
+</lg>
+
+<lg type="stanza">
+<l>'Look, look, how listening Priam wets his eyes,</l>
+<l>To see those borrow'd tears that Sinon sheds!</l>
+<l>Priam, why art thou old and yet not wise?</l>
+<l>For every tear he falls a Trojan bleeds:</l>
+<l>His eye drops fire, no water thence proceeds;</l>
+<l>Those round clear pearls of his, that move thy pity,</l>
+<l>Are balls of quenchless fire to burn thy city.</l>
+</lg>
+
+<lg type="stanza">
+<l>'Such devils steal effects from lightless hell;</l>
+<l>For Sinon in his fire doth quake with cold,</l>
+<l>And in that cold hot-burning fire doth dwell;</l>
+<l>These contraries such unity do hold,</l>
+<l>Only to flatter fools and make them bold:</l>
+<l>So Priam's trust false Sinon's tears doth flatter,</l>
+<l>That he finds means to burn his Troy with water.'</l>
+</lg>
+
+<lg type="stanza">
+<l>Here, all enraged, such passion her assails,</l>
+<l>That patience is quite beaten from her breast.</l>
+<l>She tears the senseless Sinon with her nails,</l>
+<l>Comparing him to that unhappy guest</l>
+<l>Whose deed hath made herself herself detest:</l>
+<l>At last she smilingly with this gives o'er;</l>
+<l>'Fool, fool!' quoth she, 'his wounds will not be sore.'</l>
+</lg>
+
+<lg type="stanza">
+<l>Thus ebbs and flows the current of her sorrow,</l>
+<l>And time doth weary time with her complaining.</l>
+<l>She looks for night, and then she longs for morrow,</l>
+<l>And both she thinks too long with her remaining:</l>
+<l>Short time seems long in sorrow's sharp sustaining:</l>
+<l>Though woe be heavy, yet it seldom sleeps,</l>
+<l>And they that watch see time how slow it creeps.</l>
+</lg>
+
+<lg type="stanza">
+<l>Which all this time hath overslipp'd her thought,</l>
+<l>That she with painted images hath spent;</l>
+<l>Being from the feeling of her own grief brought</l>
+<l>By deep surmise of others' detriment;</l>
+<l>Losing her woes in shows of discontent.</l>
+<l>It easeth some, though none it ever cured,</l>
+<l>To think their dolour others have endured.</l>
+</lg>
+
+<lg type="stanza">
+<l>But now the mindful messenger, come back,</l>
+<l>Brings home his lord and other company;</l>
+<l>Who finds his Lucrece clad in mourning black:</l>
+<l>And round about her tear-stained eye</l>
+<l>Blue circles stream'd; like rainbows in the sky:</l>
+<l>These water-galls in her dim element</l>
+<l>Foretell new storms to those already spent.</l>
+</lg>
+
+<lg type="stanza">
+<l>Which when her sad-beholding husband saw,</l>
+<l>Amazedly in her sad face he stares:</l>
+<l>Her eyes, though sod in tears, look'd red and raw,</l>
+<l>Her lively colour kill'd with deadly cares.</l>
+<l>He hath no power to ask her how she fares:</l>
+<l>Both stood, like old acquaintance in a trance,</l>
+<l>Met far from home, wondering each other's chance.</l>
+</lg>
+
+<lg type="stanza">
+<l>At last he takes her by the bloodless hand,</l>
+<l>And thus begins: 'What uncouth ill event</l>
+<l>Hath thee befall'n, that thou dost trembling stand?</l>
+<l>Sweet love, what spite hath thy fair colour spent?</l>
+<l>Why art thou thus attired in discontent?</l>
+<l>Unmask, dear dear, this moody heaviness,</l>
+<l>And tell thy grief, that we may give redress.'</l>
+</lg>
+
+<lg type="stanza">
+<l>Three times with sighs she gives her sorrow fire,</l>
+<l>Ere once she can discharge one word of woe:</l>
+<l>At length address'd to answer his desire,</l>
+<l>She modestly prepares to let them know</l>
+<l>Her honour is ta'en prisoner by the foe;</l>
+<l>While Collatine and his consorted lords</l>
+<l>With sad attention long to hear her words.</l>
+</lg>
+
+<lg type="stanza">
+<l>And now this pale swan in her watery nest</l>
+<l>Begins the sad dirge of her certain ending;</l>
+<l>'Few words,' quoth she, 'Shall fit the trespass best,</l>
+<l>Where no excuse can give the fault amending:</l>
+<l>In me moe woes than words are now depending;</l>
+<l>And my laments would be drawn out too long,</l>
+<l>To tell them all with one poor tired tongue.</l>
+</lg>
+
+<lg type="stanza">
+<l>'Then be this all the task it hath to say</l>
+<l>Dear husband, in the interest of thy bed</l>
+<l>A stranger came, and on that pillow lay</l>
+<l>Where thou was wont to rest thy weary head;</l>
+<l>And what wrong else may be imagined</l>
+<l>By foul enforcement might be done to me,</l>
+<l>From that, alas, thy Lucrece is not free.</l>
+</lg>
+
+<lg type="stanza">
+<l>'For in the dreadful dead of dark midnight,</l>
+<l>With shining falchion in my chamber came</l>
+<l>A creeping creature, with a flaming light,</l>
+<l>And softly cried 'Awake, thou Roman dame,</l>
+<l>And entertain my love; else lasting shame</l>
+<l>On thee and thine this night I will inflict,</l>
+<l>If thou my love's desire do contradict.</l>
+</lg>
+
+<lg type="stanza">
+<l>' 'For some hard-favour'd groom of thine,' quoth he,</l>
+<l>'Unless thou yoke thy liking to my will,</l>
+<l>I'll murder straight, and then I'll slaughter thee</l>
+<l>And swear I found you where you did fulfil</l>
+<l>The loathsome act of lust, and so did kill</l>
+<l>The lechers in their deed: this act will be</l>
+<l>My fame and thy perpetual infamy.'</l>
+</lg>
+
+<lg type="stanza">
+<l>'With this, I did begin to start and cry;</l>
+<l>And then against my heart he sets his sword,</l>
+<l>Swearing, unless I took all patiently,</l>
+<l>I should not live to speak another word;</l>
+<l>So should my shame still rest upon record,</l>
+<l>And never be forgot in mighty Rome</l>
+<l>Th' adulterate death of Lucrece and her groom.</l>
+</lg>
+
+<lg type="stanza">
+<l>'Mine enemy was strong, my poor self weak,</l>
+<l>And far the weaker with so strong a fear:</l>
+<l>My bloody judge forbade my tongue to speak;</l>
+<l>No rightful plea might plead for justice there:</l>
+<l>His scarlet lust came evidence to swear</l>
+<l>That my poor beauty had purloin'd his eyes;</l>
+<l>And when the judge is robb'd the prisoner dies.</l>
+</lg>
+
+<lg type="stanza">
+<l>'O, teach me how to make mine own excuse!</l>
+<l>Or at the least this refuge let me find;</l>
+<l>Though my gross blood be stain'd with this abuse,</l>
+<l>Immaculate and spotless is my mind;</l>
+<l>That was not forced; that never was inclined</l>
+<l>To accessary yieldings, but still pure</l>
+<l>Doth in her poison'd closet yet endure.'</l>
+</lg>
+
+<lg type="stanza">
+<l>Lo, here, the hopeless merchant of this loss,</l>
+<l>With head declined, and voice damm'd up with woe,</l>
+<l>With sad set eyes, and wretched arms across,</l>
+<l>From lips new-waxen pale begins to blow</l>
+<l>The grief away that stops his answer so:</l>
+<l>But, wretched as he is, he strives in vain;</l>
+<l>What he breathes out his breath drinks up again.</l>
+</lg>
+
+<lg type="stanza">
+<l>As through an arch the violent roaring tide</l>
+<l>Outruns the eye that doth behold his haste,</l>
+<l>Yet in the eddy boundeth in his pride</l>
+<l>Back to the strait that forced him on so fast;</l>
+<l>In rage sent out, recall'd in rage, being past:</l>
+<l>Even so his sighs, his sorrows, make a saw,</l>
+<l>To push grief on, and back the same grief draw.</l>
+</lg>
+
+<lg type="stanza">
+<l>Which speechless woe of his poor she attendeth,</l>
+<l>And his untimely frenzy thus awaketh:</l>
+<l>'Dear lord, thy sorrow to my sorrow lendeth</l>
+<l>Another power; no flood by raining slaketh.</l>
+<l>My woe too sensible thy passion maketh</l>
+<l>More feeling-painful: let it then suffice</l>
+<l>To drown one woe, one pair of weeping eyes.</l>
+</lg>
+
+<lg type="stanza">
+<l>'And for my sake, when I might charm thee so,</l>
+<l>For she that was thy Lucrece, now attend me:</l>
+<l>Be suddenly revenged on my foe,</l>
+<l>Thine, mine, his own: suppose thou dost defend me</l>
+<l>From what is past: the help that thou shalt lend me</l>
+<l>Comes all too late, yet let the traitor die;</l>
+<l>For sparing justice feeds iniquity.</l>
+</lg>
+
+<lg type="stanza">
+<l>'But ere I name him, you fair lords,' quoth she,</l>
+<l>Speaking to those that came with Collatine,</l>
+<l>'Shall plight your honourable faiths to me,</l>
+<l>With swift pursuit to venge this wrong of mine;</l>
+<l>For 'tis a meritorious fair design</l>
+<l>To chase injustice with revengeful arms:</l>
+<l>Knights, by their oaths, should right poor ladies' harms.'</l>
+</lg>
+
+<lg type="stanza">
+<l>At this request, with noble disposition</l>
+<l>Each present lord began to promise aid,</l>
+<l>As bound in knighthood to her imposition,</l>
+<l>Longing to hear the hateful foe bewray'd.</l>
+<l>But she, that yet her sad task hath not said,</l>
+<l>The protestation stops. 'O, speak, ' quoth she,</l>
+<l>'How may this forced stain be wiped from me?</l>
+</lg>
+
+<lg type="stanza">
+<l>'What is the quality of mine offence,</l>
+<l>Being constrain'd with dreadful circumstance?</l>
+<l>May my pure mind with the foul act dispense,</l>
+<l>My low-declined honour to advance?</l>
+<l>May any terms acquit me from this chance?</l>
+<l>The poison'd fountain clears itself again;</l>
+<l>And why not I from this compelled stain?'</l>
+</lg>
+
+<lg type="stanza">
+<l>With this, they all at once began to say,</l>
+<l>Her body's stain her mind untainted clears;</l>
+<l>While with a joyless smile she turns away</l>
+<l>The face, that map which deep impression bears</l>
+<l>Of hard misfortune, carved in it with tears.</l>
+<l>'No, no,' quoth she, 'no dame, hereafter living,</l>
+<l>By my excuse shall claim excuse's giving.'</l>
+</lg>
+
+<lg type="stanza">
+<l>Here with a sigh, as if her heart would break,</l>
+<l>She throws forth Tarquin's name; 'He, he,' she says,</l>
+<l>But more than 'he' her poor tongue could not speak;</l>
+<l>Till after many accents and delays,</l>
+<l>Untimely breathings, sick and short assays,</l>
+<l>She utters this, 'He, he, fair lords, 'tis he,</l>
+<l>That guides this hand to give this wound to me.'</l>
+</lg>
+
+<lg type="stanza">
+<l>Even here she sheathed in her harmless breast</l>
+<l>A harmful knife, that thence her soul unsheathed:</l>
+<l>That blow did that it from the deep unrest</l>
+<l>Of that polluted prison where it breathed:</l>
+<l>Her contrite sighs unto the clouds bequeath'd</l>
+<l>Her winged sprite, and through her wounds doth fly</l>
+<l>Life's lasting date from cancell'd destiny.</l>
+</lg>
+
+<lg type="stanza">
+<l>Stone-still, astonish'd with this deadly deed,</l>
+<l>Stood Collatine and all his lordly crew;</l>
+<l>Till Lucrece' father, that beholds her bleed,</l>
+<l>Himself on her self-slaughter'd body threw;</l>
+<l>And from the purple fountain Brutus drew</l>
+<l>The murderous knife, and, as it left the place,</l>
+<l>Her blood, in poor revenge, held it in chase;</l>
+</lg>
+
+<lg type="stanza">
+<l>And bubbling from her breast, it doth divide</l>
+<l>In two slow rivers, that the crimson blood</l>
+<l>Circles her body in on every side,</l>
+<l>Who, like a late-sack'd island, vastly stood</l>
+<l>Bare and unpeopled in this fearful flood.</l>
+<l>Some of her blood still pure and red remain'd,</l>
+<l>And some look'd black, and that false Tarquin stain'd.</l>
+</lg>
+
+<lg type="stanza">
+<l>About the mourning and congealed face</l>
+<l>Of that black blood a watery rigol goes,</l>
+<l>Which seems to weep upon the tainted place:</l>
+<l>And ever since, as pitying Lucrece' woes,</l>
+<l>Corrupted blood some watery token shows;</l>
+<l>And blood untainted still doth red abide,</l>
+<l>Blushing at that which is so putrified.</l>
+</lg>
+
+<lg type="stanza">
+<l>'Daughter, dear daughter,' old Lucretius cries,</l>
+<l>'That life was mine which thou hast here deprived.</l>
+<l>If in the child the father's image lies,</l>
+<l>Where shall I live now Lucrece is unlived?</l>
+<l>Thou wast not to this end from me derived.</l>
+<l>If children predecease progenitors,</l>
+<l>We are their offspring, and they none of ours.</l>
+</lg>
+
+<lg type="stanza">
+<l>'Poor broken glass, I often did behold</l>
+<l>In thy sweet semblance my old age new born;</l>
+<l>But now that fresh fair mirror, dim and old,</l>
+<l>Shows me a bare-boned death by time out-worn:</l>
+<l>O, from thy cheeks my image thou hast torn,</l>
+<l>And shivered all the beauty of my glass,</l>
+<l>That I no more can see what once I was!</l>
+</lg>
+
+<lg type="stanza">
+<l>'O time, cease thou thy course and last no longer,</l>
+<l>If they surcease to be that should survive.</l>
+<l>Shall rotten death make conquest of the stronger</l>
+<l>And leave the faltering feeble souls alive?</l>
+<l>The old bees die, the young possess their hive:</l>
+<l>Then live, sweet Lucrece, live again and see</l>
+<l>Thy father die, and not thy father thee!</l>
+</lg>
+
+<lg type="stanza">
+<l>By this, starts Collatine as from a dream,</l>
+<l>And bids Lucretius give his sorrow place;</l>
+<l>And then in key-cold Lucrece' bleeding stream</l>
+<l>He falls, and bathes the pale fear in his face,</l>
+<l>And counterfeits to die with her a space;</l>
+<l>Till manly shame bids him possess his breath</l>
+<l>And live to be revenged on her death.</l>
+</lg>
+
+<lg type="stanza">
+<l>The deep vexation of his inward soul</l>
+<l>Hath served a dumb arrest upon his tongue;</l>
+<l>Who, mad that sorrow should his use control,</l>
+<l>Or keep him from heart-easing words so long,</l>
+<l>Begins to talk; but through his lips do throng</l>
+<l>Weak words, so thick come in his poor heart's aid,</l>
+<l>That no man could distinguish what he said.</l>
+</lg>
+
+<lg type="stanza">
+<l>Yet sometime 'Tarquin' was pronounced plain,</l>
+<l>But through his teeth, as if the name he tore.</l>
+<l>This windy tempest, till it blow up rain,</l>
+<l>Held back his sorrow's tide, to make it more;</l>
+<l>At last it rains, and busy winds give o'er:</l>
+<l>Then son and father weep with equal strife</l>
+<l>Who should weep most, for daughter or for wife.</l>
+</lg>
+
+<lg type="stanza">
+<l>The one doth call her his, the other his,</l>
+<l>Yet neither may possess the claim they lay.</l>
+<l>The father says 'She's mine.' 'O, mine she is,'</l>
+<l>Replies her husband: 'do not take away</l>
+<l>My sorrow's interest; let no mourner say</l>
+<l>He weeps for her, for she was only mine,</l>
+<l>And only must be wail'd by Collatine.'</l>
+</lg>
+
+<lg type="stanza">
+<l>'O,' quoth Lucretius,' I did give that life</l>
+<l>Which she too early and too late hath spill'd.'</l>
+<l>'Woe, woe,' quoth Collatine, 'she was my wife,</l>
+<l>I owed her, and 'tis mine that she hath kill'd.'</l>
+<l>'My daughter' and 'my wife' with clamours fill'd</l>
+<l>The dispersed air, who, holding Lucrece' life,</l>
+<l>Answer'd their cries, 'my daughter' and 'my wife.'</l>
+</lg>
+
+<lg type="stanza">
+<l>Brutus, who pluck'd the knife from Lucrece' side,</l>
+<l>Seeing such emulation in their woe,</l>
+<l>Began to clothe his wit in state and pride,</l>
+<l>Burying in Lucrece' wound his folly's show.</l>
+<l>He with the Romans was esteemed so</l>
+<l>As silly-jeering idiots are with kings,</l>
+<l>For sportive words and uttering foolish things:</l>
+</lg>
+
+<lg type="stanza">
+<l>But now he throws that shallow habit by,</l>
+<l>Wherein deep policy did him disguise;</l>
+<l>And arm'd his long-hid wits advisedly,</l>
+<l>To cheque the tears in Collatinus' eyes.</l>
+<l>'Thou wronged lord of Rome,' quoth be, 'arise:</l>
+<l>Let my unsounded self, supposed a fool,</l>
+<l>Now set thy long-experienced wit to school.</l>
+</lg>
+
+<lg type="stanza">
+<l>'Why, Collatine, is woe the cure for woe?</l>
+<l>Do wounds help wounds, or grief help grievous deeds?</l>
+<l>Is it revenge to give thyself a blow</l>
+<l>For his foul act by whom thy fair wife bleeds?</l>
+<l>Such childish humour from weak minds proceeds:</l>
+<l>Thy wretched wife mistook the matter so,</l>
+<l>To slay herself, that should have slain her foe.</l>
+</lg>
+
+<lg type="stanza">
+<l>'Courageous Roman, do not steep thy heart</l>
+<l>In such relenting dew of lamentations;</l>
+<l>But kneel with me and help to bear thy part,</l>
+<l>To rouse our Roman gods with invocations,</l>
+<l>That they will suffer these abominations,</l>
+<l>Since Rome herself in them doth stand disgraced,</l>
+<l>By our strong arms from forth her fair streets chased.</l>
+</lg>
+
+<lg type="stanza">
+<l>'Now, by the Capitol that we adore,</l>
+<l>And by this chaste blood so unjustly stain'd,</l>
+<l>By heaven's fair sun that breeds the fat earth's store,</l>
+<l>By all our country rights in Rome maintain'd,</l>
+<l>And by chaste Lucrece' soul that late complain'd</l>
+<l>Her wrongs to us, and by this bloody knife,</l>
+<l>We will revenge the death of this true wife.'</l>
+</lg>
+
+<lg type="stanza">
+<l>This said, he struck his hand upon his breast,</l>
+<l>And kiss'd the fatal knife, to end his vow;</l>
+<l>And to his protestation urged the rest,</l>
+<l>Who, wondering at him, did his words allow:</l>
+<l>Then jointly to the ground their knees they bow;</l>
+<l>And that deep vow, which Brutus made before,</l>
+<l>He doth again repeat, and that they swore.</l>
+</lg>
+
+<lg type="stanza">
+<l>When they had sworn to this advised doom,</l>
+<l>They did conclude to bear dead Lucrece thence;</l>
+<l>To show her bleeding body thorough Rome,</l>
+<l>And so to publish Tarquin's foul offence:</l>
+<l>Which being done with speedy diligence,</l>
+<l>The Romans plausibly did give consent</l>
+<l>To Tarquin's everlasting banishment.</l>
+</lg>
+
+</div1>
+
+</body>
+
+</text>
+
+</TEI.2>

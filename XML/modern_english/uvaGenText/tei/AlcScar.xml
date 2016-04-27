@@ -1,0 +1,884 @@
+<?xml version="1.0"?>
+
+<?dlps id="AlcScar"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOnum SYSTEM "http://text.lib.virginia.edu/charent/iso-num.ent"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+
+
+
+]>
+
+
+<TEI.2 id="AlcScar">
+	<teiHeader type="migrated" creator="Etext">
+<fileDesc>
+<titleStmt>
+<title type="main">Scarlet Stockings</title>
+<title type="sort">scarlet stockings</title>
+<author>Alcott, Louisa May, 1832-1888</author>
+<respStmt>
+<resp>Creation of machine-readable version:</resp>
+					<name>Judy Boss</name>
+					<resp>Conversion to TEI.2-conformant markup:</resp>
+					<name>University of Virginia Library Electronic Text Center</name>
+</respStmt>
+</titleStmt>
+			<extent>ca. <num type="kilobytes">55</num> kilobytes</extent>
+			<publicationStmt>
+<publisher>University of Virginia Library</publisher>
+<pubPlace>Charlottesville, Virginia</pubPlace>
+				<idno type="ETC">AlcScar</idno>
+				<date value="1995">1995</date>
+<availability status="public">
+<p n="copyright">Copyright &copy; 1995 by the Rector and Visitors of the University of Virginia</p>
+<p n="access">Publicly accessible</p>
+</availability>
+<idno type="uva-pid">uva-lib:475659</idno>
+</publicationStmt>
+<seriesStmt>
+<title>University of Virginia Library, Text collection</title>
+<idno type="uva-set">UVA-LIB-Text</idno>
+</seriesStmt>
+			<sourceDesc>
+<biblFull>
+<titleStmt>
+<title type="main">Scarlet Stockings</title>
+<title>Putnam's Magazine</title>
+<title type="sort">scarlet stockings</title>
+<author>Louisa May Alcott</author>
+</titleStmt>
+					<publicationStmt>
+						<pubPlace>New York</pubPlace>
+						<date value="1869-07">July 1869</date>
+</publicationStmt>
+					<seriesStmt>
+<p>volume 19</p>
+</seriesStmt>
+					<notesStmt>
+<note>
+<p>Alcott, Louisa M. "Scarlet Stockings." Putnam's Magazine 19 (n.s. 4)
+								(July 1869): 72-84.</p>
+</note>
+</notesStmt>
+</biblFull>
+</sourceDesc>
+</fileDesc>
+		<encodingDesc>
+<projectDesc>
+<p>Prepared for the University of Virginia Library Electronic Text Center</p>
+</projectDesc>
+			<editorialDecl>
+<p>All quotation marks retained as data</p>
+				<p>All unambiguous end-of-line hyphens have been removed, and the trailing part of a
+					word has been joined to the preceding line.</p>
+				<p id="ETC">Keywords in the header are a local Electronic Text Center scheme to aid
+					in establishing analytical groupings</p>
+</editorialDecl>
+			<refsDecl>
+<p>ID elements are given for each page element and are composed of the text's unique
+					cryptogram and the given page number, as in AusEmma1 for page one of Jane
+					Austen's Emma.</p>
+</refsDecl>
+</encodingDesc>
+		<profileDesc>
+<creation>
+<date value="1869">1869</date>
+</creation>
+			<langUsage>
+<language id="eng" usage="main">English</language>
+</langUsage>
+			<textClass>
+<keywords>
+<term>non-fiction; prose</term>
+					<term>Women Writers</term>
+</keywords>
+</textClass>
+</profileDesc>
+		<revisionDesc>
+<change>
+<date value="1995">1995</date>
+				<respStmt>
+<resp>corrector</resp>
+					<name>Judy Boss</name>
+</respStmt>
+				<item>Made the following changes to the text: page 73 maliciously."] maliciously ;
+					75 which, soon; which soon ; 76 manner."] manner. ; 84 dainy-painted]
+					dainty-painted</item>
+</change>
+			<change>
+<date value="1995-11">November 1995</date>
+				<respStmt>
+<resp>corrector</resp>
+					<name>Jamie L Spriggs, Electronic Text Center, University of Virginia</name>
+</respStmt>
+				<item>Added header; Marked with TEI.2-compatible SGML markup</item>
+</change>
+			<change>
+<date value="2005-06">June 2005</date>
+				<respStmt>
+<resp>corrector</resp>
+					<name>John Ivor Carlson</name>
+</respStmt>
+				<item>Converted sgml to xml.</item>
+</change>
+<change>
+<date value="2007-09">September 2007</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Ethan Gruber, University of Virginia Library</name>
+</respStmt>
+<item>Converted XML markup from TEI Lite to uva-dl-tei (TEI P4 with local customizations).</item>
+</change>
+<change>
+<date value="2008-01">January 2008</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Greg Murray, University of Virginia Library</name>
+</respStmt>
+<item>Programmatically updated TEI header markup (but not header content) for minimal compliance with current QA requirements.</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+	<text id="d1">
+
+
+
+		<body id="d2">
+
+			<div1 type="story" n="1" id="d3">
+				<head>I.<lb/> HOW THEY WALKED INTO LENNOX'S LIFE.</head>
+
+				<p>"COME out for a drive, Harry?" </p>
+				<p>"Too cold." </p>
+				<p>"Have a game of billiards?" </p>
+				<p>"Too tired." </p>
+				<p>"Go and call on the Fairchilds?" </p>
+				<p>"Having an unfortunate prejudice against country girls, I respectfully decline." </p>
+				<p>"What will you do then?" </p>
+				<p>"Nothing, thank you." </p>
+				<p>And settling himself more luxuriously upon the couch, Lennox closed his eyes, and
+					appeared to slumber tranquilly. Kate shook her head, and stood regarding her
+					brother, despondently, till a sudden idea made her turn toward the window,
+					exclaiming abruptly, </p>
+				<p>"Scarlet stockings, Harry!" </p>
+				<p>"Where?" and, as if the words were a spell to break the deepest day-dream, Lennox
+					hurried to the window, with an unusual expression of interest in his listless
+					face. </p>
+				<p>"I thought that would succeed! She isn't there, but I've got you up, and you are
+					not to go down again," laughed Kate, taking possession of the sofa. </p>
+				<p>"Not a bad manoeuvre. I don't mind; it's about time for the one interesting event
+					of the day to occur, so I'll watch for myself, thank you," and Lennox took the
+					easy chair by the window with a shrug and a yawn. </p>
+				<p>"I'm glad any thing does interest you," said Kate, petulantly, "though I don't
+					think it amounts to much, for, though you perch yourself at the window every day
+					to see that girl pass, you don't care enough about it to ask her name." </p>
+				<p>"I've been waiting to be told." </p>
+				<p>"It's Belle Morgan, the Doctor's daughter, and my dearest friend." </p>
+				<p>"Then, of course, she is a blue-belle?" </p>
+				<p>"Don't try to be witty or sarcastic with her, for she will beat you at that." </p>
+				<p>"Not a dumb-belle then?" </p>
+				<p>"Quite the reverse; she talks a good deal, and very well too, when she likes." </p>
+				<p>"She is very pretty; has anybody the right to call her 'Ma belle'?" </p>
+				<p>"Many would be glad to do so, but she won't have any thing to say to them." </p>
+				<p>"A Canterbury belle in every sense of the word then?" </p>
+				<p>"She might be, for all Canterbury loves her, but she isn't fashionable, and has
+					more friends among the poor than among the rich." </p>
+				<p>"Ah, I see, a diving-bell, who knows how to go down into a sea of troubles, and
+					bring up the pearls worth having." </p>
+				<p>"I'll tell her that, it will please her. You are really waking up, Harry," and
+					Kate smiled approvingly upon him. </p>
+				<p>"This page of 'Belle's Life' is rather amusing, so read away," said Lennox,
+					glancing up the street, as if he awaited the appearance of the next edition with
+					pleasure. </p>
+				<p>"There isn't much to tell; she is a nice, bright, energetic, warm-hearted dear;
+					the pride of the Doctor's heart, and a favorite with every one, though she is
+					odd. </p>
+				<p>"How odd?" </p>
+				<p>"Does and says what she likes, is very blunt and honest, has ideas and principles
+					of her own, goes to parties in high dresses, won't dance round dances, and wears
+					red stockings, though Mrs. Plantagenet says it's fast." </p>
+				<p>"Rather a jolly little person, I fancy. Why haven't we met her at some of the <pb
+						n="73"/> tea-fights and muffin-worries we've been to lately?" </p>
+				<p>"It may make you angry, but it will do you good, so I'll tell. She didn't care
+					enough about seeing the distinguished stranger to come; that's the truth." </p>
+				<p>"Sensible girl, to spare herself hours of mortal dulness, gossip, and dyspepsia,"
+					was the placid reply. </p>
+				<p>"She has seen you, though, at church and dawdling about town, and she called you
+					'Sir Charles Coldstream' on the spot. How does that suit?" asked Kate,
+					maliciously. </p>
+				<p>"Not bad, I rather like that. Wish she'd call some day, and stir us up." </p>
+				<p>"She won't; I asked her, but she said she was very busy, and told Jessy Tudor,
+					she wasn't fond of peacocks." </p>
+				<p>"I don't exactly see the connection." </p>
+				<p>"Stupid boy! she meant you, of course." </p>
+				<p>"Oh, I'm peacocks, am I?" </p>
+				<p>"I don't wish to be rude, but I really do think you <hi rend="italic">are</hi>
+					vain of your good looks, elegant accomplishments, and the impression you make
+					wherever you go. When it's worth while you exert yourself, and are altogether
+					fascinating, but the 'I come&mdash; see&mdash;and&mdash;conquer' air
+					you put on, spoils it all for sensible people." </p>
+				<p>"It strikes me that Miss Morgan has slightly infected you with her oddity as far
+					as bluntness goes. Fire away, it's rather amusing to be abused when one is dying
+					of ennui." </p>
+				<p>"That's grateful and complimentary to me, when I have devoted myself to you ever
+					since you came. But every thing bores you, and the only sign of interest you've
+					shown is in those absurd red hose. I <hi rend="italic">should</hi> like to know
+					what the charm is," said Kate, sharply. </p>
+				<p>"Impossible to say; accept the fact calmly as I do, and be grateful that there is
+					one glimpse of color, life, and spirit in this aristocratic tomb of a town." </p>
+				<p>"You are not obliged to stay in it!" fiercely. </p>
+				<p>"Begging your pardon, my dove, but I am. I promised to give you my enlivening
+					society for a month, and a Lennox keeps his word, even at the cost of his life." </p>
+				<p>"I'm sorry I asked such a sacrifice; but I innocently thought that after being
+					away for five long years, you might care to see your orphan sister," and the
+					dove produced her handkerchief with a plaintive sniff. </p>
+				<p>"Now, my dear creature, don't be melodramatic, I beg of you," cried her brother,
+					imploringly. "I wished to come, I pined to embrace you, and I give you my word,
+					I don't blame you for the stupidity of this confounded place." </p>
+				<p>"It never was so gay as since you came, for every one has tried to make it
+					pleasant for you," cried Kate, ruffled at his indifference to the hospitable
+					efforts of herself and friends. "But you don't care for any of our simple
+					amusements, because you are spoilt by the flattery, gayety, and nonsense of
+					foreign society. If I didn't know it was half affectation, I should be in
+					despair, you are so blase and absurd. It's always the way with men, if one
+					happens to be handsome, accomplished, and talented, he puts on as many airs, and
+					is as vain as any silly girl." </p>
+				<p>"Don't you think if you took breath, you'd get on faster, my dear?" asked the
+					imperturbable gentleman, as Kate paused with a gasp. </p>
+				<p>"I know it's useless for me to talk, as you don't care a straw what I say, but
+					it's true, and some day you'll wish you had done something worth doing all these
+					years. I was so proud of you, so fond of you, that I can't help being
+					disappointed, to find you with no more ambition than to kill time comfortably,
+					no interest in any thing but your own pleasures, and only energy enough to amuse
+					yourself with a pair of scarlet stockings." </p>
+				<p>Pathetic as poor Kate's face and voice were, it was impossible to help laughing
+					at the comical conclusion of her lament. Lennox tried to hide the smile on his
+					lips by affecting to curl his moustache with care, and to gaze pensively out as
+					if touched by her appeal. <pb n="74"/> But he wasn't, oh, bless you, no! she was
+					only his sister, and, though she might have talked with the wisdom of Solomon,
+					and the eloquence of Demosthenes, it wouldn't have done a particle of good.
+					Sisters do very well to work for one, to pet one, and play confidante when one's
+					love affairs need feminine wit to conduct them, but when they begin to reprove,
+					or criticise or moralize, it won't do, and can't be allowed, of course. Lennox
+					never snubbed anybody, but blandly extinguished them by a polite acquiescence in
+					all their affirmations, for the time being, and then went on in his own way as
+					if nothing had been said. </p>
+				<p>"I dare say you are right; I'll go and think over your very sensible advice,"
+					and, as if roused to unwonted exertion by the stings of an accusing conscience,
+					he left the room abruptly. </p>
+				<p>"I do believe I've made an impression at last! He's actually gone out to think
+					over what I've said. Dear Harry, I was sure he had a heart, if one only knew how
+					to get at it!" and with a sigh of satisfaction Kate went to the window to behold
+					the "dear Harry" going briskly down the street after a pair of scarlet
+					stockings. A spark of anger kindled in her eyes as she watched him, and when he
+					vanished, she still stood knitting her brows in deep thought, for a grand idea
+					was dawning upon her. </p>
+				<p>It was a dull town; no one could deny that, for everybody was so intensely proper
+					and well-born, that nobody dared to be jolly. All the houses were square,
+					aristocratic mansions with Revolutionary elms in front and spacious coach-houses
+					behind. The knockers had a supercilious perk to their bronze or brass noses, the
+					dandelions on the lawns had a highly connected air, and the very pigs were
+					evidently descended from "our first families." Stately dinner-parties, decorous
+					dances, moral picnics, and much tea-pot gossiping were the social resources of
+					the place. Of course, the young people flirted, for that diversion is apparently
+					irradicable even in the "best society," but it was done with a propriety which
+					was edifying to behold. </p>
+				<p>One can easily imagine that such a starched state of things would not be
+					particularly attractive to a travelled young gentleman like Lennox, who, as Kate
+					very truly said, <hi rend="italic">had</hi> been spoilt by the flattery, luxury,
+					and gayety of foreign society. He did his best, but by the end of the first week
+					ennui claimed him for its own, and passive endurance was all that was left him.
+					From perfect despair he was rescued by the scarlet stockings, which went
+					tripping by one day as he stood at the window, planning some means of escape. </p>
+				<p>A brisk, blithe-faced girl passed in a grey walking suit with a distracting pair
+					of high-heeled boots and glimpses of scarlet at the ankle. Modest, perfectly so,
+					I assure you, were the glimpses, but the feet were so decidedly pretty that one
+					forgot to look at the face appertaining thereunto. It wasn't a remarkably lovely
+					face, but it was a happy, wholesome one, with all sorts of good little dimples
+					in cheek and chin, sunshiny twinkles in the black eyes, and a decided, yet
+					lovable look about the mouth that was quite satisfactory. A busy, bustling
+					little body she seemed to be, for sack-pockets and muff were full of bundles,
+					and the trim boots tripped briskly over the ground, as if the girl's heart were
+					as light as her heels. Somehow this active, pleasant figure seemed to wake up
+					the whole street, and leave a streak of sunshine behind it, for every one nodded
+					as it passed, and the primmest faces relaxed into smiles, which lingered when
+					the girl had gone. </p>
+				<p>"Uncommonly pretty feet&mdash;she walks well, which American girls seldom
+					do&mdash;all waddle or prance&mdash;nice face, but the boots are French,
+					and it does my heart good to see 'em." </p>
+				<p>Lennox made these observations to himself as the young lady approached, nodded to
+					Kate at another window, gave a quick but comprehensive glance at himself and
+					trotted round the corner, leaving the impression on his mind that a whiff of
+					fresh spring air had blown <pb n="75"/> through the street in spite of the
+					December snow. He didn't trouble himself to ask who it was, but fell into the
+					way of lounging in the bay-window at about three P. M., and watching the grey
+					and scarlet figure pass with its blooming cheeks, bright eyes, and elastic step.
+					Having nothing else to do, he took to petting this new whim, and quite depended
+					on the daily stirring-up which the sight of the energetic damsel gave him. Kate
+					saw it all, but took no notice till the day of the little tiff above recorded;
+					after that she was as soft as a summer sea, and by some clever stroke had Belle
+					Morgan to tea that very week. </p>
+				<p>Lennox was one of the best tempered fellows in the world, but the "peacocks" did
+					rather nettle him because there was some truth in the insinuation; so he took
+					care to put on no airs or try to be fascinating in the presence of Miss Belle.
+					In truth he soon forgot himself entirely, and enjoyed her oddities with a
+					relish, after the prim proprieties of the other young ladies who had simpered
+					and sighed before him. For the first time in his life, the "Crusher," as his
+					male friends called him, got crushed; for Belle, with the subtle skill of a
+					quick-witted, keen-sighted girl, soon saw and condemned the elegant affectations
+					which others called foreign polish. A look, a word, a gesture from a pretty
+					woman is often more eloquent and impressive than moral essays or semi-occasional
+					twinges of conscience, and in the presence of one satirical little person, Sir
+					Charles Coldstream soon ceased to deserve the name. </p>
+				<p>Belle seemed to get over her hurry and to find time for occasional relaxation,
+					but one never knew in what mood he might find her, for the weathercock was not
+					more changeable than she. Lennox liked that, and found the muffin-worries quite
+					endurable with this <hi rend="italic">sauce piquante</hi> to relieve their
+					insipidity. Presently he discovered that he was suffering for exercise, and
+					formed the wholesome habit of promenading the town about three P. M.; Kate said,
+					to follow the scarlet stockings. </p>
+
+			</div1>
+
+			<div1 type="section" n="2" id="d4">
+				<head>II.<lb/>WHERE THEY LED HIM.</head>
+
+				<p>"WHITHER away, Miss Morgan?" asked Lennox, as he overtook her one bitter cold
+					day. </p>
+				<p>"I'm taking my constitutional." </p>
+				<p>"So am I." </p>
+				<p>"With a difference," and Belle glanced at the blue-nosed, muffled-up gentleman
+					strolling along beside her with an occasional shiver and shrug. </p>
+				<p>"After a winter in the south of France one don't find arctic weather like this
+					easy to bear," he said, with a disgusted air. </p>
+				<p>"I like it, and do my five or six miles a day, which keeps me in what fine ladies
+					call 'rude health,' answered Belle, walking him on at a pace which soon made his
+					furs a burden. </p>
+				<p>She was a famous pedestrian, and a little proud of her powers, but she outdid all
+					former feats that day, and got over the ground in gallant style. Something in
+					her manner put her escort on his mettle, and his usual lounge was turned into a
+					brisk march which set his blood dancing, face glowing, and spirits effervescing
+					as they had not done for many a day. </p>
+				<p>"There! you look more like your real self now," said Belle, with the first sign
+					of approval she had ever vouchsafed him, as he rejoined her after a race to
+					recover her veil, which the wind whisked away over hedge and ditch. </p>
+				<p>"Are you sure you know what my real self is?" he asked, with a touch of the
+					"conquering hero" air. </p>
+				<p>"Not a doubt of it. I always know a soldier when I see one," returned Belle,
+					decidedly. </p>
+				<p>"A soldier! that's the last thing I should expect to be accused of," and Lennox
+					looked both surprised and gratified. </p>
+				<p>"There's a flash in your eye and a ring to your voice, occasionally, which <pb
+						n="76"/> made me suspect that you had fire and energy enough if you only
+					chose to show it, and the spirit with which you have just executed the 'Morgan
+					Quick step' proves that I was right," returned Belle, laughing. </p>
+				<p>"Then I am not altogether a 'peacock?'" said Lennox, significantly, for during
+					the chat, which had been as brisk as the walk, Belle had given his besetting
+					sins several sly hits, and he couldn't resist one return shot, much as her
+					unexpected compliment pleased him. </p>
+				<p>Poor Belle blushed up to her forehead, tried to look as if she did not
+					understand, and gladly hid her confusion behind the recovered veil without a
+					word. </p>
+				<p>There was a decided display both of the "flash" and the "ring," as Lennox looked
+					at the suddenly subdued young lady, and, quite satisfied with his retaliation,
+					gave the order&mdash;"Forward, march!" which brought them to the garden-gate
+					breathless, but better friends than before. </p>
+				<p>The next time the young people met, Belle was in such a hurry that she went round
+					the corner with an abstracted expression which was quite a triumph of art. Just
+					then, off tumbled the lid of the basket she carried, and Lennox, rescuing it
+					from a puddle, obligingly helped readjust it over a funny collection of bottles,
+					dishes, and tidy little rolls of all sorts. </p>
+				<p>"It's very heavy, mayn't I carry it for you?" he asked, in an insinuating manner. </p>
+				<p>"No, thank you," was on Belle's lips, but observing that he was got up with
+					unusual elegance to pay calls, she couldn't resist the temptation of making a
+					beast of burden of him, and took him at his word. </p>
+				<p>"You may, if you like. I've got more bundles to take from the store, and another
+					pair of hands won't come amiss." </p>
+				<p>Lennox lifted his eyebrows, also the basket, and they went on again, Belle very
+					much absorbed in her business, and her escort wondering where the dickens she
+					was going with all that rubbish. Filling his unoccupied hand with sundry brown
+					paper parcels, much to the detriment of the light kid that covered it, Belle
+					paraded him down the main street before the windows of the most aristocratic
+					mansions, and then dived into a dirty back-lane, where the want and misery of
+					the town was decorously kept out of sight. </p>
+				<p>"You don't mind scarlet fever, I suppose?" observed Belle, as they approached the
+					unsavory residence of Biddy O'Brien. </p>
+				<p>"Well, I'm not exactly partial to it," said Lennox, rather taken aback. </p>
+				<p>"You needn't go in if you are afraid, or speak to me afterwards, so no harm will
+					be done&mdash;except to your gloves." </p>
+				<p>"Why do <hi rend="italic">you</hi> come here, if I may ask? It isn't the sort of
+					amusement I should recommend," he began, evidently disapproving of the step. </p>
+				<p>"Oh, I'm used to it, and like to play nurse where father plays doctor. I'm fond
+					of children, and Mrs. O'Brien's are little dears," returned Belle, briskly,
+					threading her way between ash-heaps and mud-puddles as if bound to a festive
+					scene. </p>
+				<p>"Judging from the row in there, I should infer that Mrs. O'Brien had quite a herd
+					of little dears." </p>
+				<p>"Only nine." </p>
+				<p>"And all sick?" </p>
+				<p>"More or less." </p>
+				<p>"By Jove! it's perfectly heroic in you to visit this hole in spite of dirt,
+					noise, fragrance, and infection," cried Lennox, who devoutly wished that the
+					sense of smell if not of hearing were temporarily denied him. </p>
+				<p>"Bless you, it's the sort of thing I enjoy, for there's no nonsense here; the
+					work you do is pleasant if you do it heartily, and the thanks you get are worth
+					having, I assure you." </p>
+				<p>She put out her hand to relieve him of the basket, but he gave it an approving
+					little shake, and said briefly&mdash; </p>
+				<p>"Not yet, I'm coming in." </p>
+				<p>It's all very well to rhapsodize about the exquisite pleasure of doing good, to
+					give carelessly of one's abundance, and <pb n="77"/> enjoy the delusion of
+					having remembered the poor. But it is a cheap charity, and never brings the
+					genuine satisfaction which those know who give their mite with heart as well as
+					hand, and truly love their neighbor as themselves. Lennox had seen much
+					fashionable benevolence, and laughed at it even while he imitated it, giving
+					generously when it wasn't inconvenient. But this was a new sort of thing
+					entirely, and in spite of the dirt, the noise, and the smells, he forgot the
+					fever, and was glad he came when poor Mrs. O'Brien turned from her sick babies,
+					exclaiming, with Irish fervor at sight of Belle, </p>
+				<p>"The Lord love ye, darlin, for remimberin us when ivery one, barrin' the doctor,
+					and the praste, turns the cowld shouldther in our throuble!" </p>
+				<p>"Now if you really want to help, just keep this child quiet while I see to the
+					sickest ones," said Belle, dumping a stout infant on to his knee, thrusting an
+					orange into his hand, and leaving him aghast, while she unpacked her little
+					messes, and comforted the maternal bird. </p>
+				<p>With the calmness of desperation, her aid-de-camp put down his best beaver on the
+					rich soil which covered the floor, pocketed his Paris kids, and making a bib of
+					his cambric handkerchief, gagged young Pat deliciously with bits of orange
+					whenever he opened his mouth to roar. At her first leisure moment, Belle glanced
+					at him to see how he was getting on, and found him so solemnly absorbed in his
+					task that she went off into a burst of such infectious merriment that the
+					O'Briens, sick and well, joined in it to a man. </p>
+				<p>"Good fun, isn't it?" she asked, turning down her cuffs when the last spoonful of
+					gruel was administered. </p>
+				<p>"I've no doubt of it, when one is used to the thing. It comes a little hard at
+					first, you know," returned Lennox, wiping his forehead, with a long breath, and
+					seizing his hat as if quite ready to tear himself away. </p>
+				<p>"You've done very well for a beginner; so kiss the baby and come home," said
+					Belle approvingly. </p>
+				<p>"No, thank you," muttered Lennox, trying to detach the bedaubed innocent. But
+					little Pat had a grateful heart, and falling upon his new nurse's neck with a
+					rapturous crow clung there like a burr. </p>
+				<p>"Take him off! Let me out of this! He's one too many for me!" cried the wretched
+					young man in comic despair. </p>
+				<p>Being freed with much laughter, he turned and fled, followed by a shower of
+					blessings, from Mrs. O'Brien. </p>
+				<p>As they came up again into the pleasant highways, Lennox said, awkwardly for him, </p>
+				<p>"The thanks of the poor <hi rend="italic">are</hi> excellent things to have, but
+					I think I'd rather receive them by proxy. Will you kindly spend this for me in
+					making that poor soul comfortable?" </p>
+				<p>But Belle wouldn't take what he offered her, she put it back, saying earnestly, </p>
+				<p>"Give it yourself; one can't buy blessings, they must be <hi rend="italic"
+					>earned</hi> or they are not worth having. Try it, please, and if you find it a
+					failure, then I'll gladly be your almoner." </p>
+				<p>There was a significance in her words which he could not fail to understand. He
+					neither shrugged, drawled, nor sauntered now, but gave her a look in which
+					respect and self-reproach were mingled, and left her, simply saying, "I'll try
+					it, Miss Morgan." </p>
+				<p>"Now isn't she odd?" whispered Kate to her brother, as Belle appeared at a little
+					dance at Mrs. Plantagenet's in a high-necked dress, knitting away on an
+					army-sock, as she greeted the friends who crowded round her. </p>
+				<p>"Charmingly so. Why don't you do that sort of thing when you can?" answered her
+					brother, glancing at her thin, bare shoulders and hands, rendered nearly useless
+					by the tightness of the gloves. </p>
+				<p>"Gracious, no! It's natural to her to do so, and she carries it off well; I
+					couldn't, therefore I don't try, though I admire it in her. Go and ask her to
+					dance, before she is engaged." </p>
+				<p>"She doesn't dance round dances you know." <pb n="78"/>
+				</p>
+				<p>"She is dreadfully prim about some things and so free and easy about others, I
+					can't understand it, do you?" </p>
+				<p>"Well, yes, I think I do. Here's Forbes coming for you, I'll go and entertain
+					Belle by a quarrel." </p>
+				<p>He found her in a recess out of the way of the rushing and romping, busy with her
+					work, yet evidently glad to be amused. </p>
+				<p>"I admire your adherence to principles, Miss Belle, but don't you find it a
+					little hard to sit still while your friends are enjoying themselves?" he asked,
+					sinking luxuriously into the lounging chair beside her. </p>
+				<p>"Yes, very," answered Belle with characteristic candor. "But father don't approve
+					of that sort of exercise, so I console myself with something useful till my
+					chance comes." </p>
+				<p>"Your work can't exactly be called ornamental," said Lennox, looking at the big
+					sock. </p>
+				<p>"Don't laugh at it, sir, it is for the foot of the brave fellow who is going to
+					fight for me and his country." </p>
+				<p>"Happy fellow! May I ask who he is?" and Lennox sat up with an air of interest. </p>
+				<p>"My substitute; I don't know his name, for father has not got him yet, but I'm
+					making socks, and towels, and a comfort-bag for him, so that when found he may
+					be off at once." </p>
+				<p>"You really mean it?" cried Lennox. </p>
+				<p>"O course I do; I can't go myself, but I <hi rend="italic">can</hi> buy a pair of
+					strong arms to fight for me, and I intend to do it. I only hope he'll have the
+					right sort of courage and be a credit to me." </p>
+				<p>"What do you call the right sort of courage?" asked Lennox, soberly. </p>
+				<p>"That which makes a man ready and glad to live or die for a principle. There's a
+					chance for heroes now, if there ever was. When do you join your regiment?" she
+					added abruptly. </p>
+				<p>"Haven't the least idea," and Lennox subsided again. </p>
+				<p>"But you intend to do so, of course?" </p>
+				<p>"Why should I?" </p>
+				<p>Belle dropped her work. "Why should you? What a question! Because you have
+					health, and strength, and courage, and money to help on the good cause, and
+					every man should give his best, and not <hi rend="italic">dare</hi> to stay at
+					home when he is needed." </p>
+				<p>"You forget that I am an Englishman, and we rather prefer to be strictly neutral
+					just now." </p>
+				<p>"You are only half English, and for your mother's sake you should be proud and
+					glad to fight for the North," cried Belle warmly. </p>
+				<p>"I don't remember my mother&mdash;" </p>
+				<p>"That's evident!" </p>
+				<p>"But I was about to add, I've no objection to lend a hand if it isn't too much
+					trouble to get off," said Lennox indifferently, for he liked to see Belle's
+					color rise, and her eyes kindle while he provoked her. </p>
+				<p>"Do you expect to go South in a bandbox? You'd better join one of the kid-glove
+					regiments, they say the dandies fight well when the time comes." </p>
+				<p>"I've been away so long, the patriotic fever hasn't seized me yet, and as the
+					quarrel is none of mine, I think, perhaps I'd better take care of Kate, and let
+					you fight it out among yourselves. Here's the Lancers, may I have the honor?" </p>
+				<p>But Belle, being very angry at this lukewarmness, answered in her bluntest
+					manner. </p>
+				<p>"Having reminded me that you are a 'strictly neutral' Englishman, you must excuse
+					me if I decline; <hi rend="italic">I</hi> dance only with loyal Americans," and
+					rolling up her work with a defiant flourish, she walked away, leaving him to
+					lament his loss and wonder how he could retrieve it. She did not speak to him
+					again till he stood in the hall waiting for Kate, then Belle came down in the
+					charming little red hood, and going straight up to him with her hand out, a
+					repentant look, and a friendly smile, said frankly&mdash; </p>
+				<p>"I was very rude; I want to beg pardon of the English, and shake hands with the
+					American half." </p>
+				<p>So peace was declared, and lasted unbroken for the remaining week of his stay,
+					when he proposed to take Kate to the city for a little gayety. Miss Morgan
+					openly approved the plan, but secretly felt as if the town was about to be
+					depopulated, and tried to hide her melancholy in her substitute's socks. They
+					were not large enough, however, to absorb it all, and when Lennox went to make
+					his adieu, it was perfectly evident that the Doctor's Belle was out of tune. The
+					young gentleman basely exulted over this, till she gave him something else to
+					think about by saying gravely, </p>
+				<p>"Before you go, I feel as if I ought to tell you something, since Kate won't. If
+					you are offended about it please don't blame her; she meant it kindly and so did
+					I." Belle paused as if it was not an easy thing to tell, and then went on
+					quickly, with her eyes upon her work. </p>
+				<p>"Three weeks ago Kate asked me to help her in a little plot, and I consented, for
+					the fun of the thing. She wanted something to amuse and stir you up, and finding
+					that my queer ways diverted you, she begged me to be neighborly and let you do
+					what you liked. I didn't care particularly about amusing you, but I did think
+					you needed rousing, so for her sake I tried to do it, and you very
+					good-naturedly bore my lecturing. I don't like deceit of any kind, so I confess,
+					but I can't say I'm sorry, for I really think you are none the worse for the
+					teasing and teaching you've had." </p>
+				<p>Belle didn't see him flush and frown as she made her confession, and when she
+					looked up he only said, half gratefully, half reproachfully, </p>
+				<p>"I'm a good deal the better for it, I dare say, and ought to be very thankful for
+					your friendly exertions. But two against one was hardly fair, now was it?" </p>
+				<p>"No, it was sly and sinful in the highest degree, but we did it for your good, so
+					I know you'll forgive us, and as a proof of it sing one or two of my favorites
+					for the last time." </p>
+				<p>"You don't deserve any favor, but I'll do it to show you how much more
+					magnanimous men are than women." </p>
+				<p>Not at all loth to improve his advantages, Lennox warbled his most melting lays
+						<hi rend="italic">con amore</hi>, watching, as he sung, for any sign of
+					sentiment in the girlish face opposite. But Belle wouldn't be sentimental; and
+					sat rattling her knitting-needles industriously, though "The Harbor Bar was
+					Moaning," dolefully, though "Douglas" was touchingly "tender and true," and the
+					"Wind of the Summer Night" sighed romantically through the sitting-room. </p>
+				<p>"Much obliged. Must you go?" she said, without a sign of soft confusion as he
+					rose. </p>
+				<p>"I must, but I shall come again before I leave the country. May I?" he asked,
+					holding her hand. </p>
+				<p>"If you come in a uniform." </p>
+				<p>"Good night, Belle," tenderly. "Good-bye, Sir Charles," with a wicked twinkle of
+					the eye, which lasted till he closed the hall-door, growling irefully, </p>
+				<p>"I thought I'd had some experience, but one never <hi rend="italic">can</hi>
+					understand these women." </p>
+				<p>Canterbury did become a desert to Belle after her dear friend had gone; (of
+					course the dear friend's brother had nothing to do with the desolation), and as
+					the weeks dragged slowly, Belle took to reading poetry, practicing plaintive
+					ballads, and dawdling over her work at a certain window which commanded a view
+					of the railway station and hotel. </p>
+				<p>"You're dull, my dear, run up to town with me to-morrow, and see your young man
+					off," said the Doctor, one evening as Belle sat musing with a half-mended red
+					stocking in her hand. </p>
+				<p>"My young man?" she ejaculated, turning with a start and a blush. </p>
+				<p>"Your substitute, child. Stephens attended to the business for me, and he's off
+					to-morrow. I began to tell you about the fellow last week, but you were
+					wool-gathering, so I stopped." </p>
+				<p>"Yes, I remember, it was all very nice. Goes to-morrow, does he? I'd like to see
+					him, but do you think we can both leave home at once? Some one might come you
+					know, and I fancy it's going to snow," said Belle, putting <pb n="80"/> her face
+					behind the curtain to inspect the weather. </p>
+				<p>"You'd better go, the trip will do you good, you can take your things to Tom
+					Jones, and see Kate on the way; she's got back from Philadelphia." </p>
+				<p>"Has she! I'll go, then; it will please her, and I do need change. You are an old
+					dear, to think of it;" and giving her father a hasty glimpse of a suddenly
+					excited countenance, Belle slipped out of the room to prepare her best array
+					with a most reckless disregard of the impending storm. </p>
+				<p>It didn't snow on the morrow, and up they went to see the &mdash;th regiment
+					off. Belle did not see "her young man," however, for while her father went to
+					carry him her comforts and a patriotic nosegay of red and white flowers, tied up
+					with a smart blue ribbon, she called on Kate. But Miss Lennox was engaged, and
+					sent an urgent request that her friend would call in the afternoon. Much
+					disappointed and a little hurt, Belle then devoted herself to the departing
+					regiment, wishing she was going with it, for she felt in a war-like mood. It was
+					past noon when a burst of martial music, the measured tramp of many feet, and
+					enthusiastic cheers announced that "the boys" were coming. From the balcony
+					where she stood with her father, Belle looked down upon the living stream that
+					flowed by like a broad river with a steely glitter above the blue. All her petty
+					troubles vanished at the sight, her heart beat high, her face glowed, her eyes
+					filled, and she waved her hat as zealously as if she had a dozen friends and
+					lovers in the ranks below. </p>
+				<p>"Here comes your man; I told him to stick the posy where it would catch my eye,
+					so I could point him out to you. Look, it's the tall fellow at the end of the
+					front line," said the Doctor in an excited tone, as he pointed and beckoned. </p>
+				<p>Belle looked and gave a little cry, for there, in a private's uniform, with her
+					nosegay at his buttonhole, and on his face a smile she never forgot, was Lennox!
+					For an instant she stood staring at him as pale and startled as if he were a
+					ghost, then the color rushed into her face, she kissed both hands to him, and
+					cried bravely, "Good-bye, good-bye, God bless you, Harry!" and immediately laid
+					her head on her father's shoulder, sobbing as if her heart was broken. </p>
+				<p>When she looked up, her substitute was lost in the undulating mass below, and for
+					her the spectacle was over. </p>
+				<p>"Was it really he? Why wasn't I told? What does it all mean?" she demanded,
+					looking bewildered, grieved, and ashamed. </p>
+				<p>"He's really gone, my dear. It's a surprise of his, and I was bound over to
+					silence. Here, this will explain the joke, I suppose," and the Doctor handed her
+					a cocked-hat note, done up like a military order. </p>
+				<p>"A Roland for your Oliver, Mademoiselle! I came home for the express purpose of
+					enlisting, and only delayed a month on Kate's account. If I ever return, I will
+					receive my bounty at your hands. Till then please comfort Kate, think as kindly
+					as you can of 'Sir Charles,' and sometimes pray a little prayer for </p>
+				<p> "Your unworthy </p>
+				<p> "Substitute." </p>
+				<p>Belle looked very pale and meek when she put her note in her pocket, but she only
+					said, "I must go and comfort Kate," and the Doctor gladly obeyed, feeling that
+					the joke was more serious than he had imagined. </p>
+				<p>The moment her friend appeared, Miss Lennox turned on her tears, and "played
+					away" pouring forth lamentations, reproaches, and regrets in a steady stream. </p>
+				<p>"I hope you are satisfied now, you cruel girl!" she began, refusing to be kissed.
+					"You've sent him off with a broken heart to rush into danger and be shot, or get
+					his arms and legs spoilt. You know he loved you and wanted to tell you so, but
+					you wouldn't let him, and now you've driven him away, and he's gone as an
+					insignificant private with his head shaved, and a heavy knapsack breaking his
+					back, and a horrid gun that will be sure to explode, <pb n="81"/> and he <hi
+						rend="italic">would</hi> wear those immense blue socks you sent, for he
+					adores you, and you only teased and laughed at him, my poor deluded, deserted
+					brother!" And quite overwhelmed by the afflicting picture, Kate lifted up her
+					voice and wept again. </p>
+				<p>"I <hi rend="italic">am</hi> satisfied; for he's done what I hoped he would, and
+					he's none the less a gentleman because he's a private and wears my socks. I pray
+					they will keep him safe and bring him home to us when he has done his duty like
+					a man, as I know he will. I'm proud of my brave substitute, and I'll try to be
+					worthy of him," cried Belle, kindling beautifully as she looked out into the
+					wintry sunshine with a new softness in the eyes that still seemed watching that
+					blue-coated figure marching away to danger, perhaps death. </p>
+				<p>"It's ill playing with edged tools; we meant to amuse him and we may have sent
+					him to destruction. I'll never forgive you for your part, never!" said Kate,
+					with the charming inconsistency of her sex. </p>
+				<p>But Belle turned away her wrath by a soft answer, as she whispered, with a tender
+					choke in her voice, </p>
+				<p>"We both loved him, dear; let's comfort one another." </p>
+			</div1>
+
+			<div1 type="section" n="3" id="d5">
+				<head>III.<lb/>WHAT BECAME OF THEM.</head>
+
+				<p>PRIVATE Lennox certainly <hi rend="italic">had</hi> chosen pretty hard work, for
+					the &mdash;th was not a "kid-glove" regiment by any means; fighting in
+					mid-winter was not exactly festive, and camps do not abound in beds of roses
+					even at the best of times. But Belle was right in saying she knew a soldier when
+					she saw him, for now that he was thoroughly waked up, he proved that there was
+					plenty of courage, energy, and endurance in him. </p>
+				<p>It's my private opinion that he might now and then have slightly regretted the
+					step he had taken, had it not been for certain recollections of a sarcastic
+					tongue and a pair of keen eyes, not to mention the influence of one of the most
+					potent rulers of the human heart, namely, the desire to prove himself worthy of
+					the respect, if nothing more, of somebody at home. Belle's socks did seem to
+					keep him safe, and lead him straight in the narrow path of duty. Belle's
+					comfort-bag was such in very truth, for not one of the stout needles on the
+					tricolored cushion but what seemed to wink its eye approvingly at him; not one
+					of the tidy balls of thread that did not remind him of the little hand he
+					coveted, and the impracticable scissors, were cherished as a good omen, though
+					he felt that the sharpest steel that ever came from Sheffield couldn't cut his
+					love in twain. And Belle's lessons, short as they had been, were not forgotten,
+					but seemed to have been taken up by a sterner mistress, whose rewards were
+					greater if not so sweet as those the girl could give. There was plenty of
+					exercise now-a-days of hard work that left many a tired head asleep forever
+					under the snow. There were many opportunities for diving "into the depths and
+					bringing up pearls worth having" by acts of kindness among the weak, the wicked,
+					and the suffering all about him. He learned now how to earn, not buy, the thanks
+					of the poor, and unconsciously proved in the truest way that a private <hi
+						rend="italic">could</hi> be a gentleman. But best of all was the steadfast
+					purpose "to live and die for a principle," which grew and strengthened with each
+					month of bitter hardship, bloody strife, and dearly-bought success. Life grew
+					earnest to him, time seemed precious, self was forgotten, and all that was best
+					and bravest rallied round the flag on which his heart inscribed the motto, "Love
+					and Liberty." </p>
+				<p>Praise and honor he could not fail to win, and had he never gone back to claim
+					his bounty he would have earned the great "Well done," for he kept his oath
+					loyally, did his duty manfully, and loved his lady faithfully, like a knight of
+					the chivalrous times. He knew nothing of her secret, but wore <pb n="82"/> her
+					blue ribbon like an order, never went into battle without first, like many
+					another poor fellow, kissing something which he carried next his heart, and with
+					each day of absence felt himself a better man, and braver soldier, for the
+					fondly foolish romance he had woven about the scarlet stockings. </p>
+				<p>Belle and Kate did comfort one another, not only with tears and kisses, but with
+					womanly work which kept hearts happy and hands busy. How Belle bribed her to
+					silence will always remain the ninth wonder of the world, but though reams of
+					paper passed between brother and sister during those twelve months not a hint
+					was dropped on one side in reply to artful inquiries from the other. Belle never
+					told her love in words, but she stowed away an unlimited quantity of the article
+					in the big boxes that went to gladden the eyes and&mdash;alas for
+					romance!&mdash;the stomach of Private Lennox. If pickles could typify
+					passion, cigars prove constancy, and gingerbread reveal the longings of the
+					soul, then would the above-mentioned gentleman have been the happiest of lovers.
+					But camp-life had doubtless dulled his finer intuitions, for he failed to
+					understand the new language of love, and gave away these tender tokens with
+					lavish prodigality. Concealment preyed a trifle on Belle's damask cheek it must
+					be confessed, and the keen eyes grew softer with the secret tears that sometimes
+					dimmed them; the sharp tongue seldom did mischief now, but uttered kindly words
+					to every one as if doing penance for the past, and a sweet seriousness toned
+					down the lively spirit which was learning many things in the sleepless nights
+					that followed when the "little prayer" for the beloved substitute was done. </p>
+				<p>"I'll wait and see if he is all I hope he will be, before I let him know. I shall
+					read the truth the instant I see him, and if he has stood the test I'll run into
+					his arms and tell him everything," she said to herself with delicious thrills at
+					the idea; but you may be sure she did nothing of the sort when the time came. </p>
+				<p>A rumor flew through the town one day that Lennox had arrived; upon receipt of
+					which joyful tidings Belle had a panic and hid herself in the garret. But when
+					she had quaked, and cried, and peeped, and listened for an hour or two, finding
+					that no one came to hunt her up, she composed her nerves and descended to pass
+					the afternoon in the parlor and a high state of dignity. All sorts of reports
+					reached her&mdash;he was mortally wounded, he had been made a major or a
+					colonel, or a general, no one knew exactly which; he was dead, was going to be
+					married, and hadn't come at all. Belle fully expiated all her small sins by the
+					agonies of suspense she suffered that day, and when at last a note came from
+					Kate begging her "to drop over to see Harry," she put her pride in her pocket
+					and went at once. </p>
+				<p>The drawing-room was empty and in confusion, there was a murmur of voices
+					up-stairs, a smell of camphor in the air, and an empty wine-glass on the table
+					where a military cap was lying. Belle's heart sunk, and she covertly kissed the
+					faded blue coat as she stood waiting breathlessly, wondering if Harry had any
+					arms for her to run into. She heard the chuckling Biddy lumber up and announce
+					her, then a laugh and a half fond, half exulting&mdash;"Ah, ha, I thought
+					she'd come!" </p>
+				<p>That spoilt it all; Belle took out her pride instanter, set her teeth, rubbed a
+					quick color into her white cheeks, and snatching up a newspaper, sat herself
+					down with as expressionless a face as it was possible for an excited young woman
+					to possess. Lennox came running down&mdash;"Thank heaven, his legs are
+					safe!" sighed Belle, with her eyes glued to the price of beef. He entered with
+					both hands extended, which relieved her mind upon another point, and he beamed
+					upon her, looking so vigorous, manly, and martial that she cried within herself,
+					"My beautiful brown soldier!" even while she greeted him with an unnecessarily
+					brief "How do you do, Mr. Lennox?" </p>
+				<p>The sudden eclipse which passed <pb n="83"/> over his joyful countenance would
+					have been ludicrous if it hadn't been pathetic; but he was used to hard knocks
+					now, and bore this, his hardest, like a man. He shook hands heartily, and as
+					Belle sat down again (not to betray that she was trembling a good deal), he
+					stood at ease before her, talking in a way which soon satisfied her that he <hi
+						rend="italic">had</hi> borne the test, and that bliss was waiting for her
+					round the corner. But she had made it such a very sharp corner she couldn't turn
+					it gracefully, and while she pondered how to do so he helped her with a cough.
+					She looked up quickly, discovering all at once that he was very thin, rather
+					pale in spite of the nice tan, and breathed hurriedly as he stood with one hand
+					in his breast. </p>
+				<p>"Are you ill, wounded, in pain?" she asked, forgetting herself entirely. </p>
+				<p>"Yes, all three," he answered, after a curious look at her changing color and
+					anxious eyes. </p>
+				<p>"Sit down&mdash;tell me about it&mdash;can I do any thing?" and Belle
+					began to plump up the pillows on the couch with nervous eagerness. </p>
+				<p>"Thank you, I'm past help," was the mournful reply, accompanied by a hollow cough
+					which made her shiver. </p>
+				<p>"Oh, don't say so! Let me bring father; he is very skilful. Shall I call Kate?" </p>
+				<p>"He can do nothing; Kate doesn't know this, and I beg you won't tell her. I got a
+					shot in the breast and made light of it, but it will finish me sooner or later.
+					I don't mind telling you, for you are one of the strong, cool sort, you know,
+					and are not affected by such things. But Kate is so fond of me, I don't want to
+					shock and trouble her yet awhile. Let her enjoy my little visit, and after I'm
+					gone you can tell her the truth." </p>
+				<p>Belle had sat like a statue while he spoke with frequent pauses and an
+					involuntary clutch or two at the suffering breast. As he stopped and passed his
+					hand over his eyes, she said slowly, as if her white lips were stiff, </p>
+				<p>"Gone! where?" </p>
+				<p>"Back to my place. I'd rather die fighting than fussed and wailed over by a
+					parcel of women. I expected to stay a week or so, but a battle is coming off
+					sooner than we imagined, so I'm away again to-morrow. As I'm not likely ever to
+					come back, I just wanted to ask you to stand by poor Kate when I'm finished, and
+					to say good-bye to you, Belle, before I go." He put out his hand, but holding it
+					fast in both her own, she laid her tearful face down on it, whispering
+					imploringly, </p>
+				<p>"Oh, Harry, stay!" </p>
+				<p>Never mind what happened for the next ten minutes; suffice it to say that the
+					enemy having surrendered, the victor took possession with great jubilation and
+					showed no quarter. </p>
+				<p>"Bang the field piece, toot the fife, and beat the rolling drum, for ruse number
+					three has succeeded! Come down, Kate, and give us your blessing," called Lennox,
+					taking pity on his sister, who was anxiously awaiting the <hi rend="italic"
+						>denouement</hi> on the stairs. </p>
+				<p>In she rushed, and the young ladies laughed and cried, kissed and talked
+					tumultuously, while their idol benignantly looked on, vainly endeavoring to
+					repress all vestiges of unmanly emotion. </p>
+				<p>"And you are not dying, really, truly?" cried Belle, when fair weather set in
+					after the flurry. </p>
+				<p>"Bless your dear heart, no! I'm as sound as a nut, and haven't a wound to boast
+					of, except this ugly slash on the head." </p>
+				<p>"It's a splendid wound, and I'm proud of it," and Belle set a rosy little seal on
+					the scar which quite reconciled her lover to the disfigurement of his handsome
+					forehead. "You've learned to fib in the army, and I'm disappointed in you," she
+					added, trying to look reproachful and failing entirely. </p>
+				<p>"No, only the art of strategy. You quenched me by your frosty reception, and I
+					thought it was all up till you put the idea of playing invalid into my head. It
+					succeeded so well that I piled on the agony, resolving to fight it out on that
+					line, and if I failed again to <pb n="84"/> make a masterly retreat. You gave me
+					a lesson in deceit once, so don't complain if I turned the tables and made your
+					heart ache for a minute, as you've made mine for a year." </p>
+				<p>Belle's spirit was rapidly coming back, so she gave him a capital imitation of
+					his French shrug, and drawled out in his old way&mdash; </p>
+				<p>"I have my doubts about that, mon ami." </p>
+				<p>"What do you say to this&mdash;and this&mdash;and this?" he retorted,
+					pulling out and laying before her with a triumphant flourish, a faded blue
+					ribbon, a fat pincushion with a hole through it, and a dainty-painted little
+					picture of a pretty girl in scarlet stockings. </p>
+				<p>"There, I've carried those treasures in my breast-pocket for a year, and I'm
+					firmly convinced that they have all done their part toward keeping me safe. The
+					blue ribbon bound me fast to you, Belle; the funny cushion caught the bullet
+					that otherwise might have finished me, and the blessed little picture was my
+					comfort during those dreadful marches, my companion on picket-duty with
+					treachery and danger all about me, and my inspiration when the word 'Charge!'
+					went down the line, for in the thickest of the fight I always saw the little
+					grey figure beckoning me on to my duty." </p>
+				<p>"Oh, Harry, you won't go back to all those horrors, will you? I'm sure you've
+					done enough, and may rest now and enjoy your reward," said Kate, trying not to
+					feel that "two is company and three is none." </p>
+				<p>"I've enlisted for the war, and shall not rest till either it or I come to an
+					end. As for my reward, I had it when Belle kissed me." </p>
+				<p>"You are right, I'll wait for you, and love you all the better for the
+					sacrifice," whispered Belle. "I only wish I could share your hardships, dear,
+					for while you fight and suffer I can only love and pray." </p>
+				<p>"Waiting is harder than working to such as you, so be contented with your share,
+					for the thought of you will glorify the world generally for me. I'll tell you
+					what you <hi rend="italic">can</hi> do while I'm away; it's both useful and
+					amusing, so it will occupy and cheer you capitally. Just knit lots of red hose,
+					because I don't intend you to wear any others hereafter, Mrs. Lennox." </p>
+				<p>"Mine are not worn out yet," laughed Belle, getting merry at the thought. </p>
+				<p>"No matter for that, those are sacred articles, and henceforth must be treasured
+					as memorials of our love. Frame and hang 'em up; or, if the prejudices of
+					society forbid that flight of romance, lay them carefully away where moths can't
+					devour nor thieves steal 'em, so that years hence, when my descendants praise me
+					for any virtues I may possess, any good I may have done, or any honor I may have
+					earned, I can point to those precious relics and say proudly, </p>
+				<p>"My children, for all that I am, or hope to be, you must thank your honored
+					mother's scarlet stockings." </p>
+
+
+
+			</div1>
+		</body>
+	</text>
+</TEI.2>

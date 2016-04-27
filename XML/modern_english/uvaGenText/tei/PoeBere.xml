@@ -1,0 +1,517 @@
+<?xml version="1.0"?>
+
+<?dlps id="PoeBere"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOnum SYSTEM "http://text.lib.virginia.edu/charent/iso-num.ent"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+
+]>
+
+<TEI.2 id="PoeBere"> 
+<teiHeader type="migrated" creator="Etext">
+<fileDesc>
+<titleStmt>
+<title type="main">Berenice</title>
+<title type="sort">berenice</title>
+<author>Poe, Edgar Allan, 1809-1849</author>
+<respStmt>
+<resp>Creation of machine-readable version</resp>
+<name>Judy Boss, University of Omaha</name>
+</respStmt>
+<respStmt>
+<resp>Conversion to TEI-conformant markup</resp>
+<name>University of Virginia Library Electronic Text Center</name>
+</respStmt>
+</titleStmt> 
+<extent>ca. <num type="kilobytes">25</num> kilobytes</extent> 
+<publicationStmt>
+<publisher>University of Virginia Library</publisher>
+<pubPlace>Charlottesville, Virginia</pubPlace> 
+<idno type="ETC">PoeBere</idno> 
+<date value="1994">1994</date>
+<availability status="public">
+<p n="copyright">Copyright &copy; 1994 by the Rector and Visitors of the University of Virginia</p>
+<p n="access">Publicly accessible</p>
+</availability>
+<idno type="uva-pid">uva-lib:476302</idno>
+</publicationStmt>
+<seriesStmt>
+<title>University of Virginia Library, Text collection</title>
+<idno type="uva-set">UVA-LIB-Text</idno>
+</seriesStmt> 
+<notesStmt>
+<note>
+<p>First created by Judy Boss; the text then went to Tom Almy's 
+Bitter Butter Better BBS, where he removed the pagination, and then to 
+The Internet Wiretap.</p>
+</note>
+</notesStmt> 
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title type="main">Tales of Mystery and Imagination</title>
+<title type="sort">tales of mystery and imagination</title>
+<author>Edgar Allan Poe</author>
+</titleStmt> 
+<publicationStmt>
+<publisher>J. M. Dent &amp; Sons</publisher> 
+<pubPlace>London</pubPlace> 
+<date value="1912">1912</date>
+</publicationStmt> 
+<notesStmt>
+<note>
+<p>Source copy consulted: Call no. PS 2612 A1 1912, Alderman Library, University of Virginia</p>
+</note>
+</notesStmt>
+</biblFull>
+</sourceDesc>
+</fileDesc> 
+<encodingDesc>
+<projectDesc>
+<p>Prepared for the University of Virginia Library Electronic Text Center</p>
+</projectDesc> 
+<editorialDecl>
+<p>All unambiguous end-of-line hyphens have been removed, and the 
+trailing part of a word has been joined to the preceding line.</p> 
+<p id="ETC">Keywords in the header are a local Electronic Text Center scheme 
+to aid in establishing analytical groupings</p>
+</editorialDecl> 
+<refsDecl>
+<p>ID elements are given for each page element and are composed of the text's 
+unique cryptogram and the given page number, as in SpeFQue1 for page one of 
+Spenser's Faerie Queene.</p>
+</refsDecl>
+</encodingDesc> 
+<profileDesc>
+<creation>
+<date value="1835">1835</date>
+</creation> 
+<langUsage>
+<language id="eng" usage="main">English</language> 
+<language id="lat">Latin</language>
+</langUsage> 
+<textClass>
+<keywords>
+<term>fiction; prose</term>
+</keywords>
+</textClass>
+</profileDesc> 
+<revisionDesc>
+<change>
+<date value="1994-11">November 1994</date> 
+<respStmt>
+<resp>corrector</resp>
+<name>Kelly Tetterton</name>
+</respStmt>
+<item>Repaginated because Judy Boss identified the source of the text; 
+updated tags and header</item>
+</change> 
+<change>
+<date value="1993-07">July 1993</date> 
+<respStmt>
+<resp>corrector</resp>
+<name>Kelly Tetterton</name>
+</respStmt>
+<item>Minimal TEI tagging; note that this text is from an unknown 
+edition, so the text has been paginated to The Complete Works of Edgar 
+Allan Poe, ed. by James A. Harrison, vol. 2, New York: Thomas Y. 
+Crowell and Company, 1902; unambiguous line-end hyphenation has been 
+removed by Internet Wiretap</item>
+</change> 
+<change>
+<date value="2005-07">July 2005</date>
+<respStmt>
+<resp>Corrector</resp>
+<name>John Ivor Carlson</name>
+</respStmt>
+<item>Converted SGML to XML and/or corrected tagging.</item>
+</change>
+<change>
+<date value="2007-09">September 2007</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Ethan Gruber, University of Virginia Library</name>
+</respStmt>
+<item>Converted XML markup from TEI Lite to uva-dl-tei (TEI P4 with local customizations).</item>
+</change>
+<change>
+<date value="2008-01">January 2008</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Greg Murray, University of Virginia Library</name>
+</respStmt>
+<item>Programmatically updated TEI header markup (but not header content) for minimal compliance with current QA requirements.</item>
+</change>
+</revisionDesc>
+</teiHeader> 
+
+<text id="d1">  
+<body id="d2"> 
+<div1 type="story" id="d3"> 
+<head>Berenice</head> 
+<pb n="175"/>  
+
+<epigraph>
+<q> 
+Dicebant mihi sodales, si sepulchrum amicae visitarem, curas meas<lb/> 
+aliquantulum fore levatas.   &mdash; IBN ZAIAT
+</q> 
+</epigraph> 
+
+ 
+
+<div2 type="section" n="1" id="d4">
+ 
+<p>Misery is manifold.  The wretchedness of earth is multiform. 
+Overreaching the wide horizon as the rainbow, its hues are as 
+various as the hues of the arch, &mdash; as distinct too, yet as 
+intimately blended.  Overreaching the wide horizon as the 
+rainbow.  How is it that from beauty I have derived a type of 
+unloveliness? &mdash; from the covenant of peace a simile of sorrow? 
+But as, in ethics, evil is a consequence of good, so, in fact, 
+out of joy is sorrow born.  Either the memory of past bliss is 
+the anguish of to-day, or the agonies which <hi rend="italic">are</hi> have their 
+origin in the ecstasies which <hi rend="italic">might have been</hi>. 
+</p><p>My baptismal name is Egaeus; that of my family I will not 
+mention.  Yet there are no towers in the land more time-honoured 
+than my gloomy, grey, hereditary halls.  Our line has been called 
+a race of visionaries; and in many striking particulars &mdash; in the 
+character of the family mansion &mdash; in the frescoes of the chief 
+saloon &mdash; in the tapestries of the dormitories &mdash; in the chiselling 
+of some buttresses in the armory &mdash; but more especially in the 
+gallery of antique paintings &mdash; in the fashion of the library 
+chamber &mdash; and, lastly, in the very peculiar nature of the 
+library's contents, there is more than sufficient evidence to 
+warrant the belief. 
+</p><p>The recollections of my earliest years are connected with 
+that chamber, and with its volumes &mdash; of which latter I will say no 
+more.  Here died my mother.  Herein was I born.  But it is mere 
+idleness to say that I had not lived before &mdash; that the soul has no 
+previous existence.  You deny it? &mdash; let us not argue the matter. 
+Convinced myself, I seek not to convince.  There is however, a 
+remembrance of aerial forms &mdash; of spiritual and meaning eyes &mdash; of 
+sounds, musical yet sad &mdash; a remembrance which will not be 
+excluded; a memory like a shadow, vague, variable, indefinite, 
+unsteady; and like a shadow, too, in the impossibility of my 
+getting rid of it while the sunlight of my reason shall exist. 
+</p><p>In that chamber was I born.  Thus awaking from the long 
+night of what seemed, but was not, nonentity, at once into the 
+very regions of fairy-land &mdash; into a palace of imagination &mdash; into 
+<pb n="176"/>  
+the wild dominions of monastic thought and erudition &mdash; it is not 
+singular that I gazed around me with a startled and ardent eye &mdash; 
+that I loitered away my boyhood in books, and dissipated my youth 
+in reverie; but it <hi rend="italic">is</hi> singular that as years rolled away, and 
+the noon of manhood found me still in the mansion of my fathers &mdash; 
+it is wonderful what stagnation there fell upon the springs of my 
+life &mdash; wonderful how total an inversion took place in the 
+character of my commonest thought.  The realities of the world 
+affected me as visions, and as visions only, while the wild ideas 
+of the land of dreams became, in turn, &mdash; not the material of my 
+every-day existence &mdash; but in very deed that existence utterly and 
+solely in itself. 
+</p>
+</div2>
+
+<div2 type="section" n="2" id="d5">
+<head> * </head> 
+ 
+<p>Berenice and I were cousins, and we grew up together in my 
+paternal halls.  Yet differently we grew &mdash; I ill of health, and 
+buried in gloom &mdash; she agile, graceful, and overflowing with 
+energy; hers the ramble on the hill-side &mdash; mine the studies of the 
+cloister &mdash; I living within my own heart, and addicted body and 
+soul to the most intense and painful meditation &mdash; she roaming 
+carelessly through life with no thought of the shadows in her 
+path, or the silent flight of the raven-winged hours.  Berenice! &mdash; 
+I call upon her name &mdash; Berenice! &mdash; and from the grey ruins of 
+memory a thousand tumultuous recollections are startled at the 
+sound!  Ah! vividly is her image before me now, as in the early 
+days of her light-heartedness and joy!  Oh! gorgeous yet 
+fantastic beauty!  Oh! sylph amid the shrubberies of Arnheim! 
+Oh! Naiad among its fountains! &mdash; and then &mdash; then all is mystery and 
+terror, and a tale which should not be told.  Disease &mdash; a fatal 
+disease &mdash; fell like the simoom upon her frame, and, even while I 
+gazed upon her, the spirit of change swept over her, pervading 
+her mind, her habits, and her character, and, in a manner the 
+most subtle and terrible, disturbing even the identity of her 
+person!  Alas! the destroyer came and went, and the victim &mdash; where 
+was she?  I knew her not &mdash; or knew her no longer as Berenice. 
+</p><p>Among the numerous train of maladies superinduced by that 
+fatal and primary one which effected a revolution of so horrible 
+a kind in the moral and physical being of my cousin, may be 
+mentioned as the most distressing and obstinate in its nature, a 
+species of epilepsy not unfrequently terminating in <hi rend="italic">trance</hi> 
+itself &mdash; trance very nearly resembling positive dissolution, and 
+from which her manner of recovery was, in most instances, 
+<pb n="177"/>  
+startlingly abrupt.  In the meantime my own disease &mdash; for I have 
+been told that I should call it by no other appellation &mdash; my own 
+disease, then, grew rapidly upon me, and assumed finally a 
+monomaniac character of a novel and extraordinary form &mdash; hourly 
+and momently gaining vigour &mdash; and at length obtaining over me the 
+most incomprehensible ascendancy.  This monomania, if I must so 
+term it, consisted in a morbid irritability of those properties 
+of the mind in metaphysical science termed the <hi rend="italic">attentive</hi>.  It 
+is more than probable that I am not understood; but I fear, 
+indeed, that it is in no manner possible to convey to the mind of 
+the merely general reader, an adequate idea of that nervous 
+<hi rend="italic">intensity of interest</hi> with which, in my case, the powers of 
+meditation (not to speak technically) busied and buried 
+themselves, in the contemplation of even the most ordinary 
+objects of the universe. 
+</p><p>To muse for long unwearied hours with my attention riveted 
+to some frivolous device on the margin, or in the typography of a 
+book; to become absorbed for the better part of a summer's day, 
+in a quaint shadow falling aslant upon the tapestry, or upon the 
+door; to lose myself for an entire night in watching the steady 
+flame of a lamp, or the embers of a fire; to dream away whole 
+days over the perfume of a flower; to repeat monotonously some 
+common word, until the sound, by dint of frequent repetition, 
+ceased to convey any idea whatever to the mind; to lose all sense 
+of motion or physical existence, by means of absolute bodily 
+quiescence long and obstinately persevered in; &mdash; such were a few 
+of the most common and least pernicious vagaries induced by a 
+condition of the mental faculties, not, indeed, altogether 
+unparalleled, but certainly bidding defiance to anything like 
+analysis or explanation. 
+</p><p>Yet let me not be misapprehended. &mdash; The undue, earnest, and 
+morbid attention thus excited by objects in their own nature 
+frivolous, must not be confounded in character with that 
+ruminating propensity common to all mankind, and more especially 
+indulged in by persons of ardent imagination.  It was not even, 
+as might at first be supposed, an extreme condition, or 
+exaggeration of such propensity, but primarily and essentially 
+distinct and different.  In the one instance, the dreamer, or 
+enthusiast, being interested by an object usually <hi rend="italic">not</hi> 
+frivolous, imperceptibly loses sight of this object in a 
+wilderness of deductions and suggestions issuing therefrom, 
+until, at the conclusion of a day-dream <hi rend="italic">often replete with 
+luxury</hi>, he finds the <hi rend="italic">incitamentum</hi> or first cause of his 
+musings entirely vanished 
+<pb n="178"/>  
+and forgotten.  In my case the primary 
+object was <hi rend="italic">invariably frivolous</hi>, although assuming, through 
+the medium of my distempered vision, a refracted and unreal 
+importance.  Few deductions, if any, were made; and those few 
+pertinaciously returning in upon the original object as a centre. 
+The meditations were <hi rend="italic">never</hi> pleasurable; and, at the 
+termination of the reverie, the first cause, so far from being 
+out of sight, had attained that supernaturally exaggerated 
+interest which was the prevailing feature of the disease.  In a 
+word, the powers of mind more particularly exercised were, with 
+me, as I have said before, the <hi rend="italic">attentive</hi>, and are, with the 
+day-dreamer, the <hi rend="italic">speculative</hi>. 
+</p><p>My books, at this epoch, if they did not actually serve to 
+irritate the disorder, partook, it will be perceived, largely, in 
+their imaginative and inconsequential nature, of the 
+characteristic qualities of the disorder itself.  I well 
+remember, among others, the treatise of the noble Italian Coelius 
+Secundus Curio, <hi rend="italic">De Amplitudine Beati Regni Dei</hi>; St Austin's 
+great work, <hi rend="italic">The City of God</hi>; and Tertullian, <hi rend="italic">De Carne 
+Christi</hi>, in which the paradoxical sentence, '<hi rend="italic">Mortuus est Dei 
+filius; credibile est quia ineptum est: et sepultus resurrexit; 
+certum est quia impossibile est</hi>', occupied my undivided time, 
+for many weeks of laborious and fruitless investigation. 
+</p><p>Thus it will appear that, shaken from its balance only by 
+trivial things, my reason bore resemblance to that ocean-crag 
+spoken of by Ptolemy Hephestion, which, steadily resisting the 
+attacks of human violence, and the fiercer fury of the waters and 
+the winds, trembled only to the touch of the flower called 
+Asphodel.  And although, to a careless thinker, it might appear a 
+matter beyond doubt, that the alteration produced by her unhappy 
+malady, in the <hi rend="italic">moral</hi> condition of Berenice, would afford me 
+many objects for the exercise of that intense and abnormal 
+meditation whose nature I have been at some trouble in 
+explaining, yet such was not in any degree the case.  In the 
+lucid intervals of my infirmity, her calamity, indeed, gave me 
+pain, and, taking deeply to heart that total wreck of her fair 
+and gentle life, I did not fail to ponder frequently and bitterly 
+upon the wonder-working means by which so strange a revolution 
+had been so suddenly brought to pass.  But these reflections 
+partook not of the idiosyncrasy of my disease, and were such as 
+would have occurred, under similar circumstances, to the ordinary 
+mass of mankind.  True to its own character, my disorder revelled 
+in the less important but more startling changes 
+<pb n="179"/>  
+wrought in the 
+<hi rend="italic">physical</hi> frame of Berenice &mdash; in the singular and most 
+appalling distortion of her personal identity. 
+</p><p>During the brightest days of her unparalleled beauty, 
+most surely I had never loved her.  In the strange anomaly of my 
+existence, feelings with me <hi rend="italic">had never been</hi> of the heart, and 
+my passions <hi rend="italic">always were</hi> of the mind.  Through the grey of the 
+early morning &mdash; among the trellised shadows of the forest at 
+noonday &mdash; and in the silence of my library at night, she had 
+flitted by my eyes, and I had seen her &mdash; not as the living and 
+breathing Berenice, but as the Berenice of a dream &mdash; not as a 
+being of the earth, earthy, but as the abstraction of such a 
+being &mdash; not as a thing to admire, but to analyse &mdash; not as an object 
+of love, but as the theme of the most abstruse although desultory 
+speculation.  And <hi rend="italic">now</hi> &mdash; now I shuddered in her presence, and 
+grew pale at her approach; yet bitterly lamenting her fallen and 
+desolate condition, I called to mind that she had loved me long, 
+and, in an evil moment, I spoke to her of marriage. 
+</p><p>And at length the period of our nuptials was approaching, 
+when, upon an afternoon in the winter of the year, &mdash; one of those 
+unseasonably warm, calm, and misty days which are the nurse of 
+the beautiful Halcyon,<ref target="P1">1</ref> &mdash; I sat 
+(and sat, as I thought, alone) in the 
+inner apartment of the library.  But uplifting my eyes I saw that 
+Berenice stood before me. 
+</p><p>Was it my own excited imagination &mdash; or the misty influence of 
+the atmosphere &mdash; or the uncertain twilight of the chamber &mdash; or the 
+grey draperies which fell around her figure &mdash; that caused in it so 
+vacillating and indistinct an outline?  I could not tell.  She 
+spoke no word, and I &mdash; not for worlds could I have uttered a 
+syllable.  An icy chill ran through my frame; a sense 
+of insufferable anxiety oppressed me; a consuming curiosity pervaded 
+my soul; and sinking back upon the chair, I remained for some 
+time breathless and motionless, with my eyes riveted upon her 
+person.  Alas! its emaciation was excessive, and not one vestige 
+of the former being lurked in any single line of the contour.  My 
+burning glances at length fell upon the face. 
+</p><p>The forehead was high, and very pale, and singularly placid; 
+and the once jetty hair fell partially over it, and overshadowed 
+the hollow temples with innumerable ringlets now of a vivid 
+yellow, and jarring discordantly, in their fantastic character, 
+<pb n="180"/>  
+with the reigning melancholy of the countenance.  The eyes were 
+lifeless, and lustreless, and seemingly pupil-less, and I shrank 
+involuntarily from their glassy stare to the contemplation of the 
+thin and shrunken lips.  They parted; and in a smile of peculiar 
+meaning, <hi rend="italic">the teeth</hi> of the changed Berenice disclosed 
+themselves slowly to my view.  Would to God that I had never 
+beheld them, or that, having done so, I had died! 
+</p>
+</div2>
+
+<div2 type="section" n="3" id="d6">
+<head> * </head> 
+<p>
+ 
+The shutting of a door disturbed me, and, looking up, I found 
+that my cousin had departed from the chamber.  But from the 
+disordered chamber of my brain, had not, alas! departed, and 
+would not be driven away, the white and ghastly <hi rend="italic">spectrum</hi> of 
+the teeth.  Not a speck on their surface &mdash; not a shade on their 
+enamel &mdash; not an indenture in their edges &mdash; but what that period of 
+her smile had sufficed to brand in upon my memory.  I saw them 
+<hi rend="italic">now</hi> even more unequivocally than I beheld them <hi rend="italic">then</hi>.  The 
+teeth! &mdash; the teeth! &mdash; they were here, and there, and everywhere, 
+and visibly and palpably before me; long, narrow, and excessively 
+white, with the pale lips writhing about them, as in the very 
+moment of their first terrible development.  Then came the full 
+fury of my <hi rend="italic">monomania</hi>, and I struggled in vain against its 
+strange and irresistible influence.  In the multiplied objects of 
+the external world I had no thoughts but for the teeth.  For 
+these I longed with a phrenzied desire.  All other matters and 
+all different interests became absorbed in their single 
+contemplation.  They &mdash; they alone were present to the mental eye, 
+and they, in their sole individuality, became the essence of my 
+mental life.  I held them in every light.  I turned them in every 
+attitude.  I surveyed their characteristics.  I dwelt upon their 
+peculiarities.  I pondered upon their conformation.  I mused upon 
+the alteration in their nature.  I shuddered as I assigned to 
+them in imagination a sensitive and sentient power, and even when 
+unassisted by the lips, a capability of moral expression.  Of 
+Mad'selle Salle it has been well said, '<hi rend="italic">que tous ses pas 
+etaient des sentiments</hi>', and of Berenice I more seriously 
+believed <hi rend="italic">que toutes ses dents etaient des idees.  Des idees!</hi> &mdash; 
+ah here was the idiotic thought that destroyed me!  <hi rend="italic">Des 
+idees!</hi> &mdash; ah <hi rend="italic">therefore</hi> it was that I coveted them so madly!  I 
+felt that their possession could alone ever restore me to peace, 
+in giving me back to reason. 
+</p><p>And the evening closed in upon me thus &mdash; and then the 
+darkness came, and tarried, and went &mdash; and the day again dawned &mdash; 
+and the mists of a second night were now gathering around &mdash; 
+<pb n="181"/>  
+and 
+still I sat motionless in that solitary room; and still I sat 
+buried in meditation, and still the <hi rend="italic">phantasma</hi> of the teeth 
+maintained its terrible ascendancy as, with the most vivid and 
+hideous distinctness, it floated about amid the changing lights 
+and shadows of the chamber.  At length there broke in upon my 
+dreams a cry as of horror and dismay; and thereunto, after a 
+pause, succeeded the sound of troubled voices, intermingled with 
+many low moanings of sorrow, or of pain.  I arose from my seat 
+and, throwing open one of the doors of the library, saw standing 
+out in the antechamber a servant maiden, all in tears, who told 
+me that Berenice was &mdash; no more.  She had been seized with epilepsy 
+in the early morning, and now, at the closing in of the night, 
+the grave was ready for its tenant, and all the preparations for 
+the burial were completed. 
+ 
+</p><p>I found myself sitting in the library, and again sitting there 
+alone.  It seemed that I had newly awakened from a confused and 
+exciting dream.  I knew that it was now midnight, and I was well 
+aware that since the setting of the sun Berenice had been 
+interred.  But of that dreary period which intervened I had no 
+positive &mdash; at least no definite comprehension.  Yet its memory was 
+replete with horror &mdash; horror more horrible from being vague, and 
+terror more terrible from ambiguity.  It was a fearful page in 
+the record of my existence, written all over with dim, and 
+hideous, and unintelligible recollections.  I strived to decipher 
+them, but in vain; while ever and anon, like the spirit of a 
+departed sound, the shrill and piercing shriek of a female voice 
+seemed to be ringing in my ears.  I had done a deed &mdash; what was it? 
+I asked myself the question aloud, and the whispering echoes of 
+the chamber answered me, '<hi rend="italic">what was it</hi>?' 
+</p><p>On the table beside me burned a lamp, and near it lay a 
+little box.  It was of no remarkable character, and I had seen it 
+frequently before, for it was the property of the family 
+physician; but how came it <hi rend="italic">there</hi>, upon my table, and why did 
+I shudder in regarding it?  These things were in no manner to be 
+accounted for, and my eyes at length dropped to the open pages of 
+a book, and to a sentence underscored therein.  The words were 
+the singular but simple ones of the poet Ebn Zaiat, '<hi rend="italic">Dicebant 
+mihi sodales si sepulchrum amicae visitarem, curas meas 
+aliquantulum fore levatas</hi>.'  Why then, as I perused them, did 
+the hairs of my head erect themselves on end, and the blood of my 
+body become congealed within my veins? 
+<pb n="182"/>  
+</p><p>There came a light tap at the library door, and pale as the 
+tenant of a tomb, a menial entered upon tiptoe.  His looks were 
+wild with terror, and he spoke to me in a voice tremulous, husky, 
+and very low.  What said he? &mdash; some broken sentences I heard.  He 
+told of a wild cry disturbing the silence of the night &mdash; of the 
+gathering together of the household &mdash; of a search in the direction 
+of the sound; &mdash; and then his tones grew thrillingly distinct as he 
+whispered me of a violated grave &mdash; of a disfigured body 
+enshrouded, yet still breathing, still palpitating, still 
+<hi rend="italic">alive</hi>! 
+</p><p>He pointed to my garments; &mdash; they were muddy and clotted with 
+gore.  I spoke not, and he took me gently by the hand; &mdash; it was 
+indented with the impress of human nails.  He directed my 
+attention to some object against the wall; &mdash; I looked at it for 
+some minutes; &mdash; it was a spade.  With a shriek I bounded to the 
+table, and grasped the box that lay upon it.  But I could not 
+force it open; and in my tremor it slipped from my hands, and 
+fell heavily, and burst into pieces; and from it, with a rattling 
+sound, there rolled out some instruments of dental surgery, 
+intermingled with thirty-two small, white and ivory-looking 
+substances that were scattered to and fro about the floor. 
+</p> 
+ 
+
+
+
+<note id="P1"><seg type="note-symbol">1.</seg> <p>For as Jove, during 
+the winter season, gives twice seven days of warmth, men have called 
+this clement and temperate time the nurse of the beautiful Halcyon. <lb/> 
+&mdash; SIMONIDES. 
+</p></note> 
+
+
+</div2>
+</div1> 
+</body> 
+</text> 
+</TEI.2> 
+ 

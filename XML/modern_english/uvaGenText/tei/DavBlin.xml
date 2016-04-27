@@ -1,0 +1,513 @@
+<?xml version="1.0"?>
+
+<?dlps id="DavBlin"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOnum SYSTEM "http://text.lib.virginia.edu/charent/iso-num.ent"> %ISOnum;
+<!ENTITY % ISOlat1 SYSTEM "http://text.lib.virginia.edu/charent/iso-lat1.ent"> %ISOlat1;
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+
+]>
+
+<TEI.2 id="DavBlin">
+<teiHeader type="migrated" creator="Etext">
+<fileDesc>
+<titleStmt>
+<title type="main">Blind Tom</title>
+<title type="sort">blind tom</title>
+<author>Davis, Rebecca Harding, 1831-1910</author>
+<respStmt>
+<resp>Creation of machine-readable version:</resp>
+<name>Judy Boss</name>
+<resp>Conversion to TEI.2-conformant markup:</resp>
+<name>University of Virginia Library Electronic Text Center.</name>
+</respStmt>
+</titleStmt>
+<extent>ca. <num type="kilobytes">26</num> kilobytes</extent>
+<publicationStmt>
+<publisher>University of Virginia Library</publisher>
+<pubPlace>Charlottesville, Virginia</pubPlace>
+<idno type="ETC">DavBlin</idno>
+<date value="1996">1996</date>
+<availability status="public">
+<p n="copyright">Copyright &copy; 1996 by the Rector and Visitors of the University of Virginia</p>
+<p n="access">Publicly accessible</p>
+</availability>
+<idno type="uva-pid">uva-lib:475860</idno>
+</publicationStmt>
+<seriesStmt>
+<title>University of Virginia Library, Text collection</title>
+<idno type="uva-set">UVA-LIB-Text</idno>
+</seriesStmt>
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title type="main">Blind Tom</title>
+<title level="j">Atlantic Monthly</title>
+<title type="sort">blind tom</title>
+<author>Rebecca Harding Davis</author>
+</titleStmt>
+<editionStmt>
+<p>First Edition</p>
+</editionStmt>
+<extent>pp. 580-585</extent>
+<publicationStmt>
+<publisher>Atlantic Monthly Co.</publisher>
+<pubPlace>New York</pubPlace>
+<date value="1862-11">Nov. 1862</date>
+</publicationStmt>
+<notesStmt>
+<note>
+<p>Atlantic Monthly, volume 10, November 1862.</p>
+</note>
+<note>
+<p>Copy Consulted, UVA call no. S-1440, reel 2</p>
+</note>
+</notesStmt>
+</biblFull>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+</projectDesc>
+<editorialDecl>
+<p>All quotation marks retained as data.</p>
+<p>Spell-check and verification madeagainst printed text using WordPerfect spell checker.</p>
+<p>All unambiguous end-of-line hyphens have been removed, and the trailing part of a word has been joined to the preceding line.</p>
+<p>The images exist as archived TIFF images, one or more JPEG versions for general use, and thumbnail GIFs.</p>
+<p>Keywords in the header are a local Electronic Text Center scheme to aid in establishing analytical groupings.</p>
+</editorialDecl>
+<refsDecl>
+<p>ID elements are given for each page element and are composed of the
+text's unique cryptogram and the given page number, as in AusEmma1 for
+page one of Jane Austen's Emma.</p>
+</refsDecl>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date value="1862">1862</date>
+</creation>
+<langUsage>
+<language id="eng" usage="main">English</language>
+</langUsage>
+<textClass>
+<keywords>
+<term>fiction; prose</term>
+<term>Women Writers</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change>
+<date value="1996-09">September 1996</date>
+<respStmt>
+<resp>corrector</resp>
+<name>Michele Ierardi, Electronic Text Center</name>
+</respStmt>
+<item>Added TEI header and tags.</item>
+</change>
+<change>
+<date value="2005-06">June 2005</date>
+<respStmt>
+<resp>corrector</resp>
+<name>John Ivor Carlson</name>
+</respStmt>
+<item>Converted sgml to xml.</item>
+</change>
+<change>
+<date value="2007-09">September 2007</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Ethan Gruber, University of Virginia Library</name>
+</respStmt>
+<item>Converted XML markup from TEI Lite to uva-dl-tei (TEI P4 with local customizations).</item>
+</change>
+<change>
+<date value="2008-01">January 2008</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Greg Murray, University of Virginia Library</name>
+</respStmt>
+<item>Programmatically updated TEI header markup (but not header content) for minimal compliance with current QA requirements.</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text id="d1">
+<body id="d2">
+
+
+
+<div1 type="story" id="d3">
+	<pb n="580"/>
+<head>BLIND TOM.</head>
+
+<epigraph><lg type="couplet"><l>Only a germ in a withered flower,</l>
+<l>That the rain will bring out&mdash;sometime.</l></lg></epigraph>
+
+<p>SOMETIME in the year 1850, a tobacco-planter in Southern
+Georgia (Perry H. Oliver by name) bought a likely negro woman
+with some other field-hands.  She was stout, tough-muscled,
+willing, promised to be a remunerative servant; her baby, however,
+a boy a few months old, was only thrown in as a makeweight to the
+bargain, or rather because Mr. Oliver would not consent to separate
+mother and child.  Charity only could have induced him to take the
+picaninny, in fact, for he was but a lump of black flesh, born blind,
+and with the vacant grin of idiocy, they thought, already stamped on
+his face.  The two slaves were purchased, I believe, from a trader: it
+has been impossible, therefore, for me to ascertain where Tom was
+born, or when.  Georgia field-hands are not accurate as Jews in
+preserving their genealogy; <hi rend="italic">they</hi> do not anticipate a Messiah.
+A white man, you know, has that vague hope unconsciously latent
+in him, that he is, or shall give birth to, the great man of his race, a
+helper, a provider for the world's hunger: so he grows jealous with
+his blood; the dead grandfather may have presaged the possible son;
+besides, it is a debt he owes to this coming Saul to tell him whence
+he came.  There are some classes, free and slave, out of whom
+society has crushed this hope: they have no clan, no family-names
+among them, therefore.  This idiot-boy, chosen by God to be
+anointed with the holy chrism, is only "Tom,"&mdash;"Blind Tom," they
+call him in all the Southern States, with a kind cadence always,
+being proud and fond of him; and yet&mdash;nothing but Tom?  That is
+pitiful.  Just a mushroom-growth,&mdash;unkinned, unexpected, not hoped
+for, for generations, owning no name to purify and honor and give
+away when he is dead.  His mother, at work to-day in the Oliver
+plantations, can never comprehend why her boy is famous; this gift
+of God to him means nothing to her.  Nothing to him, either, which
+is saddest of all; he is unconscious, wears his crown as an idiot
+might.  Whose fault is that?  Deeper than slavery the evil lies.
+</p> <p>Mr. Oliver did his duty well to the boy, being an observant and
+thoroughly kind master.  The plantation was large, heartsome, faced
+the sun, swarmed with little black urchins, with plenty to eat, and
+nothing to do.
+</p> <p>All that Tom required, as he fattened out of baby-into
+boyhood, was room in which to be warm, on the grass-patch, or by
+the kitchen-fires, to be stupid, flabby, sleepy,&mdash;kicked and petted
+alternately by the other hands.  He had a habit of crawling
+<pb n="581"/>
+up on the porches and verandas of the mansion and squatting there
+in the sun, waiting for a kind word or touch from those who went in
+and out.  He seldom failed to receive it.  Southerners know nothing
+of the physical shiver of aversion with which even the Abolitionists
+of the North touch the negro: so Tom, through his very helplessness,
+came to be a sort of pet in the family, a playmate, occasionally, of
+Mr. Oliver's own infant children.  The boy, creeping about day after
+day in the hot light, was as repugnant an object as the lizards in the
+neighboring swamp, and promised to be of as little use to his
+master.  He was of the lowest negro type, from which only field-hands
+can be made,&mdash;coal-black, with protruding heels, the ape-jaw,
+blubber-lips constantly open, the sightless eyes closed, and the head
+thrown far back on the shoulders, lying on the back, in fact, a habit
+which he still retains, and which adds to the imbecile character of
+the face.  Until he was seven years of age, Tom was regarded on the
+plantation as an idiot, not unjustly; for at the present time his
+judgment and reason rank but as those of a child four years old.  He
+showed a dog-like affection for some members of the household,&mdash;a
+son of Mr. Oliver's especially,&mdash;and a keen, nervous sensitiveness to
+the slightest blame or praise from them,&mdash;possessed, too, a low
+animal irritability of temper, giving way to inarticulate yelps of
+passion when provoked.  That is all, so far; we find no other
+outgrowth of intellect or soul from the boy: just the same record as
+that of thousands of imbecile negro-children.  Generations of
+heathendom and slavery have dredged the inherited brains and
+temperaments of such children tolerably clean of all traces of power
+or purity,&mdash;palsied the brain, brutalized the nature.  Tom apparently
+fared no better than his fellows.
+</p> <p>It was not until 1857 that those phenomenal powers latent in
+the boy were suddenly developed, which stamped him the anomaly
+he is to-day.
+</p> <p>One night, sometime in the summer of that year, Mr. Oliver's
+family were wakened by the sound of music in the drawing-room:
+not only the simple airs, but the most difficult exercises usually
+played by his daughters, were repeated again and again, the touch of
+the musician being timid, but singularly true and delicate.  Going
+down, they found Tom, who had been left asleep in the hall, seated
+at the piano in an ecstasy of delight, breaking out at the end of each
+successful fugue into shouts of laughter, kicking his heels and
+clapping his hands.  This was the first time he had touched the
+piano.
+</p> <p>Naturally, Tom became a nine-days' wonder on the plantation.
+He was brought in as an after-dinner's amusement; visitors asked for
+him as the show of the place.  There was hardly a conception,
+however, in the minds of those who heard him, of how deep the
+cause for wonder lay.  The planters' wives and daughters of the
+neighborhood were not people who would be apt to comprehend
+music as a science, or to use it as a language; they only saw in the
+little negro, therefore a remarkable facility for repeating the airs
+they drummed on their pianos,&mdash;in a different manner from theirs, it
+is true,&mdash;which bewildered them.  They noticed, too, that, however
+the child's fingers fell on the keys, cadences followed, broken,
+wandering, yet of startling beauty and pathos.  The house-servants,
+looking in through the open doors at the little black figure perched
+up before the instrument, while unknown, wild harmony drifted
+through the evening air, had a better conception of him.  He was
+possessed; some ghost spoke through him: which is a fair enough
+definition of genius for a Georgian slave to offer.
+</p> <p>Mr. Oliver, as we said, was indulgent.  Tom was allowed to
+have constant access to the piano; in truth, he could not live without
+it; when deprived of music now, actual physical debility followed:
+the gnawing Something had found its food at last.  No attempt was
+made, however, to give him any scientific musical teaching; nor&mdash;I
+wish it distinctly borne in mind
+<pb n="582"/>
+&mdash;has he ever at any time
+received such instruction.
+</p> <p>The planter began to wonder what kind of a creature this was
+which he had bought, flesh and soul.  In what part of the unsightly
+baby-carcass had been stowed away these old airs, forgotten by
+every one else, and some of them never heard by the child but once,
+but which he now reproduced, every note intact, and with whatever
+quirk or quiddity of style belonged to the person who originally had
+sung or played them?  Stranger still the harmonies which he had
+never heard, had learned from no man.  The sluggish breath of the
+old house, being enchanted, grew into quaint and delicate whims of
+music, never the same, changing every day.  Never glad: uncertain,
+sad minors always, vexing the content of the hearer,&mdash;one
+inarticulate, unanswered question of pain in all, making them one.
+Even the vulgarest listener was troubled, hardly knowing why,&mdash;how
+sorry Tom's music was!
+</p> <p>At last the time came when the door was to be opened, when
+some listener, not vulgar, recognizing the child as God made him,
+induced his master to remove him from the plantation.  Something
+ought to be done for him; the world ought not to be cheated of this
+pleasure; besides&mdash;the money that could be made!  So Mr. Oliver,
+with a kindly feeling for Tom, proud, too, of this agreeable monster
+which his plantation had grown, and sensible that it was a more
+fruitful source of revenue than tobacco-fields, set out with the boy,
+literally to seek their fortune.
+</p> <p>The first exhibition of him was given, I think, in Savannah,
+Georgia; thence he was taken to Charleston, Richmond, to all the
+principal cities and towns in the Southern States.
+</p> <p>This was in 1858.  From that time until the present Tom has
+lived constantly an open life, petted, feted, his real talent befogged
+by exaggeration, and so pampered and coddled that one might
+suppose the only purpose was to corrupt and wear it out.  For these
+reasons this statement is purposely guarded, restricted to plain,
+known facts.
+</p> <p>No sooner had Tom been brought before the public than the
+pretensions put forward by his master commanded the scrutiny of
+both scientific and musical skeptics.  His capacities were subjected
+to rigorous tests.  Fortunately for the boy: for, so tried,&mdash;harshly, it is
+true, yet skilfully,&mdash;they not only bore the trial, but acknowledged
+the touch as skilful; every day new powers were developed, until he
+reached his limit, beyond which it is not probable he will ever pass.
+That limit, however, establishes him as an anomaly in musical
+science.
+</p> <p>Physically, and in animal temperament, this negro ranks next
+to the lowest Guinea type: with strong appetites and gross bodily
+health, except in one particular, which will be mentioned hereafter.
+In the every-day apparent intellect, in reason or judgment, he is but
+one degree above an idiot,&mdash;incapable of comprehending the
+simplest conversation on ordinary topics, amused or enraged with
+trifles such as would affect a child of three years old.  On the other
+side, his affections are alive, even vehement, delicate in their
+instinct as a dog's or an infant's; he will detect the step of any one
+dear to him in a crowd, and burst into tears, if not kindly spoken to.
+</p> <p>His memory is so accurate that he can repeat, without the loss
+of a syllable, a discourse of fifteen minutes in length, of which he
+does not understand a word.  Songs, too, in French or German, after
+a single hearing, he renders not only literally in words, but in notes,
+style, and expression.  His voice, however, is discordant, and of
+small compass.
+</p> <p>In music, this boy of twelve years, born blind, utterly ignorant
+of a note, ignorant of every phase of so-called musical science,
+interprets severely classical composers with a clearness of
+conception in which he excels, and a skill in mechanism equal to
+that of our second-rate artists.  His concerts usually include any
+themes selected by the audience from the higher
+<pb n="583"/>
+grades of
+Italian or German opera.  His comprehension of the meaning of
+music, as a prophetic or historical voice which few souls utter and
+fewer understand, is clear and vivid: he renders it thus, with
+whatever mastery of the mere material part he may possess,
+fingering, dramatic effects, etc.: these are but means to him, not an
+end, as with most artists.  One could fancy that Tom was never
+traitor to the intent or soul of the theme.  What God or the Devil
+meant to say by this or that harmony, what the soul of one man
+cried aloud to another in it, this boy knows, and is to that a faithful
+witness.  His deaf, uninstructed soul has never been tampered with
+by art-critics who know the body well enough of music, but nothing
+of the living creature within.  The world is full of these vulgar souls
+that palter with eternal Nature and the eternal Arts, blind to the
+Word who dwells among us therein.  Tom, or the d&aelig;mon in
+Tom, was not one of them.
+</p> <p>With regard to his command of the instrument, two points
+have been especially noted by musicians: the unusual frequency of
+occurrence of <hi rend="italic">tours de force</hi> in his playing, and the scientific
+precision of his manner of touch.  For example, in a progression of
+augmented chords, his mode of fingering is invariably that of the
+schools, not that which would seem natural to a blind child never
+taught to place a finger.  Even when seated with his back to the
+piano, and made to play in that position (a favorite feat in his
+concerts,) the touch is always scientifically accurate.
+</p> <p>The peculiar power which Tom possesses, however, is one
+which requires no scientific knowledge of music in his audiences to
+appreciate.  Placed at the instrument with any musician, he plays a
+perfect bass accompaniment to the treble of music <hi rend="italic">heard for the
+first time as he plays</hi>.  Then taking the seat vacated by the other
+performer, he instantly gives the entire piece, intact in brilliancy and
+symmetry, not a note lost or misplaced.  The selections of music by
+which this power of Tom's was tested, two years ago, were
+sometimes fourteen and sixteen pages in length; on one occasion, at
+an exhibition at the White House, after a long concert, he was tried
+with two pieces,&mdash;one thirteen, the other twenty pages long, and was
+successful.
+</p> <p>We know of no parallel case to this in musical history.  Grimm
+tells us, as one of the most remarkable manifestations of Mozart's
+infant genius, that at the age of nine he was required to give an
+accompaniment to an aria which he had never heard before, and
+without notes.  There were false accords in the first attempt, he
+acknowledges; but the second was pure.  When the music to which
+Tom plays <hi rend="italic">secondo</hi> is strictly classical, he sometimes balks
+for an instant in passages; to do otherwise would argue a creative
+power equal to that of the master composers; but when any chordant
+harmony runs through it, (on which the glowing negro soul can
+seize, you know,) there are no "false accords," as with the infant
+Mozart.  I wish to draw especial attention to this power of the boy,
+not only because it is, so far as I know, unmatched in the
+development of any musical talent, but because, considered in the
+context of his entire intellectual structure, it involves a curious
+problem.  The mere repetition of music heard but once, even when,
+as in Tom's case, it is given with such incredible fidelity, and after
+the lapse of years, demands only a command of mechanical skill,
+and an abnormal condition of the power of memory; but to play
+<hi rend="italic">secondo</hi> to music never heard or seen implies the
+comprehension of the full drift of the symphony in its current,&mdash;a
+capacity to create, in short.  Yet such attempts as Tom has made to
+dictate music for publication do not sustain any such inference.
+They are only a few light marches, gallops, etc., simple and
+plaintive enough, but with easily detected traces of remembered
+harmonies: very different from the strange, weird improvisations of
+every day.  One would fancy that the mere attempt to bring this
+mysterious genius within him in bodily presence before the outer
+world woke,
+<pb n="584"/>
+too, the idiotic nature to utter its reproachful,
+unable cry.  Nor is this the only bar by which poor Tom's soul is put
+in mind of its foul bestial prison.  After any too prolonged effort,
+such as those I have alluded to, his whole bodily frame gives way,
+and a complete exhaustion of the brain follows, accompanied with
+epileptic spasms.  The trial at the White House, mentioned before,
+was successful, but was followed by days of illness.
+</p> <p>Being a slave, Tom never was taken into a Free State; for the
+same reason his master refused advantageous offers from European
+managers.  The highest points North at which his concerts were
+given were Baltimore and the upper Virginia towns.  I heard him
+sometime in 1860.  He remained a week or two in the town, playing
+every night.
+</p> <p>The concerts were unique enough.  They were given in a great
+barn of a room, gaudy with hot, soot-stained frescoes, chandeliers,
+walls splotched with gilt.  The audience was large, always; such as a
+provincial town affords: not the purest bench of musical criticism
+before which to bring poor Tom.  Beaux and belles, siftings of old
+country families, whose grandfathers trapped and traded and
+married with the Indians,&mdash;the savage thickening of whose blood
+told itself in high cheekbones, flashing jewelry, champagne-bibbing,
+a comprehension of the tom-tom music of schottisches and
+polkas; money-made men and their wives, cooped up by
+respectability, taking concerts when they were given in town, taking
+the White Sulphur or Cape May in summer, taking beef for dinner,
+taking the pork-trade in winter,&mdash;<hi rend="italic">toute la vie en programme;</hi>
+the <hi rend="italic">d&eacute;bris</hi> of a town, the roughs, the boys, school-children,
+&mdash;Tom was nearly as well worth a quarter as the negro-minstrels; here and
+there a pair of reserved, home-sick eyes, a
+peculiar, reticent face, some whey-skinned ward-teacher's, perhaps,
+or some German cobbler's, but hints of a hungry soul, to whom
+Beethoven and Mendelssohn knew how to preach an unerring
+gospel.  The stage was broad, planked, with a drop-curtain behind,
+&mdash;the Doge marrying the sea, I believe; in front, a piano and chair.
+</p> <p>Presently, Mr. Oliver, a well-natured looking man, (one
+thought of that,) came forward, leading and coaxing along a little
+black boy, dressed in white linen, somewhat fat and stubborn in
+build.  Tom was not in a good humor that night; the evening before
+had refused to play altogether; so his master perspired anxiously
+before he could get him placed in rule before the audience, and
+repeat his own little speech, which sounded like a Georgia
+after-dinner gossip.  The boy's head, as I said, rested on his back,
+his
+mouth wide open constantly; his great blubber lips and shining
+teeth, therefore, were all you saw when he faced you.  He required
+to be petted and bought like any other weak-minded child.  The
+concert was a mixture of music, whining, coaxing, and promised
+candy and cake.
+</p> <p>He seated himself at last before the piano, a full half-yard
+distant, stretching out his arms full-length, like an ape clawing for
+food,&mdash;his feet, when not on the pedals, squirming and twisting
+incessantly,&mdash;answering some joke of his master's with a loud "Yha!
+yha!"  Nothing indexes the brain like the laugh; this was idiotic.
+</p> <p>"Now, Tom, boy, something we like from Verdi."
+</p> <p>The head fell farther back, the claws began to work, and those
+of his harmonies which you would have chosen as the purest
+exponents of passion began to float through the room.  Selections
+from Weber, Beethoven, and others whom I have forgotten,
+followed.  At the close of each piece, Tom, without waiting for the
+audience, would himself applaud violently, kicking, pounding his
+hands together, turning always to his master for the approving pat
+on the head.  Songs, recitations such as I have described, filled up
+the first part of the evening; then a musician from the audience went
+upon the stage to put the boy's powers to the final test.  Songs and
+intricate symphonies were given, which it was most improbable the
+boy could ever have
+<pb n="585"/>
+heard; he remained standing, utterly
+motionless, until they were finished, and for a moment or two after,
+&mdash;then, seating himself, gave them without the break of a note.
+Others followed, more difficult, in which he played the bass
+accompaniment in the manner I have described, repeating instantly
+the treble.  The child looked dull, wearied, during this part of the
+trial, and his master, perceiving it, announced the exhibition closed,
+when the musician (who was a citizen of the town, by-the-way)
+drew out a thick roll of score, which he explained to be a Fantasia
+of his own composition, never published.
+</p> <p><hi rend="italic">"This</hi> it was impossible the boy could have heard;
+there could be no trick of memory in this; and on this trial,"
+triumphantly, "Tom would fail."
+</p> <p>The manuscript was some fourteen pages long,&mdash;variations on
+an inanimate theme.  Mr. Oliver refused to submit the boy's brain to
+so cruel a test; some of the audience, even, interfered; but the
+musician insisted, and took his place.  Tom sat beside him,&mdash;his
+head rolling nervously from side to side,&mdash;struck the opening
+cadence, and then, from the first note to the last, gave the
+<hi rend="italic">secondo</hi> triumphantly.  Jumping up, he fairly shoved the
+man from his seat, and proceeded to play the treble with more
+brilliancy and power than its composer.  When he struck the last
+octave, he sprang up, yelling with delight:&mdash;
+</p> <p>"Um's got him, Massa! um's got him!" cheering and rolling
+about the stage.
+</p> <p>The cheers of the audience&mdash;for the boys especially did not
+wait to clap&mdash;excited him the more.  It was an hour before his master
+could quiet his hysteric agitation.
+</p> <p>That feature of the concerts which was the most painful I have
+not touched upon: the moments when his master was talking, and
+Tom was left to himself,&mdash;when a weary despair seemed to settle
+down on the distorted face, and the stubby little black fingers,
+wandering over the keys, spoke for Tom's own caged soul within.
+Never, by any chance, a merry, childish laugh of music in the
+broken cadences; tender or wild, a defiant outcry, a tired sigh
+breaking down into silence.  Whatever wearied voice it took, the
+same bitter, hopeless soul spoke through all: "Bless me, even me,
+also, O my Father!"  A something that took all the pain and pathos
+of the world into its weak, pitiful cry.
+</p> <p>Some beautiful caged spirit, one could not but know, struggled
+for breath under that brutal form and idiotic brain.  I wonder when it
+will be free.  Not in this life: the bars are too heavy.
+</p> <p>You cannot help Tom, either; all the war is between you.  He
+was in Richmond in May.  But (do you hate the moral to a story?) in
+your own kitchen, in your own back-alley, there are spirits as
+beautiful, caged in forms as bestial, that you <hi rend="italic">could</hi> set free,
+if you pleased.  Don't call it bad taste in me to speak for them.  You
+know they are more to be pitied than Tom,&mdash;for they are dumb.
+</p>
+</div1>
+
+</body>
+</text>
+</TEI.2>
+

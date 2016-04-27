@@ -1,0 +1,2078 @@
+<?xml version="1.0"?>
+
+<?dlps id="FitRuba"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOnum SYSTEM "http://text.lib.virginia.edu/charent/iso-num.ent"> %ISOnum;
+<!ENTITY % ISOlat1 SYSTEM "http://text.lib.virginia.edu/charent/iso-lat1.ent"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "http://text.lib.virginia.edu/charent/iso-lat2.ent"> %ISOlat2;
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+
+]>
+<TEI.2 id="FitRuba">
+<teiHeader type="migrated" creator="Etext">
+<fileDesc>
+<titleStmt>
+<title type="main">Rubaiyat of Omar Khayyam (1st and 5th editions)</title>
+<title type="sort">rubaiyat of omar khayyam 1st and 5th editions</title>
+<author>Fitzgerald, Edward</author>
+<respStmt>
+<resp>Creation of machine-readable version:</resp>
+<name>Judy Boss</name>
+<resp>Creation of digital images:</resp>
+<name/>
+<resp>Conversion to TEI.2-conformant markup:</resp>
+<name>University of Virginia Library Electronic Text Center.</name>
+</respStmt>
+</titleStmt>
+<extent>ca. <num type="kilobytes">71</num> kilobytes</extent>
+<publicationStmt>
+<publisher>University of Virginia Library</publisher>
+<pubPlace>Charlottesville, Virginia</pubPlace>
+<idno type="ETC">FitRuba</idno>
+<date value="1997">1997</date>
+<availability status="public">
+<p n="copyright">Copyright &copy; 1997 by the Rector and Visitors of the University of Virginia</p>
+<p n="access">Publicly accessible</p>
+</availability>
+<idno type="uva-pid">uva-lib:475958</idno>
+</publicationStmt>
+<seriesStmt>
+<title>University of Virginia Library, Text collection</title>
+<idno type="uva-set">UVA-LIB-Text</idno>
+</seriesStmt>
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title type="main">Rubaiyat of Omar Khayyam</title>
+<title type="sort">rubaiyat of omar khayyam</title>
+<author>Fitzgerald, Edward</author>
+</titleStmt>
+<editionStmt>
+<p>1st and 5th editions. Note that this "5th edition" is a version of
+what is normally called the 4th editiuon, with minor variations (mostly
+in accidentals).</p>
+</editionStmt>
+<publicationStmt>
+<publisher>Grosset &amp; Dunlap</publisher>
+<pubPlace>New York</pubPlace>
+<date value="1900" certainty="uncertain">1900</date>
+<idno type="callNo">Print copy consulted:</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+</projectDesc>
+<editorialDecl>
+<p>All quotation marks retained as data.</p>
+<p>All unambiguous end-of-line hyphens have been removed, and the trailing part of a word has been joined to the preceding line.</p>
+<p>Keywords in the header are a local Electronic Text Center scheme to aid in establishing analytical groupings.</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date value="1900" certainty="uncertain">1900</date>
+</creation>
+<langUsage>
+<language id="eng" usage="main">English</language>
+</langUsage>
+<textClass>
+<keywords>
+<term>fiction; poetry</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change>
+<date value="1997">1997</date>
+<respStmt>
+<resp>corrector</resp>
+<name>Stephen Ramsay, Electronic Text Center</name>
+</respStmt>
+<item>Added TEI header and tags.</item>
+</change>
+<change>
+<date value="2005-07">July 2005</date>
+<respStmt>
+<resp>Corrector</resp>
+<name>John Ivor Carlson</name>
+</respStmt>
+<item>Converted SGML to XML. Fixed tagging.</item>
+</change>
+<change>
+<date value="2007-09">September 2007</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Ethan Gruber, University of Virginia Library</name>
+</respStmt>
+<item>Converted XML markup from TEI Lite to uva-dl-tei (TEI P4 with local customizations).</item>
+</change>
+<change>
+<date value="2008-01">January 2008</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Greg Murray, University of Virginia Library</name>
+</respStmt>
+<item>Programmatically updated TEI header markup (but not header content) for minimal compliance with current QA requirements.</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text id="d1">
+
+<front id="d2">
+<div1 type="contents" id="d3">
+<head>Contents</head>
+<list>
+<item>INTRODUCTION         13</item>
+
+<item>FIRST VERSION        22</item>
+
+<item>FIFTH VERSION       173</item>
+</list>
+</div1>
+
+<div1 type="introduction" id="d4">
+<head>OMAR KHAYYAM: THE ASTRONOMER-POET OF PERSIA</head>
+
+<pb n="13"/>
+
+<p>OMAR KHAYY&Aacute;M was born at Naish&aacute;p&uacute;r in
+Khorass&aacute;n in the latter half of our Eleventh, and died
+within
+the First Quarter of our Twelfth Century.  The Slender Story of
+his Life is curiously twined about
+that of two
+other very considerable Figures in their Time and Country:
+one of whom tells the Story of all Three.  This was Niz&aacute;m
+ul
+Mulk, Vizier to Alp Arsl&aacute;n the Son, and Malik Shah the
+Grandson, of Toghrul Beg the Tartar, who had wrested Persia
+from the feeble Successor of Mahm&uacute;d the Great, and founded
+that Seljukian Dynasty which finally roused Europe into the
+Crusades.  This Niz&aacute;m ul Mulk, in his <hi
+rend="italic">Wasiyat</hi> &mdash; or <hi
+rend="italic">Testament</hi>
+ &mdash; which he wrote and left as a Memorial for future Statesmen
+ &mdash; relates the following, as quoted in the <hi
+rend="italic">Calcutta Review</hi>, No.
+59, from Mirkhond's History of the Assassins.
+</p><p>"'One of the greatest of the wise men of Khorass&aacute;n
+was
+the Im&aacute;m Mowaffak of Naish&aacute;p&uacute;r, a man highly
+honored
+and reverenced, &mdash; may God rejoice his soul; his illustrious
+years exceeded eighty-five, and it was the universal belief that
+every boy who read the Koran or studied the traditions in his
+presence, would assuredly attain to honor and happiness.  For
+this cause did my father send me from T&uacute;s to
+Naish&aacute;p&uacute;r with
+Abd-us-samad, the doctor of law, that I might employ myself
+<pb n="14"/>
+in study and learning under the guidance of that illustrious
+teacher.  Towards me he ever turned an eye of favor and kindness,
+and as his pupil I felt for him
+extreme affection and devotion, so that I passed four years in
+his service.  When I first
+came there, I found two other pupils of mine own age newly
+arrived, Hakim Omar Khayy&aacute;m, and the ill-fated Ben
+Sabb&aacute;h.
+Both were endowed with sharpness of wit and the highest
+natural powers; and we three formed a close friendship together.
+When the Im&aacute;m rose
+from his lectures, they used to
+join me, and we repeated to each other the lessons we had
+heard.  Now Omar was a native of Naish&aacute;p&uacute;r, while
+Hasan
+Ben Sabb&aacute;h's father was one Ali, a man of austere life and
+practise, but heretical in his creed and doctrine.  One day
+Hasan said to me and to Khayy&aacute;m, "It is a universal belief
+that the pupils of the Im&aacute;m Mowaffak will attain to
+fortune.
+Now, even if we <hi rend="italic">all</hi> do not attain
+thereto, without doubt one
+of us will; what then shall be our mutual pledge and bond?"
+We answered, "Be it what you please."  "Well," he said, "let
+us make a vow, that to whomsoever this fortune falls, he
+shall share it equally with the rest, and reserve no pre-eminence
+for himself."  "Be it so," we both
+replied, and on those
+terms we mutually pledged our words.  Years rolled on, and I
+went from Khorass&aacute;n to Transoxiana, and wandered to
+Ghazni and Cabul; and when I returned, I was invested with
+office, and rose to be administrator of affairs during the
+Sultanate of Sultan Alp Arsl&aacute;n.'
+</p><p>"He goes on to state, that years passed by, and both his
+old
+school-friends found him out, and came and claimed a share
+in his good fortune, according to the school-day vow.  The
+Vizier was generous and kept his word.  Hasan demanded a
+place in the government, which the Sultan granted at the
+Vizier's request; but discontented with a gradual rise, he
+plunged into the maze of intrigue of an oriental court, and,
+<pb n="15"/>
+failing in a base attempt to supplant his benefactor, he was
+disgraced and fell.  After many mishaps and wanderings,
+Hasan became the head of the Persian sect of the <hi
+rend="italic">Ismailians</hi>,
+ &mdash; a party of fanatics who had long murmured in obscurity,
+but rose to an evil eminence under the guidance of his strong
+and evil will.  In <hi rend="small-caps">A.D.</hi> 1090, he seized the castle of
+Alam&uacute;t, in
+the province of R&uacute;dbar, which lies in the mountainous
+tract
+south of the Caspian Sea; and it was from this mountain
+home he obtained that evil celebrity among the Crusaders as
+the OLD MAN OF THE MOUNTAINS, and spread terror
+through the Mohammedan world; and it is yet disputed
+where the word <hi rend="italic">Assassin</hi>, which they have
+left in the language of modern
+Europe as their
+dark memorial, is derived
+from the <hi rend="italic">hashish</hi>, or opiate of
+hemp-leaves (the Indian
+<hi rend="italic">bhang</hi>), with which they maddened
+themselves to the sullen
+pitch of oriental desperation, or from the name of the founder
+of the dynasty, whom we have seen in his quiet collegiate
+days, at Naish&aacute;p&uacute;r.  One of the countless victims
+of the Assassin's dagger was
+Niz&aacute;m ul Mulk himself, the old school-boy
+friend.<ref target="FitRub1">[1]</ref>
+</p><p>"Omar Khayy&aacute;m also came to the Vizier to claim his
+share;
+but not to ask for title or office.  'The greatest boon you can
+confer on me,' he said, 'is to let me live in a corner under the
+shadow of your fortune, to spread wide the advantages of
+Science, and pray for your long life and prosperity.'  The Vizier
+tells us, that when he found Omar was really sincere in his
+refusal, he pressed him no further, but granted him a yearly
+pension of 1200 <hi rend="italic">mithk&aacute;ls</hi> of gold
+from the treasury of
+N&aacute;ishap&uacute;r.
+
+<pb n="16"/>
+
+</p><p>"At Naish&aacute;p&uacute;r thus lived and died Omar
+Khayy&aacute;m, 'busied,'
+adds the Vizier, 'in winning knowledge of every kind, and
+especially in Astronomy, wherein he attained to a very high
+pre-eminence.  Under the Sultanate of Malik Shah, he came
+to Merv, and obtained great praise for his proficiency in
+science, and the Sultan showered favors
+upon him.'
+</p><p>"When the Malik Shah determined to reform the calendar,
+Omar was one of the eight learned men employed to do it;
+the result was the <hi rend="italic">Jal&aacute;li</hi> era (so
+called from
+<hi rend="italic">Jal&aacute;l-ud-din</hi>, one
+of the king's names) &mdash; 'a computation of time,' says Gibbon,
+'which surpasses the Julian, and approaches the accuracy of
+the Gregorian style.'  He is also the author of some astronomical
+tables,
+entitled 'Z&iacute;iji-Maliksh&aacute;h&iacute;,'
+and the French have
+lately republished and translated an Arabic Treatise of his
+on Algebra.
+</p><p>"His Takhallus or poetical name (Khayy&aacute;m) signifies
+a
+Tent-maker, and he is said to have at one time exercised that
+trade, perhaps before Niz&aacute;m-ul-Mulk's generosity raised
+him
+to independence.  Many Persian poets similarly derive their
+names from their occupations; thus we have Att&aacute;r, 'a
+druggist,' Assar, 'an oil presser,'
+etc.<ref target="FitRub2">[2]</ref>  Omar himself alludes to
+his
+name in the following whimsical lines: &mdash;
+
+
+<q><lg type="verse"><l>      "'Khayy&aacute;m, who stitched the tents of science,</l>
+<l>        Has fallen in grief's furnace and been suddenly
+burned;</l>
+<l>        The shears of Fate have cut the tent ropes of his
+life,</l>
+<l>        And the broker of Hope has sold him for nothing!'</l>
+</lg></q>
+</p>
+
+<p>"We have only one more anecdote to give of his Life, and
+that relates to the close; it is told in the anonymous preface
+which is sometimes prefixed to his poems; it has been printed
+in the Persian in the Appendix to Hyde's <hi
+rend="italic">Veterum Persarum</hi>
+<pb n="17"/>
+<hi rend="italic">Religio</hi>, p. 499; and D'Herbelot alludes
+to it in
+his Bibliotheque, under <hi rend="italic">Khiam</hi>.<ref
+target="FitRub2">[3]</ref>&mdash;
+
+</p><p>"'It is written in the chronicles of the ancients that
+this
+King of the Wise, Omar Khayy&aacute;m, died at
+Naish&aacute;p&uacute;r in the
+year of the Hegira, 517 (A.D. 1123); in science he was unrivaled,
+&mdash; the very paragon of his age.
+Khwajah Niz&aacute;mi of
+Samarcand, who was one of his pupils, relates the following
+story: "I often used to hold conversations with my teacher,
+Omar Khayy&aacute;m, in a garden; and one day he said to me,
+'My tomb shall be in a spot where the north wind may scatter
+roses over it.'  I wondered at the words he spake, but I knew
+that his were no idle words.<ref target="FitRub4">[4]</ref>
+Years
+after, when I chanced to
+revisit Naish&aacute;p&uacute;r, I went to his final
+resting-place, and lo!
+it was just outside a garden, and trees laden with fruit
+stretched their boughs over the garden wall, and dropped
+their flowers upon his tomb, so that the stone was hidden
+under them."'"
+</p><p>Thus far &mdash; without fear of Trespass &mdash; from the <hi
+rend="italic">Calcutta Review</hi>.
+The writer of
+it, on reading in India this story of Omar's
+Grave, was reminded, he says, of Cicero's Account of finding
+Archimedes' Tomb at Syracuse, buried in grass and weeds.  I
+think Thorwaldsen desired to have roses grow over him; a
+
+<pb n="18"/>
+
+wish religiously fulfilled for him to the present day, I believe.
+However, to return to Omar.
+</p><p>Though the Sultan "shower'd Favors upon him," Omar's
+Epicurean Audacity of Thought and Speech caused him to be
+regarded askance in his own Time and Country.  He is said
+to have been especially hated and dreaded by the S&uacute;fis,
+whose
+Practise he ridiculed, and whose Faith amounts to little more
+than his own, when stript of the Mysticism and formal recognition
+of Islamism under which Omar
+would not hide.  Their
+Poets, including H&aacute;fiz, who are (with the exception of
+Firdausi) the most considerable in
+Persia, borrowed largely, indeed, of Omar's material, but turning
+it to a mystical Use
+more convenient to Themselves and the People they addressed;
+a People quite as quick of Doubt as of Belief; as keen of Bodily
+sense as of Intellectual; and delighting in a cloudy composition
+of both, in which they could float
+luxuriously between
+Heaven and Earth, and this World and the Next, on the wings
+of a poetical expression, that might serve indifferently for
+either.  Omar was too honest of Heart as well of Head for
+this.  Having failed (however mistakenly) of finding any
+Providence but Destiny, and any World but This, he set about
+making the most of it; preferring rather to soothe the Soul
+through the Senses into Acquiescence with Things as he saw
+them, than to perplex it with vain disquietude after what they
+<hi rend="italic">might</hi> be.  It has been seen, however,
+that his Worldly Ambition was not
+exorbitant; and
+he very likely takes a humorous
+or perverse pleasure in exalting the gratification of Sense
+above that of the Intellect, in which he must have taken great
+delight, although it failed to answer the Questions in which
+he, in common with all men, was most vitally interested.
+</p><p>For whatever Reason, however, Omar as before said, has
+never been popular in his own Country, and therefore has
+been but scantily transmitted abroad.  The MSS. of his Poems,
+<pb n="19"/>
+mutilated beyond the average Casualties of Oriental
+Transcription, are so rare in the East as
+scarce to have reacht Westward at all, in spite of all the
+acquisitions of Arms and Science.
+There is no copy at the India House, none at the Bibliotheque
+Nationale of Paris.  We know but of one in England: No. 140
+of the Ouseley MSS. at the Bodleian, written at Shir&aacute;z,
+A.D.
+1460.  This contains but 158 Rub&aacute;iy&aacute;t.  One in the
+Asiatic Society's Library at
+Calcutta (of which we have a Copy), contains (and yet incomplete)
+516, though swelled to that by
+all
+kinds of Repetition and Corruption.  So Von Hammer speaks
+of <hi rend="italic">his</hi> Copy as containing about 200,
+while Dr. Sprenger catalogues the
+Lucknow MS. at
+double that number.<ref target="FitRub5">[5]</ref>  The
+Scribes,
+too, of the Oxford and Calcutta MSS. seem to do their Work
+under a sort of Protest; each beginning with a Tetrastich
+(whether genuine or not), taken out of its alphabetical order;
+the Oxford with one of Apology; the Calcutta with one of
+Expostulation, supposed (says a Notice prefixed to the MS.)
+to have arisen from a Dream, in which Omar's mother asked
+about his future fate.  It may be rendered thus: &mdash;
+
+<q><lg type="verse"><l>"O Thou who burn'st in Heart for those who burn</l>
+<l>In Hell, whose fires thyself shall feed in turn,</l>
+<l>How long be crying, 'Mercy on them, God!'</l>
+<l>Why, who art Thou to teach, and He to learn?"</l>
+</lg></q>
+</p>
+
+<p>The Bodeleian Quatrain pleads Pantheism by way of
+Justification.
+<q><lg type="verse"><l>"If I myself upon a looser Creed</l>
+<l>Have loosely strung the Jewel of Good deed,</l>
+<l>Let this one thing for my Atonement plead:</l>
+<l>That One for Two I never did misread."</l>
+</lg></q>
+<pb n="20"/>
+</p><p>The Reviewer,<ref target="FitRub6">6</ref>
+to whom I owe the Particulars of Omar's
+Life, concludes his Review by comparing him with Lucretius,
+both as to natural Temper and Genius, and as acted upon by
+the Circumstances in which he lived.  Both indeed were men
+of subtle, strong, and cultivated Intellect, fine Imagination,
+and Hearts passionate for Truth and Justice; who justly revolted
+from their Country's false
+Religion, and false, or
+foolish, Devotion to it; but who fell short of replacing what
+they subverted by such better <hi rend="italic">Hope</hi> as
+others, with no better
+Revelation to guide them, had yet made a Law to themselves.
+Lucretius indeed, with such material as Epicurus furnished,
+satisfied himself with the theory of a vast machine fortuitously
+constructed, and acting by a Law
+that implied no Legislator; and so composing himself into a
+Stoical rather than
+Epicurean severity of Attitude, sat down to contemplate the
+mechanical drama of the Universe which he was part Actor
+in; himself and all about him (as in his own sublime description
+of the Roman Theater) discolored
+with the lurid reflex
+of the Curtain suspended between the Spectator and the Sun.
+Omar, more desperate, or more careless of any so complicated
+System as resulted in nothing but hopeless Necessity, flung
+his own Genius and Learning with a bitter or humorous jest
+into the general Ruin which their insufficient glimpses only
+served to reveal; and, pretending sensual pleasure, as the
+serious purpose of Life, only <hi rend="italic">diverted</hi>
+himself with speculative
+problems of Deity, Destiny, Matter and Spirit, Good and
+Evil, and other such questions, easier to start than to run
+down, and the pursuit of which becomes a very weary sport
+at last!
+</p><p>With regard to the present Translation.  The original
+Rub&aacute;iy&aacute;t (as, missing an Arabic Guttural, these <hi
+rend="italic">Tetrastichs</hi>
+are more musically called) are independent Stanzas, consist
+
+
+
+
+<pb n="21"/>
+ing each of four Lines of equal, though varied, Prosody;
+sometimes <hi rend="italic">all</hi>
+rhyming, but
+oftener (as here imitated) the third
+line a blank.  Somewhat as in the Greek Alcaic, where the
+penultimate line seems to lift and suspend the Wave that falls
+over in the last.  As usual with such kind of Oriental Verse,
+the Rub&aacute;iy&aacute;t follow one another according to
+Alphabetic
+Rhyme &mdash; a strange succession of Grave and Gay.  Those here
+selected are strung into something of an Eclogue, with perhaps
+a less than equal proportion of the "Drink and make-merry,"
+which (genuine or not) recurs over-frequently in the Original.
+Either way, the Result is sad enough: saddest perhaps when
+most ostentatiously merry: more apt to move Sorrow than
+Anger toward the old Tentmaker, who, after vainly endeavoring to
+unshackle his Steps from
+Destiny, and to catch some
+authentic Glimpse of <hi rend="small-caps">TO-MORROW</hi>, fell back upon
+<hi rend="small-caps">TO-DAY</hi>
+(which has outlasted so many To-morrows!) as the only Ground he
+had got to
+stand upon, however momentarily slipping from under his Feet.</p>
+
+<signed>EDWARD J. FITZGERALD</signed>
+</div1>
+<div1 type="notes" id="d5">
+
+<note id="FitRub1"><seg type="note-symbol">[1]</seg> <p>Some of Omar's Rub&aacute;iy&aacute;t
+warn us of the danger of Greatness, the instability of Fortune, and while
+advocating Charity to all Men, recommending us to be too intimate with none.
+Att&aacute;r makes Niz&aacute;m-ul-Mulk use the very words of his
+friend Omar [Rub. xxviii.], "When Niz&aacute;m-ul-Mulk was in the Agony
+(of
+Death) he said, 'Oh God!  I am passing away in the hand of the
+wind.'"</p></note>
+
+<note id="FitRub2"><seg type="note-symbol">[2]</seg> <p>Though all these, like our Smiths,
+Archers, Millers, Fletchers, etc., may simply
+retain the Surname of an hereditary calling.</p></note>
+
+<note id="FitRub3"><seg type="note-symbol">[3]</seg> <p>"Philosophe Musulman qui a ve&ccirc;u en
+Odeur de
+Saintet&eacute; dans sa Religion, vers la Fin du premier et le
+Commencement du second Siecle," no part of which, except the
+"Philosophe,"
+can apply to our Khayy&aacute;m.</p></note>
+
+<note id="FitRub4"><seg type="note-symbol">[4]</seg> <p>The Rashness of the Words, according to
+D'Herbelot,
+consisted in being so opposed to those in the Koran: "No Man
+knows where
+he shall die." &mdash; This story of Omar reminds me of another so
+naturally &mdash;
+and when one remembers how wide of his humble mark the noble
+sailor aimed
+&mdash; so pathetically told by Captain Cook &mdash; not by Doctor
+Hawkworth &mdash; in
+his Second Voyage (1. 374).  When leaving Ulietea, "Oreo's last
+request
+was for me to return.  When he saw he could not obtain that
+promise, he
+asked the name of my <hi rend="italic">Marai</hi>
+(burying-place).  As
+strange a question as this was, I hesitated not a moment to tell
+him
+'Stepney';  the parish in which I live when in London.  I was
+made to
+repeat it several times over till they could pronounce it; and
+then
+'Stepney Marai no Toote' was echoed through an hundred mouths at
+once.  I
+afterwards found the same question had been put to Mr. Forster by
+a man on
+shore; but he gave a different, and indeed more proper answer, by
+saying,
+'No man who used the sea could say where he should be
+buried.'"</p></note>
+
+<note id="FitRub5"><seg type="note-symbol">[5]</seg> <p>"Since this paper was written" (adds the
+Reviewer
+in a note), "we have met with a Copy of a very rare Edition,
+printed at
+Calcutta in 1836.  This contains 438 Tetrastichs, with an
+Appendix
+containing 54 others not found in some MSS."</p></note>
+
+<note id="FitRub6"><seg type="note-symbol">[6]</seg> <p>Professor Cowell.
+</p></note>
+
+
+</div1>
+</front>
+
+<body id="d6">
+
+<div1 type="poem" id="d7"><pb n="22"/>
+<head>RUBAIYAT OF OMAR KHAYYAM: FIRST EDITION</head>
+
+<lg type="stanza" n="I">
+
+<head>I</head>
+
+<l>Awake! for Morning in the Bowl of Night
+</l><l>Has flung the Stone that puts the Stars to Flight:
+</l><l rend="indent">And Lo! the Hunter of the East has caught
+</l><l>The Sult&aacute;n's Turret in a Noose of Light.
+</l>
+</lg>
+
+<lg type="stanza" n="II"><head>II</head>
+
+<l>Dreaming when Dawn's Left Hand was in the Sky
+</l><l>I heard a Voice within the Tavern cry,
+</l><l rend="indent">"Awake, my Little ones, and fill the Cup
+</l><l>Before Life's Liquor in its Cup be dry."
+
+
+</l></lg><lg type="stanza" n="III"><head>III</head>
+
+<l>And, as the Cock crew, those who stood before
+</l><l>The Tavern shouted &mdash; "Open then the Door.
+</l><l rend="indent">You know how little while we have to stay,
+</l><l>And, once departed, may return no more."
+</l></lg>
+
+<lg type="stanza" n="IV">
+<head>IV</head>
+
+<l>Now the New Year reviving old Desires,
+</l><l>The thoughtful Soul to Solitude retires,
+</l><l rend="indent">Where the W<hi rend="small-caps">HITE</hi> H<hi rend="small-caps">AND</hi> OF
+M<hi rend="small-caps">OSES</hi> on
+the Bough
+</l><l>Puts out, and Jesus from the Ground suspires.
+
+
+</l></lg><lg type="stanza" n="V"><head>V</head>
+
+<l>Ir&aacute;m indeed is gone with all its Rose,
+</l><l>And Jamsh&yacute;d's Sev'n-ring'd Cup where no one knows;
+</l><l rend="indent">But still the Vine her ancient Ruby yields,
+</l><l>And still a Garden by the Water blows.
+
+
+</l></lg><lg type="stanza" n="VI"><head>VI</head>
+
+<l>And David's Lips are lock't; but in divine
+</l><l>High piping P&eacute;levi, with "Wine!  Wine!  Wine!
+</l><l rend="indent"><hi rend="italic">Red</hi> Wine!" &mdash; the
+Nightingale cries to the Rose
+</l><l>That yellow Cheek of hers to'incarnadine.
+
+
+</l></lg><lg type="stanza" n="VII"><head>VII</head>
+
+<l>Come, fill the Cup, and in the Fire of Spring
+</l><l>The Winter Garment of Repentance fling:
+</l><l rend="indent">The Bird of Time has but a little way
+</l><l>To fly &mdash; and Lo! the Bird is on the Wing.
+
+
+</l></lg><lg type="stanza" n="VIII"><head>VIII</head>
+
+<l>And look &mdash; a thousand Blossoms with the Day
+</l><l>Woke &mdash; and a thousand scatter'd into Clay:
+</l><l rend="indent">And this first Summer Month that brings the
+Rose
+</l><l>Shall take Jamsh&yacute;d and Kaikob&aacute;d away.
+
+
+</l></lg><lg type="stanza" n="IX"><head>IX</head>
+
+<l>But come with old Khayy&aacute;m, and leave the Lot
+</l><l>Of Kaikob&aacute;d and Kaikhosr&uacute; forgot:
+</l><l rend="indent">Let Rustum lay about him as he will,
+</l><l>Or H&aacute;tim Tai cry Supper &mdash; heed them not.
+
+
+</l></lg><lg type="stanza" n="X"><head>X</head>
+
+<l>With me along some Strip of Herbage strown
+</l><l>That just divides the desert from the sown,
+</l><l rend="indent">Where name of Slave and Sult&aacute;n scarce
+is known
+</l><l>And pity Sult&aacute;n M&aacute;hm&uacute;d on his Throne.
+
+
+</l></lg><lg type="stanza" n="XI"><head>XI</head>
+
+<l>Here with a Loaf of Bread beneath the Bough,
+</l><l>A Flask of Wine, a Book of Verse &mdash; and Thou
+</l><l rend="indent">Beside me singing in the Wilderness &mdash;
+</l><l>And Wilderness is Paradise enow.
+
+
+</l></lg><lg type="stanza" n="XII"><head>XII</head>
+ <l>
+
+"How sweet is mortal Sovranty!" &mdash; think some: </l>
+<l>Others &mdash; "How blest the Paradise to come!"
+</l><l rend="indent">Ah, take the Cash in hand and waive the
+Rest;
+</l><l>Oh, the brave Music of a <hi rend="italic">distant</hi>
+Drum!
+
+
+</l></lg><lg type="stanza" n="XIII"><head>XIII</head>
+
+<l>Look to the Rose that blows about us &mdash; "Lo,
+</l><l>Laughing," she says, "into the World I blow:
+</l><l rend="indent">At once the silken Tassel of my Purse
+</l><l>Tear, and its Treasure on the Garden throw."
+
+
+</l></lg><lg type="stanza" n="XIV"><head>XIV</head>
+
+<l>The Worldly Hope men set their Hearts upon
+</l><l>Turns Ashes &mdash; or it prospers; and anon,
+</l><l rend="indent">Like Snow upon the Desert's dusty Face
+</l><l>Lighting a little Hour or two &mdash; is gone.
+
+
+</l></lg><lg type="stanza" n="XV"><head>XV</head>
+
+<l>And those who husbanded the Golden Grain,
+</l><l>And those who flung it to the Winds like Rain,
+</l><l rend="indent">Alike to no such aureate Earth are turn'd
+</l><l>As, buried once, Men want dug up again.
+
+
+</l></lg><lg type="stanza" n="XVI"><head>XVI</head>
+
+<l>Think, in this batter'd Caravanserai
+</l><l>Whose Doorways are alternate Night and Day,
+</l><l rend="indent">How Sult&aacute;n after Sult&aacute;n with
+his Pomp
+</l><l>Abode his Hour or two, and went his way.
+
+
+</l></lg><lg type="stanza" n="XVII"><head>XVII</head>
+
+<l>They say the Lion and the Lizard keep
+</l><l>The Courts where Jamsh&yacute;d gloried and drank deep:
+</l><l rend="indent">And Bahr&aacute;m, that great Hunter &mdash; the
+Wild Ass
+</l><l>Stamps o'er his Head, and he lies fast asleep.
+
+
+</l></lg><lg type="stanza" n="XVIII"><head>XVIII</head>
+
+<l>I sometimes think that never blows so red
+</l><l>The Rose as where some buried Caesar bled;
+</l><l rend="indent">That every Hyacinth the Garden wears
+</l><l>Dropt in its Lap from some once lovely Head.
+
+
+</l></lg><lg type="stanza" n="XIX"><head>XIX</head>
+
+<l>And this delightful Herb whose tender Green
+</l><l>Fledges the River's Lip on which we lean &mdash;
+</l><l rend="indent">Ah, lean upon it lightly! for who knows
+</l><l>From what once lovely Lip it springs unseen!
+
+
+</l></lg><lg type="stanza" n="XX"><head>XX</head>
+
+<l>Ah! my Beloved, fill the Cup that clears
+</l><l><hi rend="small-caps">TO-DAY</hi> of past Regrets and future Fears &mdash;
+</l><l rend="indent"><hi rend="italic">To-morrow?</hi> &mdash; Why,
+To-morrow I may be
+</l><l>Myself with Yesterday's Sev'n Thousand Years.
+
+
+</l></lg><lg type="stanza" n="XXI"><head>XXI</head>
+
+<l>Lo! some we loved, the loveliest and the best
+</l><l>That Time and Fate of all their Vintage prest,
+</l><l rend="indent">Have drunk their Cup a Round or two before,
+</l><l>And one by one crept silently to Rest.
+
+
+</l></lg><lg type="stanza" n="XXII"><head>XXII</head>
+
+<l>And we, that now make merry in the Room
+</l><l>They left, and Summer dresses in new Bloom,
+</l><l rend="indent">Ourselves must we beneath the Couch of Earth
+</l><l>Descend, ourselves to make a Couch &mdash; for whom?
+
+
+</l></lg><lg type="stanza" n="XXIII"><head>XXIII</head>
+
+<l>Ah, make the most of what we yet may spend,
+</l><l>Before we too into the Dust Descend;
+</l><l rend="indent">Dust into Dust, and under Dust, to lie,
+</l><l>Sans Wine, sans Song, sans Singer and &mdash; sans End!
+
+
+</l></lg><lg type="stanza" n="XXIV"><head>XXIV</head>
+
+<l>Alike for those who for <hi rend="small-caps">TO-DAY</hi> prepare,
+</l><l>And those that after a <hi rend="small-caps">TO-MORROW</hi> stare,
+</l><l rend="indent">A Muezz&iacute;n from the Tower of Darkness
+</l><l>cries "Fools! your Reward is neither Here nor There."
+
+</l></lg><lg type="stanza" n="XXV"><head>XXV</head>
+
+<l>Why, all the Saints and Sages who discuss'd
+</l><l>Of the Two Worlds so learnedly, are thrust
+</l><l rend="indent">Like foolish Prophets forth; their Words to
+Scorn
+</l><l>Are scatter'd, and their Mouths are stopt with Dust.
+
+
+</l></lg><lg type="stanza" n="XXVI"><head>XXVI</head>
+
+<l>Oh, come with old Khayy&aacute;m, and leave the Wise
+</l><l>To talk; one thing is certain, that Life flies;
+</l><l rend="indent">One thing is certain, and the Rest is Lies;
+</l><l>The Flower that once has blown for ever dies.
+
+
+</l></lg><lg type="stanza" n="XXVII"><head>XXVII</head>
+
+<l>Myself when young did eagerly frequent
+</l><l>Doctor and Saint, and heard great Argument
+</l><l rend="indent">About it and about: but evermore
+</l><l>Came out by the same Door as in I went.
+
+
+</l></lg><lg type="stanza" n="XXVIII"><head>XXVIII</head>
+
+<l>With them the Seed of Wisdom did I sow,
+</l><l>And with my own hand labour'd it to grow:
+</l><l rend="indent">And this was all the Harvest that I reap'd
+&mdash;
+</l><l>
+"I came like Water, and like Wind I go."
+
+
+</l></lg><lg type="stanza" n="XXIX"><head>XXIX</head>
+
+<l>Into this Universe, and <hi rend="italic">why</hi> not
+knowing,
+</l><l>Nor <hi rend="italic">whence</hi>, like Water willy-nilly
+flowing:
+</l><l rend="indent">And out of it, as Wind along the Waste,
+</l><l>I know not <hi rend="italic">whither</hi>, willy-nilly
+blowing.
+
+
+</l></lg><lg type="stanza" n="XXX"><head>XXX</head>
+
+<l>What, without asking, hither hurried <hi
+rend="italic">whence</hi>?
+</l><l>And, without asking, <hi rend="italic">whither</hi>
+hurried hence!
+</l><l rend="indent">Another and another Cup to drown
+</l><l>The Memory of this Impertinence!
+
+
+</l></lg><lg type="stanza" n="XXXI"><head>XXXI</head>
+
+<l>Up from Earth's Centre through the seventh Gate
+</l><l>I rose, and on the Throne of Saturn sate,
+</l><l rend="indent">And many Knots unravel'd by the Road;
+</l><l>But not the Knot of Human Death and Fate.
+
+
+</l></lg><lg type="stanza" n="XXXII"><head>XXXII</head>
+
+<l>There was a Door to which I found no Key:
+</l><l>There was a Veil past which I could not see:
+</l><l rend="indent">Some little Talk awhile of <hi rend="small-caps">ME</hi> and
+<hi rend="small-caps">THEE</hi>
+</l><l>There seemed &mdash; and then no more of <hi rend="small-caps">THEE</hi> and
+<hi rend="small-caps">ME</hi>.
+
+
+</l></lg><lg type="stanza" n="XXXIII"><head>XXXIII</head>
+
+<l>Then to the rolling Heav'n itself I cried,
+</l><l>Asking, "What Lamp had Destiny to guide
+</l><l rend="indent">Her little Children stumbling in the Dark?"
+</l><l>And &mdash; "A blind understanding!" Heav'n replied.
+
+
+</l></lg><lg type="stanza" n="XXXIV"><head>XXXIV</head>
+
+<l>Then to this earthen Bowl did I adjourn
+</l><l>My Lip the secret Well of Life to learn:
+</l><l rend="indent">And Lip to Lip it murmur'd &mdash; "While you
+live,
+</l><l>Drink! &mdash; for once dead you never shall return."
+
+
+</l></lg><lg type="stanza" n="XXXV"><head>XXXV</head>
+
+<l>I think the Vessel, that with fugitive
+</l><l>Articulation answer'd, once did live,
+</l><l rend="indent">And merry-make; and the cold Lip I kiss'd
+</l><l>How many Kisses might it take &mdash; and give.
+
+
+</l></lg><lg type="stanza" n="XXXVI"><head>XXXVI</head>
+
+<l>For in the Market-place, one Dusk of Day,
+</l><l>I watch'd the Potter thumping his wet Clay:
+</l><l rend="indent">And with its all obliterated Tongue
+</l><l>It murmur'd &mdash; "Gently, Brother, gently, pray!"
+
+
+</l></lg><lg type="stanza" n="XXXVII"><head>XXXVII</head>
+
+<l>Ah, fill the Cup: &mdash; what boots it to repeat
+</l><l>How Time is slipping underneath our Feet:
+</l><l rend="indent">Unborn <hi rend="small-caps">TO-MORROW</hi> and dead
+<hi rend="small-caps">YESTERDAY</hi>,
+</l><l>Why fret about them if <hi rend="small-caps">TO-DAY</hi> be sweet!
+
+</l></lg><lg type="stanza" n="XXXVIII"><head>XXXVIII</head>
+
+<l>One Moment in Annihilation's Waste,
+</l><l>One moment, of the Well of Life to taste &mdash;
+</l><l rend="indent">The Stars are setting, and the Caravan
+</l><l>Starts for the dawn of Nothing &mdash; Oh, make haste!
+
+</l></lg><lg type="stanza" n="XXXIX"><head>XXXIX</head>
+
+<l>How long, how long, in infinite Pursuit
+</l><l>Of This and That endeavour and dispute?
+</l><l rend="indent">Better be merry with the fruitful Grape
+</l><l>Than sadden after none, or bitter, Fruit.
+
+
+</l></lg><lg type="stanza" n="XL"><head>XL</head>
+
+<l>You know, my Friends, how long since in my House
+</l><l>For a new Marriage I did make Carouse:
+</l><l rend="indent">Divorced old barren Reason from my Bed,
+</l><l>And took the Daughter of the Vine to Spouse.
+
+
+</l></lg><lg type="stanza" n="XLI"><head>XLI</head>
+
+<l>For "I<hi rend="small-caps">s"</hi> and "I<hi rend="small-caps">s-NOT"</hi> though <hi
+rend="italic">with</hi>
+</l><l>Rule and Line,
+</l><l>And, <hi rend="small-caps">"UP-AND-DOWN"</hi> <hi
+rend="italic">without</hi>, I could
+define,
+</l><l rend="indent">I yet in all I only cared to know,
+</l><l>Was never deep in anything but &mdash; Wine.
+
+
+</l></lg><lg type="stanza" n="XLII"><head>XLII</head>
+
+<l>And lately, by the Tavern Door agape,
+</l><l>Came stealing through the Dusk an Angel Shape,
+</l><l rend="indent">Bearing a vessel on his Shoulder; and
+</l><l>He bid me taste of it; and 'twas &mdash; the Grape!
+
+
+</l></lg><lg type="stanza" n="XLIII"><head>XLIII</head>
+
+<l>The Grape that can with Logic absolute
+</l><l>The Two-and-Seventy jarring Sects confute:
+</l><l rend="indent">The subtle Alchemist that in a Trice
+</l><l>Life's leaden Metal into Gold transmute.
+
+
+</l></lg><lg type="stanza" n="XLIV"><head>XLIV</head>
+
+<l>The mighty Mahm&uacute;d, the victorious Lord,
+</l><l>That all the misbelieving and black Horde
+</l><l rend="indent">Of Fears and Sorrows that infest the Soul
+</l><l>Scatters and slays with his enchanted Sword.
+
+
+</l></lg><lg type="stanza" n="XLV"><head>XLV</head>
+
+<l>But leave the Wise to wrangle, and with me
+</l><l>The Quarrel of the Universe let be:
+</l><l rend="indent">And, in some corner of the Hubbub coucht,
+</l><l>Make Game of that which makes as much of Thee.
+
+
+</l></lg><lg type="stanza" n="XLVI"><head>XLVI</head>
+
+<l>For in and out, above, about, below,
+</l><l>'Tis nothing but a Magic Shadow-show,
+</l><l rend="indent">Play'd in a Box whose Candle is the Sun,
+</l><l>Round which we Phantom Figures come and go.
+
+
+</l></lg><lg type="stanza" n="XLVII"><head>XLVII</head>
+
+<l>And if the Wine you drink, the Lip you press,
+</l><l>End in the Nothing all Things end in &mdash; Yes &mdash;
+</l><l rend="indent">Then fancy while Thou art, Thou art but what
+</l><l>Thou shalt be &mdash; Nothing &mdash; Thou shalt not be less.
+
+
+</l></lg><lg type="stanza" n="XLVIII"><head>XLVIII</head>
+
+<l>While the Rose blows along the River Brink,
+</l><l>With old Khayy&aacute;m the Ruby Vintage drink:
+</l><l rend="indent">And when the Angel with his darker Draught
+</l><l>Draws up to thee &mdash; take that, and do not shrink.
+
+
+</l></lg><lg type="stanza" n="XLVIX"><head>XLVIX</head>
+ <l>
+'Tis all a Chequer-board of Nights and Days </l>
+<l>Where Destiny with Men for Pieces plays:
+</l><l rend="indent">Hither and thither moves, and mates, and
+slays,
+</l><l>And one by one back in the Closet lays.
+
+
+</l></lg><lg type="stanza" n="L"><head>L</head>
+
+<l>The Ball no Question makes of Ayes and Noes,
+</l><l>But Right or Left as strikes the Player goes;
+</l><l rend="indent">And He that toss'd Thee down into the Field,
+</l><l><hi rend="italic">He</hi> knows about it all &mdash;
+H<hi rend="small-caps">E</hi> knows &mdash; HE
+knows!
+
+
+</l></lg><lg type="stanza" n="LI"><head>LI</head>
+
+<l>The Moving Finger writes; and, having writ,
+</l><l>Moves on: nor all thy Piety nor Wit
+</l><l rend="indent">Shall lure it back to cancel half a Line,
+</l><l>Nor all thy Tears wash out a Word of it.
+
+
+</l></lg><lg type="stanza" n="LII"><head>LII</head>
+
+<l>And that inverted Bowl we call The Sky,
+</l><l>Whereunder crawling coop't we live and die,
+</l><l rend="indent">Lift not thy hands to <hi
+rend="italic">It</hi> for help &mdash; for It
+</l><l>Rolls impotently on as Thou or I.
+
+
+</l></lg><lg type="stanza" n="LIII"><head>LIII</head>
+
+<l>With Earth's first Clay They did the Last Man's knead,
+</l><l>And then of the Last Harvest sow'd the Seed:
+</l><l rend="indent">Yea, the first Morning of Creation wrote
+</l><l>What the Last Dawn of Reckoning shall read.
+
+
+</l></lg><lg type="stanza" n="LIV"><head>LIV</head>
+
+<l>I tell Thee this &mdash; When, starting from the Goal,
+</l><l>Over the shoulders of the flaming Foal
+</l><l rend="indent">Of Heav'n Parw&iacute;n and Mushtar&iacute;
+they flung,
+</l><l>In my predestin'd Plot of Dust and Soul
+
+
+</l></lg><lg type="stanza" n="LV"><head>LV</head>
+
+<l>The Vine had struck a Fibre; which about
+</l><l>It clings my Being &mdash; let the S&uacute;fi flout;
+</l><l rend="indent">Of my Base Metal may be filed a Key,
+</l><l>That shall unlock the Door he howls without.
+
+
+</l></lg><lg type="stanza" n="LVI"><head>LVI</head>
+
+<l>And this I know: whether the one True Light,
+</l><l>Kindle to Love, or Wrath consume me quite,
+</l><l rend="indent">One Glimpse of It within the Tavern caught
+</l><l>Better than in the Temple lost outright.
+
+
+</l></lg><lg type="stanza" n="LVII"><head>LVII</head>
+
+<l>Oh Thou who didst with Pitfall and with Gin
+</l><l>Beset the Road I was to wander in,
+</l><l rend="indent">Thou wilt not with Predestination round
+</l><l>Enmesh me, and impute my Fall to Sin?
+
+
+</l></lg><lg type="stanza" n="LVIII"><head>LVIII</head>
+
+<l>Oh Thou, who Man of baser Earth didst make,
+</l><l>And who with Eden didst devise the Snake;
+</l><l rend="indent">For all the Sin wherewith the Face of Man
+</l><l>Is blacken'd, Man's Forgiveness give &mdash; and take!
+</l><l rend="indent">             *  *  *  *  *
+
+
+</l></lg><lg type="stanza" n="LIX"><head type="main">LIX</head>
+
+<head type="sub">KUZA &mdash; N&Aacute;MA</head>
+
+<l>Listen again.  One Evening at the Close
+</l><l>Of Ramaz&aacute;n, ere the better Moon arose,
+</l><l rend="indent">In that old Potter's Shop I stood alone
+</l><l>With the clay Population round in Rows.
+
+
+</l></lg><lg type="stanza" n="LX"><head>LX</head>
+
+<l>And strange to tell, among that Earthen Lot
+</l><l>Some could articulate, while others not:
+</l><l rend="indent">And suddenly one more impatient cried &mdash;
+</l><l>"Who <hi rend="italic">is</hi> the Potter, pray, and who the
+Pot?"
+
+
+</l></lg><lg type="stanza" n="LXI"><head>LXI</head>
+
+<l>Then said another &mdash; "Surely not in vain
+</l><l>My substance from the common Earth was ta'en,
+</l><l rend="indent">That He who subtly wrought me into Shape
+</l><l>Should stamp me back to common Earth again."
+
+
+</l></lg><lg type="stanza" n="LXII"><head>LXII</head>
+
+<l>Another said &mdash; "Why, ne'er a peevish Boy
+</l><l>Would break the Bowl from which he drank in Joy;
+</l><l rend="indent">Shall He that <hi rend="italic">made</hi>
+the Vessel in pure Love
+</l><l>And Fansy, in an after Rage destroy!"
+
+
+</l></lg><lg type="stanza" n="LXIII"><head>LXIII</head>
+
+<l>None answer'd this; but after Silence spake
+</l><l>A Vessel of a more ungainly Make:
+</l><l rend="indent">"They sneer at me for leaning all awry;
+</l><l>What? did the Hand then of the Potter shake?"
+
+
+</l></lg><lg type="stanza" n="LXIV"><head>LXIV</head>
+
+<l>Said one &mdash; "Folks of a surly Tapster tell,
+</l><l>And daub his Visage with the Smoke of Hell;
+</l><l rend="indent">They talk of some strict Testing of us &mdash;
+Pish!
+</l><l>He's a Good Fellow, and 'twill all be well."
+
+
+</l></lg><lg type="stanza" n="LXV"><head>LXV</head>
+
+<l>Then said another with a long-drawn Sigh,
+</l><l>"My Clay with long oblivion is gone dry:
+</l><l rend="indent">But, fill me with the old familiar Juice,
+</l><l>Methinks I might recover by-and-bye!"
+
+
+</l></lg><lg type="stanza" n="LXVI"><head>LXVI</head>
+
+<l>So, while the Vessels one by one were speaking,
+</l><l>One spied the little Crescent all were seeking:
+</l><l rend="indent">And then they jogg'd each other, "Brother!
+Brother!
+</l><l>Hark to the Porter's Shoulder-knot a-creaking!"
+</l><l rend="indent">             *  *  *  *  *
+
+
+</l></lg><lg type="stanza" n="LXVII"><head>LXVII</head>
+
+<l>Ah, with the Grape my fading Life provide,
+</l><l>And wash my Body whence the life has died,
+</l><l rend="indent">And in a Windingsheet of Vineleaf wrapt,
+</l><l>So bury me by some sweet Gardenside.
+
+
+</l></lg><lg type="stanza" n="LXVIII"><head>LXVIII</head>
+
+<l>That ev'n my buried Ashes such a Snare
+</l><l>Of Perfume shall fling up into the Air,
+</l><l rend="indent">As not a True Believer passing by
+</l><l>But shall be overtaken unaware.
+
+
+</l></lg><lg type="stanza" n="LXIX"><head>LXIX</head>
+
+<l>Indeed, the Idols I have loved so long
+</l><l>Have done my Credit in Men's Eye much wrong:
+</l><l rend="indent">Have drown'd my Honour in a shallow Cup,
+</l><l>And sold my Reputation for a Song.
+
+
+</l></lg><lg type="stanza" n="LXX"><head>LXX</head>
+
+<l>Indeed, indeed, Repentance oft before
+</l><l>I swore &mdash; but was I sober when I swore?
+</l><l rend="indent">And then and then came Spring, and Rose-in
+ hand
+</l><l>My thread-bare Penitence a-pieces tore.
+
+
+</l></lg><lg type="stanza" n="LXXI"><head>LXXI</head>
+
+<l>And much as Wine has play'd the Infidel,
+</l><l>And robb'd me of my Robe of Honour &mdash; well,
+</l><l rend="indent">I often wonder what the Vintners buy
+</l><l>One half so precious as the Goods they sell.
+
+
+</l></lg><lg type="stanza" n="LXXII"><head>LXXII</head>
+
+<l>Alas, that Spring should vanish with the Rose!
+</l><l>That Youth's sweet-scented Manuscript should close!
+</l><l rend="indent">The Nightingale that in the Branches sang,
+</l><l>Ah, whence, and whither flown again, who knows?
+
+
+</l></lg><lg type="stanza" n="LXXIII"><head>LXXIII</head>
+<l>Ah, Love! could thou and I with Fate conspire
+</l><l>To grasp this sorry Scheme of Things entire,
+</l><l rend="indent">Would not we shatter it to bits &mdash; and then
+</l><l>Re-mould it nearer to the Heart's Desire!
+
+
+</l></lg><lg type="stanza" n="LXXIV"><head>LXXIV</head>
+
+
+<l>Ah, Moon of my Delight who know'st no wane,
+</l><l>The Moon of Heav'n is rising once again:
+</l><l rend="indent">How oft hereafter rising shall she look
+</l><l>Through this same Garden after me &mdash; in vain!
+
+
+</l></lg><lg type="stanza" n="LXXV"><head>LXXV</head>
+
+<l>And when Thyself with shining Foot shall pass
+</l><l>Among the Guests Star-scatter'd on The Grass,
+</l><l rend="indent">And in Thy joyous Errand reach the Spot
+</l><l>Where I made one &mdash; turn down an empty Glass!
+</l>
+ <l>
+  TAM&Aacute;m SHUD.
+</l>
+</lg>
+</div1>
+<div1 type="poem" id="d8">
+<head>RUB&Aacute;IY&Aacute;T OF OMAR
+KHAYY&Aacute;M: FIFTH EDITION </head>
+
+<lg type="stanza" n="I"><head>I.</head>
+
+<l>WAKE! For the Sun, who scatter'd into flight
+</l><l>The Stars before him from the Field of Night,
+</l><l rend="indent">Drives Night along with them from Heav'n,
+and strikes
+</l><l>The Sult&aacute;n's Turret with a Shaft of Light.
+
+
+</l></lg><lg type="stanza" n="II"><head>II.</head>
+
+<l>Before the phantom of False morning died,
+</l><l>Methought a Voice within the Tavern cried,
+</l><l rend="indent">"When all the Temple is prepared within,
+</l><l>"Why nods the drowsy Worshiper outside?"
+
+
+</l></lg><lg type="stanza" n="III"><head>III.</head>
+
+<l>And, as the Cock crew, those who stood before
+</l><l>The Tavern shouted &mdash; "Open then the Door!
+</l><l rend="indent">"You know how little while we have to stay,
+</l><l>And, once departed, may return no more."
+
+
+</l></lg><lg type="stanza" n="IV"><head>IV.</head>
+
+<l>Now the New Year reviving old Desires,
+</l><l>The thoughtful Soul to Solitude retires,
+</l><l rend="indent">Where the WHITE HAND OF MOSES on the Bough
+</l><l>Puts out, and Jesus from the Ground suspires.
+
+
+</l></lg><lg type="stanza" n="V"><head>V.</head>
+
+<l>Ir&aacute;m indeed is gone with all his Rose,
+</l><l>And Jamsh&yacute;d's Sev'n-ring'd Cup where no one knows;
+</l><l rend="indent">But still a Ruby kindles in the Vine,
+</l><l>And many a Garden by the Water blows.
+
+
+</l></lg><lg type="stanza" n="VI"><head>VI.</head>
+
+<l>And David's lips are lockt; but in divine
+</l><l>High-piping Pehlev&iacute;, with "Wine! Wine! Wine!
+</l><l rend="indent">"Red Wine!" &mdash; the Nightingale cries to the
+Rose
+</l><l>That sallow cheek of hers to' incarnadine.
+
+
+</l></lg><lg type="stanza" n="VII"><head>VII.</head>
+
+<l>Come, fill the Cup, and in the fire of Spring
+</l><l>Your Winter garment of Repentance fling:
+</l><l rend="indent">The Bird of Time has but a little way
+</l><l>To flutter &mdash; and the Bird is on the Wing.
+
+
+</l></lg><lg type="stanza" n="VIII"><head>VIII.</head>
+
+<l>Whether at Naish&aacute;p&uacute;r or Babylon,
+</l><l>Whether the Cup with sweet or bitter run,
+</l><l rend="indent">The Wine of Life keeps oozing drop by drop,
+</l><l>The Leaves of Life keep falling one by one.
+
+
+</l></lg><lg type="stanza" n="IX"><head>IX.</head>
+
+<l>Each Morn a thousand Roses brings, you say:
+</l><l>Yes, but where leaves the Rose of Yesterday?
+</l><l rend="indent">And this first Summer month that brings the
+Rose
+</l><l>Shall take Jamsh&yacute;d and Kaikob&aacute;d away.
+
+
+</l></lg><lg type="stanza" n="X"><head>X.</head>
+
+<l>Well, let it take them!  What have we to do
+</l><l>With Kaikob&aacute;d the Great, or Kaikhosr&uacute;?
+</l><l rend="indent">Let Z&aacute;l and Rustum bluster as they
+will,
+</l><l>Or H&aacute;tim call to Supper &mdash; heed not you.
+
+
+</l></lg><lg type="stanza" n="XI"><head>XI.</head>
+
+<l>With me along the strip of Herbage strown
+</l><l>That just divides the desert from the sown,
+</l><l rend="indent">Where name of Slave and Sult&aacute;n is
+forgot &mdash;
+</l><l>And Peace to Mahm&uacute;d on his golden Throne!
+
+
+</l></lg><lg type="stanza" n="XII"><head>XII.</head>
+
+<l>A Book of Verses underneath the Bough,
+</l><l>A Jug of Wine, a Loaf of Bread &mdash; and Thou
+</l><l rend="indent">Beside me singing in the Wilderness &mdash;
+</l><l>Oh, Wilderness were Paradise enow!
+
+
+</l></lg><lg type="stanza" n="XIII"><head>XIII.</head>
+
+<l>Some for the Glories of This World; and some
+</l><l>Sigh for the Prophet's Paradise to come;
+</l><l rend="indent">Ah, take the Cash, and let the Credit go,
+</l><l>Nor heed the rumble of a distant Drum!
+
+
+</l></lg><lg type="stanza" n="XIV"><head>XIV.</head>
+
+<l>Look to the blowing Rose about us &mdash; "Lo,
+</l><l>Laughing," she says, "into the world I blow,
+</l><l rend="indent">At once the silken tassel of my Purse
+</l><l>Tear, and its Treasure on the Garden throw."
+
+
+</l></lg><lg type="stanza" n="XV"><head>XV.</head>
+
+<l>And those who husbanded the Golden grain,
+</l><l>And those who flung it to the winds like Rain,
+</l><l rend="indent">Alike to no such aureate Earth are turn'd
+</l><l>As, buried once, Men want dug up again.
+
+
+</l></lg><lg type="stanza" n="XVI"><head>XVI.</head>
+
+<l>The Worldly Hope men set their Hearts upon
+</l><l>Turns Ashes &mdash; or it prospers; and anon,
+</l><l rend="indent">Like Snow upon the Desert's dusty Face,
+</l><l>Lighting a little hour or two &mdash; is gone.
+
+
+</l></lg><lg type="stanza" n="XVII"><head>XVII.</head>
+
+<l>Think, in this batter'd Caravanserai
+</l><l>Whose Portals are alternate Night and Day,
+</l><l rend="indent">How Sult&aacute;n after Sult&aacute;n with
+his Pomp
+</l><l>Abode his destined Hour, and went his way.
+
+
+</l></lg><lg type="stanza" n="XVIII"><head>XVIII.</head>
+
+<l>They say the Lion and the Lizard keep
+</l><l>The courts where Jamsh&yacute;d gloried and drank deep:
+</l><l rend="indent">And Bahr&aacute;m, that great Hunter &mdash; the
+Wild Ass
+</l><l>Stamps o'er his Head, but cannot break his Sleep.
+
+
+</l></lg><lg type="stanza" n="XIX"><head>XIX.</head>
+
+<l>I sometimes think that never blows so red
+</l><l>The Rose as where some buried Caesar bled;
+</l><l rend="indent">That every Hyacinth the Garden wears
+</l><l>Dropt in her Lap from some once lovely Head.
+
+
+</l></lg><lg type="stanza" n="XX"><head>XX.</head>
+
+<l>And this reviving Herb whose tender Green
+</l><l>Fledges the River-Lip on which we lean &mdash;
+</l><l rend="indent">Ah, lean upon it lightly! for who knows
+</l><l>>From what once lovely Lip it springs unseen!
+
+</l></lg><lg type="stanza" n="XXI"><head>XXI.</head>
+
+<l>Ah, my Beloved, fill the Cup that clears
+</l><l>TO-DAY of past Regrets and future Fears:
+</l><l rend="indent"><hi rend="italic">To-morrow</hi> &mdash; Why,
+To-morrow I may be
+</l><l>Myself with Yesterday's Sev'n thousand Years.
+
+
+</l></lg><lg type="stanza" n="XXII"><head>XXII.</head>
+
+<l>For some we loved, the loveliest and the best
+</l><l>That from his Vintage rolling Time hath prest,
+</l><l rend="indent">Have drunk their Cup a Round or two before,
+</l><l>And one by one crept silently to rest.
+
+
+</l></lg><lg type="stanza" n="XXIII"><head>XXIII.</head>
+
+<l>And we, that now make merry in the Room
+</l><l>They left, and Summer dresses in new bloom,
+</l><l rend="indent">Ourselves must we beneath the Couch of Earth
+</l><l>Descend &mdash; ourselves to make a Couch &mdash; for whom?
+
+
+</l></lg><lg type="stanza" n="XXIV"><head>XXIV.</head>
+
+<l>Ah, make the most of what we yet may spend,
+</l><l>Before we too into the Dust descend;
+</l><l rend="indent">Dust into Dust, and under Dust to lie,
+</l><l>Sans Wine, sans Song, sans Singer, and &mdash; sans End!
+
+
+</l></lg><lg type="stanza" n="XXV"><head>XXV.</head>
+
+<l>Alike for those who for TO-DAY prepare,
+</l><l>And those that after some TO-MORROW stare,
+</l><l rend="indent">A Muezz&iacute;n from the Tower of Darkness
+cries,
+</l><l>
+"Fools! your Reward is neither Here nor There."
+
+
+</l></lg><lg type="stanza" n="XXVI"><head>XXVI.</head>
+
+<l>Why, all the Saints and Sages who discuss'd
+</l><l>Of the Two Worlds so wisely &mdash; they are thrust
+</l><l rend="indent">Like foolish Prophets forth; their Words to
+Scorn
+</l><l>Are scatter'd, and their Mouths are stopt with Dust.
+
+
+</l></lg><lg type="stanza" n="XXVII"><head>XXVII.</head>
+
+<l>Myself when young did eagerly frequent
+</l><l>Doctor and Saint, and heard great argument
+</l><l rend="indent">About it and about: but evermore
+</l><l>Came out by the same door where in I went.
+
+
+</l></lg><lg type="stanza" n="XXVIII"><head>XXVIII.</head>
+
+<l>With them the seed of Wisdom did I sow,
+</l><l>And with mine own hand wrought to make it grow;
+</l><l rend="indent">And this was all the Harvest that I reap'd
+&mdash;
+</l><l>"I came like Water, and like Wind I go."
+
+
+</l></lg><lg type="stanza" n="XXIX"><head>XXIX.</head>
+
+<l>Into this Universe, and <hi rend="italic">Why</hi> not
+knowing
+</l><l>Nor <hi rend="italic">Whence</hi>, like Water willy-nilly
+flowing;
+</l><l rend="indent">And out of it, as Wind along the Waste,
+</l><l>I know not <hi rend="italic">Whither</hi>, willy-nilly
+blowing.
+
+
+</l></lg><lg type="stanza" n="XXX"><head>XXX.</head>
+
+<l>What, without asking, hither hurried <hi
+rend="italic">Whence?</hi>
+</l><l>And, without asking, <hi rend="italic">Whither</hi>
+hurried hence!
+</l><l rend="indent">Oh, many a Cup of this forbidden Wine
+</l><l>Must drown the memory of that insolence!
+
+
+</l></lg><lg type="stanza" n="XXXI"><head>XXXI.</head>
+
+<l>Up from Earth's Center through the Seventh Gate
+</l><l>I rose, and on the Throne of Saturn sate,
+</l><l rend="indent">And many a Knot unravel'd by the Road;
+</l><l>But not the Master-knot of Human Fate.
+
+
+</l></lg><lg type="stanza" n="XXXII"><head>XXXII.</head>
+
+<l>There was the Door to which I found no Key;
+</l><l>There was the Veil through which I might not see:
+</l><l rend="indent">Some little talk awhile of M<hi rend="small-caps">E</hi> and
+T<hi rend="small-caps">HEE</hi>
+</l><l>There was &mdash; and then no more of T<hi rend="small-caps">HEE</hi> and
+M<hi rend="small-caps">E</hi>.
+
+
+</l></lg><lg type="stanza" n="XXXIII"><head>XXXIII.</head>
+
+<l>Earth could not answer; nor the Seas that mourn
+</l><l>In flowing Purple, of their Lord Forlorn;
+</l><l rend="indent">Nor rolling Heaven, with all his Signs
+reveal'd
+</l><l>And hidden by the sleeve of Night and Morn.
+
+
+</l></lg><lg type="stanza" n="XXXIV"><head>XXXIV.</head>
+
+<l>Then of the T<hi rend="small-caps">HEE IN</hi> M<hi rend="small-caps">E</hi> who works behind
+</l><l>The Veil, I lifted up my hands to find
+</l><l rend="indent">A lamp amid the Darkness; and I heard,
+</l><l>As from Without &mdash;
+"T<hi rend="small-caps">HE</hi> M<hi rend="small-caps">E</hi>
+W<hi rend="small-caps">ITHIN</hi> T<hi rend="small-caps">HEE
+BLIND</hi>!"
+</l></lg><lg type="stanza" n="XXXV"><head>XXXV.</head>
+
+<l>Then to the Lip of this poor earthen Urn
+</l><l>I lean'd, the Secret of my Life to learn:
+</l><l rend="indent">And Lip to Lip it murmur'd &mdash; "While you
+live,
+</l><l>
+"Drink! &mdash; for, once dead, you never shall return."
+
+
+</l></lg><lg type="stanza" n="XXXVI"><head>XXXVI.</head>
+
+<l>I think the Vessel, that with fugitive
+</l><l>Articulation answer'd, once did live,
+</l><l rend="indent">And drink; and Ah! the passive Lip I kiss'd,
+</l><l>How many Kisses might it take &mdash; and give!
+
+
+</l></lg><lg type="stanza" n="XXXVII"><head>XXXVII.</head>
+
+<l>For I remember stopping by the way
+</l><l>To watch a Potter thumping his wet Clay:
+</l><l rend="indent">And with its all-obliterated Tongue
+</l><l>It murmur'd &mdash; "Gently, Brother, gently, pray!"
+
+
+</l></lg><lg type="stanza" n="XXXVIII"><head>XXXVIII.</head>
+
+<l>And has not such a Story from of Old
+</l><l>Down Man's successive generations roll'd
+</l><l rend="indent">Of such a clod of saturated Earth
+</l><l>Cast by the Maker into Human mold?
+
+
+</l></lg><lg type="stanza" n="XXXIX"><head>XXXIX.</head>
+
+<l>And not a drop that from our Cups we throw
+</l><l>For Earth to drink of, but may steal below
+</l><l rend="indent">To quench the fire of Anguish in some Eye
+</l><l>There hidden &mdash; far beneath, and long ago.
+
+
+</l></lg><lg type="stanza" n="XL"><head>XL.</head>
+
+<l>As then the Tulip for her morning sup
+</l><l>Of Heav'nly Vintage from the soil looks up,
+</l><l rend="indent">Do you devoutly do the like, till Heav'n
+</l><l>To Earth invert you &mdash; like an empty Cup.
+
+
+</l></lg><lg type="stanza" n="XLI"><head>XLI.</head>
+
+<l>Perplext no more with Human or Divine,
+</l><l>To-morrow's tangle to the winds resign,
+</l><l rend="indent">And lose your fingers in the tresses of
+</l><l>The Cypress-slender Minister of Wine.
+
+
+</l></lg><lg type="stanza" n="XLII"><head>XLII.</head>
+
+<l>And if the Wine you drink, the Lip you press,
+</l><l>End in what All begins and ends in &mdash; Y<hi rend="small-caps">ES</hi>;
+</l><l rend="indent">Think then you are T<hi rend="small-caps">O-DAY</hi> what
+Y<hi rend="small-caps">ESTERDAY</hi>
+</l><l>You were &mdash; T<hi rend="small-caps">O-MORROW</hi> you shall not be less.
+
+
+</l></lg><lg type="stanza" n="XLIII"><head>XLIII.</head>
+
+<l>So when that Angel of the darker Drink
+</l><l>At last shall find you by the river-brink,
+</l><l rend="indent">And, offering his Cup, invite your Soul
+</l><l>Forth to you Lips to quaff &mdash; you shall not shrink.
+
+
+</l></lg><lg type="stanza" n="XLIV"><head>XLIV.</head>
+
+<l>Why, if the Soul can fling the Dust aside,
+</l><l>And naked on the Air of Heaven ride,
+</l><l rend="indent">Were't not a Shame &mdash; were't not a Shame for
+him
+</l><l>In this clay carcass crippled to abide?
+
+
+</l></lg><lg type="stanza" n="XLV"><head>XLV.</head>
+
+<l>'Tis but a Tent where takes his one day's rest
+</l><l>A Sult&aacute;n to the realm of Death addrest;
+</l><l rend="indent">The Sult&aacute;n rises, and the dark Ferrash
+</l><l>Strikes, and prepares it for another Guest.
+</l></lg><lg type="stanza" n="XLVI"><head>XLVI.</head>
+
+<l>And fear not lest Existence closing your
+</l><l>Account, and mine, should know the like no more;
+</l><l rend="indent">The Eternal S&aacute;k&iacute; from that
+Bowl has pour'd
+</l><l>Millions of Bubbles like us, and will pour.
+</l></lg>
+
+<lg type="stanza" n="XLVII"><head>XLVII.</head>
+
+<l>When You and I behind the Veil are past,
+</l><l>Oh, but the long, long while the World shall last,
+</l><l rend="indent">Which of our Coming and Departure heeds
+</l><l>As the Sea's self should heed a pebble-cast.
+
+
+</l></lg><lg type="stanza" n="XLVIII"><head>XLVIII.</head>
+
+<l>A Moment's Halt &mdash; a momentary taste
+</l><l>Of B<hi rend="small-caps">EING</hi> from the Well amid the Waste &mdash;
+</l><l rend="indent">And Lo! &mdash; the phantom Caravan has reach'd
+</l><l>The N<hi rend="small-caps">OTHING</hi> it set out from &mdash; Oh, make haste!
+
+
+</l></lg><lg type="stanza" n="XLIX"><head>XLIX.</head>
+
+<l>Would you that spangle of Existence spend
+</l><l>About <hi rend="small-caps">THE SECRET</hi> &mdash; quick about it, Friend!
+</l><l rend="indent">A Hair perhaps divides the False from True
+&mdash;
+</l><l>And upon what, prithee, may life depend?
+
+
+</l></lg><lg type="stanza" n="L"><head>L.</head>
+
+<l>A Hair perhaps divides the False and True;
+</l><l>Yes; and a single Alif were the clue &mdash;
+</l><l rend="indent">Could you but find it &mdash; to the
+Treasure-house,
+</l><l>And peradventure to T<hi rend="small-caps">HE</hi> M<hi rend="small-caps">ASTER</hi> too;
+
+
+</l></lg><lg type="stanza" n="LI"><head>LI.</head>
+
+<l>Whose secret Presence through Creation's veins
+</l><l>Running Quicksilver-like eludes your pains;
+</l><l rend="indent">Taking all shapes from M&aacute;h to
+M&aacute;hi and
+</l><l>They change and perish all &mdash; but He remains;
+
+
+</l></lg><lg type="stanza" n="LII"><head>LII.</head>
+
+<l>A moment guessed &mdash; then back behind the Fold
+</l><l>Immerst of Darkness round the Drama roll'd
+</l><l rend="indent">Which, for the Pastime of Eternity,
+</l><l>He doth Himself contrive, enact, behold.
+
+
+</l></lg><lg type="stanza" n="LIII"><head>LIII.</head>
+
+<l>But if in vain, down on the stubborn floor
+</l><l>Of Earth, and up to Heav'n's unopening Door,
+</l><l rend="indent">You gaze T<hi rend="small-caps">O-DAY</hi>, while You are You
+&mdash; how then
+</l><l>T<hi rend="small-caps">O-MORROW</hi>, when You shall be You no more?
+
+
+</l></lg><lg type="stanza" n="LIV"><head>LIV.</head>
+
+<l>Waste not your Hour, nor in the vain pursuit
+</l><l>Of This and That endeavor and dispute;
+</l><l rend="indent">Better be jocund with the fruitful Grape
+</l><l>Than sadden after none, or bitter, Fruit.
+
+
+</l></lg><lg type="stanza" n="LV"><head>LV.</head>
+
+<l>You know, my Friends, with what a brave Carouse
+</l><l>I made a Second Marriage in my house;
+</l><l rend="indent">Divorced old barren Reason from my Bed,
+</l><l>And took the Daughter of the Vine to Spouse.
+
+
+</l></lg><lg type="stanza" n="LVI"><head>LVI.</head>
+
+<l>For "Is" and "Is-not" though with Rule and Line
+</l><l>And "U<hi rend="small-caps">P-AND-DOWN"</hi> by Logic I define,
+</l><l rend="indent">Of all that one should care to fathom, I
+</l><l>Was never deep in anything but &mdash; Wine.
+
+
+</l></lg><lg type="stanza" n="LVII"><head>LVII.</head>
+
+<l>Ah, by my Computations, People say,
+</l><l>Reduce the Year to better reckoning? &mdash; Nay,
+</l><l rend="indent">'Twas only striking from the Calendar
+</l><l>Unborn To-morrow and dead Yesterday.
+
+
+</l></lg><lg type="stanza" n="LVIII"><head>LVIII.</head>
+
+<l>And lately, by the Tavern Door agape,
+</l><l>Came shining through the Dusk an Angel Shape
+</l><l rend="indent">Bearing a Vessel on his Shoulder; and
+</l><l>He bid me taste of it; and 'twas &mdash; the Grape!
+
+
+</l></lg><lg type="stanza" n="LIX"><head>LIX.</head>
+
+<l>The Grape that can with Logic absolute
+</l><l>The Two-and-Seventy jarring Sects confute:
+</l><l rend="indent">The sovereign Alchemist that in a trice
+</l><l>Life's leaden metal into Gold transmute;
+
+
+</l></lg><lg type="stanza" n="LX"><head>LX.</head>
+
+<l>The mighty Mahm&uacute;d, Allah-breathing Lord,
+</l><l>That all the misbelieving and black Horde
+</l><l rend="indent">Of Fears and Sorrows that infest the Soul
+</l><l>Scatters before him with his whirlwind Sword.
+
+
+</l></lg><lg type="stanza" n="LXI"><head>LXI.</head>
+
+<l>Why, be this Juice the growth of God, who dare
+</l><l>Blaspheme the twisted tendril as a Snare?
+</l><l rend="indent">A Blessing, we should use it, should we not?
+</l><l>And if a Curse &mdash; why, then, Who set it there?
+
+
+</l></lg><lg type="stanza" n="LXII"><head>LXII.</head>
+
+<l>I must abjure the Balm of Life, I must,
+</l><l>Scared by some After-reckoning ta'en on trust,
+</l><l rend="indent">Or lured with Hope of some Diviner Drink,
+</l><l>To fill the Cup &mdash; when crumbled into Dust!
+
+
+</l></lg><lg type="stanza" n="LXIII"><head>LXIII.</head>
+
+<l>Of threats of Hell and Hopes of Paradise!
+</l><l>One thing at least is certain &mdash; <hi
+rend="italic">This</hi> Life flies;
+</l><l rend="indent">One thing is certain and the rest is Lies;
+</l><l>The Flower that once has blown for ever dies.
+
+
+</l></lg><lg type="stanza" n="LXIV"><head>LXIV.</head>
+
+<l>Strange, is it not? that of the myriads who
+</l><l>Before us pass'd the door of Darkness through,
+</l><l rend="indent">Not one returns to tell us of the Road,
+</l><l>Which to discover we must travel too.
+
+
+</l></lg><lg type="stanza" n="LXV"><head>LXV.</head>
+
+<l>The Revelations of Devout and Learn'd
+</l><l>Who rose before us, and as Prophets burn'd,
+</l><l rend="indent">Are all but Stories, which, awoke from Sleep
+</l><l>They told their comrades, and to Sleep return'd.
+
+
+</l></lg><lg type="stanza" n="LXVI"><head>LXVI.</head>
+
+<l>I sent my Soul through the Invisible,
+</l><l>Some letter of that After-life to spell:
+</l><l rend="indent">And by and by my Soul return'd to me,
+</l><l>And answer'd "I Myself am Heav'n and Hell:"
+
+
+</l></lg><lg type="stanza" n="LXVII"><head>LXVII.</head>
+
+<l>Heav'n but the Vision of fulfill'd Desire,
+</l><l>And Hell the Shadow from a Soul on fire,
+</l><l rend="indent">Cast on the Darkness into which Ourselves,
+</l><l>So late emerged from, shall so soon expire.
+
+
+</l></lg><lg type="stanza" n="LXVIII"><head>LXVIII.</head>
+
+<l>We are no other than a moving row
+</l><l>Of Magic Shadow-shapes that come and go
+</l><l rend="indent">Round with the Sun-illumined Lantern held
+</l><l>In Midnight by the Master of the Show;
+
+
+</l></lg><lg type="stanza" n="LXIX"><head>LXIX.</head>
+
+<l>But helpless Pieces of the Game He plays
+</l><l>Upon this Chequer-board of Nights and Days;
+</l><l rend="indent">Hither and thither moves, and checks, and
+slays,
+</l><l>And one by one back in the Closet lays.
+
+
+</l></lg><lg type="stanza" n="LXX"><head>LXX.</head>
+
+<l>The Ball no question makes of Ayes and Noes,
+</l><l>But Here or There as strikes the Player goes;
+</l><l rend="indent">And He that toss'd you down into the Field,
+</l><l><hi rend="italic">He</hi> knows about it all &mdash;
+<hi rend="small-caps">HE</hi> knows &mdash; HE
+knows!
+
+
+</l></lg><lg type="stanza" n="LXXI"><head>LXXI.</head>
+
+<l>The Moving Finger writes; and, having writ,
+</l><l>Moves on: nor all your Piety nor Wit
+</l><l rend="indent">Shall lure it back to cancel half a Line,
+</l><l>Nor all your Tears wash out a Word of it.
+
+
+</l></lg><lg type="stanza" n="LXXII"><head>LXXII.</head>
+
+<l>And that inverted Bowl they call the Sky,
+</l><l>Whereunder crawling coop'd we live and die,
+</l><l rend="indent">Lift not your hands to <hi
+rend="italic">It</hi> for help &mdash; for It
+</l><l>As impotently moves as you or I.
+
+
+</l></lg><lg type="stanza" n="LXXIII"><head>LXXIII.</head>
+
+<l>With Earth's first Clay They did the Last Man knead,
+</l><l>And there of the Last Harvest sow'd the Seed:
+</l><l rend="indent">And the first Morning of Creation wrote
+</l><l>What the Last Dawn of Reckoning shall read.
+
+
+</l></lg><lg type="stanza" n="LXXIV"><head>LXXIV.</head>
+
+<l>Y<hi rend="small-caps">ESTERDAY</hi> <hi rend="italic">This</hi> Day's Madness
+did prepare;
+</l><l>T<hi rend="small-caps">O-MORROW</hi>'s Silence, Triumph, or Despair:
+</l><l rend="indent">Drink! for you not know whence you came, nor
+why:
+</l><l>Drink! for you know not why you go nor where.
+
+
+</l></lg><lg type="stanza" n="LXXV"><head>LXXV.</head>
+
+<l>I tell you this &mdash; When, started from the Goal,
+</l><l>Over the flaming shoulders of the Foal
+</l><l rend="indent">Of Heav'n Parw&iacute;n and Mushtar&iacute;
+they flung,
+</l><l>In my predestined Plot of Dust and Soul.
+
+
+</l></lg><lg type="stanza" n="LXXVI"><head>LXXVI.</head>
+
+<l>The Vine had struck a fiber: which about
+</l><l>It clings my Being &mdash; let the Dervish flout;
+</l><l rend="indent">Of my Base metal may be filed a Key
+</l><l>That shall unlock the Door he howls without.
+
+
+</l></lg><lg type="stanza" n="LXXVII"><head>LXXVII.</head>
+
+<l>And this I know: whether the one True Light
+</l><l>Kindle to Love, or Wrath consume me quite,
+</l><l rend="indent">One Flash of It within the Tavern caught
+</l><l>Better than in the Temple lost outright.
+
+
+</l></lg><lg type="stanza" n="LXXVIII"><head>LXXVIII.</head>
+
+<l>What! out of senseless Nothing to provoke
+</l><l>A conscious Something to resent the yoke
+</l><l rend="indent">Of unpermitted Pleasure, under pain
+</l><l>Of Everlasting Penalties, if broke!
+
+
+</l></lg><lg type="stanza" n="LXXIX"><head>LXXIX.</head>
+
+<l>What! from his helpless Creature be repaid
+</l><l>Pure Gold for what he lent him dross-allay'd &mdash;
+</l><l rend="indent">Sue for a Debt he never did contract,
+</l><l>And cannot answer &mdash; Oh the sorry trade!
+
+
+</l></lg><lg type="stanza" n="LXXX"><head>LXXX.</head>
+
+<l>Oh Thou, who didst with pitfall and with gin
+</l><l>Beset the Road I was to wander in,
+</l><l rend="indent">Thou wilt not with Predestined Evil round
+</l><l>Enmesh, and then impute my Fall to Sin!
+
+
+</l></lg><lg type="stanza" n="LXXXI"><head>LXXXI.</head>
+
+<l>Oh Thou, who Man of baser Earth didst make,
+</l><l>And ev'n with Paradise devise the Snake:
+</l><l rend="indent">For all the Sin wherewith the Face of Man
+</l><l>Is blacken'd &mdash; Man's forgiveness give &mdash; and take!
+</l><l>
+    *    *    *    *    *    *
+
+
+</l></lg><lg type="stanza" n="LXXXII"><head>LXXXII.</head>
+
+<l>As under cover of departing Day
+</l><l>Slunk hunger-stricken Ramaz&aacute;n away,
+</l><l rend="indent">Once more within the Potter's house alone
+</l><l>I stood, surrounded by the Shapes of Clay.
+
+
+</l></lg><lg type="stanza" n="LXXXIII"><head>LXXXIII.</head>
+
+<l>Shapes of all Sorts and Sizes, great and small,
+</l><l>That stood along the floor and by the wall;
+</l><l rend="indent">And some loquacious Vessels were; and some
+</l><l>Listen'd perhaps, but never talk'd at all.
+
+
+</l></lg><lg type="stanza" n="LXXXIV"><head>LXXXIV.</head>
+
+<l>Said one among them &mdash; "Surely not in vain
+</l><l>My substance of the common Earth was ta'en
+</l><l rend="indent">And to this Figure molded, to be broke,
+</l><l>Or trampled back to shapeless Earth again."
+
+
+</l></lg><lg type="stanza" n="LXXXV"><head>LXXXV.</head>
+
+<l>Then said a Second &mdash; "Ne'er a peevish Boy
+</l><l>Would break the Bowl from which he drank in joy;
+</l><l rend="indent">And He that with his hand the Vessel made
+</l><l>Will surely not in after Wrath destroy."
+
+
+</l></lg><lg type="stanza" n="LXXXVI"><head>LXXXVI.</head>
+
+<l>After a momentary silence spake
+</l><l>Some Vessel of a more ungainly Make;
+</l><l rend="indent">"They sneer at me for leaning all awry:
+</l><l>What! did the Hand then of the Potter shake?"
+
+
+</l></lg><lg type="stanza" n="LXXXVII"><head>LXXXVII.</head>
+
+<l>Whereat some one of the loquacious Lot &mdash;
+</l><l>I think a S&uacute;fi pipkin &mdash; waxing hot &mdash;
+</l><l rend="indent">"All this of Pot and Potter &mdash; Tell me then,
+</l><l>Who is the Potter, pray, and who the Pot?"
+
+
+</l></lg><lg type="stanza" n="LXXXVIII"><head>LXXXVIII.</head>
+ <l>
+"Why," said another, "Some there are who tell
+</l><l>Of one who threatens he will toss to Hell
+</l><l rend="indent">The luckless Pots he marr'd in making &mdash;
+Pish!
+</l><l>He's a Good Fellow, and 'twill all be well."
+
+
+</l></lg><lg type="stanza" n="LXXXIX"><head>LXXXIX.</head>
+<l>
+"Well," murmured one, "Let whoso make or buy,
+</l><l>My Clay with long Oblivion is gone dry:
+</l><l rend="indent">But fill me with the old familiar Juice,
+</l><l>Methinks I might recover by and by."
+
+
+</l></lg><lg type="stanza" n="XC"><head>XC.</head>
+
+<l>So while the Vessels one by one were speaking,
+</l><l>The little Moon look'd in that all were seeking:
+</l><l rend="indent">And then they jogg'd each other, "Brother!
+Brother!
+</l><l>Now for the Porter's shoulders' knot a-creaking!"
+
+</l><l>    *    *    *    *    *    *
+
+
+</l></lg><lg type="stanza" n="XCI"><head>XCI.</head>
+
+<l>Ah, with the Grape my fading life provide,
+</l><l>And wash the Body whence the Life has died,
+</l><l rend="indent">And lay me, shrouded in the living Leaf,
+</l><l>By some not unfrequented Garden-side.
+
+
+</l></lg><lg type="stanza" n="XCII"><head>XCII.</head>
+
+<l>That ev'n buried Ashes such a snare
+</l><l>Of Vintage shall fling up into the Air
+</l><l rend="indent">As not a True-believer passing by
+</l><l>But shall be overtaken unaware.
+
+
+</l></lg><lg type="stanza" n="XCIII"><head>XCIII.</head>
+
+<l>Indeed the Idols I have loved so long
+</l><l>Have done my credit in this World much wrong:
+</l><l rend="indent">Have drown'd my Glory in a shallow Cup,
+</l><l>And sold my reputation for a Song.
+
+
+</l></lg><lg type="stanza" n="XCIV"><head>XCIV.</head>
+
+<l>Indeed, indeed, Repentance oft before
+</l><l>I swore &mdash; but was I sober when I swore?
+</l><l rend="indent">And then and then came Spring, and
+Rose-in-hand
+</l><l>My thread-bare Penitence apieces tore.
+
+
+</l></lg><lg type="stanza" n="XCV"><head>XCV.</head>
+
+<l>And much as Wine has play'd the Infidel,
+</l><l>And robb'd me of my Robe of Honor &mdash; Well,
+</l><l rend="indent">I wonder often what the Vintners buy
+</l><l>One half so precious as the stuff they sell.
+
+
+</l></lg><lg type="stanza" n="XCVI"><head>XCVI.</head>
+
+<l>Yet Ah, that Spring should vanish with the Rose!
+</l><l>That Youth's sweet-scented manuscript should close!
+</l><l rend="indent">The Nightingale that in the branches sang,
+</l><l>Ah whence, and whither flown again, who knows!
+
+
+</l></lg><lg type="stanza" n="XCVII"><head>XCVII.</head>
+
+<l>Would but the Desert of the Fountain yield
+</l><l>One glimpse &mdash; if dimly, yet indeed, reveal'd,
+</l><l rend="indent">To which the fainting Traveler might spring,
+</l><l>As springs the trampled herbage of the field!
+
+
+</l></lg><lg type="stanza" n="XCVIII"><head>XCVIII.</head>
+
+<l>Would but some wing&eacute;d Angel ere too late
+</l><l>Arrest the yet unfolded Roll of Fate,
+</l><l rend="indent">And make the stern Recorder otherwise
+</l><l>Enregister, or quite obliterate!
+
+
+</l></lg><lg type="stanza" n="XCIX"><head>XCIX.</head>
+
+<l>Ah Love! could you and I with Him conspire
+</l><l>To grasp this sorry Scheme of Things entire,
+</l><l rend="indent">Would not we shatter it to bits &mdash; and then
+</l><l>Re-mold it nearer to the Heart's Desire!
+</l><l>    *    *    *    *    *    *
+
+
+</l></lg><lg type="stanza" n="C"><head>C.</head>
+
+<l>Yon rising Moon that looks for us again &mdash;
+</l><l>How oft hereafter will she wax and wane;
+</l><l rend="indent">How oft hereafter rising look for us
+</l><l>Through this same Garden &mdash; and for <hi
+rend="italic">one</hi> in vain!
+
+</l></lg><lg type="stanza" n="CI"><head>CI.</head>
+
+<l>And when like her, oh S&aacute;k&iacute;, you shall pass
+</l><l>Among the Guests Star-scatter'd on the Grass,
+</l><l rend="indent">And in your joyous errand reach the spot
+</l><l>Where I made One &mdash; turn down an empty Glass!
+</l></lg>
+
+<closer>              TAMAM. </closer>
+</div1>
+</body>
+</text>
+</TEI.2>

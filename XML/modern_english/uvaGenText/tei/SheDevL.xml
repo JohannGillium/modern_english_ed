@@ -1,0 +1,509 @@
+<?xml version="1.0"?>
+
+<?dlps id="SheDevL"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOlat1 SYSTEM "http://text.lib.virginia.edu/charent/iso-lat1.ent"> %ISOlat1;
+<!ENTITY % ISOnum SYSTEM "http://text.lib.virginia.edu/charent/iso-num.ent"> %ISOnum;
+]>
+<TEI.2 id="SheDevL">
+<teiHeader type="migrated" creator="Etext">
+<fileDesc>
+<titleStmt>
+<title type="main">The Devil's Walk (Letter version)</title>
+<title type="sort">devils walk letter version</title>
+<author>Shelley, Percy Bysshe</author>
+<respStmt>
+<resp>Creation of machine-readable version:</resp>
+<name>Neil Fraistat and Donald H. Reiman</name>
+<resp>Creation of digital images:</resp>
+<name/>
+<resp>Conversion to TEI.2-conformant markup:</resp>
+<name>Matthew G. Kirschenbaum, University of Virginia Library Electronic Text Center.</name>
+</respStmt>
+</titleStmt>
+<extent>ca. <num type="kilobytes">25</num> kilobytes</extent>
+<publicationStmt>
+<publisher>University of Virginia Library</publisher>
+<pubPlace>Charlottesville, Virginia</pubPlace>
+<idno type="ETC">SheDevL</idno>
+<date value="1996">1996</date>
+<availability status="public">
+<p n="copyright">Copyright &copy; 1996 by the Rector and Visitors of the University of Virginia</p>
+<p n="access">Publicly accessible</p>
+</availability>
+<idno type="uva-pid">uva-lib:476366</idno>
+</publicationStmt>
+<seriesStmt>
+<title>University of Virginia Library, Text collection</title>
+<idno type="uva-set">UVA-LIB-Text</idno>
+</seriesStmt>
+<seriesStmt>
+<p>Romantic Circles</p>
+</seriesStmt>
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title type="main">The Devil's Walk [Letter Version]</title>
+<title type="sort">devils walk letter version</title>
+<author>Percy Bysshe Shelley</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Donald H. Reiman</name>
+<resp>Editor</resp>
+<name>Neil Fraistat</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<p>British Library Add. MS. 37,496, f.80 verso</p>
+</editionStmt>
+<publicationStmt>
+<idno type="callNo">Print copy consulted:</idno>
+</publicationStmt>
+<notesStmt>
+<note>
+<p>[from Reiman and Fraistat]: This is a literal transcription of the text in the British Library Add. MS. 37,496, f.80 verso, except
+that letters partially worn away by damage to, or repair of, the paper have been included as if whole
+and the line-indentations that Shelley seems to have intended have been accentuated.</p>
+</note>
+</notesStmt>
+</biblFull>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+</projectDesc>
+<editorialDecl>
+<p>All quotation marks retained as data.</p>
+<p>All unambiguous end-of-line hyphens have been removed, and the trailing part of a word has been joined to the preceding line.</p>
+<p>The images exist as archived TIFF images, one or more JPEG versions for general use, and thumbnail GIFs.</p>
+<p>Keywords in the header are a local Electronic Text Center scheme to aid in establishing analytical groupings.</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date value="1812-01">January, 1812</date>
+</creation>
+<langUsage>
+<language id="eng" usage="main">English</language>
+</langUsage>
+<textClass>
+<keywords>
+<term>fiction; poetry</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change>
+<date value="1997-11">November 1997</date>
+<respStmt>
+<resp>corrector</resp>
+<name>Catherine Tousignant, University of Virginia Library Electronic Text Center</name>
+</respStmt>
+<item>Revised header and tags.</item>
+</change>
+<change>
+<date value="1996-12">December 1996</date>
+<respStmt>
+<resp>corrector</resp>
+<name>Matthew G. Kirschenbaum, University of Virginia Library Electronic Text Center</name>
+</respStmt>
+<item>Added TEI.2-conformant header and tagging.</item>
+</change>
+<change>
+<date value="2005-07">July 2005</date>
+<respStmt>
+<resp>Corrector</resp>
+<name>John Ivor Carlson</name>
+</respStmt>
+<item>Converted to XML and/or checked tags.</item>
+</change>
+<change>
+<date value="2007-09">September 2007</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Ethan Gruber, University of Virginia Library</name>
+</respStmt>
+<item>Converted XML markup from TEI Lite to uva-dl-tei (TEI P4 with local customizations).</item>
+</change>
+<change>
+<date value="2008-01">January 2008</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Greg Murray, University of Virginia Library</name>
+</respStmt>
+<item>Programmatically updated TEI header markup (but not header content) for minimal compliance with current QA requirements.</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text id="d1">
+<body id="d2">
+
+<div1 type="work" id="d3"><pb/>
+<head>The Devil's Walk [Letter version]</head>
+<lg type="stanza">
+<l><ref target="LV1">01</ref><ref target="LNmain">The Devil went out a walking one day,</ref>
+</l><l><ref target="LV2">02</ref> Being tired of staying in Hell
+</l><l><ref target="LV3">03</ref> He dressed himself in his Sunday array
+</l><l><ref target="LV4">04</ref> And the reason that he was drest so gay
+</l><l><ref target="LV5">05</ref> Was to cunningly pry, whether under the sky
+</l><l><ref target="LV6">06</ref> The affairs of <hi rend="italic"><ref target="LN6">earth</ref></hi> went well</l>
+</lg>
+<lg type="stanza">
+<l><ref target="LV7">07</ref> He poked his hot nose into corners so small
+</l><l><ref target="LV8">08</ref> One w<hi rend="super">d</hi>. think that the innocents there
+</l><l><ref target="LV9">09</ref> Poor creatures were just doing nothing at all
+</l><l><ref target="LV10">10</ref> But settling some dress or arranging some ball
+</l><l><ref target="LV11">11</ref> --The Devil  saw deeper there</l>
+</lg>
+<lg type="stanza">
+<l><ref target="LV12">12</ref> He peeped in each hole, to each chamber stole
+</l><l><ref target="LV13">13</ref> His promising live-stock to view
+</l><l><ref target="LV14">14</ref><ref target="LN14">Grinning</ref> applause, he just shews his claws
+</l><l>15 And Satan laughed in the mirth of his soul
+</l><l><ref target="LV16">16</ref> That<ref
+target="LN16">they</ref> started with fright, from <hi
+rend="underline">his</hi> ugly sight
+</l><l><ref target="LV17">17</ref> Whose works they delighted to do</l>
+   </lg>
+<lg type="stanza">
+<l><ref target="LV18">18</ref> A Parson with whom in the house of prayer
+</l><l><hi rend="italic"><ref target="LV19">19</ref></hi> The devil sate side by side
+</l><l><ref target="LV20">20</ref> Bawled out that if the devil<ref target="LN20">were</ref>
+</l><l><hi rend="italic"><ref target="LV21">21</ref></hi> His presence he couldnt abide,<ref target="LN21">trick</ref>
+</l><l><ref target="LV22">22</ref> Ha ha thought old Nick,<ref target="LN22">thats</ref> a very stale<ref target="LN21">21</ref>
+</l><l><hi rend="italic"><ref target="LV23">23</ref></hi> For without the Devil,<ref target="LN23">23</ref> favorite of evil
+</l><l><ref target="LV24">24</ref> In thy carriage thou wouldst not ride</l>
+</lg>
+<lg type="stanza">
+<l><ref target="LV25">25</ref><ref target="LN25-28">He saw the Devil a viper slay</ref>
+</l><l><hi rend="italic"><ref target="LV26">26</ref></hi> Under his brief-covered table
+</l><l>27 It reminded the Devil marvellously
+</l><l><ref target="LV28">28</ref> Of the story of Cain and Abel</l>
+</lg>
+<lg type="stanza">
+<l><ref target="LV29">29</ref><ref target="LN29">Satan next saw a Brainless King</ref>
+</l><l><ref target="LV30">30</ref> In a house as hot as his own
+</l><l><ref target="LV31">31</ref> Many imps he saw near there on the wi[ng]
+</l><l><ref target="LV32">32</ref> They flapped the black pennon and<ref target="LN32">twiste[d]</ref><lb/>
+the sting
+</l><l><ref target="LV33"><hi rend="italic">33</hi></ref>Close to the very throne</l>
+</lg>
+<lg type="stanza">
+<l><hi rend="italic"><ref target="LV34">34</ref></hi> Ah! Ah cried Satan the pasture is go[od]
+</l><l><ref target="LV35">35</ref> My cattle will <hi rend="italic"><ref target="LN35">here</ref></hi> thrive better than oth[ers]
+</l><l><ref target="LV36">36</ref> They will have for their food, news of
+<ref target="LN36">humans</ref> blood
+</l><l><ref target="LV37">37</ref> They will drink
+the groans of the dying<lb/>
+&amp; dead
+</l><l><ref target="LV38">38</ref> And supperless never will go to bed
+</l><l><ref target="LV39">39</ref> W<hi rend="super">ch</hi>. will make 'em as fat as their
+<ref target="LN39">brothers</ref>.</l>
+</lg>
+<lg type="stanza">
+<l><ref target="LV40">40</ref> The Devil was walking in the Park
+</l><l><ref target="LV41">41</ref> Dressed like a<ref target="LN41">bond Street beau</ref>
+</l><l><hi rend="italic"><ref target="LV42">42</ref></hi><ref target="LN42">For
+altho</ref> his visage was rather dark
+</l><l><ref target="LV43">43</ref><ref target="LN43-44">And his mouth was wide his chin came</ref>
+<ref target="LN43-44">out</ref>
+</l><l><ref target="LV44">44</ref> And something like Castlereagh was his<lb/>
+snout
+</l><l><ref target="LV45"><hi rend="italic">45</hi></ref> He might be calld so, so . .</l>
+</lg>
+<lg type="stanza">
+<l id="nonum" n="46"><ref target="LV46">46</ref> Why does the Devil grin so wide
+</l><l><ref target="LV47">47</ref> &amp; shew the<ref target="LN47">hore</ref> teeth within
+</l><l><ref target="LV48">48</ref> Nine<ref target="LN48">and</ref> ninety on each side
+</l><l><ref target="LV49">49</ref> By the clearest reckoning_</l>
+</lg>
+
+</div1>
+</body>
+
+<back id="d4">
+
+<div1 type="section" id="d5"><pb/>
+
+<p>This part of the editorial apparatus for P.B. Shelley's <hi rend="italic">The
+Devil's Walk</hi> is slightly modified from the way it will appear in
+<hi rend="italic">The Complete Poetry of Percy Bysshe Shelley</hi>, edited by Donald H. Reiman and Neil Fraistat and
+published by The Johns Hopkins University Press.</p>
+
+<p>Listed here are the variants from Wise, 1927/i, 1927/viii, 1964J,
+1972, and 1989 for the letter version of
+the poem.  For full citations of the historical (i.e. not primary)
+editions, see the bibliography.</p>
+
+<p>We have omitted from our comprehensive collation all variants that
+seem to us purely formal features of the printers or publishers
+involved in these editions, such as the length of indentions, the use
+of full capitals, small caps, and italic or Gothic type in the titles
+and subtitles-a practice at one time subject to the fonts available in
+a print-shop or the conventions of its compositorial staff and more
+recently under the control of publishers, book designers, and
+copy-editors.  In a like manner, when quotation marks have been added,
+we have not differentiated between single and double quotation marks.
+Instead, we treat both as double quotes unless evidence suggests an
+editorial rather than typographical explanation for the appearance of
+the single quotes.</p>
+
+<p>Letter Variants</p>
+<p>These are variants from Wise, 1927/i, 1927/viii, 1964J, 1972, and 1989.</p>
+
+<p>Note:&nbsp;&nbsp; The letter version appears once in volume 1 and again in volume viii of Ingpen's &amp; Peck's 1927 edition of <hi rend="italic">The Complete Works of Percy Bysshe Shelley</hi>.&nbsp; We collate each below under the sigla 1927/i and 1927/viii.
+Title.<hi rend="italic">The Devil's Walk</hi>] <hi rend="italic">The Devil's Walk</hi>  I 1972<lb/>
+<hi rend="italic">Stanzas numbered with roman numerals </hi>  Wise 1927/i 1927/viii. </p>
+
+
+<note id="LV1"><seg type="note-symbol">line</seg> <p>1.     a walking ] a-walking  Wise 1927/i 1927/viii 1972<lb/>
+            day ] day,  Wise 1927/i 1927/viii 1972</p></note>
+
+<note id="LV2"><seg type="note-symbol">line</seg> <p>2.     Hell ] Hell.  Wise 1927/i 1927/viii 1972</p></note>
+
+<note id="LV3"><seg type="note-symbol">line</seg> <p>3.     array ] array;  Wise 1927/i 1927/viii 1972</p></note>
+
+<note id="LV4"><seg type="note-symbol">line</seg> <p>4.     drest ] dressed  Wise 1927/i 1927/viii 1972 </p></note>
+
+<note id="LV5"><seg type="note-symbol">line</seg> <p>5.     pry, whether ] pry whether  1972<lb/>
+                           pry | Whether  Wise 1927/i 1927/viii  </p></note>
+
+<note id="LV6"><seg type="note-symbol">line</seg> <p>6.     well ] well.  Wise 1927/i 1927/viii 1964J 1972 </p></note>
+
+<note id="LV7"><seg type="note-symbol">line</seg> <p>7.     small ] sma[ll] 1964J</p></note>
+
+<note id="LV8"><seg type="note-symbol">line</seg> <p>8.     wd. ] would  Wise 1927/i 1927/viii 1972<lb/>
+                  wd. 1964J 1989<lb/>
+            there ] there,  Wise 1927/i 1927/viii 1972<lb/>
+                    ther[e] 1964J</p></note>
+
+<note id="LV9"><seg type="note-symbol">line</seg> <p>9.     creatures ] creatures!  Wise 1927/i 1927/viii<lb/>
+                        creatures, 1972<lb/>
+            all ] all,  Wise 1927/i 1927/viii<lb/>
+                  a[ll] 1964J</p></note>
+
+<note id="LV10"><seg type="note-symbol">line</seg> <p>10.     dress ] dress,  Wise 1927/i 1927/viii 1972<lb/>
+             ball ] ball:  Wise 1927/i 1927/viii 1972<lb/>
+                       ba[ll] 1964J</p></note>
+
+<note id="LV11"><seg type="note-symbol">line</seg> <p>11. -The ] The Wise 1927/i 1927/viii 1972<lb/>
+   there ] there. Wise 1927/i 1927/viii 1964J 1972</p></note>
+
+
+<note id="LV12"><seg type="note-symbol">line</seg> <p>12. stole ] stole, Wise 1927/i 1927/viii 1972<lb/>
+   sto[le] 1964J</p></note>
+
+<note id="LV13"><seg type="note-symbol">line</seg> <p>13. view ] view. Wise 1927/i 1927/viii 1972</p></note>
+
+<note id="LV14"><seg type="note-symbol">line</seg> <p>14. Grinning ] Receiving 1989<lb/>
+   applause, he] applause | He  Wise 1927/i 1927/viii 1972<lb/>
+   shews ] shows Wise 1927/i 1927/viii 1972<lb/>
+   claws ] claws: Wise 1927/i 1927/viii 1972<lb/>
+   claw[s] 1964J</p></note>
+
+<note id="LV16"><seg type="note-symbol">line</seg> <p>16. fright, ] fright 1972<lb/>
+   fright, from ] fright | From  Wise 1927/i 1927/viii<lb/>
+   his] <hi rend="italic">his</hi> Wise 1927/i 1927/viii 1964J 1972 1989</p></note>
+
+<note id="LV17"><seg type="note-symbol">line</seg> <p>17. do ] do. Wise 1927/i 1927/viii 1964J 1972 1989</p></note>
+
+<note id="LV18"><seg type="note-symbol">line</seg> <p>18. whom ] whom, Wise 1927/i 1927/viii 1972<lb/>
+   prayer ] prayer, Wise 1927/i 1927/viii  1972<lb/>
+   praye[r] 1964J</p></note>
+
+<note id="LV19"><seg type="note-symbol">line</seg> <p>19. devil ] Devil Wise 1927/i 1927/viii 1972<lb/>
+   sate ] sat 1964J<lb/>
+   side ] side, Wise 1927/i 1927/viii 1972</p></note>
+
+<note id="LV20"><seg type="note-symbol">line</seg> <p>20. that ] that, Wise 1927/i 1927/viii 1972<lb/>
+   devil ] Devil Wise 1927/i 1927/viii  1972<lb/>
+   were ] were [there],  Wise 1927/i 1927/viii 1972<lb/>
+  were [there] 1964J 1989</p></note>
+
+<note id="LV21"><seg type="note-symbol">line</seg> <p>21. couldnt ] couldn't Wise 1927/i 1927/viii  1972
+   abide, ] abide. Wise 1927/i 1927/viii 1972</p></note>
+
+<note id="LV22"><seg type="note-symbol">line</seg> <p>22. Ha ha ] "Ha ha!" Wise 1927/i 1927/viii 1972<lb/>
+   old ] Old Wise 1927/i 1927/viii 1972<lb/>
+   Nick, thats ] Nick,- | "That's  Wise 1927/i 1927/viii 1972<lb/>
+   trick ] trick:  Wise 1927/i 1927/viii 1972</p></note>
+
+<note id="LV23"><seg type="note-symbol">line</seg> <p>23. For ] For, Wise 1927/i 1927/viii 1972<lb/>
+   &ocirc; ] O 1964J 1972<lb/>
+   Devil, &ocirc;] Devil, | O  Wise 1927/i 1927/viii<lb/>
+   favorite ] favourite Wise 1927/i 1927/viii 1972<lb/>
+   evil ] evil, Wise 1927/i 1927/viii 1972</p></note>
+
+<note id="LV24"><seg type="note-symbol">line</seg> <p>24. ride ] ride!" Wise 1927/i 1927/viii 1972<lb/>
+  ride. 1964J</p></note>
+
+<note id="LV25"><seg type="note-symbol">line</seg> <p>25. the Devil ] the Devil [? a Lawyer] Wise 1927/i 1927/viii 1964J<lb/>
+   a Lawyer 1972<lb/>
+   the Devil [<hi rend="italic">for</hi> a lawyer] 1989</p></note>
+
+<note id="LV26"><seg type="note-symbol">line</seg> <p>26. table ] table: Wise 1927/i 1927/viii 1972</p></note>
+
+<note id="LV28"><seg type="note-symbol">line</seg> <p>28. Abel ] Abel. Wise 1927/i 1927/viii 1964J 1972</p></note>
+
+<note id="LV29"><seg type="note-symbol">line</seg> <p>29. Brainless] brainless Wise<lb/>
+   King ] King, Wise 1927/i 1927/viii<lb/>
+  King; 1972</p></note>
+
+<note id="LV30"><seg type="note-symbol">line</seg> <p>30. In ... own] Many imps he saw there on the wing: Wise<lb/>
+   own ] own. 1927/i 1927/viii 1972</p></note>
+
+<note id="LV31"><seg type="note-symbol">line</seg> <p>31. Many ... wi[ng] ] In a house as hot as his own. Wise<lb/>
+   wi[ng] ] wing: 1927/i 1927/viii 1972<lb/>
+   win[g] 1964J<lb/>
+   wing 1989</p></note>
+
+<note id="LV32"><seg type="note-symbol">line</seg> <p>32. pennon ] pennon, Wise 1927/i 1927/viii 1972<lb/>
+   and ] &amp; 1989<lb/>
+   twiste[d] ] twisted Wise 1927/i 1927/viii 1972<lb/>
+   twirle[d] 1989<lb/>
+   sting ] sting, Wise 1927/i 1927/viii 1972</p></note>
+
+<note id="LV33"><seg type="note-symbol">line</seg> <p>33. throne ] throne. Wise 1927/i 1927/viii  1964J 1972</p></note>
+
+
+<note id="LV34"><seg type="note-symbol">line</seg> <p>34. Ah! Ah ] "Ah ah!" Wise 1927/i 1927/viii  1972<lb/>
+   Satan ] Satan, Wise 1927/i 1927/viii 1972<lb/>
+   the ] "the Wise 1927/i 1927/viii 1972<lb/>
+   go[od] ] good! Wise 1927/i 1927/viii 1972<lb/>
+   good 1964J 1989</p></note>
+
+<note id="LV35"><seg type="note-symbol">line</seg> <p>35. here ] <hi rend="italic">here</hi>  Wise 1927/i 1927/viii 1964J 1972 1989 <lb/>
+   oth[ers] ] others! Wise 1927/i 1927/viii 1972<lb/>
+    others 1989</p></note>
+
+<note id="LV36"><seg type="note-symbol">line</seg> <p>36. food, ] food 1972<lb/>
+   food, news ] food | News  Wise 1927/i 1927/viii<lb/>
+   humans ] human Wise 1927/i 1927/viii 1964J 1972 1989<lb/>
+   blood ] blood: Wise 1927/i 1927/viii 1972</p></note>
+
+<note id="LV37"><seg type="note-symbol">line</seg> <p>37. &amp; ] and Wise 1927/i 1927/viii 1972<lb/>
+   dead ] dead, Wise 1927/i 1927/viii 1972</p></note>
+
+<note id="LV38"><seg type="note-symbol">line</seg> <p>38. bed ] bed, Wise 1927/i 1927/viii 1972</p></note>
+
+<note id="LV39"><seg type="note-symbol">line</seg> <p>39. Wch. ] Which Wise 1927/i 1927/viii 1972 <lb/>
+  Wch. 1964J <lb/>
+  Wch 1989 <lb/>
+   brothers. ] brothers." Wise 1927/i 1927/viii 1972</p></note>
+
+<note id="LV40"><seg type="note-symbol">line</seg> <p>40. Park ] Park, Wise 1927/i 1927/viii 1972</p></note>
+
+<note id="LV41"><seg type="note-symbol">line</seg> <p>41. bond ] Bond Wise 1927/i 1927/viii 1972<lb/>
+   beau ] beau: Wise 1927/i 1927/viii 1972</p></note>
+
+<note id="LV42"><seg type="note-symbol">line</seg> <p>42. For altho ] Nor, tho' Wise 1927/i 1927/viii 1972<lb/>
+    Nor tho 1964J<lb/>
+    For tho 1989<lb/>
+   dark ] dark, Wise 1927/i 1927/viii 1972</p></note>
+
+<note id="LV43"><seg type="note-symbol">line</seg> <p>43. wide ] wide, Wise 1927/i 1927/viii 1972<lb/>
+   out ] out, Wise 1927/i 1927/viii 1972</p></note>
+
+<note id="LV44"><seg type="note-symbol">line</seg> <p>44. snout ] snout, Wise 1927/i 1927/viii 1972</p></note>
+
+<note id="LV45"><seg type="note-symbol">line</seg> <p>45. calld ] called Wise 1927/i 1927/viii 1964J 1972<lb/>
+   so, so . . ] so-so. Wise 1927/i 1927/viii 1972<lb/>
+   so, so. 1964J 1989</p></note>
+
+<note id="LV46"><seg type="note-symbol">line</seg> <p>46. wide ] wide, Wise 1927/i 1927/viii 1972</p></note>
+
+<note id="LV47"><seg type="note-symbol">line</seg> <p>47. &amp; ] And Wise 1927/i 1927/viii 1972<lb/>
+   shew ] show Wise 1927/i 1927/viii  1972<lb/>
+   hore ] horse Wise 1927/i 1927/viii 1972 <lb/>
+  [? horse] 1964J  <lb/>
+  Iron 1989<lb/>
+   within ] within?-Wise 1927/i 1927/viii 1972</p></note>
+
+<note id="LV48"><seg type="note-symbol">line</seg> <p>48. Nine and ninety ] Nine-and-ninety Wise     Nine &amp; ninety 1989<lb/>
+   side ] side, Wise 1927/i 1927/viii 1972</p></note>
+
+<note id="LV49"><seg type="note-symbol">line</seg> <p>49. reckoning _ ] reckoning! Wise 1927/i 1927/viii 1972<lb/>
+    reckoning-1964J 1989</p></note>
+
+</div1>
+
+<div1 type="notes" id="d6"><pb/>
+<head>Annotations (Letter Version)</head>
+
+<note id="LNmain"> <p><hi rend="bold">lines 1-28.</hi> Here we transcribe the original
+manuscript in <hi rend="bold">Shelley</hi>'s mid-Jan. 1812 letter to <hi rend="bold">Elizabeth
+Hitchener</hi> (<hi rend="bold">British Library</hi> Add. MS. 37,496, f. 80 verso);
+there is a facsimile of the portion of that letter containing this
+poetic text, together with another literal transcription, in <hi rend="italic">MYR:
+Shelley</hi>, VIII (1996), ed. D.H. Reiman &amp; M. O'Neill.<lb/>
+Although the text of these stanzas in F. L. Jones's
+<hi rend="italic">Letters</hi> (I, 235 37) places some characters at the
+<hi rend="italic">ends</hi> of the first 28 lines within brackets, as though they were
+illegible or missing from the right-hand edge of the manuscript page,
+the only damage and repair that actually affect these lines is along
+the fold of the letter paper at the <hi rend="italic">left-hand</hi> edge of the
+column of poetry, at the <hi rend="italic">beginnings</hi> of those lines. Jones must,
+therefore, have relied upon an imperfect photocopy of the manuscript.</p></note>
+
+<note id="LN6"><p><hi rend="bold">line 6.</hi> <hi rend="italic">earth</hi>: the initial <hi rend="italic">e</hi> may be a capital letter, written minutely.</p></note>
+	
+	<note id="LN14"><p><hi rend="bold">line 14.</hi> We think the first word is more likely <hi rend="italic">Grinning</hi> (as the editors of the letters have it) than "Receiving" (<hi rend="bold">1989</hi>). M. O'Neill, when transcribing the MS for <hi rend="italic">MYR: Shelley</hi>, VIII, was dubious about the reading and left "Receiving" in the text, while discussing his doubts in a note.</p></note>
+	
+	<note id="LN16"><p><hi rend="bold">line 16.</hi> <hi rend="bold">Shelley</hi> first underscored <hi rend="italic">they</hi>, and then canceled the underline.
+
+</p></note><note id="LN20"><p><hi rend="bold">line 20.</hi> <hi rend="bold">Shelley</hi> left a blank after <hi rend="italic">were</hi> to be filled later, presumably by a word rhyming with <hi rend="italic">prayer</hi> (<hi rend="bold">18</hi>).
+
+</p></note><note id="LN21"><p><hi rend="bold">line 21.</hi> Both the caret and the raised placement of the word "trick" indicate that <hi rend="bold">Shelley</hi> added this word later.
+
+</p></note><note id="LN22"><p><hi rend="bold">line 22.</hi> <hi rend="italic">thats</hi> (sic).
+
+</p></note><note id="LN23"><p><hi rend="bold">line 23.</hi> While <hi rend="bold">MS BL</hi> does have a small o with a ^ above it, the significance of this marking is not clear.</p></note>
+
+<note id="LN25-28"><p><hi rend="bold">lines 25-28.</hi>This is the stanza that
+<hi rend="bold">Shelley</hi> directly recollected (though perhaps unwittingly) from
+<hi rend="italic">The Devil's Thoughts</hi> (see note to <hi rend="bold">lines 84-87</hi> of the
+Broadside). In the letter version, however, <hi rend="bold">Shelley</hi> miswrote
+<hi rend="italic">the Devil</hi> for "a lawyer" in <hi rend="bold">line 25</hi>; in <hi rend="bold">26</hi>
+<hi rend="italic">his</hi> is superimposed on <hi rend="italic">the</hi>.</p></note>
+
+<note id="LN29"><p><hi rend="bold">line 29.</hi> Beginning with this line,
+<hi rend="bold">Shelley</hi> continued his writing on the opposite side of the
+address panel; from here on, the repair to the worn fold is along the
+right-hand edge of the text, where the damage does affect the
+<hi rend="italic">final</hi> letters of some words.</p></note>
+
+<note id="LN32"><p><hi rend="bold">line 32.</hi> <hi rend="italic">twisted</hi>: though <hi rend="bold">1989</hi> reads this word as "twirled" (and emends <hi rend="italic">twisted</hi> in the final text to "twirled" as a possible typo), the crucial letters seem to us to be <hi rend="italic">st.</hi>
+
+</p></note><note id="LN35"><p><hi rend="bold">line 35.</hi> <hi rend="italic">here</hi>: though <hi rend="bold">Shelley</hi> clearly underscored the word for added emphasis, the short line he made does not actually underscore all four letters.
+
+</p></note><note id="LN36"><p><hi rend="bold">line 36.</hi> <hi rend="italic">humans</hi>: <hi rend="bold">Shelley</hi> canceled the terminal "s" in his draft.
+
+</p></note><note id="LN39"><p><hi rend="bold">line 39.</hi> The space between "brothers"
+and the period at the end of the line retains the original spacing found in the <hi rend="bold">MS BL</hi>.
+
+</p></note><note id="LN41"><p><hi rend="bold">line 41.</hi> <hi rend="italic">bond Street beau</hi> (sic).
+
+</p></note><note id="LN42"><p><hi rend="bold">line 42.</hi> <hi rend="italic">For</hi>: this word might be read as "Nor" were there not an identical <hi rend="italic">For</hi> at the beginning of <hi rend="bold">line 23</hi>; <hi rend="italic">altho</hi>: first two letters are canceled.</p></note>
+
+<note id="LN43-44"><p><hi rend="bold">lines 43-44.</hi> <hi rend="bold">Shelley</hi>, the son
+of an M.P., had probably seen Castlereagh in person and would
+certainly have known political caricatures of him.
+
+</p></note><note id="LN47"><p><hi rend="bold">line 47.</hi>  <hi rend="italic">hore</hi> (given as "horse" in <hi rend="bold">1926</hi> [Julian, <hi rend="italic">Letters</hi> ], <hi rend="bold">1964J</hi>; "Iron" in <hi rend="bold">1989</hi>): this Germanic word comes directly from Old English. The <hi rend="italic">Oxford English Dictionary</hi> gives it only as an obsolete noun meaning "Dirt, filth, defilement, foulness"; though the noun had clearly dropped out of use because of its closeness to "hoar" and "whore," <hi rend="bold">Shelley</hi> here uses it adjectively, meaning filthy or foul, a usage that may have persisted in rural Sussex.
+
+</p></note><note id="LN48"><p><hi rend="bold">line 48.</hi> <hi rend="italic">and</hi>: written minutely and unclearly, but not "&amp;" (as in <hi rend="bold">1989</hi>).</p></note>
+
+</div1>
+
+</back>
+</text>
+</TEI.2>
+

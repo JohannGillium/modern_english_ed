@@ -1,0 +1,4198 @@
+<?xml version="1.0"?>
+
+<?dlps id="AnoBeow"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOnum SYSTEM "http://text.lib.virginia.edu/charent/iso-num.ent"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+
+]>
+<TEI.2 id="AnoBeow">
+<teiHeader type="migrated" creator="Etext">
+<fileDesc>
+<titleStmt>
+<title type="main">Beowulf</title>
+<title type="sort">beowulf</title>
+<author>Anonymous</author>
+<respStmt>
+<resp>Creation of machine-readable version:</resp>
+<name>Robin Katsuya-Corbet</name>
+<resp>Creation of digital images:</resp>
+<name/>
+<resp>Conversion to TEI.2-conformant markup:</resp>
+<name>University of Virginia Library Electronic Text Center.</name>
+</respStmt>
+</titleStmt>
+<extent>ca. <num type="kilobytes">188</num> kilobytes</extent>
+<publicationStmt>
+<publisher>University of Virginia Library</publisher>
+<pubPlace>Charlottesville, Virginia</pubPlace>
+<idno type="ETC">AnoBeow</idno>
+<date value="1998">1998</date>
+<availability status="public">
+<p n="copyright">Copyright &copy; 1998 by the Rector and Visitors of the University of Virginia</p>
+<p n="access">Publicly accessible</p>
+</availability>
+<idno type="uva-pid">uva-lib:475678</idno>
+</publicationStmt>
+<seriesStmt>
+<title>University of Virginia Library, Text collection</title>
+<idno type="uva-set">UVA-LIB-Text</idno>
+</seriesStmt>
+<notesStmt>
+<note>
+<p>Prepared by Robin Katsuya-Corbet (corbet@astro.psu.edu) from scanner output provided by Internet Wiretap.</p>
+</note>
+</notesStmt>
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title type="main">Beowulf</title>
+<title type="sort">beowulf</title>
+<author>Anonymous</author>
+<respStmt>
+<resp>Translator</resp>
+<name>Francis B. Gummere</name>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher>P.F. Collier &amp; Sons</publisher>
+<pubPlace>New York</pubPlace>
+<date value="1910">1910</date>
+</publicationStmt>
+<seriesStmt>
+<p>Harvard Classics, Volume 49, edited by Charles W. Eliot</p>
+</seriesStmt>
+</biblFull>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+</projectDesc>
+<editorialDecl>
+<p>All unambiguous end-of-line hyphens have been removed, and the trailing part of a word has been joined to the preceding line.</p>
+<p>Some keywords in the header are a local Electronic Text Center scheme to aid in establishing analytical groupings.</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date value="1910">600; 1910</date>
+</creation>
+<langUsage>
+<language id="eng" usage="main">English</language>
+</langUsage>
+<textClass>
+<keywords>
+<term>fiction</term>
+<term>poetry</term>
+<term>masculine, feminine</term>
+<term>Literature in Translation</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change>
+<date value="1994-09">September 1994</date>
+<respStmt>
+<resp>corrector</resp>
+<name>Steve Shoemaker</name>
+</respStmt>
+<item>Basic TEI markup</item>
+</change>
+<change>
+<date value="1998-03">March 1998</date>
+<respStmt>
+<resp/>
+<name>Christine Ruotolo, Electronic Text Center</name>
+</respStmt>
+<item>Updated tags to conform to the TEILITE DTD; fixed note tagging; created new TEI header.</item>
+</change>
+<change>
+<date value="2005-06">June 2005</date>
+<respStmt>
+<resp>corrector</resp>
+<name>John Ivor Carlson</name>
+</respStmt>
+<item>Converted sgml to xml.</item>
+</change>
+<change>
+<date value="2007-09">September 2007</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Ethan Gruber, University of Virginia Library</name>
+</respStmt>
+<item>Converted XML markup from TEI Lite to uva-dl-tei (TEI P4 with local customizations).</item>
+</change>
+<change>
+<date value="2008-01">January 2008</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Greg Murray, University of Virginia Library</name>
+</respStmt>
+<item>Programmatically updated TEI header markup (but not header content) for minimal compliance with current QA requirements.</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text id="d1">
+
+
+
+<body id="d2">
+	<div1 type="story" id="d3">
+<head>BEOWULF</head>
+
+<div2 type="introduction" id="d4"><pb n="5"/>
+<head>PRELUDE OF THE FOUNDER OF THE DANISH HOUSE<lb/></head>
+
+<lg type="stanza" n="1">
+<l>LO, praise of the prowess of people-kings </l>
+<l>of spear-armed Danes, in days long sped, </l>
+<l>we have heard, and what honor the athelings won! </l>
+<l>Oft Scyld the Scefing from squadroned foes, </l>
+<l>from many a tribe, the mead-bench tore, </l>
+<l>awing the earls. Since erst he lay </l>
+<l>friendless, a foundling, fate repaid him: </l>
+<l>for he waxed under welkin, in wealth he throve, </l>
+<l>till before him the folk, both far and near, </l>
+<l>who house by the whale-path, heard his mandate, </l>
+<l>gave him gifts: a good king he! </l>
+<l>To him an heir was afterward born, </l>
+<l>a son in his halls, whom heaven sent </l>
+<l>to favor the folk, feeling their woe </l>
+<l>that erst they had lacked an earl for leader </l>
+<l>so long a while; the Lord endowed him, </l>
+<l>the Wielder of Wonder, with world's renown. </l>
+<l>Famed was this Beowulf:<ref target="n1">[1]</ref> far flew the boast of him, </l>
+<l>son of Scyld, in the Scandian lands. </l>
+<l>So becomes it a youth to quit him well </l>
+<l>with his father's friends, by fee and gift, </l>
+<l>that to aid him, aged, in after days, </l>
+<l>come warriors willing, should war draw nigh, </l>
+<l>liegemen loyal: by lauded deeds </l>
+<l>shall an earl have honor in every clan.</l>
+
+<pb n="6"/>
+
+<l>Forth he fared at the fated moment, </l>
+<l>sturdy Scyld to the shelter of God. </l>
+<l>Then they bore him over to ocean's billow, </l>
+<l>loving clansmen, as late he charged them, </l>
+<l>while wielded words the winsome Scyld, </l>
+<l>the leader beloved who long had ruled.... </l>
+<l>In the roadstead rocked a ring-dight vessel, </l>
+<l>ice-flecked, outbound, atheling's barge: </l>
+<l>there laid they down their darling lord </l>
+<l>on the breast of the boat, the breaker-of-rings,<ref target="n2">[2]</ref> </l>
+<l>by the mast the mighty one. Many a treasure </l>
+<l>fetched from far was freighted with him. </l>
+<l>No ship have I known so nobly dight </l>
+<l>with weapons of war and weeds of battle, </l>
+<l>with breastplate and blade: on his bosom lay </l>
+<l>a heaped hoard that hence should go </l>
+<l>far o'er the flood with him floating away. </l>
+<l>No less these loaded the lordly gifts, </l>
+<l>thanes' huge treasure, than those had done </l>
+<l>who in former time forth had sent him </l>
+<l>sole on the seas, a suckling child. </l>
+<l>High o'er his head they hoist the standard, </l>
+<l>a gold-wove banner; let billows take him, </l>
+<l>gave him to ocean. Grave were their spirits, </l>
+<l>mournful their mood. No man is able </l>
+<l>to say in sooth, no son of the halls, </l>
+<l>no hero 'neath heaven, &mdash; who harbored that freight! </l>
+</lg>
+
+<note id="n1"><seg type="note-symbol">[1]</seg> <p>Not, of course, Beowulf the Great, hero of the epic.</p></note>
+
+<note id="n2"><seg type="note-symbol">[2]</seg> <p>Kenning for king or chieftain of a comitatus: he breaks off gold from
+the spiral rings &mdash; often worn on the arm &mdash; and so rewards his followers.</p></note>
+
+</div2>
+
+<div2 type="section" n="1" id="d5">
+<head>I</head>
+
+<lg type="stanza" n="2">
+<l>Now Beowulf bode in the burg of the Scyldings, </l>
+<l>leader beloved, and long he ruled </l>
+<l>in fame with all folk, since his father had gone </l>
+<l>away from the world, till awoke an heir, </l>
+<l>haughty Healfdene, who held through life, </l>
+<l>sage and sturdy, the Scyldings glad. </l>
+<l>Then, one after one, there woke to him, </l>
+<l>to the chieftain of clansmen, children four:</l>
+
+<pb n="7"/>
+
+<l>Heorogar, then Hrothgar, then Halga brave; </l>
+<l>and I heard that &mdash; was &mdash;'s queen, </l>
+<l>the Heathoscylfing's helpmate dear. </l>
+<l>To Hrothgar was given such glory of war, </l>
+<l>such honor of combat, that all his kin </l>
+<l>obeyed him gladly till great grew his band </l>
+<l>of youthful comrades. It came in his mind </l>
+<l>to bid his henchmen a hall uprear, </l>
+<l>ia master mead-house, mightier far </l>
+<l>than ever was seen by the sons of earth, </l>
+<l>and within it, then, to old and young </l>
+<l>he would all allot that the Lord had sent him, </l>
+<l>save only the land and the lives of his men. </l>
+<l>Wide, I heard, was the work commanded, </l>
+<l>for many a tribe this mid-earth round, </l>
+<l>to fashion the folkstead. It fell, as he ordered, </l>
+<l>in rapid achievement that ready it stood there, </l>
+<l>of halls the noblest: Heorot<ref target="n1.1">[1]</ref> he named it </l>
+<l>whose message had might in many a land. </l>
+<l>Not reckless of promise, the rings he dealt, </l>
+<l>treasure at banquet: there towered the hall, </l>
+<l>high, gabled wide, the hot surge waiting </l>
+<l>of furious flame.<ref target="n1.2">[2]</ref> Nor far was that day </l>
+<l>when father and son-in-law stood in feud </l>
+<l>for warfare and hatred that woke again.<ref target="n1.3">[3]</ref> </l>
+<l>  With envy and anger an evil spirit </l>
+<l>endured the dole in his dark abode,</l>
+
+<pb n="8"/>
+
+<l>that he heard each day the din of revel </l>
+<l>high in the hall: there harps rang out, </l>
+<l>clear song of the singer. He sang who knew<ref target="n1.4">[4]</ref> </l>
+<l>tales of the early time of man, </l>
+<l>how the Almighty made the earth, </l>
+<l>fairest fields enfolded by water, </l>
+<l>set, triumphant, sun and moon </l>
+<l>for a light to lighten the land-dwellers, </l>
+<l>and braided bright the breast of earth </l>
+<l>with limbs and leaves, made life for all </l>
+<l>of mortal beings that breathe and move. </l>
+<l>  So lived the clansmen in cheer and revel </l>
+<l>a winsome life, till one began </l>
+<l>to fashion evils, that field of hell. </l>
+<l>Grendel this monster grim was called, </l>
+<l>march-riever<ref target="n1.5">[5]</ref> mighty, in moorland living, </l>
+<l>in fen and fastness; fief of the giants </l>
+<l>the hapless wight a while had kept </l>
+<l>since the Creator his exile doomed. </l>
+<l>On kin of Cain was the killing avenged </l>
+<l>by sovran God for slaughtered Abel. </l>
+<l>Ill fared his feud,<ref target="n1.6">[6]</ref> and far was he driven, </l>
+<l>for the slaughter's sake, from sight of men. </l>
+<l>Of Cain awoke all that woful breed, </l>
+<l>Etins<ref target="n1.7">[7]</ref> and elves and evil-spirits, </l>
+<l>as well as the giants that warred with God </l>
+<l>weary while: but their wage was paid them! </l>
+</lg>
+
+
+<note id="n1.1"><seg type="note-symbol">[1]</seg> <p>That is, "The Hart," or "Stag," so called from decorations in the
+gables that resembled the antlers of a deer. This hall has been carefully
+described in a pamphlet by Heyne. The building was rectangular, with
+opposite doors &mdash; mainly west and east &mdash; and a hearth in the middle of the
+single room. A row of pillars down each side, at some distance from
+the walls, made a space which was raised a little above the main floor,
+and was furnished with two rows of seats. On one side, usually south,
+was the high-seat midway between the doors. Opposite this, on the other
+raised space, was another seat of honor. At the banquet soon to be
+described, Hrothgar sat in the south or chief high-seat, and Beowulf oppo-site to him. The scene for a flying (see below, v.499) was thus very
+effectively set. Planks on trestles &mdash; the "board" of later English litera-ture &mdash; formed the tables just in front of the long rows of seats, and were
+taken away after banquets, when the retainers were ready to stretch them-selves out for sleep on the benches.</p></note>
+<note id="n1.2"><seg type="note-symbol">[2]</seg> <p>Fire was the usual end of these halls. See v. 781 below. One thinks
+of the splendid scene at the end of the Nibelungen, of the Nialssaga, of
+Saxo's story of Amlethus, and many a less famous instance.</p></note>
+<note id="n1.3"><seg type="note-symbol">[3]</seg> <p>It is to be supposed that all hearers of this poem knew how Hrothgar's
+hall was burnt, &mdash; perhaps in the unsuccessful attack made on him by his
+son-in-law Ingeld.</p></note>
+<note id="n1.4"><seg type="note-symbol">[4]</seg> <p>A skilled minstrel. The Danes are heathens, as one is told presently;
+but this lay of beginnings is taken from Genesis.</p></note>
+<note id="n1.5"><seg type="note-symbol">[5]</seg> <p>A disturber of the border, one who sallies from his haunt in the fen
+and roams over the country near by. This probably pagan nuisance is now
+furnished with biblical credentials as a fiend or devil in good standing, so
+that all Christian Englishmen might read about him. "Grendel" may
+mean one who grinds and crushes.</p></note>
+<note id="n1.6"><seg type="note-symbol">[6]</seg> <p>Cain's.</p></note>
+<note id="n1.7"><seg type="note-symbol">[7]</seg> <p>Giants.</p></note>
+
+</div2>
+<div2 type="section" n="2" id="d6">
+<head>II</head>
+
+<lg type="stanza" n="3">
+<l>WENT he forth to find at fall of night </l>
+<l>that haughty house, and heed wherever </l>
+<l>the Ring-Danes, outrevelled, to rest had gone. </l>
+<l>Found within it the atheling band</l>
+
+<pb n="9"/>
+
+<l>asleep after feasting and fearless of sorrow, </l>
+<l>of human hardship. Unhallowed wight, </l>
+<l>grim and greedy, he grasped betimes, </l>
+<l>wrathful, reckless, from resting-places, </l>
+<l>thirty of the thanes, and thence he rushed </l>
+<l>fain of his fell spoil, faring homeward, </l>
+<l>laden with slaughter, his lair to seek. </l>
+<l>Then at the dawning, as day was breaking, </l>
+<l>the might of Grendel to men was known; </l>
+<l>then after wassail was wail uplifted, </l>
+<l>loud moan in the morn. The mighty chief, </l>
+<l>atheling excellent, unblithe sat, </l>
+<l>labored in woe for the loss of his thanes, </l>
+<l>when once had been traced the trail of the fiend, </l>
+<l>spirit accurst: too cruel that sorrow, </l>
+<l>too long, too loathsome. Not late the respite; </l>
+<l>with night returning, anew began </l>
+<l>ruthless murder; he recked no whit, </l>
+<l>firm in his guilt, of the feud and crime. </l>
+<l>They were easy to find who elsewhere sought </l>
+<l>in room remote their rest at night, </l>
+<l>bed in the bowers,<ref target="n2.1">[1]</ref> when that bale was shown, </l>
+<l>was seen in sooth, with surest token, &mdash; </l>
+<l>the hall-thane's<ref target="n2.2">[2]</ref> hate. Such held themselves </l>
+<l>far and fast who the fiend outran! </l>
+<l>Thus ruled unrighteous and raged his fill </l>
+<l>one against all; until empty stood </l>
+<l>that lordly building, and long it bode so. </l>
+<l>Twelve years' tide the trouble he bore, </l>
+<l>sovran of Scyldings, sorrows in plenty, </l>
+<l>boundless cares. There came unhidden </l>
+<l>tidings true to the tribes of men, </l>
+<l>in sorrowful songs, how ceaselessly Grendel </l>
+<l>harassed Hrothgar, what hate he bore him, </l>
+<l>what murder and massacre, many a year, </l>
+<l>feud unfading, &mdash; refused consent </l>
+<l>to deal with any of Daneland's earls, </l>
+<l>make pact of peace, or compound for gold:</l>
+
+<pb n="10"/>
+
+<l>still less did the wise men ween to get </l>
+<l>great fee for the feud from his fiendish hands. </l>
+<l>But the evil one ambushed old and young </l>
+<l>death-shadow dark, and dogged them still, </l>
+<l>lured, or lurked in the livelong night </l>
+<l>of misty moorlands: men may say not </l>
+<l>where the haunts of these Hell-Runes<ref target="n2.3">[3]</ref> be. </l>
+<l>Such heaping of horrors the hater of men, </l>
+<l>lonely roamer, wrought unceasing, </l>
+<l>harassings heavy. O'er Heorot he lorded, </l>
+<l>gold-bright hall, in gloomy nights; </l>
+<l>and ne'er could the prince<ref target="n2.4">[4]</ref> approach his throne, </l>
+<l>&mdash; 'twas judgment of God, &mdash; or have joy in his hall. </l>
+<l>Sore was the sorrow to Scyldings'-friend, </l>
+<l>heart-rending misery. Many nobles </l>
+<l>sat assembled, and searched out counsel </l>
+<l>how it were best for bold-hearted men </l>
+<l>against harassing terror to try their hand. </l>
+<l>Whiles they vowed in their heathen fanes </l>
+<l>altar-offerings, asked with words<ref target="n2.5">[5]</ref> </l>
+<l>that the slayer-of-souls would succor give them </l>
+<l>for the pain of their people. Their practice this, </l>
+<l>their heathen hope; 'twas Hell they thought of </l>
+<l>in mood of their mind. Almighty they knew not, </l>
+<l>Doomsman of Deeds and dreadful Lord, </l>
+<l>nor Heaven's-Helmet heeded they ever, </l>
+<l>Wielder-of-Wonder. &mdash; Woe for that man </l>
+<l>who in harm and hatred hales his soul </l>
+<l>to fiery embraces; &mdash; nor favor nor change </l>
+<l>awaits he ever. But well for him </l>
+<l>that after death-day may draw to his Lord, </l>
+<l>and friendship find in the Father's arms! </l>
+</lg>
+
+<note id="n2.1"><seg type="note-symbol">[1]</seg> <p>The smaller buildings within the main enclosure but separate from
+the hall.</p></note>
+<note id="n2.2"><seg type="note-symbol">[2]</seg> <p>Grendel.</p></note>
+<note id="n2.3"><seg type="note-symbol">[3]</seg> <p>"Sorcerers-of-hell."</p></note>
+<note id="n2.4"><seg type="note-symbol">[4]</seg> <p>Hrothgar, who is the "Scyldings'-friend" of 170.</p></note>
+<note id="n2.5"><seg type="note-symbol">[5]</seg> <p>That is, in formal or prescribed phrase.</p></note>
+
+</div2>
+<div2 type="section" n="3" id="d7">
+<head>III</head>
+
+<lg type="stanza" n="4">
+<l>THUS seethed unceasing the son of Healfdene </l>
+<l>with the woe of these days; not wisest men</l>
+
+<pb n="11"/>
+
+<l>assuaged his sorrow; too sore the anguish, </l>
+<l>loathly and long, that lay on his folk, </l>
+<l>most baneful of burdens and bales of the night. </l>
+</lg>
+<lg type="stanza" n="5">
+<l>This heard in his home Hygelac's thane, </l>
+<l>great among Geats, of Grendel's doings. </l>
+<l>He was the mightiest man of valor </l>
+<l>in that same day of this our life, </l>
+<l>stalwart and stately. A stout wave-walker </l>
+<l>he bade make ready. Yon battle-king, said he, </l>
+<l>far o'er the swan-road he fain would seek, </l>
+<l>the noble monarch who needed men! </l>
+<l>The prince's journey by prudent folk </l>
+<l>was little blamed, though they loved him dear; </l>
+<l>they whetted the hero, and hailed good omens. </l>
+<l>And now the bold one from bands of Geats </l>
+<l>comrades chose, the keenest of warriors </l>
+<l>e'er he could find; with fourteen men </l>
+<l>the sea-wood<ref target="n3.1">[1]</ref> he sought, and, sailor proved, </l>
+<l>led them on to the land's confines. </l>
+<l>  Time had now flown;<ref target="n3.2">[2]</ref> afloat was the ship, </l>
+<l>boat under bluff. On board they climbed, </l>
+<l>warriors ready; waves were churning </l>
+<l>sea with sand; the sailors bore </l>
+<l>on the breast of the bark their bright array, </l>
+<l>their mail and weapons: the men pushed off, </l>
+<l>on its willing way, the well-braced craft. </l>
+<l>Then moved o'er the waters by might of the wind </l>
+<l>that bark like a bird with breast of foam, </l>
+<l>till in season due, on the second day, </l>
+<l>the curved prow such course had run </l>
+<l>that sailors now could see the land, </l>
+<l>sea-cliffs shining, steep high hills, </l>
+<l>headlands broad. Their haven was found, </l>
+<l>their journey ended. Up then quickly </l>
+<l>the Weders'<ref target="n3.3">[3]</ref> clansmen climbed ashore, </l>
+<l>anchored their sea-wood, with armor clashing </l>
+<l>and gear of battle: God they thanked</l>
+
+<pb n="12"/>
+
+<l>for passing in peace o'er the paths of the sea. </l>
+<l>  Now saw from the cliff a Scylding clansman, </l>
+<l>a warden that watched the water-side, </l>
+<l>how they bore o'er the gangway glittering shields, </l>
+<l>war-gear in readiness; wonder seized him </l>
+<l>to know what manner of men they were. </l>
+<l>Straight to the strand his steed he rode, </l>
+<l>Hrothgar's henchman; with hand of might </l>
+<l>he shook his spear, and spake in parley. </l>
+<l>"Who are ye, then, ye armed men, </l>
+<l>mailed folk, that yon mighty vessel </l>
+<l>have urged thus over the ocean ways, </l>
+<l>here o'er the waters? A warden I, </l>
+<l>sentinel set o'er the sea-march here, </l>
+<l>lest any foe to the folk of Danes </l>
+<l>with harrying fleet should harm the land. </l>
+<l>No aliens ever at ease thus bore them, </l>
+<l>linden-wielders:<ref target="n3.4">[4]</ref> yet word-of-leave </l>
+<l>clearly ye lack from clansmen here, </l>
+<l>my folk's agreement. &mdash; A greater ne'er saw I </l>
+<l>of warriors in world than is one of you, &mdash; </l>
+<l>yon hero in harness! No henchman he </l>
+<l>worthied by weapons, if witness his features, </l>
+<l>his peerless presence! I pray you, though, tell </l>
+<l>your folk and home, lest hence ye fare </l>
+<l>suspect to wander your way as spies </l>
+<l>in Danish land. Now, dwellers afar, </l>
+<l>ocean-travellers, take from me </l>
+<l>simple advice: the sooner the better </l>
+<l>I hear of the country whence ye came." </l>
+</lg>
+<note id="n3.1"><seg type="note-symbol">[1]</seg> <p>Ship.</p></note>
+<note id="n3.2"><seg type="note-symbol">[2]</seg> <p>That is, since Beowulf selected his ship and led his men to the
+harbor.</p></note>
+<note id="n3.3"><seg type="note-symbol">[3]</seg> <p>One of the auxiliary names of the Geats.</p></note>
+<note id="n3.4"><seg type="note-symbol">[4]</seg> <p>Or: Not thus openly ever came warriors hither; yet...</p></note>
+
+</div2>
+<div2 type="section" n="4" id="d8">
+<head>IV</head>
+<lg type="stanza" n="6">
+<l>To him the stateliest spake in answer; </l>
+<l>the warriors' leader his word-hoard unlocked:&mdash; </l>
+<l>"We are by kin of the clan of Geats, </l>
+<l>and Hygelac's own hearth-fellows we. </l>
+<l>To folk afar was my father known,</l>
+
+<pb n="13"/>
+
+<l>noble atheling, Ecgtheow named. </l>
+<l>Full of winters, he fared away </l>
+<l>aged from earth; he is honored still </l>
+<l>through width of the world by wise men all. </l>
+<l>To thy lord and liege in loyal mood </l>
+<l>we hasten hither, to Healfdene's son, </l>
+<l>people-protector: be pleased to advise us! </l>
+<l>To that mighty-one come we on mickle errand, </l>
+<l>to the lord of the Danes; nor deem I right </l>
+<l>that aught be hidden. We hear &mdash; thou knowest </l>
+<l>if sooth it is &mdash; the saying of men, </l>
+<l>that amid the Scyldings a scathing monster, </l>
+<l>dark ill-doer, in dusky nights </l>
+<l>shows terrific his rage unmatched, </l>
+<l>hatred and murder. To Hrothgar I </l>
+<l>in greatness of soul would succor bring, </l>
+<l>so the Wise-and-Brave<ref target="n4.1">[1]</ref> may worst his foes, &mdash; </l>
+<l>if ever the end of ills is fated, </l>
+<l>of cruel contest, if cure shall follow, </l>
+<l>and the boiling care-waves cooler grow; </l>
+<l>else ever afterward anguish-days </l>
+<l>he shall suffer in sorrow while stands in place </l>
+<l>high on its hill that house unpeered!" </l>
+<l>Astride his steed, the strand-ward answered, </l>
+<l>clansman unquailing: "The keen-souled thane </l>
+<l>must be skilled to sever and sunder duly </l>
+<l>words and works, if he well intends. </l>
+<l>I gather, this band is graciously bent </l>
+<l>to the Scyldings' master. March, then, bearing </l>
+<l>weapons and weeds the way I show you. </l>
+<l>I will bid my men your boat meanwhile </l>
+<l>to guard for fear lest foemen come, &mdash; </l>
+<l>your new-tarred ship by shore of ocean </l>
+<l>faithfully watching till once again </l>
+<l>it waft o'er the waters those well-loved thanes, </l>
+<l>&mdash; winding-neck'd wood, &mdash; to Weders' bounds, </l>
+<l>heroes such as the hest of fate </l>
+<l>shall succor and save from the shock of war." </l>
+<l>They bent them to march, &mdash; the boat lay still,</l>
+
+<pb n="14"/>
+
+<l>fettered by cable and fast at anchor, </l>
+<l>broad-bosomed ship. &mdash; Then shone the boars<ref target="n4.2">[2]</ref> </l>
+<l>over the cheek-guard; chased with gold, </l>
+<l>keen and gleaming, guard it kept </l>
+<l>o'er the man of war, as marched along </l>
+<l>heroes in haste, till the hall they saw, </l>
+<l>broad of gable and bright with gold: </l>
+<l>that was the fairest, 'mid folk of earth, </l>
+<l>of houses 'neath heaven, where Hrothgar lived, </l>
+<l>and the gleam of it lightened o'er lands afar. </l>
+<l>The sturdy shieldsman showed that bright </l>
+<l>burg-of-the-boldest; bade them go </l>
+<l>straightway thither; his steed then turned, </l>
+<l>hardy hero, and hailed them thus:&mdash; </l>
+<l>"Tis time that I fare from you. Father Almighty </l>
+<l>in grace and mercy guard you well, </l>
+<l>safe in your seekings. Seaward I go, </l>
+<l>'gainst hostile warriors hold my watch." </l>
+</lg>
+<note id="n4.1"><seg type="note-symbol">[1]</seg> <p>Hrothgar.</p></note>
+<note id="n4.2"><seg type="note-symbol">[2]</seg> <p>Beowulf's helmet has several boar-images on it; he is the "man of
+war"; and the boar-helmet guards him as typical representative of the
+marching party as a whole. The boar was sacred to Freyr, who was the
+favorite god of the Germanic tribes about the North Sea and the Baltic.
+Rude representations of warriors show the boar on the helmet quite as
+large as the helmet itself.</p></note>
+
+</div2>
+<div2 type="section" n="5" id="d9">
+<head>V</head>
+<lg type="stanza" n="7">
+<l>STONE-BRIGHT the street:<ref target="n5.1">[1]</ref> it showed the way </l>
+<l>to the crowd of clansmen. Corselets glistened </l>
+<l>hand-forged, hard; on their harness bright </l>
+<l>the steel ring sang, as they strode along </l>
+<l>in mail of battle, and marched to the hall. </l>
+<l>There, weary of ocean, the wall along </l>
+<l>they set their bucklers, their broad shields, down, </l>
+<l>and bowed them to bench: the breastplates clanged, </l>
+<l>war-gear of men; their weapons stacked, </l>
+<l>spears of the seafarers stood together, </l>
+<l>gray-tipped ash: that iron band </l>
+<l>was worthily weaponed! &mdash; A warrior proud</l>
+
+<pb n="15"/>
+
+<l>asked of the heroes their home and kin. </l>
+<l>"Whence, now, bear ye burnished shields, </l>
+<l>harness gray and helmets grim, </l>
+<l>spears in multitude? Messenger, I, </l>
+<l>Hrothgar's herald! Heroes so many </l>
+<l>ne'er met I as strangers of mood so strong. </l>
+<l>'Tis plain that for prowess, not plunged into exile, </l>
+<l>for high-hearted valor, Hrothgar ye seek!" </l>
+<l>Him the sturdy-in-war bespake with words, </l>
+<l>proud earl of the Weders answer made, </l>
+<l>hardy 'neath helmet:&mdash;"Hygelac's, we, </l>
+<l>fellows at board; I am Beowulf named. </l>
+<l>I am seeking to say to the son of Healfdene </l>
+<l>this mission of mine, to thy master-lord, </l>
+<l>the doughty prince, if he deign at all </l>
+<l>grace that we greet him, the good one, now." </l>
+<l>Wulfgar spake, the Wendles' chieftain, </l>
+<l>whose might of mind to many was known, </l>
+<l>his courage and counsel: "The king of Danes, </l>
+<l>the Scyldings' friend, I fain will tell, </l>
+<l>the Breaker-of-Rings, as the boon thou askest, </l>
+<l>the famed prince, of thy faring hither, </l>
+<l>and, swiftly after, such answer bring </l>
+<l>as the doughty monarch may deign to give." </l>
+<l>Hied then in haste to where Hrothgar sat </l>
+<l>white-haired and old, his earls about him, </l>
+<l>till the stout thane stood at the shoulder there </l>
+<l>of the Danish king: good courtier he! </l>
+<l>Wulfgar spake to his winsome lord:&mdash; </l>
+<l>"Hither have fared to thee far-come men </l>
+<l>o'er the paths of ocean, people of Geatland; </l>
+<l>and the stateliest there by his sturdy band </l>
+<l>is Beowulf named. This boon they seek, </l>
+<l>that they, my master, may with thee </l>
+<l>have speech at will: nor spurn their prayer </l>
+<l>to give them hearing, gracious Hrothgar! </l>
+<l>In weeds of the warrior worthy they, </l>
+<l>methinks, of our liking; their leader most surely, </l>
+<l>a hero that hither his henchmen has led."</l>
+</lg>
+<pb n="16"/>
+
+<note id="n5.1"><seg type="note-symbol">[1]</seg> <p>Either merely paved, the strata via of the Romans, or else thought of
+as a sort of mosaic, an extravagant touch like the reckless waste of gold
+on the walls and roofs of a hall.</p></note>
+
+</div2>
+<div2 type="section" n="6" id="d10">
+<head>VI</head>
+<lg type="stanza" n="8">
+<l>HROTHGAR answered, helmet of Scyldings:&mdash; </l>
+<l>"I knew him of yore in his youthful days; </l>
+<l>his aged father was Ecgtheow named, </l>
+<l>to whom, at home, gave Hrethel the Geat </l>
+<l>his only daughter. Their offspring bold </l>
+<l>fares hither to seek the steadfast friend. </l>
+<l>And seamen, too, have said me this, &mdash; </l>
+<l>who carried my gifts to the Geatish court, </l>
+<l>thither for thanks, &mdash; he has thirty men's </l>
+<l>heft of grasp in the gripe of his hand, </l>
+<l>the bold-in-battle. Blessed God </l>
+<l>out of his mercy this man hath sent </l>
+<l>to Danes of the West, as I ween indeed, </l>
+<l>against horror of Grendel. I hope to give </l>
+<l>the good youth gold for his gallant thought. </l>
+<l>Be thou in haste, and bid them hither, </l>
+<l>clan of kinsmen, to come before me; </l>
+<l>and add this word, &mdash; they are welcome guests </l>
+<l>to folk of the Danes." </l>
+<l>                      [To the door of the hall </l>
+<l>Wulfgar went] and the word declared:&mdash; </l>
+<l>"To you this message my master sends, </l>
+<l>East-Danes' king, that your kin he knows, </l>
+<l>hardy heroes, and hails you all </l>
+<l>welcome hither o'er waves of the sea! </l>
+<l>Ye may wend your way in war-attire, </l>
+<l>and under helmets Hrothgar greet; </l>
+<l>but let here the battle-shields bide your parley, </l>
+<l>and wooden war-shafts wait its end." </l>
+<l>  Uprose the mighty one, ringed with his men, </l>
+<l>brave band of thanes: some bode without, </l>
+<l>battle-gear guarding, as bade the chief. </l>
+<l>Then hied that troop where the herald led them, </l>
+<l>under Heorot's roof: [the hero strode,] </l>
+<l>hardy 'neath helm, till the hearth he neared. </l>
+<l>Beowulf spake, &mdash; his breastplate gleamed, </l>
+<l>war-net woven by wit of the smith:&mdash;</l>
+
+<pb n="17"/>
+
+<l>"Thou Hrothgar, hail! Hygelac's I, </l>
+<l>kinsman and follower. Fame a plenty </l>
+<l>have I gained in youth! These Grendel-deeds </l>
+<l>I heard in my home-land heralded clear. </l>
+<l>Seafarers say how stands this hall, </l>
+<l>of buildings best, for your band of thanes </l>
+<l>empty and idle, when evening sun </l>
+<l>in the harbor of heaven is hidden away. </l>
+<l>So my vassals advised me well, &mdash; </l>
+<l>brave and wise, the best of men, &mdash; </l>
+<l>O sovran Hrothgar, to seek thee here, </l>
+<l>for my nerve and my might they knew full well. </l>
+<l>Themselves had seen me from slaughter come </l>
+<l>blood-flecked from foes, where five I bound, </l>
+<l>and that wild brood worsted. I' the waves I slew </l>
+<l>nicors<ref target="n6.1">[1]</ref> by night, in need and peril </l>
+<l>avenging the Weders,<ref target="n6.2">[2]</ref> whose woe they sought, &mdash; </l>
+<l>crushing the grim ones. Grendel now, </l>
+<l>monster cruel, be mine to quell </l>
+<l>in single battle! So, from thee, </l>
+<l>thou sovran of the Shining-Danes, </l>
+<l>Scyldings'-bulwark, a boon I seek, &mdash; </l>
+<l>and, Friend-of-the-folk, refuse it not, </l>
+<l>O Warriors'-shield, now I've wandered far, &mdash; </l>
+<l>that I alone with my liegemen here, </l>
+<l>this hardy band, may Heorot purge! </l>
+<l>More I hear, that the monster dire, </l>
+<l>in his wanton mood, of weapons recks not; </l>
+<l>hence shall I scorn &mdash; so Hygelac stay, </l>
+<l>king of my kindred, kind to me! &mdash; </l>
+<l>brand or buckler to bear in the fight, </l>
+<l>gold-colored targe: but with gripe alone </l>
+<l>must I front the fiend and fight for life, </l>
+<l>foe against foe. Then faith be his </l>
+<l>in the doom of the Lord whom death shall take. </l>
+<l>Fain, I ween, if the fight he win,</l>
+
+<pb n="18"/>
+
+<l>in this hall of gold my Geatish band </l>
+<l>will he fearless eat, &mdash; as oft before, &mdash; </l>
+<l>my noblest thanes. Nor need'st thou then </l>
+<l>to hide my head;<ref target="n6.3">[3]</ref> for his shall I be, </l>
+<l>dyed in gore, if death must take me; </l>
+<l>and my blood-covered body he'll bear as prey, </l>
+<l>ruthless devour it, the roamer-lonely, </l>
+<l>with my life-blood redden his lair in the fen: </l>
+<l>no further for me need'st food prepare! </l>
+<l>To Hygelac send, if Hild<ref target="n6.4">[4]</ref> should take me, </l>
+<l>best of war-weeds, warding my breast, </l>
+<l>armor excellent, heirloom of Hrethel </l>
+<l>and work of Wayland.<ref target="n6.5">[5]</ref> Fares Wyrd<ref target="n6.6">[6]</ref> as she must." </l>
+</lg>
+<note id="n6.1"><seg type="note-symbol">[1]</seg> <p>The nicor, says Bugge, is a hippopotamus; a walrus, says ten Brink.
+But that water-goblin who covers the space from Old Nick of jest to the
+Neckan and Nix of poetry and tale, is all one needs, and Nicor is a good
+name for him.</p></note>
+<note id="n6.2"><seg type="note-symbol">[2]</seg> <p>His own people, the Geats.</p></note>
+<note id="n6.3"><seg type="note-symbol">[3]</seg> <p>That is, cover it as with a face-cloth. "There will be no need of
+funeral rites."</p></note>
+<note id="n6.4"><seg type="note-symbol">[4]</seg> <p>Personification of Battle.</p></note>
+<note id="n6.5"><seg type="note-symbol">[5]</seg> <p>The Germanic Vulcan.</p></note>
+<note id="n6.6"><seg type="note-symbol">[6]</seg> <p>This mighty power, whom the Christian poet can still revere, has here
+the general force of "Destiny."</p></note>
+
+</div2>
+<div2 type="section" n="7" id="d11">
+<head>VII</head>
+<lg type="stanza" n="9">
+<l>HROTHGAR spake, the Scyldings'-helmet:&mdash; </l>
+<l>"For fight defensive, Friend my Beowulf, </l>
+<l>to succor and save, thou hast sought us here. </l>
+<l>Thy father's combat<ref target="n7.1">[1]</ref> a feud enkindled </l>
+<l>when Heatholaf with hand he slew </l>
+<l>among the Wylfings; his Weder kin </l>
+<l>for horror of fighting feared to hold him. </l>
+<l>Fleeing, he sought our South-Dane folk, </l>
+<l>over surge of ocean the Honor-Scyldings, </l>
+<l>when first I was ruling the folk of Danes, </l>
+<l>wielded, youthful, this widespread realm, </l>
+<l>this hoard-hold of heroes. Heorogar was dead, </l>
+<l>my elder brother, had breathed his last, </l>
+<l>Healfdene's bairn: he was better than I! </l>
+<l>Straightway the feud with fee<ref target="n7.2">[2]</ref> I settled, </l>
+<l>to the Wylfings sent, o'er watery ridges, </l>
+<l>treasures olden: oaths he<ref target="n7.3">[3]</ref> swore me.</l>
+
+<pb n="19"/>
+
+<l>  Sore is my soul to say to any </l>
+<l>of the race of man what ruth for me </l>
+<l>in Heorot Grendel with hate hath wrought, </l>
+<l>what sudden harryings. Hall-folk fail me, </l>
+<l>my warriors wane; for Wyrd hath swept them </l>
+<l>into Grendel's grasp. But God is able </l>
+<l>this deadly foe from his deeds to turn! </l>
+<l>Boasted full oft, as my beer they drank, </l>
+<l>earls o'er the ale-cup, armed men, </l>
+<l>that they would bide in the beer-hall here, </l>
+<l>Grendel's attack with terror of blades. </l>
+<l>Then was this mead-house at morning tide </l>
+<l>dyed with gore, when the daylight broke, </l>
+<l>all the boards of the benches blood-besprinkled, </l>
+<l>gory the hall: I had heroes the less, </l>
+<l>doughty dear-ones that death had reft. </l>
+<l>&mdash; But sit to the banquet, unbind thy words, </l>
+<l>hardy hero, as heart shall prompt thee." </l>
+</lg>
+<lg type="stanza" n="10">
+<l>Gathered together, the Geatish men </l>
+<l>in the banquet-hall on bench assigned, </l>
+<l>sturdy-spirited, sat them down, </l>
+<l>hardy-hearted. A henchman attended, </l>
+<l>carried the carven cup in hand, </l>
+<l>served the clear mead. Oft minstrels sang </l>
+<l>blithe in Heorot. Heroes revelled, </l>
+<l>no dearth of warriors, Weder and Dane. </l>
+</lg>
+<note id="n7.1"><seg type="note-symbol">[1]</seg> <p>There is no irrelevance here. Hrothgar sees in Beowulf's mission a
+heritage of duty, a return of the good offices which the Danish king ren-dered to Beowulf's father in time of dire need.</p></note>
+<note id="n7.2"><seg type="note-symbol">[2]</seg> <p>Money, for wergild, or man-price.</p></note>
+<note id="n7.3"><seg type="note-symbol">[3]</seg> <p>Ecgtheow, Beowulf's sire.</p></note>
+
+</div2>
+<div2 type="section" n="8" id="d12">
+<head>VIII</head>
+<lg type="stanza" n="11">
+<l>UNFERTH spake, the son of Ecglaf, </l>
+<l>who sat at the feet of the Scyldings' lord, </l>
+<l>unbound the battle-runes.<ref target="n8.1">[1]</ref> &mdash; Beowulf's quest, </l>
+<l>sturdy seafarer's, sorely galled him; </l>
+<l>ever he envied that other men </l>
+<l>should more achieve in middle-earth </l>
+<l>of fame under heaven than he himself. &mdash; </l>
+<l>"Art thou that Beowulf, Breca's rival,</l>
+
+<pb n="20"/>
+
+<l>who emulous swam on the open sea, </l>
+<l>when for pride the pair of you proved the floods, </l>
+<l>and wantonly dared in waters deep </l>
+<l>to risk your lives? No living man, </l>
+<l>or lief or loath, from your labor dire </l>
+<l>could you dissuade, from swimming the main. </l>
+<l>Ocean-tides with your arms ye covered, </l>
+<l>with strenuous hands the sea-streets measured, </l>
+<l>swam o'er the waters. Winter's storm </l>
+<l>rolled the rough waves. In realm of sea </l>
+<l>a sennight strove ye. In swimming he topped thee, </l>
+<l>had more of main! Him at morning-tide </l>
+<l>billows bore to the Battling Reamas, </l>
+<l>whence he hied to his home so dear </l>
+<l>beloved of his liegemen, to land of Brondings, </l>
+<l>fastness fair, where his folk he ruled, </l>
+<l>town and treasure. In triumph o'er thee </l>
+<l>Beanstan's bairn<ref target="n8.2">[2]</ref> his boast achieved. </l>
+<l>So ween I for thee a worse adventure </l>
+<l>&mdash; though in buffet of battle thou brave hast been, </l>
+<l>in struggle grim, &mdash; if Grendel's approach </l>
+<l>thou darst await through the watch of night!"</l>
+</lg>
+<lg type="stanza" n="12">
+<l>  Beowulf spake, bairn of Ecgtheow:&mdash; </l>
+<l>"What a deal hast uttered, dear my Unferth, </l>
+<l>drunken with beer, of Breca now, </l>
+<l>told of his triumph! Truth I claim it, </l>
+<l>that I had more of might in the sea </l>
+<l>than any man else, more ocean-endurance. </l>
+<l>We twain had talked, in time of youth, </l>
+<l>and made our boast, &mdash; we were merely boys, </l>
+<l>striplings still, &mdash; to stake our lives </l>
+<l>far at sea: and so we performed it. </l>
+<l>Naked swords, as we swam along, </l>
+<l>we held in hand, with hope to guard us </l>
+<l>against the whales. Not a whit from me </l>
+<l>could he float afar o'er the flood of waves, </l>
+<l>haste o'er the billows; nor him I abandoned. </l>
+<l>Together we twain on the tides abode</l>
+
+<pb n="21"/>
+
+<l>five nights full till the flood divided us, </l>
+<l>churning waves and chillest weather, </l>
+<l>darkling night, and the northern wind </l>
+<l>ruthless rushed on us: rough was the surge. </l>
+<l>Now the wrath of the sea-fish rose apace; </l>
+<l>yet me 'gainst the monsters my mailed coat, </l>
+<l>hard and hand-linked, help afforded, &mdash; </l>
+<l>battle-sark braided my breast to ward, </l>
+<l>garnished with gold. There grasped me firm </l>
+<l>and haled me to bottom the hated foe, </l>
+<l>with grimmest gripe. 'Twas granted me, though, </l>
+<l>to pierce the monster with point of sword, </l>
+<l>with blade of battle: huge beast of the sea </l>
+<l>was whelmed by the hurly through hand of mine. </l>
+</lg>
+<note id="n8.1"><seg type="note-symbol">[1]</seg> <p>"Began the fight."</p></note>
+<note id="n8.2"><seg type="note-symbol">[2]</seg> <p>Breca.</p></note>
+
+</div2>
+<div2 type="section" n="9" id="d13">
+<head>IX</head>
+<lg type="stanza" n="13">
+<l>ME thus often the evil monsters </l>
+<l>thronging threatened. With thrust of my sword, </l>
+<l>the darling, I dealt them due return! </l>
+<l>Nowise had they bliss from their booty then </l>
+<l>to devour their victim, vengeful creatures, </l>
+<l>seated to banquet at bottom of sea; </l>
+<l>but at break of day, by my brand sore hurt, </l>
+<l>on the edge of ocean up they lay, </l>
+<l>put to sleep by the sword. And since, by them </l>
+<l>on the fathomless sea-ways sailor-folk </l>
+<l>are never molested. &mdash; Light from east, </l>
+<l>came bright God's beacon; the billows sank, </l>
+<l>so that I saw the sea-cliffs high, </l>
+<l>windy walls. For Wyrd oft saveth </l>
+<l>earl undoomed if he doughty be! </l>
+<l>And so it came that I killed with my sword </l>
+<l>nine of the nicors. Of night-fought battles </l>
+<l>ne'er heard I a harder 'neath heaven's dome, </l>
+<l>nor adrift on the deep a more desolate man! </l>
+<l>Yet I came unharmed from that hostile clutch, </l>
+<l>though spent with swimming. The sea upbore me, </l>
+<l>flood of the tide, on Finnish land,</l>
+
+<pb n="22"/>
+
+<l>the welling waters. No wise of thee </l>
+<l>have I heard men tell such terror of falchions, </l>
+<l>bitter battle. Breca ne'er yet, </l>
+<l>not one of you pair, in the play of war </l>
+<l>such daring deed has done at all </l>
+<l>with bloody brand, &mdash; I boast not of it! &mdash; </l>
+<l>though thou wast the bane<ref target="n9.1">[1]</ref> of thy brethren dear, </l>
+<l>thy closest kin, whence curse of hell </l>
+<l>awaits thee, well as thy wit may serve! </l>
+<l>For I say in sooth, thou son of Ecglaf, </l>
+<l>never had Grendel these grim deeds wrought, </l>
+<l>monster dire, on thy master dear, </l>
+<l>in Heorot such havoc, if heart of thine </l>
+<l>were as battle-bold as thy boast is loud! </l>
+<l>But he has found no feud will happen; </l>
+<l>from sword-clash dread of your Danish clan </l>
+<l>he vaunts him safe, from the Victor-Scyldings. </l>
+<l>He forces pledges, favors none </l>
+<l>of the land of Danes, but lustily murders, </l>
+<l>fights and feasts, nor feud he dreads </l>
+<l>from Spear-Dane men. But speedily now </l>
+<l>shall I prove him the prowess and pride of the Geats, </l>
+<l>shall bid him battle. Blithe to mead </l>
+<l>go he that listeth, when light of dawn </l>
+<l>this morrow morning o'er men of earth, </l>
+<l>ether-robed sun from the south shall beam!" </l>
+<l>  Joyous then was the Jewel-giver, </l>
+<l>hoar-haired, war-brave; help awaited </l>
+<l>the Bright-Danes' prince, from Beowulf hearing, </l>
+<l>folk's good shepherd, such firm resolve. </l>
+<l>Then was laughter of liegemen loud resounding </l>
+<l>with winsome words. Came Wealhtheow forth, </l>
+<l>queen of Hrothgar, heedful of courtesy, </l>
+<l>gold-decked, greeting the guests in hall; </l>
+<l>and the high-born lady handed the cup </l>
+<l>first to the East-Danes' heir and warden, </l>
+<l>bade him be blithe at the beer-carouse, </l>
+<l>the land's beloved one. Lustily took he </l>
+<l>banquet and beaker, battle-famed king.</l>
+
+<pb n="23"/>
+
+<l>Through the hall then went the Helmings' Lady, </l>
+<l>to younger and older everywhere </l>
+<l>carried the cup, till come the moment </l>
+<l>when the ring-graced queen, the royal-hearted, </l>
+<l>to Beowulf bore the beaker of mead. </l>
+<l>She greeted the Geats' lord, God she thanked, </l>
+<l>in wisdom's words, that her will was granted, </l>
+<l>that at last on a hero her hope could lean </l>
+<l>for comfort in terrors. The cup he took, </l>
+<l>hardy-in-war, from Wealhtheow's hand, </l>
+<l>and answer uttered the eager-for-combat. </l>
+<l>Beowulf spake, bairn of Ecgtheow:&mdash; </l>
+<l>"This was my thought, when my thanes and I </l>
+<l>bent to the ocean and entered our boat, </l>
+<l>that I would work the will of your people </l>
+<l>fully, or fighting fall in death, </l>
+<l>in fiend's gripe fast. I am firm to do </l>
+<l>an earl's brave deed, or end the days </l>
+<l>of this life of mine in the mead-hall here." </l>
+<l>Well these words to the woman seemed, </l>
+<l>Beowulf's battle-boast. &mdash; Bright with gold </l>
+<l>the stately dame by her spouse sat down. </l>
+<l>Again, as erst, began in hall </l>
+<l>warriors' wassail and words of power, </l>
+<l>the proud-band's revel, till presently </l>
+<l>the son of Healfdene hastened to seek </l>
+<l>rest for the night; he knew there waited </l>
+<l>fight for the fiend in that festal hall, </l>
+<l>when the sheen of the sun they saw no more, </l>
+<l>and dusk of night sank darkling nigh, </l>
+<l>and shadowy shapes came striding on, </l>
+<l>wan under welkin. The warriors rose. </l>
+<l>Man to man, he made harangue, </l>
+<l>Hrothgar to Beowulf, bade him hail, </l>
+<l>let him wield the wine hall: a word he added:&mdash; </l>
+<l>"Never to any man erst I trusted, </l>
+<l>since I could heave up hand and shield, </l>
+<l>this noble Dane-Hall, till now to thee. </l>
+<l>Have now and hold this house unpeered; </l>
+<l>remember thy glory; thy might declare;</l>
+
+<pb n="24"/>
+
+<l>watch for the foe! No wish shall fail thee </l>
+<l>if thou bidest the battle with bold-won life." </l>
+</lg>
+<note id="n9.1"><seg type="note-symbol">[1]</seg> <p>Murder.</p></note>
+
+</div2>
+<div2 type="section" n="10" id="d14">
+<head>X</head>
+<lg type="stanza" n="14">
+<l>THEN Hrothgar went with his hero-train, </l>
+<l>defence-of-Scyldings, forth from hall; </l>
+<l>fain would the war-lord Wealhtheow seek, </l>
+<l>couch of his queen. The King-of-Glory </l>
+<l>against this Grendel a guard had set, </l>
+<l>so heroes heard, a hall-defender, </l>
+<l>who warded the monarch and watched for the monster. </l>
+<l>In truth, the Geats' prince gladly trusted </l>
+<l>his mettle, his might, the mercy of God! </l>
+<l>Cast off then his corselet of iron, </l>
+<l>helmet from head; to his henchman gave, &mdash; </l>
+<l>choicest of weapons, &mdash; the well-chased sword, </l>
+<l>bidding him guard the gear of battle. </l>
+<l>Spake then his Vaunt the valiant man, </l>
+<l>Beowulf Geat, ere the bed be sought:&mdash; </l>
+<l>"Of force in fight no feebler I count me, </l>
+<l>in grim war-deeds, than Grendel deems him. </l>
+<l>Not with the sword, then, to sleep of death </l>
+<l>his life will I give, though it lie in my power. </l>
+<l>No skill is his to strike against me, </l>
+<l>my shield to hew though he hardy be, </l>
+<l>bold in battle; we both, this night, </l>
+<l>shall spurn the sword, if he seek me here, </l>
+<l>unweaponed, for war. Let wisest God, </l>
+<l>sacred Lord, on which side soever </l>
+<l>doom decree as he deemeth right." </l>
+<l>Reclined then the chieftain, and cheek-pillows held </l>
+<l>the head of the earl, while all about him </l>
+<l>seamen hardy on hall-beds sank. </l>
+<l>None of them thought that thence their steps </l>
+<l>to the folk and fastness that fostered them, </l>
+<l>to the land they loved, would lead them back! </l>
+<l>Full well they wist that on warriors many</l>
+
+<pb n="25"/>
+
+<l>battle-death seized, in the banquet-hall, </l>
+<l>of Danish clan. But comfort and help, </l>
+<l>war-weal weaving, to Weder folk </l>
+<l>the Master gave, that, by might of one, </l>
+<l>over their enemy all prevailed, </l>
+<l>by single strength. In sooth 'tis told </l>
+<l>that highest God o'er human kind </l>
+<l>hath wielded ever! &mdash; Thro' wan night striding, </l>
+<l>came the walker-in-shadow. Warriors slept </l>
+<l>whose hest was to guard the gabled hall, &mdash; </l>
+<l>all save one. 'Twas widely known </l>
+<l>that against God's will the ghostly ravager </l>
+<l>him<ref target="n10.1">[1]</ref> could not hurl to haunts of darkness; </l>
+<l>wakeful, ready, with warrior's wrath, </l>
+<l>bold he bided the battle's issue. </l>
+</lg>
+<note id="n10.1"><seg type="note-symbol">[1]</seg> <p>Beowulf, &mdash; the "one."</p></note>
+</div2>
+
+<div2 type="section" n="11" id="d15">
+<head>XI</head>
+
+<lg type="stanza" n="15">
+
+<l>THEN from the moorland, by misty crags, </l>
+<l>with God's wrath laden, Grendel came. </l>
+<l>The monster was minded of mankind now </l>
+<l>sundry to seize in the stately house. </l>
+<l>Under welkin he walked, till the wine-palace there, </l>
+<l>gold-hall of men, he gladly discerned, </l>
+<l>flashing with fretwork. Not first time, this, </l>
+<l>that he the home of Hrothgar sought, &mdash; </l>
+<l>yet ne'er in his life-day, late or early, </l>
+<l>such hardy heroes, such hall-thanes, found! </l>
+<l>To the house the warrior walked apace, </l>
+<l>parted from peace;<ref target="n11.1">[1]</ref> the portal opended, </l>
+<l>though with forged bolts fast, when his fists had </l>
+<l>      struck it, </l>
+<l>and baleful he burst in his blatant rage, </l>
+<l>the house's mouth. All hastily, then, </l>
+<l>o'er fair-paved floor the fiend trod on, </l>
+<l>ireful he strode; there streamed from his eyes </l>
+<l>fearful flashes, like flame to see.</l>
+
+<pb n="26"/>
+
+<l>He spied in hall the hero-band, </l>
+<l>kin and clansmen clustered asleep, </l>
+<l>hardy liegemen. Then laughed his heart; </l>
+<l>for the monster was minded, ere morn should dawn, </l>
+<l>savage, to sever the soul of each, </l>
+<l>life from body, since lusty banquet </l>
+<l>waited his will! But Wyrd forbade him </l>
+<l>to seize any more of men on earth </l>
+<l>after that evening. Eagerly watched </l>
+<l>Hygelac's kinsman his cursed foe, </l>
+<l>how he would fare in fell attack. </l>
+<l>Not that the monster was minded to pause! </l>
+<l>Straightway he seized a sleeping warrior </l>
+<l>for the first, and tore him fiercely asunder, </l>
+<l>the bone-frame bit, drank blood in streams, </l>
+<l>swallowed him piecemeal: swiftly thus </l>
+<l>the lifeless corse was clear devoured, </l>
+<l>e'en feet and hands. Then farther he hied; </l>
+<l>for the hardy hero with hand he grasped, </l>
+<l>felt for the foe with fiendish claw, </l>
+<l>for the hero reclining, &mdash; who clutched it boldly, </l>
+<l>prompt to answer, propped on his arm. </l>
+<l>Soon then saw that shepherd-of-evils </l>
+<l>that never he met in this middle-world, </l>
+<l>in the ways of earth, another wight </l>
+<l>with heavier hand-gripe; at heart he feared, </l>
+<l>sorrowed in soul, &mdash; none the sooner escaped! </l>
+<l>Fain would he flee, his fastness seek, </l>
+<l>the den of devils: no doings now </l>
+<l>such as oft he had done in days of old! </l>
+<l>  Then bethought him the hardy Hygelac-thane </l>
+<l>of his boast at evening: up he bounded, </l>
+<l>grasped firm his foe, whose fingers cracked. </l>
+<l>The fiend made off, but the earl close followed. </l>
+<l>The monster meant &mdash; if he might at all &mdash; </l>
+<l>to fling himself free, and far away </l>
+<l>fly to the fens, &mdash; knew his fingers' power </l>
+<l>in the gripe of the grim one. Gruesome march </l>
+<l>to Heorot this monster of harm had made! </l>
+<l>Din filled the room; the Danes were bereft,</l>
+
+<pb n="27"/>
+
+<l>castle-dwellers and clansmen all, </l>
+<l>earls, of their ale. Angry were both </l>
+<l>those savage hall-guards: the house resounded. </l>
+<l>Wonder it was the wine-hall firm </l>
+<l>in the strain of their struggle stood, to earth </l>
+<l>the fair house fell not; too fast it was </l>
+<l>within and without by its iron bands </l>
+<l>craftily clamped; though there crashed from sill </l>
+<l>many a mead-bench &mdash; men have told me &mdash; </l>
+<l>gay with gold, where the grim foes wrestled. </l>
+<l>So well had weened the wisest Scyldings </l>
+<l>that not ever at all might any man </l>
+<l>that bone-decked, brave house break asunder, </l>
+<l>crush by craft, &mdash; unless clasp of fire </l>
+<l>in smoke engulfed it. &mdash; Again uprose </l>
+<l>din redoubled. Danes of the North </l>
+<l>with fear and frenzy were filled, each one, </l>
+<l>who from the wall that wailing heard, </l>
+<l>God's foe sounding his grisly song, </l>
+<l>cry of the conquered, clamorous pain </l>
+<l>from captive of hell. Too closely held him </l>
+<l>he who of men in might was strongest </l>
+<l>in that same day of this our life. </l>
+</lg>
+<note id="n11.1"><seg type="note-symbol">[1]</seg> <p>That is, he was a "lost soul," doomed to hell.</p></note>
+</div2>
+<div2 type="section" n="12" id="d16">
+<head>XII</head>
+<lg type="stanza" n="16">
+<l>NOT in any wise would the earls'-defence<ref target="n12.1">[1]</ref> </l>
+<l>suffer that slaughterous stranger to live, </l>
+<l>useless deeming his days and years </l>
+<l>to men on earth. Now many an earl </l>
+<l>of Beowulf brandished blade ancestral, </l>
+<l>fain the life of their lord to shield, </l>
+<l>their praised prince, if power were theirs; </l>
+<l>never they knew, &mdash; as they neared the foe, </l>
+<l>hardy-hearted heroes of war, </l>
+<l>aiming their swords on every side </l>
+<l>the accursed to kill, &mdash; no keenest blade, </l>
+<l>no farest of falchions fashioned on earth,</l>
+
+<pb n="28"/>
+
+<l>could harm or hurt that hideous fiend! </l>
+<l>He was safe, by his spells, from sword of battle, </l>
+<l>from edge of iron. Yet his end and parting </l>
+<l>on that same day of this our life </l>
+<l>woful should be, and his wandering soul </l>
+<l>far off flit to the fiends' domain. </l>
+<l>Soon he found, who in former days, </l>
+<l>harmful in heart and hated of God, </l>
+<l>on many a man such murder wrought, </l>
+<l>that the frame of his body failed him now. </l>
+<l>For him the keen-souled kinsman of Hygelac </l>
+<l>held in hand; hateful alive </l>
+<l>was each to other. The outlaw dire </l>
+<l>took mortal hurt; a mighty wound </l>
+<l>showed on his shoulder, and sinews cracked, </l>
+<l>and the bone-frame burst. To Beowulf now </l>
+<l>the glory was given, and Grendel thence </l>
+<l>death-sick his den in the dark moor sought, </l>
+<l>noisome abode: he knew too well </l>
+<l>that here was the last of life, an end </l>
+<l>of his days on earth. &mdash; To all the Danes </l>
+<l>by that bloody battle the boon had come. </l>
+<l>From ravage had rescued the roving stranger </l>
+<l>Hrothgar's hall; the hardy and wise one </l>
+<l>had purged it anew. His night-work pleased him, </l>
+<l>his deed and its honor. To Eastern Danes </l>
+<l>had the valiant Geat his vaunt made good, </l>
+<l>all their sorrow and ills assuaged, </l>
+<l>their bale of battle borne so long, </l>
+<l>and all the dole they erst endured </l>
+<l>pain a-plenty. &mdash; 'Twas proof of this, </l>
+<l>when the hardy-in-fight a hand laid down, </l>
+<l>arm and shoulder, &mdash; all, indeed, </l>
+<l>of Grendel's gripe, &mdash; 'neath the gabled roof&middot; </l>
+</lg>
+<note id="n12.1"><seg type="note-symbol">[1]</seg> <p>Kenning for Beowulf.</p></note>
+</div2>
+<div2 type="section" n="13" id="d17">
+<head>XIII</head>
+<lg type="stanza" n="17">
+<l>MANY at morning, as men have told me, </l>
+<l>warriors gathered the gift-hall round, </l>
+<l>folk-leaders faring from far and near,</l>
+
+<pb n="29"/>
+
+<l>o'er wide-stretched ways, the wonder to view, </l>
+<l>trace of the traitor. Not troublous seemed </l>
+<l>the enemy's end to any man </l>
+<l>who saw by the gait of the graceless foe </l>
+<l>how the weary-hearted, away from thence, </l>
+<l>baffled in battle and banned, his steps </l>
+<l>death-marked dragged to the devils' mere. </l>
+<l>Bloody the billows were boiling there, </l>
+<l>turbid the tide of tumbling waves </l>
+<l>horribly seething, with sword-blood hot, </l>
+<l>by that doomed one dyed, who in den of the moor </l>
+<l>laid forlorn his life adown, </l>
+<l>his heathen soul,-and hell received it. </l>
+<l>  Home then rode the hoary clansmen </l>
+<l>from that merry journey, and many a youth, </l>
+<l>on horses white, the hardy warriors, </l>
+<l>back from the mere. Then Beowulf's glory </l>
+<l>eager they echoed, and all averred </l>
+<l>that from sea to sea, or south or north, </l>
+<l>there was no other in earth's domain, </l>
+<l>under vault of heaven, more valiant found, </l>
+<l>of warriors none more worthy to rule! </l>
+<l>(On their lord beloved they laid no slight, </l>
+<l>gracious Hrothgar: a good king he!) </l>
+<l>  From time to time, the tried-in-battle </l>
+<l>their gray steeds set to gallop amain, </l>
+<l>and ran a race when the road seemed fair. </l>
+<l>From time to time, a thane of the king, </l>
+<l>who had made many vaunts, and was mindful of verses, </l>
+<l>stored with sagas and songs of old, </l>
+<l>bound word to word in well-knit rime, </l>
+<l>welded his lay; this warrior soon </l>
+<l>of Beowulf's quest right cleverly sang, </l>
+<l>and artfully added an excellent tale, </l>
+<l>in well-ranged words, of the warlike deeds </l>
+<l>he had heard in saga of Sigemund. </l>
+<l>Strange the story: he said it all, &mdash; </l>
+<l>the Waelsing's wanderings wide, his struggles, </l>
+<l>which never were told to tribes of men,</l>
+
+<pb n="30"/>
+
+<l>the feuds and the frauds, save to Fitela only, </l>
+<l>when of these doings he deigned to speak, </l>
+<l>uncle to nephew; as ever the twain </l>
+<l>stood side by side in stress of war, </l>
+<l>and multitude of the monster kind </l>
+<l>they had felled with their swords. Of Sigemund grew,</l>
+<l>when he passed from life, no little praise; </l>
+<l>for the doughty-in-combat a dragon killed </l>
+<l>that herded the hoard:<ref target="n13.1">[1]</ref> under hoary rock </l>
+<l>the atheling dared the deed alone </l>
+<l>fearful quest, nor was Fitela there. </l>
+<l>Yet so it befell, his falchion pierced </l>
+<l>that wondrous worm, &mdash; on the wall it struck, </l>
+<l>best blade; the dragon died in its blood. </l>
+<l>Thus had the dread-one by daring achieved </l>
+<l>over the ring-hoard to rule at will, </l>
+<l>himself to pleasure; a sea-boat he loaded, </l>
+<l>and bore on its bosom the beaming gold, </l>
+<l>son of Waels; the worm was consumed. </l>
+<l>He had of all heroes the highest renown </l>
+<l>among races of men, this refuge-of-warriors, </l>
+<l>for deeds of daring that decked his name </l>
+<l>since the hand and heart of Heremod </l>
+<l>grew slack in battle. He, swiftly banished </l>
+<l>to mingle with monsters at mercy of foes, </l>
+<l>to death was betrayed; for torrents of sorrow </l>
+<l>had lamed him too long; a load of care </l>
+<l>to earls and athelings all he proved. </l>
+<l>Oft indeed, in earlier days, </l>
+<l>for the warrior's wayfaring wise men mourned, </l>
+<l>who had hoped of him help from harm and bale, </l>
+<l>and had thought their sovran's son would thrive, </l>
+<l>follow his father, his folk protect, </l>
+<l>the hoard and the stronghold, heroes' land, </l>
+<l>home of Scyldings. &mdash; But here, thanes said, </l>
+<l>the kinsman of Hygelac kinder seemed </l>
+<l>to all: the other<ref target="n13.2">[2]</ref> was urged to crime!</l>
+
+<pb n="31"/>
+
+<l>  And afresh to the race,<ref target="n13.3">[3]</ref> the fallow roads </l>
+<l>by swift steeds measured! The morning sun </l>
+<l>was climbing higher. Clansmen hastened </l>
+<l>to the high-built hall, those hardy-minded, </l>
+<l>the wonder to witness. Warden of treasure, </l>
+<l>crowned with glory, the king himself, </l>
+<l>with stately band from the bride-bower strode; </l>
+<l>and with him the queen and her crowd of maidens </l>
+<l>measured the path to the mead-house fair. </l>
+</lg>
+<note id="n13.1"><seg type="note-symbol">[1]</seg> <p>"Guarded the treasure."</p></note>
+<note id="n13.2"><seg type="note-symbol">[2]</seg> <p>Sc. Heremod.</p></note>
+<note id="n13.3"><seg type="note-symbol">[3]</seg> <p>The singer has sung his lays, and the epic resumes its story. The
+time-relations are not altogether good in this long passage which describes
+the rejoicings of "the day after"; but the present shift from the riders
+on the road to the folk at the hall is not very violent, and is of a piece
+with the general style.</p></note>
+
+
+</div2>
+<div2 type="section" n="14" id="d18">
+<head>XIV</head>
+<lg type="stanza" n="18">
+
+<l>HROTHGAR spake, &mdash; to the hall he went, </l>
+<l>stood by the steps, the steep roof saw, </l>
+<l>garnished with gold, and Grendel's hand:&mdash; </l>
+<l>"For the sight I see to the Sovran Ruler </l>
+<l>be speedy thanks! A throng of sorrows </l>
+<l>I have borne from Grendel; but God still works </l>
+<l>wonder on wonder, the Warden-of-Glory. </l>
+<l>It was but now that I never more </l>
+<l>for woes that weighed on me waited help </l>
+<l>long as I lived, when, laved in blood, </l>
+<l>stood sword-gore-stained this stateliest house, &mdash; </l>
+<l>widespread woe for wise men all, </l>
+<l>who had no hope to hinder ever </l>
+<l>foes infernal and fiendish sprites </l>
+<l>from havoc in hall. This hero now, </l>
+<l>by the Wielder's might, a work has done </l>
+<l>that not all of us erst could ever do </l>
+<l>by wile and wisdom. Lo, well can she say </l>
+<l>whoso of women this warrior bore </l>
+<l>among sons of men, if still she liveth, </l>
+<l>that the God of the ages was good to her </l>
+<l>in the birth of her bairn. Now, Beowulf, thee, </l>
+<l>of heroes best, I shall heartily love </l>
+<l>as mine own, my son; preserve thou ever</l>
+
+<pb n="32"/>
+
+<l>this kinship new: thou shalt never lack </l>
+<l>wealth of the world that I wield as mine! </l>
+<l>Full oft for less have I largess showered, </l>
+<l>my precious hoard, on a punier man, </l>
+<l>less stout in struggle. Thyself hast now </l>
+<l>fulfilled such deeds, that thy fame shall endure </l>
+<l>through all the ages. As ever he did, </l>
+<l>well may the Wielder reward thee still!" </l>
+<l>Beowulf spake, bairn of Ecgtheow:&mdash; </l>
+<l>"This work of war most willingly </l>
+<l>we have fought, this fight, and fearlessly dared </l>
+<l>force of the foe. Fain, too, were I </l>
+<l>hadst thou but seen himself, what time </l>
+<l>the fiend in his trappings tottered to fall! </l>
+<l>Swiftly, I thought, in strongest gripe </l>
+<l>on his bed of death to bind him down, </l>
+<l>that he in the hent of this hand of mine </l>
+<l>should breathe his last: but he broke away. </l>
+<l>Him I might not &mdash; the Maker willed not &mdash; </l>
+<l>hinder from flight, and firm enough hold </l>
+<l>the life-destroyer: too sturdy was he, </l>
+<l>the ruthless, in running! For rescue, however, </l>
+<l>he left behind him his hand in pledge, </l>
+<l>arm and shoulder; nor aught of help </l>
+<l>could the cursed one thus procure at all. </l>
+<l>None the longer liveth he, loathsome fiend, </l>
+<l>sunk in his sins, but sorrow holds him </l>
+<l>tightly grasped in gripe of anguish, </l>
+<l>in baleful bonds, where bide he must, </l>
+<l>evil outlaw, such awful doom </l>
+<l>as the Mighty Maker shall mete him out." </l>
+</lg>
+<lg type="stanza" n="19">
+<l>  More silent seemed the son of Ecglaf<ref target="n14.1">[1]</ref> </l>
+<l>in boastful speech of his battle-deeds, </l>
+<l>since athelings all, through the earl's great prowess, </l>
+<l>beheld that hand, on the high roof gazing, </l>
+<l>foeman's fingers, &mdash; the forepart of each </l>
+<l>of the sturdy nails to steel was likest, &mdash; </l>
+<l>heathen's "hand-spear," hostile warrior's</l>
+
+<pb n="33"/>
+
+<l>claw uncanny. 'Twas clear, they said, </l>
+<l>that him no blade of the brave could touch, </l>
+<l>how keen soever, or cut away </l>
+<l>that battle-hand bloody from baneful foe. </l>
+</lg>
+<note id="n14.1"><seg type="note-symbol">[1]</seg> <p>Unferth, Beowulf's sometime opponent in the flyting.</p></note>
+
+</div2>
+<div2 type="section" n="15" id="d19">
+<head>XV</head>
+<lg type="stanza" n="20">
+
+<l>THERE was hurry and hest in Heorot now </l>
+<l>for hands to bedeck it, and dense was the throng </l>
+<l>of men and women the wine-hall to cleanse, </l>
+<l>the guest-room to garnish. Gold-gay shone the hangings </l>
+<l>that were wove on the wall, and wonders many </l>
+<l>to delight each mortal that looks upon them. </l>
+<l>Though braced within by iron bands, </l>
+<l>that building bright was broken sorely;<ref target="n15.1">[1]</ref> </l>
+<l>rent were its hinges; the roof alone </l>
+<l>held safe and sound, when, seared with crime, </l>
+<l>the fiendish foe his flight essayed, </l>
+<l>of life despairing. &mdash; No light thing that, </l>
+<l>the flight for safety, &mdash; essay it who will! </l>
+<l>Forced of fate, he shall find his way </l>
+<l>to the refuge ready for race of man, </l>
+<l>for soul-possessors, and sons of earth; </l>
+<l>and there his body on bed of death </l>
+<l>shall rest after revel. </l>
+<l>                                 Arrived was the hour </l>
+<l>when to hall proceeded Healfdene's son: </l>
+<l>the king himself would sit to banquet. </l>
+<l>Ne'er heard I of host in haughtier throng </l>
+<l>more graciously gathered round giver-of-rings! </l>
+<l>Bowed then to bench those bearers-of-glory, </l>
+<l>fain of the feasting. Featly received </l>
+<l>many a mead-cup the mighty-in-spirit, </l>
+<l>kinsmen who sat in the sumptuous hall, </l>
+<l>Hrothgar and Hrothulf. Heorot now</l>
+
+<pb n="34"/>
+
+<l>was filled with friends; the folk of Scyldings </l>
+<l>ne'er yet had tried the traitor's deed. </l>
+<l>  To Beowulf gave the bairn of Healfdene </l>
+<l>a gold-wove banner, guerdon of triumph, </l>
+<l>broidered battle-flag, breastplate and helmet; </l>
+<l>and a splendid sword was seen of many </l>
+<l>borne to the brave one. Beowulf took </l>
+<l>cup in hall:<ref target="n15.2">[2]</ref> for such costly gifts </l>
+<l>he suffered no shame in that soldier throng. </l>
+<l>For I heard of few heroes, in heartier mood, </l>
+<l>with four such gifts, so fashioned with gold, </l>
+<l>on the ale-bench honoring others thus! </l>
+<l>O'er the roof of the helmet high, a ridge, </l>
+<l>wound with wires, kept ward o'er the head, </l>
+<l>lest the relict-of-files<ref target="n15.3">[3]</ref> should fierce invade, </l>
+<l>sharp in the strife, when that shielded hero </l>
+<l>should go to grapple against his foes. </l>
+<l>Then the earls'-defence<ref target="n15.4">[4]</ref> on the floor<ref target="n15.5">[5]</ref> bade lead </l>
+<l>coursers eight, with carven head-gear, </l>
+<l>adown the hall: one horse was decked </l>
+<l>with a saddle all shining and set in jewels; </l>
+<l>'twas the battle-seat of the best of kings, </l>
+<l>when to play of swords the son of Healfdene </l>
+<l>was fain to fare. Ne'er failed his valor </l>
+<l>in the crush of combat when corpses fell. </l>
+<l>To Beowulf over them both then gave </l>
+<l>the refuge-of-Ingwines right and power, </l>
+<l>o'er war-steeds and weapons: wished him joy of them. </l>
+<l>Manfully thus the mighty prince, </l>
+<l>hoard-guard for heroes, that hard fight repaid </l>
+<l>with steeds and treasures contemned by none </l>
+<l>who is willing to say the sooth aright.</l>
+
+<pb n="35"/>
+</lg>
+
+<note id="n15.1"><seg type="note-symbol">[1]</seg> <p>There is no horrible inconsistency here such as the critics strive and
+cry about. In spite of the ruin that Grendel and Beowulf had made within
+the hall, the framework and roof held firm, and swift repairs made the
+interior habitable. Tapestries were hung on the walls, and willing hands
+prepared the banquet.</p></note>
+<note id="n15.2"><seg type="note-symbol">[2]</seg> <p>From its formal use in other places, this phrase, to take cup in hall,
+or "on the floor," would seem to mean that Beowulf stood up to receive
+his gifts, drink to the donor, and say thanks.</p></note>
+<note id="n15.3"><seg type="note-symbol">[3]</seg> <p>Kenning for sword.</p></note>
+<note id="n15.4"><seg type="note-symbol">[4]</seg> <p>Hrothgar. He is also the "refuge of the friends of Ing," below. Ing
+belongs to myth.</p></note>
+<note id="n15.5"><seg type="note-symbol">[5]</seg> <p>Horses are frequently led or ridden into the hall where folk sit at
+banquet: so in Chaucer's Squire's tale, in the ballad of King Estmere, and
+in the romances.</p></note>
+
+</div2>
+<div2 type="section" n="16" id="d20">
+<head>XVI</head>
+<lg type="stanza" n="21">
+
+<l>AND the lord of earls, to each that came </l>
+<l>with Beowulf over the briny ways, </l>
+<l>an heirloom there at the ale-bench gave, </l>
+<l>precious gift; and the price<ref target="n16.1">[1]</ref> bade pay </l>
+<l>in gold for him whom Grendel erst </l>
+<l>murdered, &mdash; and fain of them more had killed, </l>
+<l>had not wisest God their Wyrd averted, </l>
+<l>and the man's<ref target="n16.2">[2]</ref> brave mood. The Maker then </l>
+<l>ruled human kind, as here and now. </l>
+<l>Therefore is insight always best, </l>
+<l>and forethought of mind. How much awaits him </l>
+<l>of lief and of loath, who long time here, </l>
+<l>through days of warfare this world endures! </l>
+</lg>
+<lg type="stanza" n="22">
+<l>Then song and music mingled sounds </l>
+<l>in the presence of Healfdene's head-of-armies<ref target="n16.3">[3]</ref> </l>
+<l>and harping was heard with the hero-lay </l>
+<l>as Hrothgar's singer the hall-joy woke </l>
+<l>along the mead-seats, making his song </l>
+<l>of that sudden raid on the sons of Finn.<ref target="n16.4">[4]</ref> </l>
+<l>  Healfdene's hero, Hnaef the Scylding, </l>
+<l>was fated to fall in the Frisian slaughter.<ref target="n16.5">[5]</ref> </l>
+<l>Hildeburh needed not hold in value</l>
+
+<pb n="36"/>
+
+<l>her enemies' honor!<ref target="n16.6">[6]</ref> Innocent both </l>
+<l>were the loved ones she lost at the linden-play, </l>
+<l>bairn and brother, they bowed to fate, </l>
+<l>stricken by spears; 'twas a sorrowful woman! </l>
+<l>None doubted why the daughter of Hoc </l>
+<l>bewailed her doom when dawning came, </l>
+<l>and under the sky she saw them lying, </l>
+<l>kinsmen murdered, where most she had kenned </l>
+<l>of the sweets of the world! By war were swept, too, </l>
+<l>Finn's own liegemen, and few were left; </l>
+<l>in the parleying-place<ref target="n16.7">[7]</ref> he could ply no longer </l>
+<l>weapon, nor war could he wage on Hengest, </l>
+<l>and rescue his remnant by right of arms </l>
+<l>from the prince's thane. A pact he offered: </l>
+<l>another dwelling the Danes should have, </l>
+<l>hall and high-seat, and half the power </l>
+<l>should fall to them in Frisian land; </l>
+<l>and at the fee-gifts, Folcwald's son </l>
+<l>day by day the Danes should honor, </l>
+<l>the folk of Hengest favor with rings, </l>
+<l>even as truly, with treasure and jewels, </l>
+<l>with fretted gold, as his Frisian kin </l>
+<l>he meant to honor in ale-hall there. </l>
+<l>Pact of peace they plighted further </l>
+<l>on both sides firmly. Finn to Hengest </l>
+<l>with oath, upon honor, openly promised </l>
+<l>that woful remnant, with wise-men's aid, </l>
+<l>nobly to govern, so none of the guests </l>
+<l>by word or work should warp the treaty,<ref target="n16.8">[8]</ref> </l>
+<l>or with malice of mind bemoan themselves </l>
+<l>as forced to follow their fee-giver's slayer, </l>
+<l>lordless men, as their lot ordained. </l>
+<l>Should Frisian, moreover, with foeman's taunt, </l>
+<l>that murderous hatred to mind recall, </l>
+<l>then edge of the sword must seal his doom.</l>
+
+<pb n="37"/>
+
+<l>Oaths were given, and ancient gold </l>
+<l>heaped from hoard. &mdash; The hardy Scylding, </l>
+<l>battle-thane best,<ref target="n16.9">[9]</ref> on his balefire lay. </l>
+<l>All on the pyre were plain to see </l>
+<l>the gory sark, the gilded swine-crest, </l>
+<l>boar of hard iron, and athelings many </l>
+<l>slain by the sword: at the slaughter they fell. </l>
+<l>It was Hildeburh's hest, at Hnaef's own pyre </l>
+<l>the bairn of her body on brands to lay, </l>
+<l>his bones to burn, on the balefire placed, </l>
+<l>at his uncle's side. In sorrowful dirges </l>
+<l>bewept them the woman: great wailing ascended. </l>
+<l>Then wound up to welkin the wildest of death-fires, </l>
+<l>roared o'er the hillock:<ref target="n16.10">[10]</ref> heads all were melted, </l>
+<l>gashes burst, and blood gushed out </l>
+<l>from bites<ref target="n16.11">[11]</ref> of the body. Balefire devoured, </l>
+<l>greediest spirit, those spared not by war </l>
+<l>out of either folk: their flower was gone. </l>
+</lg>
+<note id="n16.1"><seg type="note-symbol">[1]</seg> <p>Man-price, wergild.</p></note>
+<note id="n16.2"><seg type="note-symbol">[2]</seg> <p>Beowulf's.</p></note>
+<note id="n16.3"><seg type="note-symbol">[3]</seg> <p>Hrothgar.</p></note>
+<note id="n16.4"><seg type="note-symbol">[4]</seg> <p>There is no need to assume a gap in the Ms. As before about Sigemund
+and Heremod, so now, though at greater length, about Finn and his feud,
+a lay is chanted or recited; and the epic poet, counting on his readers'
+familiarity with the story, &mdash; a fragment of it still exists, &mdash;
+simply gives the headings.</p></note>
+<note id="n16.5"><seg type="note-symbol">[5]</seg> <p>The exact story to which this episode refers in summary is not to be
+determined, but the following account of it is reasonable and has good
+support among scholars. Finn, a Frisian chieftain, who nevertheless has
+a "castle" outside the Frisian border, marries Hildeburh, a Danish prin-cess; and her brother, Hnaef, with many other Danes, pays Finn a visit.
+Relations between the two peoples have been strained before. Something
+starts the old feud anew; and the visitors are attacked in their quarters.
+Hnaef is killed; so is a son of Hildeburh. Many fall on both sides. Peace
+is patched up; a stately funeral is held; and the surviving visitors become
+in a way vassals or liegemen of Finn, going back with him to Frisia. So
+matters rest a while. Hengest is now leader of the Danes; but he is set
+upon revenge for his former lord, Hnaef. Probably he is killed in feud;
+but his clansmen, Guthlaf and Oslaf, gather at their home a force of
+sturdy Danes, come back to Frisia, storm Finn's stronghold, kill him, and
+carry back their kinswoman Hildeburh.</p></note>
+<note id="n16.6"><seg type="note-symbol">[6]</seg> <p>The "enemies" must be the Frisians.</p></note>
+<note id="n16.7"><seg type="note-symbol">[7]</seg> <p>Battlefield. &mdash; Hengest is the "prince's thane," companion of Hnaef.
+"Folcwald's son" is Finn.</p></note>
+<note id="n16.8"><seg type="note-symbol">[8]</seg> <p>That is, Finn would govern in all honor the few Danish warriors who
+were left, provided, of course, that none of them tried to renew the quarrel
+or avenge Hnaef their fallen lord. If, again, one of Finn's Frisians began
+a quarrel, he should die by the sword.</p></note>
+<note id="n16.9"><seg type="note-symbol">[9]</seg> <p>Hnaef.</p></note>
+<note id="n16.10"><seg type="note-symbol">[10]</seg> <p>The high place chosen for the funeral: see description of Beowulf's
+funeral-pile at the end of the poem.</p></note>
+<note id="n16.11"><seg type="note-symbol">[11]</seg> <p>Wounds.</p></note>
+
+</div2>
+<div2 type="section" n="17" id="d21">
+<head>XVII</head>
+<lg type="stanza" n="23">
+
+<l>THEN hastened those heroes their home to see, </l>
+<l>friendless, to find the Frisian land, </l>
+<l>houses and high burg. Hengest still </l>
+<l>through the death-dyed winter dwelt with Finn, </l>
+<l>holding pact, yet of home he minded, </l>
+<l>though powerless his ring-decked prow to drive </l>
+<l>over the waters, now waves rolled fierce </l>
+<l>lashed by the winds, or winter locked them </l>
+<l>in icy fetters. Then fared another </l>
+<l>year to men's dwellings, as yet they do, </l>
+<l>the sunbright skies, that their season ever </l>
+<l>duly await. Far off winter was driven; </l>
+<l>fair lay earth's breast; and fain was the rover, </l>
+<l>the guest, to depart, though more gladly he pondered </l>
+<l>on wreaking his vengeance than roaming the deep, </l>
+<l>and how to hasten the hot encounter</l>
+
+<pb n="38"/>
+
+<l>where sons of the Frisians were sure to be. </l>
+<l>So he escaped not the common doom, </l>
+<l>when Hun with "Lafing," the light-of-battle, </l>
+<l>best of blades, his bosom pierced: </l>
+<l>its edge was famed with the Frisian earls. </l>
+<l>On fierce-heart Finn there fell likewise, </l>
+<l>on himself at home, the horrid sword-death; </l>
+<l>for Guthlaf and Oslaf of grim attack </l>
+<l>had sorrowing told, from sea-ways landed, </l>
+<l>mourning their woes.<ref target="n17.1">[1]</ref> Finn's wavering spirit </l>
+<l>bode not in breast. The burg was reddened </l>
+<l>with blood of foemen, and Finn was slain, </l>
+<l>king amid clansmen; the queen was taken. </l>
+<l>To their ship the Scylding warriors bore </l>
+<l>all the chattels the chieftain owned, </l>
+<l>whatever they found in Finn's domain </l>
+<l>of gems and jewels. The gentle wife </l>
+<l>o'er paths of the deep to the Danes they bore, </l>
+<l>led to her land. </l>
+<l>                          The lay was finished, </l>
+<l>the gleeman's song. Then glad rose the revel; </l>
+<l>bench-joy brightened. Bearers draw </l>
+<l>from their "wonder-vats" wine. Comes Wealhtheow forth, </l>
+<l>under gold-crown goes where the good pair sit, </l>
+<l>uncle and nephew, true each to the other one, </l>
+<l>kindred in amity. Unferth the spokesman </l>
+<l>at the Scylding lord's feet sat: men had faith in his spirit, </l>
+<l>his keenness of courage, though kinsmen had found him</l>
+<l>unsure at the sword-play. The Scylding queen spoke: </l>
+<l>"Quaff of this cup, my king and lord, </l>
+<l>breaker of rings, and blithe be thou, </l>
+<l>gold-friend of men; to the Geats here speak </l>
+<l>such words of mildness as man should use. </l>
+<l>Be glad with thy Geats; of those gifts be mindful, </l>
+<l>or near or far, which now thou hast.</l>
+
+<pb n="39"/>
+
+<l>Men say to me, as son thou wishest </l>
+<l>yon hero to hold. Thy Heorot purged, </l>
+<l>jewel-hall brightest, enjoy while thou canst, </l>
+<l>with many a largess; and leave to thy kin </l>
+<l>folk and realm when forth thou goest </l>
+<l>to greet thy doom. For gracious I deem </l>
+<l>my Hrothulf,<ref target="n17.2">[2]</ref> willing to hold and rule </l>
+<l>nobly our youths, if thou yield up first, </l>
+<l>prince of Scyldings, thy part in the world. </l>
+<l>I ween with good he will well requite </l>
+<l>offspring of ours, when all he minds </l>
+<l>that for him we did in his helpless days </l>
+<l>of gift and grace to gain him honor!" </l>
+<l>Then she turned to the seat where her sons wereplaced,  </l>
+
+<l>Hrethric and Hrothmund, with heroes' bairns, </l>
+<l>young men together: the Geat, too, sat there, </l>
+<l>Beowulf brave, the brothers between. </l>
+</lg>
+<note id="n17.1"><seg type="note-symbol">[1]</seg> <p>That is, these two Danes, escaping home, had told the story of the
+attack on Hnaef, the slaying of Hengest, and all the Danish woes. Collect-ing a force, they return to Frisia and kill Finn in his home.</p></note>
+<note id="n17.2"><seg type="note-symbol">[2]</seg> <p>Nephew to Hrothgar, with whom he subsequently quarrels, and elder
+cousin to the two young sons of Hrothgar and Wealhtheow, &mdash; their natural
+guardian in the event of the king's death. There is something finely femi-nine in this speech of Wealhtheow's, apart from its somewhat irregular and
+irrelevant sequence of topics. Both she and her lord probably distrust
+Hrothulf; but she bids the king to be of good cheer, and, turning to the
+suspect, heaps affectionate assurances on his probity. "My own Hrothulf"
+will surely not forget these favors and benefits of the past, but will repay
+them to the orphaned boy.</p></note>
+</div2>
+<div2 type="section" n="18" id="d22">
+<head>XVIII</head>
+<lg type="stanza" n="24">
+
+<l>A CUP she gave him, with kindly greeting </l>
+<l>and winsome words. Of wounden gold, </l>
+<l>she offered, to honor him, arm-jewels twain, </l>
+<l>corselet and rings, and of collars the noblest </l>
+<l>that ever I knew the earth around. </l>
+<l>Ne'er heard I so mighty, 'neath heaven's dome, </l>
+<l>a hoard-gem of heroes, since Hama bore </l>
+<l>to his bright-built burg the Brisings' necklace, </l>
+<l>jewel and gem casket. &mdash; Jealousy fled he, </l>
+<l>Eormenric's hate: chose help eternal. </l>
+<l>Hygelac Geat, grandson of Swerting, </l>
+<l>on the last of his raids this ring bore with him, </l>
+
+<pb n="40"/>
+
+<l>under his banner the booty defending, </l>
+<l>the war-spoil warding; but Wyrd o'erwhelmed him </l>
+<l>what time, in his daring, dangers he sought, </l>
+<l>feud with Frisians. Fairest of gems </l>
+<l>he bore with him over the beaker-of-waves, </l>
+<l>sovran strong: under shield he died. </l>
+<l>Fell the corpse of the king into keeping of Franks, </l>
+<l>gear of the breast, and that gorgeous ring; </l>
+<l>weaker warriors won the spoil, </l>
+<l>after gripe of battle, from Geatland's lord, </l>
+<l>and held the death-field. </l>
+<l>                          Din rose in hall. </l>
+<l>Wealhtheow spake amid warriors, and said:&mdash; </l>
+<l>"This jewel enjoy in thy jocund youth, </l>
+<l>Beowulf lov'd, these battle-weeds wear, </l>
+<l>a royal treasure, and richly thrive! </l>
+<l>Preserve thy strength, and these striplings here </l>
+<l>counsel in kindness: requital be mine. </l>
+<l>Hast done such deeds, that for days to come </l>
+<l>thou art famed among folk both far and near, </l>
+<l>so wide as washeth the wave of Ocean </l>
+<l>his windy walls. Through the ways of life </l>
+<l>prosper, O prince! I pray for thee </l>
+<l>rich possessions. To son of mine </l>
+<l>be helpful in deed and uphold his joys! </l>
+<l>Here every earl to the other is true, </l>
+<l>mild of mood, to the master loyal! </l>
+<l>Thanes are friendly, the throng obedient, </l>
+<l>liegemen are revelling: list and obey!" </l>
+<l>  Went then to her place. &mdash; That was proudest of feasts; </l>
+<l>flowed wine for the warriors. Wyrd they knew not, </l>
+<l>destiny dire, and the doom to be seen </l>
+<l>by many an earl when eve should come, </l>
+<l>and Hrothgar homeward hasten away, </l>
+<l>royal, to rest. The room was guarded </l>
+<l>by an army of earls, as erst was done. </l>
+<l>They bared the bench-boards; abroad they spread </l>
+<l>beds and bolsters. &mdash; One beer-carouser </l>
+<l>in danger of doom lay down in the hall. &mdash;</l>
+
+<pb n="41"/>
+
+<l>At their heads they set their shields of war, </l>
+<l>bucklers bright; on the bench were there </l>
+<l>over each atheling, easy to see, </l>
+<l>the high battle-helmet, the haughty spear, </l>
+<l>the corselet of rings. 'Twas their custom so </l>
+<l>ever to be for battle prepared, </l>
+<l>at home, or harrying, which it were, </l>
+<l>even as oft as evil threatened </l>
+<l>their sovran king. &mdash; They were clansmen good. </l>
+
+</lg></div2>
+<div2 type="section" n="19" id="d23">
+<head>XIX</head>
+<lg type="stanza" n="25">
+
+<l>  THEN sank they to sleep. With sorrow one bought </l>
+<l>his rest of the evening, &mdash; as ofttime had happened </l>
+<l>when Grendel guarded that golden hall, </l>
+<l>evil wrought, till his end drew nigh, </l>
+<l>slaughter for sins. 'Twas seen and told </l>
+<l>how an avenger survived the fiend, </l>
+<l>as was learned afar. The livelong time </l>
+<l>after that grim fight, Grendel's mother, </l>
+<l>monster of women, mourned her woe. </l>
+<l>She was doomed to dwell in the dreary waters, </l>
+<l>cold sea-courses, since Cain cut down </l>
+<l>with edge of the sword his only brother, </l>
+<l>his father's offspring: outlawed he fled, </l>
+<l>marked with murder, from men's delights </l>
+<l>warded the wilds. &mdash; There woke from him </l>
+<l>such fate-sent ghosts as Grendel, who, </l>
+<l>war-wolf horrid, at Heorot found </l>
+<l>a warrior watching and waiting the fray, </l>
+<l>with whom the grisly one grappled amain. </l>
+<l>But the man remembered his mighty power, </l>
+<l>the glorious gift that God had sent him, </l>
+<l>in his Maker's mercy put his trust </l>
+<l>for comfort and help: so he conquered the foe, </l>
+<l>felled the fiend, who fled abject, </l>
+<l>reft of joy, to the realms of death, </l>
+<l>mankind's foe. And his mother now, </l>
+<l>gloomy and grim, would go that quest</l>
+
+<pb n="42"/>
+
+<l>of sorrow, the death of her son to avenge. </l>
+<l>To Heorot came she, where helmeted Danes </l>
+<l>slept in the hall. Too soon came back </l>
+<l>old ills of the earls, when in she burst, </l>
+<l>the mother of Grendel. Less grim, though, that terror, </l>
+<l>e'en as terror of woman in war is less, </l>
+<l>might of maid, than of men in arms </l>
+<l>when, hammer-forged, the falchion hard, </l>
+<l>sword gore-stained, through swine of the helm, </l>
+<l>crested, with keen blade carves amain. </l>
+<l>Then was in hall the hard-edge drawn, </l>
+<l>the swords on the settles,<ref target="n19.1">[1]</ref> and shields a-many </l>
+<l>firm held in hand: nor helmet minded </l>
+<l>nor harness of mail, whom that horror seized. </l>
+<l>  Haste was hers; she would hie afar </l>
+<l>and save her life when the liegemen saw her. </l>
+<l>Yet a single atheling up she seized </l>
+<l>fast and firm, as she fled to the moor. </l>
+<l>He was for Hrothgar of heroes the dearest, </l>
+<l>of trusty vassals betwixt the seas, </l>
+<l>whom she killed on his couch, a clansman famous, </l>
+<l>in battle brave. &mdash; Nor was Beowulf there; </l>
+<l>another house had been held apart, </l>
+<l>after giving of gold, for the Geat renowned. &mdash; </l>
+<l>Uproar filled Heorot; the hand all had viewed, </l>
+<l>blood-flecked, she bore with her; bale was returned, </l>
+<l>dole in the dwellings: 'twas dire exchange </l>
+<l>where Dane and Geat were doomed to give </l>
+<l>the lives of loved ones. Long-tried king, </l>
+<l>the hoary hero, at heart was sad </l>
+<l>when he knew his noble no more lived, </l>
+<l>and dead indeed was his dearest thane. </l>
+<l>To his bower was Beowulf brought in haste, </l>
+<l>dauntless victor. As daylight broke, </l>
+<l>along with his earls the atheling lord, </l>
+<l>with his clansmen, came where the king abode </l>
+<l>waiting to see if the Wielder-of-All </l>
+<l>would turn this tale of trouble and woe. </l>
+<l>Strode o'er floor the famed-in-strife,</l>
+
+<pb n="43"/>
+
+<l>with his hand-companions, &mdash; the hall resounded, &mdash; </l>
+<l>wishing to greet the wise old king, </l>
+<l>Ingwines' lord; he asked if the night </l>
+<l>had passed in peace to the prince's mind. </l>
+</lg>
+<note id="n19.1"><seg type="note-symbol">[1]</seg> <p>They had laid their arms on the benches near where they slept.</p></note>
+
+</div2>
+<div2 type="section" n="20" id="d24">
+<head>XX</head>
+<lg type="stanza" n="26">
+<l>HROTHGAR spake, helmet-of-Scyldings:&mdash; </l>
+<l>"Ask not of pleasure! Pain is renewed </l>
+<l>to Danish folk. Dead is Aeschere, </l>
+<l>of Yrmenlaf the elder brother, </l>
+<l>my sage adviser and stay in council, </l>
+<l>shoulder-comrade in stress of fight </l>
+<l>when warriors clashed and we warded our heads, </l>
+<l>hewed the helm-boars; hero famed </l>
+<l>should be every earl as Aeschere was! </l>
+<l>But here in Heorot a hand hath slain him </l>
+<l>of wandering death-sprite. I wot not whither,<ref target="n20.1">[1]</ref> </l>
+<l>proud of the prey, her path she took, </l>
+<l>fain of her fill. The feud she avenged </l>
+<l>that yesternight, unyieldingly, </l>
+<l>Grendel in grimmest grasp thou killedst, &mdash; </l>
+<l>seeing how long these liegemen mine </l>
+<l>he ruined and ravaged. Reft of life, </l>
+<l>in arms he fell. Now another comes, </l>
+<l>keen and cruel, her kin to avenge, </l>
+<l>faring far in feud of blood: </l>
+<l>so that many a thane shall think, who e'er </l>
+<l>sorrows in soul for that sharer of rings, </l>
+<l>this is hardest of heart-bales. The hand lies low </l>
+<l>that once was willing each wish to please. </l>
+<l>Land-dwellers here<ref target="n20.2">[2]</ref> and liegemen mine, </l>
+<l>who house by those parts, I have heard relate </l>
+<l>that such a pair they have sometimes seen,</l>
+
+<pb n="44"/>
+
+<l>march-stalkers mighty the moorland haunting, </l>
+<l>wandering spirits: one of them seemed, </l>
+<l>so far as my folk could fairly judge, </l>
+<l>of womankind; and one, accursed, </l>
+<l>in man's guise trod the misery-track </l>
+<l>of exile, though huger than human bulk. </l>
+<l>Grendel in days long gone they named him, </l>
+<l>folk of the land; his father they knew not, </l>
+<l>nor any brood that was born to him </l>
+<l>of treacherous spirits. Untrod is their home; </l>
+<l>by wolf-cliffs haunt they and windy headlands, </l>
+<l>fenways fearful, where flows the stream </l>
+<l>from mountains gliding to gloom of the rocks, </l>
+<l>underground flood. Not far is it hence </l>
+<l>in measure of miles that the mere expands, </l>
+<l>and o'er it the frost-bound forest hanging, </l>
+<l>sturdily rooted, shadows the wave. </l>
+<l>By night is a wonder weird to see, </l>
+<l>fire on the waters. So wise lived none </l>
+<l>of the sons of men, to search those depths! </l>
+<l>Nay, though the heath-rover, harried by dogs, </l>
+<l>the horn-proud hart, this holt should seek, </l>
+<l>long distance driven, his dear life first </l>
+<l>on the brink he yields ere he brave the plunge </l>
+<l>to hide his head: 'tis no happy place! </l>
+<l>Thence the welter of waters washes up </l>
+<l>wan to welkin when winds bestir </l>
+<l>evil storms, and air grows dusk, </l>
+<l>and the heavens weep. Now is help once more </l>
+<l>with thee alone! The land thou knowst not, </l>
+<l>place of fear, where thou findest out </l>
+<l>that sin-flecked being. Seek if thou dare! </l>
+<l>I will reward thee, for waging this fight, </l>
+<l>with ancient treasure, as erst I did, </l>
+<l>with winding gold, if thou winnest back." </l>
+ </lg>
+<note id="n20.1"><seg type="note-symbol">[1]</seg> <p>He surmises presently where she is.</p></note>
+<note id="n20.2"><seg type="note-symbol">[2]</seg> <p>The connection is not difficult. The words of mourning, of acute grief,
+are said; and according to Germanic sequence of thought, inexorable here,
+the next and only topic is revenge. But is it possible? Hrothgar leads up
+to his appeal and promise with a skillful and often effective description of
+the horrors which surround the monster's home and await the attempt of
+an avenging foe.</p></note>
+
+</div2>
+<div2 type="section" n="21" id="d25">
+<head>XXI</head>
+<lg type="stanza" n="27">
+<l>BEOWULF spake, bairn of Ecgtheow: </l>
+<l>"Sorrow not, sage! It beseems us better</l>
+
+<pb n="45"/>
+
+<l>friends to avenge than fruitlessly mourn them. </l>
+<l>Each of us all must his end abide </l>
+<l>in the ways of the world; so win who may </l>
+<l>glory ere death! When his days are told, </l>
+<l>that is the warrior's worthiest doom. </l>
+<l>Rise, O realm-warder! Ride we anon, </l>
+<l>and mark the trail of the mother of Grendel. </l>
+<l>No harbor shall hide her &mdash; heed my promise! &mdash; </l>
+<l>enfolding of field or forested mountain </l>
+<l>or floor of the flood, let her flee where she will! </l>
+<l>But thou this day endure in patience, </l>
+<l>as I ween thou wilt, thy woes each one." </l>
+<l>Leaped up the graybeard: God he thanked, </l>
+<l>mighty Lord, for the man's brave words. </l>
+<l>For Hrothgar soon a horse was saddled </l>
+<l>wave-maned steed. The sovran wise </l>
+<l>stately rode on; his shield-armed men </l>
+<l>followed in force. The footprints led </l>
+<l>along the woodland, widely seen, </l>
+<l>a path o'er the plain, where she passed, and trod </l>
+<l>the murky moor; of men-at-arms </l>
+<l>she bore the bravest and best one, dead, </l>
+<l>him who with Hrothgar the homestead ruled. </l>
+<l>  On then went the atheling-born </l>
+<l>o'er stone-cliffs steep and strait defiles, </l>
+<l>narrow passes and unknown ways, </l>
+<l>headlands sheer, and the haunts of the Nicors. </l>
+<l>Foremost he<ref target="n21.1">[1]</ref> fared, a few at his side </l>
+<l>of the wiser men, the ways to scan, </l>
+<l>till he found in a flash the forested hill </l>
+<l>hanging over the hoary rock, </l>
+<l>a woful wood: the waves below </l>
+<l>were dyed in blood. The Danish men </l>
+<l>had sorrow of soul, and for Scyldings all, </l>
+<l>for many a hero, 'twas hard to bear, </l>
+<l>ill for earls, when Aeschere's head </l>
+<l>they found by the flood on the foreland there. </l>
+<l>Waves were welling, the warriors saw, </l>
+<l>hot with blood; but the horn sang oft</l>
+
+<pb n="46"/>
+
+<l>battle-song bold. The band sat down, </l>
+<l>and watched on the water worm-like things, </l>
+<l>sea-dragons strange that sounded the deep, </l>
+<l>and nicors that lay on the ledge of the ness &mdash; </l>
+<l>such as oft essay at hour of morn </l>
+<l>on the road-of-sails their ruthless quest, &mdash; </l>
+<l>and sea-snakes and monsters. These started away, </l>
+<l>swollen and savage that song to hear, </l>
+<l>that war-horn's blast. The warden of Geats, </l>
+<l>with bolt from bow, then balked of life, </l>
+<l>of wave-work, one monster, amid its heart </l>
+<l>went the keen war-shaft; in water it seemed </l>
+<l>less doughty in swimming whom death had seized. </l>
+<l>Swift on the billows, with boar-spears well </l>
+<l>hooked and barbed, it was hard beset, </l>
+<l>done to death and dragged on the headland, </l>
+<l>wave-roamer wondrous. Warriors viewed </l>
+<l>the grisly guest. </l>
+<l>                        Then girt him Beowulf </l>
+<l>in martial mail, nor mourned for his life. </l>
+<l>His breastplate broad and bright of hues, </l>
+<l>woven by hand, should the waters try; </l>
+<l>well could it ward the warrior's body </l>
+<l>that battle should break on his breast in vain </l>
+<l>nor harm his heart by the hand of a foe. </l>
+<l>And the helmet white that his head protected </l>
+<l>was destined to dare the deeps of the flood, </l>
+<l>through wave-whirl win: 'twas wound with chains, </l>
+<l>decked with gold, as in days of yore </l>
+<l>the weapon-smith worked it wondrously, </l>
+<l>with swine-forms set it, that swords nowise, </l>
+<l>brandished in battle, could bite that helm. </l>
+<l>Nor was that the meanest of mighty helps </l>
+<l>which Hrothgar's orator offered at need: </l>
+<l>"Hrunting" they named the hilted sword, </l>
+<l>of old-time heirlooms easily first; </l>
+<l>iron was its edge, all etched with poison, </l>
+<l>with battle-blood hardened, nor blenched it at fight </l>
+<l>in hero's hand who held it ever, </l>
+<l>on paths of peril prepared to go</l>
+
+<pb n="47"/>
+
+<l>to folkstead<ref target="n21.2">[2]</ref> of foes. Not first time this </l>
+<l>it was destined to do a daring task. </l>
+<l>For he bore not in mind, the bairn of Ecglaf </l>
+<l>sturdy and strong, that speech he had made, </l>
+<l>drunk with wine, now this weapon he lent </l>
+<l>to a stouter swordsman. Himself, though, durst not </l>
+<l>under welter of waters wager his life </l>
+<l>as loyal liegeman. So lost he his glory, </l>
+<l>honor of earls. With the other not so, </l>
+<l>who girded him now for the grim encounter. </l>
+ </lg>
+<note id="n21.1"><seg type="note-symbol">[1]</seg> <p>Hrothgar is probably meant.</p></note>
+<note id="n21.2"><seg type="note-symbol">[2]</seg> <p>Meeting place.</p></note>
+
+</div2>
+<div2 type="section" n="22" id="d26">
+<head>XXII</head>
+<lg type="stanza" n="28">
+<l>BEOWULF spake, bairn of Ecgtheow:&mdash; </l>
+<l>"Have mind, thou honored offspring of Healfdene </l>
+<l>gold-friend of men, now I go on this quest, </l>
+<l>sovran wise, what once was said: </l>
+<l>if in thy cause it came that I </l>
+<l>should lose my life, thou wouldst loyal bide </l>
+<l>to me, though fallen, in father's place! </l>
+<l>Be guardian, thou, to this group of my thanes, </l>
+<l>my warrior-friends, if War should seize me; </l>
+<l>and the goodly gifts thou gavest me, </l>
+<l>Hrothgar beloved, to Hygelac send! </l>
+<l>Geatland's king may ken by the gold, </l>
+<l>Hrethel's son see, when he stares at the treasure, </l>
+<l>that I got me a friend for goodness famed, </l>
+<l>and joyed while I could in my jewel-bestower. </l>
+<l>And let Unferth wield this wondrous sword, </l>
+<l>earl far-honored, this heirloom precious, </l>
+<l>hard of edge: with Hrunting I </l>
+<l>seek doom of glory, or Death shall take me." </l>
+</lg>
+<lg type="stanza" n="29">
+<l>After these words the Weder-Geat lord </l>
+<l>boldly hastened, biding never </l>
+<l>answer at all: the ocean floods </l>
+<l>closed o'er the hero. Long while of the day </l>
+<l>fled ere he felt the floor of the sea.</l>
+
+<pb n="48"/>
+
+
+<l>Soon found the fiend who the flood-domain </l>
+<l>sword-hungry held these hundred winters, </l>
+<l>greedy and grim, that some guest from above, </l>
+<l>some man, was raiding her monster-realm. </l>
+<l>She grasped out for him with grisly claws, </l>
+<l>and the warrior seized; yet scathed she not </l>
+<l>his body hale; the breastplate hindered, </l>
+<l>as she strove to shatter the sark of war, </l>
+<l>the linked harness, with loathsome hand. </l>
+<l>Then bore this brine-wolf, when bottom she touched, </l>
+<l>the lord of rings to the lair she haunted </l>
+<l>whiles vainly he strove, though his valor held, </l>
+<l>weapon to wield against wondrous monsters </l>
+<l>that sore beset him; sea-beasts many </l>
+<l>tried with fierce tusks to tear his mail, </l>
+<l>and swarmed on the stranger. But soon he marked </l>
+<l>he was now in some hall, he knew not which, </l>
+<l>where water never could work him harm, </l>
+<l>nor through the roof could reach him ever </l>
+<l>fangs of the flood. Firelight he saw, </l>
+<l>beams of a blaze that brightly shone. </l>
+<l>Then the warrior was ware of that wolf-of-the-deep, </l>
+<l>mere-wife monstrous. For mighty stroke </l>
+<l>he swung his blade, and the blow withheld not. </l>
+<l>Then sang on her head that seemly blade </l>
+<l>its war-song wild. But the warrior found </l>
+<l>the light-of-battle<ref target="n22.1">[1]</ref> was loath to bite, </l>
+<l>to harm the heart: its hard edge failed </l>
+<l>the noble at need, yet had known of old </l>
+<l>strife hand to hand, and had helmets cloven, </l>
+<l>doomed men's fighting-gear. First time, this, </l>
+<l>for the gleaming blade that its glory fell. </l>
+<l>  Firm still stood, nor failed in valor, </l>
+<l>heedful of high deeds, Hygelac's kinsman; </l>
+<l>flung away fretted sword, featly jewelled, </l>
+<l>the angry earl; on earth it lay </l>
+<l>steel-edged and stiff. His strength he trusted, </l>
+<l>hand-gripe of might. So man shall do</l>
+
+<pb n="49"/>
+
+<l>whenever in war he weens to earn him </l>
+<l>lasting fame, nor fears for his life! </l>
+<l>Seized then by shoulder, shrank not from combat, </l>
+<l>the Geatish war-prince Grendel's mother. </l>
+<l>Flung then the fierce one, filled with wrath, </l>
+<l>his deadly foe, that she fell to ground. </l>
+<l>Swift on her part she paid him back </l>
+<l>with grisly grasp, and grappled with him. </l>
+<l>Spent with struggle, stumbled the warrior, </l>
+<l>fiercest of fighting-men, fell adown. </l>
+<l>On the hall-guest she hurled herself, hent her short sword, </l>
+<l>broad and brown-edged,<ref target="n22.2">[2]</ref> the bairn to avenge, </l>
+<l>the sole-born son. &mdash; On his shoulder lay </l>
+<l>braided breast-mail, barring death, </l>
+<l>withstanding entrance of edge or blade. </l>
+<l>Life would have ended for Ecgtheow's son, </l>
+<l>under wide earth for that earl of Geats, </l>
+<l>had his armor of war not aided him, </l>
+<l>battle-net hard, and holy God </l>
+<l>wielded the victory, wisest Maker. </l>
+<l>The Lord of Heaven allowed his cause; </l>
+<l>and easily rose the earl erect. </l>
+</lg>
+<note id="n22.1"><seg type="note-symbol">[1]</seg> <p>Kenning for "sword." Hrunting is bewitched, laid under a spell of
+uselessness, along with all other swords.</p></note>
+<note id="n22.2"><seg type="note-symbol">[2]</seg> <p>This brown of swords, evidently meaning burnished, bright, continues to
+be a favorite adjective in the popular ballads.</p></note>
+
+</div2>
+<div2 type="section" n="23" id="d27">
+<head>XXIII</head>
+<lg type="stanza" n="30">
+<l>'MID the battle-gear saw he a blade triumphant, </l>
+<l>old-sword of Eotens, with edge of proof, </l>
+<l>warriors' heirloom, weapon unmatched, </l>
+<l>&mdash; save only 'twas more than other men </l>
+<l>to bandy-of-battle could bear at all &mdash; </l>
+<l>as the giants had wrought it, ready and keen. </l>
+<l>Seized then its chain-hilt the Scyldings' chieftain, </l>
+<l>bold and battle-grim, brandished the sword, </l>
+<l>reckless of life, and so wrathfully smote </l>
+<l>that it gripped her neck and grasped her hard, </l>
+<l>her bone-rings breaking: the blade pierced through</l>
+
+<pb n="50"/>
+
+<l>that fated-one's flesh: to floor she sank. </l>
+<l>Bloody the blade: he was blithe of his deed. </l>
+<l>Then blazed forth light. 'Twas bright within </l>
+<l>as when from the sky there shines unclouded </l>
+<l>heaven's candle. The hall he scanned. </l>
+<l>By the wall then went he; his weapon raised </l>
+<l>high by its hilts the Hygelac-thane, </l>
+<l>angry and eager. That edge was not useless </l>
+<l>to the warrior now. He wished with speed </l>
+<l>Grendel to guerdon for grim raids many, </l>
+<l>for the war he waged on Western-Danes </l>
+<l>oftener far than an only time, </l>
+<l>when of Hrothgar's hearth-companions </l>
+<l>he slew in slumber, in sleep devoured, </l>
+<l>fifteen men of the folk of Danes, </l>
+<l>and as many others outward bore, </l>
+<l>his horrible prey. Well paid for that </l>
+<l>the wrathful prince! For now prone he saw </l>
+<l>Grendel stretched there, spent with war, </l>
+<l>spoiled of life, so scathed had left him </l>
+<l>Heorot's battle. The body sprang far </l>
+<l>when after death it endured the blow, </l>
+<l>sword-stroke savage, that severed its head. </l>
+<l>Soon,<ref target="n23.1">[1]</ref> then, saw the sage companions </l>
+<l>who waited with Hrothgar, watching the flood, </l>
+<l>that the tossing waters turbid grew, </l>
+<l>blood-stained the mere. Old men together, </l>
+<l>hoary-haired, of the hero spake; </l>
+<l>the warrior would not, they weened, again, </l>
+<l>proud of conquest, come to seek </l>
+<l>their mighty master. To many it seemed </l>
+<l>the wolf-of-the-waves had won his life. </l>
+<l>The ninth hour came. The noble Scyldings </l>
+<l>left the headland; homeward went </l>
+<l>the gold-friend of men.<ref target="n23.2">[2]</ref> But the guests sat on, </l>
+<l>stared at the surges, sick in heart, </l>
+<l>and wished, yet weened not, their winsome lord </l>
+<l>again to see.</l>
+
+<pb n="51"/>
+
+<l>                 Now that sword began, </l>
+<l>from blood of the fight, in battle-droppings,<ref target="n23.3">[3]</ref> </l>
+<l>war-blade, to wane: 'twas a wondrous thing </l>
+<l>that all of it melted as ice is wont </l>
+<l>when frosty fetters the Father loosens, </l>
+<l>unwinds the wave-bonds, wielding all </l>
+<l>seasons and times: the true God he! </l>
+<l>  Nor took from that dwelling the duke of the Geats </l>
+<l>precious things, though a plenty he saw, </l>
+<l>save only the head and that hilt withal </l>
+<l>blazoned with jewels: the blade had melted, </l>
+<l>burned was the bright sword, her blood was so hot, </l>
+<l>so poisoned the hell-sprite who perished within </l>
+<l>there. </l>
+<l>Soon he was swimming who safe saw in combat </l>
+<l>downfall of demons; up-dove through the flood. </l>
+<l>The clashing waters were cleansed now, </l>
+<l>waste of waves, where the wandering fiend </l>
+<l>her life-days left and this lapsing world. </l>
+<l>Swam then to strand the sailors'-refuge, </l>
+<l>sturdy-in-spirit, of sea-booty glad, </l>
+<l>of burden brave he bore with him. </l>
+<l>Went then to greet him, and God they thanked, </l>
+<l>the thane-band choice of their chieftain blithe, </l>
+<l>that safe and sound they could see him again. </l>
+<l>Soon from the hardy one helmet and armor </l>
+<l>deftly they doffed: now drowsed the mere, </l>
+<l>water 'neath welkin, with war-blood stained. </l>
+<l>  Forth they fared by the footpaths thence, </l>
+<l>merry at heart the highways measured, </l>
+<l>well-known roads. Courageous men </l>
+<l>carried the head from the cliff by the sea, </l>
+<l>an arduous task for all the band, </l>
+<l>the firm in fight, since four were needed </l>
+<l>on the shaft-of-slaughter<ref target="n23.4">[4]</ref> strenuously </l>
+<l>to bear to the gold-hall Grendel's head. </l>
+<l>So presently to the palace there </l>
+<l>foemen fearless, fourteen Geats, </l>
+<l>marching came. Their master-of-clan</l>
+
+<pb n="52"/>
+
+<l>mighty amid them the meadow-ways trod. </l>
+<l>Strode then within the sovran thane </l>
+<l>fearless in fight, of fame renowned, </l>
+<l>hardy hero, Hrothgar to greet. </l>
+<l>And next by the hair into hall was borne </l>
+<l>Grendel's head, where the henchmen were drinking, </l>
+<l>an awe to clan and queen alike, </l>
+<l>a monster of marvel: the men looked on. </l>
+</lg>
+<note id="n23.1"><seg type="note-symbol">[1]</seg> <p>After the killing of the monster and Grendel's decapitation.</p></note>
+<note id="n23.2"><seg type="note-symbol">[2]</seg> <p>Hrothgar.</p></note>
+<note id="n23.3"><seg type="note-symbol">[3]</seg> <p>The blade slowly dissolves in blood-stained drops like icicles.</p></note>
+<note id="n23.4"><seg type="note-symbol">[4]</seg> <p>Spear.</p></note>
+
+</div2>
+<div2 type="section" n="24" id="d28">
+<head>XXIV</head>
+<lg type="stanza" n="31">
+
+<l>BEOWULF spake, bairn of Ecgtheow:&mdash; </l>
+<l>"Lo, now, this sea-booty, son of Healfdene, </l>
+<l>Lord of Scyldings, we've lustily brought thee, </l>
+<l>sign of glory; thou seest it here. </l>
+<l>Not lightly did I with my life escape! </l>
+<l>In war under water this work I essayed </l>
+<l>with endless effort; and even so </l>
+<l>my strength had been lost had the Lord not shielded me. </l>
+<l>Not a whit could I with Hrunting do </l>
+<l>in work of war, though the weapon is good; </l>
+<l>yet a sword the Sovran of Men vouchsafed me </l>
+<l>to spy on the wall there, in splendor hanging, </l>
+<l>old, gigantic, &mdash; how oft He guides </l>
+<l>the friendless wight! &mdash; and I fought with that brand, </l>
+<l>felling in fight, since fate was with me, </l>
+<l>the house's wardens. That war-sword then </l>
+<l>all burned, bright blade, when the blood gushed o'er it, </l>
+<l>battle-sweat hot; but the hilt I brought back </l>
+<l>from my foes. So avenged I their fiendish deeds </l>
+<l>death-fall of Danes, as was due and right. </l>
+<l>And this is my hest, that in Heorot now </l>
+<l>safe thou canst sleep with thy soldier band, </l>
+<l>and every thane of all thy folk </l>
+<l>both old and young; no evil fear, </l>
+<l>Scyldings' lord, from that side again, </l>
+<l>aught ill for thy earls, as erst thou must!" </l>
+<l>Then the golden hilt, for that gray-haired leader,</l>
+
+<pb n="53"/>
+
+<l>hoary hero, in hand was laid, </l>
+<l>giant-wrought, old. So owned and enjoyed it </l>
+<l>after downfall of devils, the Danish lord, </l>
+<l>wonder-smiths' work, since the world was rid </l>
+<l>of that grim-souled fiend, the foe of God, </l>
+<l>murder-marked, and his mother as well. </l>
+<l>Now it passed into power of the people's king, </l>
+<l>best of all that the oceans bound </l>
+<l>who have scattered their gold o'er Scandia's isle. </l>
+<l>Hrothgar spake &mdash; the hilt he viewed, </l>
+<l>heirloom old, where was etched the rise </l>
+<l>of that far-off fight when the floods o'erwhelmed, </l>
+<l>raging waves, the race of giants </l>
+<l>(fearful their fate!), a folk estranged </l>
+<l>from God Eternal: whence guerdon due </l>
+<l>in that waste of waters the Wielder paid them. </l>
+<l>So on the guard of shining gold </l>
+<l>in runic staves it was rightly said </l>
+<l>for whom the serpent-traced sword was wrought, </l>
+<l>best of blades, in bygone days, </l>
+<l>and the hilt well wound. &mdash; The wise-one spake, </l>
+<l>son of Healfdene; silent were all:&mdash; </l>
+<l>  "Lo, so may he say who sooth and right </l>
+<l>follows 'mid folk, of far times mindful, </l>
+<l>a land-warden old,<ref target="n24.1">[1]</ref> that this earl belongs </l>
+<l>to the better breed! So, borne aloft, </l>
+<l>thy fame must fly, O friend my Beowulf, </l>
+<l>far and wide o'er folksteads many. Firmly thou </l>
+<l>   shalt all maintain, </l>
+<l>mighty strength with mood of wisdom. Love of </l>
+ <l>   mine will I assure thee,</l>
+<l>as, awhile ago, I promised; thou shalt prove a stay </l>
+<l>    in future, </l>
+<l>in far-off years, to folk of thine, </l>
+<l>to the heroes a help. Was not Heremod thus </l>
+<l>to offspring of Ecgwela, Honor-Scyldings, </l>
+<l>nor grew for their grace, but for grisly slaughter, </l>
+<l>for doom of death to the Danishmen.</l>
+
+<pb n="54"/>
+
+<l>He slew, wrath-swollen, his shoulder-comrades, </l>
+<l>companions at board! So he passed alone, </l>
+<l>chieftain haughty, from human cheer. </l>
+<l>Though him the Maker with might endowed, </l>
+<l>delights of power, and uplifted high </l>
+<l>above all men, yet blood-fierce his mind, </l>
+<l>his breast-hoard, grew, no bracelets gave he </l>
+<l>to Danes as was due; he endured all joyless </l>
+<l>strain of struggle and stress of woe, </l>
+<l>long feud with his folk. Here find thy lesson! </l>
+<l>Of virtue advise thee! This verse I have said </l>
+<l>   for thee, </l>
+<l>wise from lapsed winters. Wondrous seems </l>
+<l>how to sons of men Almighty God </l>
+<l>in the strength of His spirit sendeth wisdom, </l>
+<l>estate, high station: He swayeth all things. </l>
+<l>Whiles He letteth right lustily fare </l>
+<l>the heart of the hero of high-born race, &mdash; </l>
+<l>in seat ancestral assigns him bliss, </l>
+<l>his folk's sure fortress in fee to hold, </l>
+<l>puts in his power great parts of the earth, </l>
+<l>empire so ample, that end of it </l>
+<l>this wanter-of-wisdom weeneth none. </l>
+<l>So he waxes in wealth, nowise can harm him </l>
+<l>illness or age; no evil cares </l>
+<l>shadow his spirit; no sword-hate threatens </l>
+<l>from ever an enemy: all the world </l>
+<l>wends at his will, no worse he knoweth, </l>
+<l>till all within him obstinate pride </l>
+<l>waxes and wakes while the warden slumbers, </l>
+<l>the spirit's sentry; sleep is too fast </l>
+<l>which masters his might, and the murderer nears, </l>
+<l>stealthily shooting the shafts from his bow! </l>
+ </lg>
+<note id="n24.1"><seg type="note-symbol">[1]</seg> <p>That is, "whoever has as wide authority as I have and can remember
+so far back so many instances of heroism, may well say, as I say, that no
+better hero ever lived than Beowulf."</p></note>
+
+
+</div2>
+<div2 type="section" n="25" id="d29">
+<head>XXV</head>
+<lg type="stanza" n="32">
+
+<l>"UNDER harness his heart then is hit indeed </l>
+<l>by sharpest shafts; and no shelter avails</l>
+
+<pb n="55"/>
+
+<l>from foul behest of the hellish fiend.<ref target="n25.1">[1]</ref> </l>
+<l>Him seems too little what long he possessed. </l>
+<l>Greedy and grim, no golden rings </l>
+<l>he gives for his pride; the promised future </l>
+<l>forgets he and spurns, with all God has sent him, </l>
+<l>Wonder-Wielder, of wealth and fame. </l>
+<l>Yet in the end it ever comes </l>
+<l>that the frame of the body fragile yields, </l>
+<l>fated falls; and there follows another </l>
+<l>who joyously the jewels divides, </l>
+<l>the royal riches, nor recks of his forebear. </l>
+<l>Ban, then, such baleful thoughts, Beowulf dearest, </l>
+<l>best of men, and the better part choose, </l>
+<l>profit eternal; and temper thy pride, </l>
+<l>warrior famous! The flower of thy might </l>
+<l>lasts now a while: but erelong it shall be </l>
+<l>that sickness or sword thy strength shall minish, </l>
+<l>or fang of fire, or flooding billow, </l>
+<l>or bite of blade, or brandished spear, </l>
+<l>or odious age; or the eyes' clear beam </l>
+<l>wax dull and darken: Death even thee </l>
+<l>in haste shall o'erwhelm, thou hero of war! </l>
+<l>So the Ring-Danes these half-years a hundred I ruled, </l>
+<l>wielded 'neath welkin, and warded them bravely </l>
+<l>from mighty-ones many o'er middle-earth, </l>
+<l>from spear and sword, till it seemed for me </l>
+<l>no foe could be found under fold of the sky. </l>
+<l>Lo, sudden the shift! To me seated secure </l>
+<l>came grief for joy when Grendel began </l>
+<l>to harry my home, the hellish foe; </l>
+<l>for those ruthless raids, unresting I suffered </l>
+<l>heart-sorrow heavy. Heaven be thanked, </l>
+<l>Lord Eternal, for life extended </l>
+<l>that I on this head all hewn and bloody, </l>
+<l>after long evil, with eyes may gaze! </l>
+<l>&mdash; Go to the bench now! Be glad at banquet, </l>
+
+<pb n="56"/>
+
+<l>warrior worthy! A wealth of treasure </l>
+<l>at dawn of day, be dealt between us!" </l>
+<l>  Glad was the Geats' lord, going betimes </l>
+<l>to seek his seat, as the Sage commanded. </l>
+<l>Afresh, as before, for the famed-in-battle, </l>
+<l>for the band of the hall, was a banquet dight </l>
+<l>nobly anew. The Night-Helm darkened </l>
+<l>dusk o'er the drinkers. </l>
+<l>                       The doughty ones rose: </l>
+<l>for the hoary-headed would hasten to rest, </l>
+<l>aged Scylding; and eager the Geat, </l>
+<l>shield-fighter sturdy, for sleeping yearned. </l>
+<l>Him wander-weary, warrior-guest </l>
+<l>from far, a hall-thane heralded forth, </l>
+<l>who by custom courtly cared for all </l>
+<l>needs of a thane as in those old days </l>
+<l>warrior-wanderers wont to have. </l>
+<l>So slumbered the stout-heart. Stately the hall </l>
+<l>rose gabled and gilt where the guest slept on </l>
+<l>till a raven black the rapture-of-heaven<ref target="n25.2">[2]</ref> </l>
+<l>blithe-heart boded. Bright came flying </l>
+<l>shine after shadow. The swordsmen hastened, </l>
+<l>athelings all were eager homeward </l>
+<l>forth to fare; and far from thence </l>
+<l>the great-hearted guest would guide his keel. </l>
+<l>  Bade then the hardy-one Hrunting be brought </l>
+<l>to the son of Ecglaf, the sword bade him take, </l>
+<l>excellent iron, and uttered his thanks for it, </l>
+<l>quoth that he counted it keen in battle, </l>
+<l>"war-friend" winsome: with words he slandered not </l>
+<l>edge of the blade: 'twas a big-hearted man! </l>
+<l>Now eager for parting and armed at point </l>
+<l>warriors waited, while went to his host </l>
+<l>that Darling of Danes. The doughty atheling </l>
+<l>to high-seat hastened and Hrothgar greeted.</l>
+
+<pb n="57"/>
+ </lg>
+<note id="n25.1"><seg type="note-symbol">[1]</seg> <p>That is, he is now undefended by conscience from the temptations
+(shafts) of the devil.</p></note>
+<note id="n25.2"><seg type="note-symbol">[2]</seg> <p>Kenning for the sun. &mdash; This is a strange role for the raven. He is the
+warrior's bird of battle, exults in slaughter and carnage; his joy here is a
+compliment to the sunrise.</p></note>
+
+</div2>
+<div2 type="section" n="26" id="d30">
+<head>XXVI</head>
+<lg type="stanza" n="33">
+
+<l>  BEOWULF spake, bairn of Ecgtheow:&mdash; </l>
+<l>"Lo, we seafarers say our will, </l>
+<l>far-come men, that we fain would seek </l>
+<l>Hygelac now. We here have found </l>
+<l>hosts to our heart: thou hast harbored us well. </l>
+<l>If ever on earth I am able to win me </l>
+<l>more of thy love, O lord of men, </l>
+<l>aught anew, than I now have done, </l>
+<l>for work of war I am willing still! </l>
+<l>If it come to me ever across the seas </l>
+<l>that neighbor foemen annoy and fright thee, &mdash; </l>
+<l>as they that hate thee erewhile have used, &mdash; </l>
+<l>thousands then of thanes I shall bring, </l>
+<l>heroes to help thee. Of Hygelac I know, </l>
+<l>ward of his folk, that, though few his years, </l>
+<l>the lord of the Geats will give me aid </l>
+<l>by word and by work, that well I may serve thee, </l>
+<l>wielding the war-wood to win thy triumph </l>
+<l>and lending thee might when thou lackest men. </l>
+<l>If thy Hrethric should come to court of Geats, </l>
+<l>a sovran's son, he will surely there </l>
+<l>find his friends. A far-off land </l>
+<l>each man should visit who vaunts him brave." </l>
+<l>  Him then answering, Hrothgar spake:&mdash; </l>
+<l>"These words of thine the wisest God </l>
+<l>sent to thy soul! No sager counsel </l>
+<l>from so young in years e'er yet have I heard. </l>
+<l>Thou art strong of main and in mind art wary, </l>
+<l>art wise in words! I ween indeed </l>
+<l>if ever it hap that Hrethel's heir </l>
+<l>by spear be seized, by sword-grim battle, </l>
+<l>by illness or iron, thine elder and lord, </l>
+<l>people's leader, &mdash; and life be thine, &mdash; </l>
+<l>no seemlier man will the Sea-Geats find </l>
+<l>at all to choose for their chief and king, </l>
+<l>for hoard-guard of heroes, if hold thou wilt </l>
+<l>thy kinsman's kingdom! Thy keen mind pleases me </l>
+<l>the longer the better, Beowulf loved!</l>
+
+<pb n="58"/>
+
+<l>Thou hast brought it about that both our peoples, </l>
+<l>sons of the Geat and Spear-Dane folk, </l>
+<l>shall have mutual peace, and from murderous strife, </l>
+<l>such as once they waged, from war refrain. </l>
+<l>Long as I rule this realm so wide, </l>
+<l>let our hoards be common, let heroes with gold </l>
+<l>each other greet o'er the gannet's-bath, </l>
+<l>and the ringed-prow bear o'er rolling waves </l>
+<l>tokens of love. I trow my landfolk </l>
+<l>towards friend and foe are firmly joined, </l>
+<l>and honor they keep in the olden way." </l>
+<l>  To him in the hall, then, Healfdene's son </l>
+<l>gave treasures twelve, and the trust-of-earls </l>
+<l>bade him fare with the gifts to his folk beloved, </l>
+<l>hale to his home, and in haste return. </l>
+<l>Then kissed the king of kin renowned, </l>
+<l>Scyldings' chieftain, that choicest thane, </l>
+<l>and fell on his neck. Fast flowed the tears </l>
+<l>of the hoary-headed. Heavy with winters, </l>
+<l>he had chances twain, but he clung to this,<ref target="n26.1">[1]</ref> &mdash; </l>
+<l>that each should look on the other again, </l>
+<l>and hear him in hall. Was this hero so dear to him. </l>
+<l>his breast's wild billows he banned in vain; </l>
+<l>safe in his soul a secret longing, </l>
+<l>locked in his mind, for that loved man </l>
+<l>burned in his blood. Then Beowulf strode, </l>
+<l>glad of his gold-gifts, the grass-plot o'er, </l>
+<l>warrior blithe. The wave-roamer bode </l>
+<l>riding at anchor, its owner awaiting. </l>
+<l>As they hastened onward, Hrothgar's gift </l>
+<l>they lauded at length. &mdash; 'Twas a lord unpeered, </l>
+<l>every way blameless, till age had broken </l>
+<l>&mdash; it spareth no mortal &mdash; his splendid might.</l>
+ </lg>
+<note id="n26.1"><seg type="note-symbol">[1]</seg> <p>That is, he might or might not see Beowulf again. Old as he was, the
+latter chance was likely; but he clung to the former, hoping to see his
+young friend again "and exchange brave words in the hall."</p></note>
+
+</div2>
+<div2 type="section" n="27" id="d31">
+<head>XXVII</head>
+<lg type="stanza" n="34">
+
+<l>CAME now to ocean the ever-courageous </l>
+<l>hardy henchmen, their harness bearing,</l>
+
+<pb n="59"/>
+
+<l>woven war-sarks. The warden marked, </l>
+<l>trusty as ever, the earl's return. </l>
+<l>From the height of the hill no hostile words </l>
+<l>reached the guests as he rode to greet them; </l>
+<l>but "Welcome!" he called to that Weder clan </l>
+<l>as the sheen-mailed spoilers to ship marched on. </l>
+<l>Then on the strand, with steeds and treasure </l>
+<l>and armor their roomy and ring-dight ship </l>
+<l>was heavily laden: high its mast </l>
+<l>rose over Hrothgar's hoarded gems. </l>
+<l>A sword to the boat-guard Beowulf gave, </l>
+<l>mounted with gold; on the mead-bench since </l>
+<l>he was better esteemed, that blade possessing, </l>
+<l>heirloom old. &mdash; Their ocean-keel boarding, </l>
+<l>they drove through the deep, and Daneland left. </l>
+<l>A sea-cloth was set, a sail with ropes, </l>
+<l>firm to the mast; the flood-timbers moaned;<ref target="n27.1">[1]</ref> </l>
+<l>nor did wind over billows that wave-swimmer blow </l>
+<l>across from her course. The craft sped on, </l>
+<l>foam-necked it floated forth o'er the waves, </l>
+<l>keel firm-bound over briny currents, </l>
+<l>till they got them sight of the Geatish cliffs, </l>
+<l>home-known headlands. High the boat, </l>
+<l>stirred by winds, on the strand updrove. </l>
+<l>Helpful at haven the harbor-guard stood, </l>
+<l>who long already for loved companions </l>
+<l>by the water had waited and watched afar. </l>
+<l>He bound to the beach the broad-bosomed ship </l>
+<l>with anchor-bands, lest ocean-billows </l>
+<l>that trusty timber should tear away. </l>
+<l>Then Beowulf bade them bear the treasure, </l>
+<l>gold and jewels; no journey far </l>
+<l>was it thence to go to the giver of rings, </l>
+<l>Hygelac Hrethling: at home he dwelt </l>
+<l>by the sea-wall close, himself and clan. </l>
+<l>Haughty that house, a hero the king, </l>
+<l>high the hall, and Hygd<ref target="n27.2">[2]</ref> right young, </l>
+<l>wise and wary, though winters few</l>
+
+<pb n="60"/>
+
+<l>in those fortress walls she had found a home, </l>
+<l>Haereth's daughter. Nor humble her ways, </l>
+<l>nor grudged she gifts to the Geatish men, </l>
+<l>of precious treasure. Not Thryth's pride showed she, </l>
+<l>folk-queen famed, or that fell deceit. </l>
+<l>Was none so daring that durst make bold </l>
+<l>(save her lord alone) of the liegemen dear </l>
+<l>that lady full in the face to look, </l>
+<l>but forged fetters he found his lot, </l>
+<l>bonds of death! And brief the respite; </l>
+<l>soon as they seized him, his sword-doom was spoken, </l>
+<l>and the burnished blade a baleful murder </l>
+<l>proclaimed and closed. No queenly way </l>
+<l>for woman to practise, though peerless she, </l>
+<l>that the weaver-of-peace<ref target="n27.3">[3]</ref> from warrior dear </l>
+<l>by wrath and lying his life should reave! </l>
+<l>But Hemming's kinsman hindered this. &mdash; </l>
+<l>  For over their ale men also told </l>
+<l>that of these folk-horrors fewer she wrought, </l>
+<l>onslaughts of evil, after she went, </l>
+<l>gold-decked bride, to the brave young prince, </l>
+<l>atheling haughty, and Offa's hall </l>
+<l>o'er the fallow flood at her father's bidding </l>
+<l>safely sought, where since she prospered, </l>
+<l>royal, throned, rich in goods, </l>
+<l>fain of the fair life fate had sent her, </l>
+<l>and leal in love to the lord of warriors. </l>
+<l>He, of all heroes I heard of ever </l>
+<l>from sea to sea, of the sons of earth, </l>
+<l>most excellent seemed. Hence Offa was praised </l>
+<l>for his fighting and feeing by far-off men, </l>
+<l>the spear-bold warrior; wisely he ruled </l>
+<l>over his empire. Eomer woke to him, </l>
+<l>help of heroes, Hemming's kinsman, </l>
+<l>Grandson of Garmund, grim in war. </l>
+ </lg>
+<note id="n27.1"><seg type="note-symbol">[1]</seg> <p>With the speed of the boat.</p></note>
+<note id="n27.2"><seg type="note-symbol">[2]</seg> <p>Queen to Hygelac. She is praised by contrast with the antitype, Thryth,
+just as Beowulf was praised by contrast with Heremod.</p></note>
+<note id="n27.3"><seg type="note-symbol">[3]</seg> <p>Kenning for "wife."</p></note>
+
+</div2>
+<pb n="61"/>
+<div2 type="section" n="28" id="d32">
+<head>XXVIII</head>
+<lg type="stanza" n="35">
+
+<l>HASTENED the hardy one, henchmen with him, </l>
+<l>sandy strand of the sea to tread </l>
+<l>and widespread ways. The world's great candle, </l>
+<l>sun shone from south. They strode along </l>
+<l>with sturdy steps to the spot they knew </l>
+<l>where the battle-king young, his burg within, </l>
+<l>slayer of Ongentheow, shared the rings, </l>
+<l>shelter-of-heroes. To Hygelac </l>
+<l>Beowulf's coming was quickly told, &mdash; </l>
+<l>that there in the court the clansmen's refuge, </l>
+<l>the shield-companion sound and alive, </l>
+<l>hale from the hero-play homeward strode. </l>
+<l>With haste in the hall, by highest order, </l>
+<l>room for the rovers was readily made. </l>
+<l>By his sovran he sat, come safe from battle, </l>
+<l>kinsman by kinsman. His kindly lord </l>
+<l>he first had greeted in gracious form, </l>
+<l>with manly words. The mead dispensing, </l>
+<l>came through the high hall Haereth's daughter, </l>
+<l>winsome to warriors, wine-cup bore </l>
+<l>to the hands of the heroes. Hygelac then </l>
+<l>his comrade fairly with question plied </l>
+<l>in the lofty hall, sore longing to know </l>
+<l>what manner of sojourn the Sea-Geats made. </l>
+<l>"What came of thy quest, my kinsman Beowulf, </l>
+<l>when thy yearnings suddenly swept thee yonder </l>
+<l>battle to seek o'er the briny sea, </l>
+<l>combat in Heorot? Hrothgar couldst thou </l>
+<l>aid at all, the honored chief, </l>
+<l>in his wide-known woes? With waves of care </l>
+<l>my sad heart seethed; I sore mistrusted </l>
+<l>my loved one's venture: long I begged thee </l>
+<l>by no means to seek that slaughtering monster, </l>
+<l>but suffer the South-Danes to settle their feud </l>
+<l>themselves with Grendel. Now God be thanked </l>
+<l>that safe and sound I can see thee now!" </l>
+<l>  Beowulf spake, the bairn of Ecgtheow:&mdash; </l>
+<l>"'Tis known and unhidden, Hygelac Lord, </l>
+
+<pb n="62"/>
+
+<l>to many men, that meeting of ours, </l>
+<l>struggle grim between Grendel and me, </l>
+<l>which we fought on the field where full too many </l>
+<l>sorrows he wrought for the Scylding-Victors, </l>
+<l>evils unending. These all I avenged. </l>
+<l>No boast can be from breed of Grendel, </l>
+<l>any on earth, for that uproar at dawn, </l>
+<l>from the longest-lived of the loathsome race </l>
+<l>in fleshly fold! &mdash; But first I went </l>
+<l>Hrothgar to greet in the hall of gifts, </l>
+<l>where Healfdene's kinsman high-renowned, </l>
+<l>soon as my purpose was plain to him, </l>
+<l>assigned me a seat by his son and heir. </l>
+<l>The liegemen were lusty; my life-days never </l>
+<l>such merry men over mead in hall </l>
+<l>have I heard under heaven! The high-born queen, </l>
+<l>people's peace-bringer, passed through the hall, </l>
+<l>cheered the young clansmen, clasps of gold, </l>
+<l>ere she sought her seat, to sundry gave. </l>
+<l>Oft to the heroes Hrothgar's daughter, </l>
+<l>to earls in turn, the ale-cup tendered, &mdash; </l>
+<l>she whom I heard these hall-companions </l>
+<l>Freawaru name, when fretted gold </l>
+<l>she proffered the warriors. Promised is she, </l>
+<l>gold-decked maid, to the glad son of Froda. </l>
+<l>Sage this seems to the Scylding's-friend, </l>
+<l>kingdom's-keeper: he counts it wise </l>
+<l>the woman to wed so and ward off feud, </l>
+<l>store of slaughter. But seldom ever </l>
+<l>when men are slain, does the murder-spear sink </l>
+<l>but briefest while, though the bride be fair!<ref target="n28.1">[1]</ref> </l>
+<l>  "Nor haply will like it the Heathobard lord, </l>
+<l>and as little each of his liegemen all,</l>
+
+<pb n="63"/>
+
+<l>when a thane of the Danes, in that doughty throng, </l>
+<l>goes with the lady along their hall, </l>
+<l>and on him the old-time heirlooms glisten </l>
+<l>hard and ring-decked, Heathobard's treasure, </l>
+<l>weapons that once they wielded fair </l>
+<l>until they lost at the linden-play<ref target="n28.2">[2]</ref> </l>
+<l>liegeman leal and their lives as well. </l>
+<l>Then, over the ale, on this heirloom gazing, </l>
+<l>some ash-wielder old who has all in mind </l>
+<l>that spear-death of men,<ref target="n28.3">[3]</ref> &mdash; he is stern of mood, </l>
+<l>heavy at heart, &mdash; in the hero young </l>
+<l>tests the temper and tries the soul </l>
+<l>and war-hate wakens, with words like these:&mdash; </l>
+<l>Canst thou not, comrade, ken that sword </l>
+<l>which to the fray thy father carried </l>
+<l>in his final feud, 'neath the fighting-mask, </l>
+<l>dearest of blades, when the Danish slew him </l>
+<l>and wielded the war-place on Withergild's fall, </l>
+<l>after havoc of heroes, those hardy Scyldings? </l>
+<l>Now, the son of a certain slaughtering Dane, </l>
+<l>proud of his treasure, paces this hall, </l>
+<l>joys in the killing, and carries the jewel<ref target="n28.4">[4]</ref> </l>
+<l>that rightfully ought to be owned by thee!_ </l>
+<l>Thus he urges and eggs him all the time </l>
+<l>with keenest words, till occasion offers </l>
+<l>that Freawaru's thane, for his father's deed, </l>
+<l>after bite of brand in his blood must slumber, </l>
+<l>losing his life; but that liegeman flies </l>
+<l>living away, for the land he kens. </l>
+<l>And thus be broken on both their sides </l>
+<l>oaths of the earls, when Ingeld's breast </l>
+<l>wells with war-hate, and wife-love now </l>
+<l>after the care-billows cooler grows.</l>
+
+<pb n="64"/>
+
+<l>"So<ref target="n28.5">[5]</ref> I hold not high the Heathobards' faith </l>
+<l>due to the Danes, or their during love </l>
+<l>and pact of peace. &mdash; But I pass from that, </l>
+<l>turning to Grendel, O giver-of-treasure, </l>
+<l>and saying in full how the fight resulted, </l>
+<l>hand-fray of heroes. When heaven's jewel </l>
+<l>had fled o'er far fields, that fierce sprite came, </l>
+<l>night-foe savage, to seek us out </l>
+<l>where safe and sound we sentried the hall. </l>
+<l>To Hondscio then was that harassing deadly, </l>
+<l>his fall there was fated. He first was slain, </l>
+<l>girded warrior. Grendel on him </l>
+<l>turned murderous mouth, on our mighty kinsman, </l>
+<l>and all of the brave man's body devoured. </l>
+<l>Yet none the earlier, empty-handed, </l>
+<l>would the bloody-toothed murderer, mindful of bale, </l>
+<l>outward go from the gold-decked hall: </l>
+<l>but me he attacked in his terror of might, </l>
+<l>with greedy hand grasped me. A glove hung by him<ref target="n28.6">[6]</ref> </l>
+<l>wide and wondrous, wound with bands; </l>
+<l>and in artful wise it all was wrought, </l>
+<l>by devilish craft, of dragon-skins. </l>
+<l>Me therein, an innocent man, </l>
+<l>the fiendish foe was fain to thrust </l>
+<l>with many another. He might not so, </l>
+<l>when I all angrily upright stood. </l>
+<l>'Twere long to relate how that land-destroyer </l>
+<l>I paid in kind for his cruel deeds; </l>
+<l>yet there, my prince, this people of thine </l>
+<l>got fame by my fighting. He fled away, </l>
+<l>and a little space his life preserved; </l>
+<l>but there staid behind him his stronger hand </l>
+<l>left in Heorot; heartsick thence </l>
+<l>on the floor of the ocean that outcast fell. </l>
+<l>Me for this struggle the Scyldings'-friend </l>
+<l>paid in plenty with plates of gold, </l>
+<l>with many a treasure, when morn had come</l>
+
+<pb n="65"/>
+
+<l>and we all at the banquet-board sat down. </l>
+<l>Then was song and glee. The gray-haired Scylding, </l>
+<l>much tested, told of the times of yore. </l>
+<l>Whiles the hero his harp bestirred, </l>
+<l>wood-of-delight; now lays he chanted </l>
+<l>of sooth and sadness, or said aright </l>
+<l>legends of wonder, the wide-hearted king; </l>
+<l>or for years of his youth he would yearn at times, </l>
+<l>for strength of old struggles, now stricken with age, </l>
+<l>hoary hero: his heart surged full </l>
+<l>when, wise with winters, he wailed their flight. </l>
+<l>Thus in the hall the whole of that day </l>
+<l>at ease we feasted, till fell o'er earth </l>
+<l>another night. Anon full ready </l>
+<l>in greed of vengeance, Grendel's mother </l>
+<l>set forth all doleful. Dead was her son </l>
+<l>through war-hate of Weders; now, woman monstrous </l>
+<l>with fury fell a foeman she slew, </l>
+<l>avenged her offspring. From Aeschere old, </l>
+<l>loyal councillor, life was gone; </l>
+<l>nor might they e'en, when morning broke, </l>
+<l>those Danish people, their death-done comrade </l>
+<l>burn with brands, on balefire lay </l>
+<l>the man they mourned. Under mountain stream </l>
+<l>she had carried the corpse with cruel hands. </l>
+<l>For Hrothgar that was the heaviest sorrow </l>
+<l>of all that had laden the lord of his folk. </l>
+<l>The leader then, by thy life, besought me </l>
+<l>(sad was his soul) in the sea-waves' coil </l>
+<l>to play the hero and hazard my being </l>
+<l>for glory of prowess: my guerdon he pledged. </l>
+<l>I then in the waters &mdash; 'tis widely known &mdash; </l>
+<l>that sea-floor-guardian savage found. </l>
+<l>Hand-to-hand there a while we struggled; </l>
+<l>billows welled blood; in the briny hall </l>
+<l>her head I hewed with a hardy blade </l>
+<l>from Grendel's mother, &mdash; and gained my life, </l>
+<l>though not without danger. My doom was not yet. </l>
+<l>Then the haven-of-heroes, Healfdene's son, </l>
+<l>gave me in guerdon great gifts of price.</l>
+</lg>
+<note id="n28.1"><seg type="note-symbol">[1]</seg> <p>Beowulf gives his uncle the king not mere gossip of his
+journey, but a
+statesmanlike forecast of the outcome of certain policies at
+the Danish court.
+Talk of interpolation here is absurd. As both Beowulf and
+Hygelac know, &mdash; and the folk for whom the Beowulf was put
+together also knew, &mdash; Froda
+was king of the Heathobards (probably the Langobards, once near
+neighbors of Angle and Saxon tribes on the continent), and had fallen in fight
+with the Danes.
+Hrothgar will set aside this feud by giving his daughter
+as "peace-weaver" and wife to the young king Ingeld, son of the slain
+Froda. But Beowulf, on general principles and from his observation of the
+particular case, foretells trouble.</p></note>
+
+<note id="n28.2"><seg type="note-symbol">[2]</seg> <p>Play of shields, battle. A Danish warrior cuts down Froda in the fight,
+and takes his sword and armor, leaving them to a son. This son is selected
+to accompany his mistress, the young princess Freawaru, to her new home
+when she is Ingeld's queen. Heedlessly he wears the sword of Froda in
+hall. An old warrior points it out to Ingeld, and eggs him on to vengeance.
+At his instigation the Dane is killed; but the murderer, afraid of results,
+and knowing the land, escapes. So the old feud must break out again.
+</p></note>
+<note id="n28.3"><seg type="note-symbol">[3]</seg> <p>That is, their disastrous battle and the slaying of their king.</p></note>
+<note id="n28.4"><seg type="note-symbol">[4]</seg> <p>The sword.</p></note>
+<note id="n28.5"><seg type="note-symbol">[5]</seg> <p>Beowulf returns to his forecast. Things might well go somewhat as
+follows, he says; sketches a little tragic story; and with this prophecy by
+illustration returns to the tale of his adventure.</p></note>
+<note id="n28.6"><seg type="note-symbol">[6]</seg> <p>Not an actual glove, but a sort of bag.</p></note>
+<pb n="66"/>
+</div2>
+<div2 type="section" n="31" id="d33">
+<head>XXXI</head>
+<lg type="stanza" n="36">
+
+<l>  "So held this king to the customs old, </l>
+<l>that I wanted for nought in the wage I gained, </l>
+<l>the meed of my might; he made me gifts, </l>
+<l>Healfdene's heir, for my own disposal. </l>
+<l>Now to thee, my prince, I proffer them all, </l>
+<l>gladly give them. Thy grace alone </l>
+<l>can find me favor. Few indeed </l>
+<l>have I of kinsmen, save, Hygelac, thee!" </l>
+<l>Then he bade them bear him the boar-head standard, </l>
+<l>the battle-helm high, and breastplate gray, </l>
+<l>the splendid sword; then spake in form:&mdash; </l>
+<l>"Me this war-gear the wise old prince, </l>
+<l>Hrothgar, gave, and his hest he added, </l>
+<l>that its story be straightway said to thee. &mdash; </l>
+<l>A while it was held by Heorogar king, </l>
+<l>for long time lord of the land of Scyldings; </l>
+<l>yet not to his son the sovran left it, </l>
+<l>to daring Heoroweard, &mdash; dear as he was to him, </l>
+<l>his harness of battle. &mdash; Well hold thou it all!" </l>
+<l>  And I heard that soon passed o'er the path of this treasure, </l>
+<l>all apple-fallow, four good steeds, </l>
+<l>each like the others, arms and horses </l>
+<l>he gave to the king. So should kinsmen be, </l>
+<l>not weave one another the net of wiles, </l>
+<l>or with deep-hid treachery death contrive </l>
+<l>for neighbor and comrade. His nephew was ever </l>
+<l>by hardy Hygelac held full dear, </l>
+<l>and each kept watch o'er the other's weal. </l>
+<l>I heard, too, the necklace to Hygd he presented, </l>
+<l>wonder-wrought treasure, which Wealhtheow gave him </l>
+<l>sovran's daughter: three steeds he added, </l>
+<l>slender and saddle-gay. Since such gift </l>
+<l>the gem gleamed bright on the breast of the queen. </l>
+<l>  Thus showed his strain the son of Ecgtheow </l>
+<l>as a man remarked for mighty deeds</l>
+
+<pb n="67"/>
+
+<l>and acts of honor. At ale he slew not </l>
+<l>comrade or kin; nor cruel his mood, </l>
+<l>though of sons of earth his strength was greatest, </l>
+<l>a glorious gift that God had sent </l>
+<l>the splendid leader. Long was he spurned, </l>
+<l>and worthless by Geatish warriors held; </l>
+<l>him at mead the master-of-clans </l>
+<l>failed full oft to favor at all. </l>
+<l>Slack and shiftless the strong men deemed him, </l>
+<l>profitless prince; but payment came, </l>
+<l>to the warrior honored, for all his woes. &mdash; </l>
+<l>  Then the bulwark-of-earls<ref target="n31.1">[1]</ref> bade bring within, </l>
+<l>hardy chieftain, Hrethel's heirloom </l>
+<l>garnished with gold: no Geat e'er knew </l>
+<l>in shape of a sword a statelier prize. </l>
+<l>The brand he laid in Beowulf's lap; </l>
+<l>and of hides assigned him seven thousand,<ref target="n31.2">[2]</ref> </l>
+<l>with house and high-seat. They held in common </l>
+<l>land alike by their line of birth, </l>
+<l>inheritance, home: but higher the king </l>
+<l>because of his rule o'er the realm itself. </l>
+</lg>
+<lg type="stanza" n="37">
+<l>  Now further it fell with the flight of years, </l>
+<l>with harryings horrid, that Hygelac perished,<ref target="n31.3">[3]</ref> </l>
+<l>and Heardred, too, by hewing of swords </l>
+<l>under the shield-wall slaughtered lay, </l>
+<l>when him at the van of his victor-folk </l>
+<l>sought hardy heroes, Heatho-Scilfings, </l>
+<l>in arms o'erwhelming Hereric's nephew. </l>
+<l>Then Beowulf came as king this broad </l>
+<l>realm to wield; and he ruled it well </l>
+<l>fifty winters,<ref target="n31.4">[4]</ref> a wise old prince, </l>
+<l>warding his land, until One began</l>
+
+<pb n="68"/>
+
+<l>in the dark of night, a Dragon, to rage. </l>
+<l>In the grave on the hill a hoard it guarded, </l>
+<l>in the stone-barrow steep. A strait path reached it, </l>
+<l>unknown to mortals. Some man, however, </l>
+<l>came by chance that cave within </l>
+<l>to the heathen hoard.<ref target="n31.5">[5]</ref> In hand he took </l>
+<l>a golden goblet, nor gave he it back, </l>
+<l>stole with it away, while the watcher slept, </l>
+<l>by thievish wiles: for the warden's wrath </l>
+<l>prince and people must pay betimes! </l>
+</lg>
+<note id="n31.1"><seg type="note-symbol">[1]</seg> <p>Hygelac.</p></note>
+<note id="n31.2"><seg type="note-symbol">[2]</seg> <p>This is generally assumed to mean hides, though the text simply says
+"seven thousand." A hide in England meant about 120 acres, though "the
+size of the acre varied."</p></note>
+<note id="n31.3"><seg type="note-symbol">[3]</seg> <p>On the historical raid into Frankish territory between 512 and 520 A.D.
+The subsequent course of events, as gathered from hints of this epic, is
+partly told in Scandinavian legend.</p></note>
+<note id="n31.4"><seg type="note-symbol">[4]</seg> <p>The chronology of this epic, as scholars have worked it out, would make
+Beowulf well over ninety years of age when he fights the dragon. But the
+fifty years of his reign need not be taken as historical fact.</p></note>
+<note id="n31.5"><seg type="note-symbol">[5]</seg> <p>The text is here hopelessly illegible, and only the general drift of the
+meaning can be rescued. For one thing, we have the old myth of a dragon
+who guards hidden treasure. But with this runs the story of some noble,
+last of his race, who hides all his wealth within this barrow and there
+chants his farewell to life's glories. After his death the dragon takes pos-session of the hoard and watches over it. A condemned or banished man,
+desperate, hides in the barrow, discovers the treasure, and while the dragon
+sleeps, makes off with a golden beaker or the like, and carries it for propi-tiation to his master. The dragon discovers the loss and exacts fearful
+penalty from the people round about.</p></note>
+
+</div2>
+<div2 type="section" n="32" id="d34">
+<head>XXXII</head>
+<lg type="stanza" n="38">
+
+<l>THAT way he went with no will of his own, </l>
+<l>in danger of life, to the dragon's hoard, </l>
+<l>but for pressure of peril, some prince's thane. </l>
+<l>He fled in fear the fatal scourge, </l>
+<l>seeking shelter, a sinful man, </l>
+<l>and entered in. At the awful sight </l>
+<l>tottered that guest, and terror seized him; </l>
+<l>yet the wretched fugitive rallied anon </l>
+<l>from fright and fear ere he fled away, </l>
+<l>and took the cup from that treasure-hoard. </l>
+<l>Of such besides there was store enough, </l>
+<l>heirlooms old, the earth below, </l>
+<l>which some earl forgotten, in ancient years, </l>
+<l>left the last of his lofty race, </l>
+<l>heedfully there had hidden away, </l>
+<l>dearest treasure. For death of yore </l>
+<l>had hurried all hence; and he alone </l>
+<l>left to live, the last of the clan, </l>
+<l>weeping his friends, yet wished to bide </l>
+<l>warding the treasure, his one delight,</l>
+
+<pb n="69"/>
+
+<l>though brief his respite. The barrow, new-ready, </l>
+<l>to strand and sea-waves stood anear, </l>
+<l>hard by the headland, hidden and closed; </l>
+<l>there laid within it his lordly heirlooms </l>
+<l>and heaped hoard of heavy gold </l>
+<l>that warden of rings. Few words he spake: </l>
+<l>  "Now hold thou, earth, since heroes may not, </l>
+<l>what earls have owned! Lo, erst from thee </l>
+<l>brave men brought it! But battle-death seized </l>
+<l>and cruel killing my clansmen all, </l>
+<l>robbed them of life and a liegeman's joys. </l>
+<l>None have I left to lift the sword, </l>
+<l>or to cleanse the carven cup of price, </l>
+<l>beaker bright. My brave are gone. </l>
+<l>And the helmet hard, all haughty with gold, </l>
+<l>shall part from its plating. Polishers sleep </l>
+<l>who could brighten and burnish the battle-mask; </l>
+<l>and those weeds of war that were wont to brave </l>
+<l>over bicker of shields the bite of steel </l>
+<l>rust with their bearer. The ringed mail </l>
+<l>fares not far with famous chieftain, </l>
+<l>at side of hero! No harp's delight, </l>
+<l>no glee-wood's gladness! No good hawk now </l>
+<l>flies through the hall! Nor horses fleet </l>
+<l>stamp in the burgstead! Battle and death </l>
+<l>the flower of my race have reft away." </l>
+<l>Mournful of mood, thus he moaned his woe, </l>
+<l>alone, for them all, and unblithe wept </l>
+<l>by day and by night, till death's fell wave </l>
+<l>o'erwhelmed his heart. His hoard-of-bliss </l>
+<l>that old ill-doer open found, </l>
+<l>who, blazing at twilight the barrows haunteth, </l>
+<l>naked foe-dragon flying by night </l>
+<l>folded in fire: the folk of earth </l>
+<l>dread him sore. 'Tis his doom to seek </l>
+<l>hoard in the graves, and heathen gold </l>
+<l>to watch, many-wintered: nor wins he thereby! </l>
+<l>  Powerful this plague-of-the-people thus </l>
+<l>held the house of the hoard in earth </l>
+<l>three hundred winters; till One aroused</l>
+
+<pb n="70"/>
+
+<l>wrath in his breast, to the ruler bearing </l>
+<l>that costly cup, and the king implored </l>
+<l>for bond of peace. So the barrow was plundered, </l>
+<l>borne off was booty. His boon was granted </l>
+<l>that wretched man; and his ruler saw </l>
+<l>first time what was fashioned in far-off days. </l>
+<l>  When the dragon awoke, new woe was kindled. </l>
+<l>O'er the stone he snuffed. The stark-heart found </l>
+<l>footprint of foe who so far had gone </l>
+<l>in his hidden craft by the creature's head. &mdash; </l>
+<l>So may the undoomed easily flee </l>
+<l>evils and exile, if only he gain </l>
+<l>the grace of The Wielder! &mdash; That warden of gold </l>
+<l>o'er the ground went seeking, greedy to find </l>
+<l>the man who wrought him such wrong in sleep. </l>
+<l>Savage and burning, the barrow he circled </l>
+<l>all without; nor was any there, </l>
+<l>none in the waste.... Yet war he desired, </l>
+<l>was eager for battle. The barrow he entered, </l>
+<l>sought the cup, and discovered soon </l>
+<l>that some one of mortals had searched his treasure, </l>
+<l>his lordly gold. The guardian waited </l>
+<l>ill-enduring till evening came; </l>
+<l>boiling with wrath was the barrow's keeper, </l>
+<l>and fain with flame the foe to pay </l>
+<l>for the dear cup's loss. &mdash; Now day was fled </l>
+<l>as the worm had wished. By its wall no more </l>
+<l>was it glad to bide, but burning flew </l>
+<l>folded in flame: a fearful beginning </l>
+<l>for sons of the soil; and soon it came, </l>
+<l>in the doom of their lord, to a dreadful end. </l>
+
+</lg></div2>
+<div2 type="section" n="33" id="d35">
+<head>XXXIII</head>
+<lg type="stanza" n="39">
+
+<l>  THEN the baleful fiend its fire belched out, </l>
+<l>and bright homes burned. The blaze stood high </l>
+<l>all landsfolk frighting. No living thing </l>
+<l>would that loathly one leave as aloft it flew. </l>
+<l>Wide was the dragon's warring seen,</l>
+
+<pb n="71"/>
+
+<l>its fiendish fury far and near, </l>
+<l>as the grim destroyer those Geatish people </l>
+<l>hated and hounded. To hidden lair, </l>
+<l>to its hoard it hastened at hint of dawn. </l>
+<l>Folk of the land it had lapped in flame, </l>
+<l>with bale and brand. In its barrow it trusted, </l>
+<l>its battling and bulwarks: that boast was vain! </l>
+</lg>
+<lg type="stanza" n="40">
+<l>  To Beowulf then the bale was told </l>
+<l>quickly and truly: the king's own home, </l>
+<l>of buildings the best, in brand-waves melted, </l>
+<l>that gift-throne of Geats. To the good old man </l>
+<l>sad in heart, 'twas heaviest sorrow. </l>
+<l>The sage assumed that his sovran God </l>
+<l>he had angered, breaking ancient law, </l>
+<l>and embittered the Lord. His breast within </l>
+<l>with black thoughts welled, as his wont was never. </l>
+<l>The folk's own fastness that fiery dragon </l>
+<l>with flame had destroyed, and the stronghold all </l>
+<l>washed by waves; but the warlike king, </l>
+<l>prince of the Weders, plotted vengeance. </l>
+<l>Warriors'-bulwark, he bade them work </l>
+<l>all of iron &mdash; the earl's commander &mdash; </l>
+<l>a war-shield wondrous: well he knew </l>
+<l>that forest-wood against fire were worthless, </l>
+<l>linden could aid not. &mdash; Atheling brave, </l>
+<l>he was fated to finish this fleeting life,<ref target="n33.1">[1]</ref> </l>
+<l>his days on earth, and the dragon with him, </l>
+<l>though long it had watched o'er the wealth of thehoard! &mdash; </l>
+<l>Shame he reckoned it, sharer-of-rings, </l>
+<l>to follow the flyer-afar with a host, </l>
+<l>a broad-flung band; nor the battle feared he, </l>
+<l>nor deemed he dreadful the dragon's warring, </l>
+<l>its vigor and valor: ventures desperate </l>
+<l>he had passed a-plenty, and perils of war, </l>
+<l>contest-crash, since, conqueror proud, </l>
+<l>Hrothgar's hall he had wholly purged, </l>
+<l>and in grapple had killed the kin of Grendel,</l>
+
+<pb n="72"/>
+
+<l>loathsome breed! Not least was that </l>
+<l>of hand-to-hand fights where Hygelac fell, </l>
+<l>when the ruler of Geats in rush of battle, </l>
+<l>lord of his folk, in the Frisian land, </l>
+<l>son of Hrethel, by sword-draughts died, </l>
+<l>by brands down-beaten. Thence Beowulf fled </l>
+<l>through strength of himself and his swimming power, </l>
+<l>though alone, and his arms were laden with thirty </l>
+<l>coats of mail, when he came to the sea! </l>
+<l>Nor yet might Hetwaras<ref target="n33.2">[2]</ref> haughtily boast </l>
+<l>their craft of contest, who carried against him </l>
+<l>shields to the fight: but few escaped </l>
+<l>from strife with the hero to seek their homes! </l>
+<l>Then swam over ocean Ecgtheow's son </l>
+<l>lonely and sorrowful, seeking his land, </l>
+<l>where Hygd made him offer of hoard and realm, </l>
+<l>rings and royal-seat, reckoning naught </l>
+<l>the strength of her son to save their kingdom </l>
+<l>from hostile hordes, after Hygelac's death. </l>
+<l>No sooner for this could the stricken ones </l>
+<l>in any wise move that atheling's mind </l>
+<l>over young Heardred's head as lord </l>
+<l>and ruler of all the realm to be: </l>
+<l>yet the hero upheld him with helpful words, </l>
+<l>aided in honor, till, older grown, </l>
+<l>he wielded the Weder-Geats. &mdash; Wandering exiles </l>
+<l>sought him o'er seas, the sons of Ohtere, </l>
+<l>who had spurned the sway of the Scylfings'-helmet, </l>
+<l>the bravest and best that broke the rings, </l>
+<l>in Swedish land, of the sea-kings' line, </l>
+<l>haughty hero.<ref target="n33.3">[3]</ref> Hence Heardred's end. </l>
+<l>For shelter he gave them, sword-death came, </l>
+<l>the blade's fell blow, to bairn of Hygelac; </l>
+<l>but the son of Ongentheow sought again </l>
+<l>house and home when Heardred fell, </l>
+<l>leaving Beowulf lord of Geats </l>
+<l>and gift-seat's master. &mdash; A good king he!</l>
+ </lg>
+<pb n="73"/>
+
+<note id="n33.1"><seg type="note-symbol">[1]</seg> <p>Literally "loan-days," days loaned to man.</p></note>
+<note id="n33.2"><seg type="note-symbol">[2]</seg> <p>Chattuarii, a tribe that dwelt along the Rhine, and took part in repelling
+the raid of (Hygelac) Chocilaicus.</p></note>
+<note id="n33.3"><seg type="note-symbol">[3]</seg> <p>Onela, son of Ongentheow, who pursues his two nephews Eanmund and
+Eadgils to Heardred's court, where they have taken refuge after their un-successful rebellion. In the fighting Heardred is killed.</p></note>
+
+</div2>
+<div2 type="section" n="34" id="d36">
+<head>XXXIV</head>
+<lg type="stanza" n="41">
+
+<l>  THE fall of his lord he was fain to requite </l>
+<l>in after days; and to Eadgils he proved </l>
+<l>friend to the friendless, and forces sent </l>
+<l>over the sea to the son of Ohtere, </l>
+<l>weapons and warriors: well repaid he </l>
+<l>those care-paths cold when the king he slew.<ref target="n34.1">[1]</ref> </l>
+<l>Thus safe through struggles the son of Ecgtheow </l>
+<l>had passed a plenty, through perils dire, </l>
+<l>with daring deeds, till this day was come </l>
+<l>that doomed him now with the dragon to strive. </l>
+<l>  With comrades eleven the lord of Geats </l>
+<l>swollen in rage went seeking the dragon. </l>
+<l>He had heard whence all the harm arose </l>
+<l>and the killing of clansmen; that cup of price </l>
+<l>on the lap of the lord had been laid by the finder. </l>
+<l>In the throng was this one thirteenth man, </l>
+<l>starter of all the strife and ill, </l>
+<l>care-laden captive; cringing thence </l>
+<l>forced and reluctant, he led them on </l>
+<l>till he came in ken of that cavern-hall, </l>
+<l>the barrow delved near billowy surges, </l>
+<l>flood of ocean. Within 'twas full </l>
+<l>of wire-gold and jewels; a jealous warden, </l>
+<l>warrior trusty, the treasures held, </l>
+<l>lurked in his lair. Not light the task </l>
+<l>of entrance for any of earth-born men! </l>
+<l>  Sat on the headland the hero king, </l>
+<l>spake words of hail to his hearth-companions, </l>
+<l>gold-friend of Geats. All gloomy his soul, </l>
+<l>wavering, death-bound. Wyrd full nigh </l>
+<l>stood ready to greet the gray-haired man, </l>
+<l>to seize his soul-hoard, sunder apart </l>
+<l>life and body. Not long would be </l>
+<l>the warrior's spirit enwound with flesh. </l>
+<l>  Beowulf spake, the bairn of Ecgtheow:&mdash; </l>
+<l>"Through store of struggles I strove in youth,</l>
+
+<pb n="74"/>
+
+<l>mighty feuds; I mind them all. </l>
+<l>I was seven years old when the sovran of rings, </l>
+<l>friend-of-his-folk, from my father took me, </l>
+<l>had me, and held me, Hrethel the king, </l>
+<l>with food and fee, faithful in kinship. </l>
+<l>Ne'er, while I lived there, he loathlier found me, </l>
+<l>bairn in the burg, than his birthright sons, </l>
+<l>Herebeald and Haethcyn and Hygelac mine. </l>
+<l>For the eldest of these, by unmeet chance, </l>
+<l>by kinsman's deed, was the death-bed strewn, </l>
+<l>when Haethcyn killed him with horny bow, </l>
+<l>his own dear liege laid low with an arrow, </l>
+<l>missed the mark and his mate shot down, </l>
+<l>one brother the other, with bloody shaft. </l>
+<l>A feeless fight,<ref target="n34.2">[2]</ref> and a fearful sin, </l>
+<l>horror to Hrethel; yet, hard as it was, </l>
+<l>unavenged must the atheling die! </l>
+<l>Too awful it is for an aged man </l>
+<l>to bide and bear, that his bairn so young </l>
+<l>rides on the gallows. A rime he makes, </l>
+<l>sorrow-song for his son there hanging </l>
+<l>as rapture of ravens; no rescue now </l>
+<l>can come from the old, disabled man! </l>
+<l>Still is he minded, as morning breaks, </l>
+<l>of the heir gone elsewhere;<ref target="n34.3">[3]</ref> another he hopes not </l>
+<l>he will bide to see his burg within </l>
+<l>as ward for his wealth, now the one has found </l>
+<l>doom of death that the deed incurred. </l>
+<l>Forlorn he looks on the lodge of his son, </l>
+<l>wine-hall waste and wind-swept chambers </l>
+<l>reft of revel. The rider sleepeth, </l>
+<l>the hero, far-hidden;<ref target="n34.4">[4]</ref> no harp resounds, </l>
+<l>in the courts no wassail, as once was heard.</l>
+
+<pb n="75"/>
+ </lg>
+<note id="n34.1"><seg type="note-symbol">[1]</seg> <p>That is, Beowulf supports Eadgils against Onela, who is slain by Eadgils
+in revenge for the "care-paths" of exile into which Onela forced him.</p></note>
+<note id="n34.2"><seg type="note-symbol">[2]</seg> <p>That is, the king could claim no wergild, or man-price, from one son
+for the killing of the other.</p></note>
+<note id="n34.3"><seg type="note-symbol">[3]</seg> <p>Usual euphemism for death.</p></note>
+<note id="n34.4"><seg type="note-symbol">[4]</seg> <p>Sc. in the grave.</p></note>
+
+</div2>
+<div2 type="section" n="35" id="d37">
+<head>XXXV</head>
+<lg type="stanza" n="42">
+
+<l>"THEN he goes to his chamber, a grief-song chants </l>
+<l>alone for his lost. Too large all seems, </l>
+<l>homestead and house. So the helmet-of-Weders </l>
+<l>hid in his heart for Herebeald </l>
+<l>waves of woe. No way could he take </l>
+<l>to avenge on the slayer slaughter so foul; </l>
+<l>nor e'en could he harass that hero at all </l>
+<l>with loathing deed, though he loved him not. </l>
+<l>And so for the sorrow his soul endured, </l>
+<l>men's gladness he gave up and God's light chose. </l>
+<l>Lands and cities he left his sons </l>
+<l>(as the wealthy do) when he went from earth. </l>
+<l>There was strife and struggle 'twixt Swede and Geat </l>
+<l>o'er the width of waters; war arose, </l>
+<l>hard battle-horror, when Hrethel died, </l>
+<l>and Ongentheow's offspring grew </l>
+<l>strife-keen, bold, nor brooked o'er the seas </l>
+<l>pact of peace, but pushed their hosts </l>
+<l>to harass in hatred by Hreosnabeorh. </l>
+<l>Men of my folk for that feud had vengeance, </l>
+<l>for woful war ('tis widely known), </l>
+<l>though one of them bought it with blood of his heart, </l>
+<l>a bargain hard: for Haethcyn proved </l>
+<l>fatal that fray, for the first-of-Geats. </l>
+<l>At morn, I heard, was the murderer killed </l>
+<l>by kinsman for kinsman,<ref target="n35.1">[1]</ref> with clash of sword, </l>
+<l>when Ongentheow met Eofor there. </l>
+<l>Wide split the war-helm: wan he fell, </l>
+<l>hoary Scylfing; the hand that smote him </l>
+<l>of feud was mindful, nor flinched from the death-blow. </l>
+
+<l>&mdash; "For all that he<ref target="n35.2">[2]</ref> gave me, my gleaming sword </l>
+<l>repaid him at war, &mdash; such power I wielded, &mdash; </l>
+<l>for lordly treasure: with land he entrusted me, </l>
+<l>homestead and house. He had no need</l>
+
+<pb n="76"/>
+
+<l>from Swedish realm, or from Spear-Dane folk, </l>
+<l>or from men of the Gifths, to get him help, &mdash; </l>
+<l>some warrior worse for wage to buy! </l>
+<l>Ever I fought in the front of all, </l>
+<l>sole to the fore; and so shall I fight </l>
+<l>while I bide in life and this blade shall last </l>
+<l>that early and late hath loyal proved </l>
+<l>since for my doughtiness Daeghrefn fell, </l>
+<l>slain by my hand, the Hugas' champion. </l>
+<l>Nor fared he thence to the Frisian king </l>
+<l>with the booty back, and breast-adornments; </l>
+<l>but, slain in struggle, that standard-bearer </l>
+<l>fell, atheling brave. Not with blade was he slain, </l>
+<l>but his bones were broken by brawny gripe, </l>
+<l>his heart-waves stilled. &mdash; The sword-edge now, </l>
+<l>hard blade and my hand, for the hoard shall strive." </l>
+<l>  Beowulf spake, and a battle-vow made </l>
+<l>his last of all: "I have lived through many </l>
+<l>wars in my youth; now once again, </l>
+<l>old folk-defender, feud will I seek, </l>
+<l>do doughty deeds, if the dark destroyer </l>
+<l>forth from his cavern come to fight me!" </l>
+<l>Then hailed he the helmeted heroes all, </l>
+<l>for the last time greeting his liegemen dear, </l>
+<l>comrades of war: "I should carry no weapon, </l>
+<l>no sword to the serpent, if sure I knew </l>
+<l>how, with such enemy, else my vows </l>
+<l>I could gain as I did in Grendel's day. </l>
+<l>But fire in this fight I must fear me now, </l>
+<l>and poisonous breath; so I bring with me </l>
+<l>breastplate and board.<ref target="n35.3">[3]</ref> From the barrow's keeper </l>
+<l>no footbreadth flee I. One fight shall end </l>
+<l>our war by the wall, as Wyrd allots, </l>
+<l>all mankind's master. My mood is bold </l>
+<l>but forbears to boast o'er this battling-flyer. </l>
+<l>&mdash; Now abide by the barrow, ye breastplate-mailed, </l>
+<l>ye heroes in harness, which of us twain </l>
+<l>better from battle-rush bear his wounds. </l>
+<l>Wait ye the finish. The fight is not yours,</l>
+
+<pb n="77"/>
+
+<l>nor meet for any but me alone </l>
+<l>to measure might with this monster here </l>
+<l>and play the hero. Hardily I </l>
+<l>shall win that wealth, or war shall seize, </l>
+<l>cruel killing, your king and lord!" </l>
+<l>  Up stood then with shield the sturdy champion, </l>
+<l>stayed by the strength of his single manhood, </l>
+<l>and hardy 'neath helmet his harness bore </l>
+<l>under cleft of the cliffs: no coward's path! </l>
+<l>Soon spied by the wall that warrior chief, </l>
+<l>survivor of many a victory-field </l>
+<l>where foemen fought with furious clashings, </l>
+<l>an arch of stone; and within, a stream </l>
+<l>that broke from the barrow. The brooklet's wave </l>
+<l>was hot with fire. The hoard that way </l>
+<l>he never could hope unharmed to near, </l>
+<l>or endure those deeps,<ref target="n35.4">[4]</ref> for the dragon's flame. </l>
+<l>Then let from his breast, for he burst with rage, </l>
+<l>the Weder-Geat prince a word outgo; </l>
+<l>stormed the stark-heart; stern went ringing </l>
+<l>and clear his cry 'neath the cliff-rocks gray. </l>
+<l>The hoard-guard heard a human voice; </l>
+<l>his rage was enkindled. No respite now </l>
+<l>for pact of peace! The poison-breath </l>
+<l>of that foul worm first came forth from the cave, </l>
+<l>hot reek-of-fight: the rocks resounded. </l>
+<l>Stout by the stone-way his shield he raised, </l>
+<l>lord of the Geats, against the loathed-one; </l>
+<l>while with courage keen that coiled foe </l>
+<l>came seeking strife. The sturdy king </l>
+<l>had drawn his sword, not dull of edge, </l>
+<l>heirloom old; and each of the two </l>
+<l>felt fear of his foe, though fierce their mood. </l>
+<l>Stoutly stood with his shield high-raised </l>
+<l>the warrior king, as the worm now coiled </l>
+<l>together amain: the mailed-one waited. </l>
+<l>Now, spire by spire, fast sped and glided </l>
+<l>that blazing serpent. The shield protected, </l>
+<l>soul and body a shorter while</l>
+
+<pb n="78"/>
+
+<l>for the hero-king than his heart desired, </l>
+<l>could his will have wielded the welcome respite </l>
+<l>but once in his life! But Wyrd denied it, </l>
+<l>and victory's honors. &mdash; His arm he lifted </l>
+<l>lord of the Geats, the grim foe smote </l>
+<l>with atheling's heirloom. Its edge was turned </l>
+<l>brown blade, on the bone, and bit more feebly </l>
+<l>than its noble master had need of then </l>
+<l>in his baleful stress. &mdash; Then the barrow's keeper </l>
+<l>waxed full wild for that weighty blow, </l>
+<l>cast deadly flames; wide drove and far </l>
+<l>those vicious fires. No victor's glory </l>
+<l>the Geats' lord boasted; his brand had failed, </l>
+<l>naked in battle, as never it should, </l>
+<l>excellent iron! &mdash; 'Twas no easy path </l>
+<l>that Ecgtheow's honored heir must tread </l>
+<l>over the plain to the place of the foe; </l>
+<l>for against his will he must win a home </l>
+<l>elsewhere far, as must all men, leaving </l>
+<l>this lapsing life! &mdash; Not long it was </l>
+<l>ere those champions grimly closed again. </l>
+<l>The hoard-guard was heartened; high heaved hisbreast </l>
+<l>once more; and by peril was pressed again, </l>
+<l>enfolded in flames, the folk-commander! </l>
+<l>Nor yet about him his band of comrades, </l>
+<l>sons of athelings, armed stood </l>
+<l>with warlike front: to the woods they bent them, </l>
+<l>their lives to save. But the soul of one </l>
+<l>with care was cumbered. Kinship true </l>
+<l>can never be marred in a noble mind! </l>
+ </lg>
+<note id="n35.1"><seg type="note-symbol">[1]</seg> <p>Eofor for Wulf. &mdash; The immediate provocation for Eofor in killing "the
+hoary Scylfing," Ongentheow, is that the latter has just struck Wulf down;
+but the king, Haethcyn, is also avenged by the blow. See the detailed
+description below.</p></note>
+<note id="n35.2"><seg type="note-symbol">[2]</seg> <p>Hygelac.</p></note>
+<note id="n35.3"><seg type="note-symbol">[3]</seg> <p>Shield.</p></note>
+<note id="n35.4"><seg type="note-symbol">[4]</seg> <p>The hollow passage.</p></note>
+
+</div2>
+<div2 type="section" n="36" id="d38">
+<head>XXXVI</head>
+<lg type="stanza" n="43">
+
+<l>WIGLAF his name was, Weohstan's son, </l>
+<l>linden-thane loved, the lord of Scylfings, </l>
+<l>Aelfhere's kinsman. His king he now saw </l>
+<l>with heat under helmet hard oppressed. </l>
+<l>He minded the prizes his prince had given him,</l>
+
+<pb n="79"/>
+
+<l>wealthy seat of the Waegmunding line, </l>
+<l>and folk-rights that his father owned </l>
+<l>Not long he lingered. The linden yellow, </l>
+<l>his shield, he seized; the old sword he drew: &mdash; </l>
+<l>as heirloom of Eanmund earth-dwellers knew it, </l>
+<l>who was slain by the sword-edge, son of Ohtere, </l>
+<l>friendless exile, erst in fray </l>
+<l>killed by Weohstan, who won for his kin </l>
+<l>brown-bright helmet, breastplate ringed, </l>
+<l>old sword of Eotens, Onela's gift, </l>
+<l>weeds of war of the warrior-thane, </l>
+<l>battle-gear brave: though a brother's child </l>
+<l>had been felled, the feud was unfelt by Onela.<ref target="n36.1">[1]</ref> </l>
+<l>For winters this war-gear Weohstan kept, </l>
+<l>breastplate and board, till his bairn had grown </l>
+<l>earlship to earn as the old sire did: </l>
+<l>then he gave him, mid Geats, the gear of battle, </l>
+<l>portion huge, when he passed from life, </l>
+<l>fared aged forth. For the first time now </l>
+<l>with his leader-lord the liegeman young </l>
+<l>was bidden to share the shock of battle. </l>
+<l>Neither softened his soul, nor the sire's bequest </l>
+<l>weakened in war.<ref target="n36.2">[2]</ref> So the worm found out </l>
+<l>when once in fight the foes had met! </l>
+<l>Wiglaf spake, &mdash; and his words were sage; </l>
+<l>sad in spirit, he said to his comrades:&mdash; </l>
+<l>"I remember the time, when mead we took, </l>
+<l>what promise we made to this prince of ours </l>
+<l>in the banquet-hall, to our breaker-of-rings, </l>
+<l>for gear of combat to give him requital, </l>
+<l>for hard-sword and helmet, if hap should bring </l>
+<l>stress of this sort! Himself who chose us </l>
+<l>from all his army to aid him now, </l>
+<l>urged us to glory, and gave these treasures, </l>
+<l>because he counted us keen with the spear</l>
+
+<pb n="80"/>
+
+<l>and hardy 'neath helm, though this hero-work </l>
+<l>our leader hoped unhelped and alone </l>
+<l>to finish for us, &mdash; folk-defender </l>
+<l>who hath got him glory greater than all men </l>
+<l>for daring deeds! Now the day is come </l>
+<l>that our noble master has need of the might </l>
+<l>of warriors stout. Let us stride along </l>
+<l>the hero to help while the heat is about him </l>
+<l>glowing and grim! For God is my witness </l>
+<l>I am far more fain the fire should seize </l>
+<l>along with my lord these limbs of mine!<ref target="n36.3">[3]</ref> </l>
+<l>Unsuiting it seems our shields to bear </l>
+<l>homeward hence, save here we essay </l>
+<l>to fell the foe and defend the life </l>
+<l>of the Weders' lord. I wot 'twere shame </l>
+<l>on the law of our land if alone the king </l>
+<l>out of Geatish warriors woe endured </l>
+<l>and sank in the struggle! My sword and helmet, </l>
+<l>breastplate and board, for us both shall serve!" </l>
+<l>Through slaughter-reek strode he to succor his chieftain, </l>
+<l>his battle-helm bore, and brief words spake:&mdash; </l>
+<l>"Beowulf dearest, do all bravely, </l>
+<l>as in youthful days of yore thou vowedst </l>
+<l>that while life should last thou wouldst let no wise </l>
+<l>thy glory droop! Now, great in deeds, </l>
+<l>atheling steadfast, with all thy strength </l>
+<l>shield thy life! I will stand to help thee." </l>
+<l>  At the words the worm came once again, </l>
+<l>murderous monster mad with rage, </l>
+<l>with fire-billows flaming, its foes to seek, </l>
+<l>the hated men. In heat-waves burned </l>
+<l>that board<ref target="n36.4">[4]</ref> to the boss, and the breastplate failed </l>
+<l>to shelter at all the spear-thane young. </l>
+<l>Yet quickly under his kinsman's shield </l>
+<l>went eager the earl, since his own was now </l>
+<l>all burned by the blaze. The bold king again </l>
+<l>had mind of his glory: with might his glaive</l>
+
+<pb n="81"/>
+
+<l>was driven into the dragon's head, &mdash; </l>
+<l>blow nerved by hate. But Naegling<ref target="n36.5">[5]</ref> was shivered, </l>
+<l>broken in battle was Beowulf's sword, </l>
+<l>old and gray. 'Twas granted him not </l>
+<l>that ever the edge of iron at all </l>
+<l>could help him at strife: too strong was his hand, </l>
+<l>so the tale is told, and he tried too far </l>
+<l>with strength of stroke all swords he wielded, </l>
+<l>though sturdy their steel: they steaded him nought. </l>
+<l>Then for the third time thought on its feud </l>
+<l>that folk-destroyer, fire-dread dragon, </l>
+<l>and rushed on the hero, where room allowed, </l>
+<l>battle-grim, burning; its bitter teeth </l>
+<l>closed on his neck, and covered him </l>
+<l>with waves of blood from his breast that welled. </l>
+ </lg>
+<note id="n36.1"><seg type="note-symbol">[1]</seg> <p>That is, although Eanmund was brother's son to Onela, the slaying of
+the former by Weohstan is not felt as cause of feud, and is rewarded by
+gift of the slain man's weapons.</p></note>
+<note id="n36.2"><seg type="note-symbol">[2]</seg> <p>Both Wiglaf and the sword did their duty. &mdash; The following is one of
+the classic passages for illustrating the comitatus as the most conspicuous
+Germanic institution, and its underlying sense of duty, based partly on
+the idea of loyalty and partly on the practical basis of benefits received
+and repaid.</p></note>
+<note id="n36.3"><seg type="note-symbol">[3]</seg> <p>Sc. "than to bide safely here," &mdash; a common figure of incomplete
+comparison.</p></note>
+<note id="n36.4"><seg type="note-symbol">[4]</seg> <p>Wiglaf's wooden shield.</p></note>
+<note id="n36.5"><seg type="note-symbol">[5]</seg> <p>Gering would translate "kinsman of the nail," as both are made of
+iron.</p></note>
+
+
+</div2>
+<div2 type="section" n="37" id="d39">
+<head>XXXVII</head>
+<lg type="stanza" n="44">
+
+<l>'TWAS now, men say, in his sovran's need </l>
+<l>that the earl made known his noble strain, </l>
+<l>craft and keenness and courage enduring. </l>
+<l>Heedless of harm, though his hand was burned, </l>
+<l>hardy-hearted, he helped his kinsman. </l>
+<l>A little lower the loathsome beast </l>
+<l>he smote with sword; his steel drove in </l>
+<l>bright and burnished; that blaze began </l>
+<l>to lose and lessen. At last the king </l>
+<l>wielded his wits again, war-knife drew, </l>
+<l>a biting blade by his breastplate hanging, </l>
+<l>and the Weders'-helm smote that worm asunder, </l>
+<l>felled the foe, flung forth its life. </l>
+<l>  So had they killed it, kinsmen both, </l>
+<l>athelings twain: thus an earl should be </l>
+<l>in danger's day! &mdash; Of deeds of valor </l>
+<l>this conqueror's-hour of the king was last, </l>
+<l>of his work in the world. The wound began, </l>
+<l>which that dragon-of-earth had erst inflicted, </l>
+<l>to swell and smart; and soon he found</l>
+
+<pb n="82"/>
+
+<l>in his breast was boiling, baleful and deep, </l>
+<l>pain of poison. The prince walked on, </l>
+<l>wise in his thought, to the wall of rock; </l>
+<l>then sat, and stared at the structure of giants, </l>
+<l>where arch of stone and steadfast column </l>
+<l>upheld forever that hall in earth. </l>
+<l>Yet here must the hand of the henchman peerless </l>
+<l>lave with water his winsome lord, </l>
+<l>the king and conqueror covered with blood, </l>
+<l>with struggle spent, and unspan his helmet. </l>
+<l>Beowulf spake in spite of his hurt, </l>
+<l>his mortal wound; full well he knew </l>
+<l>his portion now was past and gone </l>
+<l>of earthly bliss, and all had fled </l>
+<l>of his file of days, and death was near: </l>
+<l>"I would fain bestow on son of mine </l>
+<l>this gear of war, were given me now </l>
+<l>that any heir should after me come </l>
+<l>of my proper blood. This people I ruled </l>
+<l>fifty winters. No folk-king was there, </l>
+<l>none at all, of the neighboring clans </l>
+<l>who war would wage me with 'warriors'-friends'<ref target="n37.1">[1]</ref> </l>
+<l>and threat me with horrors. At home I bided </l>
+<l>what fate might come, and I cared for mine own; </l>
+<l>feuds I sought not, nor falsely swore </l>
+<l>ever on oath. For all these things, </l>
+<l>though fatally wounded, fain am I! </l>
+<l>From the Ruler-of-Man no wrath shall seize me, </l>
+<l>when life from my frame must flee away, </l>
+<l>for killing of kinsmen! Now quickly go </l>
+<l>and gaze on that hoard 'neath the hoary rock, </l>
+<l>Wiglaf loved, now the worm lies low, </l>
+<l>sleeps, heart-sore, of his spoil bereaved. </l>
+<l>And fare in haste. I would fain behold </l>
+<l>the gorgeous heirlooms, golden store, </l>
+<l>have joy in the jewels and gems, lay down </l>
+<l>softlier for sight of this splendid hoard </l>
+<l>my life and the lordship I long have held."</l>
+</lg>
+<pb n="83"/>
+
+<note id="n37.1"><seg type="note-symbol">[1]</seg> <p>That is, swords.</p></note>
+
+</div2>
+<div2 type="section" n="38" id="d40">
+<head>XXXVIII</head>
+<lg type="stanza" n="45">
+
+<l>I HAVE heard that swiftly the son of Weohstan </l>
+<l>at wish and word of his wounded king, &mdash; </l>
+<l>war-sick warrior, &mdash; woven mail-coat, </l>
+<l>battle-sark, bore 'neath the barrow's roof. </l>
+<l>Then the clansman keen, of conquest proud, </l>
+<l>passing the seat,<ref target="n38.1">[1]</ref> saw store of jewels </l>
+<l>and glistening gold the ground along; </l>
+<l>by the wall were marvels, and many a vessel </l>
+<l>in the den of the dragon, the dawn-flier old: </l>
+<l>unburnished bowls of bygone men </l>
+<l>reft of richness; rusty helms </l>
+<l>of the olden age; and arm-rings many </l>
+<l>wondrously woven. &mdash; Such wealth of gold, </l>
+<l>booty from barrow, can burden with pride </l>
+<l>each human wight: let him hide it who will! &mdash; </l>
+<l>His glance too fell on a gold-wove banner </l>
+<l>high o'er the hoard, of handiwork noblest, </l>
+<l>brilliantly broidered; so bright its gleam, </l>
+<l>all the earth-floor he easily saw </l>
+<l>and viewed all these vessels. No vestige now </l>
+<l>was seen of the serpent: the sword had ta'en him. </l>
+<l>  Then, I heard, the hill of its hoard was reft, </l>
+<l>old work of giants, by one alone; </l>
+<l>he burdened his bosom with beakers and plate </l>
+<l>at his own good will, and the ensign took, </l>
+<l>brightest of beacons. &mdash; The blade of his lord </l>
+<l>&mdash; its edge was iron &mdash; had injured deep </l>
+<l>one that guarded the golden hoard </l>
+<l>many a year and its murder-fire </l>
+<l>spread hot round the barrow in horror-billows </l>
+<l>at midnight hour, till it met its doom. </l>
+<l>Hasted the herald, the hoard so spurred him </l>
+<l>his track to retrace; he was troubled by doubt, </l>
+<l>high-souled hero, if haply he'd find </l>
+<l>alive, where he left him, the lord of Weders, </l>
+<l>weakening fast by the wall of the cave. </l>
+<l>So he carried the load. His lord and king</l>
+
+<pb n="84"/>
+
+<l>he found all bleeding, famous chief </l>
+<l>at the lapse of life. The liegeman again </l>
+<l>plashed him with water, till point of word </l>
+<l>broke through the breast-hoard. Beowulf spake, </l>
+<l>sage and sad, as he stared at the gold. &mdash; </l>
+<l>"For the gold and treasure, to God my thanks, </l>
+<l>to the Wielder-of-Wonders, with words I say, </l>
+<l>for what I behold, to Heaven's Lord, </l>
+<l>for the grace that I give such gifts to my folk </l>
+<l>or ever the day of my death be run! </l>
+<l>Now I've bartered here for booty of treasure </l>
+<l>the last of my life, so look ye well </l>
+<l>to the needs of my land! No longer I tarry. </l>
+<l>A barrow bid ye the battle-fanned raise </l>
+<l>for my ashes. 'Twill shine by the shore of the flood, </l>
+<l>to folk of mine memorial fair </l>
+<l>on Hrones Headland high uplifted, </l>
+<l>that ocean-wanderers oft may hail </l>
+<l>Beowulf's Barrow, as back from far </l>
+<l>they drive their keels o'er the darkling wave." </l>
+<l>  From his neck he unclasped the collar of gold, </l>
+<l>valorous king, to his vassal gave it </l>
+<l>with bright-gold helmet, breastplate, and ring, </l>
+<l>to the youthful thane: bade him use them in joy. </l>
+<l>  "Thou art end and remnant of all our race </l>
+<l>the Waegmunding name. For Wyrd hath swept them, </l>
+<l>all my line, to the land of doom, </l>
+<l>earls in their glory: I after them go." </l>
+<l>  This word was the last which the wise old man </l>
+<l>harbored in heart ere hot death-waves </l>
+<l>of balefire he chose. From his bosom fled </l>
+<l>his soul to seek the saints' reward. </l>
+ </lg>
+<note id="n38.1"><seg type="note-symbol">[1]</seg> <p>Where Beowulf lay.</p></note>
+
+</div2>
+<div2 type="section" n="39" id="d41">
+<head>XXXIX</head>
+<lg type="stanza" n="46">
+
+<l>IT was heavy hap for that hero young </l>
+<l>on his lord beloved to look and find him </l>
+<l>lying on earth with life at end, </l>
+<l>sorrowful sight. But the slayer too,</l>
+
+<pb n="85"/>
+
+<l>awful earth-dragon, empty of breath, </l>
+<l>lay felled in fight, nor, fain of its treasure, </l>
+<l>could the writhing monster rule it more. </l>
+<l>For edges of iron had ended its days, </l>
+<l>hard and battle-sharp, hammers' leaving;<ref target="n39.1">[1]</ref> </l>
+<l>and that flier-afar had fallen to ground </l>
+<l>hushed by its hurt, its hoard all near, </l>
+<l>no longer lusty aloft to whirl </l>
+<l>at midnight, making its merriment seen, </l>
+<l>proud of its prizes: prone it sank </l>
+<l>by the handiwork of the hero-king. </l>
+<l>Forsooth among folk but few achieve, </l>
+<l>&mdash; though sturdy and strong, as stories tell me, </l>
+<l>and never so daring in deed of valor, &mdash; </l>
+<l>the perilous breath of a poison-foe </l>
+<l>to brave, and to rush on the ring-board hall, </l>
+<l>whenever his watch the warden keeps </l>
+<l>bold in the barrow. Beowulf paid </l>
+<l>the price of death for that precious hoard; </l>
+<l>and each of the foes had found the end </l>
+<l>of this fleeting life. </l>
+<l>            Befell erelong </l>
+<l>that the laggards in war the wood had left, </l>
+<l>trothbreakers, cowards, ten together, </l>
+<l>fearing before to flourish a spear </l>
+<l>in the sore distress of their sovran lord. </l>
+<l>Now in their shame their shields they carried, </l>
+<l>armor of fight, where the old man lay; </l>
+<l>and they gazed on Wiglaf. Wearied he sat </l>
+<l>at his sovran's shoulder, shieldsman good, </l>
+<l>to wake him with water.<ref target="n39.2">[2]</ref> Nowise it availed. </l>
+<l>Though well he wished it, in world no more </l>
+<l>could he barrier life for that leader-of-battles </l>
+<l>nor baffle the will of all-wielding God. </l>
+<l>Doom of the Lord was law o'er the deeds </l>
+<l>of every man, as it is to-day. </l>
+<l>Grim was the answer, easy to get, </l>
+<l>from the youth for those that had yielded to fear!</l>
+
+<pb n="86"/>
+
+<l>Wiglaf spake, the son of Weohstan, &mdash; </l>
+<l>mournful he looked on those men unloved:&mdash; </l>
+<l>"Who sooth will speak, can say indeed </l>
+<l>that the ruler who gave you golden rings </l>
+<l>and the harness of war in which ye stand </l>
+<l>&mdash; for he at ale-bench often-times </l>
+<l>bestowed on hall-folk helm and breastplate, </l>
+<l>lord to liegemen, the likeliest gear </l>
+<l>which near of far he could find to give, &mdash; </l>
+<l>threw away and wasted these weeds of battle, </l>
+<l>on men who failed when the foemen came! </l>
+<l>Not at all could the king of his comrades-in-arms </l>
+<l>venture to vaunt, though the Victory-Wielder, </l>
+<l>God, gave him grace that he got revenge </l>
+<l>sole with his sword in stress and need. </l>
+<l>To rescue his life, 'twas little that I </l>
+<l>could serve him in struggle; yet shift I made </l>
+<l>(hopeless it seemed) to help my kinsman. </l>
+<l>Its strength ever waned, when with weapon I struck </l>
+<l>that fatal foe, and the fire less strongly </l>
+<l>flowed from its head. &mdash; Too few the heroes </l>
+<l>in throe of contest that thronged to our king! </l>
+<l>Now gift of treasure and girding of sword, </l>
+<l>joy of the house and home-delight </l>
+<l>shall fail your folk; his freehold-land </l>
+<l>every clansman within your kin </l>
+<l>shall lose and leave, when lords highborn </l>
+<l>hear afar of that flight of yours, </l>
+<l>a fameless deed. Yea, death is better </l>
+<l>for liegemen all than a life of shame!" </l>
+ </lg>
+<note id="n39.1"><seg type="note-symbol">[1]</seg> <p>What had been left or made by the hammer; well-forged.</p></note>
+<note id="n39.2"><seg type="note-symbol">[2]</seg> <p>Trying to revive him.</p></note>
+
+
+</div2>
+<div2 type="section" n="40" id="d42">
+<head>XL</head>
+<lg type="stanza" n="47">
+<l>THAT battle-toil bade he at burg to announce, </l>
+<l>at the fort on the cliff, where, full of sorrow, </l>
+<l>all the morning earls had sat, </l>
+<l>daring shieldsmen, in doubt of twain: </l>
+<l>would they wail as dead, or welcome home, </l>
+<l>their lord beloved? Little<ref target="n40.1">[1]</ref> kept back</l>
+
+<pb n="87"/>
+
+<l>of the tidings new, but told them all, </l>
+<l>the herald that up the headland rode. &mdash; </l>
+<l>"Now the willing-giver to Weder folk </l>
+<l>in death-bed lies; the Lord of Geats </l>
+<l>on the slaughter-bed sleeps by the serpent's deed! </l>
+<l>And beside him is stretched that slayer-of-men </l>
+<l>with knife-wounds sick:<ref target="n40.2">[2]</ref> no sword availed </l>
+<l>on the awesome thing in any wise </l>
+<l>to work a wound. There Wiglaf sitteth, </l>
+<l>Weohstan's bairn, by Beowulf's side, </l>
+<l>the living earl by the other dead, </l>
+<l>and heavy of heart a head-watch<ref target="n40.3">[3]</ref> keeps </l>
+<l>o'er friend and foe. &mdash; Now our folk may look </l>
+<l>for waging of war when once unhidden </l>
+<l>to Frisian and Frank the fall of the king </l>
+<l>is spread afar. &mdash; The strife began </l>
+<l>when hot on the Hugas<ref target="n40.4">[4]</ref> Hygelac fell </l>
+<l>and fared with his fleet to the Frisian land. </l>
+<l>Him there the Hetwaras humbled in war, </l>
+<l>plied with such prowess their power o'erwhelming </l>
+<l>that the bold-in-battle bowed beneath it </l>
+<l>and fell in fight. To his friends no wise </l>
+<l>could that earl give treasure! And ever since </l>
+<l>the Merowings' favor has failed us wholly. </l>
+<l>Nor aught expect I of peace and faith </l>
+<l>from Swedish folk. 'Twas spread afar </l>
+<l>how Ongentheow reft at Ravenswood </l>
+<l>Haethcyn Hrethling of hope and life, </l>
+<l>when the folk of Geats for the first time sought </l>
+<l>in wanton pride the Warlike-Scylfings. </l>
+<l>Soon the sage old sire<ref target="n40.5">[5]</ref> of Ohtere, </l>
+<l>ancient and awful, gave answering blow; </l>
+<l>the sea-king<ref target="n40.6">[6]</ref> he slew, and his spouse redeemed, </l>
+<l>his good wife rescued, though robbed of her gold, </l>
+<l>mother of Ohtere and Onela. </l>
+<l>Then he followed his foes, who fled before him </l>
+<l>sore beset and stole their way, </l>
+<l>bereft of a ruler, to Ravenswood.</l>
+
+<pb n="88"/>
+
+<l>With his host he besieged there what swords had left, </l>
+<l>the weary and wounded; woes he threatened </l>
+<l>the whole night through to that hard-pressed throng: </l>
+<l>some with the morrow his sword should kill, </l>
+<l>some should go to the gallows-tree </l>
+<l>for rapture of ravens. But rescue came </l>
+<l>with dawn of day for those desperate men </l>
+<l>when they heard the horn of Hygelac sound, </l>
+<l>tones of his trumpet; the trusty king </l>
+<l>had followed their trail with faithful band. </l>
+ </lg>
+<note id="n40.1"><seg type="note-symbol">[1]</seg> <p>Nothing.</p></note>
+<note id="n40.2"><seg type="note-symbol">[2]</seg> <p>Dead.</p></note>
+<note id="n40.3"><seg type="note-symbol">[3]</seg> <p>Death-watch, guard of honor, "lyke-wake."</p></note>
+<note id="n40.4"><seg type="note-symbol">[4]</seg> <p>A name for the Franks.</p></note>
+<note id="n40.5"><seg type="note-symbol">[5]</seg> <p>Ongentheow.</p></note>
+<note id="n40.6"><seg type="note-symbol">[6]</seg> <p>Haethcyn.</p></note>
+
+</div2>
+<div2 type="section" n="41" id="d43">
+<head>XLI</head>
+<lg type="stanza" n="48">
+
+<l>"THE bloody swath of Swedes and Geats </l>
+<l>and the storm of their strife, were seen afar, </l>
+<l>how folk against folk the fight had wakened. </l>
+<l>The ancient king with his atheling band </l>
+<l>sought his citadel, sorrowing much: </l>
+<l>Ongentheow earl went up to his burg. </l>
+<l>He had tested Hygelac's hardihood, </l>
+<l>the proud one's prowess, would prove it no longer, </l>
+<l>defied no more those fighting-wanderers </l>
+<l>nor hoped from the seamen to save his hoard, </l>
+<l>his bairn and his bride: so he bent him again, </l>
+<l>old, to his earth-walls. Yet after him came </l>
+<l>with slaughter for Swedes the standards of Hygelac </l>
+<l>o'er peaceful plains in pride advancing, </l>
+<l>till Hrethelings fought in the fenced town.<ref target="n41.1">[1]</ref> </l>
+<l>Then Ongentheow with edge of sword, </l>
+<l>the hoary-bearded, was held at bay, </l>
+<l>and the folk-king there was forced to suffer </l>
+<l>Eofor's anger. In ire, at the king </l>
+<l>Wulf Wonreding with weapon struck; </l>
+<l>and the chieftain's blood, for that blow, in streams </l>
+<l>flowed 'neath his hair. No fear felt he, </l>
+<l>stout old Scylfing, but straightway repaid </l>
+<l>in better bargain that bitter stroke</l>
+
+<pb n="89"/>
+
+<l>and faced his foe with fell intent. </l>
+<l>Nor swift enough was the son of Wonred </l>
+<l>answer to render the aged chief; </l>
+<l>too soon on his head the helm was cloven; </l>
+<l>blood-bedecked he bowed to earth, </l>
+<l>and fell adown; not doomed was he yet, </l>
+<l>and well he waxed, though the wound was sore. </l>
+<l>Then the hardy Hygelac-thane,<ref target="n41.2">[2]</ref> </l>
+<l>when his brother fell, with broad brand smote, </l>
+<l>giants' sword crashing through giants'-helm </l>
+<l>across the shield-wall: sank the king, </l>
+<l>his folk's old herdsman, fatally hurt. </l>
+<l>There were many to bind the brother's wounds </l>
+<l>and lift him, fast as fate allowed </l>
+<l>his people to wield the place-of-war. </l>
+<l>But Eofor took from Ongentheow, </l>
+<l>earl from other, the iron-breastplate, </l>
+<l>hard sword hilted, and helmet too, </l>
+<l>and the hoar-chief's harness to Hygelac carried, </l>
+<l>who took the trappings, and truly promised </l>
+<l>rich fee 'mid folk, &mdash; and fulfilled it so. </l>
+<l>For that grim strife gave the Geatish lord, </l>
+<l>Hrethel's offspring, when home he came, </l>
+<l>to Eofor and Wulf a wealth of treasure, </l>
+<l>Each of them had a hundred thousand<ref target="n41.3">[3]</ref> </l>
+<l>in land and linked rings; nor at less price reckoned </l>
+<l>mid-earth men such mighty deeds! </l>
+<l>And to Eofor he gave his only daughter </l>
+<l>in pledge of grace, the pride of his home. </l>
+</lg>
+<lg type="stanza" n="49">
+<l> "Such is the feud, the foeman's rage, </l>
+<l>death-hate of men: so I deem it sure </l>
+<l>that the Swedish folk will seek us home </l>
+<l>for this fall of their friends, the fighting-Scylfings, </l>
+<l>when once they learn that our warrior leader </l>
+<l>lifeless lies, who land and hoard </l>
+<l>ever defended from all his foes, </l>
+<l>furthered his folk's weal, finished his course</l>
+
+<pb n="90"/>
+
+<l>a hardy hero. &mdash; Now haste is best, </l>
+<l>that we go to gaze on our Geatish lord, </l>
+<l>and bear the bountiful breaker-of-rings </l>
+<l>to the funeral pyre. No fragments merely </l>
+<l>shall burn with the warrior. Wealth of jewels, </l>
+<l>gold untold and gained in terror, </l>
+<l>treasure at last with his life obtained, </l>
+<l>all of that booty the brands shall take, </l>
+<l>fire shall eat it. No earl must carry </l>
+<l>memorial jewel. No maiden fair </l>
+<l>shall wreathe her neck with noble ring: </l>
+<l>nay, sad in spirit and shorn of her gold, </l>
+<l>oft shall she pass o'er paths of exile </l>
+<l>now our lord all laughter has laid aside, </l>
+<l>all mirth and revel. Many a spear </l>
+<l>morning-cold shall be clasped amain, </l>
+<l>lifted aloft; nor shall lilt of harp </l>
+<l>those warriors wake; but the wan-hued raven, </l>
+<l>fain o'er the fallen, his feast shall praise </l>
+<l>and boast to the eagle how bravely he ate </l>
+<l>when he and the wolf were wasting the slain." </l>
+</lg>
+<lg type="stanza" n="50">
+<l>  So he told his sorrowful tidings, </l>
+<l>and little<ref target="n41.4">[4]</ref> he lied, the loyal man </l>
+<l>of word or of work. The warriors rose; </l>
+<l>sad, they climbed to the Cliff-of-Eagles, </l>
+<l>went, welling with tears, the wonder to view. </l>
+<l>Found on the sand there, stretched at rest, </l>
+<l>their lifeless lord, who had lavished rings </l>
+<l>of old upon them. Ending-day </l>
+<l>had dawned on the doughty-one; death had seized </l>
+<l>in woful slaughter the Weders' king. </l>
+<l>There saw they, besides, the strangest being, </l>
+<l>loathsome, lying their leader near, </l>
+<l>prone on the field. The fiery dragon, </l>
+<l>fearful fiend, with flame was scorched. </l>
+<l>Reckoned by feet, it was fifty measures </l>
+<l>in length as it lay. Aloft erewhile </l>
+<l>it had revelled by night, and anon come back,</l>
+
+<pb n="91"/>
+
+<l>seeking its den; now in death's sure clutch </l>
+<l>it had come to the end of its earth-hall joys. </l>
+<l>By it there stood the stoups and jars; </l>
+<l>dishes lay there, and dear-decked swords </l>
+<l>eaten with rust, as, on earth's lap resting, </l>
+<l>a thousand winters they waited there. </l>
+<l>For all that heritage huge, that gold </l>
+<l>of bygone men, was bound by a spell,<ref target="n41.5">[5]</ref> </l>
+<l>so the treasure-hall could be touched by none </l>
+<l>of human kind, &mdash; save that Heaven's King, </l>
+<l>God himself, might give whom he would, </l>
+<l>Helper of Heroes, the hoard to open, &mdash; </l>
+<l>even such a man as seemed to him meet. </l>
+</lg>
+<note id="n41.1"><seg type="note-symbol">[1]</seg> <p>The line may mean: till Hrethelings stormed on the hedged shields, &mdash;
+i.e. the shield-wall or hedge of defensive war &mdash; Hrethelings, of course, are Geats.</p></note>
+<note id="n41.2"><seg type="note-symbol">[2]</seg> <p>Eofor, brother to Wulf Wonreding.</p></note>
+<note id="n41.3"><seg type="note-symbol">[3]</seg> <p>Sc. "value in" hides and the weight of the gold.</p></note>
+<note id="n41.4"><seg type="note-symbol">[4]</seg> <p>Not at all.</p></note>
+<note id="n41.5"><seg type="note-symbol">[5]</seg> <p>Laid on it when it was put in the barrow. This spell, or in our days
+the "curse," either prevented discovery or brought dire ills on the finder
+and taker.</p></note>
+
+</div2>
+<div2 type="section" n="42" id="d44">
+<head>XLII</head>
+<lg type="stanza" n="51">
+
+<l>A PERILOUS path, it proved, he<ref target="n42.1">[1]</ref> trod </l>
+<l>who heinously hid, that hall within, </l>
+<l>wealth under wall! Its watcher had killed </l>
+<l>one of a few,<ref target="n42.2">[2]</ref> and the feud was avenged </l>
+<l>in woful fashion. Wondrous seems it, </l>
+<l>what manner a man of might and valor </l>
+<l>oft ends his life, when the earl no longer </l>
+<l>in mead-hall may live with loving friends. </l>
+<l>So Beowulf, when that barrow's warden </l>
+<l>he sought, and the struggle; himself knew not </l>
+<l>in what wise he should wend from the world at last. </l>
+<l>For<ref target="n42.3">[3]</ref> princes potent, who placed the gold, </l>
+<l>with a curse to doomsday covered it deep, </l>
+<l>so that marked with sin the man should be, </l>
+<l>hedged with horrors, in hell-bonds fast, </l>
+<l>racked with plagues, who should rob their hoard.</l>
+
+<pb n="92"/>
+
+<l>Yet no greed for gold, but the grace of heaven, </l>
+<l>ever the king had kept in view.<ref target="n42.4">[4]</ref> </l>
+<l>  Wiglaf spake, the son of Weohstan:&mdash; </l>
+<l>"At the mandate of one, oft warriors many</l>
+<l>sorrow must suffer; and so must we. </l>
+<l>The people's-shepherd showed not aught </l>
+<l>of care for our counsel, king beloved! </l>
+<l>That guardian of gold he should grapple not, urged we, </l>
+<l>but let him lie where he long had been </l>
+<l>in his earth-hall waiting the end of the world, </l>
+<l>the hest of heaven. &mdash; This hoard is ours </l>
+<l>but grievously gotten; too grim the fate </l>
+<l>which thither carried our king and lord. </l>
+<l>I was within there, and all I viewed, </l>
+<l>the chambered treasure, when chance allowed me </l>
+<l>(and my path was made in no pleasant wise) </l>
+<l>under the earth-wall. Eager, I seized </l>
+<l>such heap from the hoard as hands could bear </l>
+<l>and hurriedly carried it hither back </l>
+<l>to my liege and lord. Alive was he still, </l>
+<l>still wielding his wits. The wise old man </l>
+<l>spake much in his sorrow, and sent you greetings </l>
+<l>and bade that ye build, when he breathed no more, </l>
+<l>on the place of his balefire a barrow high, </l>
+<l>memorial mighty. Of men was he </l>
+<l>worthiest warrior wide earth o'er </l>
+<l>the while he had joy of his jewels and burg. </l>
+<l>Let us set out in haste now, the second time </l>
+<l>to see and search this store of treasure, </l>
+<l>these wall-hid wonders, &mdash; the way I show you, &mdash; </l>
+<l>where, gathered near, ye may gaze your fill </l>
+<l>at broad-gold and rings. Let the bier, soon made, </l>
+<l>be all in order when out we come, </l>
+<l>our king and captain to carry thither </l>
+<l>&mdash; man beloved &mdash; where long he shall bide </l>
+<l>safe in the shelter of sovran God." </l>
+<l>Then the bairn of Weohstan bade command, </l>
+<l>hardy chief, to heroes many</l>
+
+<pb n="93"/>
+
+<l>that owned their homesteads, hither to bring </l>
+<l>firewood from far &mdash; o'er the folk they ruled &mdash; </l>
+<l>for the famed-one's funeral. " Fire shall devour </l>
+<l>and wan flames feed on the fearless warrior </l>
+<l>who oft stood stout in the iron-shower, </l>
+<l>when, sped from the string, a storm of arrows </l>
+<l>shot o'er the shield-wall: the shaft held firm, </l>
+<l>featly feathered, followed the barb." </l>
+<l>And now the sage young son of Weohstan </l>
+<l>seven chose of the chieftain's thanes, </l>
+<l>the best he found that band within, </l>
+<l>and went with these warriors, one of eight, </l>
+<l>under hostile roof. In hand one bore </l>
+<l>a lighted torch and led the way. </l>
+<l>No lots they cast for keeping the hoard </l>
+<l>when once the warriors saw it in hall, </l>
+<l>altogether without a guardian, </l>
+<l>lying there lost. And little they mourned </l>
+<l>when they had hastily haled it out, </l>
+<l>dear-bought treasure! The dragon they cast, </l>
+<l>the worm, o'er the wall for the wave to take, </l>
+<l>and surges swallowed that shepherd of gems. </l>
+<l>Then the woven gold on a wain was laden &mdash; </l>
+<l>countless quite! &mdash; and the king was borne, </l>
+<l>hoary hero, to Hrones-Ness. </l>
+</lg>
+<note id="n42.1"><seg type="note-symbol">[1]</seg> <p>Probably the fugitive is meant who discovered the hoard. Ten Brink
+and Gering assume that the dragon is meant. "Hid" may well mean here
+"took while in hiding."</p></note>
+<note id="n42.2"><seg type="note-symbol">[2]</seg> <p>That is "one and a few others." But Beowulf seems to be
+indicated.</p></note>
+<note id="n42.3"><seg type="note-symbol">[3]</seg> <p>Ten Brink points out the strongly heathen character of this part of the
+epic. Beowulf's end came, so the old tradition ran, from his unwitting
+interference with spell-bound treasure.</p></note>
+<note id="n42.4"><seg type="note-symbol">[4]</seg> <p>A hard saying, variously interpreted. In any case, it is the some-what clumsy effort of the Christian poet to tone down the heathenism of
+his material by an edifying observation.</p></note>
+
+</div2>
+<div2 type="section" n="43" id="d45">
+<head>XLIII</head>
+<lg type="stanza" n="52">
+<l>THEN fashioned for him the folk of Geats </l>
+<l>firm on the earth a funeral-pile, </l>
+<l>and hung it with helmets and harness of war </l>
+<l>and breastplates bright, as the boon he asked; </l>
+<l>and they laid amid it the mighty chieftain, </l>
+<l>heroes mourning their master dear. </l>
+<l>Then on the hill that hugest of balefires </l>
+<l>the warriors wakened. Wood-smoke rose </l>
+<l>black over blaze, and blent was the roar </l>
+<l>of flame with weeping (the wind was still), </l>
+<l>till the fire had broken the frame of bones,</l>
+
+<pb n="94"/>
+
+<l>hot at the heart. In heavy mood </l>
+<l>their misery moaned they, their master's death. </l>
+<l>Wailing her woe, the widow<ref target="n43.1">[1]</ref> old, </l>
+<l>her hair upbound, for Beowulf's death </l>
+<l>sung in her sorrow, and said full oft </l>
+<l>she dreaded the doleful days to come, </l>
+<l>deaths enow, and doom of battle, </l>
+<l>and shame. &mdash; The smoke by the sky was devoured. </l>
+<l>  The folk of the Weders fashioned there </l>
+<l>on the headland a barrow broad and high, </l>
+<l>by ocean-farers far descried: </l>
+<l>in ten days' time their toil had raised it, </l>
+<l>the battle-brave's beacon. Round brands of the pyre </l>
+<l>a wall they built, the worthiest ever </l>
+<l>that wit could prompt in their wisest men. </l>
+<l>They placed in the barrow that precious booty, </l>
+<l>the rounds and the rings they had reft erewhile, </l>
+<l>hardy heroes, from hoard in cave, &mdash; </l>
+<l>trusting the ground with treasure of earls, </l>
+<l>gold in the earth, where ever it lies </l>
+<l>useless to men as of yore it was. </l>
+<l>  Then about that barrow the battle-keen rode, </l>
+<l>atheling-born, a band of twelve, </l>
+<l>lament to make, to mourn their king, </l>
+<l>chant their dirge, and their chieftain honor. </l>
+<l>They praised his earlship, his acts of prowess </l>
+<l>worthily witnessed: and well it is </l>
+<l>that men their master-friend mightily laud, </l>
+<l>heartily love, when hence he goes </l>
+<l>from life in the body forlorn away. </l>
+</lg>
+<lg type="stanza" n="53">
+<l>  Thus made their mourning the men of Geatland, </l>
+<l>for their hero's passing his hearth-companions: </l>
+<l>quoth that of all the kings of earth, </l>
+<l>of men he was mildest and most beloved, </l>
+<l>to his kin the kindest, keenest for praise. </l>
+</lg>
+<note id="n43.1"><seg type="note-symbol">[1]</seg> <p>Nothing is said of Beowulf's wife in the poem, but Bugge surmises
+that Beowulf finally accepted Hygd's offer of kingdom and hoard, and, as
+was usual, took her into the bargain.</p></note>
+
+</div2>
+		</div1>
+</body>
+</text>
+</TEI.2>
+
+

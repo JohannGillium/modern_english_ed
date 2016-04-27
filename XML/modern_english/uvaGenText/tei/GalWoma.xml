@@ -1,0 +1,823 @@
+<?xml version="1.0"?>
+
+<?dlps id="GalWoma"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOnum SYSTEM "http://text.lib.virginia.edu/charent/iso-num.ent"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]>
+
+<TEI.2 id="GalWoma">
+<teiHeader type="migrated" creator="Etext">
+<fileDesc>
+<titleStmt>
+<title type="main">"The Woman Behind the Man"</title>
+<title type="sort">the woman behind the man</title>
+<author>Le Gallienne, Richard</author>
+<respStmt>
+<resp>Creation of machine-readable version:</resp>
+<name>Charles Keller</name>
+<resp>Conversion to TEI.2-conformant markup:</resp>
+<name>University of Virginia Library Electronic Text Center</name>
+</respStmt>
+</titleStmt>
+<extent>ca. <num type="kilobytes">37</num> kilobytes</extent>
+<publicationStmt>
+<publisher>University of Virginia Library</publisher>
+<pubPlace>Charlottesville, Virginia</pubPlace>
+<idno type="ETC">GalWoma</idno>
+<date value="1995">1995</date>
+<availability status="public">
+<p n="copyright">Copyright &copy; 1995 by the Rector and Visitors of the University of Virginia</p>
+<p n="access">Publicly accessible</p>
+</availability>
+<idno type="uva-pid">uva-lib:475976</idno>
+</publicationStmt>
+<seriesStmt>
+<title>University of Virginia Library, Text collection</title>
+<idno type="uva-set">UVA-LIB-Text</idno>
+</seriesStmt>
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title type="main">"The Woman Behind the Man"</title>
+<title type="sort">the woman behind the man</title>
+<author>Richard Le Gallienne</author>
+</titleStmt>
+<publicationStmt>
+<publisher>Munsey's Magazine</publisher>
+<pubPlace>New York</pubPlace>
+<date value="1916-03">March 1916</date>
+</publicationStmt>
+<seriesStmt>
+<p>Vol. 57, Num. 2, pp. 260-267</p>
+</seriesStmt>
+<notesStmt>
+<note>
+<p>Checked against University of Virginia library copy: AP2 M8 v.
+LVII</p>
+</note>
+</notesStmt>
+</biblFull>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Prepared for the University of Virginia Library Electronic Text Center</p>
+</projectDesc>
+<editorialDecl>
+<p>All quotation marks retained as data</p>
+<p>Spell-check and verification made against printed text.</p>
+<p>All unambiguous end-of-line hyphens have been removed, and the
+trailing part of a word has been joined to the preceding line.</p>
+<p id="ETC">Keywords in the header are a local Electronic Text Center scheme
+to aid in establishing analytical groupings</p>
+</editorialDecl>
+<refsDecl>
+<p>ID elements are given for each page element and are composed of the text's
+unique cryptogram and the given page number, as in AusEmma1 for page one of
+Jane Austen's Emma.</p>
+</refsDecl>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date value="1916">1916</date>
+</creation>
+<langUsage>
+<language id="eng" usage="main">English</language>
+</langUsage>
+<textClass>
+<keywords>
+<term>nonfiction; prose</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change>
+<date value="1995-06">June 1995</date>
+<respStmt>
+<resp>corrector</resp>
+<name>Kelly Tetterton</name>
+</respStmt>
+<item>Added header and minimal TEI tagging</item>
+</change>
+<change>
+<date value="2005-07">July 2005</date>
+<respStmt>
+<resp>Corrector</resp>
+<name>John Ivor Carlson</name>
+</respStmt>
+<item>Converted SGML to XML. Fixed tagging.</item>
+</change>
+<change>
+<date value="2007-09">September 2007</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Ethan Gruber, University of Virginia Library</name>
+</respStmt>
+<item>Converted XML markup from TEI Lite to uva-dl-tei (TEI P4 with local customizations).</item>
+</change>
+<change>
+<date value="2008-01">January 2008</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Greg Murray, University of Virginia Library</name>
+</respStmt>
+<item>Programmatically updated TEI header markup (but not header content) for minimal compliance with current QA requirements.</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text id="d1">
+
+<front id="d2">
+<titlePage id="d3">
+	<pb/>
+<docImprint>
+MUNSEY'S MAGAZINE<lb/>
+
+VOLUME LVII<lb/>
+
+March, 1916<lb/>
+Number 2<lb/>
+pp. 260-267<lb/>
+</docImprint>
+</titlePage>
+</front>
+
+
+<body id="d4">
+
+<div1 type="article" id="d5"><pb n="260"/>
+<head>
+The Woman<lb/>
+Behind the Man<lb/>
+by Richard Le Gallienne<lb/>
+</head>
+
+<p><hi rend="italic">Thus is a man created &mdash; to do all his work for some woman,
+Do it for her and her only, only to lay at her feet;
+Yet in his talk to pretend, shyly and fiercely maintain it,
+That all is for love of the work &mdash; toil just for love of the toil.
+Yet was there never a battle, but side by side with the soldiers,
+Stern like the serried corn, fluttered the souls of the women,
+As in and out through the corn go the blue-eyed shapes of the flowers;
+Yet was there never a strength but a woman's softness upheld it,
+Never a Thebes of our dreams but it rose to the music of woman &mdash;
+Iron and stone it might stand, but the women had breathed on the building;
+Yea, no man shall make or unmake, ere some woman hath made him a
+man.</hi></p>
+
+<p>GREAT men are impossible without great women.  Behind all
+masculine greatness there is always present some woman as a
+part of the process.
+</p><p>Sometimes it is a woman who might well have been great on
+her own account, had she not preferred to submerge her own
+gifts and ambitions in those of son, husband, or brother.
+Into the mysterious crucible of genius she has chosen to throw
+as a most precious ingredient her own heart's blood, and too
+often her tears.  She has been content to be the unseen oil
+that feeds the glittering flame, and far too often this
+ministry of hers has been taken for granted by its
+beneficiaries, or has been acknowledged in some patronizing
+foot-note in the biographies of the great.
+</p><p>Some great men, such as Goethe or Byron, might be said to
+be devourers of women.  They have absorbed their essences into
+themselves as so much celestial food, ruthlessly used up their
+devotion, and cast them aside like empty vessels.  Perhaps
+neither the devourer; nor the world that worships them have
+realized the nature and the all-importance of this sacrificial
+gift of woman.  Possibly they have considered it as
+accidental, and not really necessary; have considered that
+they themselves were great anyway.  If so, theirs was a
+grievous and most ungrateful illusion.
+</p><p>No man has ever been great merely by his own strength.
+The greatest brain would lie idle without woman to supply it
+with motive power, either by her beauty, or her goodness, or
+her own spiritual and intellectual influence.  Creation even
+in the world of the mind is a dual process.  However solitary
+the thinker, his thought is not born of himself alone.  The
+brain of man would seem to need the impregnation of feminine
+influence in some form or another before it can give birth to
+its brain-children.
+</p><p>"Without women nothing is possible," wrote Castiglione,
+himself inspired by Elisabetta Gonzaga, one of the great women
+of the Italian Renaissance, "either in military courage, or
+art, or poetry, or music, or philosophy, or even religion.
+God is truly seen only through them."
+</p><p>And in our own time John Stuart Mill formulated, from his
+own experience with his remarkable and dearly loved wife,
+this
+
+<pb n="261"/>
+theory of the genesis of thought by feminine
+suggestion:
+
+</p><p>Who can tell how many of the original thoughts put forth
+by male writers belong to a woman by suggestion, to themselves
+only by verifying and working out?  If I may judge by my own
+case, a very large proportion indeed.
+
+</p><p>The noble dedication to his great book "On Liberty" makes
+this inspiring acknowledgment of his indebtedness:
+
+</p><p>To the beloved and deplored memory of her who was the
+inspirer, and in part the author, of all that is best in my
+writings &mdash; the friend and wife whose exalted sense of truth and
+right was my strongest incitement, and whose approbation was
+my chief reward &mdash; I dedicate this volume.  Like all that I have
+written for many years, it belongs as much to her as to me.
+</p><p>Were I but capable of interpreting to the world one-half
+the great thoughts and noble feelings which are buried in her
+grave, I should be the medium of a greater benefit to it than
+is ever likely to arise from anything I can write, unprompted
+and unassisted by her all but unrivaled wisdom.
+
+</p><p>This must not be taken merely as a burst of affection.
+There is no doubt that it represented the actual experience of
+one whose life from childhood had been an unusual training in
+hard thinking; and it may be taken as representative, rather
+than exceptional, in the history of men of genius.
+</p><p>No less lofty a scientist than Galileo owed a debt
+scarcely less great to a well-loved daughter, a vivacious
+young nun, Sister Celeste, whose delightful letters to her
+father were published in 1891.
+</p><p>"I pride myself," she says in one of these, "that I love
+and revere my dearest father more, by far, than others love
+their fathers, and I clearly perceive that, in return, he far
+surpasses the greater part of other fathers in the love which
+he has for me, his loved daughter."
+</p><p>The letters are not merely full of gay daughterly
+tenderness and womanly "mothering" touches, but reveal, too,
+the active intellectual sympathy between father and daughter,
+and the very real strength and inspiration she brought him in
+dark hours, when, but for her, he might have faltered before
+the menacing superstitions he was to destroy.  Her death
+clearly revealed how much he had leaned upon her, and his own
+soon followed.
+</p><p>"I continually hear," he wrote to a friend, "myself called
+by my dearly beloved daughter."
+</p><p>For my present purpose, I prefer to set aside, as
+suffering from no lack of full acknowledgment, the part played
+by woman's beauty in the processes of greatness.  It is indeed
+rather irrelevant to my theme; for beauty is an impersonal
+quality, a quality which woman shares with the moon, a serious
+rival, and many other objects and aspects of nature.  Woman's
+beauty shines alike on the just and the unjust, and makes
+poets and artists and murderers with a divine indifference.
+</p><p>Though the beauty of Lais and Phryne made great sculptors
+of Apelles and Praxiteles, the obligation of those great
+artists to those fair women is not the kind I am thinking of.
+The inspiration and influence I mean is a more human thing, a
+generously exerted sympathy and comradeship, an inexhaustible
+treasure of succor and self-sacrifice; the kind of help, as we
+are speaking of the women of antiquity, that Aspasia brought
+to Pericles, the kind of help that Aurelia, as mother brought
+to Julius Caesar, that Livia, as wife, brought to Augustus,
+and, as mother, brought to Tiberius; that Octavia, as sister,
+brought to Augustus also; the kind of help that even a mother-in-law has sometimes given, as in the case of Cicero and his
+mother-in-law, Laelia.
+</p><p>How much have great statesmen, from Pericles to Gladstone
+and Disraeli, owed to the devotion and intellectual
+fraternalism, so to say, of women!  Even Bismarck attributed
+his successes to his wife, Johanna von Puttkammer.  The men of
+iron and the men of the moon alike have been eager to admit
+that it was woman that made them, and not they themselves.  It
+is more than likely that Columbus would never have discovered
+America had it not been for the championship of Queen Isabella
+of Castile; and such wisdom as was in the pompous head of
+Louis XIV was rather Mme. de Maintenon's than his own.
+</p><p>Mothers, wives, sweethearts, and sisters &mdash; as history over
+and over again illustrates &mdash; it is to these angels that nature
+has given charge concerning those strange children, its men of
+genius; be they soldiers, statesmen, poets, artists, or even
+saints.
+</p><p>Saints no less illustrious than St. Jerome and St. Francis
+were enabled to accomplish their momentous life-work only by
+what might well be called the celestial inspiration and
+assistance of pious and learned women.  St. Jerome's Latin
+version of the Scriptures,, known as the Vulgate-as also
+
+<pb n="262"/>
+the Latin Psalter &mdash; was made literally in collaboration
+with two Roman ladies, Paula and Eustochium, whose knowledge
+of Hebrew, Greek, and Latin was at least equal to the saint's
+own.  To them he submitted his first drafts for their
+criticisms and emendations, and he made acknowledgment of his
+indebtedness in eloquent dedications, classing them with those
+"holy women of the Gospel" who were ministering angels to
+Christ himself, and the noble women who inspired the sages of
+antiquity.
+</p><p>What Paula and Eustochium were to St. Jerome was the
+Italian maiden, Chiara Schiffi of Assisi, known as St. Clara,
+to St. Francis.
+</p><p>"She defended Francis," says the saint's biographer
+Sabatier, "not only against others, but against himself.  In
+those hours of dark discouragement which so often and so
+profoundly disturb the noblest souls and sterilize the
+grandest efforts, she was beside him to show the way.  When he
+doubted his mission and thought of fleeing to the heights of
+repose and solitary prayer, it was she who showed him the
+ripening harvest with no reapers to gather it in, men going
+astray with no shepherd to herd them, and drew him once again
+into the train of the Galilean, into the number of those who
+give their lives as a ransom for many."
+</p><p>Similar is the story of St. Benedict and his twin sister
+Scholastica.
+</p><p>Another son of the church, whose estrangement from her was
+more superficial than fundamental, and whose criticism of the
+letter of Christianity has long since resulted in an
+aggrandizement of its spirit, Ernest Renan, would never have
+been able even to begin his life-work had it not been for the
+devotion of another "sister friend," his own elder sister
+Henriette.  One of the most beautiful things in literature is
+Renan's record of that devotion in his memoir of her,
+accompanied by their letters to each other.
+</p><p>"Although," he says, "lives nobly lived stand in no need
+of recollection, save by God himself, I should be all the more
+to blame were I to leave this duty to my sister Henriette
+unperformed, because I alone know all the treasures of that
+elect, soul.  Her timidity, her reserve, her fixed opinion
+that a woman's life should be a hidden one, cast a veil over
+her rare qualities which few were permitted to lift.  Her
+existence was one succession of acts of devotion, destined to
+remain unknown."
+</p><p>Henriette was twelve years old when Ernest Renan was born,
+and their father's death, when she was but seventeen, left the
+upbringing of her little brother almost entirely to her.  She
+also took upon her heroic young shoulders the liquidation of
+her father's debts, to provide for which, and for her
+brother's education, she became a school-teacher, finally
+exiling herself for many years as a governess in Poland.
+Though thus separated from him, she kept a constant eye upon
+Ernest's intellectual and spiritual training, encouraging him
+in his first aspirations toward the priesthood, though her own
+mind was already in that path of freedom which he was later to
+find for himself.
+</p><p>When, finally, at the age of twenty-three, he left the
+seminary of St. Sulpice, unable any longer to reconcile his
+conscience with his chosen vocation, Henriette returned to
+Paris, and the two set up house together, thus beginning that
+idyl of sister-and-brother friendship which was to last,
+unbroken even by his marriage, till her death.  Not only did
+she take upon herself the management of their domestic
+affairs, but her fine scholarship enabled her to assist him
+materially in all branches of his work, and he has paid a
+special tribute to her influence upon that literary style
+which was one of the most effective of his accomplishments.
+The picture he gives of their tranquil lives together in "a
+small apartment at the bottom of a garden near the Val de
+Grace" is full of charm:
+
+</p><p>She had the extremest respect for my work; I have known
+her sit of an evening for hours by my side, holding her breath
+lest she should disturb me.  Yet she liked to see me, and the
+door between our two rooms was always open.  So perfect was
+the union of our minds that we scarcely needed to communicate
+our thoughts.  She surpassed me in knowledge on many points of
+modern history, which she had studied at the fountainhead.
+</p><p>The general plan of my career, the scheme of inflexible
+sincerity I had mapped out, was so essentially the combined
+product of our two consciences, that, had I been tempted to
+fail in any particular of it, she, like a second self, would
+have been found beside me to call me back to duty.  Thus her
+influence in my mental sphere was very great.  She was my
+incomparable amanuensis.  She copied all my works, and
+understood them so thoroughly that I could trust to her as to
+the living index of my own intelligence.
+
+</p><p>The friendship of brother and sister is perhaps the most
+perfect of human relationships,
+
+<pb n="263"/>
+and the part played by
+devoted sisters in the lives of great men surpasses even that
+of mothers and wives.
+</p><p>Some brothers and sisters are as inseparable in their
+immortality as in their lives.  Charles and Mary Lamb, for
+example, whose names come together as naturally on our tongues
+as the names of two members of the same firm.  "Bridget Elia"
+is as well-known to us as "Elia" himself, and their story has
+appealed the more to humanity because the brother's self-sacrificing love for the sister has at least as large a share
+in it as the sister's affection for the brother.  When that
+tragic cloud of madness fell over his sister's mind, a cloud
+that was intermittently to shadow their joint lives till the
+end, Charles, in devoting his life to her care, to the extent
+even of putting from his thoughts forever the possible love of
+wife and children, felt that he was but repaying Mary for the
+care she had first given him as a lonely boy, for Mary was ten
+years his senior.  Says he in one of his poems:</p>
+
+	<l>    Thou to me didst ever show</l>
+	<l>Fondest affection, and would ofttimes lend</l>
+	<l>An ear to my desponding, love-sick lay,</l>
+	<l>Weeping my sorrows with me, who repay</l>
+	<l>But ill the mighty debt of love I owe,</l>
+	<l>Mary, to thee, my sister and my friend.</l>
+
+<p>His great friend, Wordsworth, was similarly blessed with a
+sister who fostered a genius for which the world was far from
+bringing a ready welcome; and she, like Mary Lamb, had no
+small literary gifts of her own.  Wordsworth, indeed, owed
+much to the women of his household.  His nephew has put it on
+record thus:
+
+</p><p>If Providence had not blessed him with a wife, a sister, a
+wife's sister, and a daughter, whose lives were bound up in
+his life, as his was in theirs, and who felt what the world
+was slow in admitting &mdash; that his poems were destined for
+immortality, and that it was no small privilege to be
+instrumental in conveying them to posterity &mdash; it is probable
+that many of his verses, muttered by him on the roads, or on
+the hills, or on the terrace-walks of his own garden, would
+have been scattered to the winds.
+
+</p><p>Literary men seem to have been particularly fortunate in
+their sisters.  Their indebtedness to the adoring and
+understanding sister is incalculable.  The reader may recall
+the absurd <hi rend="italic">_Mr. Sapsea</hi>_ in Charles Dickens's "Edwin
+Drood," and remember how his wife, in an attitude of abject
+admiration, used to address him as "O thou!"  Well, all great
+men, in the adolescent stage, stand in need, as a vital
+condition of their development, of such nutritive worship.
+Men grow great &mdash; at the beginning, at all events &mdash; by being told
+that they are great.  A certain egoism is inseparable from
+greatness.  Nothing is done without a belief in oneself, and
+in the early stages of greatness, before a confirming audience
+has been won, that self-belief has often to fight hard for its
+existence against despondency and discouragement.  How
+priceless, then, at  that period to the man of genius is the
+devoted being who believes in him, the  divining love,
+prophetic in its admiration of the future fame, ever ready
+with that inspiring "O thou!"
+</p><p>How many darling, self-effacing sisters have been thus
+ready with their "O thou! for their big, important brothers
+through the ages.
+</p><p>Another such sister was she who had Sir Philip Sidney for
+brother &mdash; Mary Sidney, Countess of Pembroke, for whom Ben
+Jonson wrote so splendid an epitaph:</p>
+
+	<l>    Underneath this sable hearse</l>
+	<l>    Lies the subject of all verse &mdash; </l>
+	<l>    Sidney's sister, Pembroke's mother.</l>
+	<l>    Death, ere thou hast slain another</l>
+	<l>    Learned and fair and good as she,</l>
+	<l>    Time shall throw a dart at thee.</l>
+
+<p>The shaping of one of the rarest of English souls was
+undoubtedly Mary Sidney's, and the picture of the noble sister
+and brother together in the old manor-house garden at Wilton &mdash;
+Philip at work on his famous romance of "Arcadia," undertaken
+at her bidding &mdash; is one of those perfect historic memories that
+help to keep pure the heart of Time.  So identified with each
+other were brother and sister that when the "Arcadia" was
+published it was described on the title-page as "The Countess
+of Pembroke's Arcadia."
+</p><p>Another conspicuous monument of literature nearer to our
+own time, Macaulay's "History of England," is ours partly
+because Macaulay, who never married, found his lifelong friend
+in his sister Hannah, Lady Trevelyan.  Hannah long kept house
+for the historian, and so deep was his attachment to her that
+her marriage, when at last it came, fell upon him like a
+bereavement.  Yet it did not separate them, and on her great
+brother's death it was still this sister's task to remain his
+editor, for no one but she could read his difficult
+
+<pb n="264"/>
+manuscript, and the complete and final edition of his
+works is hers.
+</p><p>A great American historian, Francis Parkman, was still
+more dependent than Macaulay on the love of a young sister,
+Eliza, who, when his eyesight failed him, became for him both
+eyes and pen.
+</p><p>"She may truly be said," one reads, "to have literally
+written six of the volumes of his history, inditing each word
+as it fell from the historian's lips as he sat shading his
+eyes from the light before his study fire, while she wrote
+rapidly at the table in the window."
+</p><p>Miss Parkman never married.  One wonders if a renounced
+love may not lie beneath the foundations of her brother's
+history; but whether or not in her case such sacrifice was
+made, there is no doubt that many such buried hopes
+voluntarily foregone by sisters and other sacrificial women do
+lie at the base of no little human greatness.  It somewhat
+gruesomely reminds one of those dedicatory human victims said
+to be enclosed in the foundations of medieval bridges and
+other ancient buildings.
+</p><p>The comparison is, of course, as extreme as it is painful,
+and is, it is to be hoped of but limited application.  Those
+sacrificial women have perhaps seldom been conscious of their
+sacrifice, and have been happy, rather, in their sense of
+collaborating with an inspired friend in a great endeavor.
+This was surely the case with Caroline Herschel, sister of the
+great astronomer, from whose biography Professor Mozans in his
+fascinating book on "Woman in Science" quotes this inspiring
+passage:
+
+</p><p>She became his assistant in the workshop; she helped him
+to grind and polish his mirrors; she stood beside his
+telescope in the nights of midwinter, to write down his
+observations when the very ink was frozen in the bottle.  She
+kept him alive by her care; thinking nothing of herself, she
+lived for him.  She loved him and believed in him, and helped
+him with all her heart and with all her strength.  She might
+have become a distinguished woman on her own account, for with
+the seven-foot Newtonian sweeper given her by her brother she
+discovered eight comets, first and last.
+
+</p><p>A brother-and-sister friendship, in which, again, the
+element of self-sacrifice did not surely press heavily was
+that of John and Elizabeth Whittier.  Theirs was indeed a love
+filled with that peace which passeth all understanding.
+</p><p>"It seems almost a profanation to speak of it," said one
+writer, "so sacred was the love between the two."
+</p><p>Thoreau, again, was blessed with two sisters, Helen and
+Sophia, on whom their worship of their famous brother sat
+lightly.
+</p><p>It was a very different genius who wrote this to a sister
+on the death of her husband:
+
+</p><p>Oh, my sister, in this hour of overwhelming affliction my
+thoughts are only for you.  I have no wife, I have no
+betrothed; nor, since I have been better acquainted with my
+own mind and temper, have I sought them.  Live, then, my
+heart's treasure, for one who has ever loved you with a
+surpassing love, and who would cheerfully have yielded his own
+existence to have saved you the bitterness of this letter.
+Yes, my beloved, be my genius, my solace, my companion, my
+joy.  We will never part, and if I cannot be to you all our
+lost friend was, at least we will feel that life can never be
+a blank while gilded by the perfect love of a sister and a
+brother.
+
+</p><p>The reader will scarcely have suspected the writer of this
+impassioned tenderness to be that Machiavellian statesman,
+Benjamin Disraeli.  Disraeli was no less fortunate in his wife
+than in his sister.  Just before their marriage he had written
+to her:
+
+</p><p>I shall always have the refuge of your sweet heart in
+sorrow or disappointment, and your quick and accurate sense to
+guide me in prosperity and triumph.
+
+</p><p>And the prophecy was fulfilled, as few such prenuptial
+prophecies are, though in many respects it was a marriage of
+opposites, as Mrs. Disraeli made fun out of emphasizing in a
+quaint document to be found in her husband's biography.  In
+parallel columns she placed their opposing qualities after
+this fashion &mdash; Disraeli's in the first column, hers in the
+second:</p>
+<list>
+<item>Very calm.						Very effervescent</item><lb/>
+<item>Manners grave and almost sad.				Gay and happy-looking when speaking.</item><lb/>
+<item>Never irritable.						Very irritable.</item><lb/>
+<item>Bad-humored.						Good-humored.</item><lb/>
+<item>Very patient.						No patience.</item><lb/>
+<item>Very studious.						Very idle.</item><lb/>
+<item>Very generous.						Only generous to those she loves.</item><lb/>
+<item>No vanity.						Much vanity.</item><lb/>
+<item>Conceited.						No conceit.</item><lb/>
+<item>He is seldom amused.					Everything amuses her.</item><lb/>
+<item>He is a genius.						She is a dunce.</item><lb/>
+<item>He is to be depended on to a certain degree.		She is not to be depended on.</item><lb/>
+<item>His whole soul is devoted to politics and ambition.	She has no ambition and hates politics.</item><lb/>
+</list>
+
+<pb n="265"/>
+<p>Disraeli's great rival, Gladstone, was even more
+fortunate in a wife who was his wonderful helpmeet through his
+life.  After sixty years of married happiness the old man
+wrote:
+
+</p><p>It would not be possible to unfold in words the value of
+the gifts which the bounty of Providence has conferred upon me
+through her.
+
+</p><p>She had great skill as doctor and nurse, and was the ever-watchful guardian of her husband's health through the long
+strain of his strenuous parliamentary career.  She was also
+his wise and outspoken critic, as one may judge by this note
+in Lord Morley's journal of a holiday he spent with the
+Gladstones, in 1892, Gladstone being, then eighty-two:
+
+</p><p>After breakfast Mrs. Gladstone came to my room and said
+how glad she was that I had not scrupled to put unpleasant
+points; that Mr. Gladstone must not be shielded and sheltered
+as some great people are, who hear all the pleasant things and
+none of the unpleasant; that the perturbation from what is
+disagreeable only lasts an hour.
+
+</p><p>Mrs. Gladstone, born Catherine Glynne, lived to see her
+great man safely at rest from his labors, and herself followed
+him two years later.
+</p><p>Men of science seem to have been particularly fortunate in
+their wives.  Huxley's wife, according to his son, was his
+"help and stay for forty years; the critic whose judgment he
+valued almost above any, and whose praise be cared most to
+win."  He "invariably submitted his writings to the criticism
+of his wife before they were seen by any other eye.  To her
+judgment was due the toning down of many a passage which erred
+by excess of vigor, and the clearing up of phrases which would
+be obscure to the public.  In fact, if any essay met with her
+approval, he felt sure it would not fail of its effect when
+published."
+</p><p>The astronomer Kepler would have counted his wife as his
+greatest discovery, and the debt of Pasteur to his wife and
+daughter is dwelt on by all his biographers.
+</p><p>"It is impossible," says one of them, rightly to
+appreciate Pasteur's life without some understanding of the
+immense assistance which he received in his home.  Whether in
+discussing forms of crystals, watching over experiments,
+shielding her husband from all the daily fret of life, or busy
+at the customary evening task of writing to his dictation,
+Mme. Pasteur was at once his most devoted assistant and
+incomparable companion."  Another writer gives a very human
+picture of the great scientist running up from his laboratory,
+after making one of his discoveries, to announce it to his
+wife and daughter, embracing them as he did so, with the tears
+running down his cheeks.
+</p><p>Agassiz and his wife were such close fellow workers that
+in the preface to "A journey in Brazil" we find them saying:
+
+</p><p>Our separate contributions have become so closely
+interwoven that we should hardly know how to disconnect them.
+
+</p><p>Another great traveler, Livingstone, had an intrepid wife
+by his side in all his explorations till that last one in
+which he had to dig her grave in the valley of the Zambezi,
+and go on alone through "Darkest Africa" indeed.
+</p><p>Literary men, for the most part, do not seem to have been
+fortunate in their wives &mdash; though their wives might perhaps
+prefer the matter stated to the effect that they have seldom
+been fortunate in their husbands.  So, perhaps, Mrs. Carlyle
+might have put it, though one cannot but feel that honors were
+even in that tragic misalliance.  It was to a mother and
+sister that the sad, difficult soul of the author of "Sartor
+Resartus" turned for sympathy and understanding not in vain.
+</p><p>Browning, as we know, was one of the happy exceptions.  In
+that perfect union, where each inspired and was inspired by
+the other, it would be hard to say which gave most.  To be at
+once muse, wife, and poet has perhaps never again happened to
+woman &mdash; each the other's poet and each eager to acclaim the
+other as the greater.
+</p><p>"She has genius; I am only a painstaking fellow," said
+Browning once.  "Can't you imagine a clever sort of angel who
+plots and plans and tries to build up something &mdash; he wants to
+make you see it as he sees it &mdash; shows you one point of view,
+carries you off to another, hammering into your head the thing
+he wants you to understand; and while this bother is going on,
+God Almighty turns you off a little star &mdash; that's the
+difference between us.  The true creative power is hers, not
+mine."
+</p><p>Browning's other inspirer, Shelley, tragic as was his
+first love, found in his second wife, Mary Godwin, one of the
+heroic women of the world.  Poe's ill-starred life knew one
+happiness, that of his beautiful, adored
+
+<pb n="266"/>
+child-wife; and
+American men of letters generally seem to have been happier in
+this respect than their European fellows.  What a true comrade
+had Hawthorne in his wife, and who does not know the anecdote
+of his coming home from his office, downcast with the news
+that his post in the custom-house had been taken from him &mdash; how
+his wife, far from showing concern, briskly lit a fire in his
+study, arranged paper and pens, then laughingly sat him down
+at his desk, saying:
+</p><p>"Now, you can write your book!"
+</p><p>Of Emerson's life with "Lidian" &mdash; his pet name for his
+second wife, Lydia &mdash; it has been said that it was as if "two
+angels had set up housekeeping together."  In the delicate art
+of living with a transcendental philosopher, Mrs. Emerson was
+more than matched by Mrs. Bronson Alcott, wife of probably the
+most helpless idealist ever brought face to face with this
+perplexing world.  It is laughable as well as pitiful to think
+what would have become of the gentle founder of "Fruitlands" &mdash;
+Alcott's vegetarian community near        Concord &mdash; without the
+common-sense "mothering" of his wife and of that daughter
+whose literary gift, first displayed in "Little Women," was
+afterward to support her whole family.
+</p><p>One would like to dwell on Louisa Alcott's part of the
+story.  Of course, the father was such an absent-minded angel
+that it was impossible to be angry with him.  A story is told
+of his returning from a lecturing trip, having, to the dismay
+of his family, lost his overcoat and with it all the eagerly
+anticipated proceeds, except one dollar.
+</p><p>"I call that doing very well," said the kind wife.  "Since
+you are safely home, dear, we don't ask anything more!"
+</p><p>And this characteristic passage in one of the daughter's
+letters to her sister speaks volumes:
+
+</p><p>I feel very moral to-day, having done a big wash alone,
+baked, swept the house, picked the hops, got dinner, and
+written a chapter in "Moods."
+
+</p><p>What musicians owe to women would fill many volumes &mdash; and
+how women have fared at the hands of musicians would make a
+prodigious supplement.  Behind all the music of Mozart,
+Mendelssohn, Schubert, Beethoven, Schumann, Chopin, Wagner,
+Liszt, Gounod, Grieg, as some master lays his bow upon the
+violin, or his fingers on the piano, or the sea of sound
+surges and floats up from the orchestra like a storm gathering
+in a forest, with low plaining as of breaking hearts, or
+sudden sweeping volume of passionate melody, there seem to
+rise at times, like wraiths borne on the wind, the starry
+souls of women, who loved and gave and suffered &mdash; </p>
+
+	<l>   She was only a woman, famished for loving,</l>
+	<l>       Mad with devotion, and such slight things;</l>
+	<l>   But he was a very great musician,</l>
+	<l>       Grimacing and fingering his fiddle-strings.</l>
+
+<p>In that cloud of witnessing women are not merely the women
+who inspired the tumultuous passions that create a "Tristan
+und Isolde" or a Chopin "Fantaisie," but sometimes it is a
+devoted sister like Fanny Mendelssohn, or a tender mother like
+the mother of Richard Wagner, to whom we find the great sound-compeller writing indeed, as he himself says, like a lover to
+a sweetheart:
+
+</p><p>Now I have left you, the feeling of thanks for that grand
+love of yours toward your child, which you displayed to him so
+warmly and so tenderly again the other day, so overpowers me
+that I fain would write, nay, tell you of it in accents soft
+as of a lover to his sweetheart.  Yes, and still softer &mdash; for
+is not a mother's love far greater, far more untainted, than
+all other?
+
+</p><p>Behind the monuments of masculine genius, whatever their
+nature, there is always to be seen, hovering like a spiritual
+presence, the soul of some woman.  Behind the marbles of
+Michelangelo rises the stately form of the noble and pious
+Vittoria Colonna.  Through her Michelangelo became poet as
+well as sculptor, as his lofty sonnets to her bear witness.
+</p><p>"Without wings," he wrote to her, "I fly with your wings;
+by your genius I am raised to the skies; in your soul my
+thought is born."
+</p><p>Behind the dialogues of Plato it is not only Socrates we
+see, but Aspasia too, and those other learned women of Athens
+who were his most ardent disciples.  Of Dante it is scarcely
+necessary to speak, for the pure girl-star that was Beatrice
+has become the symbol for all time of the uplifting and
+transmuting influence of woman &mdash; of the mere thought and dream
+of a loved woman.  For in Dante's case it was no more than a
+dream that inspired and sustained him through all his bitter
+pilgrimage.
+
+<pb n="267"/>
+</p><p>There is no need, either, to speak of Petrarch and his
+Laura, to whom he attributed all his inspiration:</p>
+
+	<l>   Thus if in me is nursed</l>
+	<l>   Any good fruit, from you the seed came first;</l>
+	<l>   To you, if such appear, the praise is due;</l>
+	<l>   Barren myself till fertilized by you.</l>
+
+<p>And there is not a poet from Petrarch to the latest
+hatched of present-day nightingales that has not, or could
+not, say the same thing.  Nor is there a successful business
+man, lawyer, statesman, man of affairs, who would not say it,
+too.  When there is a George Washington there is always a
+Martha Washington, and every James Madison has his "Dolly."
+Always behind the achievement, whatever its nature, there are
+the love and the enthusiasm of some unselfish woman, making
+the purpose and ambition of "her man" her only object in life,
+dreaming planning, cheering, praising, ever on the watch to
+keep him up to his best endeavor, the jealous guardian of his
+strength and peace, his muse, his mother, his wife, his
+sister, his nurse, his incredibly good friend.
+</p><p>How infinitely tender, almost unearthly, is this quality
+in women!  I find it nowhere more sensitively expressed in
+words than in some letters to Edwin Booth by the wonderful
+young wife, Mary Devlin, who was to be his for so short a
+time &mdash; for she died at twenty-three.  Booth was despondent and
+hesitating about his career, and this is how she writes to
+"the being God has given me to influence and cherish":
+
+</p><p>We must ever dwell above the thunder, treading beneath our
+feet the black clouds of dissension.  You are too great ever
+to descend to discord.  I have too high an appreciation of the
+divine spark God has gifted you with, and which you entrust to
+my care, ever to cause you to seek another sphere than your
+natural one.
+
+</p><p>And, again:
+
+</p><p>If my love is selfish, you will never be great.  Part of
+you belongs to the world.  I must remember this, and assist in
+its blossoming, if I would taste of the ripe fruit.  That will
+prove a rich reward.
+
+</p><p>How touching is this divine proprietorship of women &mdash; "the
+being God has given me to influence and cherish."
+</p><p>It is not so with men.    No, not even with the best of
+them!
+</p>
+
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,214 @@
+<?xml version="1.0"?>
+
+<?dlps id="DubCred"?>
+<?dlps page-images="color" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+<!ENTITY DSSR_000002606_0001 SYSTEM "000002606_0001" NDATA uvaHighRes>
+]>
+
+<TEI.2 id="DubCred">
+     <teiHeader type="migrated" creator="Etext">
+          <fileDesc>
+               <titleStmt>
+                    <title type="main">Credo</title>
+                    <title type="sort">credo</title>
+                    <author>Du Bois, W. E. Burghardt</author>
+                    <respStmt>
+                         <resp>Creation of machine-readable version:</resp>
+                         <name>Judy Boss</name>
+                         <resp>Creation of digital images:</resp>
+                         <name>Matthew G. Kirschenbaum</name>
+                         <resp>Conversion to TEI.2-conformant markup:</resp>
+                         <name>University of Virginia Library Electronic Text Center.</name>
+                    </respStmt>
+               </titleStmt>
+               <extent>ca. <num type="kilobytes">7</num> kilobytes</extent>
+               <publicationStmt>
+                    <publisher>University of Virginia Library</publisher>
+                    <pubPlace>Charlottesville, Virginia</pubPlace>
+                    <idno type="ETC">DubCred</idno>
+                    <date value="1996">1996</date>
+                    <availability status="public">
+                         <p n="copyright">Copyright &#xa9; 1996 by the Rector and Visitors of
+                              the University of Virginia</p>
+                         <p n="access">Publicly accessible</p>
+                    </availability>
+                    <idno type="uva-pid">uva-lib:476912</idno>
+               </publicationStmt>
+               <seriesStmt>
+                    <title>University of Virginia Library, Text collection</title>
+                    <idno type="uva-set">UVA-LIB-Text</idno>
+               </seriesStmt>
+               <sourceDesc>
+                    <biblFull>
+                         <titleStmt>
+                              <title type="main">Credo</title>
+                              <title level="j">The Independent</title>
+                              <title type="sort">credo</title>
+                              <author>W. E. Burghardt Du Bois</author>
+                         </titleStmt>
+                         <publicationStmt>
+                              <pubPlace>New York</pubPlace>
+                              <date value="1904-10-06">October 6, 1904</date>
+                         </publicationStmt>
+                         <notesStmt>
+                              <note>
+                                   <p>Originally appeared in The Independent 57 (6 Oct. 1904):
+                                   787.</p>
+                              </note>
+                         </notesStmt>
+                    </biblFull>
+               </sourceDesc>
+          </fileDesc>
+          <encodingDesc>
+               <projectDesc>
+                    <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+               </projectDesc>
+               <editorialDecl>
+                    <p>All quotation marks retained as data.</p>
+                    <p>Spell-check and verification made against printed text using UNIX-spell spell
+                         checker.</p>
+                    <p>All unambiguous end-of-line hyphens have been removed, and the trailing part
+                         of a word has been joined to the preceding line.</p>
+                    <p>The images exist as archived TIFF images, one or more JPEG versions for
+                         general use, and thumbnail GIFs.</p>
+                    <p id="ETC">Keywords in the header are a local Electronic Text Center scheme to
+                         aid in establishing analytical groupings.</p>
+               </editorialDecl>
+               <refsDecl>
+                    <p>ID elements are given for each page element and are composed of the text's
+                         unique cryptogram and the given page number, as in AusEmma1 for page one of
+                         Jane Austen's Emma.</p>
+               </refsDecl>
+          </encodingDesc>
+          <profileDesc>
+               <creation>
+                    <date value="1904-10-06">October 6, 1904</date>
+               </creation>
+               <langUsage>
+                    <language id="eng" usage="main">English</language>
+               </langUsage>
+               <textClass>
+                    <keywords>
+                         <term>non-fiction; prose</term>
+                         <term>African American</term>
+                    </keywords>
+                    <keywords>
+                         <term>24-bit color; 400 dpi</term>
+                    </keywords>
+               </textClass>
+          </profileDesc>
+          <revisionDesc>
+               <change>
+                    <date value="1996-09">September 1996</date>
+                    <respStmt>
+                         <resp>corrector</resp>
+                         <name>Matthew G. Kirschenbaum, University of Virginia Library Electronic
+                              Text Center</name>
+                    </respStmt>
+                    <item>Added TEI.2-conformant header and tagging; prepared images.</item>
+               </change>
+               <change>
+                    <date value="2005-07">July 2005</date>
+                    <respStmt>
+                         <resp>Corrector</resp>
+                         <name>John Ivor Carlson</name>
+                    </respStmt>
+                    <item>Converted SGML to XML. Fixed tagging.</item>
+               </change>
+               <change>
+                    <date value="2007-09">September 2007</date>
+                    <respStmt>
+                         <resp>Migration</resp>
+                         <name>Ethan Gruber, University of Virginia Library</name>
+                    </respStmt>
+                    <item>Converted XML markup from TEI Lite to uva-dl-tei (TEI P4 with local
+                         customizations).</item>
+               </change>
+               <change>
+                    <date value="2008-01">January 2008</date>
+                    <respStmt>
+                         <resp>Migration</resp>
+                         <name>Greg Murray, University of Virginia Library</name>
+                    </respStmt>
+                    <item>Programmatically updated TEI header markup (but not header content) for
+                         minimal compliance with current QA requirements.</item>
+               </change>
+<change>
+<date value="2009-03">March 2009</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Scholarly Resources, University of Virginia Library</name>
+</respStmt>
+<item>Added and/or replaced the digital images accompanying the electronic text. Scanning of exterior and interior (ie. pages) of item was done only for items found in the University of Virginia Special Collections Library.</item>
+</change>
+          </revisionDesc>
+     </teiHeader>
+
+     <text id="d1">
+          <body id="d2">
+
+               <div1 type="essay" id="d3">
+                    <pb entity="DSSR_000002606_0001" n="787"/>
+                    <head>Credo</head>
+
+                    <p>
+                         <hi rend="bold">BY PROF. W. E. BURGHARDT DUBOIS</hi>
+                    </p>
+                    <p>AUTHOR OF "THE SOULS OF BLACK FOLKS," ETC.</p>
+                   
+                    <p>I BELIEVE in God who made of one blood all races that dwell on earth. I
+                         believe that all men, black and brown and white, are brothers, varying,
+                         through Time and Opportunity, in form and gift and feature, but differing
+                         in no essential particular, and alike in soul and in the possibility of
+                         infinite development.</p>
+                    <p> Especially do I believe in the Negro Race; in the beauty of its genius, the
+                         sweetness of its soul, and its strength in that meekness which shall yet
+                         inherit this turbulent earth.</p>
+                    <p> I believe in pride of race and lineage and self; in pride of self so deep as
+                         to scorn injustice to other selves; in pride of lineage so great as to
+                         despise no man's father; in pride of race so chivalrous as neither to offer
+                         bastardy to the weak nor beg wedlock of the strong, knowing that men may be
+                         brothers in Christ, even tho they be not brothers-in-law.</p>
+                    <p> I believe in Service&mdash;humble reverent service, from the blackening
+                         of boots to the whitening of souls; for Work is Heaven, Idleness Hell, and
+                         Wage is the "Well done!" of the Master who summoned all them that labor and
+                         are heavy laden, making no distinction between the black sweating
+                         cotton-hands of Georgia and the First Families of Virginia, since all
+                         distinction not based on deed is devilish and not divine.</p>
+                    <p> I believe in the Devil and his angels, who wantonly work to narrow the
+                         opportunity of struggling human beings, especially if they be black; who
+                         spit in the faces of the fallen, strike them that cannot strike again,
+                         believe the worst and work to prove it, hating the image which their Maker
+                         stamped on a brother's soul.</p>
+                    <p> I believe in the Prince of Peace. I believe that War is Murder. I believe
+                         that armies and navies are at bottom the tinsel and braggadocio of
+                         oppression and wrong; and I believe that the wicked conquest of weaker and
+                         darker nations by nations whiter and stronger but foreshadows the death of
+                         that strength.</p>
+                    <p> I believe in Liberty for all men; the space to stretch their arms and their
+                         souls; the right to breathe and the right to vote, the freedom to choose
+                         their friends, enjoy the sunshine and ride on the railroads, uncursed by
+                         color; thinking, dreaming, working as they will in a kingdom of God and
+                         love.</p>
+                    <p> I believe in the training of children black even as white; the leading out
+                         of little souls into the green pastures and beside the still waters, not
+                         for pelf or peace, but for Life lit by some large vision of beauty and
+                         goodness and truth; lest we forget, and the sons of the fathers, like Esau,
+                         for mere meat barter their birthright in a mighty nation.</p>
+                    <p> Finally, I believe in Patience&mdash;patience with the weakness of the
+                         Weak and the strength of the Strong, the prejudice of the Ignorant and the
+                         ignorance of the Blind; patience with the tardy triumph of Joy and the mad
+                         chastening of Sorrow&mdash;patience with God.</p>
+                    <p>ATLANTA UNIVERSITY, ATLANTA, GA.</p>
+
+               </div1>
+          </body>
+     </text>
+</TEI.2>

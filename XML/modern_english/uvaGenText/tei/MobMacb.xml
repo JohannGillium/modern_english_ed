@@ -1,0 +1,5062 @@
+<?xml version="1.0"?>
+
+<?dlps id="MobMacb"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOnum SYSTEM "http://text.lib.virginia.edu/charent/iso-num.ent"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+
+]>
+<TEI.2 id="MobMacb">
+<teiHeader type="migrated" creator="Etext">
+<fileDesc>
+<titleStmt>
+<title type="main">Macbeth</title>
+<title type="sort">macbeth</title>
+<author>Shakespeare, William, 1564-1616</author>
+<editor>Clark, William George, 1821-1878; William Aldis Wright, 1831-1914</editor>
+<respStmt>
+<resp>Creation of machine-readable version:</resp>
+<name>Grady Ward, Moby Lexical Project</name>
+<resp>Conversion to TEI.2-conformant markup:</resp>
+<name>University of Virginia Library Electronic Text Center.</name>
+</respStmt>
+</titleStmt>
+<extent>ca. <num type="kilobytes">144</num> kilobytes</extent>
+<publicationStmt>
+<publisher>University of Virginia Library</publisher>
+<pubPlace>Charlottesville, Virginia</pubPlace>
+<idno type="ETC">MobMacb</idno>
+<date value="1998">1998</date>
+<availability status="public">
+<p n="copyright">Copyright &copy; 1998 by the Rector and Visitors of the University of Virginia</p>
+<p n="access">Publicly accessible</p>
+</availability>
+<idno type="uva-pid">uva-lib:476215</idno>
+</publicationStmt>
+<seriesStmt>
+<title>University of Virginia Library, Text collection</title>
+<idno type="uva-set">UVA-LIB-Text</idno>
+</seriesStmt>
+<notesStmt>
+<note>
+<p>We have been unable to verify conclusively the exact source of this
+electronic text, but we believe it to be "The Globe Edition" of the Works of
+William Shakespeare edited by William George Clark and William Aldis Wright.
+Error checking was done against the 1866 edition noted in the "Source
+Description" field.  These texts are public domain.</p>
+</note>
+</notesStmt>
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title type="main">Macbeth</title>
+<title type="sort">macbeth</title>
+<author>Shakespeare, William, 1564-1616</author>
+<editor>Clark, William George, 1821-1878; William Aldis Wright, 1831-1914</editor>
+</titleStmt>
+<editionStmt>
+<p>The Globe Edition</p>
+</editionStmt>
+<extent>viii, 1075 p. 18 cm.</extent>
+<publicationStmt>
+<publisher>MacMillan and Co.</publisher>
+<pubPlace>Cambridge</pubPlace>
+<date value="1866">1866</date>
+<idno type="callNo">Print copy consulted: UVa Library, PR2753 .C6 1866</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+</projectDesc>
+<editorialDecl>
+<p>All unambiguous end-of-line hyphens have been removed, and the  trailing
+part of a word has been joined to the preceding line.</p>
+<p id="ETC">Some keywords in the header are a local Electronic Text Center
+scheme  to aid in establishing analytical groupings.</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date value="1606">1606</date>
+</creation>
+<langUsage>
+<language id="eng" usage="main">English</language>
+</langUsage>
+<textClass>
+<keywords>
+<term>fiction</term>
+<term>drama</term>
+<term>masculine</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change>
+<date value="1998-10">October 1998</date>
+<respStmt>
+<resp>corrector</resp>
+<name>Stephen Ramsay, Electronic Text Center</name>
+</respStmt>
+<item>Added TEI header and tags.</item>
+</change>
+<change>
+<date value="2005-07">July 2005</date>
+<respStmt>
+<resp>Corrector</resp>
+<name>John Ivor Carlson</name>
+</respStmt>
+<item>Converted to XML and/or checked tags.</item>
+</change>
+<change>
+<date value="2007-09">September 2007</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Ethan Gruber, University of Virginia Library</name>
+</respStmt>
+<item>Converted XML markup from TEI Lite to uva-dl-tei (TEI P4 with local customizations).</item>
+</change>
+<change>
+<date value="2008-01">January 2008</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Greg Murray, University of Virginia Library</name>
+</respStmt>
+<item>Programmatically updated TEI header markup (but not header content) for minimal compliance with current QA requirements.</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text id="d1">
+
+
+<front id="d2">
+
+<div1 type="play" id="d3"><head>Dramatis Personae</head>
+
+
+<list>
+<item>DUNCAN   king of Scotland.
+</item>
+<item>MALCOLM, DONALBAIN } his sons.</item>
+<item> MACBETH, BANQUO } generals of the king's army.</item>
+<item> MACDUFF, LENNOX, ROSS, MENTEITH, ANGUS, CAITHNESS } noblemen of Scotland.</item>
+<item>FLEANCE   son to Banquo.
+</item>
+<item>SIWARD   Earl of Northumberland, general of the English forces.
+</item>
+<item>YOUNG SIWARD   his son.
+</item>
+<item>SEYTON   an officer attending on Macbeth.
+</item>
+<item>Boy, son to Macduff. </item>
+<item>An English Doctor. </item>
+<item>A Scotch Doctor. </item>
+<item>A Soldier.</item>
+<item>A Porter.</item>
+<item>An Old Man</item>
+<item>LADY MACBETH</item>
+<item>LADY MACDUFF</item>
+<item>Gentlewoman attending on Lady Macbeth. </item>
+<item>HECATE</item>
+<item>Three Witches.</item>
+<item>Apparitions.</item>
+<item>Lords, Gentlemen, Officers, Soldiers, Murderers, Attendants, and Messengers. </item>
+
+
+</list>
+
+<p><stage>Scene: Scotland: England.</stage></p>
+
+
+</div1>
+
+</front>
+
+<body id="d4">
+
+<div1 type="act" n="1" id="d5">
+<head>Act 1</head>
+
+<div2 type="scene" n="1" id="d6">
+<head>Scene 1</head><p><stage>A desert place.</stage>
+
+</p><p><stage>Thunder and lightning. Enter three Witches</stage>
+
+
+</p><sp><speaker>First Witch</speaker>
+<p>When shall we three meet again<lb/>
+In thunder, lightning, or in rain?<lb/>
+
+
+</p></sp><sp><speaker>Second Witch</speaker>
+<p>When the hurlyburly's done,<lb/>
+When the battle's lost and won.<lb/>
+
+
+</p></sp><sp><speaker>Third Witch</speaker>
+<p>That will be ere the set of sun.<lb/>
+
+</p></sp><sp><speaker>First Witch</speaker>
+<p>Where the place?<lb/>
+
+</p></sp><sp><speaker>Second Witch</speaker>
+<p>Upon the heath.<lb/>
+
+</p></sp><sp><speaker>Third Witch</speaker>
+<p>There to meet with Macbeth.<lb/>
+
+</p></sp><sp><speaker>First Witch</speaker>
+<p>I come, Graymalkin!<lb/>
+
+</p></sp><sp><speaker>Second Witch</speaker>
+<p>Paddock calls.<lb/>
+
+</p></sp><sp><speaker>Third Witch</speaker>
+<p>Anon.<lb/>
+
+</p></sp><sp><speaker>ALL</speaker>
+<p>Fair is foul, and foul is fair:<lb/>
+Hover through the fog and filthy air.<lb/>
+
+
+</p></sp><p><stage>Exeunt</stage>
+
+
+
+</p></div2><div2 type="scene" n="2" id="d7">
+<head>Scene 2</head>
+
+<p><stage>A camp near Forres.</stage>
+
+</p><p><stage>Alarum within. Enter DUNCAN, MALCOLM, DONALBAIN,	LENNOX, with Attendants, meeting a bleeding Sergeant</stage>
+
+
+</p><sp><speaker>DUNCAN</speaker>
+<p>What bloody man is that? He can report,<lb/>
+As seemeth by his plight, of the revolt<lb/>
+The newest state.<lb/>
+
+
+</p></sp><sp><speaker>MALCOLM</speaker>
+<p>This is the sergeant<lb/>
+Who like a good and hardy soldier fought<lb/>
+'Gainst my captivity. Hail, brave friend!<lb/>
+Say to the king the knowledge of the broil<lb/>
+As thou didst leave it.<lb/>
+
+
+</p></sp><sp><speaker>Sergeant</speaker>
+<p>Doubtful it stood;<lb/>
+As two spent swimmers, that do cling together<lb/>
+And choke their art. The merciless Macdonwald&mdash;<lb/>
+Worthy to be a rebel, for to that<lb/>
+The multiplying villanies of nature<lb/>
+Do swarm upon him&mdash;from the western isles<lb/>
+Of kerns and gallowglasses is supplied;<lb/>
+And fortune, on his damned quarrel smiling,<lb/>
+Show'd like a rebel's whore: but all's too weak:<lb/>
+For brave Macbeth&mdash;well he deserves that name&mdash;<lb/>
+Disdaining fortune, with his brandish'd steel,<lb/>
+Which smoked with bloody execution,<lb/>
+Like valour's minion carved out his passage<lb/>
+Till he faced the slave;<lb/>
+Which ne'er shook hands, nor bade farewell to him,<lb/>
+Till he unseam'd him from the nave to the chaps,<lb/>
+And fix'd his head upon our battlements.<lb/>
+
+
+</p></sp><sp><speaker>DUNCAN</speaker>
+<p>O valiant cousin! worthy gentleman!<lb/>
+
+</p></sp><sp><speaker>Sergeant</speaker>
+<p>As whence the sun 'gins his reflection<lb/>
+Shipwrecking storms and direful thunders break,<lb/>
+So from that spring whence comfort seem'd to come<lb/>
+Discomfort swells. Mark, king of Scotland, mark:<lb/>
+No sooner justice had with valour arm'd<lb/>
+Compell'd these skipping kerns to trust their heels,<lb/>
+But the Norweyan lord surveying vantage,<lb/>
+With furbish'd arms and new supplies of men<lb/>
+Began a fresh assault.<lb/>
+
+
+</p></sp><sp><speaker>DUNCAN</speaker>
+<p>Dismay'd not this<lb/>
+Our captains, Macbeth and Banquo?<lb/>
+
+
+</p></sp><sp><speaker>Sergeant</speaker>
+<p>Yes;<lb/>
+As sparrows eagles, or the hare the lion.<lb/>
+If I say sooth, I must report they were<lb/>
+As cannons overcharged with double cracks, so they<lb/>
+Doubly redoubled strokes upon the foe:<lb/>
+Except they meant to bathe in reeking wounds,<lb/>
+Or memorise another Golgotha,<lb/>
+I cannot tell.<lb/>
+But I am faint, my gashes cry for help.<lb/>
+
+
+</p></sp><sp><speaker>DUNCAN</speaker>
+<p>So well thy words become thee as thy wounds;<lb/>
+They smack of honour both. Go get him surgeons.<lb/>
+
+
+</p><p><stage>Exit Sergeant, attended</stage></p>
+
+
+<p>
+Who comes here?<lb/>
+
+
+</p><p><stage>Enter ROSS</stage>
+
+
+</p></sp><sp><speaker>MALCOLM</speaker>
+<p>The worthy thane of Ross.<lb/>
+
+</p></sp><sp><speaker>LENNOX</speaker>
+<p>What a haste looks through his eyes! So should he look<lb/>
+That seems to speak things strange.<lb/>
+
+
+</p></sp><sp><speaker>ROSS</speaker>
+<p>God save the king!<lb/>
+
+</p></sp><sp><speaker>DUNCAN</speaker>
+<p>Whence camest thou, worthy thane?<lb/>
+
+</p></sp><sp><speaker>ROSS</speaker>
+<p>From Fife, great king;<lb/>
+Where the Norweyan banners flout the sky<lb/>
+And fan our people cold. Norway himself,<lb/>
+With terrible numbers,<lb/>
+Assisted by that most disloyal traitor<lb/>
+The thane of Cawdor, began a dismal conflict;<lb/>
+Till that Bellona's bridegroom, lapp'd in proof,<lb/>
+Confronted him with self-comparisons,<lb/>
+Point against point rebellious, arm 'gainst arm.<lb/>
+Curbing his lavish spirit: and, to conclude,<lb/>
+The victory fell on us.<lb/>
+
+
+</p></sp><sp><speaker>DUNCAN</speaker>
+<p>Great happiness!<lb/>
+
+</p></sp><sp><speaker>ROSS</speaker>
+<p>That now<lb/>
+Sweno, the Norways' king, craves composition:<lb/>
+Nor would we deign him burial of his men<lb/>
+Till he disbursed at Saint Colme's inch<lb/>
+Ten thousand dollars to our general use.<lb/>
+
+
+</p></sp><sp><speaker>DUNCAN</speaker>
+<p>No more that thane of Cawdor shall deceive<lb/>
+Our bosom interest: go pronounce his present death,<lb/>
+And with his former title greet Macbeth.<lb/>
+
+
+</p></sp><sp><speaker>ROSS</speaker>
+<p>I'll see it done.<lb/>
+
+</p></sp><sp><speaker>DUNCAN</speaker>
+<p>What he hath lost noble Macbeth hath won.<lb/>
+
+</p></sp><p><stage>Exeunt</stage>
+
+
+
+</p></div2><div2 type="scene" n="3" id="d8">
+<head>Scene 3</head>
+
+<p><stage>A heath near Forres.</stage>
+
+</p><p><stage>Thunder. Enter the three Witches</stage>
+
+
+</p><sp><speaker>First Witch</speaker>
+<p>Where hast thou been, sister?<lb/>
+
+</p></sp><sp><speaker>Second Witch</speaker>
+<p>Killing swine.<lb/>
+
+</p></sp><sp><speaker>Third Witch</speaker>
+<p>Sister, where thou?<lb/>
+
+</p></sp><sp><speaker>First Witch</speaker>
+<p>A sailor's wife had chestnuts in her lap,<lb/>
+And munch'd, and munch'd, and munch'd:&mdash;<lb/>
+'Give me,' quoth I:<lb/>
+'Aroint thee, witch!' the rump-fed ronyon cries.<lb/>
+Her husband's to Aleppo gone, master o' the Tiger:<lb/>
+But in a sieve I'll thither sail,<lb/>
+And, like a rat without a tail,<lb/>
+I'll do, I'll do, and I'll do.<lb/>
+
+
+</p></sp><sp><speaker>Second Witch</speaker>
+<p>I'll give thee a wind.<lb/>
+
+</p></sp><sp><speaker>First Witch</speaker>
+<p>Thou'rt kind.<lb/>
+
+</p></sp><sp><speaker>Third Witch</speaker>
+<p>And I another.<lb/>
+
+</p></sp><sp><speaker>First Witch</speaker>
+<p>I myself have all the other,<lb/>
+And the very ports they blow,<lb/>
+All the quarters that they know<lb/>
+I' the shipman's card.<lb/>
+I will drain him dry as hay:<lb/>
+Sleep shall neither night nor day<lb/>
+Hang upon his pent-house lid;<lb/>
+He shall live a man forbid:<lb/>
+Weary se'nnights nine times nine<lb/>
+Shall he dwindle, peak and pine:<lb/>
+Though his bark cannot be lost,<lb/>
+Yet it shall be tempest-tost.<lb/>
+Look what I have.<lb/>
+
+
+</p></sp><sp><speaker>Second Witch</speaker>
+<p>Show me, show me.<lb/>
+
+</p></sp><sp><speaker>First Witch</speaker>
+<p>Here I have a pilot's thumb,<lb/>
+Wreck'd as homeward he did come.<lb/>
+
+
+</p><p><stage>Drum within</stage>
+
+
+</p></sp><sp><speaker>Third Witch</speaker>
+<p>A drum, a drum!<lb/>
+Macbeth doth come.<lb/>
+
+
+</p></sp><sp><speaker>ALL</speaker>
+<p>The weird sisters, hand in hand,<lb/>
+Posters of the sea and land,<lb/>
+Thus do go about, about:<lb/>
+Thrice to thine and thrice to mine<lb/>
+And thrice again, to make up nine.<lb/>
+Peace! the charm's wound up.<lb/>
+
+
+</p><p><stage>Enter MACBETH and BANQUO</stage>
+
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>So foul and fair a day I have not seen.<lb/>
+
+</p></sp><sp><speaker>BANQUO</speaker>
+<p>How far is't call'd to Forres? What are these<lb/>
+So wither'd and so wild in their attire,<lb/>
+That look not like the inhabitants o' the earth,<lb/>
+And yet are on't? Live you? or are you aught<lb/>
+That man may question? You seem to understand me,<lb/>
+By each at once her chappy finger laying<lb/>
+Upon her skinny lips: you should be women,<lb/>
+And yet your beards forbid me to interpret<lb/>
+That you are so.<lb/>
+
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>Speak, if you can: what are you?<lb/>
+
+</p></sp><sp><speaker>First Witch</speaker>
+<p>All hail, Macbeth! hail to thee, thane of Glamis!<lb/>
+
+</p></sp><sp><speaker>Second Witch</speaker>
+<p>All hail, Macbeth, hail to thee, thane of Cawdor!<lb/>
+
+</p></sp><sp><speaker>Third Witch</speaker>
+<p>All hail, Macbeth, thou shalt be king hereafter!<lb/>
+
+</p></sp><sp><speaker>BANQUO</speaker>
+<p>Good sir, why do you start; and seem to fear<lb/>
+Things that do sound so fair? I' the name of truth,<lb/>
+Are ye fantastical, or that indeed<lb/>
+Which outwardly ye show? My noble partner<lb/>
+You greet with present grace and great prediction<lb/>
+Of noble having and of royal hope,<lb/>
+That he seems rapt withal: to me you speak not.<lb/>
+If you can look into the seeds of time,<lb/>
+And say which grain will grow and which will not,<lb/>
+Speak then to me, who neither beg nor fear<lb/>
+Your favours nor your hate.<lb/>
+
+
+</p></sp><sp><speaker>First Witch</speaker>
+<p>Hail!<lb/>
+
+</p></sp><sp><speaker>Second Witch</speaker>
+<p>Hail!<lb/>
+
+</p></sp><sp><speaker>Third Witch</speaker>
+<p>Hail!<lb/>
+
+</p></sp><sp><speaker>First Witch</speaker>
+<p>Lesser than Macbeth, and greater.<lb/>
+
+</p></sp><sp><speaker>Second Witch</speaker>
+<p>Not so happy, yet much happier.<lb/>
+
+</p></sp><sp><speaker>Third Witch</speaker>
+<p>Thou shalt get kings, though thou be none:<lb/>
+So all hail, Macbeth and Banquo!<lb/>
+
+
+</p></sp><sp><speaker>First Witch</speaker>
+<p>Banquo and Macbeth, all hail!<lb/>
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>Stay, you imperfect speakers, tell me more:<lb/>
+By Sinel's death I know I am thane of Glamis;<lb/>
+But how of Cawdor? the thane of Cawdor lives,<lb/>
+A prosperous gentleman; and to be king<lb/>
+Stands not within the prospect of belief,<lb/>
+No more than to be Cawdor. Say from whence<lb/>
+You owe this strange intelligence? or why<lb/>
+Upon this blasted heath you stop our way<lb/>
+With such prophetic greeting? Speak, I charge you.<lb/>
+
+
+</p><p><stage>Witches vanish</stage>
+
+
+</p></sp><sp><speaker>BANQUO</speaker>
+<p>The earth hath bubbles, as the water has,<lb/>
+And these are of them. Whither are they vanish'd?<lb/>
+
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>Into the air; and what seem'd corporal melted<lb/>
+As breath into the wind. Would they had stay'd!<lb/>
+
+
+</p></sp><sp><speaker>BANQUO</speaker>
+<p>Were such things here as we do speak about?<lb/>
+Or have we eaten on the insane root<lb/>
+That takes the reason prisoner?<lb/>
+
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>Your children shall be kings.<lb/>
+
+</p></sp><sp><speaker>BANQUO</speaker>
+<p>You shall be king.<lb/>
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>And thane of Cawdor too: went it not so?<lb/>
+
+</p></sp><sp><speaker>BANQUO</speaker>
+<p>To the selfsame tune and words. Who's here?<lb/>
+
+</p><p><stage>Enter ROSS and ANGUS</stage>
+
+
+</p></sp><sp><speaker>ROSS</speaker>
+<p>The king hath happily received, Macbeth,<lb/>
+The news of thy success; and when he reads<lb/>
+Thy personal venture in the rebels' fight,<lb/>
+His wonders and his praises do contend<lb/>
+Which should be thine or his: silenced with that,<lb/>
+In viewing o'er the rest o' the selfsame day,<lb/>
+He finds thee in the stout Norweyan ranks,<lb/>
+Nothing afeard of what thyself didst make,<lb/>
+Strange images of death. As thick as hail<lb/>
+Came post with post; and every one did bear<lb/>
+Thy praises in his kingdom's great defence,<lb/>
+And pour'd them down before him.<lb/>
+
+
+</p></sp><sp><speaker>ANGUS</speaker>
+<p>We are sent<lb/>
+To give thee from our royal master thanks;<lb/>
+Only to herald thee into his sight,<lb/>
+Not pay thee.<lb/>
+
+
+</p></sp><sp><speaker>ROSS</speaker>
+<p>And, for an earnest of a greater honour,<lb/>
+He bade me, from him, call thee thane of Cawdor:<lb/>
+In which addition, hail, most worthy thane!<lb/>
+For it is thine.<lb/>
+
+
+</p></sp><sp><speaker>BANQUO</speaker>
+<p>What, can the devil speak true?<lb/>
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>The thane of Cawdor lives: why do you dress me<lb/>
+In borrow'd robes?<lb/>
+
+
+</p></sp><sp><speaker>ANGUS</speaker>
+<p>Who was the thane lives yet;<lb/>
+But under heavy judgment bears that life<lb/>
+Which he deserves to lose. Whether he was combined<lb/>
+With those of Norway, or did line the rebel<lb/>
+With hidden help and vantage, or that with both<lb/>
+He labour'd in his country's wreck, I know not;<lb/>
+But treasons capital, confess'd and proved,<lb/>
+Have overthrown him.<lb/>
+
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p><stage>[Aside]</stage></p><p>  Glamis, and thane of Cawdor!<lb/>
+The greatest is behind.<lb/>
+
+
+</p><p><stage>To ROSS and ANGUS</stage></p>
+
+
+<p>
+Thanks for your pains.<lb/>
+
+
+</p><p><stage>To BANQUO</stage></p>
+
+
+<p>
+Do you not hope your children shall be kings,<lb/>
+When those that gave the thane of Cawdor to me<lb/>
+Promised no less to them?<lb/>
+
+
+</p></sp><sp><speaker>BANQUO</speaker>
+<p>That trusted home<lb/>
+Might yet enkindle you unto the crown,<lb/>
+Besides the thane of Cawdor. But 'tis strange:<lb/>
+And oftentimes, to win us to our harm,<lb/>
+The instruments of darkness tell us truths,<lb/>
+Win us with honest trifles, to betray's<lb/>
+In deepest consequence.<lb/>
+Cousins, a word, I pray you.<lb/>
+
+
+</p></sp><sp><speaker>MACBETH</speaker><p><stage>[Aside]</stage></p>
+<p>Two truths are told,<lb/>
+As happy prologues to the swelling act<lb/>
+Of the imperial theme.&mdash;I thank you, gentlemen.<lb/>
+
+	</p><p><stage>[Aside]</stage></p><p>  This supernatural soliciting<lb/>
+Cannot be ill, cannot be good: if ill,<lb/>
+Why hath it given me earnest of success,<lb/>
+Commencing in a truth? I am thane of Cawdor:<lb/>
+If good, why do I yield to that suggestion<lb/>
+Whose horrid image doth unfix my hair<lb/>
+And make my seated heart knock at my ribs,<lb/>
+Against the use of nature? Present fears<lb/>
+Are less than horrible imaginings:<lb/>
+My thought, whose murder yet is but fantastical,<lb/>
+Shakes so my single state of man that function<lb/>
+Is smother'd in surmise, and nothing is<lb/>
+But what is not.<lb/>
+
+
+</p></sp><sp><speaker>BANQUO</speaker>
+<p>Look, how our partner's rapt.<lb/>
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p><stage>[Aside]</stage></p><p>  If chance will have me king, why, chance may crown me,<lb/>
+Without my stir.<lb/>
+
+
+</p></sp><sp><speaker>BANQUO</speaker>
+<p>New horrors come upon him,<lb/>
+Like our strange garments, cleave not to their mould<lb/>
+But with the aid of use.<lb/>
+
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p><stage>[Aside]</stage></p><p>                Come what come may,<lb/>
+Time and the hour runs through the roughest day.<lb/>
+
+
+</p></sp><sp><speaker>BANQUO</speaker>
+<p>Worthy Macbeth, we stay upon your leisure.<lb/>
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>Give me your favour: my dull brain was wrought<lb/>
+With things forgotten. Kind gentlemen, your pains<lb/>
+Are register'd where every day I turn<lb/>
+The leaf to read them. Let us toward the king.<lb/>
+Think upon what hath chanced, and, at more time,<lb/>
+The interim having weigh'd it, let us speak<lb/>
+Our free hearts each to other.<lb/>
+
+
+</p></sp><sp><speaker>BANQUO</speaker>
+<p>Very gladly.<lb/>
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>Till then, enough. Come, friends.<lb/>
+
+</p></sp><p><stage>Exeunt</stage>
+
+
+
+</p></div2><div2 type="scene" n="4" id="d9">
+<head>Scene 4</head>
+
+<p><stage>Forres. The palace.</stage>
+
+</p><p><stage>Flourish. Enter DUNCAN, MALCOLM, DONALBAIN, LENNOX,	and Attendants</stage>
+
+
+</p><sp><speaker>DUNCAN</speaker>
+<p>Is execution done on Cawdor? Are not<lb/>
+Those in commission yet return'd?<lb/>
+
+
+</p></sp><sp><speaker>MALCOLM</speaker>
+<p>My liege,<lb/>
+They are not yet come back. But I have spoke<lb/>
+With one that saw him die: who did report<lb/>
+That very frankly he confess'd his treasons,<lb/>
+Implored your highness' pardon and set forth<lb/>
+A deep repentance: nothing in his life<lb/>
+Became him like the leaving it; he died<lb/>
+As one that had been studied in his death<lb/>
+To throw away the dearest thing he owed,<lb/>
+As 'twere a careless trifle.<lb/>
+
+
+</p></sp><sp><speaker>DUNCAN</speaker>
+<p>There's no art<lb/>
+To find the mind's construction in the face:<lb/>
+He was a gentleman on whom I built<lb/>
+An absolute trust.<lb/>
+
+
+</p><p><stage>Enter MACBETH, BANQUO, ROSS, and ANGUS</stage></p>
+
+
+<p>
+O worthiest cousin!<lb/>
+The sin of my ingratitude even now<lb/>
+Was heavy on me: thou art so far before<lb/>
+That swiftest wing of recompense is slow<lb/>
+To overtake thee. Would thou hadst less deserved,<lb/>
+That the proportion both of thanks and payment<lb/>
+Might have been mine! only I have left to say,<lb/>
+More is thy due than more than all can pay.<lb/>
+
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>The service and the loyalty I owe,<lb/>
+In doing it, pays itself. Your highness' part<lb/>
+Is to receive our duties; and our duties<lb/>
+Are to your throne and state children and servants,<lb/>
+Which do but what they should, by doing every thing<lb/>
+Safe toward your love and honour.<lb/>
+
+
+</p></sp><sp><speaker>DUNCAN</speaker>
+<p>Welcome hither:<lb/>
+I have begun to plant thee, and will labour<lb/>
+To make thee full of growing. Noble Banquo,<lb/>
+That hast no less deserved, nor must be known<lb/>
+No less to have done so, let me enfold thee<lb/>
+And hold thee to my heart.<lb/>
+
+
+</p></sp><sp><speaker>BANQUO</speaker>
+<p>There if I grow,<lb/>
+The harvest is your own.<lb/>
+
+
+</p></sp><sp><speaker>DUNCAN</speaker>
+<p>My plenteous joys,<lb/>
+Wanton in fulness, seek to hide themselves<lb/>
+In drops of sorrow. Sons, kinsmen, thanes,<lb/>
+And you whose places are the nearest, know<lb/>
+We will establish our estate upon<lb/>
+Our eldest, Malcolm, whom we name hereafter<lb/>
+The Prince of Cumberland; which honour must<lb/>
+Not unaccompanied invest him only,<lb/>
+But signs of nobleness, like stars, shall shine<lb/>
+On all deservers. From hence to Inverness,<lb/>
+And bind us further to you.<lb/>
+
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>The rest is labour, which is not used for you:<lb/>
+I'll be myself the harbinger and make joyful<lb/>
+The hearing of my wife with your approach;<lb/>
+So humbly take my leave.<lb/>
+
+
+</p></sp><sp><speaker>DUNCAN</speaker>
+<p>My worthy Cawdor!<lb/>
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p><stage>[Aside]</stage></p><p>  The Prince of Cumberland! that is a step<lb/>
+On which I must fall down, or else o'erleap,<lb/>
+For in my way it lies. Stars, hide your fires;<lb/>
+Let not light see my black and deep desires:<lb/>
+The eye wink at the hand; yet let that be,<lb/>
+Which the eye fears, when it is done, to see.<lb/>
+
+
+</p><p><stage>Exit</stage>
+
+
+</p></sp><sp><speaker>DUNCAN</speaker>
+<p>True, worthy Banquo; he is full so valiant,<lb/>
+And in his commendations I am fed;<lb/>
+It is a banquet to me. Let's after him,<lb/>
+Whose care is gone before to bid us welcome:<lb/>
+It is a peerless kinsman.<lb/>
+
+
+</p></sp><p><stage>Flourish. Exeunt</stage>
+
+
+
+</p></div2><div2 type="scene" n="5" id="d10">
+<head>Scene 5</head>
+
+<p><stage>Inverness. Macbeth's castle.</stage>
+
+</p><p><stage>Enter LADY MACBETH, reading a letter</stage>
+
+
+</p><sp><speaker>LADY MACBETH</speaker>
+<p>'They met me in the day of success: and I have<lb/>
+learned by the perfectest report, they have more in<lb/>
+them than mortal knowledge. When I burned in desire<lb/>
+to question them further, they made themselves air,<lb/>
+into which they vanished. Whiles I stood rapt in<lb/>
+the wonder of it, came missives from the king, who<lb/>
+all-hailed me 'Thane of Cawdor;' by which title,<lb/>
+before, these weird sisters saluted me, and referred<lb/>
+me to the coming on of time, with 'Hail, king that<lb/>
+shalt be!' This have I thought good to deliver<lb/>
+thee, my dearest partner of greatness, that thou<lb/>
+mightst not lose the dues of rejoicing, by being<lb/>
+ignorant of what greatness is promised thee. Lay it<lb/>
+to thy heart, and farewell.'<lb/>
+Glamis thou art, and Cawdor; and shalt be<lb/>
+What thou art promised: yet do I fear thy nature;<lb/>
+It is too full o' the milk of human kindness<lb/>
+To catch the nearest way: thou wouldst be great;<lb/>
+Art not without ambition, but without<lb/>
+The illness should attend it: what thou wouldst highly,<lb/>
+That wouldst thou holily; wouldst not play false,<lb/>
+And yet wouldst wrongly win: thou'ldst have, great Glamis,<lb/>
+That which cries 'Thus thou must do, if thou have it;<lb/>
+And that which rather thou dost fear to do<lb/>
+Than wishest should be undone.' Hie thee hither,<lb/>
+That I may pour my spirits in thine ear;<lb/>
+And chastise with the valour of my tongue<lb/>
+All that impedes thee from the golden round,<lb/>
+Which fate and metaphysical aid doth seem<lb/>
+To have thee crown'd withal.<lb/>
+
+
+</p><p><stage>Enter a Messenger</stage></p>
+
+
+<p>
+What is your tidings?<lb/>
+
+
+</p></sp><sp><speaker>Messenger</speaker>
+<p>The king comes here to-night.<lb/>
+
+</p></sp><sp><speaker>LADY MACBETH</speaker>
+<p>Thou'rt mad to say it:<lb/>
+Is not thy master with him? who, were't so,<lb/>
+Would have inform'd for preparation.<lb/>
+
+
+</p></sp><sp><speaker>Messenger</speaker>
+<p>So please you, it is true: our thane is coming:<lb/>
+One of my fellows had the speed of him,<lb/>
+Who, almost dead for breath, had scarcely more<lb/>
+Than would make up his message.<lb/>
+
+
+</p></sp><sp><speaker>LADY MACBETH</speaker>
+<p>Give him tending;<lb/>
+He brings great news.<lb/>
+
+
+</p><p><stage>Exit Messenger</stage></p>
+
+
+<p>
+The raven himself is hoarse<lb/>
+That croaks the fatal entrance of Duncan<lb/>
+Under my battlements. Come, you spirits<lb/>
+That tend on mortal thoughts, unsex me here,<lb/>
+And fill me from the crown to the toe top-full<lb/>
+Of direst cruelty! make thick my blood;<lb/>
+Stop up the access and passage to remorse,<lb/>
+That no compunctious visitings of nature<lb/>
+Shake my fell purpose, nor keep peace between<lb/>
+The effect and it! Come to my woman's breasts,<lb/>
+And take my milk for gall, you murdering ministers,<lb/>
+Wherever in your sightless substances<lb/>
+You wait on nature's mischief! Come, thick night,<lb/>
+And pall thee in the dunnest smoke of hell,<lb/>
+That my keen knife see not the wound it makes,<lb/>
+Nor heaven peep through the blanket of the dark,<lb/>
+To cry 'Hold, hold!'<lb/>
+
+
+</p><p><stage>Enter MACBETH</stage></p>
+
+
+<p>
+Great Glamis! worthy Cawdor!<lb/>
+Greater than both, by the all-hail hereafter!<lb/>
+Thy letters have transported me beyond<lb/>
+This ignorant present, and I feel now<lb/>
+The future in the instant.<lb/>
+
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>My dearest love,<lb/>
+Duncan comes here to-night.<lb/>
+
+
+</p></sp><sp><speaker>LADY MACBETH</speaker>
+<p>And when goes hence?<lb/>
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>To-morrow, as he purposes.<lb/>
+
+</p></sp><sp><speaker>LADY MACBETH</speaker>
+<p>O, never<lb/>
+Shall sun that morrow see!<lb/>
+Your face, my thane, is as a book where men<lb/>
+May read strange matters. To beguile the time,<lb/>
+Look like the time; bear welcome in your eye,<lb/>
+Your hand, your tongue: look like the innocent flower,<lb/>
+But be the serpent under't. He that's coming<lb/>
+Must be provided for: and you shall put<lb/>
+This night's great business into my dispatch;<lb/>
+Which shall to all our nights and days to come<lb/>
+Give solely sovereign sway and masterdom.<lb/>
+
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>We will speak further.<lb/>
+
+</p></sp><sp><speaker>LADY MACBETH</speaker>
+<p>Only look up clear;<lb/>
+To alter favour ever is to fear:<lb/>
+Leave all the rest to me.<lb/>
+
+
+</p></sp><p><stage>Exeunt</stage>
+
+
+
+</p></div2><div2 type="scene" n="6" id="d11">
+<head>Scene 6</head>
+
+<p><stage>Before Macbeth's castle.</stage>
+
+</p><p><stage>Hautboys and torches. Enter DUNCAN, MALCOLM,	DONALBAIN, BANQUO, LENNOX, MACDUFF, ROSS, ANGUS,	and Attendants</stage>
+
+
+</p><sp><speaker>DUNCAN</speaker>
+<p>This castle hath a pleasant seat; the air<lb/>
+Nimbly and sweetly recommends itself<lb/>
+Unto our gentle senses.<lb/>
+
+
+</p></sp><sp><speaker>BANQUO</speaker>
+<p>This guest of summer,<lb/>
+The temple-haunting martlet, does approve,<lb/>
+By his loved mansionry, that the heaven's breath<lb/>
+Smells wooingly here: no jutty, frieze,<lb/>
+Buttress, nor coign of vantage, but this bird<lb/>
+Hath made his pendent bed and procreant cradle:<lb/>
+Where they most breed and haunt, I have observed,<lb/>
+The air is delicate.<lb/>
+
+
+</p><p><stage>Enter LADY MACBETH</stage>
+
+
+</p></sp><sp><speaker>DUNCAN</speaker>
+<p>See, see, our honour'd hostess!<lb/>
+The love that follows us sometime is our trouble,<lb/>
+Which still we thank as love. Herein I teach you<lb/>
+How you shall bid God 'ild us for your pains,<lb/>
+And thank us for your trouble.<lb/>
+
+
+</p></sp><sp><speaker>LADY MACBETH</speaker>
+<p>All our service<lb/>
+In every point twice done and then done double<lb/>
+Were poor and single business to contend<lb/>
+Against those honours deep and broad wherewith<lb/>
+Your majesty loads our house: for those of old,<lb/>
+And the late dignities heap'd up to them,<lb/>
+We rest your hermits.<lb/>
+
+
+</p></sp><sp><speaker>DUNCAN</speaker>
+<p>Where's the thane of Cawdor?<lb/>
+We coursed him at the heels, and had a purpose<lb/>
+To be his purveyor: but he rides well;<lb/>
+And his great love, sharp as his spur, hath holp him<lb/>
+To his home before us. Fair and noble hostess,<lb/>
+We are your guest to-night.<lb/>
+
+
+</p></sp><sp><speaker>LADY MACBETH</speaker>
+<p>Your servants ever<lb/>
+Have theirs, themselves and what is theirs, in compt,<lb/>
+To make their audit at your highness' pleasure,<lb/>
+Still to return your own.<lb/>
+
+
+</p></sp><sp><speaker>DUNCAN</speaker>
+<p>Give me your hand;<lb/>
+Conduct me to mine host: we love him highly,<lb/>
+And shall continue our graces towards him.<lb/>
+By your leave, hostess.<lb/>
+
+
+</p></sp><p><stage>Exeunt</stage>
+
+
+
+</p></div2><div2 type="scene" n="7" id="d12">
+<head>Scene 7</head>
+
+<p><stage>Macbeth's castle.</stage>
+
+</p><p><stage>Hautboys and torches. Enter a Sewer, and divers	Servants with dishes and service, and pass over the	stage. Then enter MACBETH</stage>
+
+
+</p><sp><speaker>MACBETH</speaker>
+<p>If it were done when 'tis done, then 'twere well<lb/>
+It were done quickly: if the assassination<lb/>
+Could trammel up the consequence, and catch<lb/>
+With his surcease success; that but this blow<lb/>
+Might be the be-all and the end-all here,<lb/>
+But here, upon this bank and shoal of time,<lb/>
+We'ld jump the life to come. But in these cases<lb/>
+We still have judgment here; that we but teach<lb/>
+Bloody instructions, which, being taught, return<lb/>
+To plague the inventor: this even-handed justice<lb/>
+Commends the ingredients of our poison'd chalice<lb/>
+To our own lips. He's here in double trust;<lb/>
+First, as I am his kinsman and his subject,<lb/>
+Strong both against the deed; then, as his host,<lb/>
+Who should against his murderer shut the door,<lb/>
+Not bear the knife myself. Besides, this Duncan<lb/>
+Hath borne his faculties so meek, hath been<lb/>
+So clear in his great office, that his virtues<lb/>
+Will plead like angels, trumpet-tongued, against<lb/>
+The deep damnation of his taking-off;<lb/>
+And pity, like a naked new-born babe,<lb/>
+Striding the blast, or heaven's cherubim, horsed<lb/>
+Upon the sightless couriers of the air,<lb/>
+Shall blow the horrid deed in every eye,<lb/>
+That tears shall drown the wind. I have no spur<lb/>
+To prick the sides of my intent, but only<lb/>
+Vaulting ambition, which o'erleaps itself<lb/>
+And falls on the other.<lb/>
+
+
+</p><p><stage>Enter LADY MACBETH</stage></p>
+
+
+<p>
+How now! what news?<lb/>
+
+
+</p></sp><sp><speaker>LADY MACBETH</speaker>
+<p>He has almost supp'd: why have you left the chamber?<lb/>
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>Hath he ask'd for me?<lb/>
+
+</p></sp><sp><speaker>LADY MACBETH</speaker>
+<p>Know you not he has?<lb/>
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>We will proceed no further in this business:<lb/>
+He hath honour'd me of late; and I have bought<lb/>
+Golden opinions from all sorts of people,<lb/>
+Which would be worn now in their newest gloss,<lb/>
+Not cast aside so soon.<lb/>
+
+
+</p></sp><sp><speaker>LADY MACBETH</speaker>
+<p>Was the hope drunk<lb/>
+Wherein you dress'd yourself? hath it slept since?<lb/>
+And wakes it now, to look so green and pale<lb/>
+At what it did so freely? From this time<lb/>
+Such I account thy love. Art thou afeard<lb/>
+To be the same in thine own act and valour<lb/>
+As thou art in desire? Wouldst thou have that<lb/>
+Which thou esteem'st the ornament of life,<lb/>
+And live a coward in thine own esteem,<lb/>
+Letting 'I dare not' wait upon 'I would,'<lb/>
+Like the poor cat i' the adage?<lb/>
+
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>Prithee, peace:<lb/>
+I dare do all that may become a man;<lb/>
+Who dares do more is none.<lb/>
+
+</p></sp><sp><speaker>LADY MACBETH</speaker>
+<p>What beast was't, then,<lb/>
+That made you break this enterprise to me?<lb/>
+When you durst do it, then you were a man;<lb/>
+And, to be more than what you were, you would<lb/>
+Be so much more the man. Nor time nor place<lb/>
+Did then adhere, and yet you would make both:<lb/>
+They have made themselves, and that their fitness now<lb/>
+Does unmake you. I have given suck, and know<lb/>
+How tender 'tis to love the babe that milks me:<lb/>
+I would, while it was smiling in my face,<lb/>
+Have pluck'd my nipple from his boneless gums,<lb/>
+And dash'd the brains out, had I so sworn as you<lb/>
+Have done to this.<lb/>
+
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>If we should fail?<lb/>
+
+</p></sp><sp><speaker>LADY MACBETH</speaker>
+<p>We fail!<lb/>
+But screw your courage to the sticking-place,<lb/>
+And we'll not fail. When Duncan is asleep&mdash;<lb/>
+Whereto the rather shall his day's hard journey<lb/>
+Soundly invite him&mdash;his two chamberlains<lb/>
+Will I with wine and wassail so convince<lb/>
+That memory, the warder of the brain,<lb/>
+Shall be a fume, and the receipt of reason<lb/>
+A limbeck only: when in swinish sleep<lb/>
+Their drenched natures lie as in a death,<lb/>
+What cannot you and I perform upon<lb/>
+The unguarded Duncan? what not put upon<lb/>
+His spongy officers, who shall bear the guilt<lb/>
+Of our great quell?<lb/>
+
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>Bring forth men-children only;<lb/>
+For thy undaunted mettle should compose<lb/>
+Nothing but males. Will it not be received,<lb/>
+When we have mark'd with blood those sleepy two<lb/>
+Of his own chamber and used their very daggers,<lb/>
+That they have done't?<lb/>
+
+
+</p></sp><sp><speaker>LADY MACBETH</speaker>
+<p>Who dares receive it other,<lb/>
+As we shall make our griefs and clamour roar<lb/>
+Upon his death?<lb/>
+
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>I am settled, and bend up<lb/>
+Each corporal agent to this terrible feat.<lb/>
+Away, and mock the time with fairest show:<lb/>
+False face must hide what the false heart doth know.<lb/>
+
+
+</p></sp><p><stage>Exeunt</stage></p>
+
+
+
+</div2>
+
+</div1>
+
+<div1 type="act" n="2" id="d13">
+<head>Act 2</head>
+
+<div2 type="scene" n="1" id="d14">
+<head>Scene 1</head><p><stage>Court of Macbeth's castle.</stage>
+
+</p><p><stage>Enter BANQUO, and FLEANCE bearing a torch before him</stage>
+
+
+</p><sp><speaker>BANQUO</speaker>
+<p>How goes the night, boy?<lb/>
+
+</p></sp><sp><speaker>FLEANCE</speaker>
+<p>The moon is down; I have not heard the clock.<lb/>
+
+</p></sp><sp><speaker>BANQUO</speaker>
+<p>And she goes down at twelve.<lb/>
+
+</p></sp><sp><speaker>FLEANCE</speaker>
+<p>I take't, 'tis later, sir.<lb/>
+
+</p></sp><sp><speaker>BANQUO</speaker>
+<p>Hold, take my sword. There's husbandry in heaven;<lb/>
+Their candles are all out. Take thee that too.<lb/>
+A heavy summons lies like lead upon me,<lb/>
+And yet I would not sleep: merciful powers,<lb/>
+Restrain in me the cursed thoughts that nature<lb/>
+Gives way to in repose!<lb/>
+
+
+</p><p><stage>Enter MACBETH, and a Servant with a torch</stage></p>
+
+
+<p>
+Give me my sword.<lb/>
+Who's there?<lb/>
+
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>A friend.<lb/>
+
+</p></sp><sp><speaker>BANQUO</speaker>
+<p>What, sir, not yet at rest? The king's a-bed:<lb/>
+He hath been in unusual pleasure, and<lb/>
+Sent forth great largess to your offices.<lb/>
+This diamond he greets your wife withal,<lb/>
+By the name of most kind hostess; and shut up<lb/>
+In measureless content.<lb/>
+
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>Being unprepared,<lb/>
+Our will became the servant to defect;<lb/>
+Which else should free have wrought.<lb/>
+
+
+</p></sp><sp><speaker>BANQUO</speaker>
+<p>All's well.<lb/>
+I dreamt last night of the three weird sisters:<lb/>
+To you they have show'd some truth.<lb/>
+
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>I think not of them:<lb/>
+Yet, when we can entreat an hour to serve,<lb/>
+We would spend it in some words upon that business,<lb/>
+If you would grant the time.<lb/>
+
+
+</p></sp><sp><speaker>BANQUO</speaker>
+<p>At your kind'st leisure.<lb/>
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>If you shall cleave to my consent, when 'tis,<lb/>
+It shall make honour for you.<lb/>
+
+
+</p></sp><sp><speaker>BANQUO</speaker>
+<p>So I lose none<lb/>
+In seeking to augment it, but still keep<lb/>
+My bosom franchised and allegiance clear,<lb/>
+I shall be counsell'd.<lb/>
+
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>Good repose the while!<lb/>
+
+</p></sp><sp><speaker>BANQUO</speaker>
+<p>Thanks, sir: the like to you!<lb/>
+
+</p><p><stage>Exeunt BANQUO and FLEANCE</stage>
+
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>Go bid thy mistress, when my drink is ready,<lb/>
+She strike upon the bell. Get thee to bed.<lb/>
+
+
+</p><p><stage>Exit Servant</stage></p>
+
+
+<p>
+Is this a dagger which I see before me,<lb/>
+The handle toward my hand? Come, let me clutch thee.<lb/>
+I have thee not, and yet I see thee still.<lb/>
+Art thou not, fatal vision, sensible<lb/>
+To feeling as to sight? or art thou but<lb/>
+A dagger of the mind, a false creation,<lb/>
+Proceeding from the heat-oppressed brain?<lb/>
+I see thee yet, in form as palpable<lb/>
+As this which now I draw.<lb/>
+Thou marshall'st me the way that I was going;<lb/>
+And such an instrument I was to use.<lb/>
+Mine eyes are made the fools o' the other senses,<lb/>
+Or else worth all the rest; I see thee still,<lb/>
+And on thy blade and dudgeon gouts of blood,<lb/>
+Which was not so before. There's no such thing:<lb/>
+It is the bloody business which informs<lb/>
+Thus to mine eyes. Now o'er the one halfworld<lb/>
+Nature seems dead, and wicked dreams abuse<lb/>
+The curtain'd sleep; witchcraft celebrates<lb/>
+Pale Hecate's offerings, and wither'd murder,<lb/>
+Alarum'd by his sentinel, the wolf,<lb/>
+Whose howl's his watch, thus with his stealthy pace.<lb/>
+With Tarquin's ravishing strides, towards his design<lb/>
+Moves like a ghost. Thou sure and firm-set earth,<lb/>
+Hear not my steps, which way they walk, for fear<lb/>
+Thy very stones prate of my whereabout,<lb/>
+And take the present horror from the time,<lb/>
+Which now suits with it. Whiles I threat, he lives:<lb/>
+Words to the heat of deeds too cold breath gives.<lb/>
+
+
+</p><p><stage>A bell rings</stage></p>
+
+
+<p>
+I go, and it is done; the bell invites me.<lb/>
+Hear it not, Duncan; for it is a knell<lb/>
+That summons thee to heaven or to hell.<lb/>
+
+
+</p></sp><p><stage>Exit</stage>
+
+
+
+</p></div2><div2 type="scene" n="2" id="d15">
+<head>Scene 2</head>
+
+<p><stage>The same.</stage>
+
+</p><p><stage>Enter LADY MACBETH</stage>
+
+
+</p><sp><speaker>LADY MACBETH</speaker>
+<p>That which hath made them drunk hath made me bold;<lb/>
+What hath quench'd them hath given me fire.<lb/>
+Hark! Peace!<lb/>
+It was the owl that shriek'd, the fatal bellman,<lb/>
+Which gives the stern'st good-night. He is about it:<lb/>
+The doors are open; and the surfeited grooms<lb/>
+Do mock their charge with snores: I have drugg'd<lb/>
+their possets,<lb/>
+That death and nature do contend about them,<lb/>
+Whether they live or die.<lb/>
+
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p><stage>[Within]</stage></p><p>  Who's there? what, ho!<lb/>
+
+</p></sp><sp><speaker>LADY MACBETH</speaker>
+<p>Alack, I am afraid they have awaked,<lb/>
+And 'tis not done. The attempt and not the deed<lb/>
+Confounds us. Hark! I laid their daggers ready;<lb/>
+He could not miss 'em. Had he not resembled<lb/>
+My father as he slept, I had done't.<lb/>
+
+
+</p><p><stage>Enter MACBETH</stage></p>
+
+
+<p>
+My husband!<lb/>
+
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>I have done the deed. Didst thou not hear a noise?<lb/>
+
+</p></sp><sp><speaker>LADY MACBETH</speaker>
+<p>I heard the owl scream and the crickets cry.<lb/>
+Did not you speak?<lb/>
+
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>When?<lb/>
+
+</p></sp><sp><speaker>LADY MACBETH</speaker>
+<p>Now.<lb/>
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>As I descended?<lb/>
+
+</p></sp><sp><speaker>LADY MACBETH</speaker>
+<p>Ay.<lb/>
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>Hark!<lb/>
+Who lies i' the second chamber?<lb/>
+
+
+</p></sp><sp><speaker>LADY MACBETH</speaker>
+<p>Donalbain.<lb/>
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>This is a sorry sight.<lb/>
+
+</p><p><stage>Looking on his hands</stage>
+
+
+</p></sp><sp><speaker>LADY MACBETH</speaker>
+<p>A foolish thought, to say a sorry sight.<lb/>
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>There's one did laugh in's sleep, and one cried<lb/>
+'Murder!'<lb/>
+That they did wake each other: I stood and heard them:<lb/>
+But they did say their prayers, and address'd them<lb/>
+Again to sleep.<lb/>
+
+
+</p></sp><sp><speaker>LADY MACBETH</speaker>
+<p>There are two lodged together.<lb/>
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>One cried 'God bless us!' and 'Amen' the other;<lb/>
+As they had seen me with these hangman's hands.<lb/>
+Listening their fear, I could not say 'Amen,'<lb/>
+When they did say 'God bless us!'<lb/>
+
+
+</p></sp><sp><speaker>LADY MACBETH</speaker>
+<p>Consider it not so deeply.<lb/>
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>But wherefore could not I pronounce 'Amen'?<lb/>
+I had most need of blessing, and 'Amen'<lb/>
+Stuck in my throat.<lb/>
+
+
+</p></sp><sp><speaker>LADY MACBETH</speaker>
+<p>These deeds must not be thought<lb/>
+After these ways; so, it will make us mad.<lb/>
+
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>Methought I heard a voice cry 'Sleep no more!<lb/>
+Macbeth does murder sleep', the innocent sleep,<lb/>
+Sleep that knits up the ravell'd sleeve of care,<lb/>
+The death of each day's life, sore labour's bath,<lb/>
+Balm of hurt minds, great nature's second course,<lb/>
+Chief nourisher in life's feast,&mdash;<lb/>
+
+
+</p></sp><sp><speaker>LADY MACBETH</speaker>
+<p>What do you mean?<lb/>
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>Still it cried 'Sleep no more!' to all the house:<lb/>
+'Glamis hath murder'd sleep, and therefore Cawdor<lb/>
+Shall sleep no more; Macbeth shall sleep no more.'<lb/>
+
+
+</p></sp><sp><speaker>LADY MACBETH</speaker>
+<p>Who was it that thus cried? Why, worthy thane,<lb/>
+You do unbend your noble strength, to think<lb/>
+So brainsickly of things. Go get some water,<lb/>
+And wash this filthy witness from your hand.<lb/>
+Why did you bring these daggers from the place?<lb/>
+They must lie there: go carry them; and smear<lb/>
+The sleepy grooms with blood.<lb/>
+
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>I'll go no more:<lb/>
+I am afraid to think what I have done;<lb/>
+Look on't again I dare not.<lb/>
+
+
+</p></sp><sp><speaker>LADY MACBETH</speaker>
+<p>Infirm of purpose!<lb/>
+Give me the daggers: the sleeping and the dead<lb/>
+Are but as pictures: 'tis the eye of childhood<lb/>
+That fears a painted devil. If he do bleed,<lb/>
+I'll gild the faces of the grooms withal;<lb/>
+For it must seem their guilt.<lb/>
+
+
+</p><p><stage>Exit. Knocking within</stage>
+
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>Whence is that knocking?<lb/>
+How is't with me, when every noise appals me?<lb/>
+What hands are here? ha! they pluck out mine eyes.<lb/>
+Will all great Neptune's ocean wash this blood<lb/>
+Clean from my hand? No, this my hand will rather<lb/>
+The multitudinous seas in incarnadine,<lb/>
+Making the green one red.<lb/>
+
+
+</p><p><stage>Re-enter LADY MACBETH</stage>
+
+
+</p></sp><sp><speaker>LADY MACBETH</speaker>
+<p>My hands are of your colour; but I shame<lb/>
+To wear a heart so white.<lb/>
+
+
+</p><p><stage>Knocking within</stage></p>
+
+
+<p>
+I hear a knocking<lb/>
+At the south entry: retire we to our chamber;<lb/>
+A little water clears us of this deed:<lb/>
+How easy is it, then! Your constancy<lb/>
+Hath left you unattended.<lb/>
+
+
+</p><p><stage>Knocking within</stage></p>
+
+
+<p>
+Hark! more knocking.<lb/>
+Get on your nightgown, lest occasion call us,<lb/>
+And show us to be watchers. Be not lost<lb/>
+So poorly in your thoughts.<lb/>
+
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>To know my deed, 'twere best not know myself.<lb/>
+
+</p><p><stage>Knocking within</stage></p>
+
+
+<p>
+Wake Duncan with thy knocking! I would thou couldst!<lb/>
+
+
+</p></sp><p><stage>Exeunt</stage>
+
+
+
+</p></div2><div2 type="scene" n="3" id="d16">
+<head>Scene 3</head>
+
+<p><stage>The same.</stage>
+
+</p><p><stage>Knocking within. Enter a Porter</stage>
+
+
+</p><sp><speaker>Porter</speaker>
+<p>Here's a knocking indeed! If a<lb/>
+man were porter of hell-gate, he should have<lb/>
+old turning the key.<lb/>
+
+
+</p><p><stage>Knocking within</stage></p>
+
+
+<p>
+Knock,<lb/>
+knock, knock! Who's there, i' the name of<lb/>
+Beelzebub? Here's a farmer, that hanged<lb/>
+himself on the expectation of plenty: come in<lb/>
+time; have napkins enow about you; here<lb/>
+you'll sweat for't.<lb/>
+
+
+</p><p><stage>Knocking within</stage></p>
+
+
+<p>
+Knock,<lb/>
+knock! Who's there, in the other devil's<lb/>
+name? Faith, here's an equivocator, that could<lb/>
+swear in both the scales against either scale;<lb/>
+who committed treason enough for God's sake,<lb/>
+yet could not equivocate to heaven: O, come<lb/>
+in, equivocator.<lb/>
+
+
+</p><p><stage>Knocking within</stage></p>
+
+
+<p>
+Knock,<lb/>
+knock, knock! Who's there? Faith, here's an<lb/>
+English tailor come hither, for stealing out of<lb/>
+a French hose: come in, tailor; here you may<lb/>
+roast your goose.<lb/>
+
+
+</p><p><stage>Knocking within</stage></p>
+
+
+<p>
+Knock,<lb/>
+knock; never at quiet! What are you? But<lb/>
+this place is too cold for hell. I'll devil-porter<lb/>
+it no further: I had thought to have let in<lb/>
+some of all professions that go the primrose<lb/>
+way to the everlasting bonfire.<lb/>
+
+
+</p><p><stage>Knocking within</stage></p>
+
+
+<p>
+Anon, anon! I pray you, remember the porter.<lb/>
+
+
+</p><p><stage>Opens the gate</stage>
+
+
+
+</p><p><stage>Enter MACDUFF and LENNOX</stage>
+
+
+</p></sp><sp><speaker>MACDUFF</speaker>
+<p>Was it so late, friend, ere you went to bed,<lb/>
+That you do lie so late?<lb/>
+
+
+</p></sp><sp><speaker>Porter</speaker>
+<p>'Faith sir, we were carousing till the<lb/>
+second cock: and drink, sir, is a great<lb/>
+provoker of three things.<lb/>
+
+
+</p></sp><sp><speaker>MACDUFF</speaker>
+<p>What three things does drink especially provoke?<lb/>
+
+</p></sp><sp><speaker>Porter</speaker>
+<p>Marry, sir, nose-painting, sleep, and<lb/>
+urine. Lechery, sir, it provokes, and unprovokes;<lb/>
+it provokes the desire, but it takes<lb/>
+away the performance: therefore, much drink<lb/>
+may be said to be an equivocator with lechery:<lb/>
+it makes him, and it mars him; it sets<lb/>
+him on, and it takes him off; it persuades him,<lb/>
+and disheartens him; makes him stand to, and<lb/>
+not stand to; in conclusion, equivocates him<lb/>
+in a sleep, and, giving him the lie, leaves him.<lb/>
+
+
+</p></sp><sp><speaker>MACDUFF</speaker>
+<p>I believe drink gave thee the lie last night.<lb/>
+
+</p></sp><sp><speaker>Porter</speaker>
+<p>That it did, sir, i' the very throat on<lb/>
+me: but I requited him for his lie; and, I<lb/>
+think, being too strong for him, though he took<lb/>
+up my legs sometime, yet I made a shift to cast<lb/>
+him.<lb/>
+
+
+</p></sp><sp><speaker>MACDUFF</speaker>
+<p>Is thy master stirring?<lb/>
+
+</p><p><stage>Enter MACBETH</stage></p>
+
+
+<p>
+Our knocking has awaked him; here he comes.<lb/>
+
+
+</p></sp><sp><speaker>LENNOX</speaker>
+<p>Good morrow, noble sir.<lb/>
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>Good morrow, both.<lb/>
+
+</p></sp><sp><speaker>MACDUFF</speaker>
+<p>Is the king stirring, worthy thane?<lb/>
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>Not yet.<lb/>
+
+</p></sp><sp><speaker>MACDUFF</speaker>
+<p>He did command me to call timely on him:<lb/>
+I have almost slipp'd the hour.<lb/>
+
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>I'll bring you to him.<lb/>
+
+</p></sp><sp><speaker>MACDUFF</speaker>
+<p>I know this is a joyful trouble to you;<lb/>
+But yet 'tis one.<lb/>
+
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>The labour we delight in physics pain.<lb/>
+This is the door.<lb/>
+
+
+</p></sp><sp><speaker>MACDUFF</speaker>
+<p>I'll make so bold to call,<lb/>
+For 'tis my limited service.<lb/>
+
+
+</p><p><stage>Exit</stage>
+
+
+</p></sp><sp><speaker>LENNOX</speaker>
+<p>Goes the king hence to-day?<lb/>
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>He does: he did appoint so.<lb/>
+
+</p></sp><sp><speaker>LENNOX</speaker>
+<p>The night has been unruly: where we lay,<lb/>
+Our chimneys were blown down; and, as they say,<lb/>
+Lamentings heard i' the air; strange screams of death,<lb/>
+And prophesying with accents terrible<lb/>
+Of dire combustion and confused events<lb/>
+New hatch'd to the woeful time: the obscure bird<lb/>
+Clamour'd the livelong night: some say, the earth<lb/>
+Was feverous and did shake.<lb/>
+
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>'Twas a rough night.<lb/>
+
+</p></sp><sp><speaker>LENNOX</speaker>
+<p>My young remembrance cannot parallel<lb/>
+A fellow to it.<lb/>
+
+
+</p><p><stage>Re-enter MACDUFF</stage>
+
+
+</p></sp><sp><speaker>MACDUFF</speaker>
+<p>O horror, horror, horror! Tongue nor heart<lb/>
+Cannot conceive nor name thee!<lb/>
+
+
+
+</p></sp><sp><speaker>MACBETH, LENNOX</speaker>
+
+<p>What's the matter.<lb/>
+
+</p></sp><sp><speaker>MACDUFF</speaker>
+<p>Confusion now hath made his masterpiece!<lb/>
+Most sacrilegious murder hath broke ope<lb/>
+The Lord's anointed temple, and stole thence<lb/>
+The life o' the building!<lb/>
+
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>What is 't you say? the life?<lb/>
+
+</p></sp><sp><speaker>LENNOX</speaker>
+<p>Mean you his majesty?<lb/>
+
+</p></sp><sp><speaker>MACDUFF</speaker>
+<p>Approach the chamber, and destroy your sight<lb/>
+With a new Gorgon: do not bid me speak;<lb/>
+See, and then speak yourselves.<lb/>
+
+
+</p><p><stage>Exeunt MACBETH and LENNOX</stage></p>
+
+
+<p>
+Awake, awake!<lb/>
+Ring the alarum-bell. Murder and treason!<lb/>
+Banquo and Donalbain! Malcolm! awake!<lb/>
+Shake off this downy sleep, death's counterfeit,<lb/>
+And look on death itself! up, up, and see<lb/>
+The great doom's image! Malcolm! Banquo!<lb/>
+As from your graves rise up, and walk like sprites,<lb/>
+To countenance this horror! Ring the bell.<lb/>
+
+
+</p><p><stage>Bell rings</stage>
+
+
+
+</p><p><stage>Enter LADY MACBETH</stage>
+
+
+</p></sp><sp><speaker>LADY MACBETH</speaker>
+<p>What's the business,<lb/>
+That such a hideous trumpet calls to parley<lb/>
+The sleepers of the house? speak, speak!<lb/>
+
+
+</p></sp><sp><speaker>MACDUFF</speaker>
+<p>O gentle lady,<lb/>
+'Tis not for you to hear what I can speak:<lb/>
+The repetition, in a woman's ear,<lb/>
+Would murder as it fell.<lb/>
+
+
+</p><p><stage>Enter BANQUO</stage></p>
+
+
+<p>
+O Banquo, Banquo,<lb/>
+Our royal master 's murder'd!<lb/>
+
+
+</p></sp><sp><speaker>LADY MACBETH</speaker>
+<p>Woe, alas!<lb/>
+What, in our house?<lb/>
+
+
+</p></sp><sp><speaker>BANQUO</speaker>
+<p>Too cruel any where.<lb/>
+Dear Duff, I prithee, contradict thyself,<lb/>
+And say it is not so.<lb/>
+
+
+</p><p><stage>Re-enter MACBETH and LENNOX, with ROSS</stage>
+
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>Had I but died an hour before this chance,<lb/>
+I had lived a blessed time; for, from this instant,<lb/>
+There 's nothing serious in mortality:<lb/>
+All is but toys: renown and grace is dead;<lb/>
+The wine of life is drawn, and the mere lees<lb/>
+Is left this vault to brag of.<lb/>
+
+
+</p><p><stage>Enter MALCOLM and DONALBAIN</stage>
+
+
+</p></sp><sp><speaker>DONALBAIN</speaker>
+<p>What is amiss?<lb/>
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>You are, and do not know't:<lb/>
+The spring, the head, the fountain of your blood<lb/>
+Is stopp'd; the very source of it is stopp'd.<lb/>
+
+
+</p></sp><sp><speaker>MACDUFF</speaker>
+<p>Your royal father 's murder'd.<lb/>
+
+</p></sp><sp><speaker>MALCOLM</speaker>
+<p>O, by whom?<lb/>
+
+</p></sp><sp><speaker>LENNOX</speaker>
+<p>Those of his chamber, as it seem'd, had done 't:<lb/>
+Their hands and faces were an badged with blood;<lb/>
+So were their daggers, which unwiped we found<lb/>
+Upon their pillows:<lb/>
+They stared, and were distracted; no man's life<lb/>
+Was to be trusted with them.<lb/>
+
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>O, yet I do repent me of my fury,<lb/>
+That I did kill them.<lb/>
+
+
+</p></sp><sp><speaker>MACDUFF</speaker>
+<p>Wherefore did you so?<lb/>
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>Who can be wise, amazed, temperate and furious,<lb/>
+Loyal and neutral, in a moment? No man:<lb/>
+The expedition my violent love<lb/>
+Outrun the pauser, reason. Here lay Duncan,<lb/>
+His silver skin laced with his golden blood;<lb/>
+And his gash'd stabs look'd like a breach in nature<lb/>
+For ruin's wasteful entrance: there, the murderers,<lb/>
+Steep'd in the colours of their trade, their daggers<lb/>
+Unmannerly breech'd with gore: who could refrain,<lb/>
+That had a heart to love, and in that heart<lb/>
+Courage to make 's love known?<lb/>
+
+
+</p></sp><sp><speaker>LADY MACBETH</speaker>
+<p>Help me hence, ho!<lb/>
+
+</p></sp><sp><speaker>MACDUFF</speaker>
+<p>Look to the lady.<lb/>
+
+</p></sp><sp><speaker>MALCOLM</speaker>
+<p><stage>[Aside to DONALBAIN]</stage></p><p>  Why do we hold our tongues,<lb/>
+That most may claim this argument for ours?<lb/>
+
+
+</p></sp><sp><speaker>DONALBAIN</speaker>
+<p><stage>[Aside to MALCOLM]</stage></p><p>  What should be spoken here,<lb/>
+where our fate,<lb/>
+Hid in an auger-hole, may rush, and seize us?<lb/>
+Let 's away;<lb/>
+Our tears are not yet brew'd.<lb/>
+
+
+</p></sp><sp><speaker>MALCOLM</speaker>
+<p><stage>[Aside to DONALBAIN]</stage></p><p>        Nor our strong sorrow<lb/>
+Upon the foot of motion.<lb/>
+
+
+</p></sp><sp><speaker>BANQUO</speaker>
+<p>Look to the lady:<lb/>
+
+</p><p><stage>LADY MACBETH is carried out</stage></p>
+
+
+<p>
+And when we have our naked frailties hid,<lb/>
+That suffer in exposure, let us meet,<lb/>
+And question this most bloody piece of work,<lb/>
+To know it further. Fears and scruples shake us:<lb/>
+In the great hand of God I stand; and thence<lb/>
+Against the undivulged pretence I fight<lb/>
+Of treasonous malice.<lb/>
+
+
+</p></sp><sp><speaker>MACDUFF</speaker>
+<p>And so do I.<lb/>
+
+</p></sp><sp><speaker>ALL</speaker>
+<p>So all.<lb/>
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>Let's briefly put on manly readiness,<lb/>
+And meet i' the hall together.<lb/>
+
+
+</p></sp><sp><speaker>ALL</speaker>
+<p>Well contented.<lb/>
+
+</p></sp><p><stage>Exeunt all but Malcolm and Donalbain.MALCOLM What will you
+do? Let's not consort with them: To show an unfelt sorrow is an office
+Which the false man does easy. I'll to England.DONALBAIN To Ireland, I;
+our separated fortune Shall keep us bot h the safer: where we are, There's
+daggers in men's smiles: the near in blood, The nearer bloody.MALCOLM This
+murderous shaft that's shot Hath not yet lighted, and our safest way Is to
+avoid the aim. Therefore, to horse; And let us not b e dainty of
+leave-taking, But shift away: there's warrant in that theft Which steals
+itself, when there's no mercy left. [Exeunt]</stage></p>
+
+
+
+</div2><div2 type="scene" n="4" id="d17">
+<head>Scene 4</head>
+
+<p><stage>Outside Macbeth's castle.</stage>
+
+</p><p><stage>Enter ROSS and an old Man</stage>
+
+
+</p><sp><speaker>Old Man</speaker>
+<p>Threescore and ten I can remember well:<lb/>
+Within the volume of which time I have seen<lb/>
+Hours dreadful and things strange; but this sore night<lb/>
+Hath trifled former knowings.<lb/>
+
+
+</p></sp><sp><speaker>ROSS</speaker>
+<p>Ah, good father,<lb/>
+Thou seest, the heavens, as troubled with man's act,<lb/>
+Threaten his bloody stage: by the clock, 'tis day,<lb/>
+And yet dark night strangles the travelling lamp:<lb/>
+Is't night's predominance, or the day's shame,<lb/>
+That darkness does the face of earth entomb,<lb/>
+When living light should kiss it?<lb/>
+
+
+</p></sp><sp><speaker>Old Man</speaker>
+<p>'Tis unnatural,<lb/>
+Even like the deed that's done. On Tuesday last,<lb/>
+A falcon, towering in her pride of place,<lb/>
+Was by a mousing owl hawk'd at and kill'd.<lb/>
+
+
+</p></sp><sp><speaker>ROSS</speaker>
+<p>And Duncan's horses&mdash;a thing most strange and certain&mdash;<lb/>
+Beauteous and swift, the minions of their race,<lb/>
+Turn'd wild in nature, broke their stalls, flung out,<lb/>
+Contending 'gainst obedience, as they would make<lb/>
+War with mankind.<lb/>
+
+
+</p></sp><sp><speaker>Old Man</speaker>
+<p>'Tis said they eat each other.<lb/>
+
+</p></sp><sp><speaker>ROSS</speaker>
+<p>They did so, to the amazement of mine eyes<lb/>
+That look'd upon't. Here comes the good Macduff.<lb/>
+
+
+</p><p><stage>Enter MACDUFF</stage></p>
+
+
+<p>
+How goes the world, sir, now?<lb/>
+
+
+</p></sp><sp><speaker>MACDUFF</speaker>
+<p>Why, see you not?<lb/>
+
+</p></sp><sp><speaker>ROSS</speaker>
+<p>Is't known who did this more than bloody deed?<lb/>
+
+</p></sp><sp><speaker>MACDUFF</speaker>
+<p>Those that Macbeth hath slain.<lb/>
+
+</p></sp><sp><speaker>ROSS</speaker>
+<p>Alas, the day!<lb/>
+What good could they pretend?<lb/>
+
+
+</p></sp><sp><speaker>MACDUFF</speaker>
+<p>They were suborn'd:<lb/>
+Malcolm and Donalbain, the king's two sons,<lb/>
+Are stol'n away and fled; which puts upon them<lb/>
+Suspicion of the deed.<lb/>
+
+
+</p></sp><sp><speaker>ROSS</speaker>
+<p>'Gainst nature still!<lb/>
+Thriftless ambition, that wilt ravin up<lb/>
+Thine own life's means! Then 'tis most like<lb/>
+The sovereignty will fall upon Macbeth.<lb/>
+
+
+</p></sp><sp><speaker>MACDUFF</speaker>
+<p>He is already named, and gone to Scone<lb/>
+To be invested.<lb/>
+
+
+</p></sp><sp><speaker>ROSS</speaker>
+<p>Where is Duncan's body?<lb/>
+
+</p></sp><sp><speaker>MACDUFF</speaker>
+<p>Carried to Colmekill,<lb/>
+The sacred storehouse of his predecessors,<lb/>
+And guardian of their bones.<lb/>
+
+
+</p></sp><sp><speaker>ROSS</speaker>
+<p>Will you to Scone?<lb/>
+
+</p></sp><sp><speaker>MACDUFF</speaker>
+<p>No, cousin, I'll to Fife.<lb/>
+
+</p></sp><sp><speaker>ROSS</speaker>
+<p>Well, I will thither.<lb/>
+
+</p></sp><sp><speaker>MACDUFF</speaker>
+<p>Well, may you see things well done there: adieu!<lb/>
+Lest our old robes sit easier than our new!<lb/>
+
+
+</p></sp><sp><speaker>ROSS</speaker>
+<p>Farewell, father.<lb/>
+
+</p></sp><sp><speaker>Old Man</speaker>
+<p>God's benison go with you; and with those<lb/>
+That would make good of bad, and friends of foes!<lb/>
+
+
+</p></sp><p><stage>Exeunt</stage></p>
+
+
+
+</div2>
+
+</div1>
+
+<div1 type="act" n="3" id="d18">
+<head>Act 3</head>
+
+<div2 type="scene" n="1" id="d19">
+<head>Scene 1</head><p><stage>Forres. The palace.</stage>
+
+</p><p><stage>Enter BANQUO</stage>
+
+
+</p><sp><speaker>BANQUO</speaker>
+<p>Thou hast it now: king, Cawdor, Glamis, all,<lb/>
+As the weird women promised, and, I fear,<lb/>
+Thou play'dst most foully for't: yet it was said<lb/>
+It should not stand in thy posterity,<lb/>
+But that myself should be the root and father<lb/>
+Of many kings. If there come truth from them&mdash;<lb/>
+As upon thee, Macbeth, their speeches shine&mdash;<lb/>
+Why, by the verities on thee made good,<lb/>
+May they not be my oracles as well,<lb/>
+And set me up in hope? But hush! no more.<lb/>
+
+
+</p><p><stage>Sennet sounded. Enter MACBETH, as king, LADY	MACBETH, as queen, LENNOX, ROSS, Lords, Ladies, and	Attendants</stage>
+
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>Here's our chief guest.<lb/>
+
+</p></sp><sp><speaker>LADY MACBETH</speaker>
+<p>If he had been forgotten,<lb/>
+It had been as a gap in our great feast,<lb/>
+And all-thing unbecoming.<lb/>
+
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>To-night we hold a solemn supper sir,<lb/>
+And I'll request your presence.<lb/>
+
+
+</p></sp><sp><speaker>BANQUO</speaker>
+<p>Let your highness<lb/>
+Command upon me; to the which my duties<lb/>
+Are with a most indissoluble tie<lb/>
+For ever knit.<lb/>
+
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>Ride you this afternoon?<lb/>
+
+</p></sp><sp><speaker>BANQUO</speaker>
+<p>Ay, my good lord.<lb/>
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>We should have else desired your good advice,<lb/>
+Which still hath been both grave and prosperous,<lb/>
+In this day's council; but we'll take to-morrow.<lb/>
+Is't far you ride?<lb/>
+
+
+</p></sp><sp><speaker>BANQUO</speaker>
+<p>As far, my lord, as will fill up the time<lb/>
+'Twixt this and supper: go not my horse the better,<lb/>
+I must become a borrower of the night<lb/>
+For a dark hour or twain.<lb/>
+
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>Fail not our feast.<lb/>
+
+</p></sp><sp><speaker>BANQUO</speaker>
+<p>My lord, I will not.<lb/>
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>We hear, our bloody cousins are bestow'd<lb/>
+In England and in Ireland, not confessing<lb/>
+Their cruel parricide, filling their hearers<lb/>
+With strange invention: but of that to-morrow,<lb/>
+When therewithal we shall have cause of state<lb/>
+Craving us jointly. Hie you to horse: adieu,<lb/>
+Till you return at night. Goes Fleance with you?<lb/>
+
+
+</p></sp><sp><speaker>BANQUO</speaker>
+<p>Ay, my good lord: our time does call upon 's.<lb/>
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>I wish your horses swift and sure of foot;<lb/>
+And so I do commend you to their backs. Farewell.<lb/>
+
+
+</p><p><stage>Exit BANQUO</stage></p>
+
+
+<p>
+Let every man be master of his time<lb/>
+Till seven at night: to make society<lb/>
+The sweeter welcome, we will keep ourself<lb/>
+Till supper-time alone: while then, God be with you!<lb/>
+
+
+</p><p><stage>Exeunt all but MACBETH, and an attendant</stage></p>
+
+
+<p>
+Sirrah, a word with you: attend those men<lb/>
+Our pleasure?<lb/>
+
+
+</p></sp><sp><speaker>ATTENDANT</speaker>
+<p>They are, my lord, without the palace gate.<lb/>
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>Bring them before us.<lb/>
+
+</p><p><stage>Exit Attendant</stage></p>
+
+
+<p>
+To be thus is nothing;<lb/>
+But to be safely thus.&mdash;Our fears in Banquo<lb/>
+Stick deep; and in his royalty of nature<lb/>
+Reigns that which would be fear'd: 'tis much he dares;<lb/>
+And, to that dauntless temper of his mind,<lb/>
+He hath a wisdom that doth guide his valour<lb/>
+To act in safety. There is none but he<lb/>
+Whose being I do fear: and, under him,<lb/>
+My Genius is rebuked; as, it is said,<lb/>
+Mark Antony's was by Caesar. He chid the sisters<lb/>
+When first they put the name of king upon me,<lb/>
+And bade them speak to him: then prophet-like<lb/>
+They hail'd him father to a line of kings:<lb/>
+Upon my head they placed a fruitless crown,<lb/>
+And put a barren sceptre in my gripe,<lb/>
+Thence to be wrench'd with an unlineal hand,<lb/>
+No son of mine succeeding. If 't be so,<lb/>
+For Banquo's issue have I filed my mind;<lb/>
+For them the gracious Duncan have I murder'd;<lb/>
+Put rancours in the vessel of my peace<lb/>
+Only for them; and mine eternal jewel<lb/>
+Given to the common enemy of man,<lb/>
+To make them kings, the seed of Banquo kings!<lb/>
+Rather than so, come fate into the list.<lb/>
+And champion me to the utterance! Who's there!<lb/>
+
+
+</p><p><stage>Re-enter Attendant, with two Murderers</stage></p>
+
+
+<p>
+Now go to the door, and stay there till we call.<lb/>
+
+
+</p><p><stage>Exit Attendant</stage></p>
+
+
+<p>
+Was it not yesterday we spoke together?<lb/>
+
+
+</p></sp><sp><speaker>First Murderer</speaker>
+<p>It was, so please your highness.<lb/>
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>Well then, now<lb/>
+Have you consider'd of my speeches? Know<lb/>
+That it was he in the times past which held you<lb/>
+So under fortune, which you thought had been<lb/>
+Our innocent self: this I made good to you<lb/>
+In our last conference, pass'd in probation with you,<lb/>
+How you were borne in hand, how cross'd,<lb/>
+the instruments,<lb/>
+Who wrought with them, and all things else that might<lb/>
+To half a soul and to a notion crazed<lb/>
+Say 'Thus did Banquo.'<lb/>
+
+
+</p></sp><sp><speaker>First Murderer</speaker>
+<p>You made it known to us.<lb/>
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>I did so, and went further, which is now<lb/>
+Our point of second meeting. Do you find<lb/>
+Your patience so predominant in your nature<lb/>
+That you can let this go? Are you so gospell'd<lb/>
+To pray for this good man and for his issue,<lb/>
+Whose heavy hand hath bow'd you to the grave<lb/>
+And beggar'd yours for ever?<lb/>
+
+
+</p></sp><sp><speaker>First Murderer</speaker>
+<p>We are men, my liege.<lb/>
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>Ay, in the catalogue ye go for men;<lb/>
+As hounds and greyhounds, mongrels, spaniels, curs,<lb/>
+Shoughs, water-rugs and demi-wolves, are clept<lb/>
+All by the name of dogs: the valued file<lb/>
+Distinguishes the swift, the slow, the subtle,<lb/>
+The housekeeper, the hunter, every one<lb/>
+According to the gift which bounteous nature<lb/>
+Hath in him closed; whereby he does receive<lb/>
+Particular addition. from the bill<lb/>
+That writes them all alike: and so of men.<lb/>
+Now, if you have a station in the file,<lb/>
+Not i' the worst rank of manhood, say 't;<lb/>
+And I will put that business in your bosoms,<lb/>
+Whose execution takes your enemy off,<lb/>
+Grapples you to the heart and love of us,<lb/>
+Who wear our health but sickly in his life,<lb/>
+Which in his death were perfect.<lb/>
+
+
+</p></sp><sp><speaker>Second Murderer</speaker>
+<p>I am one, my liege,<lb/>
+Whom the vile blows and buffets of the world<lb/>
+Have so incensed that I am reckless what<lb/>
+I do to spite the world.<lb/>
+
+
+</p></sp><sp><speaker>First Murderer</speaker>
+<p>And I another<lb/>
+So weary with disasters, tugg'd with fortune,<lb/>
+That I would set my lie on any chance,<lb/>
+To mend it, or be rid on't.<lb/>
+
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>Both of you<lb/>
+Know Banquo was your enemy.<lb/>
+
+
+</p></sp><sp><speaker>Both Murderers</speaker>
+<p>True, my lord.<lb/>
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>So is he mine; and in such bloody distance,<lb/>
+That every minute of his being thrusts<lb/>
+Against my near'st of life: and though I could<lb/>
+With barefaced power sweep him from my sight<lb/>
+And bid my will avouch it, yet I must not,<lb/>
+For certain friends that are both his and mine,<lb/>
+Whose loves I may not drop, but wail his fall<lb/>
+Who I myself struck down; and thence it is,<lb/>
+That I to your assistance do make love,<lb/>
+Masking the business from the common eye<lb/>
+For sundry weighty reasons.<lb/>
+
+
+</p></sp><sp><speaker>Second Murderer</speaker>
+<p>We shall, my lord,<lb/>
+Perform what you command us.<lb/>
+
+
+</p></sp><sp><speaker>First Murderer</speaker>
+<p>Though our lives&mdash;<lb/>
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>Your spirits shine through you. Within this hour at most<lb/>
+I will advise you where to plant yourselves;<lb/>
+Acquaint you with the perfect spy o' the time,<lb/>
+The moment on't; for't must be done to-night,<lb/>
+And something from the palace; always thought<lb/>
+That I require a clearness: and with him&mdash;<lb/>
+To leave no rubs nor botches in the work&mdash;<lb/>
+Fleance his son, that keeps him company,<lb/>
+Whose absence is no less material to me<lb/>
+Than is his father's, must embrace the fate<lb/>
+Of that dark hour. Resolve yourselves apart:<lb/>
+I'll come to you anon.<lb/>
+
+
+</p></sp><sp><speaker>Both Murderers</speaker>
+<p>We are resolved, my lord.<lb/>
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>I'll call upon you straight: abide within.<lb/>
+
+</p><p><stage>Exeunt Murderers</stage></p>
+
+
+<p>
+It is concluded. Banquo, thy soul's flight,<lb/>
+If it find heaven, must find it out to-night.<lb/>
+
+
+</p></sp><p><stage>Exit</stage>
+
+
+
+</p></div2><div2 type="scene" n="2" id="d20">
+<head>Scene 2</head>
+
+<p><stage>The palace.</stage>
+
+</p><p><stage>Enter LADY MACBETH and a Servant</stage>
+
+
+</p><sp><speaker>LADY MACBETH</speaker>
+<p>Is Banquo gone from court?<lb/>
+
+</p></sp><sp><speaker>Servant</speaker>
+<p>Ay, madam, but returns again to-night.<lb/>
+
+</p></sp><sp><speaker>LADY MACBETH</speaker>
+<p>Say to the king, I would attend his leisure<lb/>
+For a few words.<lb/>
+
+
+</p></sp><sp><speaker>Servant</speaker>
+<p>Madam, I will.<lb/>
+
+</p><p><stage>Exit</stage>
+
+
+</p></sp><sp><speaker>LADY MACBETH</speaker>
+<p>Nought's had, all's spent,<lb/>
+Where our desire is got without content:<lb/>
+'Tis safer to be that which we destroy<lb/>
+Than by destruction dwell in doubtful joy.<lb/>
+
+
+</p><p><stage>Enter MACBETH</stage></p>
+
+
+<p>
+How now, my lord! why do you keep alone,<lb/>
+Of sorriest fancies your companions making,<lb/>
+Using those thoughts which should indeed have died<lb/>
+With them they think on? Things without all remedy<lb/>
+Should be without regard: what's done is done.<lb/>
+
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>We have scotch'd the snake, not kill'd it:<lb/>
+She'll close and be herself, whilst our poor malice<lb/>
+Remains in danger of her former tooth.<lb/>
+But let the frame of things disjoint, both the<lb/>
+worlds suffer,<lb/>
+Ere we will eat our meal in fear and sleep<lb/>
+In the affliction of these terrible dreams<lb/>
+That shake us nightly: better be with the dead,<lb/>
+Whom we, to gain our peace, have sent to peace,<lb/>
+Than on the torture of the mind to lie<lb/>
+In restless ecstasy. Duncan is in his grave;<lb/>
+After life's fitful fever he sleeps well;<lb/>
+Treason has done his worst: nor steel, nor poison,<lb/>
+Malice domestic, foreign levy, nothing,<lb/>
+Can touch him further.<lb/>
+
+
+</p></sp><sp><speaker>LADY MACBETH</speaker>
+<p>Come on;<lb/>
+Gentle my lord, sleek o'er your rugged looks;<lb/>
+Be bright and jovial among your guests to-night.<lb/>
+
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>So shall I, love; and so, I pray, be you:<lb/>
+Let your remembrance apply to Banquo;<lb/>
+Present him eminence, both with eye and tongue:<lb/>
+Unsafe the while, that we<lb/>
+Must lave our honours in these flattering streams,<lb/>
+And make our faces vizards to our hearts,<lb/>
+Disguising what they are.<lb/>
+
+
+</p></sp><sp><speaker>LADY MACBETH</speaker>
+<p>You must leave this.<lb/>
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>O, full of scorpions is my mind, dear wife!<lb/>
+Thou know'st that Banquo, and his Fleance, lives.<lb/>
+
+
+</p></sp><sp><speaker>LADY MACBETH</speaker>
+<p>But in them nature's copy's not eterne.<lb/>
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>There's comfort yet; they are assailable;<lb/>
+Then be thou jocund: ere the bat hath flown<lb/>
+His cloister'd flight, ere to black Hecate's summons<lb/>
+The shard-borne beetle with his drowsy hums<lb/>
+Hath rung night's yawning peal, there shall be done<lb/>
+A deed of dreadful note.<lb/>
+
+
+</p></sp><sp><speaker>LADY MACBETH</speaker>
+<p>What's to be done?<lb/>
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>Be innocent of the knowledge, dearest chuck,<lb/>
+Till thou applaud the deed. Come, seeling night,<lb/>
+Scarf up the tender eye of pitiful day;<lb/>
+And with thy bloody and invisible hand<lb/>
+Cancel and tear to pieces that great bond<lb/>
+Which keeps me pale! Light thickens; and the crow<lb/>
+Makes wing to the rooky wood:<lb/>
+Good things of day begin to droop and drowse;<lb/>
+While night's black agents to their preys do rouse.<lb/>
+Thou marvell'st at my words: but hold thee still;<lb/>
+Things bad begun make strong themselves by ill.<lb/>
+So, prithee, go with me.<lb/>
+
+
+</p></sp><p><stage>Exeunt</stage>
+
+
+
+</p></div2><div2 type="scene" n="3" id="d21">
+<head>Scene 3</head>
+
+<p><stage>A park near the palace.</stage>
+
+</p><p><stage>Enter three Murderers</stage>
+
+
+</p><sp><speaker>First Murderer</speaker>
+<p>But who did bid thee join with us?<lb/>
+
+</p></sp><sp><speaker>Third Murderer</speaker>
+<p>Macbeth.<lb/>
+
+</p></sp><sp><speaker>Second Murderer</speaker>
+<p>He needs not our mistrust, since he delivers<lb/>
+Our offices and what we have to do<lb/>
+To the direction just.<lb/>
+
+
+</p></sp><sp><speaker>First Murderer</speaker>
+<p>Then stand with us.<lb/>
+The west yet glimmers with some streaks of day:<lb/>
+Now spurs the lated traveller apace<lb/>
+To gain the timely inn; and near approaches<lb/>
+The subject of our watch.<lb/>
+
+
+</p></sp><sp><speaker>Third Murderer</speaker>
+<p>Hark! I hear horses.<lb/>
+
+</p></sp><sp><speaker>BANQUO</speaker>
+<p><stage>[Within]</stage></p><p>  Give us a light there, ho!<lb/>
+
+</p></sp><sp><speaker>Second Murderer</speaker>
+<p>Then 'tis he: the rest<lb/>
+That are within the note of expectation<lb/>
+Already are i' the court.<lb/>
+
+
+</p></sp><sp><speaker>First Murderer</speaker>
+<p>His horses go about.<lb/>
+
+</p></sp><sp><speaker>Third Murderer</speaker>
+<p>Almost a mile: but he does usually,<lb/>
+So all men do, from hence to the palace gate<lb/>
+Make it their walk.<lb/>
+
+
+</p></sp><sp><speaker>Second Murderer</speaker>
+<p>A light, a light!<lb/>
+
+</p><p><stage>Enter BANQUO, and FLEANCE with a torch</stage>
+
+
+</p></sp><sp><speaker>Third Murderer</speaker>
+<p>'Tis he.<lb/>
+
+</p></sp><sp><speaker>First Murderer</speaker>
+<p>Stand to't.<lb/>
+
+</p></sp><sp><speaker>BANQUO</speaker>
+<p>It will be rain to-night.<lb/>
+
+</p></sp><sp><speaker>First Murderer</speaker>
+<p>Let it come down.<lb/>
+
+</p><p><stage>They set upon BANQUO</stage>
+
+
+</p></sp><sp><speaker>BANQUO</speaker>
+<p>O, treachery! Fly, good Fleance, fly, fly, fly!<lb/>
+Thou mayst revenge. O slave!<lb/>
+
+
+</p><p><stage>Dies. FLEANCE escapes</stage>
+
+
+</p></sp><sp><speaker>Third Murderer</speaker>
+<p>Who did strike out the light?<lb/>
+
+</p></sp><sp><speaker>First Murderer</speaker>
+<p>Wast not the way?<lb/>
+
+</p></sp><sp><speaker>Third Murderer</speaker>
+<p>There's but one down; the son is fled.<lb/>
+
+</p></sp><sp><speaker>Second Murderer</speaker>
+<p>We have lost<lb/>
+Best half of our affair.<lb/>
+
+
+</p></sp><sp><speaker>First Murderer</speaker>
+<p>Well, let's away, and say how much is done.<lb/>
+
+</p></sp><p><stage>Exeunt</stage>
+
+
+
+</p></div2><div2 type="scene" n="4" id="d22">
+<head>Scene 4</head>
+
+<p><stage>The same. Hall in the palace.</stage>
+
+</p><p><stage>A banquet prepared. Enter MACBETH, LADY MACBETH,	ROSS, LENNOX, Lords, and Attendants</stage>
+
+
+</p><sp><speaker>MACBETH</speaker>
+<p>You know your own degrees; sit down: at first<lb/>
+And last the hearty welcome.<lb/>
+
+</p></sp><sp><speaker>Lords</speaker>
+<p>Thanks to your majesty.<lb/>
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>Ourself will mingle with society,<lb/>
+And play the humble host.<lb/>
+Our hostess keeps her state, but in best time<lb/>
+We will require her welcome.<lb/>
+
+
+</p></sp><sp><speaker>LADY MACBETH</speaker>
+<p>Pronounce it for me, sir, to all our friends;<lb/>
+For my heart speaks they are welcome.<lb/>
+
+
+</p><p><stage>First Murderer appears at the door</stage>
+
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>See, they encounter thee with their hearts' thanks.<lb/>
+Both sides are even: here I'll sit i' the midst:<lb/>
+Be large in mirth; anon we'll drink a measure<lb/>
+The table round.<lb/>
+
+
+</p><p><stage>Approaching the door</stage></p>
+
+
+<p>
+There's blood on thy face.<lb/>
+
+
+</p></sp><sp><speaker>First Murderer</speaker>
+<p>'Tis Banquo's then.<lb/>
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>'Tis better thee without than he within.<lb/>
+Is he dispatch'd?<lb/>
+
+
+</p></sp><sp><speaker>First Murderer</speaker>
+<p>My lord, his throat is cut; that I did for him.<lb/>
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>Thou art the best o' the cut-throats: yet he's good<lb/>
+That did the like for Fleance: if thou didst it,<lb/>
+Thou art the nonpareil.<lb/>
+
+
+</p></sp><sp><speaker>First Murderer</speaker>
+<p>Most royal sir,<lb/>
+Fleance is 'scaped.<lb/>
+
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>Then comes my fit again: I had else been perfect,<lb/>
+Whole as the marble, founded as the rock,<lb/>
+As broad and general as the casing air:<lb/>
+But now I am cabin'd, cribb'd, confined, bound in<lb/>
+To saucy doubts and fears. But Banquo's safe?<lb/>
+
+
+</p></sp><sp><speaker>First Murderer</speaker>
+<p>Ay, my good lord: safe in a ditch he bides,<lb/>
+With twenty trenched gashes on his head;<lb/>
+The least a death to nature.<lb/>
+
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>Thanks for that:<lb/>
+There the grown serpent lies; the worm that's fled<lb/>
+Hath nature that in time will venom breed,<lb/>
+No teeth for the present. Get thee gone: to-morrow<lb/>
+We'll hear, ourselves, again.<lb/>
+
+
+</p><p><stage>Exit Murderer</stage>
+
+
+</p></sp><sp><speaker>LADY MACBETH</speaker>
+<p>My royal lord,<lb/>
+You do not give the cheer: the feast is sold<lb/>
+That is not often vouch'd, while 'tis a-making,<lb/>
+'Tis given with welcome: to feed were best at home;<lb/>
+From thence the sauce to meat is ceremony;<lb/>
+Meeting were bare without it.<lb/>
+
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>Sweet remembrancer!<lb/>
+Now, good digestion wait on appetite,<lb/>
+And health on both!<lb/>
+
+
+</p></sp><sp><speaker>LENNOX</speaker>
+<p>May't please your highness sit.<lb/>
+
+</p><p><stage>The GHOST OF BANQUO enters, and sits in	MACBETH's place</stage>
+
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>Here had we now our country's honour roof'd,<lb/>
+Were the graced person of our Banquo present;<lb/>
+Who may I rather challenge for unkindness<lb/>
+Than pity for mischance!<lb/>
+
+
+</p></sp><sp><speaker>ROSS</speaker>
+<p>His absence, sir,<lb/>
+Lays blame upon his promise. Please't your highness<lb/>
+To grace us with your royal company.<lb/>
+
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>The table's full.<lb/>
+
+</p></sp><sp><speaker>LENNOX</speaker>
+<p>Here is a place reserved, sir.<lb/>
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>Where?<lb/>
+
+</p></sp><sp><speaker>LENNOX</speaker>
+<p>Here, my good lord. What is't that moves your highness?<lb/>
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>Which of you have done this?<lb/>
+
+</p></sp><sp><speaker>Lords</speaker>
+<p>What, my good lord?<lb/>
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>Thou canst not say I did it: never shake<lb/>
+Thy gory locks at me.<lb/>
+
+
+</p></sp><sp><speaker>ROSS</speaker>
+<p>Gentlemen, rise: his highness is not well.<lb/>
+
+</p></sp><sp><speaker>LADY MACBETH</speaker>
+<p>Sit, worthy friends: my lord is often thus,<lb/>
+And hath been from his youth: pray you, keep seat;<lb/>
+The fit is momentary; upon a thought<lb/>
+He will again be well: if much you note him,<lb/>
+You shall offend him and extend his passion:<lb/>
+Feed, and regard him not. Are you a man?<lb/>
+
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>Ay, and a bold one, that dare look on that<lb/>
+Which might appal the devil.<lb/>
+
+
+</p></sp><sp><speaker>LADY MACBETH</speaker>
+<p>O proper stuff!<lb/>
+This is the very painting of your fear:<lb/>
+This is the air-drawn dagger which, you said,<lb/>
+Led you to Duncan. O, these flaws and starts,<lb/>
+Impostors to true fear, would well become<lb/>
+A woman's story at a winter's fire,<lb/>
+Authorized by her grandam. Shame itself!<lb/>
+Why do you make such faces? When all's done,<lb/>
+You look but on a stool.<lb/>
+
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>Prithee, see there! behold! look! lo!<lb/>
+how say you?<lb/>
+Why, what care I? If thou canst nod, speak too.<lb/>
+If charnel-houses and our graves must send<lb/>
+Those that we bury back, our monuments<lb/>
+Shall be the maws of kites.<lb/>
+
+
+</p><p><stage>GHOST OF BANQUO vanishes</stage>
+
+
+</p></sp><sp><speaker>LADY MACBETH</speaker>
+<p>What, quite unmann'd in folly?<lb/>
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>If I stand here, I saw him.<lb/>
+
+</p></sp><sp><speaker>LADY MACBETH</speaker>
+<p>Fie, for shame!<lb/>
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>Blood hath been shed ere now, i' the olden time,<lb/>
+Ere human statute purged the gentle weal;<lb/>
+Ay, and since too, murders have been perform'd<lb/>
+Too terrible for the ear: the times have been,<lb/>
+That, when the brains were out, the man would die,<lb/>
+And there an end; but now they rise again,<lb/>
+With twenty mortal murders on their crowns,<lb/>
+And push us from our stools: this is more strange<lb/>
+Than such a murder is.<lb/>
+
+
+</p></sp><sp><speaker>LADY MACBETH</speaker>
+<p>My worthy lord,<lb/>
+Your noble friends do lack you.<lb/>
+
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>I do forget.<lb/>
+Do not muse at me, my most worthy friends,<lb/>
+I have a strange infirmity, which is nothing<lb/>
+To those that know me. Come, love and health to all;<lb/>
+Then I'll sit down. Give me some wine; fill full.<lb/>
+I drink to the general joy o' the whole table,<lb/>
+And to our dear friend Banquo, whom we miss;<lb/>
+Would he were here! to all, and him, we thirst,<lb/>
+And all to all.<lb/>
+
+
+</p></sp><sp><speaker>Lords</speaker>
+<p>Our duties, and the pledge.<lb/>
+
+</p><p><stage>Re-enter GHOST OF BANQUO</stage>
+
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>Avaunt! and quit my sight! let the earth hide thee!<lb/>
+Thy bones are marrowless, thy blood is cold;<lb/>
+Thou hast no speculation in those eyes<lb/>
+Which thou dost glare with!<lb/>
+
+
+</p></sp><sp><speaker>LADY MACBETH</speaker>
+<p>Think of this, good peers,<lb/>
+But as a thing of custom: 'tis no other;<lb/>
+Only it spoils the pleasure of the time.<lb/>
+
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>What man dare, I dare:<lb/>
+Approach thou like the rugged Russian bear,<lb/>
+The arm'd rhinoceros, or the Hyrcan tiger;<lb/>
+Take any shape but that, and my firm nerves<lb/>
+Shall never tremble: or be alive again,<lb/>
+And dare me to the desert with thy sword;<lb/>
+If trembling I inhabit then, protest me<lb/>
+The baby of a girl. Hence, horrible shadow!<lb/>
+Unreal mockery, hence!<lb/>
+
+
+</p><p><stage>GHOST OF BANQUO vanishes</stage></p>
+
+
+<p>
+Why, so: being gone,<lb/>
+I am a man again. Pray you, sit still.<lb/>
+
+
+</p></sp><sp><speaker>LADY MACBETH</speaker>
+<p>You have displaced the mirth, broke the good meeting,<lb/>
+With most admired disorder.<lb/>
+
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>Can such things be,<lb/>
+And overcome us like a summer's cloud,<lb/>
+Without our special wonder? You make me strange<lb/>
+Even to the disposition that I owe,<lb/>
+When now I think you can behold such sights,<lb/>
+And keep the natural ruby of your cheeks,<lb/>
+When mine is blanched with fear.<lb/>
+
+
+</p></sp><sp><speaker>ROSS</speaker>
+<p>What sights, my lord?<lb/>
+
+</p></sp><sp><speaker>LADY MACBETH</speaker>
+<p>I pray you, speak not; he grows worse and worse;<lb/>
+Question enrages him. At once, good night:<lb/>
+Stand not upon the order of your going,<lb/>
+But go at once.<lb/>
+
+
+</p></sp><sp><speaker>LENNOX</speaker>
+<p>Good night; and better health<lb/>
+Attend his majesty!<lb/>
+
+
+</p></sp><sp><speaker>LADY MACBETH</speaker>
+<p>A kind good night to all!<lb/>
+
+</p><p><stage>Exeunt all but MACBETH and LADY MACBETH</stage>
+
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>It will have blood; they say, blood will have blood:<lb/>
+Stones have been known to move and trees to speak;<lb/>
+Augurs and understood relations have<lb/>
+By magot-pies and choughs and rooks brought forth<lb/>
+The secret'st man of blood. What is the night?<lb/>
+
+
+</p></sp><sp><speaker>LADY MACBETH</speaker>
+<p>Almost at odds with morning, which is which.<lb/>
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>How say'st thou, that Macduff denies his person<lb/>
+At our great bidding?<lb/>
+
+
+</p></sp><sp><speaker>LADY MACBETH</speaker>
+<p>Did you send to him, sir?<lb/>
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>I hear it by the way; but I will send:<lb/>
+There's not a one of them but in his house<lb/>
+I keep a servant fee'd. I will to-morrow,<lb/>
+And betimes I will, to the weird sisters:<lb/>
+More shall they speak; for now I am bent to know,<lb/>
+By the worst means, the worst. For mine own good,<lb/>
+All causes shall give way: I am in blood<lb/>
+Stepp'd in so far that, should I wade no more,<lb/>
+Returning were as tedious as go o'er:<lb/>
+Strange things I have in head, that will to hand;<lb/>
+Which must be acted ere they may be scann'd.<lb/>
+
+
+</p></sp><sp><speaker>LADY MACBETH</speaker>
+<p>You lack the season of all natures, sleep.<lb/>
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>Come, we'll to sleep. My strange and self-abuse<lb/>
+Is the initiate fear that wants hard use:<lb/>
+We are yet but young in deed.<lb/>
+
+
+</p></sp><p><stage>Exeunt</stage>
+
+
+
+</p></div2><div2 type="scene" n="5" id="d23">
+<head>Scene 5</head>
+
+<p><stage>A Heath.</stage>
+
+</p><p><stage>Thunder. Enter the three Witches meeting HECATE</stage>
+
+
+</p><sp><speaker>First Witch</speaker>
+<p>Why, how now, Hecate! you look angerly.<lb/>
+
+</p></sp><sp><speaker>HECATE</speaker>
+<p>Have I not reason, beldams as you are,<lb/>
+Saucy and overbold? How did you dare<lb/>
+To trade and traffic with Macbeth<lb/>
+In riddles and affairs of death;<lb/>
+And I, the mistress of your charms,<lb/>
+The close contriver of all harms,<lb/>
+Was never call'd to bear my part,<lb/>
+Or show the glory of our art?<lb/>
+And, which is worse, all you have done<lb/>
+Hath been but for a wayward son,<lb/>
+Spiteful and wrathful, who, as others do,<lb/>
+Loves for his own ends, not for you.<lb/>
+But make amends now: get you gone,<lb/>
+And at the pit of Acheron<lb/>
+Meet me i' the morning: thither he<lb/>
+Will come to know his destiny:<lb/>
+Your vessels and your spells provide,<lb/>
+Your charms and every thing beside.<lb/>
+I am for the air; this night I'll spend<lb/>
+Unto a dismal and a fatal end:<lb/>
+Great business must be wrought ere noon:<lb/>
+Upon the corner of the moon<lb/>
+There hangs a vaporous drop profound;<lb/>
+I'll catch it ere it come to ground:<lb/>
+And that distill'd by magic sleights<lb/>
+Shall raise such artificial sprites<lb/>
+As by the strength of their illusion<lb/>
+Shall draw him on to his confusion:<lb/>
+He shall spurn fate, scorn death, and bear<lb/>
+He hopes 'bove wisdom, grace and fear:<lb/>
+And you all know, security<lb/>
+Is mortals' chiefest enemy.<lb/>
+
+
+</p><p><stage>Music and a song within: 'Come away, come	away,' &amp;c</stage></p>
+
+
+<p>
+Hark! I am call'd; my little spirit, see,<lb/>
+Sits in a foggy cloud, and stays for me.<lb/>
+
+
+</p><p><stage>Exit</stage>
+
+
+</p></sp><sp><speaker>First Witch</speaker>
+<p>Come, let's make haste; she'll soon be back again.<lb/>
+
+</p></sp><p><stage>Exeunt</stage>
+
+
+
+</p></div2><div2 type="scene" n="6" id="d24">
+<head>Scene 6</head>
+
+<p><stage>Forres. The palace.</stage>
+
+</p><p><stage>Enter LENNOX and another Lord</stage>
+
+
+</p><sp><speaker>LENNOX</speaker>
+<p>My former speeches have but hit your thoughts,<lb/>
+Which can interpret further: only, I say,<lb/>
+Things have been strangely borne. The<lb/>
+gracious Duncan<lb/>
+Was pitied of Macbeth: marry, he was dead:<lb/>
+And the right-valiant Banquo walk'd too late;<lb/>
+Whom, you may say, if't please you, Fleance kill'd,<lb/>
+For Fleance fled: men must not walk too late.<lb/>
+Who cannot want the thought how monstrous<lb/>
+It was for Malcolm and for Donalbain<lb/>
+To kill their gracious father? damned fact!<lb/>
+How it did grieve Macbeth! did he not straight<lb/>
+In pious rage the two delinquents tear,<lb/>
+That were the slaves of drink and thralls of sleep?<lb/>
+Was not that nobly done? Ay, and wisely too;<lb/>
+For 'twould have anger'd any heart alive<lb/>
+To hear the men deny't. So that, I say,<lb/>
+He has borne all things well: and I do think<lb/>
+That had he Duncan's sons under his key&mdash;<lb/>
+As, an't please heaven, he shall not&mdash;they<lb/>
+should find<lb/>
+What 'twere to kill a father; so should Fleance.<lb/>
+But, peace! for from broad words and 'cause he fail'd<lb/>
+His presence at the tyrant's feast, I hear<lb/>
+Macduff lives in disgrace: sir, can you tell<lb/>
+Where he bestows himself?<lb/>
+
+
+</p></sp><sp><speaker>Lord</speaker>
+<p>The son of Duncan,<lb/>
+From whom this tyrant holds the due of birth<lb/>
+Lives in the English court, and is received<lb/>
+Of the most pious Edward with such grace<lb/>
+That the malevolence of fortune nothing<lb/>
+Takes from his high respect: thither Macduff<lb/>
+Is gone to pray the holy king, upon his aid<lb/>
+To wake Northumberland and warlike Siward:<lb/>
+That, by the help of these&mdash;with Him above<lb/>
+To ratify the work&mdash;we may again<lb/>
+Give to our tables meat, sleep to our nights,<lb/>
+Free from our feasts and banquets bloody knives,<lb/>
+Do faithful homage and receive free honours:<lb/>
+All which we pine for now: and this report<lb/>
+Hath so exasperate the king that he<lb/>
+Prepares for some attempt of war.<lb/>
+
+
+</p></sp><sp><speaker>LENNOX</speaker>
+<p>Sent he to Macduff?<lb/>
+
+</p></sp><sp><speaker>Lord</speaker>
+<p>He did: and with an absolute 'Sir, not I,'<lb/>
+The cloudy messenger turns me his back,<lb/>
+And hums, as who should say 'You'll rue the time<lb/>
+That clogs me with this answer.'<lb/>
+
+
+</p></sp><sp><speaker>LENNOX</speaker>
+<p>And that well might<lb/>
+Advise him to a caution, to hold what distance<lb/>
+His wisdom can provide. Some holy angel<lb/>
+Fly to the court of England and unfold<lb/>
+His message ere he come, that a swift blessing<lb/>
+May soon return to this our suffering country<lb/>
+Under a hand accursed!<lb/>
+
+
+</p></sp><sp><speaker>Lord</speaker>
+<p>I'll send my prayers with him.<lb/>
+
+</p></sp><p><stage>Exeunt</stage></p>
+
+
+
+</div2>
+
+</div1>
+
+<div1 type="act" n="4" id="d25">
+<head>Act 4</head>
+
+<div2 type="scene" n="1" id="d26">
+<head>Scene 1</head><p><stage>A cavern. In the middle, a boiling cauldron.</stage>
+
+</p><p><stage>Thunder. Enter the three Witches</stage>
+
+
+</p><sp><speaker>First Witch</speaker>
+<p>Thrice the brinded cat hath mew'd.<lb/>
+
+</p></sp><sp><speaker>Second Witch</speaker>
+<p>Thrice and once the hedge-pig whined.<lb/>
+
+</p></sp><sp><speaker>Third Witch</speaker>
+<p>Harpier cries 'Tis time, 'tis time.<lb/>
+
+</p></sp><sp><speaker>First Witch</speaker>
+<p>Round about the cauldron go;<lb/>
+In the poison'd entrails throw.<lb/>
+Toad, that under cold stone<lb/>
+Days and nights has thirty-one<lb/>
+Swelter'd venom sleeping got,<lb/>
+Boil thou first i' the charmed pot.<lb/>
+
+
+</p></sp><sp><speaker>ALL</speaker>
+<p>Double, double toil and trouble;<lb/>
+Fire burn, and cauldron bubble.<lb/>
+
+
+</p></sp><sp><speaker>Second Witch</speaker>
+<p>Fillet of a fenny snake,<lb/>
+In the cauldron boil and bake;<lb/>
+Eye of newt and toe of frog,<lb/>
+Wool of bat and tongue of dog,<lb/>
+Adder's fork and blind-worm's sting,<lb/>
+Lizard's leg and owlet's wing,<lb/>
+For a charm of powerful trouble,<lb/>
+Like a hell-broth boil and bubble.<lb/>
+
+
+</p></sp><sp><speaker>ALL</speaker>
+<p>Double, double toil and trouble;<lb/>
+Fire burn and cauldron bubble.<lb/>
+
+
+</p></sp><sp><speaker>Third Witch</speaker>
+<p>Scale of dragon, tooth of wolf,<lb/>
+Witches' mummy, maw and gulf<lb/>
+Of the ravin'd salt-sea shark,<lb/>
+Root of hemlock digg'd i' the dark,<lb/>
+Liver of blaspheming Jew,<lb/>
+Gall of goat, and slips of yew<lb/>
+Silver'd in the moon's eclipse,<lb/>
+Nose of Turk and Tartar's lips,<lb/>
+Finger of birth-strangled babe<lb/>
+Ditch-deliver'd by a drab,<lb/>
+Make the gruel thick and slab:<lb/>
+Add thereto a tiger's chaudron,<lb/>
+For the ingredients of our cauldron.<lb/>
+
+
+</p></sp><sp><speaker>ALL</speaker>
+<p>Double, double toil and trouble;<lb/>
+Fire burn and cauldron bubble.<lb/>
+
+
+</p></sp><sp><speaker>Second Witch</speaker>
+<p>Cool it with a baboon's blood,<lb/>
+Then the charm is firm and good.<lb/>
+
+
+</p><p><stage>Enter HECATE to the other three Witches</stage>
+
+
+</p></sp><sp><speaker>HECATE</speaker>
+<p>O well done! I commend your pains;<lb/>
+And every one shall share i' the gains;<lb/>
+And now about the cauldron sing,<lb/>
+Live elves and fairies in a ring,<lb/>
+Enchanting all that you put in.<lb/>
+
+
+</p><p><stage>Music and a song: 'Black spirits,' &amp;c</stage>
+
+
+
+</p><p><stage>HECATE retires</stage>
+
+
+</p></sp><sp><speaker>Second Witch</speaker>
+<p>By the pricking of my thumbs,<lb/>
+Something wicked this way comes.<lb/>
+Open, locks,<lb/>
+Whoever knocks!<lb/>
+
+
+</p><p><stage>Enter MACBETH</stage>
+
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>How now, you secret, black, and midnight hags!<lb/>
+What is't you do?<lb/>
+
+
+</p></sp><sp><speaker>ALL</speaker>
+<p>A deed without a name.<lb/>
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>I conjure you, by that which you profess,<lb/>
+Howe'er you come to know it, answer me:<lb/>
+Though you untie the winds and let them fight<lb/>
+Against the churches; though the yesty waves<lb/>
+Confound and swallow navigation up;<lb/>
+Though bladed corn be lodged and trees blown down;<lb/>
+Though castles topple on their warders' heads;<lb/>
+Though palaces and pyramids do slope<lb/>
+Their heads to their foundations; though the treasure<lb/>
+Of nature's germens tumble all together,<lb/>
+Even till destruction sicken; answer me<lb/>
+To what I ask you.<lb/>
+
+
+</p></sp><sp><speaker>First Witch</speaker>
+<p>Speak.<lb/>
+
+</p></sp><sp><speaker>Second Witch</speaker>
+<p>Demand.<lb/>
+
+</p></sp><sp><speaker>Third Witch</speaker>
+<p>We'll answer.<lb/>
+
+</p></sp><sp><speaker>First Witch</speaker>
+<p>Say, if thou'dst rather hear it from our mouths,<lb/>
+Or from our masters?<lb/>
+
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>Call 'em; let me see 'em.<lb/>
+
+</p></sp><sp><speaker>First Witch</speaker>
+<p>Pour in sow's blood, that hath eaten<lb/>
+Her nine farrow; grease that's sweaten<lb/>
+From the murderer's gibbet throw<lb/>
+Into the flame.<lb/>
+
+
+</p></sp><sp><speaker>ALL</speaker>
+<p>Come, high or low;<lb/>
+Thyself and office deftly show!<lb/>
+
+
+</p><p><stage>Thunder. First Apparition: an armed Head</stage>
+
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>Tell me, thou unknown power,&mdash;<lb/>
+
+</p></sp><sp><speaker>First Witch</speaker>
+<p>He knows thy thought:<lb/>
+Hear his speech, but say thou nought.<lb/>
+
+
+</p></sp><sp><speaker>First Apparition</speaker>
+<p>Macbeth! Macbeth! Macbeth! beware Macduff;<lb/>
+Beware the thane of Fife. Dismiss me. Enough.<lb/>
+
+
+</p><p><stage>Descends</stage>
+
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>Whate'er thou art, for thy good caution, thanks;<lb/>
+Thou hast harp'd my fear aright: but one<lb/>
+word more,&mdash;<lb/>
+
+
+</p></sp><sp><speaker>First Witch</speaker>
+<p>He will not be commanded: here's another,<lb/>
+More potent than the first.<lb/>
+
+
+</p><p><stage>Thunder. Second Apparition: A bloody Child</stage>
+
+
+</p></sp><sp><speaker>Second Apparition</speaker>
+<p>Macbeth! Macbeth! Macbeth!<lb/>
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>Had I three ears, I'ld hear thee.<lb/>
+
+</p></sp><sp><speaker>Second Apparition</speaker>
+<p>Be bloody, bold, and resolute; laugh to scorn<lb/>
+The power of man, for none of woman born<lb/>
+Shall harm Macbeth.<lb/>
+
+
+</p><p><stage>Descends</stage>
+
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>Then live, Macduff: what need I fear of thee?<lb/>
+But yet I'll make assurance double sure,<lb/>
+And take a bond of fate: thou shalt not live;<lb/>
+That I may tell pale-hearted fear it lies,<lb/>
+And sleep in spite of thunder.<lb/>
+
+
+</p><p><stage>Thunder. Third Apparition: a Child crowned,	with a tree in his hand</stage></p>
+
+
+<p>
+What is this<lb/>
+That rises like the issue of a king,<lb/>
+And wears upon his baby-brow the round<lb/>
+And top of sovereignty?<lb/>
+
+
+</p></sp><sp><speaker>ALL</speaker>
+<p>Listen, but speak not to't.<lb/>
+
+</p></sp><sp><speaker>Third Apparition</speaker>
+<p>Be lion-mettled, proud; and take no care<lb/>
+Who chafes, who frets, or where conspirers are:<lb/>
+Macbeth shall never vanquish'd be until<lb/>
+Great Birnam wood to high Dunsinane hill<lb/>
+Shall come against him.<lb/>
+
+
+</p><p><stage>Descends</stage>
+
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>That will never be<lb/>
+Who can impress the forest, bid the tree<lb/>
+Unfix his earth-bound root? Sweet bodements! good!<lb/>
+Rebellion's head, rise never till the wood<lb/>
+Of Birnam rise, and our high-placed Macbeth<lb/>
+Shall live the lease of nature, pay his breath<lb/>
+To time and mortal custom. Yet my heart<lb/>
+Throbs to know one thing: tell me, if your art<lb/>
+Can tell so much: shall Banquo's issue ever<lb/>
+Reign in this kingdom?<lb/>
+
+
+</p></sp><sp><speaker>ALL</speaker>
+<p>Seek to know no more.<lb/>
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>I will be satisfied: deny me this,<lb/>
+And an eternal curse fall on you! Let me know.<lb/>
+Why sinks that cauldron? and what noise is this?<lb/>
+
+
+</p><p><stage>Hautboys</stage>
+
+
+</p></sp><sp><speaker>First Witch</speaker>
+<p>Show!<lb/>
+
+</p></sp><sp><speaker>Second Witch</speaker>
+<p>Show!<lb/>
+
+</p></sp><sp><speaker>Third Witch</speaker>
+<p>Show!<lb/>
+
+</p></sp><sp><speaker>ALL</speaker>
+<p>Show his eyes, and grieve his heart;<lb/>
+Come like shadows, so depart!<lb/>
+
+
+</p><p><stage>A show of Eight Kings, the last with a glass in	his hand; GHOST OF BANQUO following</stage>
+
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>Thou art too like the spirit of Banquo: down!<lb/>
+Thy crown does sear mine eye-balls. And thy hair,<lb/>
+Thou other gold-bound brow, is like the first.<lb/>
+A third is like the former. Filthy hags!<lb/>
+Why do you show me this? A fourth! Start, eyes!<lb/>
+What, will the line stretch out to the crack of doom?<lb/>
+Another yet! A seventh! I'll see no more:<lb/>
+And yet the eighth appears, who bears a glass<lb/>
+Which shows me many more; and some I see<lb/>
+That two-fold balls and treble scepters carry:<lb/>
+Horrible sight! Now, I see, 'tis true;<lb/>
+For the blood-bolter'd Banquo smiles upon me,<lb/>
+And points at them for his.<lb/>
+
+
+</p><p><stage>Apparitions vanish</stage></p>
+
+
+<p>
+What, is this so?<lb/>
+
+
+</p></sp><sp><speaker>First Witch</speaker>
+<p>Ay, sir, all this is so: but why<lb/>
+Stands Macbeth thus amazedly?<lb/>
+Come, sisters, cheer we up his sprites,<lb/>
+And show the best of our delights:<lb/>
+I'll charm the air to give a sound,<lb/>
+While you perform your antic round:<lb/>
+That this great king may kindly say,<lb/>
+Our duties did his welcome pay.<lb/>
+
+
+</p><p><stage>Music. The witches dance and then vanish,	with HECATE</stage>
+
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>Where are they? Gone? Let this pernicious hour<lb/>
+Stand aye accursed in the calendar!<lb/>
+Come in, without there!<lb/>
+
+
+</p><p><stage>Enter LENNOX</stage>
+
+
+</p></sp><sp><speaker>LENNOX</speaker>
+<p>What's your grace's will?<lb/>
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>Saw you the weird sisters?<lb/>
+
+</p></sp><sp><speaker>LENNOX</speaker>
+<p>No, my lord.<lb/>
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>Came they not by you?<lb/>
+
+</p></sp><sp><speaker>LENNOX</speaker>
+<p>No, indeed, my lord.<lb/>
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>Infected be the air whereon they ride;<lb/>
+And damn'd all those that trust them! I did hear<lb/>
+The galloping of horse: who was't came by?<lb/>
+
+
+</p></sp><sp><speaker>LENNOX</speaker>
+<p>'Tis two or three, my lord, that bring you word<lb/>
+Macduff is fled to England.<lb/>
+
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>Fled to England!<lb/>
+
+</p></sp><sp><speaker>LENNOX</speaker>
+<p>Ay, my good lord.<lb/>
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>Time, thou anticipatest my dread exploits:<lb/>
+The flighty purpose never is o'ertook<lb/>
+Unless the deed go with it; from this moment<lb/>
+The very firstlings of my heart shall be<lb/>
+The firstlings of my hand. And even now,<lb/>
+To crown my thoughts with acts, be it thought and done:<lb/>
+The castle of Macduff I will surprise;<lb/>
+Seize upon Fife; give to the edge o' the sword<lb/>
+His wife, his babes, and all unfortunate souls<lb/>
+That trace him in his line. No boasting like a fool;<lb/>
+This deed I'll do before this purpose cool.<lb/>
+But no more sights!&mdash;Where are these gentlemen?<lb/>
+Come, bring me where they are.<lb/>
+
+
+</p></sp><p><stage>Exeunt</stage>
+
+
+
+</p></div2><div2 type="scene" n="2" id="d27">
+<head>Scene 2</head>
+
+<p><stage>Fife. Macduff's castle.</stage>
+
+</p><p><stage>Enter LADY MACDUFF, her Son, and ROSS</stage>
+
+
+</p><sp><speaker>LADY MACDUFF</speaker>
+<p>What had he done, to make him fly the land?<lb/>
+
+</p></sp><sp><speaker>ROSS</speaker>
+<p>You must have patience, madam.<lb/>
+
+</p></sp><sp><speaker>LADY MACDUFF</speaker>
+<p>He had none:<lb/>
+His flight was madness: when our actions do not,<lb/>
+Our fears do make us traitors.<lb/>
+
+
+</p></sp><sp><speaker>ROSS</speaker>
+<p>You know not<lb/>
+Whether it was his wisdom or his fear.<lb/>
+
+
+</p></sp><sp><speaker>LADY MACDUFF</speaker>
+<p>Wisdom! to leave his wife, to leave his babes,<lb/>
+His mansion and his titles in a place<lb/>
+From whence himself does fly? He loves us not;<lb/>
+He wants the natural touch: for the poor wren,<lb/>
+The most diminutive of birds, will fight,<lb/>
+Her young ones in her nest, against the owl.<lb/>
+All is the fear and nothing is the love;<lb/>
+As little is the wisdom, where the flight<lb/>
+So runs against all reason.<lb/>
+
+
+</p></sp><sp><speaker>ROSS</speaker>
+<p>My dearest coz,<lb/>
+I pray you, school yourself: but for your husband,<lb/>
+He is noble, wise, judicious, and best knows<lb/>
+The fits o' the season. I dare not speak<lb/>
+much further;<lb/>
+But cruel are the times, when we are traitors<lb/>
+And do not know ourselves, when we hold rumour<lb/>
+From what we fear, yet know not what we fear,<lb/>
+But float upon a wild and violent sea<lb/>
+Each way and move. I take my leave of you:<lb/>
+Shall not be long but I'll be here again:<lb/>
+Things at the worst will cease, or else climb upward<lb/>
+To what they were before. My pretty cousin,<lb/>
+Blessing upon you!<lb/>
+
+
+</p></sp><sp><speaker>LADY MACDUFF</speaker>
+<p>Father'd he is, and yet he's fatherless.<lb/>
+
+</p></sp><sp><speaker>ROSS</speaker>
+<p>I am so much a fool, should I stay longer,<lb/>
+It would be my disgrace and your discomfort:<lb/>
+I take my leave at once.<lb/>
+
+
+</p><p><stage>Exit</stage>
+
+
+</p></sp><sp><speaker>LADY MACDUFF</speaker>
+<p>Sirrah, your father's dead;<lb/>
+And what will you do now? How will you live?<lb/>
+
+
+</p></sp><sp><speaker>Son</speaker>
+<p>As birds do, mother.<lb/>
+
+</p></sp><sp><speaker>LADY MACDUFF</speaker>
+<p>What, with worms and flies?<lb/>
+
+</p></sp><sp><speaker>Son</speaker>
+<p>With what I get, I mean; and so do they.<lb/>
+
+</p></sp><sp><speaker>LADY MACDUFF</speaker>
+<p>Poor bird! thou'ldst never fear the net nor lime,<lb/>
+The pitfall nor the gin.<lb/>
+
+
+</p></sp><sp><speaker>Son</speaker>
+<p>Why should I, mother? Poor birds they are not set for.<lb/>
+My father is not dead, for all your saying.<lb/>
+
+
+</p></sp><sp><speaker>LADY MACDUFF</speaker>
+<p>Yes, he is dead; how wilt thou do for a father?<lb/>
+
+</p></sp><sp><speaker>Son</speaker>
+<p>Nay, how will you do for a husband?<lb/>
+
+</p></sp><sp><speaker>LADY MACDUFF</speaker>
+<p>Why, I can buy me twenty at any market.<lb/>
+
+</p></sp><sp><speaker>Son</speaker>
+<p>Then you'll buy 'em to sell again.<lb/>
+
+</p></sp><sp><speaker>LADY MACDUFF</speaker>
+<p>Thou speak'st with all thy wit: and yet, i' faith,<lb/>
+With wit enough for thee.<lb/>
+
+
+</p></sp><sp><speaker>Son</speaker>
+<p>Was my father a traitor, mother?<lb/>
+
+</p></sp><sp><speaker>LADY MACDUFF</speaker>
+<p>Ay, that he was.<lb/>
+
+</p></sp><sp><speaker>Son</speaker>
+<p>What is a traitor?<lb/>
+
+</p></sp><sp><speaker>LADY MACDUFF</speaker>
+<p>Why, one that swears and lies.<lb/>
+
+</p></sp><sp><speaker>Son</speaker>
+<p>And be all traitors that do so?<lb/>
+
+</p></sp><sp><speaker>LADY MACDUFF</speaker>
+<p>Every one that does so is a traitor, and must be hanged.<lb/>
+
+</p></sp><sp><speaker>Son</speaker>
+<p>And must they all be hanged that swear and lie?<lb/>
+
+</p></sp><sp><speaker>LADY MACDUFF</speaker>
+<p>Every one.<lb/>
+
+</p></sp><sp><speaker>Son</speaker>
+<p>Who must hang them?<lb/>
+
+</p></sp><sp><speaker>LADY MACDUFF</speaker>
+<p>Why, the honest men.<lb/>
+
+</p></sp><sp><speaker>Son</speaker>
+<p>Then the liars and swearers are fools,<lb/>
+for there are liars and swearers enow to beat<lb/>
+the honest men and hang up them.<lb/>
+
+
+</p></sp><sp><speaker>LADY MACDUFF</speaker>
+<p>Now, God help thee, poor monkey!<lb/>
+But how wilt thou do for a father?<lb/>
+
+
+</p></sp><sp><speaker>Son</speaker>
+<p>If he were dead, you'ld weep for<lb/>
+him: if you would not, it were a good sign<lb/>
+that I should quickly have a new father.<lb/>
+
+
+</p></sp><sp><speaker>LADY MACDUFF</speaker>
+<p>Poor prattler, how thou talk'st!<lb/>
+
+</p><p><stage>Enter a Messenger</stage>
+
+
+</p></sp><sp><speaker>Messenger</speaker>
+<p>Bless you, fair dame! I am not to you known,<lb/>
+Though in your state of honour I am perfect.<lb/>
+I doubt some danger does approach you nearly:<lb/>
+If you will take a homely man's advice,<lb/>
+Be not found here; hence, with your little ones.<lb/>
+To fright you thus, methinks, I am too savage;<lb/>
+To do worse to you were fell cruelty,<lb/>
+Which is too nigh your person. Heaven preserve you!<lb/>
+I dare abide no longer.<lb/>
+
+
+</p><p><stage>Exit</stage>
+
+
+</p></sp><sp><speaker>LADY MACDUFF</speaker>
+<p>Whither should I fly?<lb/>
+I have done no harm. But I remember now<lb/>
+I am in this earthly world; where to do harm<lb/>
+Is often laudable, to do good sometime<lb/>
+Accounted dangerous folly: why then, alas,<lb/>
+Do I put up that womanly defence,<lb/>
+To say I have done no harm?<lb/>
+
+
+</p><p><stage>Enter Murderers</stage></p>
+
+
+<p>
+What are these faces?<lb/>
+
+
+</p></sp><sp><speaker>First Murderer</speaker>
+<p>Where is your husband?<lb/>
+
+</p></sp><sp><speaker>LADY MACDUFF</speaker>
+<p>I hope, in no place so unsanctified<lb/>
+Where such as thou mayst find him.<lb/>
+
+
+</p></sp><sp><speaker>First Murderer</speaker>
+<p>He's a traitor.<lb/>
+
+</p></sp><sp><speaker>Son</speaker>
+<p>Thou liest, thou shag-hair'd villain!<lb/>
+
+</p></sp><sp><speaker>First Murderer</speaker>
+<p>What, you egg!<lb/>
+
+</p><p><stage>Stabbing him</stage></p>
+
+
+<p>
+Young fry of treachery!<lb/>
+
+
+</p></sp><sp><speaker>Son</speaker>
+<p>He has kill'd me, mother:<lb/>
+Run away, I pray you!<lb/>
+
+
+</p><p><stage>Dies</stage>
+
+
+
+</p></sp><p><stage>Exit LADY MACDUFF, crying 'Murder!' Exeunt	Murderers, following her</stage>
+
+
+
+</p></div2><div2 type="scene" n="3" id="d28">
+<head>Scene 3</head>
+
+<p><stage>England. Before the King's palace.</stage>
+
+</p><p><stage>Enter MALCOLM and MACDUFF</stage>
+
+
+</p><sp><speaker>MALCOLM</speaker>
+<p>Let us seek out some desolate shade, and there<lb/>
+Weep our sad bosoms empty.<lb/>
+
+
+</p></sp><sp><speaker>MACDUFF</speaker>
+<p>Let us rather<lb/>
+Hold fast the mortal sword, and like good men<lb/>
+Bestride our down-fall'n birthdom: each new morn<lb/>
+New widows howl, new orphans cry, new sorrows<lb/>
+Strike heaven on the face, that it resounds<lb/>
+As if it felt with Scotland and yell'd out<lb/>
+Like syllable of dolour.<lb/>
+
+
+</p></sp><sp><speaker>MALCOLM</speaker>
+<p>What I believe I'll wail,<lb/>
+What know believe, and what I can redress,<lb/>
+As I shall find the time to friend, I will.<lb/>
+What you have spoke, it may be so perchance.<lb/>
+This tyrant, whose sole name blisters our tongues,<lb/>
+Was once thought honest: you have loved him well.<lb/>
+He hath not touch'd you yet. I am young;<lb/>
+but something<lb/>
+You may deserve of him through me, and wisdom<lb/>
+To offer up a weak poor innocent lamb<lb/>
+To appease an angry god.<lb/>
+
+
+</p></sp><sp><speaker>MACDUFF</speaker>
+<p>I am not treacherous.<lb/>
+
+</p></sp><sp><speaker>MALCOLM</speaker>
+<p>But Macbeth is.<lb/>
+A good and virtuous nature may recoil<lb/>
+In an imperial charge. But I shall crave<lb/>
+your pardon;<lb/>
+That which you are my thoughts cannot transpose:<lb/>
+Angels are bright still, though the brightest fell;<lb/>
+Though all things foul would wear the brows of grace,<lb/>
+Yet grace must still look so.<lb/>
+
+
+</p></sp><sp><speaker>MACDUFF</speaker>
+<p>I have lost my hopes.<lb/>
+
+</p></sp><sp><speaker>MALCOLM</speaker>
+<p>Perchance even there where I did find my doubts.<lb/>
+Why in that rawness left you wife and child,<lb/>
+Those precious motives, those strong knots of love,<lb/>
+Without leave-taking? I pray you,<lb/>
+Let not my jealousies be your dishonours,<lb/>
+But mine own safeties. You may be rightly just,<lb/>
+Whatever I shall think.<lb/>
+
+
+</p></sp><sp><speaker>MACDUFF</speaker>
+<p>Bleed, bleed, poor country!<lb/>
+Great tyranny! lay thou thy basis sure,<lb/>
+For goodness dare not cheque thee: wear thou<lb/>
+thy wrongs;<lb/>
+The title is affeer'd! Fare thee well, lord:<lb/>
+I would not be the villain that thou think'st<lb/>
+For the whole space that's in the tyrant's grasp,<lb/>
+And the rich East to boot.<lb/>
+
+
+</p></sp><sp><speaker>MALCOLM</speaker>
+<p>Be not offended:<lb/>
+I speak not as in absolute fear of you.<lb/>
+I think our country sinks beneath the yoke;<lb/>
+It weeps, it bleeds; and each new day a gash<lb/>
+Is added to her wounds: I think withal<lb/>
+There would be hands uplifted in my right;<lb/>
+And here from gracious England have I offer<lb/>
+Of goodly thousands: but, for all this,<lb/>
+When I shall tread upon the tyrant's head,<lb/>
+Or wear it on my sword, yet my poor country<lb/>
+Shall have more vices than it had before,<lb/>
+More suffer and more sundry ways than ever,<lb/>
+By him that shall succeed.<lb/>
+
+
+</p></sp><sp><speaker>MACDUFF</speaker>
+<p>What should he be?<lb/>
+
+</p></sp><sp><speaker>MALCOLM</speaker>
+<p>It is myself I mean: in whom I know<lb/>
+All the particulars of vice so grafted<lb/>
+That, when they shall be open'd, black Macbeth<lb/>
+Will seem as pure as snow, and the poor state<lb/>
+Esteem him as a lamb, being compared<lb/>
+With my confineless harms.<lb/>
+
+
+</p></sp><sp><speaker>MACDUFF</speaker>
+<p>Not in the legions<lb/>
+Of horrid hell can come a devil more damn'd<lb/>
+In evils to top Macbeth.<lb/>
+
+
+</p></sp><sp><speaker>MALCOLM</speaker>
+<p>I grant him bloody,<lb/>
+Luxurious, avaricious, false, deceitful,<lb/>
+Sudden, malicious, smacking of every sin<lb/>
+That has a name: but there's no bottom, none,<lb/>
+In my voluptuousness: your wives, your daughters,<lb/>
+Your matrons and your maids, could not fill up<lb/>
+The cistern of my lust, and my desire<lb/>
+All continent impediments would o'erbear<lb/>
+That did oppose my will: better Macbeth<lb/>
+Than such an one to reign.<lb/>
+
+
+</p></sp><sp><speaker>MACDUFF</speaker>
+<p>Boundless intemperance<lb/>
+In nature is a tyranny; it hath been<lb/>
+The untimely emptying of the happy throne<lb/>
+And fall of many kings. But fear not yet<lb/>
+To take upon you what is yours: you may<lb/>
+Convey your pleasures in a spacious plenty,<lb/>
+And yet seem cold, the time you may so hoodwink.<lb/>
+We have willing dames enough: there cannot be<lb/>
+That vulture in you, to devour so many<lb/>
+As will to greatness dedicate themselves,<lb/>
+Finding it so inclined.<lb/>
+
+
+</p></sp><sp><speaker>MALCOLM</speaker>
+<p>With this there grows<lb/>
+In my most ill-composed affection such<lb/>
+A stanchless avarice that, were I king,<lb/>
+I should cut off the nobles for their lands,<lb/>
+Desire his jewels and this other's house:<lb/>
+And my more-having would be as a sauce<lb/>
+To make me hunger more; that I should forge<lb/>
+Quarrels unjust against the good and loyal,<lb/>
+Destroying them for wealth.<lb/>
+
+
+</p></sp><sp><speaker>MACDUFF</speaker>
+<p>This avarice<lb/>
+Sticks deeper, grows with more pernicious root<lb/>
+Than summer-seeming lust, and it hath been<lb/>
+The sword of our slain kings: yet do not fear;<lb/>
+Scotland hath foisons to fill up your will.<lb/>
+Of your mere own: all these are portable,<lb/>
+With other graces weigh'd.<lb/>
+
+
+</p></sp><sp><speaker>MALCOLM</speaker>
+<p>But I have none: the king-becoming graces,<lb/>
+As justice, verity, temperance, stableness,<lb/>
+Bounty, perseverance, mercy, lowliness,<lb/>
+Devotion, patience, courage, fortitude,<lb/>
+I have no relish of them, but abound<lb/>
+In the division of each several crime,<lb/>
+Acting it many ways. Nay, had I power, I should<lb/>
+Pour the sweet milk of concord into hell,<lb/>
+Uproar the universal peace, confound<lb/>
+All unity on earth.<lb/>
+
+
+</p></sp><sp><speaker>MACDUFF</speaker>
+<p>O Scotland, Scotland!<lb/>
+
+</p></sp><sp><speaker>MALCOLM</speaker>
+<p>If such a one be fit to govern, speak:<lb/>
+I am as I have spoken.<lb/>
+
+
+</p></sp><sp><speaker>MACDUFF</speaker>
+<p>Fit to govern!<lb/>
+No, not to live. O nation miserable,<lb/>
+With an untitled tyrant bloody-scepter'd,<lb/>
+When shalt thou see thy wholesome days again,<lb/>
+Since that the truest issue of thy throne<lb/>
+By his own interdiction stands accursed,<lb/>
+And does blaspheme his breed? Thy royal father<lb/>
+Was a most sainted king: the queen that bore thee,<lb/>
+Oftener upon her knees than on her feet,<lb/>
+Died every day she lived. Fare thee well!<lb/>
+These evils thou repeat'st upon thyself<lb/>
+Have banish'd me from Scotland. O my breast,<lb/>
+Thy hope ends here!<lb/>
+
+
+</p></sp><sp><speaker>MALCOLM</speaker>
+<p>Macduff, this noble passion,<lb/>
+Child of integrity, hath from my soul<lb/>
+Wiped the black scruples, reconciled my thoughts<lb/>
+To thy good truth and honour. Devilish Macbeth<lb/>
+By many of these trains hath sought to win me<lb/>
+Into his power, and modest wisdom plucks me<lb/>
+From over-credulous haste: but God above<lb/>
+Deal between thee and me! for even now<lb/>
+I put myself to thy direction, and<lb/>
+Unspeak mine own detraction, here abjure<lb/>
+The taints and blames I laid upon myself,<lb/>
+For strangers to my nature. I am yet<lb/>
+Unknown to woman, never was forsworn,<lb/>
+Scarcely have coveted what was mine own,<lb/>
+At no time broke my faith, would not betray<lb/>
+The devil to his fellow and delight<lb/>
+No less in truth than life: my first false speaking<lb/>
+Was this upon myself: what I am truly,<lb/>
+Is thine and my poor country's to command:<lb/>
+Whither indeed, before thy here-approach,<lb/>
+Old Siward, with ten thousand warlike men,<lb/>
+Already at a point, was setting forth.<lb/>
+Now we'll together; and the chance of goodness<lb/>
+Be like our warranted quarrel! Why are you silent?<lb/>
+
+
+</p></sp><sp><speaker>MACDUFF</speaker>
+<p>Such welcome and unwelcome things at once<lb/>
+'Tis hard to reconcile.<lb/>
+
+
+</p><p><stage>Enter a Doctor</stage>
+
+
+</p></sp><sp><speaker>MALCOLM</speaker>
+<p>Well; more anon.&mdash;Comes the king forth, I pray you?<lb/>
+
+</p></sp><sp><speaker>Doctor</speaker>
+<p>Ay, sir; there are a crew of wretched souls<lb/>
+That stay his cure: their malady convinces<lb/>
+The great assay of art; but at his touch&mdash;<lb/>
+Such sanctity hath heaven given his hand&mdash;<lb/>
+They presently amend.<lb/>
+
+
+</p></sp><sp><speaker>MALCOLM</speaker>
+<p>I thank you, doctor.<lb/>
+
+</p><p><stage>Exit Doctor</stage>
+
+
+</p></sp><sp><speaker>MACDUFF</speaker>
+<p>What's the disease he means?<lb/>
+
+</p></sp><sp><speaker>MALCOLM</speaker>
+<p>'Tis call'd the evil:<lb/>
+A most miraculous work in this good king;<lb/>
+Which often, since my here-remain in England,<lb/>
+I have seen him do. How he solicits heaven,<lb/>
+Himself best knows: but strangely-visited people,<lb/>
+All swoln and ulcerous, pitiful to the eye,<lb/>
+The mere despair of surgery, he cures,<lb/>
+Hanging a golden stamp about their necks,<lb/>
+Put on with holy prayers: and 'tis spoken,<lb/>
+To the succeeding royalty he leaves<lb/>
+The healing benediction. With this strange virtue,<lb/>
+He hath a heavenly gift of prophecy,<lb/>
+And sundry blessings hang about his throne,<lb/>
+That speak him full of grace.<lb/>
+
+
+</p><p><stage>Enter ROSS</stage>
+
+
+</p></sp><sp><speaker>MACDUFF</speaker>
+<p>See, who comes here?<lb/>
+
+</p></sp><sp><speaker>MALCOLM</speaker>
+<p>My countryman; but yet I know him not.<lb/>
+
+</p></sp><sp><speaker>MACDUFF</speaker>
+<p>My ever-gentle cousin, welcome hither.<lb/>
+
+</p></sp><sp><speaker>MALCOLM</speaker>
+<p>I know him now. Good God, betimes remove<lb/>
+The means that makes us strangers!<lb/>
+
+
+</p></sp><sp><speaker>ROSS</speaker>
+<p>Sir, amen.<lb/>
+
+</p></sp><sp><speaker>MACDUFF</speaker>
+<p>Stands Scotland where it did?<lb/>
+
+</p></sp><sp><speaker>ROSS</speaker>
+<p>Alas, poor country!<lb/>
+Almost afraid to know itself. It cannot<lb/>
+Be call'd our mother, but our grave; where nothing,<lb/>
+But who knows nothing, is once seen to smile;<lb/>
+Where sighs and groans and shrieks that rend the air<lb/>
+Are made, not mark'd; where violent sorrow seems<lb/>
+A modern ecstasy; the dead man's knell<lb/>
+Is there scarce ask'd for who; and good men's lives<lb/>
+Expire before the flowers in their caps,<lb/>
+Dying or ere they sicken.<lb/>
+
+
+</p></sp><sp><speaker>MACDUFF</speaker>
+<p>O, relation<lb/>
+Too nice, and yet too true!<lb/>
+
+
+</p></sp><sp><speaker>MALCOLM</speaker>
+<p>What's the newest grief?<lb/>
+
+</p></sp><sp><speaker>ROSS</speaker>
+<p>That of an hour's age doth hiss the speaker:<lb/>
+Each minute teems a new one.<lb/>
+
+
+</p></sp><sp><speaker>MACDUFF</speaker>
+<p>How does my wife?<lb/>
+
+</p></sp><sp><speaker>ROSS</speaker>
+<p>Why, well.<lb/>
+
+</p></sp><sp><speaker>MACDUFF</speaker>
+<p>And all my children?<lb/>
+
+</p></sp><sp><speaker>ROSS</speaker>
+<p>Well too.<lb/>
+
+</p></sp><sp><speaker>MACDUFF</speaker>
+<p>The tyrant has not batter'd at their peace?<lb/>
+
+</p></sp><sp><speaker>ROSS</speaker>
+<p>No; they were well at peace when I did leave 'em.<lb/>
+
+</p></sp><sp><speaker>MACDUFF</speaker>
+<p>But not a niggard of your speech: how goes't?<lb/>
+
+</p></sp><sp><speaker>ROSS</speaker>
+<p>When I came hither to transport the tidings,<lb/>
+Which I have heavily borne, there ran a rumour<lb/>
+Of many worthy fellows that were out;<lb/>
+Which was to my belief witness'd the rather,<lb/>
+For that I saw the tyrant's power a-foot:<lb/>
+Now is the time of help; your eye in Scotland<lb/>
+Would create soldiers, make our women fight,<lb/>
+To doff their dire distresses.<lb/>
+
+
+</p></sp><sp><speaker>MALCOLM</speaker>
+<p>Be't their comfort<lb/>
+We are coming thither: gracious England hath<lb/>
+Lent us good Siward and ten thousand men;<lb/>
+An older and a better soldier none<lb/>
+That Christendom gives out.<lb/>
+
+
+</p></sp><sp><speaker>ROSS</speaker>
+<p>Would I could answer<lb/>
+This comfort with the like! But I have words<lb/>
+That would be howl'd out in the desert air,<lb/>
+Where hearing should not latch them.<lb/>
+
+
+</p></sp><sp><speaker>MACDUFF</speaker>
+<p>What concern they?<lb/>
+The general cause? or is it a fee-grief<lb/>
+Due to some single breast?<lb/>
+
+
+</p></sp><sp><speaker>ROSS</speaker>
+<p>No mind that's honest<lb/>
+But in it shares some woe; though the main part<lb/>
+Pertains to you alone.<lb/>
+
+
+</p></sp><sp><speaker>MACDUFF</speaker>
+<p>If it be mine,<lb/>
+Keep it not from me, quickly let me have it.<lb/>
+
+
+</p></sp><sp><speaker>ROSS</speaker>
+<p>Let not your ears despise my tongue for ever,<lb/>
+Which shall possess them with the heaviest sound<lb/>
+That ever yet they heard.<lb/>
+
+
+</p></sp><sp><speaker>MACDUFF</speaker>
+<p>Hum! I guess at it.<lb/>
+
+</p></sp><sp><speaker>ROSS</speaker>
+<p>Your castle is surprised; your wife and babes<lb/>
+Savagely slaughter'd: to relate the manner,<lb/>
+Were, on the quarry of these murder'd deer,<lb/>
+To add the death of you.<lb/>
+
+
+</p></sp><sp><speaker>MALCOLM</speaker>
+<p>Merciful heaven!<lb/>
+What, man! ne'er pull your hat upon your brows;<lb/>
+Give sorrow words: the grief that does not speak<lb/>
+Whispers the o'er-fraught heart and bids it break.<lb/>
+
+
+</p></sp><sp><speaker>MACDUFF</speaker>
+<p>My children too?<lb/>
+
+</p></sp><sp><speaker>ROSS</speaker>
+<p>Wife, children, servants, all<lb/>
+That could be found.<lb/>
+
+
+</p></sp><sp><speaker>MACDUFF</speaker>
+<p>And I must be from thence!<lb/>
+My wife kill'd too?<lb/>
+
+
+</p></sp><sp><speaker>ROSS</speaker>
+<p>I have said.<lb/>
+
+</p></sp><sp><speaker>MALCOLM</speaker>
+<p>Be comforted:<lb/>
+Let's make us medicines of our great revenge,<lb/>
+To cure this deadly grief.<lb/>
+
+
+</p></sp><sp><speaker>MACDUFF</speaker>
+<p>He has no children. All my pretty ones?<lb/>
+Did you say all? O hell-kite! All?<lb/>
+What, all my pretty chickens and their dam<lb/>
+At one fell swoop?<lb/>
+
+
+</p></sp><sp><speaker>MALCOLM</speaker>
+<p>Dispute it like a man.<lb/>
+
+</p></sp><sp><speaker>MACDUFF</speaker>
+<p>I shall do so;<lb/>
+But I must also feel it as a man:<lb/>
+I cannot but remember such things were,<lb/>
+That were most precious to me. Did heaven look on,<lb/>
+And would not take their part? Sinful Macduff,<lb/>
+They were all struck for thee! naught that I am,<lb/>
+Not for their own demerits, but for mine,<lb/>
+Fell slaughter on their souls. Heaven rest them now!<lb/>
+
+
+</p></sp><sp><speaker>MALCOLM</speaker>
+<p>Be this the whetstone of your sword: let grief<lb/>
+Convert to anger; blunt not the heart, enrage it.<lb/>
+
+
+</p></sp><sp><speaker>MACDUFF</speaker>
+<p>O, I could play the woman with mine eyes<lb/>
+And braggart with my tongue! But, gentle heavens,<lb/>
+Cut short all intermission; front to front<lb/>
+Bring thou this fiend of Scotland and myself;<lb/>
+Within my sword's length set him; if he 'scape,<lb/>
+Heaven forgive him too!<lb/>
+
+
+</p></sp><sp><speaker>MALCOLM</speaker>
+<p>This tune goes manly.<lb/>
+Come, go we to the king; our power is ready;<lb/>
+Our lack is nothing but our leave; Macbeth<lb/>
+Is ripe for shaking, and the powers above<lb/>
+Put on their instruments. Receive what cheer you may:<lb/>
+The night is long that never finds the day.<lb/>
+
+
+</p></sp><p><stage>Exeunt</stage></p>
+
+
+
+</div2>
+
+</div1>
+
+<div1 type="act" n="5" id="d29">
+<head>Act 5</head>
+
+<div2 type="scene" n="1" id="d30">
+<head>Scene 1</head><p><stage>Dunsinane. Ante-room in the castle.</stage>
+
+</p><p><stage>Enter a Doctor of Physic and a Waiting-Gentlewoman</stage>
+
+
+</p><sp><speaker>Doctor</speaker>
+<p>I have two nights watched with you, but can perceive<lb/>
+no truth in your report. When was it she last walked?<lb/>
+
+
+</p></sp><sp><speaker>Gentlewoman</speaker>
+<p>Since his majesty went into the field, I have seen<lb/>
+her rise from her bed, throw her night-gown upon<lb/>
+her, unlock her closet, take forth paper, fold it,<lb/>
+write upon't, read it, afterwards seal it, and again<lb/>
+return to bed; yet all this while in a most fast sleep.<lb/>
+
+
+</p></sp><sp><speaker>Doctor</speaker>
+<p>A great perturbation in nature, to receive at once<lb/>
+the benefit of sleep, and do the effects of<lb/>
+watching! In this slumbery agitation, besides her<lb/>
+walking and other actual performances, what, at any<lb/>
+time, have you heard her say?<lb/>
+
+
+</p></sp><sp><speaker>Gentlewoman</speaker>
+<p>That, sir, which I will not report after her.<lb/>
+
+</p></sp><sp><speaker>Doctor</speaker>
+<p>You may to me: and 'tis most meet you should.<lb/>
+
+</p></sp><sp><speaker>Gentlewoman</speaker>
+<p>Neither to you nor any one; having no witness to<lb/>
+confirm my speech.<lb/>
+
+
+</p><p><stage>Enter LADY MACBETH, with a taper</stage></p>
+
+
+<p>
+Lo you, here she comes! This is her very guise;<lb/>
+and, upon my life, fast asleep. Observe her; stand close.<lb/>
+
+
+</p></sp><sp><speaker>Doctor</speaker>
+<p>How came she by that light?<lb/>
+
+</p></sp><sp><speaker>Gentlewoman</speaker>
+<p>Why, it stood by her: she has light by her<lb/>
+continually; 'tis her command.<lb/>
+
+
+</p></sp><sp><speaker>Doctor</speaker>
+<p>You see, her eyes are open.<lb/>
+
+</p></sp><sp><speaker>Gentlewoman</speaker>
+<p>Ay, but their sense is shut.<lb/>
+
+</p></sp><sp><speaker>Doctor</speaker>
+<p>What is it she does now? Look, how she rubs her hands.<lb/>
+
+</p></sp><sp><speaker>Gentlewoman</speaker>
+<p>It is an accustomed action with her, to seem thus<lb/>
+washing her hands: I have known her continue in<lb/>
+this a quarter of an hour.<lb/>
+
+
+</p></sp><sp><speaker>LADY MACBETH</speaker>
+<p>Yet here's a spot.<lb/>
+
+</p></sp><sp><speaker>Doctor</speaker>
+<p>Hark! she speaks: I will set down what comes from<lb/>
+her, to satisfy my remembrance the more strongly.<lb/>
+
+
+</p></sp><sp><speaker>LADY MACBETH</speaker>
+<p>Out, damned spot! out, I say!&mdash;One: two: why,<lb/>
+then, 'tis time to do't.&mdash;Hell is murky!&mdash;Fie, my<lb/>
+lord, fie! a soldier, and afeard? What need we<lb/>
+fear who knows it, when none can call our power to<lb/>
+account?&mdash;Yet who would have thought the old man<lb/>
+to have had so much blood in him.<lb/>
+
+
+</p></sp><sp><speaker>Doctor</speaker>
+<p>Do you mark that?<lb/>
+
+</p></sp><sp><speaker>LADY MACBETH</speaker>
+<p>The thane of Fife had a wife: where is she now?&mdash;<lb/>
+What, will these hands ne'er be clean?&mdash;No more o'<lb/>
+that, my lord, no more o' that: you mar all with<lb/>
+this starting.<lb/>
+
+
+</p></sp><sp><speaker>Doctor</speaker>
+<p>Go to, go to; you have known what you should not.<lb/>
+
+</p></sp><sp><speaker>Gentlewoman</speaker>
+<p>She has spoke what she should not, I am sure of<lb/>
+that: heaven knows what she has known.<lb/>
+
+
+</p></sp><sp><speaker>LADY MACBETH</speaker>
+<p>Here's the smell of the blood still: all the<lb/>
+perfumes of Arabia will not sweeten this little<lb/>
+hand. Oh, oh, oh!<lb/>
+
+
+</p></sp><sp><speaker>Doctor</speaker>
+<p>What a sigh is there! The heart is sorely charged.<lb/>
+
+</p></sp><sp><speaker>Gentlewoman</speaker>
+<p>I would not have such a heart in my bosom for the<lb/>
+dignity of the whole body.<lb/>
+
+
+</p></sp><sp><speaker>Doctor</speaker>
+<p>Well, well, well,&mdash;<lb/>
+
+</p></sp><sp><speaker>Gentlewoman</speaker>
+<p>Pray God it be, sir.<lb/>
+
+</p></sp><sp><speaker>Doctor</speaker>
+<p>This disease is beyond my practise: yet I have known<lb/>
+those which have walked in their sleep who have died<lb/>
+holily in their beds.<lb/>
+
+
+</p></sp><sp><speaker>LADY MACBETH</speaker>
+<p>Wash your hands, put on your nightgown; look not so<lb/>
+pale.&mdash;I tell you yet again, Banquo's buried; he<lb/>
+cannot come out on's grave.<lb/>
+
+
+</p></sp><sp><speaker>Doctor</speaker>
+<p>Even so?<lb/>
+
+</p></sp><sp><speaker>LADY MACBETH</speaker>
+<p>To bed, to bed! there's knocking at the gate:<lb/>
+come, come, come, come, give me your hand. What's<lb/>
+done cannot be undone.&mdash;To bed, to bed, to bed!<lb/>
+
+
+</p><p><stage>Exit</stage>
+
+
+</p></sp><sp><speaker>Doctor</speaker>
+<p>Will she go now to bed?<lb/>
+
+</p></sp><sp><speaker>Gentlewoman</speaker>
+<p>Directly.<lb/>
+
+</p></sp><sp><speaker>Doctor</speaker>
+<p>Foul whisperings are abroad: unnatural deeds<lb/>
+Do breed unnatural troubles: infected minds<lb/>
+To their deaf pillows will discharge their secrets:<lb/>
+More needs she the divine than the physician.<lb/>
+God, God forgive us all! Look after her;<lb/>
+Remove from her the means of all annoyance,<lb/>
+And still keep eyes upon her. So, good night:<lb/>
+My mind she has mated, and amazed my sight.<lb/>
+I think, but dare not speak.<lb/>
+
+
+</p></sp><sp><speaker>Gentlewoman</speaker>
+<p>Good night, good doctor.<lb/>
+
+</p></sp><p><stage>Exeunt</stage>
+
+
+
+</p></div2><div2 type="scene" n="2" id="d31">
+<head>Scene 2</head>
+
+<p><stage>The country near Dunsinane.</stage>
+
+</p><p><stage>Drum and colours. Enter MENTEITH, CAITHNESS, ANGUS,	LENNOX, and Soldiers</stage>
+
+
+</p><sp><speaker>MENTEITH</speaker>
+<p>The English power is near, led on by Malcolm,<lb/>
+His uncle Siward and the good Macduff:<lb/>
+Revenges burn in them; for their dear causes<lb/>
+Would to the bleeding and the grim alarm<lb/>
+Excite the mortified man.<lb/>
+
+
+</p></sp><sp><speaker>ANGUS</speaker>
+<p>Near Birnam wood<lb/>
+Shall we well meet them; that way are they coming.<lb/>
+
+
+</p></sp><sp><speaker>CAITHNESS</speaker>
+<p>Who knows if Donalbain be with his brother?<lb/>
+
+</p></sp><sp><speaker>LENNOX</speaker>
+<p>For certain, sir, he is not: I have a file<lb/>
+Of all the gentry: there is Siward's son,<lb/>
+And many unrough youths that even now<lb/>
+Protest their first of manhood.<lb/>
+
+
+</p></sp><sp><speaker>MENTEITH</speaker>
+<p>What does the tyrant?<lb/>
+
+</p></sp><sp><speaker>CAITHNESS</speaker>
+<p>Great Dunsinane he strongly fortifies:<lb/>
+Some say he's mad; others that lesser hate him<lb/>
+Do call it valiant fury: but, for certain,<lb/>
+He cannot buckle his distemper'd cause<lb/>
+Within the belt of rule.<lb/>
+
+
+</p></sp><sp><speaker>ANGUS</speaker>
+<p>Now does he feel<lb/>
+His secret murders sticking on his hands;<lb/>
+Now minutely revolts upbraid his faith-breach;<lb/>
+Those he commands move only in command,<lb/>
+Nothing in love: now does he feel his title<lb/>
+Hang loose about him, like a giant's robe<lb/>
+Upon a dwarfish thief.<lb/>
+
+
+</p></sp><sp><speaker>MENTEITH</speaker>
+<p>Who then shall blame<lb/>
+His pester'd senses to recoil and start,<lb/>
+When all that is within him does condemn<lb/>
+Itself for being there?<lb/>
+
+
+</p></sp><sp><speaker>CAITHNESS</speaker>
+<p>Well, march we on,<lb/>
+To give obedience where 'tis truly owed:<lb/>
+Meet we the medicine of the sickly weal,<lb/>
+And with him pour we in our country's purge<lb/>
+Each drop of us.<lb/>
+
+
+</p></sp><sp><speaker>LENNOX</speaker>
+<p>Or so much as it needs,<lb/>
+To dew the sovereign flower and drown the weeds.<lb/>
+Make we our march towards Birnam.<lb/>
+
+
+</p></sp><p><stage>Exeunt, marching</stage>
+
+
+
+</p></div2><div2 type="scene" n="3" id="d32">
+<head>Scene 3</head>
+
+<p><stage>Dunsinane. A room in the castle.</stage>
+
+</p><p><stage>Enter MACBETH, Doctor, and Attendants</stage>
+
+
+</p><sp><speaker>MACBETH</speaker>
+<p>Bring me no more reports; let them fly all:<lb/>
+Till Birnam wood remove to Dunsinane,<lb/>
+I cannot taint with fear. What's the boy Malcolm?<lb/>
+Was he not born of woman? The spirits that know<lb/>
+All mortal consequences have pronounced me thus:<lb/>
+'Fear not, Macbeth; no man that's born of woman<lb/>
+Shall e'er have power upon thee.' Then fly,<lb/>
+false thanes,<lb/>
+And mingle with the English epicures:<lb/>
+The mind I sway by and the heart I bear<lb/>
+Shall never sag with doubt nor shake with fear.<lb/>
+
+
+</p><p><stage>Enter a Servant</stage></p>
+
+
+<p>
+The devil damn thee black, thou cream-faced loon!<lb/>
+Where got'st thou that goose look?<lb/>
+
+
+</p></sp><sp><speaker>Servant</speaker>
+<p>There is ten thousand&mdash;<lb/>
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>Geese, villain!<lb/>
+
+</p></sp><sp><speaker>Servant</speaker>
+<p>Soldiers, sir.<lb/>
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>Go prick thy face, and over-red thy fear,<lb/>
+Thou lily-liver'd boy. What soldiers, patch?<lb/>
+Death of thy soul! those linen cheeks of thine<lb/>
+Are counsellors to fear. What soldiers, whey-face?<lb/>
+
+
+</p></sp><sp><speaker>Servant</speaker>
+<p>The English force, so please you.<lb/>
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>Take thy face hence.<lb/>
+
+</p><p><stage>Exit Servant</stage></p>
+
+
+<p>
+Seyton!&mdash;I am sick at heart,<lb/>
+When I behold&mdash;Seyton, I say!&mdash;This push<lb/>
+Will cheer me ever, or disseat me now.<lb/>
+I have lived long enough: my way of life<lb/>
+Is fall'n into the sear, the yellow leaf;<lb/>
+And that which should accompany old age,<lb/>
+As honour, love, obedience, troops of friends,<lb/>
+I must not look to have; but, in their stead,<lb/>
+Curses, not loud but deep, mouth-honour, breath,<lb/>
+Which the poor heart would fain deny, and dare not. Seyton!<lb/>
+
+
+</p><p><stage>Enter SEYTON</stage>
+
+
+</p></sp><sp><speaker>SEYTON</speaker>
+<p>What is your gracious pleasure?<lb/>
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>What news more?<lb/>
+
+</p></sp><sp><speaker>SEYTON</speaker>
+<p>All is confirm'd, my lord, which was reported.<lb/>
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>I'll fight till from my bones my flesh be hack'd.<lb/>
+Give me my armour.<lb/>
+
+
+</p></sp><sp><speaker>SEYTON</speaker>
+<p>'Tis not needed yet.<lb/>
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>I'll put it on.<lb/>
+Send out more horses; skirr the country round;<lb/>
+Hang those that talk of fear. Give me mine armour.<lb/>
+How does your patient, doctor?<lb/>
+
+
+</p></sp><sp><speaker>Doctor</speaker>
+<p>Not so sick, my lord,<lb/>
+As she is troubled with thick coming fancies,<lb/>
+That keep her from her rest.<lb/>
+
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>Cure her of that.<lb/>
+Canst thou not minister to a mind diseased,<lb/>
+Pluck from the memory a rooted sorrow,<lb/>
+Raze out the written troubles of the brain<lb/>
+And with some sweet oblivious antidote<lb/>
+Cleanse the stuff'd bosom of that perilous stuff<lb/>
+Which weighs upon the heart?<lb/>
+
+
+</p></sp><sp><speaker>Doctor</speaker>
+<p>Therein the patient<lb/>
+Must minister to himself.<lb/>
+
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>Throw physic to the dogs; I'll none of it.<lb/>
+Come, put mine armour on; give me my staff.<lb/>
+Seyton, send out. Doctor, the thanes fly from me.<lb/>
+Come, sir, dispatch. If thou couldst, doctor, cast<lb/>
+The water of my land, find her disease,<lb/>
+And purge it to a sound and pristine health,<lb/>
+I would applaud thee to the very echo,<lb/>
+That should applaud again.&mdash;Pull't off, I say.&mdash;<lb/>
+What rhubarb, cyme, or what purgative drug,<lb/>
+Would scour these English hence? Hear'st thou of them?<lb/>
+
+
+</p></sp><sp><speaker>Doctor</speaker>
+<p>Ay, my good lord; your royal preparation<lb/>
+Makes us hear something.<lb/>
+
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>Bring it after me.<lb/>
+I will not be afraid of death and bane,<lb/>
+Till Birnam forest come to Dunsinane.<lb/>
+
+
+</p></sp><sp><speaker>Doctor</speaker>
+<p><stage>[Aside]</stage></p><p>  Were I from Dunsinane away and clear,<lb/>
+Profit again should hardly draw me here.<lb/>
+
+
+</p></sp><p><stage>Exeunt</stage>
+
+
+
+</p></div2><div2 type="scene" n="4" id="d33">
+<head>Scene 4</head>
+
+<p><stage>Country near Birnam wood.</stage>
+
+</p><p><stage>Drum and colours. Enter MALCOLM, SIWARD and YOUNG	SIWARD, MACDUFF, MENTEITH, CAITHNESS, ANGUS,	LENNOX, ROSS, and Soldiers, marching</stage>
+
+
+</p><sp><speaker>MALCOLM</speaker>
+<p>Cousins, I hope the days are near at hand<lb/>
+That chambers will be safe.<lb/>
+
+
+</p></sp><sp><speaker>MENTEITH</speaker>
+<p>We doubt it nothing.<lb/>
+
+</p></sp><sp><speaker>SIWARD</speaker>
+<p>What wood is this before us?<lb/>
+
+</p></sp><sp><speaker>MENTEITH</speaker>
+<p>The wood of Birnam.<lb/>
+
+</p></sp><sp><speaker>MALCOLM</speaker>
+<p>Let every soldier hew him down a bough<lb/>
+And bear't before him: thereby shall we shadow<lb/>
+The numbers of our host and make discovery<lb/>
+Err in report of us.<lb/>
+
+
+</p></sp><sp><speaker>Soldiers</speaker>
+<p>It shall be done.<lb/>
+
+</p></sp><sp><speaker>SIWARD</speaker>
+<p>We learn no other but the confident tyrant<lb/>
+Keeps still in Dunsinane, and will endure<lb/>
+Our setting down before 't.<lb/>
+
+
+</p></sp><sp><speaker>MALCOLM</speaker>
+<p>'Tis his main hope:<lb/>
+For where there is advantage to be given,<lb/>
+Both more and less have given him the revolt,<lb/>
+And none serve with him but constrained things<lb/>
+Whose hearts are absent too.<lb/>
+
+
+</p></sp><sp><speaker>MACDUFF</speaker>
+<p>Let our just censures<lb/>
+Attend the true event, and put we on<lb/>
+Industrious soldiership.<lb/>
+
+
+</p></sp><sp><speaker>SIWARD</speaker>
+<p>The time approaches<lb/>
+That will with due decision make us know<lb/>
+What we shall say we have and what we owe.<lb/>
+Thoughts speculative their unsure hopes relate,<lb/>
+But certain issue strokes must arbitrate:<lb/>
+Towards which advance the war.<lb/>
+
+
+</p></sp><p><stage>Exeunt, marching</stage>
+
+
+
+</p></div2><div2 type="scene" n="5" id="d34">
+<head>Scene 5</head>
+
+<p><stage>Dunsinane. Within the castle.</stage>
+
+</p><p><stage>Enter MACBETH, SEYTON, and Soldiers, with drum	and colours</stage>
+
+
+</p><sp><speaker>MACBETH</speaker>
+<p>Hang out our banners on the outward walls;<lb/>
+The cry is still 'They come:' our castle's strength<lb/>
+Will laugh a siege to scorn: here let them lie<lb/>
+Till famine and the ague eat them up:<lb/>
+Were they not forced with those that should be ours,<lb/>
+We might have met them dareful, beard to beard,<lb/>
+And beat them backward home.<lb/>
+
+
+</p><p><stage>A cry of women within</stage></p>
+
+
+<p>
+What is that noise?<lb/>
+
+
+</p></sp><sp><speaker>SEYTON</speaker>
+<p>It is the cry of women, my good lord.<lb/>
+
+</p><p><stage>Exit</stage>
+
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>I have almost forgot the taste of fears;<lb/>
+The time has been, my senses would have cool'd<lb/>
+To hear a night-shriek; and my fell of hair<lb/>
+Would at a dismal treatise rouse and stir<lb/>
+As life were in't: I have supp'd full with horrors;<lb/>
+Direness, familiar to my slaughterous thoughts<lb/>
+Cannot once start me.<lb/>
+
+
+</p><p><stage>Re-enter SEYTON</stage></p>
+
+
+<p>
+Wherefore was that cry?<lb/>
+
+
+</p></sp><sp><speaker>SEYTON</speaker>
+<p>The queen, my lord, is dead.<lb/>
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>She should have died hereafter;<lb/>
+There would have been a time for such a word.<lb/>
+To-morrow, and to-morrow, and to-morrow,<lb/>
+Creeps in this petty pace from day to day<lb/>
+To the last syllable of recorded time,<lb/>
+And all our yesterdays have lighted fools<lb/>
+The way to dusty death. Out, out, brief candle!<lb/>
+Life's but a walking shadow, a poor player<lb/>
+That struts and frets his hour upon the stage<lb/>
+And then is heard no more: it is a tale<lb/>
+Told by an idiot, full of sound and fury,<lb/>
+Signifying nothing.<lb/>
+
+
+</p><p><stage>Enter a Messenger</stage></p>
+
+
+<p>
+Thou comest to use thy tongue; thy story quickly.<lb/>
+
+
+</p></sp><sp><speaker>Messenger</speaker>
+<p>Gracious my lord,<lb/>
+I should report that which I say I saw,<lb/>
+But know not how to do it.<lb/>
+
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>Well, say, sir.<lb/>
+
+</p></sp><sp><speaker>Messenger</speaker>
+<p>As I did stand my watch upon the hill,<lb/>
+I look'd toward Birnam, and anon, methought,<lb/>
+The wood began to move.<lb/>
+
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>Liar and slave!<lb/>
+
+</p></sp><sp><speaker>Messenger</speaker>
+<p>Let me endure your wrath, if't be not so:<lb/>
+Within this three mile may you see it coming;<lb/>
+I say, a moving grove.<lb/>
+
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>If thou speak'st false,<lb/>
+Upon the next tree shalt thou hang alive,<lb/>
+Till famine cling thee: if thy speech be sooth,<lb/>
+I care not if thou dost for me as much.<lb/>
+I pull in resolution, and begin<lb/>
+To doubt the equivocation of the fiend<lb/>
+That lies like truth: 'Fear not, till Birnam wood<lb/>
+Do come to Dunsinane:'  and now a wood<lb/>
+Comes toward Dunsinane. Arm, arm, and out!<lb/>
+If this which he avouches does appear,<lb/>
+There is nor flying hence nor tarrying here.<lb/>
+I gin to be aweary of the sun,<lb/>
+And wish the estate o' the world were now undone.<lb/>
+Ring the alarum-bell! Blow, wind! come, wrack!<lb/>
+At least we'll die with harness on our back.<lb/>
+
+
+</p></sp><p><stage>Exeunt</stage>
+
+
+
+</p></div2><div2 type="scene" n="6" id="d35">
+<head>Scene 6</head>
+
+<p><stage>Dunsinane. Before the castle.</stage>
+
+</p><p><stage>Drum and colours. Enter MALCOLM, SIWARD, MACDUFF,	and their Army, with boughs</stage>
+
+
+</p><sp><speaker>MALCOLM</speaker>
+<p>Now near enough: your leafy screens throw down.<lb/>
+And show like those you are. You, worthy uncle,<lb/>
+Shall, with my cousin, your right-noble son,<lb/>
+Lead our first battle: worthy Macduff and we<lb/>
+Shall take upon 's what else remains to do,<lb/>
+According to our order.<lb/>
+
+
+</p></sp><sp><speaker>SIWARD</speaker>
+<p>Fare you well.<lb/>
+Do we but find the tyrant's power to-night,<lb/>
+Let us be beaten, if we cannot fight.<lb/>
+
+
+</p></sp><sp><speaker>MACDUFF</speaker>
+<p>Make all our trumpets speak; give them all breath,<lb/>
+Those clamorous harbingers of blood and death.<lb/>
+
+
+</p></sp><p><stage>Exeunt</stage>
+
+
+
+</p></div2><div2 type="scene" n="7" id="d36">
+<head>Scene 7</head>
+
+<p><stage>Another part of the field.</stage>
+
+</p><p><stage>Alarums. Enter MACBETH</stage>
+
+
+</p><sp><speaker>MACBETH</speaker>
+<p>They have tied me to a stake; I cannot fly,<lb/>
+But, bear-like, I must fight the course. What's he<lb/>
+That was not born of woman? Such a one<lb/>
+Am I to fear, or none.<lb/>
+
+
+</p><p><stage>Enter YOUNG SIWARD</stage>
+
+
+</p></sp><sp><speaker>YOUNG SIWARD</speaker>
+<p>What is thy name?<lb/>
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>Thou'lt be afraid to hear it.<lb/>
+
+</p></sp><sp><speaker>YOUNG SIWARD</speaker>
+<p>No; though thou call'st thyself a hotter name<lb/>
+Than any is in hell.<lb/>
+
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>My name's Macbeth.<lb/>
+
+</p></sp><sp><speaker>YOUNG SIWARD</speaker>
+<p>The devil himself could not pronounce a title<lb/>
+More hateful to mine ear.<lb/>
+
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>No, nor more fearful.<lb/>
+
+</p></sp><sp><speaker>YOUNG SIWARD</speaker>
+<p>Thou liest, abhorred tyrant; with my sword<lb/>
+I'll prove the lie thou speak'st.<lb/>
+
+
+</p><p><stage>They fight and YOUNG SIWARD is slain</stage>
+
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>Thou wast born of woman<lb/>
+But swords I smile at, weapons laugh to scorn,<lb/>
+Brandish'd by man that's of a woman born.<lb/>
+
+
+</p><p><stage>Exit</stage>
+
+
+
+</p><p><stage>Alarums. Enter MACDUFF</stage>
+
+
+</p></sp><sp><speaker>MACDUFF</speaker>
+<p>That way the noise is. Tyrant, show thy face!<lb/>
+If thou be'st slain and with no stroke of mine,<lb/>
+My wife and children's ghosts will haunt me still.<lb/>
+I cannot strike at wretched kerns, whose arms<lb/>
+Are hired to bear their staves: either thou, Macbeth,<lb/>
+Or else my sword with an unbatter'd edge<lb/>
+I sheathe again undeeded. There thou shouldst be;<lb/>
+By this great clatter, one of greatest note<lb/>
+Seems bruited. Let me find him, fortune!<lb/>
+And more I beg not.<lb/>
+
+
+</p><p><stage>Exit. Alarums</stage>
+
+
+
+</p><p><stage>Enter MALCOLM and SIWARD</stage>
+
+
+</p></sp><sp><speaker>SIWARD</speaker>
+<p>This way, my lord; the castle's gently render'd:<lb/>
+The tyrant's people on both sides do fight;<lb/>
+The noble thanes do bravely in the war;<lb/>
+The day almost itself professes yours,<lb/>
+And little is to do.<lb/>
+
+
+</p></sp><sp><speaker>MALCOLM</speaker>
+<p>We have met with foes<lb/>
+That strike beside us.<lb/>
+
+
+</p></sp><sp><speaker>SIWARD</speaker>
+<p>Enter, sir, the castle.<lb/>
+
+</p></sp><p><stage>Exeunt. Alarums</stage>
+
+
+
+</p></div2><div2 type="scene" n="8" id="d37">
+<head>Scene 8</head>
+
+<p><stage>Another part of the field.</stage>
+
+</p><p><stage>Enter MACBETH</stage>
+
+
+</p><sp><speaker>MACBETH</speaker>
+<p>Why should I play the Roman fool, and die<lb/>
+On mine own sword? whiles I see lives, the gashes<lb/>
+Do better upon them.<lb/>
+
+
+</p><p><stage>Enter MACDUFF</stage>
+
+
+</p></sp><sp><speaker>MACDUFF</speaker>
+<p>Turn, hell-hound, turn!<lb/>
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>Of all men else I have avoided thee:<lb/>
+But get thee back; my soul is too much charged<lb/>
+With blood of thine already.<lb/>
+
+
+</p></sp><sp><speaker>MACDUFF</speaker>
+<p>I have no words:<lb/>
+My voice is in my sword: thou bloodier villain<lb/>
+Than terms can give thee out!<lb/>
+
+
+</p><p><stage>They fight</stage>
+
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>Thou losest labour:<lb/>
+As easy mayst thou the intrenchant air<lb/>
+With thy keen sword impress as make me bleed:<lb/>
+Let fall thy blade on vulnerable crests;<lb/>
+I bear a charmed life, which must not yield,<lb/>
+To one of woman born.<lb/>
+
+
+</p></sp><sp><speaker>MACDUFF</speaker>
+<p>Despair thy charm;<lb/>
+And let the angel whom thou still hast served<lb/>
+Tell thee, Macduff was from his mother's womb<lb/>
+Untimely ripp'd.<lb/>
+
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>Accursed be that tongue that tells me so,<lb/>
+For it hath cow'd my better part of man!<lb/>
+And be these juggling fiends no more believed,<lb/>
+That palter with us in a double sense;<lb/>
+That keep the word of promise to our ear,<lb/>
+And break it to our hope. I'll not fight with thee.<lb/>
+
+
+</p></sp><sp><speaker>MACDUFF</speaker>
+<p>Then yield thee, coward,<lb/>
+And live to be the show and gaze o' the time:<lb/>
+We'll have thee, as our rarer monsters are,<lb/>
+Painted on a pole, and underwrit,<lb/>
+'Here may you see the tyrant.'<lb/>
+
+
+</p></sp><sp><speaker>MACBETH</speaker>
+<p>I will not yield,<lb/>
+To kiss the ground before young Malcolm's feet,<lb/>
+And to be baited with the rabble's curse.<lb/>
+Though Birnam wood be come to Dunsinane,<lb/>
+And thou opposed, being of no woman born,<lb/>
+Yet I will try the last. Before my body<lb/>
+I throw my warlike shield. Lay on, Macduff,<lb/>
+And damn'd be him that first cries, 'Hold, enough!'<lb/>
+
+
+</p><p><stage>Exeunt, fighting. Alarums</stage>
+
+
+
+</p><p><stage>Retreat. Flourish. Enter, with drum and colours,	MALCOLM, SIWARD, ROSS, the other Thanes, and Soldiers</stage>
+
+
+</p></sp><sp><speaker>MALCOLM</speaker>
+<p>I would the friends we miss were safe arrived.<lb/>
+
+</p></sp><sp><speaker>SIWARD</speaker>
+<p>Some must go off: and yet, by these I see,<lb/>
+So great a day as this is cheaply bought.<lb/>
+
+
+</p></sp><sp><speaker>MALCOLM</speaker>
+<p>Macduff is missing, and your noble son.<lb/>
+
+</p></sp><sp><speaker>ROSS</speaker>
+<p>Your son, my lord, has paid a soldier's debt:<lb/>
+He only lived but till he was a man;<lb/>
+The which no sooner had his prowess confirm'd<lb/>
+In the unshrinking station where he fought,<lb/>
+But like a man he died.<lb/>
+
+
+</p></sp><sp><speaker>SIWARD</speaker>
+<p>Then he is dead?<lb/>
+
+</p></sp><sp><speaker>ROSS</speaker>
+<p>Ay, and brought off the field: your cause of sorrow<lb/>
+Must not be measured by his worth, for then<lb/>
+It hath no end.<lb/>
+
+
+</p></sp><sp><speaker>SIWARD</speaker>
+<p>Had he his hurts before?<lb/>
+
+</p></sp><sp><speaker>ROSS</speaker>
+<p>Ay, on the front.<lb/>
+
+</p></sp><sp><speaker>SIWARD</speaker>
+<p>Why then, God's soldier be he!<lb/>
+Had I as many sons as I have hairs,<lb/>
+I would not wish them to a fairer death:<lb/>
+And so, his knell is knoll'd.<lb/>
+
+
+</p></sp><sp><speaker>MALCOLM</speaker>
+<p>He's worth more sorrow,<lb/>
+And that I'll spend for him.<lb/>
+
+
+</p></sp><sp><speaker>SIWARD</speaker>
+<p>He's worth no more<lb/>
+They say he parted well, and paid his score:<lb/>
+And so, God be with him! Here comes newer comfort.<lb/>
+
+
+</p><p><stage>Re-enter MACDUFF, with MACBETH's head</stage>
+
+
+</p></sp><sp><speaker>MACDUFF</speaker>
+<p>Hail, king! for so thou art: behold, where stands<lb/>
+The usurper's cursed head: the time is free:<lb/>
+I see thee compass'd with thy kingdom's pearl,<lb/>
+That speak my salutation in their minds;<lb/>
+Whose voices I desire aloud with mine:<lb/>
+Hail, King of Scotland!<lb/>
+
+
+</p></sp><sp><speaker>ALL</speaker>
+<p>Hail, King of Scotland!<lb/>
+
+</p><p><stage>Flourish</stage>
+
+
+</p></sp><sp><speaker>MALCOLM</speaker>
+<p>We shall not spend a large expense of time<lb/>
+Before we reckon with your several loves,<lb/>
+And make us even with you. My thanes and kinsmen,<lb/>
+Henceforth be earls, the first that ever Scotland<lb/>
+In such an honour named. What's more to do,<lb/>
+Which would be planted newly with the time,<lb/>
+As calling home our exiled friends abroad<lb/>
+That fled the snares of watchful tyranny;<lb/>
+Producing forth the cruel ministers<lb/>
+Of this dead butcher and his fiend-like queen,<lb/>
+Who, as 'tis thought, by self and violent hands<lb/>
+Took off her life; this, and what needful else<lb/>
+That calls upon us, by the grace of Grace,<lb/>
+We will perform in measure, time and place:<lb/>
+So, thanks to all at once and to each one,<lb/>
+Whom we invite to see us crown'd at Scone.<lb/>
+
+
+</p></sp><p><stage>Flourish. Exeunt</stage></p>
+
+
+
+</div2>
+
+</div1>
+
+</body>
+
+</text>
+
+</TEI.2>

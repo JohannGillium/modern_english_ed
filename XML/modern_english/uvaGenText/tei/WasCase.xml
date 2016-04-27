@@ -1,0 +1,797 @@
+<?xml version="1.0"?>
+
+<?dlps id="WasCase"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOnum SYSTEM "http://text.lib.virginia.edu/charent/iso-num.ent"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+]> 
+<TEI.2 id="WasCase"> 
+<teiHeader type="migrated" creator="Etext">
+<fileDesc>
+<titleStmt>
+<title type="main">The Case of the Negro</title>
+<title type="sort">case of the negro</title>
+<author>Washington, Booker T.</author>
+<respStmt>
+<resp>Creation of machine-readable version:</resp> 
+<name>Judy Boss, University of Omaha</name> 
+<resp>Conversion to TEI.2-conformant markup:</resp> 
+<name>University of Virginia Library Electronic Text Center.</name>
+</respStmt>
+</titleStmt> 
+<extent>ca. <num type="kilobytes">44</num> kilobytes</extent> 
+<publicationStmt>
+<publisher>University of Virginia Library</publisher>
+<pubPlace>Charlottesville, Virginia</pubPlace> 
+<idno type="ETC">WasCase</idno> 
+<date value="1995">1995</date>
+<availability status="public">
+<p n="copyright">Copyright &copy; 1995 by the Rector and Visitors of the University of Virginia</p>
+<p n="access">Publicly accessible</p>
+</availability>
+<idno type="uva-pid">uva-lib:476459</idno>
+</publicationStmt>
+<seriesStmt>
+<title>University of Virginia Library, Text collection</title>
+<idno type="uva-set">UVA-LIB-Text</idno>
+</seriesStmt> 
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title type="main">The Case of the Negro</title>
+<title level="j">Atlantic Monthly</title>
+<title type="sort">case of the negro</title>
+<author>Booker T. Washington</author>
+</titleStmt> 
+<publicationStmt>
+<publisher>Atlantic Monthly</publisher> 
+<pubPlace>New York</pubPlace> 
+<date value="1899">1899</date>
+</publicationStmt> 
+<seriesStmt>
+<p>Volume 84, 577-587</p>
+</seriesStmt> 
+</biblFull>
+</sourceDesc>
+</fileDesc> 
+<encodingDesc>
+<projectDesc>
+<p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+</projectDesc> 
+<editorialDecl>
+<p>Spell-check and verification made against printed text</p> 
+<p>All unambiguous end-of-line hyphens have been removed, and the 
+trailing part of a word has been joined to the preceding line.</p> 
+<p id="ETC">Keywords in the header are a local Electronic Text Center scheme to aid in establishing analytical groupings.</p>
+</editorialDecl> 
+<refsDecl>
+<p>ID elements are given for each page element and are composed of the 
+text's unique cryptogram and the given page number, as in AusEmma1 for page one of 
+Jane Austen's Emma.</p>
+</refsDecl> 
+</encodingDesc> 
+<profileDesc>
+<creation>
+<date value="1899">1899</date>
+</creation> 
+<langUsage>
+<language id="eng" usage="main">English</language>
+</langUsage> 
+<textClass>
+<keywords>
+<term>CORD</term> 
+<term>democracy</term>
+</keywords> 
+<keywords>
+<term>non-fiction; prose</term> 
+<term>African-American</term>
+</keywords> 
+</textClass>
+</profileDesc> 
+<revisionDesc>
+<change>
+<date value="1994-06">June 1994</date> 
+<respStmt>
+<resp>corrector</resp> 
+<name>Steve Shoemaker, University of Virginia Library Electronic Text Center.</name>
+</respStmt> 
+<item>TEI tagging and header added</item>
+</change> 
+<change>
+<date value="2005-07">July 2005</date>
+<respStmt>
+<resp>Corrector</resp>
+<name>Margaret Konkol</name>
+</respStmt>
+<item>Converted SGML to XML and fixed tagging.</item>
+</change>
+<change>
+<date value="2007-09">September 2007</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Ethan Gruber, University of Virginia Library</name>
+</respStmt>
+<item>Converted XML markup from TEI Lite to uva-dl-tei (TEI P4 with local customizations).</item>
+</change>
+<change>
+<date value="2008-01">January 2008</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Greg Murray, University of Virginia Library</name>
+</respStmt>
+<item>Programmatically updated TEI header markup (but not header content) for minimal compliance with current QA requirements.</item>
+</change>
+</revisionDesc>
+</teiHeader> 
+ 
+<text id="d1"> 
+<body id="d2"> 
+
+<div1 type="essay" id="d3"> <pb n="577"/> 
+<head>Washington, Booker T.  "The Case of the Negro." <lb/> 
+<hi rend="italic"> Atlantic Monthly</hi> 84 (1899): 577-587.</head> 
+ 
+<p>ALL attempts to settle the question of the Negro in the South 
+by his removal from this country have so far failed, and I think 
+that they are likely to fail.  The next census will probably show 
+that we have nearly ten million black people in the United States, 
+about eight millions of whom are in the Southern states.  In fact, 
+we have almost a nation within a nation.  The Negro population in 
+the United States lacks but two millions of being as large as the 
+whole population of Mexico, and is nearly twice as large as that of 
+Canada.  Our black people equal in number the combined populations 
+of Switzerland, Greece, Honduras, Nicaragua, Cuba, Uraguay [sic], 
+Santo Domingo, Paraguay, and Costa Rica.  When we consider, in 
+connection with these facts, that the race has doubled itself since 
+its freedom, and is still increasing, it hardly seems possible for 
+any one to take seriously any scheme of emigration from America as 
+a method of solution.  At most, even if the government were to 
+provide the means, but a few hundred thousand could be transported 
+each year.  The yearly increase in population would more than 
+likely overbalance the number transported.  Even if it did not, the 
+time required to get rid of the Negro by this method would perhaps 
+be fifty or seventy-five years.</p> 
+<p>Some have advised that the Negro leave the South, and take up 
+his residence in the Northern states.  I question whether this 
+would make him any better off than he is in the South, when all 
+things are considered.  It has been my privilege to study the 
+condition of our people in nearly every part of America; and I say 
+without hesitation that, with some exceptional cases, the Negro is 
+at his best in the Southern states.  While he enjoys certain 
+privileges in the North that he does not have in the South, when it 
+comes to the matter of securing property, enjoying business 
+advantages and employment, the South presents a far better 
+opportunity than the North.  Few colored men from the South are as 
+yet able to stand up against the severe and increasing competition 
+that exists in the North, to say nothing of the unfriendly 
+influence of labor organizations, which in some way prevents black 
+men in the North, as a rule, from securing occupation in the line 
+of skilled labor.</p> 
+<p>Another point of great danger for the colored man who goes 
+North is the matter of morals, owing to the numerous temptations by 
+which he finds himself surrounded.  More ways offer in which he can 
+spend money than in the South, but fewer avenues of employment for 
+earning money are open to him.  The fact that at the North the 
+Negro is almost confined to one line of occupation often tends to 
+discourage and demoralize the strongest who go from the South, and 
+makes them an easy prey for temptation.  A few years ago, I made an 
+examination into the condition of a settlement of Negroes who left 
+the South and went into Kansas about twenty years since, when there 
+was a good deal of excitement in the South concerning 
+<pb n="578"/> 
+emigration from the West, and found it much below the standard of 
+that of similar communities in the South.  The only conclusion 
+which any one can reach, from this and like instances, is that the 
+Negroes are to remain in the Southern states.  As a race they do 
+not want to leave the South, and the Southern white people do not 
+want them to leave.  We must therefore find some basis of 
+settlement that will be constitutional, just, manly; that will be 
+fair to both races in the South and to the whole country.  This 
+cannot be done in a day, a year, or any short period of time.  We 
+can, however, with the present light, decide upon a reasonably safe 
+method of solving the problem, and turn our strength and effort in 
+that direction.  In doing this, I would not have the Negro deprived 
+of any privilege guaranteed to him by the Constitution of the 
+United States.  It is not best for the Negro that he relinquish any 
+of his constitutional rights; it is not best for the Southern white 
+man that he should, as I shall attempt to show in this article.</p> 
+<p>In order that we may concentrate our forces upon a wise 
+object, without loss of time or effort, I want to suggest what 
+seems to me and many others the wisest policy to be pursued.  I 
+have reached these conclusions not only by reason of my own 
+observations and experience, but after eighteen years of direct 
+contact with leading and influential colored and white men in most 
+parts of our country.  But I wish first to mention some elements of 
+danger in the present situation, which all who desire the permanent 
+welfare of both races in the South should carefully take into 
+account.</p> 
+<p>First.  There is danger that a certain class of impatient 
+extremists among the Negroes in the North, who have little 
+knowledge of the actual conditions in the South, may do the entire 
+race injury by attempting to advise their brethren in the South to 
+resort to armed resistance or the use of the torch, in order to 
+secure justice.  All intelligent and well-considered discussion of 
+any important question, or condemnation of any wrong, whether in 
+the North or the South, from the public platform and through the 
+press, is to be commended and encouraged; but ill-considered and 
+incendiary utterances from black men in the North will tend to add 
+to the burdens of our people in the South rather than to relieve 
+them.  We must not fall into the temptation of believing that we 
+can raise ourselves by abusing some one else.</p> 
+<p>Second.  Another danger in the South which should be guarded 
+against is that the whole white South, including the wise, 
+conservative, law-abiding element, may find itself represented 
+before the bar of public opinion by the mob or lawless element, 
+which gives expression to its feelings and tendency in a manner 
+that advertises the South throughout the world; while too often 
+those who have no sympathy with such disregard of law are either 
+silent, or fail to speak in a sufficiently emphatic manner to 
+offset in any large degree the unfortunate reputation which the 
+lawless have made for many portions of the South.</p> 
+<p>Third.  No race or people ever got upon its feet without 
+severe and constant struggle, often in the face of the greatest 
+discouragement.  While passing through the present trying period of 
+its history, there is danger that a large and valuable element of 
+the Negro race may become discouraged in the effort to better its 
+condition.  Every possible influence should be exerted to prevent 
+this.</p> 
+<p>Fourth.  There is a possibility that harm may be done to the 
+South and to the Negro by exaggerated newspaper articles which are 
+written near the scene or in the midst of specially aggravating 
+occurrences.  Often these reports are written by newspaper men, who 
+give the impression that there is a race conflict throughout the 
+South, and that all Southern white people are opposed to the 
+Negro's progress; overlooking the fact that though in some 
+<pb n="579"/> 
+sections there is trouble, in most parts of the South, if matters 
+are not yet in all respects as we would have them, there is 
+nevertheless a very large measure of peace, good will, and mutual 
+helpfulness.  In the same relation, much can be done to retard the 
+progress of the Negro by a certain class of Southern white people, 
+who in the midst of excitement speak or write in a manner that 
+gives the impression that all Negroes are lawless, untrustworthy, 
+and shiftless.  For example, a Southern writer said, not long ago, 
+in a communication to the New York Independent: "Even in small 
+towns the husband cannot venture to leave his wife alone for an 
+hour at night.  At no time, in no place, is the white woman safe 
+from the insults and assaults of these creatures."  These 
+statements, I presume, represented the feelings and the conditions 
+that existed, at the time of the writing, in one community or 
+county in the South; but thousands of Southern white men and women 
+would be ready to testify that this is not the condition throughout 
+the South, nor throughout any Southern state.</p> 
+<p>Fifth.  Owing to the lack of school opportunities for the 
+Negro in the rural districts of the South, there is danger that 
+ignorance and idleness may increase to the extent of giving the 
+Negro race a reputation for crime, and that immorality may eat its 
+way into the fibre of the race so as to retard its progress for 
+many years.  In judging the Negro we must not be too harsh.  We 
+must remember that it has been only within the last thirty-four 
+years that the black father and mother have had the responsibility, 
+and consequently the experience, of training their own children. 
+That perfection has not been reached in one generation, with the 
+obstacles that the parents have been compelled to overcome, is not 
+to be wondered at.</p> 
+<p>Sixth.  Finally, I would mention my fear that some of the 
+white people of the South may be led to feel that the way to settle 
+the race problem is to repress the aspirations of the Negro by 
+legislation of a kind that confers certain legal or political 
+privileges upon an ignorant and poor white man, and withholds the 
+same privileges from a black man in a similar condition.  Such 
+legislation injures and retards the progress of both races.  It is 
+an injustice to the poor white man, because it takes from him 
+incentive to secure education and property as prerequisites for 
+voting.  He feels that because he is a white man, regardless of his 
+possessions, a way will be found for him to vote.  I would label 
+all such measures "laws to keep the poor white man in ignorance and 
+poverty."</p> 
+<p>The Talladega News Reporter, a Democratic newspaper of 
+Alabama, recently said: "But it is a weak cry when the white man 
+asks odds on intelligence over the Negro.  When nature has already 
+so handicapped the African in the race for knowledge, the cry of 
+the boasted Anglo-Saxon for still further odds seems babyish.  What 
+wonder that the world looks on in surprise, if not disgust?  It 
+cannot help but say, If our contention be true that the Negro is an 
+inferior race, then the odds ought to be on the other side, if any 
+are to be given.  And why not?  No; the thing to do &mdash; the only thing 
+that will stand the test of time &mdash; is to do right, exactly right, 
+let come what will.  And that right thing, as it seems to us, is to 
+place a fair educational qualification before every citizen, &mdash; one 
+that is self-testing, and not dependent on the wishes of weak men, 
+&mdash;letting all who pass the test stand in the proud ranks of American 
+voters, whose votes shall be counted as cast, and whose sovereign 
+will shall be maintained as law by all the powers that be.  Nothing 
+short of this will do.  Every exemption, on whatsoever ground, is 
+an outrage that can only rob some legitimate voter of his rights."</p> 
+<p>Such laws have been made, &mdash; in Mississippi, for example, &mdash; with 
+the "understanding" clause, hold out a temptation 
+<pb n="580"/> 
+for the election officer to perjure and degrade himself by too often 
+deciding that the ignorant white man does understand the 
+Constitution when it is read to him, and that the ignorant black 
+man does not.  By such a law, the state not only commits a wrong 
+against its black citizens; it injures the morals of its white 
+citizens by conferring such a power upon any white man who may 
+happen to be a judge of elections.</p> 
+<p>Such laws are hurtful, again, because they keep alive in the 
+heart of the black man the feeling that the white man means to 
+oppress him.  The only safe way out is to set a high standard as a 
+test of citizenship, and require blacks and whites alike to come up 
+to it.  When this is done, both will have a higher respect for the 
+election laws, and for those who make them.  I do not believe that, 
+with his centuries of advantage over the Negro in the opportunity 
+to acquire property and education as prerequisites for voting, the 
+average white man in the South desires that any special law be 
+passed to give him further advantage over one who has had but a 
+little more than thirty years in which to prepare himself for 
+citizenship.  In this relation, another point of danger is that the 
+Negro has been made to feel that it is his duty continually to 
+oppose the Southern white man in politics, even in matters where no 
+principle is involved; and that he is only loyal to his own race 
+and acting in a manly way in thus opposing the white man.  Such a 
+policy has proved very hurtful to both races.  Where it is a matter 
+of principle, where a question of right or wrong is involved, I 
+would advise the Negro to stand by principle at all hazards.  A 
+Southern white man has no respect for or confidence in a Negro who 
+acts merely for policy's sake; but there are many cases, and the 
+number is growing, where the Negro has nothing to gain, and much to 
+lose, by opposing the Southern white man in matters that relate to 
+government.</p> 
+<p>Under the foregoing six heads I believe I have stated some of 
+the main points which, all high-minded white men and black men, 
+North and South, will agree, need our most earnest and thoughtful 
+consideration, if we would hasten, and not hinder, the progress of 
+our country.</p> 
+<p>Now as to the policy that should be pursued.  On this subject 
+I claim to possess no superior wisdom or unusual insight.  I may be 
+wrong; I may be in some degree right.</p> 
+<p>In the future we want to impress upon the Negro, more than we 
+have done in the past, the importance of identifying himself more 
+closely with the interests of the South; of making himself part of 
+the South, and at home in it.  Heretofore, for reasons which were 
+natural, and for which no one is especially to blame, the colored 
+people have been too much like a foreign nation residing in the 
+midst of another nation.  If William Lloyd Garrison, Wendell 
+Phillips, or George L. Stearns were alive to-day, I feel sure that 
+he would advise the Negroes to identify their interests as closely 
+as possible with those of their white neighbors, &mdash; always 
+understanding that no question of right and wrong is involved.  In 
+no other way, it seems to me, can we get a foundation for peace and 
+progress.  He who advises against this policy will advise the Negro 
+to do that which no people in history, who have succeeded, have 
+done.  The white man, North or South, who advises the Negro against 
+it advises him to do that which he himself has not done.  The bed 
+rock upon which every individual rests his chances for success in 
+life is the friendship, the confidence, the respect, of his next-door 
+neighbor in the little community in which he lives.  The 
+problem of the Negro in the South turns on whether he can make 
+himself of such indispensable service to his neighbor and the 
+community that no one can fill his place better in the body 
+politic.  There is at present no other safe course for the black 
+man to pursue.  If the Negro in the South has a friend in 
+<pb n="581"/> 
+his white neighbor, and a still larger number of friends in his own 
+community, he has a protection and a guarantee of his rights that 
+will be more potent and more lasting than any our Federal Congress 
+or any outside power can confer.</p> 
+<p>The London Times, in a recent editorial discussing affairs in 
+the Transvaal, where Englishmen have been denied certain privileges 
+by the Boers, says: <q>"England is too sagacious not to prefer a 
+gradual reform from within, even should it be less rapid than most 
+of us might wish, to the most sweeping redress of grievances 
+imposed from without.  Our object is to obtain fair play for the 
+Outlanders, but the best way to do it is to enable them to help 
+themselves."</q>  This policy, I think, is equally safe when applied to 
+conditions in the South.  The foreigner who comes to America 
+identifies himself as soon as possible, in business, education, and 
+politics, with the community in which he settles.  We have a 
+conspicuous example of this in the case of the Jews, who in the 
+South, as well as in other parts of our country, have not always 
+been justly treated; but the Jews have so woven themselves into the 
+business and patriotic interests of the communities in which they 
+live, have made themselves so valuable as citizens, that they have 
+won a place in the South which they could have obtained in no other 
+way.  The Negro in Cuba has practically settled the race question 
+there, because he has made himself a part of Cuba in thought and 
+action.</p> 
+<p>What I have tried to indicate cannot be accomplished by any 
+sudden revolution of methods, but it does seem that the tendency 
+should be more and more in this direction.  Let me emphasize this 
+by a practical example.  The North sends thousands of dollars into 
+the South every year for the education of the Negro.  The teachers 
+in most of the Southern schools supported by the North are Northern 
+men and women of the highest Christian culture and most unselfish 
+devotion.  The Negro owes them a debt of gratitude which can never 
+be paid.  The various missionary societies in the North have done 
+a work which to a large degree has proved the salvation of the 
+South, and the results of it will appear more in future generations 
+than in this.  We have now reached the point, in the South, where, 
+I believe, great good could be accomplished in changing the 
+attitude of the white people toward the Negro, and of the Negro 
+toward the whites, if a few Southern white teachers, of high 
+character, would take an active interest in the work of our higher 
+schools.  Can this be done?  Yes.  The medical school connected 
+with Shaw University at Raleigh, North Carolina, has from the first 
+had as instructors and professors almost exclusively Southern white 
+doctors who reside in Raleigh, and they have given the highest 
+satisfaction.  This gives the people of Raleigh the feeling that 
+the school is theirs, and not something located in, but not a part 
+of, the South.  In Augusta, Georgia, the Payne Institute, one of 
+the best colleges for our people, is officered and taught almost 
+wholly by Southern white men and women.  The Presbyterian 
+Theological School at Tuscaloosa, Alabama, has only Southern white 
+men as instructors.  Some time ago, at the Calhoun School in 
+Alabama, one of the leading white men in the county was given an 
+important position; since then the feeling of the white people in 
+the county has greatly changed toward the school.</p> 
+<p>We must admit the stern fact that at present the Negro, 
+through no choice of his own, is living in the midst of another 
+race, which is far ahead of him in education, property, and 
+experience; and further, that the Negro's present condition makes 
+him dependent upon the white people for most of the things 
+necessary to sustain life, as well as, in a large measure, for his 
+education.  In all history, those who have possessed the property 
+<pb n="582"/> 
+and intelligence have exercised the greatest control in 
+government, regardless of color, race, or geographical location. 
+This being the case, how can the black man in the South improve his 
+estate?  And does the Southern white man want him to improve it? 
+The latter part of this question I shall attempt to answer later in 
+this article.</p> 
+<p>The Negro in the South has it within his power, if he properly 
+utilizes the forces at land, to make of himself such a valuable 
+factor in the life of the South that for the most part he need not 
+seek privileges, but they will be conferred upon him.  To bring 
+this about, the Negro must begin at the bottom and lay a sure 
+foundation, and not be lured by any temptation into trying to rise 
+on a false footing.  While the Negro is laying this foundation, he 
+will need help and sympathy and justice from the law.  Progress by 
+any other method will be but temporary and superficial, and the end 
+of it will be worse than the beginning.  American slavery was a 
+great curse to both races, and I should be the last to apologize 
+for it; but in the providence of God I believe that slavery laid 
+the foundation for the solution of the problem that is now before 
+us in the South.  Under slavery, the Negro was taught every trade, 
+every industry, that furnishes the means of earning a living.  Now 
+if on this foundation, laid in a rather crude way, it is true, but 
+a foundation nevertheless, we can gradually grow and improve, the 
+future for us is bright.  Let me be more specific.  Agriculture is 
+or has been the basic industry of nearly every race or nation that 
+has succeeded.  The Negro got a knowledge of this under slavery: 
+hence in a large measure he is in possession of this industry in 
+the South to-day.  Taking the whole South, I should say that eighty 
+per cent of the Negroes live by agriculture in some form, though it 
+is often a very primitive and crude form.  The Negro can buy land 
+in the South, as a rule, wherever the white man can buy it, and at 
+very low prices.  Now, since the bulk of our people already have a 
+foundation in agriculture, are at their best when living in the 
+country engaged in agricultural pursuits, plainly, the best thing, 
+the logical thing, is to turn the larger part of our strength in a 
+direction that will put the Negroes among the most skilled 
+agricultural people in the world.  The man who has learned to do 
+something better than any one else, has learned to do a common 
+thing in an uncommon manner, has power and influence which no 
+adverse surroundings can take from him.  It is better to show a man 
+how to make a place for himself than to put him in one that some 
+one else has made for him.  The Negro who can make himself so 
+conspicuous as a successful farmer, a large taxpayer, a wise helper 
+of his fellow men, as to be placed in a position of trust and honor 
+by natural selection, whether the position be political or not, is 
+a hundredfold more secure in that position than one placed there by 
+mere outside force or pressure.  I know a Negro, Hon. Isaiah T. 
+Montgomery, in Mississippi, who is mayor of a town; it is true that 
+the town is composed almost wholly of Negroes.  Mr. Montgomery is 
+mayor of this town because his genius, thrift, and foresight have 
+created it; and he is held and supported in his office by a charter 
+granted by the state of Mississippi, and by the vote and public 
+sentiment of the community in which he lives.</p> 
+<p>Let us help the Negro by every means possible to acquire such 
+an education in farming, dairying, stock-raising, horticulture, 
+etc., as will place him near the top in these industries, and the 
+race problem will in a large part be settled, or at least stripped 
+of many of its most perplexing elements.  This policy would also 
+tend to keep the Negro in the country and smaller towns, where he 
+succeeds best, and stop the influx into the large cities, where he 
+does not succeed so well.  The race, like the individual, 
+<pb n="583"/> 
+which produces something of superior worth that has a common human 
+interest, wins a permanent place, and is bound to be recognized.</p> 
+<p>At a county fair in the South, not long ago, I saw a Negro 
+awarded the first prize, by a jury of white men, over white 
+competitors, for the production of the best specimen of Indian 
+corn.  Every white man at the fair seemed to be proud of the 
+achievement of the Negro, because it was apparent that he had done 
+something that would add to the wealth and comfort of the people of 
+both races in that county.  At the Tuskegee Normal and Industrial 
+Institute, in Alabama, we have a department devoted to training men 
+along the lines of agriculture that I have named; but what we are 
+doing is small when compared with what should be done in Tuskegee, 
+and at other educational centres.  In a material sense the South is 
+still an undeveloped country.  While in some other affairs race 
+prejudice is strongly marked, in the matter of business, of 
+commercial and industrial development, there are few obstacles in 
+the Negro's way.  A Negro who produces or has for sale something 
+that the community wants finds customers among white people as well 
+as black.  Upon equal security, a Negro can borrow money at the 
+bank as readily as a white man can.  A bank in Birmingham, Alabama, 
+which has existed ten years, is officered and controlled wholly by 
+Negroes.  This bank has white borrowers and white depositors.  A 
+graduate of the Tuskegee Institute keeps a well-appointed grocery 
+store in Tuskegee, and he tells me that he sells about as many 
+goods to one race as to the other.  What I have said of the opening 
+that awaits the Negro in the business of agriculture is almost 
+equally true of mechanics, manufacturing, and all the domestic 
+arts.  The field is before him and right about him.  Will he seize 
+upon it?  Will he "cast down his bucket where he is?"  Will his 
+friends, North and South, encourage him and prepare him to occupy 
+it?  Every city in the South, for example, would give support to a 
+first-class architect or housebuilder or contractor of our race. 
+The architect or contractor would not only receive support, but 
+through his example numbers of young colored men would learn such 
+trades as carpentry, brickmasonry, plastering, painting, etc., and 
+the race would be put into a position to hold on to many of the 
+industries which it is now in danger of losing, because in too many 
+cases brain, skill, and dignity are not imparted to the common 
+occupations.  Any individual or race that does not fit itself to 
+occupy in the best manner the field or service that is right about 
+it will sooner or later be asked to move on and let another take 
+it.</p> 
+<p>But I may be asked, Would you confine the Negro to 
+agriculture, mechanics, the domestic arts, etc.?  Not at all; but 
+just now and for a number of years the stress should be laid along 
+the lines that I have mentioned.  We shall need and must have many 
+teachers and ministers, some doctors and lawyers and statesmen, but 
+these professional men will have a constituency or a foundation 
+from which to draw support just in proportion as the race prospers 
+along the economic lines that I have pointed out.  During the first 
+fifty or one hundred years of the life of any people, are not the 
+economic occupations always given the greater attention?  This is 
+not only the historic, but, I think, the common-sense view.  If 
+this generation will lay the material foundation, it will be the 
+quickest and surest way for enabling later generations to succeed 
+in the cultivation of the fine arts, and to surround themselves 
+with some of the luxuries of life, if desired.  What the race most 
+needs now, in my opinion, is a whole army of men and women well-trained 
+to lead, and at the same time devote themselves to 
+agriculture, mechanics, domestic employment, and business.  As 
+<pb n="584"/> 
+to the mental training that these educated leaders should be 
+equipped with, I should say, give them all the mental training and 
+culture that the circumstances of individuals will allow, &mdash; the more 
+the better.  No race can permanently succeed until its mind is 
+awakened and strengthened by the ripest thought.  But I would 
+constantly have it kept in the minds of those who are educated in 
+books that a large proportion of those who are educated should be 
+so trained in hand that they can bring this mental strength and 
+knowledge to bear upon the physical conditions in the South, which 
+I have tried to emphasize.</p> 
+<p>Frederick Douglass, of sainted memory, once, in addressing his 
+race, used these words:  <q>"We are to prove that we can better our 
+own condition.  One way to do this is to accumulate property.  This 
+may sound to you like a new gospel.  You have been accustomed to 
+hear that money is the root of all evil, etc.; on the other hand, 
+property, money, if you please, will purchase for us the only 
+condition by which any people can rise to the dignity of genuine 
+manhood; for without property there can be no leisure, without 
+leisure there can be no thought, without thought there can be no 
+invention, without invention there can be no progress."</q></p> 
+<p>The Negro should be taught that material development is not an 
+end, but merely a means to an end.  As professor W. E. B. Du Bois 
+puts it, the idea should not be simply to make men carpenters, but 
+to make carpenters men.  The Negro has a highly religious 
+temperament; but what he needs more and more is to be convinced of 
+the importance of weaving his religion and morality into the 
+practical affairs of daily life.  Equally does he need to be taught 
+to put so much intelligence into his labor that he will see dignity 
+and beauty in the occupation, and love it for its own sake.  The 
+Negro needs to be taught to apply more of the religion that 
+manifests itself in his happiness in prayer meeting to the 
+performance of his daily task.  The man who owns a home, and is in 
+the possession of the elements by which he is sure of a daily 
+living, has a great aid to a moral and religious life.  What 
+bearing will all this have upon the Negro's place in the South, as 
+a citizen and in the enjoyment of the privileges which our 
+government confers?</p> 
+<p>To state in detail just what place the black man will occupy 
+in the South as a citizen, when he has developed in the direction 
+named, is beyond the wisdom of any one.  Much will depend upon the 
+sense of justice which can be kept alive in the breast of the 
+American people; almost as much will depend upon the good sense of 
+the Negro himself.  That question, I confess, does not give me the 
+most concern just now.  The important and pressing question is, 
+Will the Negro, with his own help and that of his friends, take 
+advantage of the opportunities that surround him?  When he has done 
+this, I believe, speaking of his future in general terms, that he 
+will be treated with justice, be given the protection of the law 
+and the recognition which his usefulness and ability warrant.  If, 
+fifty years ago, one had predicted that the Negro would receive the 
+recognition and honor which individuals have already received, he 
+would have been laughed at as an idle dreamer.  Time, patience, and 
+constant achievement are great factors in the rise of a race.</p> 
+<p>I do not believe that the world ever takes a race seriously, 
+in its desire to share in the government of a nation, until a large 
+number of individual members of that race have demonstrated beyond 
+question their ability to control and develop their own business 
+enterprises.  Once a number of Negroes rise to the point where they 
+own and operate the most successful farms, are among the largest 
+taxpayers in their county, are moral and intelligent, I do not 
+believe that in many portions of the South such men need 
+<pb n="585"/> 
+long be denied the right of saying by their votes how they prefer 
+their property to be taxed, and who are to make and administer the 
+laws.</p> 
+<p>I was walking the street of a certain town in the South lately 
+in company with the most prominent Negro there.  While we were 
+together, the mayor of the town sought out the black man, and said, 
+"Next week we are going to vote on the question of issuing bonds to 
+secure water-works; you must be sure to vote on the day of 
+election."  The mayor did not suggest whether he should vote yes or 
+no; but he knew that the very fact of this Negro's owning nearly a 
+block of the most valuable property in the town was a guarantee 
+that he would cast a safe, wise vote on this important proposition. 
+The white man knew that because of this Negro's property interests 
+he would cast his vote in the way he thought would benefit every 
+white and black citizen in the town, and not be controlled by 
+influences a thousand miles away.  But a short time ago I read 
+letters from nearly every prominent white man in Birmingham, 
+Alabama, asking that the Rev. W. R. Pettiford, a Negro, be 
+appointed to a certain important federal office.  What is the 
+explanation of this?  For nine years Mr. Pettiford has been the 
+president of the Negro bank in Birmingham, to which I have alluded. 
+During these nine years, the white citizens have had the 
+opportunity of seeing that Mr. Pettiford can manage successfully a 
+private business, and that he has proved himself a conservative, 
+thoughtful citizen, and they are willing to trust him in a public 
+office.  Such individual examples will have to be multiplied, till 
+they become more nearly the rule than the exception they now are. 
+While we are multiplying these examples, the Negro must keep a 
+strong and courageous heart.  He cannot improve his condition by 
+any short-cut course or by artificial methods.  Above all, he must 
+not be deluded into believing that his condition can be permanently 
+bettered by a mere battledoor [sic] and shuttlecock of words, or by 
+any process of mere mental gymnastics or oratory.  What is desired 
+along with a logical defense of his cause are deeds, results, &mdash; 
+continued results, in the direction of building himself up, so as 
+to leave no doubt in the mind of any one of his ability to succeed.</p> 
+<p>An important question often asked is, Does the white man in 
+the South want the Negro to improve his present condition?  I say 
+yes.  From the Montgomery (Alabama) Daily Advertiser I clip the 
+following in reference to the closing of a colored school in a town 
+in Alabama: &mdash; </p> 
+<p><q>"EUFALA, May 25, 1899.  The closing exercises of the city 
+colored public school were held at St. Luke's A. M. E. Church last 
+night, and were witnessed by a large gathering, including many 
+whites.  The recitations by the pupils were excellent, and the 
+music was also an interesting feature.  Rev. R. T. Pollard 
+delivered the address, which was quite an able one, and the 
+certificates were presented by Professor T. L. McCoy, white, of the 
+Sanford Street School.  The success of the exercises reflects great 
+credit on Professor S. M. Murphy, the principal, who enjoys a 
+deserved good reputation as a capable and efficient educator."</q></p> 
+<p>I quote this report, not because it is the exception, but 
+because such marks of interest in the education of the Negro on the 
+part of the Southern white people may be seen almost every day in 
+the local papers.  Why should white people, by their presence, 
+words, and actions, encourage the black man to get education, if 
+they do not desire him to improve his condition?</p> 
+<p>The Payne Institute, an excellent college, to which I have 
+already referred, is supported almost wholly by the Southern white 
+Methodist church.  The Southern white Presbyterians support a 
+theological school for Negroes at Tuscaloosa.  For a number 
+<pb n="586"/> 
+of years the Southern white Baptists have contributed toward Negro 
+education.  Other denominations have done the same.  If these 
+people do not want the Negro educated to a higher standard, there 
+is no reason why they should pretend they do.</p> 
+<p>Though some of the lynchings in the South have indicated a 
+barbarous feeling toward Negroes, Southern white men here and 
+there, as well as newspapers, have spoken out strongly against 
+lynching.  I quote from the address of the Rev. Mr. Vance, of 
+Nashville, Tennessee, delivered before the National Sunday School 
+Union, in Atlanta, not long since, as an example: &mdash; </p> 
+<p><q>"And yet, as I stand here to-night, a Southerner speaking for 
+my section and addressing an audience from all sections, there is 
+one foul blot upon the fair fame of the South, at the bare mention 
+of which the heart turns sick and the cheek is crimsoned with 
+shame.  I want to lift my voice to-night in loud and long and 
+indignant protest against the awful horror of mob violence, which 
+the other day reached the climax of its madness and infamy in a 
+deed as black and brutal and barbarous as can be found in the 
+annals of human crime.</q></p> 
+<p><q>"I have a right to speak on the subject, and I propose to be 
+heard.  The time has come for every lover of the South to set the 
+might of an angered and resolute manhood against the shame and 
+peril of the lynch demon.  These people whose fiendish glee taunts 
+their victim as his flesh crackles in the flames do not represent 
+the South.  I have not a syllable of apology for the sickening 
+crime they meant to avenge.  But it is high time we were learning 
+that lawlessness is no remedy for crime.  For one, I dare to 
+believe that the people of my section are able to cope with crime, 
+however treacherous and defiant, through their courts of justice; 
+and I plead for the masterful sway of a righteous and exalted 
+public sentiment that shall class lynch law in the category with 
+crime."</q></p> 
+<p>It is a notable and encouraging fact that no Negro educated in 
+any of our larger institutions of learning in the South has been 
+charged with any of the recent crimes connected with assaults upon 
+women.</p> 
+<p>If we go on making progress in the directions that I have 
+tried to indicate, more and more the South will be drawn to one 
+course.  As I have already said, it is not to the best interests of 
+the white race of the South that the Negro be deprived of any 
+privilege guaranteed him by the Constitution of the United States. 
+This would put upon the South a burden under which no government 
+could stand and prosper.  Every article in our Federal Constitution 
+was placed there with a view of stimulating and encouraging the 
+highest type of citizenship.  To continue to tax the Negro without 
+giving him the right to vote, as fast as he qualifies himself in 
+education and property for voting, would insure the alienation of 
+the affections of the Negro from the state in which he lives, and 
+would be the reversal of the fundamental principles of government 
+for which our states have stood.  In other ways than this the 
+injury would be as great to the white man as to the Negro. 
+Taxation without the hope of becoming voters would take away from 
+one third of the citizens of the Gulf states their interest in 
+government, and a stimulus to become taxpayers or to secure 
+education, and thus be able and willing to bear their share of the 
+cost of education and government, which now rests so heavily upon 
+the white taxpayers of the South.  The more the Negro is stimulated 
+and encouraged, the sooner will he be able to bear a larger share 
+of the burdens of the South.  We have recently had before us an 
+example, in the case of Spain, of a government that left a large 
+portion of its citizens in ignorance, and neglected their highest 
+interests. <pb n="587"/> </p> 
+<p>As I have said elsewhere: "There is no escape, through law of 
+man or God, from the inevitable."</p> 
+ 
+<lg type="poem"> 
+<l>'The laws of changeless justice bind</l> 
+<l>Oppressor with oppressed;</l> 
+<l>And close as sin and suffering joined</l> 
+<l>We march to fate abreast.'</l> 
+</lg> 
+ 
+<p> 
+Nearly sixteen millions of hands will aid you in pulling the load 
+upwards, or they will pull the load downwards against you.  We 
+shall constitute one third and more of the ignorance and crime of 
+the South, or one third of its intelligence and progress; we shall 
+contribute one third to the business and industrial prosperity of 
+the South, or we shall prove a veritable body of death, stagnating, 
+depressing, retarding every effort to advance the body politic.</p> 
+<p>My own feeling is that the South will gradually reach the 
+point where it will see the wisdom and the justice of enacting an 
+educational or property qualification, or both, for voting, that 
+shall be made to apply honestly to both races.  The industrial 
+development of the Negro in connection with education and Christian 
+character will help to hasten this end.  When this is done, we 
+shall have a foundation, in my opinion, upon which to build a 
+government that is honest, and that will be in a high degree 
+satisfactory to both races.</p> 
+<p>I do not suffer myself to take too optimistic a view of the 
+conditions in the South.  The problem is a large and serious one, 
+and will require the patient help, sympathy, and advice of our most 
+patriotic citizens, North and South, for years to come.  But I 
+believe that if the principles which I have tried to indicate are 
+followed, a solution of the question will come.  So long as the 
+Negro is permitted to get education, acquire property, and secure 
+employment, and is treated with respect in the business world, as 
+is now true in the greater part of the South, I shall have the 
+greatest faith in his working out his own destiny in our Southern 
+states.  The education and preparation for citizenship of nearly 
+eight millions of people is a tremendous task, and every lover of 
+humanity should count it a privilege to help in the solution of a 
+problem for which our whole country is responsible. 
+</p> 
+<closer><signed> Booker T. Washington.</signed></closer> 
+</div1> 
+ 
+</body> 
+</text> 
+</TEI.2> 

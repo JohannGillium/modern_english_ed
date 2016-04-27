@@ -1,0 +1,366 @@
+<?xml version="1.0"?>
+
+<?dlps id="DosOrph"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOnum SYSTEM "http://text.lib.virginia.edu/charent/iso-num.ent"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+
+]>
+
+<TEI.2 id="DosOrph">
+<teiHeader type="migrated" creator="Etext">
+<fileDesc>
+<titleStmt>
+<title type="main">The Little Orphan</title>
+<title type="sort">little orphan</title>
+<author>Dostoevsky, Fyodor</author>
+<respStmt>
+<resp>Creation of machine-readable version:</resp>
+<name>Judy Boss</name>
+<resp>Conversion to TEI.2-conformant markup:</resp>
+<name>University of Virginia Library Electronic Text Center.</name>
+</respStmt>
+</titleStmt>
+<extent>ca. <num type="kilobytes">14</num> kilobytes</extent>
+<publicationStmt>
+<publisher>University of Virginia Library</publisher>
+<pubPlace>Charlottesville, Virginia</pubPlace>
+<idno type="ETC">DosOrph</idno>
+<date value="1996">1996</date>
+<availability status="public">
+<p n="copyright">Copyright &copy; 1996 by the Rector and Visitors of the University of Virginia</p>
+<p n="access">Publicly accessible</p>
+</availability>
+<idno type="uva-pid">uva-lib:475876</idno>
+</publicationStmt>
+<seriesStmt>
+<title>University of Virginia Library, Text collection</title>
+<idno type="uva-set">UVA-LIB-Text</idno>
+</seriesStmt>
+<notesStmt>
+<note>
+<p>The spelling of the author's name has been changed in the
+header from Theodore Dostoivsky to Fyodor Dostoevsky, the standard
+used by the UVA Library</p>
+</note>
+</notesStmt>
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title type="main">The Little Orphan</title>
+<title level="j">The Cosmopolitan</title>
+<title type="sort">little orphan</title>
+<author>Fyodor Dostoevsky</author>
+</titleStmt>
+<editionStmt>
+<p>Volume II</p>
+</editionStmt>
+<extent>pp 390-392.</extent>
+<publicationStmt>
+<publisher>Schlicht &amp; Field, Co.</publisher>
+<pubPlace>Rochester, N.Y.</pubPlace>
+<date value="1887-02">February 1887</date>
+</publicationStmt>
+<notesStmt>
+<note>
+<p>Electronic text checked against microfilm, UVA Library call
+number s-147, reel 660</p>
+</note>
+</notesStmt>
+</biblFull>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Prepared for the University of Virginia Library Electronic Text
+Center.</p>
+</projectDesc>
+<editorialDecl>
+<p>All quotation marks retained as data.</p>
+<p>Spell-check and verification made
+against printed text using WordPerfect spell checker.</p>
+<p>All unambiguous end-of-line hyphens have been removed, and the
+trailing part of a word has been joined to the preceding line.</p>
+<p id="ETC">Keywords in the header are a local Electronic Text Center scheme
+to aid in establishing analytical groupings.</p>
+</editorialDecl>
+<refsDecl>
+<p>ID elements are given for each page element and are composed of the text's
+unique cryptogram and the given page number, as in AusEmma1 for page one of
+Jane Austen's Emma.</p>
+</refsDecl>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date value="1887">1887</date>
+</creation>
+<langUsage>
+<language id="eng" usage="main">English</language>
+</langUsage>
+<textClass>
+<keywords>
+<term>fiction; prose</term>
+<term>Literature in Translation</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change>
+<date value="1996-06">June 1996</date>
+<respStmt>
+<resp>corrector</resp>
+<name>Catherine Tousignant</name>
+</respStmt>
+<item>Added TEI-compatible header and tags</item>
+</change>
+<change>
+<date value="2005-06">June 2005</date>
+<respStmt>
+<resp>corrector</resp>
+<name>John Ivor Carlson</name>
+</respStmt>
+<item>Converted sgml to xml.</item>
+</change>
+<change>
+<date value="2007-09">September 2007</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Ethan Gruber, University of Virginia Library</name>
+</respStmt>
+<item>Converted XML markup from TEI Lite to uva-dl-tei (TEI P4 with local customizations).</item>
+</change>
+<change>
+<date value="2008-01">January 2008</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Greg Murray, University of Virginia Library</name>
+</respStmt>
+<item>Programmatically updated TEI header markup (but not header content) for minimal compliance with current QA requirements.</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text id="d1">
+<body id="d2">
+
+<div1 type="story" id="d3"> <pb n="390"/>
+<head>THE LITTLE ORPHAN.<ref target="n1">1</ref><lb/>
+BY THEODORE DOSTOIVSKY.</head>
+
+<div2 type="section" n="1" id="d4">
+<head>I.</head>
+
+<p>IN a large city, on Christmas eve in the biting cold, I see a young child,
+still quite young, six years old, perhaps even less; yet too young to be
+sent on the street begging, but assuredly destined to be sent in a year or
+two.
+
+</p><p>This child awakes one morning in a damp and frosty cellar.  He is
+wrapped in a kind of squalid dressing-gown and is shivering.  His breath
+issues from between his lips in white vapor; he is seated on a trunk; to
+pass the time he blows the breath from his mouth, and amuses himself in
+seeing it escape.  But he is very hungry.  Several times since morning he
+has drawn near the bed covered with a straw mattress as thin as gauze,
+where his mother lies sick, her head resting on a bundle of rags instead of
+a pillow.
+
+</p><p>How did she come there?  She came probably from a strange city
+and has fallen ill.  The proprietress of the miserable lodging was arrested
+two days ago, and carried to the police station; it is a holiday to-day, and
+the other tenants have gone out.  However, one of them has remained in
+bed for the last twenty-four hours, stupid with drink, not having waited
+for the holiday.
+
+</p><p>From another corner issue the complaints
+
+   <pb n="391"/>
+
+of an old woman of eighty years, laid up with rheumatism.  This old
+woman was formerly a children's nurse somewhere; now she is dying all
+alone.  She whines, moans, and growls at the little boy, who begins to
+be afraid to come near the corner where she lies with the death rattle
+in her throat.  He has found something to drink in the hallway, but he
+has not been able to lay his hand on the smallest crust of bread, and
+for the tenth time he comes to wake his mother.  He finishes by
+getting frightened in this darkness.
+
+</p><p>The evening is already late, and no one comes to kindle the fire.
+He finds, by feeling around, his mother's face, and is astonished that she
+no longer moves and that she has become as cold as the wall.
+
+</p><p>"It is so cold!" he thinks.
+
+</p><p>He remains some time without moving, his hand resting on the
+shoulder of the corpse.  Then he begins to blow in his fingers to warm
+them, and, happening to find his little cap on the bed, he looks softly for
+the door, and issues forth from the underground lodging.
+
+</p><p>He would have gone out sooner had he not been afraid of the big
+dog that barks all the day up there on the landing before their neighbor's
+door.
+
+</p><p>Oh! what a city! never before had he seen anything like it.  Down
+yonder from where he came, the nights are much darker.  There is only
+one lamp for the whole street; little low wooden houses, closed with
+shutters; in the street from the time it grows dark, no one; every one shut
+up at home: only a crowd of dogs that howl, hundreds, thousands of
+dogs, that howl and bark all the night.  But then, it used to be so warm
+there!  And he got something to eat.  Here, ah! how good it would be to
+have something to eat!  What a noise here, what an uproar!  What a great
+light, and what a crowd of people!  What horses, and what carriages!
+And the cold, the cold!  The bodies of the tired horses smoke with frost
+and their burning nostrils puff white clouds; their shoes ring on the
+pavement through the soft snow.  And how every body hustles every
+body else!  "Ah! how I would like to eat a little piece of something.  That
+is what makes my fingers ache so."</p>
+
+</div2><div2 type="section" n="2" id="d5">
+<head>II.</head>
+
+<p>A POLICEMAN just passes by, and turns his head so as not to see
+the child.
+
+</p><p>"Here is another street.  Oh! how wide it is!  I shall be crushed to
+death here, I know; how they all shout, how they run, how they roll
+along!  And the light, and the light!  And that, what is that?  Oh! what a
+big window pane!  And behind the pane, a room, and in the room a tree
+that goes up to the ceiling; it is the Christmas tree.  And what lights under
+the tree!  Such papers of gold, and such apples!  And all around dolls and
+little hobby-horses.  There are little children well-dressed, nice, and
+clean; they are laughing and playing, eating and drinking things.  There is
+a little girl going to dance with the little boy.  How pretty she is!  And
+there is music.  I can hear it through the glass."
+
+</p><p>The child looks, admires, and even laughs.  He feels no longer any
+pain in his fingers or feet.  The fingers of his hand have become all red,
+he cannot bend them any more, and it hurts him to move them.  But all at
+once, he feels that his fingers ache; he begins to cry, and goes away.  He
+perceives through another window another room, and again trees and
+cakes of all sorts on the table, red almonds and yellow ones.  Four
+beautiful ladies are sitting down, and when any body comes he is given
+some cake: and the door opens every minute, and many gentlemen enter.
+The little fellow crept forward, opened the door of a sudden, and went in.
+Oh! what a noise was made when they saw him, what confusion!
+Immediately a lady arose, put a kopeck in his hand, and opened herself
+the street door for him.  How frightened he was!</p>
+
+</div2><div2 type="section" n="3" id="d6">
+<head>III.</head>
+
+<p>THE kopeck has fallen from his hands, and rings on the steps of the
+stairs.  He was not able to tighten his little fingers enough to hold the
+coin.  The child went out running, and walked fast, fast.  Where was he
+going?  He did not know.  And he runs, runs, and blows in his hands.  He
+is troubled.  He feels so lonely, so frightened!  And suddenly, what is that
+again!  A crowd of people stand there and admire.
+
+</p><p>"A window! behind the pane, three pretty dolls attired in wee red
+and yellow dresses, and just exactly as though they were alive!  And that
+little old man sitting down, who seems to play the fiddle.  There are two
+others, too, standing up, who play on tiny violins, keeping time with their
+heads to the
+
+   <pb n="392"/>
+
+music.  They look at each other and their lips move.
+And they really speak?  Only they cannot be heard through the glass."
+
+</p><p>And the child first thinks that they are living, and when he
+comprehends that they are only dolls, he begins to laugh.  Never had he
+seen such dolls before, and he didn't know that there were any like that!
+He would like to cry, but those dolls are just too funny!</p>
+
+</div2><div2 type="section" n="4" id="d7">
+<head>IV.</head>
+
+<p>SUDDENLY he feels himself seized by the coat.  A big rough boy
+stands near him, who gives him a blow of his fist on the head, snatches
+his cap, and trips him up.
+
+</p><p>The child falls.  At the same time there is a shout; he remains a
+moment paralyzed with fear.  Then he springs up with a bound and runs,
+runs, darts under a gateway somewhere and hides himself in a court-yard
+behind a pile of wood.  He cowers and shivers in his fright; he can hardly
+breathe.
+
+</p><p>And suddenly he feels quite comfortable.  His little hands and feet
+don't hurt any more; he is warm, warm as though near a stove, and all his
+body trembles.
+
+</p><p>"Ah!  I am going asleep! how nice it is to have a sleep!  I shall stay
+a little while and then I will go and see the dolls again," thought the little
+fellow, and he smiled at the recollection of the dolls.  "They looked just
+as though they were alive!"
+
+</p><p>Then he hears his mother's song.  "Mamma, I am going to sleep.
+Ah! how nice it is here for sleeping!"
+
+</p><p>"Come to my house, little boy, to see the Christmas tree," said a
+soft voice.
+
+</p><p>He thought at first it was his mother; but no, it was not she.
+
+</p><p>Then who is calling him?  He does not see.  But some one stoops
+over him, and folds him in his arms in the darkness: and he stretches out
+his hand and&mdash;all at once&mdash;oh! what light!  Oh! what a Christmas tree!
+No, it is not a Christmas tree; he has never seen the like of it!
+
+</p><p>Where is he now?  All is resplendent, all is radiant, and dolls all
+around; but no, not dolls, little boys, little girls; only they are very bright.
+All of them circle round him; they fly.  They hug him, they take him and
+carry him away, and he is flying too.  And he sees his mother looking at
+him and laughing joyfully.
+
+</p><p>"Mamma! mamma! ah! how nice it is here!" cries her little boy to
+her.
+
+</p><p>And again he embraces the children, and would like very much to
+tell them about the dolls behind the window pane.  "Who are you, little
+girls?" he asks, laughing and fondling them.
+
+</p><p>It is the Christmas tree at Jesus's.
+
+</p><p>At Jesus's, that day, there is always a Christmas tree for little
+children that have none themselves.
+
+</p><p>And he learned that all these little boys and girls were children like
+himself, who had died like him.  Some had died of cold in the baskets
+abandoned at the doors of the public functionaries of St. Petersburg;
+others had died out at nurse in the foul hovels of the Tchaukhnas; others
+of hunger at the dry breasts of their mothers during the famine.  All were
+here now, all little angels now, all with Jesus, and He Himself among
+them, spreading his hands over them, blessing them and their sinful
+mothers.
+
+</p><p>And the mothers of these children are there too, apart, weeping;
+each recognizes her son or her daughter, and the children fly towards
+them, embrace them, wipe away the tears with their little hands, and beg
+them not to weep.
+
+</p><p>And below on the earth, the concierge in the morning found the
+wee corpse of the child, who had taken refuge in the courtyard.  Stiff and
+frozen behind the pile of wood it lay.
+
+</p><p>The mother was found too.  She died before him; both are reunited
+in Heaven in the Lord's house.</p>
+
+<note id="n1"><seg type="note-symbol">This</seg> <p>story is an excellent example of the style of M. Dostoivsky,
+the great Russian novelist, whose works are attracting so much attention
+in France.  It is without plot, like most of his stories, but it is a very
+powerful and realistic sketch.  The repetition of words and phrases
+noticeable in this story is common to Russian stories.  It is particularly
+noticeable in Count Leon Tolstoi's "Search for Happiness," a volume of
+short stories written for the Russian peasants.</p></note>
+</div2>
+</div1>
+
+</body>
+</text>
+</TEI.2>
+

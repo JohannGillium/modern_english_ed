@@ -1,0 +1,1528 @@
+<?xml version="1.0"?>
+
+<?dlps id="KeeMats"?>
+<?dlps page-images="none" figure-images="no"?>
+<?dlps transcription="other"?>
+
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % POSTKB "INCLUDE">
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-dl-tei/uva-dl-tei.dtd">
+<!ENTITY % ISOnum SYSTEM "http://text.lib.virginia.edu/charent/iso-num.ent"> %ISOnum;
+<!ENTITY % ISOlat2 SYSTEM "http://text.lib.virginia.edu/charent/iso-lat2.ent"> %ISOlat2;
+<!ENTITY % ISOpub SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+
+]>
+<TEI.2 id="KeeMats">
+<teiHeader type="migrated" creator="Etext">
+<fileDesc>
+<titleStmt>
+<title type="main">Matsukaze</title>
+<title type="sort">matsukaze</title>
+<author>Keene translation: Tyler, Royall</author>
+<respStmt>
+<resp>Creation of machine-readable version:</resp>
+<name>Charlotte Robertson and Winnie Chan</name>
+<resp>Creation of digital images:</resp>
+<name/>
+<resp>Conversion to TEI.2-conformant markup:</resp>
+<name>University of Virginia Library Electronic Text Center.</name>
+</respStmt>
+</titleStmt>
+<extent>ca. <num type="kilobytes">38</num> kilobytes</extent>
+<publicationStmt>
+<publisher>University of Virginia Library</publisher>
+<pubPlace>Charlottesville, Virginia</pubPlace>
+<idno type="ETC">KeeMats</idno>
+<date value="1997">1997</date>
+<availability status="public">
+<p n="copyright">Copyright &copy; 1997 by the Rector and Visitors of the University of Virginia</p>
+<p n="access">Publicly accessible</p>
+</availability>
+<idno type="uva-pid">uva-lib:476132</idno>
+</publicationStmt>
+<seriesStmt>
+<title>University of Virginia Library, Text collection</title>
+<idno type="uva-set">UVA-LIB-Text</idno>
+</seriesStmt>
+<seriesStmt>
+<p>Japanese Text Initiative</p>
+</seriesStmt>
+<notesStmt>
+<note>
+<p>Note: (ETC) The text has been given an id of KeeMats because this
+edition is commonly referred to as the
+Keene translation.</p>
+</note>
+</notesStmt>
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title type="main">Matsukaze</title>
+<title level="m">Twenty Plays of the N&omacr; Theatre</title>
+<title type="sort">matsukaze</title>
+<author>Royall Tyler</author>
+</titleStmt>
+<editionStmt>
+<p>1st Edition</p>
+</editionStmt>
+<extent>pp. 15-34</extent>
+<publicationStmt>
+<publisher>Columbia University Press</publisher>
+<pubPlace>New York</pubPlace>
+<idno type="callNo">Print copy consulted: UVa Library call number PL 782 .E5K4</idno>
+</publicationStmt>
+<seriesStmt>
+<p>Records of Civilization: Sources and Studies, number LXXXV</p>
+</seriesStmt>
+<notesStmt>
+<note>
+<p>From <hi rend="italic">
+<hi rend="bold">Twenty Plays of the No Theatre</hi>
+</hi> edited
+by Donald Keene.  Copyright (c) 1970 Columbia University Press.
+Reprinted with permission of the publisher.  To order the
+paperback edition of this book please call 1-800-944-8648 or
+click on to the Web page:  http://www.cc.columbia.edu/cu/cup.</p>
+</note>
+</notesStmt>
+</biblFull>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+</projectDesc>
+<editorialDecl>
+<p>All quotation marks retained as data.</p>
+<p>All unambiguous end-of-line hyphens have been removed, and the trailing part of a word has been joined to the preceding line.</p>
+<p>Keywords in the header are a local Electronic Text Center scheme to aid in establishing analytical groupings.</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date value="1970">1970</date>
+</creation>
+<langUsage>
+<language id="eng" usage="main">English</language>
+<language id="rj">Romaji</language>
+</langUsage>
+<textClass>
+<keywords>
+<term>drama; poetry; prose</term>
+<term>Literature in Translation</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change>
+<date value="1997-08">August 1997</date>
+<respStmt>
+<resp>corrector</resp>
+<name>Catherine Tousignant, Electronic Text Center</name>
+</respStmt>
+<item>Added milestones to correspond with TylMats.</item>
+</change>
+<change>
+<date value="1997-02">February 1997</date>
+<respStmt>
+<resp>corrector</resp>
+<name>Winnie Chan</name>
+</respStmt>
+<item>Added TEI header and tags.</item>
+</change>
+<change>
+<date value="2005-07">July 2005</date>
+<respStmt>
+<resp>Corrector</resp>
+<name>John Ivor Carlson</name>
+</respStmt>
+<item>Converted to XML and/or checked tags.</item>
+</change>
+<change>
+<date value="2007-09">September 2007</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Ethan Gruber, University of Virginia Library</name>
+</respStmt>
+<item>Converted XML markup from TEI Lite to uva-dl-tei (TEI P4 with local customizations).</item>
+</change>
+<change>
+<date value="2008-01">January 2008</date>
+<respStmt>
+<resp>Migration</resp>
+<name>Greg Murray, University of Virginia Library</name>
+</respStmt>
+<item>Programmatically updated TEI header markup (but not header content) for minimal compliance with current QA requirements.</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+
+<text id="d1">
+
+
+
+<front id="d2">
+<div1 type="introduction" id="d3"><pb n="18"/>
+<head>Introduction</head>
+<p>
+<hi rend="italic">Matsukaze</hi> is a play of the third category. The original
+text was by Kan'ami, but it was considerably reworked by Zeami. In its
+present form it is a masterpiece, and its popularity has never faltered.
+</p>
+
+<p>
+The word <hi rend="italic">matsukaze</hi> (wind in the pines) evokes
+for Japanese a feeling of exquisite solitude and melancholy. Suma Bay, the
+scene of the play, has similar associations, for it was the place where
+Genji was exiled. The account of Genji's exile, recounted in the "Exile at
+Suma" chapter of <hi rend="italic">The Tale of Genji</hi>, was apparently inspired
+by the exile of Ariwara no Yukihira (818-893), a famous poet, courtier,
+and scholar. Yukihira's poem on his exile, found in the
+<hi rend="italic">Kokinsh&umacr;</hi>, is quoted in the play. Another source for
+the play is a story told in the <hi rend="italic">Sensh&umacr;sh&omacr;</hi>, a
+thirteenth-century collection of tales: One day, when Yukihira was walking
+along a beach near Suma he met some men spearing fish. He asked where they
+lived, and they replied,</p>
+
+<q><lg type="poem">
+<l>"We who spend our lives</l>
+<l>By the shore where the white waves break</l>
+<l>Are fishermen's sons, and we have</l>
+<l>No home we can call our own."</l>
+</lg></q>
+
+<p>
+Yukihira was moved to tears.
+</p>
+
+<p>
+Most of <hi rend="italic">Matsukaze</hi>, however, appears to have been the invention
+
+<pb n="19"/>
+of the playwright. It gives an impression of youthful vigor, but is
+constructed with care. Matsukaze's "mad scene" is made almost inevitable,
+and the lack of surprise only heightens the dramatic power. Only at the
+conclusion of the play does the reader (or, even more so, the spectator)
+realize how completely he has been gripped by the lyrical and dramatic
+tension, when he is released from the dream by one of the most effective
+wordplays in literature: Matsukaze and her sister Murasame (Autumn Rain)
+withdraw, and suddenly the chorus restores their names to their original
+meanings. The ghosts dissolve back into nature, leaving us alone,
+listening only to the wind in the pines. No more beautiful awakening could
+be imagined.
+</p>
+<p>
+The play's imagery is built around the sea (salt, brine, the tide, waves,
+the sea wind), the moon, and pine trees. These, with the mountains looming
+in the background, compose an archetypal Japanese landscape. The moon,
+moreover, is a symbol of Buddhist enlightenment. Although it shines alone
+in the sky, it is reflected in many waters, just as the unified
+Buddha-nature is manifested in seemingly distinct beings.
+</p>
+<p>
+Suma, the scene of <hi rend="italic">Matsukaze</hi>, now lies within the city
+limits of Kobe. The play is performed by all schools of N&omacr;.
+</p>
+</div1>
+
+<div1 type="section" id="d4">
+<pb n="20"/>
+<list>
+<head>PERSONS</head>
+<item>AN ITINERANT PRIEST (waki)</item>
+<item>A VILLAGER
+(ky&omacr;gen)</item>
+<item>MATSUKAZE (shite)</item>
+<item>MURASAME (tsure)</item>
+</list>
+</div1>
+
+<div1 type="section" id="d5">
+<p>PLACE</p>
+<p>SUMA BAY IN SETTSU PROVINCE
+</p>
+<p>TIME</p>
+<p>AUTUMN, THE NINTH MONTH</p>
+</div1>
+</front>
+
+<body id="d6">
+
+
+
+<div1 type="play" id="d7"><pb n="21"/>
+<head>MATSUKAZE</head>
+
+<stage>
+The stage assistant places a stand with a pine sapling set into it at the
+front of the stage. The Priest enters and stands at the naming-place. He
+carries a rosary.
+</stage>
+
+<milestone unit="speech" n="Mats1"/>
+<sp>
+<speaker>Priest</speaker>
+<p>
+I am a priest who travels from province to province. Lately I have been in
+the Capital. I visited the famous sites and ancient ruins, not missing a
+one. Now I intend to make a pilgrimage to the western provinces.
+
+<stage>
+He faces forward.
+</stage>
+
+I have hurried, and here I am already at the Bay of Suma in Settsu
+Province.
+
+<stage>
+His attention is caught by pine tree.
+</stage>
+
+How strange! That pine on the beach has a curious look. There must be a
+story connected with it. I'll ask someone in the neighborhood.
+
+<stage>
+He faces the bridgeway.
+</stage>
+
+Do you live in Suma?
+</p>
+</sp>
+
+<stage>
+The Villager comes down the bridgeway to the first pine. He wears a short
+sword.
+</stage>
+
+<sp>
+<speaker>Villager</speaker>
+<p>
+Perhaps I am from Suma; but first tell me what you want.
+</p>
+</sp>
+
+<sp>
+<speaker>Priest</speaker>
+<p>
+I am a priest and I travel through the provinces. Here on the beach I see
+a solitary pine tree with a wooden tablet fixed to it, and a poem slip
+hanging from the tablet. Is there a story connected with the tree? Please
+tell me what you know.
+</p>
+</sp>
+
+<sp>
+<speaker>Villager</speaker>
+<p>
+The pine is linked with the memory of two fisher girls, Matsukaze and
+Murasame. Please say a prayer for them as you pass.
+</p>
+</sp>
+
+<sp>
+<speaker>Priest</speaker>
+<p>
+Thank you. I know nothing about them, but I will stop at the tree and say
+a prayer for them before I move on.
+</p>
+</sp>
+
+<sp>
+<speaker>Villager</speaker>
+<p>
+If I can be of further service, don't hesitate to ask.
+</p>
+</sp>
+
+<sp>
+<speaker>Priest</speaker>
+<p>
+Thank you for your kindness.
+</p>
+</sp>
+
+<sp>
+<speaker>Villager</speaker>
+<p>
+At your command, sir.
+</p>
+</sp>
+
+<stage>
+The Villager exits. The Priest goes to stage center and turns toward the
+pine tree.
+</stage>
+
+<milestone unit="speech" n="Mats2"/>
+<sp>
+<speaker>Priest</speaker>
+<p>
+So, this pine tree is linked with the memory of two fisher girls,
+Matsukaze and Murasame. It is sad! Though their bodies are buried in the
+ground, their names linger on. This lonely pine tree lingers on also, ever
+green and untouched
+
+
+
+<pb n="22"/>
+by autumn, their only memorial.
+<milestone unit="speech" n="Mats3"/>
+Ah! While I have been chanting sutras and
+invoking Amida Buddha for their repose, the sun, as always on autumn days,
+has quickly set. That village at the foot of the mountain is a long way.
+Perhaps I can spend the night in this fisherman's salt shed.
+</p>
+</sp>
+
+<stage>He kneels at the <hi rend="italic">waki</hi>-position. The stage
+assistant brings out the prop, a cart for carrying pails of brine, and
+sets it by the gazing-pillar. He places a pail on the cart.<lb/>
+Murasame enters and comes down the bridgeway as far as the first pine. She
+wears the <hi rend="italic">tsure</hi> mask. Matsukaze follows her
+and stops at the third pine. She wears the <hi rend="italic">wakaonna</hi> mask. Each carries a water pail. They face
+each other.
+</stage>
+
+<milestone unit="speech" n="Mats4"/>
+<sp>
+<speaker>Matsukaze and Murasame</speaker>
+<lg type="poem">
+<l>A brine cart wheeled along the beach</l>
+<l>Provides a meager livelihood:</l>
+<l>The sad world rolls</l>
+<l>Life by quickly and in misery!</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Mats5"/>
+<sp>
+<speaker>Murasame</speaker>
+<lg type="poem">
+<l>Here at Suma Bay</l>
+<l>The waves shatter at our feet,</l>
+<milestone unit="speech" n="Mats6"/>
+<l>And even the moonlight wets our sleeves</l>
+<l>With its tears of loneliness.</l>
+</lg>
+</sp>
+
+<stage>
+Murasame goes to stage center while Matsukaze moves to the <hi rend="italic">shite</hi>-position.
+</stage>
+
+<milestone unit="speech" n="Mats7"/>
+<sp>
+<speaker>Murasame</speaker>
+<lg type="poem">
+<l>The autumn winds are sad.</l>
+<l>When the Middle Counselor Yukihira</l>
+<l>Lived here back a little from the sea,</l>
+<milestone unit="speech" n="Mats8"/>
+<l>They inspired his poem,</l>
+<l>"Salt winds blowing from the mountain pass. . . ."
+<ref target="n22.1">[1]</ref></l>
+<l>On the beach, night after night,</l>
+<l>Waves thunder at our door;</l>
+
+
+<pb n="23"/>
+<l>And on our long walks to the village</l>
+<l>We've no companion but the moon.
+<ref target="n23.2">[2]</ref></l>
+<milestone unit="speech" n="Mats9"/>
+<l>Our toil, like all of life, is dreary,</l>
+<l>But none could be more bleak than ours.</l>
+<milestone unit="speech" n="Mats10"/>
+<l>A skiff cannot cross the sea,</l>
+<l>Nor we this dream world.</l>
+<l>Do we exist, even?</l>
+<l>Like foam on the salt sea,</l>
+<l>We draw a cart,
+<ref target="n23.3">[3]</ref></l>
+<l>friendless and alone,</l>
+<l>Poor fisher girls whose sleeves are wet</l>
+<l>With endless spray, and tears</l>
+<l>From our hearts' unanswered longing.</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Mats11"/>
+<sp>
+<speaker>Chorus</speaker>
+<lg type="poem">
+<l>Our life is so hard to bear</l>
+<l>That we envy the pure moon
+<ref target="n23.4">[4]</ref></l>
+<l>Now rising with the tide.</l>
+<l>But come, let us dip brine,</l>
+<l>Dip brine from the rising tide!</l>
+<l>Our reflections seem to shame us!</l>
+</lg>
+
+<stage>
+They look down as if catching a glimpse of their refiections in the water.
+The movement of their heads "clouds" the expression on their masks, making
+it seem sad.
+</stage>
+
+<milestone unit="speech" n="Mats12"/>
+<lg type="poem">
+<l>Yes, they shame us!</l>
+<l>Here, where we shrink from men's eyes,</l>
+<l>Drawing our timorous cart;</l>
+<l>The withdrawing tide</l>
+<l>Leaves stranded pools behind.</l>
+<l>How long do they remain?</l>
+<l>If we were the dew on grassy fields,</l>
+<l>We would vanish with the sun.</l>
+<l>But we are sea tangle,</l>
+<l>Washed up on the shore,</l>
+<l>Raked into heaps by the fishermen,</l>
+<l>Fated to be discarded, useless,</l>
+<l>Withered and rotting,</l>
+<l>Like our trailing sleeves,</l>
+<l>Like our trailing sleeves</l>
+</lg>
+
+<stage>
+They look down again.
+</stage>
+
+<milestone unit="speech" n="Mats13"/>
+<lg type="poem">
+<l>Endlessly familiar, still how lovely</l>
+<l>The twilight at Suma!
+<ref target="n23.5">[5]</ref></l>
+
+
+<pb n="24"/>
+<l>The fishermen call out in muffled voices;</l>
+<milestone unit="speech" n="Mats14"/>
+<l>At sea, the small boats loom dimly.</l>
+<l>Across the faintly glowing face of the moon</l>
+<l>Flights of wild geese streak,</l>
+<l>And plovers flock below along the shore.</l>
+<l>Fall gales and stiff sea winds:</l>
+<l>These are things, in such a place,</l>
+<l>That truly belong to autumn.</l>
+<l>But oh, the terrible, lonely nights!</l>
+</lg>
+</sp>
+
+<stage>
+They hide their faces.
+</stage>
+
+<milestone unit="speech" n="Mats15"/>
+<sp>
+<speaker>Matsukaze</speaker>
+<lg type="poem">
+<l>Come, dip the brine</l>
+</lg>
+</sp>
+
+<sp>
+<speaker>Murasame</speaker>
+<lg type="poem">
+<l>Where the seas flood and fall.</l>
+<milestone unit="speech" n="Mats16"/>
+<l>Let us tie our sleeves back to our shoulders</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Mats17"/>
+<sp>
+<speaker>Matsukaze</speaker>
+<lg type="poem">
+<l>Think only, "Dip the brine."</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Mats18"/>
+<sp>
+<speaker>Murasame</speaker>
+<lg type="poem">
+<l>We ready ourselves for the task,</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Mats19"/>
+<sp>
+<speaker>Matsukaze</speaker>
+<lg type="poem">
+<l>But for women, this cart is too hard.</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Mats20"/>
+<sp>
+<speaker>Chorus</speaker>
+<lg type="poem">
+<l>While the rough breakers surge and fall,</l>
+</lg>
+
+<stage>
+Murasame moves upstage to stand beside Matsukaze.
+</stage>
+
+<lg type="poem">
+<l>While the rough breakers surge and fall,</l>
+<l>And cranes among the reeds</l>
+<l>Fly up with sharp cries.</l>
+<l>The four winds add their wailing.</l>
+<l>How shall we pass the cold night?</l>
+</lg>
+
+<stage>
+They look up.
+</stage>
+
+<lg type="poem">
+<l>The late moon is so brilliant&mdash;</l>
+<l>What we dip is its reflection!</l>
+<l>Smoke from the salt fires</l>
+<l>May cloud the moon take care!</l>
+<l>Are we always to spend only</l>
+<l>The sad autumns of fishermen?</l>
+<l>At Ojima in Matsushima
+<ref target="n24.6">[6]</ref></l>
+</lg>
+
+<stage>
+Matsukaze halfkneels by the brine cart and mimes dipping with her fan.
+</stage>
+
+<lg>
+<l>The fisherfolk, like us,</l>
+<l>Delight less in the moon</l>
+<l>Than in the dipping of its reflection;</l>
+<l>There they take delight in dipping</l>
+<l>Reflections of the moon.</l>
+</lg>
+
+<stage>
+Matsukaze returns to the shite-position.
+</stage>
+
+
+<pb n="25"/>
+<milestone unit="speech" n="Mats21"/>
+<lg type="poem">
+<l>We haul our brine from afar,</l>
+<l>As in far-famed Michinoku
+<ref target="n25.7">[7]</ref></l>
+<l>And at the salt kilns of Chika&mdash;</l>
+<l>Chika, whose name means "close by."</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Mats22"/>
+<sp>
+<speaker>Matsukaze</speaker>
+<lg type="poem">
+<l>Humble folk hauled wood for salt fires</l>
+<l>At the ebb tide on Akogi Shore;
+<ref target="n25.8">[8]</ref></l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Mats23"/>
+<sp>
+<speaker>Chorus</speaker>
+<lg type="poem">
+<l>On Ise Bay there's Twice-See Beach&mdash;</l>
+<l>Oh, could I live my life again!
+<ref target="n25.9">[9]</ref></l>
+</lg>
+</sp>
+
+<stage>
+Matsukaze looks off into the distance.
+</stage>
+
+<milestone unit="speech" n="Mats24"/>
+<sp>
+<speaker>Matsukaze</speaker>
+<lg type="poem">
+<l>On days when pine groves stand hazy,</l>
+<l>And the sea lanes draw back</l>
+<l>From the coast at Narumi
+<ref target="n25.10">[10]</ref>&mdash;</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Mats25"/>
+<sp>
+<speaker>Chorus</speaker>
+<lg type="poem">
+<l>You speak of Narumi; this is Naruo,</l>
+<l>Where pines cut off the moonlight</l>
+<l>From the reed-thatched roofs of Ashinoya.
+<ref target="n25.11">[11]</ref></l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Mats26"/>
+<sp>
+<speaker>Matsukaze</speaker>
+<lg type="poem">
+<l>Who is to tell of our unhappiness</l>
+<l>Dipping brine at Nada?
+<ref target="n25.12">[12]</ref></l>
+<milestone unit="speech" n="Mats27"/>
+<l>With boxwood combs set in our hair
+<ref target="n25.13">[13]</ref></l>
+<l>From rushing seas we draw the brine,</l>
+<l>Oh look! I have the moon in my pail!</l>
+</lg>
+</sp>
+
+<stage>
+Murasame kneels before the brine cart and places her pail on it.
+Matsukaze, still standing, looks into her pail.
+</stage>
+
+<milestone unit="speech" n="Mats28"/>
+<sp>
+<speaker>Matsukaze</speaker>
+<lg type="poem">
+<l>In my pail too I hold the moon!</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Mats29"/>
+<sp>
+<speaker>Chorus</speaker>
+<lg type="poem">
+<l>How lovely! A moon here too!</l>
+</lg>
+</sp>
+
+<stage>
+Murasame picks up the rope tied to the cart and gives it to Matsukaze,
+then moves to the shite-position. Matsukaze
+looks up.
+</stage>
+
+<milestone unit="speech" n="Mats30"/>
+<sp>
+<speaker>Matsukaze</speaker>
+<lg type="poem">
+<l>The moon above is one;</l>
+<milestone unit="speech" n="Mats31"/>
+<l>Below it has two, no, three reflections</l>
+</lg>
+
+<stage>
+She looks into both pails.
+</stage>
+
+<lg type="poem">
+<l>Which shine in the flood tide tonight,</l>
+</lg>
+
+<stage>
+She pulls the cart to a spot before the musicians.
+</stage>
+
+<lg type="poem">
+<l>And on our cart we load the moon!</l>
+<l>No, life is not all misery</l>
+<l>Here by the sea lanes.</l>
+</lg>
+</sp>
+
+<stage>
+She drops the rope. The stage assistant removes the cart. Matsukaze sits
+on a low stool and Murasame kneels beside her, a sign that the two women
+are resting inside their hut. The Priest rises.
+</stage>
+
+
+<pb n="26"/>
+<milestone unit="speech" n="Mats34"/>
+<sp>
+<speaker>Priest</speaker>
+<p>
+The owner of the salt shed has returned. I shall ask for a night's
+lodging.
+<stage>
+to Matsukaze and Murasame
+</stage>
+I beg your pardon. Might I come inside?
+</p>
+</sp>
+
+<sp>
+<speaker>Murasame</speaker>
+<p>
+<stage>
+standing and coming forward a little.
+</stage>
+Who might you be?
+</p>
+</sp>
+
+<milestone unit="speech" n="Mats34"/>
+<sp>
+<speaker>Priest</speaker>
+<p>
+A traveler, overtaken by night on my journey. I should like to ask lodging
+for the night.
+</p>
+</sp>
+
+<milestone unit="speech" n="Mats35"/>
+<sp>
+<speaker>Murasame</speaker>
+<p>
+Wait here. I must ask the owner.
+<stage>
+She kneels before Matsukaze.
+</stage>
+A traveler outside asks to come in and spend the night.
+</p>
+</sp>
+
+<milestone unit="speech" n="Mats36"/>
+<sp>
+<speaker>Matsukaze</speaker>
+<p>
+That is little enough but our hut is so wretched we cannot ask him in.
+Please tell him so.
+</p>
+</sp>
+
+<milestone unit="speech" n="Mats37"/>
+<sp>
+<speaker>Murasame</speaker>
+<p>
+<stage>
+standing, to the Priest.
+</stage>
+I have spoken to the owner. She says the house is too wretched to put
+anyone up.
+</p>
+</sp>
+
+<milestone unit="speech" n="Mats38"/>
+<sp>
+<speaker>Priest</speaker>
+<p>
+I understand those feelings perfectly, but poverty makes no difference at
+all to me. I am only a priest. Please say I beg her to let me spend the
+night.
+</p>
+</sp>
+
+<sp>
+<speaker>Murasame</speaker>
+<p>
+No, we really cannot put you up.
+</p>
+</sp>
+
+<milestone unit="speech" n="Mats40"/>
+<sp>
+<speaker>Matsukaze</speaker>
+<stage>
+to Murasame.
+</stage>
+<lg type="poem">
+<l>Wait!</l>
+<l>I see in the moonlight</l>
+<l>One who has renounced the world.</l>
+<l>He will not mind a fisherman's hut,</l>
+<l>With its rough pine pillars and bamboo fence;</l>
+<l>I believe it is very cold tonight,</l>
+<l>So let him come in and warm himself</l>
+<l>At our sad fire of rushes.</l>
+<l>You may tell him that.</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Mats41"/>
+<sp>
+<speaker>Murasame</speaker>
+<p>
+Please come in.
+</p>
+</sp>
+
+<milestone unit="speech" n="Mats42"/>
+<sp>
+<speaker>Priest</speaker>
+<p>
+Thank you very much. Forgive me for intruding.
+</p>
+</sp>
+
+<stage>
+He takes a few steps forward and kneels. Murasame goes back beside
+Matsukaze.
+</stage>
+
+<milestone unit="speech" n="Mats43"/>
+<sp>
+<speaker>Matsukaze</speaker>
+<p>
+I wished from the beginning to invite you in, but this place is so poor I
+felt I must refuse.
+</p>
+</sp>
+
+<milestone unit="speech" n="Mats44"/>
+<sp>
+<speaker>Priest</speaker>
+<p>You are very kind. I am a priest and a traveler, and never stay anywhere
+very long. Why prefer one lodging to another? In any case, what
+sensitive person would not prefer to live
+
+
+<pb n="27"/>
+
+here at Suma, in the quiet solitude. Yukihira wrote,</p>
+
+<lg type="poem">
+<l>"If ever anyone</l>
+<l>Chances to ask for me,</l>
+<l>Say I live alone,</l>
+<l>Soaked by the dripping seaweed</l>
+<l>On the shore of Suma Bay."
+<ref target="n27.14">[14]</ref></l>
+</lg>
+
+<stage>
+He looks at the pine tree.
+</stage>
+
+<p>A while ago I asked someone the meaning of that solitary pine on the
+beach. I was told it grows there in memory of two fisher girls, Matsukaze
+and Murasame. There is no connection between them and me, but I went to
+the pine anyway and said a prayer for them.
+
+<stage>
+Matsukaze and Murasame weep. The Priest stares at them.
+</stage>
+
+This is strange! They seem distressed at the mention of Matsukaze and
+Murasame. Why?
+</p>
+</sp>
+
+<milestone unit="speech" n="Mats45"/>
+<sp>
+<speaker>Matsukaze and Murasame</speaker>
+<lg type="poem">
+<l>Truly, when a grief is hidden,</l>
+<l>Still, signs of it will show.</l>
+<l>His poem, "If ever anyone</l>
+<l>Chances to ask for me,"</l>
+<l>Filled us with memories which are far too fond.</l>
+<l>Tears of attachment to the world</l>
+<l>Wet our sleeves once again.</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Mats46"/>
+<sp>
+<speaker>Priest</speaker>
+<p>
+Tears of attachment to the world? You speak as though you are no longer of
+the world. Yukihira's poem overcame you with memories. More and more
+bewildering! Please, both of you, tell me who you are.
+</p>
+</sp>
+
+<milestone unit="speech" n="Mats47"/>
+<sp>
+<speaker>Matsukaze and Murasame</speaker>
+<lg type="poem">
+<l>We would tell you our names,</l>
+<l>But we are too ashamed!</l>
+<l>No one, ever,</l>
+<l>Has chanced to ask for us,</l>
+<l>Long dead as we are,</l>
+<l>And so steeped in longing</l>
+<l>For the world by Suma Bay</l>
+<l>That pain has taught us nothing.</l>
+<l>Ah, the sting of regret!</l>
+<l>But having said this,</l>
+<l>Why should we hide our names any longer?</l>
+<l>At twilight you said a prayer</l>
+<l>By a mossy grave under the pine</l>
+<l>For two fisher girls,</l>
+
+
+<pb n="28"/>
+<l>Matsukaze and Murasame.</l>
+<l>We are their ghosts, come to you.</l>
+<l>When Yukihira was here he whiled away</l>
+<l>Three years of weary exile</l>
+<l>Aboard his pleasure boat,</l>
+<l>His heart refreshed</l>
+<l>By the moon of Suma Bay.</l>
+<l>There were, among the fisher girls</l>
+<l>Who hauled brine each evening,</l>
+<l>Two sisters whom he chose for his favors.</l>
+<l>"Names to fit the season!"</l>
+<l>He said, calling us</l>
+<l>Pine Wind and Autumn Rain.</l>
+<l>We had been Suma fisher girls,</l>
+<l>Accustomed to the moon,</l>
+<milestone unit="speech" n="Mats48"/>
+<l>But he changed our salt makers' clothing</l>
+<milestone unit="speech" n="Mats49"/>
+<l>To damask robes,</l>
+<l>Burnt with the scent of faint perfumes.
+<ref target="n28.15">[15]</ref></l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Mats50"/>
+<sp>
+<speaker>Matsukaze</speaker>
+<lg type="poem">
+<l>Then, three years later,</l>
+<l>Yukihira Returned to the Capital.</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Mats51"/>
+<sp>
+<speaker>Murasame</speaker>
+<lg type="poem">
+<l>Soon, we heard he had died, oh so young!</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Mats52OB"/>
+<sp>
+<speaker>Matsukaze</speaker>
+<lg type="poem">
+<l>How we both loved him!</l>
+<l>Now the message we pined for</l>
+<l>Would never, never come.</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Mats53"/>
+<sp>
+<speaker>Chorus</speaker>
+<lg type="poem">
+<l>Pine Wind and Autumn Rain</l>
+<l>Both drenched their sleeves with the tears</l>
+<l>Of hopeless love beyond their station,</l>
+<l>Fisher girls of Suma.</l>
+<l>Our sin is deep, o priest.</l>
+<l>Pray for us, we beg of you!</l>
+</lg>
+
+<stage>
+They press their palms together in supplication.
+</stage>
+
+<milestone unit="speech" n="Mats54"/>
+<lg type="poem">
+<l>Our love grew rank as wild grasses;</l>
+<l>Tears and love ran wild.</l>
+<l>It was madness that touched us.</l>
+<l>Despite spring purification,</l>
+<l>Performed in our old robes,</l>
+<l>Despite prayers inscribed on paper streamers
+<ref target="n28.16">[12]</ref></l>
+<l>The gods refused us their help.</l>
+<l>We were left to melt away</l>
+
+
+<pb n="29"/>
+<l>Like foam on the waves,</l>
+<l>And, in misery, we died.</l>
+</lg>
+
+<stage>
+Matsukaze looks down, shading her mask.
+</stage>
+
+<milestone unit="speech" n="Mats55"/>
+<lg type="poem">
+<l>Alas! How the past evokes our longing!</l>
+<l>Yukihira, the Middle Counselor,</l>
+</lg>
+
+<stage>
+The stage assistant puts a man's cloak and court hat in Matsukaze's left
+hand.
+</stage>
+
+<lg type="poem">
+<l>Lived three years here by Suma Bay.</l>
+<l>Before he returned to the Capital,</l>
+<l>He left us these keepsakes of his stay:</l>
+<l>A court hat and a hunting cloak.</l>
+<l>Each time we see them,</l>
+</lg>
+
+<stage>
+She looks at the cloak.
+</stage>
+
+<lg type="poem">
+<l>Our love grows again,</l>
+<l>And gathers like dew</l>
+<l>On the tip of a leaf</l>
+<l>So that there's no forgetting,</l>
+<l>Not for an instant.</l>
+<l>Oh endless misery!</l>
+</lg>
+
+<stage>
+She places the cloak in her lap.
+</stage>
+
+<lg type="poem">
+<l>"This keepsake</l>
+<l>Is my enemy now;</l>
+<l>For without it</l>
+</lg>
+
+<stage>
+She lifts the cloak.
+</stage>
+
+<lg type="poem">
+<l>I might forget."
+<ref target="n29.17">[17]</ref></l>
+</lg>
+
+<stage>
+She stares at the cloak.
+</stage>
+
+<lg type="poem">
+<l>The poem says that</l>
+<l>And it's true:</l>
+<l>My anguish only deepens.</l>
+</lg>
+
+<stage>
+She weeps.
+</stage>
+</sp>
+
+<milestone unit="speech" n="Mats56"/>
+<sp>
+<speaker>Matsukaze</speaker>
+<lg type="poem">
+<l>Each night before I go to sleep,</l>
+<l>I take off the hunting cloak</l>
+</lg>
+</sp>
+
+<sp>
+<speaker>Chorus</speaker>
+<lg type="poem">
+<l>And hang it up. . ."
+<ref target="n29.18">[18]</ref></l>
+</lg>
+
+<stage>
+The keepsakes in her hand, she stands and, as in a trance, takes a few
+steps toward the gazing-pillar.
+</stage>
+
+<milestone unit="speech" n="Mats57"/>
+<lg type="poem">
+<l>I hung all my hopes</l>
+<l>On living in the same work with him,</l>
+<l>But being here makes no sense at all</l>
+<l>And these keepsakes are nothing.</l>
+</lg>
+
+
+<pb n="30"/>
+<stage>
+She starts to drop the cloak, only to cradle it in her arms and press it
+to her.
+</stage>
+
+<lg type="poem">
+<l>I drop it, but I cannot let it lie;</l>
+<l>So I take it up again</l>
+<l>To see his face before me yet once more.</l>
+</lg>
+
+<stage>
+She turns to her right and goes toward the naming-place, then stares down
+the bridgeway as though something were coming after her.
+</stage>
+
+<lg type="poem">
+<l>"Awake or asleep,</l>
+<l>From my pillow, from the foot of my bed,</l>
+<l>Love rushes in upon me."
+<ref target="n30.19">[l9]</ref></l>
+<l>Helplessly I sink down,</l>
+<l>Weeping in agony.</l>
+</lg>
+</sp>
+
+<stage>
+She sits at the <hi rend="italic">shite</hi>-position, weeping. The
+stage assistant helps her take off her outer robe and replace it with the
+cloak. He also helps tie on the court hat.
+</stage>
+
+<milestone unit="speech" n="Mats58"/>
+<sp>
+<speaker>Matsukaze</speaker>
+<lg type="poem">
+<l>The River of Three Fords
+<ref target="n30.20">[20]</ref></l>
+<l>Has gloomy shallows</l>
+<l>Of never-ending tears;</l>
+<l>I found, even there,</l>
+<l>An abyss of wildest love.</l>
+<l>Oh joy! Look! Over there!</l>
+<l>Yukihira has returned!</l>
+</lg>
+
+<stage>
+She rises, staring at the pine tree.
+</stage>
+
+<lg type="poem">
+<l>He calls me by my name, Pine Wind!</l>
+<l>I am coming!</l>
+</lg>
+</sp>
+
+<stage>
+She goes to the tree. Murasarne hurriedly rises and follows. She catches
+Matsukaze's sleeve.
+</stage>
+
+<milestone unit="speech" n="Mats59"/>
+<sp>
+<speaker>Murasame</speaker>
+<lg type="poem">
+<l>For shame! For such thoughts as these</l>
+<l>You are lost in the sin of passion.</l>
+<l>All the delusions that held you in life&mdash;</l>
+<l>None forgotten!</l>
+</lg>
+
+<stage>
+Both step back from the tree.
+</stage>
+
+<lg type="poem">
+<l>That is a pine tree.</l>
+<l>And Yukihira is not here.</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Mats60"/>
+<sp>
+<speaker>Matsukaze</speaker>
+<lg type="poem">
+<l>You are talking nonsense!</l>
+</lg>
+
+<stage>
+She looks at the pine tree.
+</stage>
+
+<lg type="poem">
+<l>This pine is Yukihira!</l>
+<l>"Though we may part for a time,</l>
+
+
+<pb n="31"/>
+<l>If I hear you are pining for me,</l>
+<l>I'll hurry back."
+<ref target="n31.21">[21]</ref></l>
+<l>Have you forgotten those words he wrote?</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Mats61"/>
+<sp>
+<speaker>Murasame</speaker>
+<lg type="poem">
+<l>Yes, I had forgotten!</l>
+<l>He said, "Though we may part for a time,</l>
+<l>If you pine, I will return to you."</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Mats62"/>
+<sp>
+<speaker>Matsukaze</speaker>
+<lg type="poem">
+<l>I have not forgotten.</l>
+<l>And I wait for the pine wind</l>
+<l>To whisper word of his coming.</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Mats63"/>
+<sp>
+<speaker>Murasame</speaker>
+<lg type="poem">
+<l>If that word should ever come,</l>
+<l>My sleeves for a while</l>
+<l>Would be wet with autumn rain.</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Mats64"/>
+<sp>
+<speaker>Matsukaze</speaker>
+<lg type="poem">
+<l>So we await him. He will come,</l>
+<l>Constant ever, green as a pine.</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Mats65"/>
+<sp>
+<speaker>Murasame</speaker>
+<lg type="poem">
+<l>Yes, we can trust</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Mats66"/>
+<sp>
+<speaker>Matsukaze</speaker>
+<lg type="poem">
+<l rend="indent">his poem:</l>
+</lg>
+</sp>
+
+<milestone unit="speech" n="Mats67"/>
+<sp>
+<speaker>Chorus</speaker>
+<lg type="poem">
+<l>"I have gone away</l>
+</lg>
+</sp>
+
+<stage>
+Murasame, weeping, kneels before the flute player. Matsukaze goes to the
+first pine on the bridgeway, then returns to the stage and dances.
+</stage>
+
+<milestone unit="speech" n="Mats68"/>
+<sp>
+<speaker>Matsukaze</speaker>
+<lg type="poem">
+<l>Into the mountains of Inaba,</l>
+<l>Covered with pines,</l>
+<l>But if I hear you pine,</l>
+<l>I shall come back at once."
+<ref target="n31.22">[22]</ref></l>
+<l>Those are the mountain pines</l>
+<l>Of distant Inaba,</l>
+</lg>
+
+<stage>
+She looks up the bridgeway.
+</stage>
+
+<milestone unit="speech" n="Mats69"/>
+<lg type="poem">
+<l>And these are the pines</l>
+<l>On the curving Suma shore.</l>
+<l>Here our dear prince once lived.</l>
+<l>If Yukihira comes again,</l>
+<l>I shall go stand under the tree</l>
+</lg>
+
+<stage>
+She approaches the tree.
+</stage>
+
+<lg type="poem">
+<l>Bent by the sea-wind,</l>
+<l>And, tenderly, tell him</l>
+</lg>
+
+<stage>
+She stands next to the tree.
+</stage>
+
+<lg type="poem">
+<l>I love him still</l>
+</lg>
+</sp>
+
+<stage>
+She steps back a little and weeps. Then she circles the tree, her dancing
+suggesting madness.
+</stage>
+
+
+<pb n="32"/>
+<milestone unit="speech" n="Mats70"/>
+<sp>
+<speaker>Chorus</speaker>
+<lg type="poem">
+<l>Madly the gale howls through the pines,</l>
+<l>And breakers crash in Suma Bay;</l>
+<l>Through the frenzied night</l>
+<l>We have come to you</l>
+<l>In a dream of deluded passion.</l>
+<l>Pray for usl Pray for our rest!</l>
+</lg>
+
+<stage>
+At stage center, Matsukaze presses her palms together in supplication.
+</stage>
+
+<lg type="poem">
+<l>Now we take our leave.</l>
+<l>The retreating waves</l>
+<l>Hiss far away, and a wind sweeps down</l>
+<l>From the mountain to Suma Bay.</l>
+<l>The cocks are crowing on the barrier road.</l>
+<l>Your dream is over. Day has come.</l>
+<l>Last night you heard the autumn rain;</l>
+<l>This morning all that is left</l>
+<l>Is the wind in the pines,</l>
+<l>The wind in the pines.</l>
+</lg>
+</sp>
+
+</div1>
+</body>
+
+<back id="d8">
+
+
+<div1 type="notes" id="d9"><pb n="33"/>
+<head>Notes</head>
+
+<note id="n22.1"><seg type="note-symbol">1.</seg> <p> From the poem by Yukihira, no. 876 in the
+<hi rend="italic">Shinkokinsh&umacr;</hi>: "The sleeves of the traveler have
+turned cold; the wind from Suma Bay blows through the pass."
+</p></note>
+
+<note id="n23.2"><seg type="note-symbol">2.</seg> <p> A modified quotation from the poem by H&omacr;ky&omacr; Ch&umacr;mei,
+no. 187 in the <hi rend="italic">Kin'y&omacr;sh&umacr;</hi>: "Pillow of
+grass&mdash;as I sleep on my journey I realize I have no companion but the
+moon."
+</p></note>
+
+<note id="n23.3"><seg type="note-symbol">3. </seg> <p>The words "salt sea," which can also be translated "brine," lead to
+mention of the brine cart even though the cart does not logically belong
+in the context.
+</p></note>
+
+<note id="n23.4"><seg type="note-symbol">4.</seg> <p> From the poem by Fujiwara Takamitsu, no. 435 in the
+<hi rend="italic">Sh&umacr;ish&umacr;</hi>: "In this world which seems difficult
+to pass through, how I envy the pure moon!"
+</p></note>
+
+<note id="n23.5"><seg type="note-symbol">5.</seg> <p> The following description is generally inspired by the "Exile at Suma"
+chapter of <hi rend="italic">The Tale of Genji</hi>.
+</p></note>
+
+<note id="n24.6"><seg type="note-symbol">6.</seg> <p> Ojima is one of the islands at Matsushima, a place renowned for its
+scenic beauty. Both names are conventionally associated in poetry with
+<hi rend="italic">ama</hi>, fisherwomen.
+</p></note>
+
+<note id="n25.7"><seg type="note-symbol">7.</seg> <p> The following passage is a <hi rend="italic">tsukushi</hi>, or
+"exhaustive enumeration," of place-names associated with the sea,
+including allusions and plays on words. This passage was apparently
+borrowed from an older work, a play called <hi rend="italic">T&omacr;ei</hi> that
+was set by Ashinoya Bay. Michinoku is a general name for the northern end
+of the island of Honshu. Chika was another name for Shiogama ("Salt
+Kiln"), and sounds like the word meaning "near."
+</p></note>
+
+<note id="n25.8"><seg type="note-symbol">8.</seg> <p> Akogi is the name of a stretch of shore on Ise Bay. The pulling in of
+the nets and the hauling of the wood for the salt kilns at Akogi were
+frequently mentioned in poetry.
+</p></note>
+
+<note id="n25.9"><seg type="note-symbol">9.</seg> <p> Futami-ga-ura (Twice-See Beach) is a word evocative of Ise and often
+used in poetry for the meaning of its name.
+</p></note>
+
+<note id="n25.10"><seg type="note-symbol">10.</seg> <p> Narumi was often mentioned in poetry because of its dry flats that
+appeared at low tide.
+</p></note>
+
+<note id="n25.11"><seg type="note-symbol">11.</seg> <p> Ashinoya (modern Ashiya) and Naruo are two places near Suma. Ashinoya
+means literally "reed house."
+</p></note>
+
+<note id="n25.12"><seg type="note-symbol">12.</seg> <p> Derived from the poem in the 87th episode of the <hi rend="italic">Ise
+Monogatari</hi>: "At Nada by Ashinoya, I have no respite from boiling
+brine for salt; I have come without even putting a boxwood comb in my
+hair."
+</p></note>
+
+<note id="n25.13"><seg type="note-symbol">13.</seg> <p> The line recalls the poem quoted in note 12, but it is used because
+
+
+<pb n="34"/>
+of the pivot-word <hi rend="italic">tsuge no</hi>, "of boxwood," and
+<hi rend="italic">tsuge</hi>, "to inform." Similarly, <hi rend="italic">kushi sashi</hi>, "Setting a comb (in the hair)," leads
+into <hi rend="italic">sashi-kuru nami</hi>, "in-rushing waves."
+</p></note>
+
+<note id="n27.14"><seg type="note-symbol">14.</seg> <p> Poem no. 962 in the <hi rend="italic">Kokinsh&umacr;</hi>.
+</p></note>
+
+<note id="n28.15"><seg type="note-symbol">15.</seg> <p> Derived from a poem by Fujiwara Tameuji, no. 361 in the
+<hi rend="italic">Shingo-sensh&umacr;</hi>: "The fishermen of Suma are accustomed
+to the moon, spending the autumn in clothes wet with waves blown by the
+salt wind."
+</p></note>
+
+<note id="n28.16"><seg type="note-symbol">16.</seg> <p> Literally, "purification on the day of the serpent." The ceremony was
+performed on the first day of the serpent in the third month. Genji had
+the ceremony performed while he was at Suma. The streamers were
+conventional Shinto offerings.
+</p></note>
+
+<note id="n29.17"><seg type="note-symbol">17. </seg> <p>A slightly modified quotation of the anonymous poem, no. 746 in the
+<hi rend="italic">Kokinsh&umacr;</hi>. It is also quoted in <hi rend="italic">Lady
+Han</hi>.
+</p></note>
+
+<note id="n29.18"><seg type="note-symbol">18.</seg> <p> The first part of a poem by Ki no Tomomori, no. 593 in the
+<hi rend="italic">Kokinsh&umacr;</hi>. The last two lines run: "When I wear it
+there is no instant when I do not long for him."
+</p></note>
+
+<note id="n30.19"><seg type="note-symbol">19.</seg> <p> The first part of an anonymous poem, no. 1023 in the
+<hi rend="italic">Kokinsh&umacr;</hi>. The last part runs: "Helpless, I stay in
+the middle of the bed."
+</p></note>
+
+<note id="n30.20"><seg type="note-symbol">20.</seg> <p> The river of the afterworld.
+</p></note>
+
+<note id="n31.21"><seg type="note-symbol">21.</seg> <p> A paraphrase of the poem by Yukihira, no. 365 in the
+<hi rend="italic">Kokinsh&umacr;</hi>. Another paraphrase is given in the
+following speech by Murasame, and the poem is given in its correct form
+below. In Japanese <hi rend="italic">matsu</hi> means both "pine
+tree" and "to wait.'
+</p></note>
+
+<note id="n31.22"><seg type="note-symbol">22.</seg> <p> The poem by Yukihira mentioned in note 21.
+</p></note>
+
+</div1>
+</back>
+</text>
+</TEI.2>
+
+
