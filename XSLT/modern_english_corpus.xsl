@@ -29,7 +29,7 @@
         <xsl:text>layout: </xsl:text><xsl:choose><xsl:when test="//div1[@type='play']">drama</xsl:when><xsl:when test="//div1[@type='poem'] or //div2[@type='poem']">poem</xsl:when><xsl:otherwise><xsl:text>narrative</xsl:text></xsl:otherwise></xsl:choose>
         <xsl:text>&#xa;</xsl:text>
         <xsl:choose>
-            <xsl:when test="contains(':','/descendant::sourceDesc/descendant::author/text()')"><xsl:text>author: >&#xa;    <xsl:value-of select="normalize-space(/descendant::sourceDesc/descendant::author/text())"/></xsl:text></xsl:when>
+            <xsl:when test="contains(':','/descendant::sourceDesc/descendant::author/text()')"><xsl:text>author: >&#xa;</xsl:text>    <xsl:value-of select="normalize-space(/descendant::sourceDesc/descendant::author/text())"/></xsl:when>
             <xsl:otherwise><xsl:text>author: </xsl:text><xsl:value-of select="normalize-space(/descendant::sourceDesc/descendant::author/text())"/></xsl:otherwise></xsl:choose> -->
         <xsl:text>&#xa;</xsl:text>
         <xsl:text>title: >&#xa;    </xsl:text>
